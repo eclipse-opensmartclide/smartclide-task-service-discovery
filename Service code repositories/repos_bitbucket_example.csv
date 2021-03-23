@@ -1,0 +1,295 @@
+Name of Sample Source Code,Description,Category,Source Code,AltRepository,Languages
+opensymphony/xwork,,repository,https://bitbucket.org/opensymphony/xwork.git,,java
+evzijst/git-tests,Git repo used for testing with pull requests and difficult merge scenarios.,repository,https://bitbucket.org/evzijst/git-tests.git,,
+rmanalan/chrome-confluence-activity-stream,,repository,https://bitbucket.org/rmanalan/chrome-confluence-activity-stream.git,,
+rmanalan/bdoc,,repository,https://bitbucket.org/rmanalan/bdoc.git,,ruby
+jschumacher/pac-release-plugin,,repository,https://bitbucket.org/jschumacher/pac-release-plugin.git,,java
+atlassian_tutorial/streams-jira-delete-issue-plugin,,repository,https://bitbucket.org/atlassian_tutorial/streams-jira-delete-issue-plugin.git,,java
+opensymphony/propertyset,,repository,https://bitbucket.org/opensymphony/propertyset.git,,java
+jwalton/metadata-confluence-plugin,,repository,https://bitbucket.org/jwalton/metadata-confluence-plugin.git,,java
+jwalton/git-scripts,,repository,https://bitbucket.org/jwalton/git-scripts.git,,shell
+opensymphony/webwork,,repository,https://bitbucket.org/opensymphony/webwork.git,,java
+christo/taleo-link-fix,greasemonkey script for fixing taleo notification links,repository,https://bitbucket.org/christo/taleo-link-fix.git,,javascript
+opensymphony/quartz,,repository,https://bitbucket.org/opensymphony/quartz.git,,java
+jwalton/opup,,repository,https://bitbucket.org/jwalton/opup.git,,java
+brodie/libgit2,,repository,https://bitbucket.org/brodie/libgit2.git,github.com/libgit2github.com/apigithub.com/libgit2github.com/libgit2github.com/libgit2github.com/libgit2github.com/libgit2github.com/libgit2github.com/libgit2github.com/libgit2github.com/tbranyengithub.com/str1ngsgithub.com/burdgesgithub.com/schacongithub.com/txdvgithub.com/letolabsgithub.com/norm2782,c
+tarkasteve/anode,,repository,https://bitbucket.org/tarkasteve/anode.git,,java
+mrdon/jira4-compat,JIRA 4 compatibility library for JIRA 5 plugins,repository,https://bitbucket.org/mrdon/jira4-compat.git,,java
+szechyjs/lockshop,,repository,https://bitbucket.org/szechyjs/lockshop.git,,ruby
+evzijst/git,,repository,https://bitbucket.org/evzijst/git.git,,
+puffnfresh/jreversepro,JReversePro Java Decompiler,repository,https://bitbucket.org/puffnfresh/jreversepro.git,,java
+detkin/coffee-script,world world world world CHANGES CHANGES CHANGES CHANGES dsfasd o more more more,repository,https://bitbucket.org/detkin/coffee-script.git,github.com/jashkenasgithub.com/jashkenasgithub.com/jashkenas,javascript
+mirror/pinax,Mirror of Pinax from https://github.com/pinax/pinax,repository,https://bitbucket.org/mirror/pinax.git,,python
+jpellerin/jinja2-mirror,Mirror of jinja2 from github,repository,https://bitbucket.org/jpellerin/jinja2-mirror.git,,python
+matteosister/sfpropelormtaggablebehaviorplugin,A behavior and a widget for symfony 1.x and propel 1.6 to tag your objects,repository,https://bitbucket.org/matteosister/sfpropelormtaggablebehaviorplugin.git,github.com/matteosister,php
+mirror/ant,Mirrored from http://git.apache.org/,repository,https://bitbucket.org/mirror/ant.git,,java
+mirror/werkzeug,Mirrored from https://github.com/mitsuhiko/werkzeug,repository,https://bitbucket.org/mirror/werkzeug.git,github.com/palletsgithub.com/pallets,python
+leafo/snake,,repository,https://bitbucket.org/leafo/snake.git,,lua
+leafo/moonscript,,repository,https://bitbucket.org/leafo/moonscript.git,,lua
+elmcitylabs/ecl-foursquare,,repository,https://bitbucket.org/elmcitylabs/ecl-foursquare.git,,python
+mirror/redis,Mirror of Redis from https://github.com/antirez/redis,repository,https://bitbucket.org/mirror/redis.git,github.com/antirezgithub.com/antirezgithub.com/antirez,c
+mirror/rails,Mirror of https://github.com/rails/rails,repository,https://bitbucket.org/mirror/rails.git,,ruby
+akakaffa/traveltales,A Map of Travel Tales,repository,https://bitbucket.org/akakaffa/traveltales.git,,javascript
+elmcitylabs/ecl-twitter,,repository,https://bitbucket.org/elmcitylabs/ecl-twitter.git,github.com/elmcitylabsgithub.com/elmcitylabs,python
+mirror/jquery,Mirrored from https://github.com/jquery/jquery,repository,https://bitbucket.org/mirror/jquery.git,github.com/engithub.com/gruntjsgithub.com/jquery,javascript
+elmcitylabs/ecl-facebook,,repository,https://bitbucket.org/elmcitylabs/ecl-facebook.git,github.com/elmcitylabsgithub.com/elmcitylabs,python
+elmcitylabs/ecl-tools,,repository,https://bitbucket.org/elmcitylabs/ecl-tools.git,,python
+elmcitylabs/ecl-google,,repository,https://bitbucket.org/elmcitylabs/ecl-google.git,,python
+yasirs/yard,,repository,https://bitbucket.org/yasirs/yard.git,github.com/ntamas,python
+djkool14/pyshipcommand,pyShipCommand is intended to be a persistent multiplayer SBS (Script Based Strategy) Game set in Space. There is no direct control over any of the units and the game progresses through Python AI Scripts written by each player. This allows the game to continue to run 24/7 without any direct player involvement.,repository,https://bitbucket.org/djkool14/pyshipcommand.git,,python
+elmcitylabs/ecl-django,,repository,https://bitbucket.org/elmcitylabs/ecl-django.git,,python
+avdg/phergie,,repository,https://bitbucket.org/avdg/phergie.git,github.com/phergie,
+mirror/apache-directory-studio,Mirrored from http://git.apache.org/,repository,https://bitbucket.org/mirror/apache-directory-studio.git,,java
+mirror/flask,Mirror of Flask from https://github.com/mitsuhiko/flask,repository,https://bitbucket.org/mirror/flask.git,github.com/palletsgithub.com/palletsgithub.com/pallets,python
+bdas/drupal2blosxom,Python scripts to migrate blog from Drupal to PyBlosxom,repository,https://bitbucket.org/bdas/drupal2blosxom.git,,python
+mirror/jinja2,Mirrored from https://github.com/mitsuhiko/jinja2,repository,https://bitbucket.org/mirror/jinja2.git,github.com/palletsgithub.com/pallets,python
+ald/quassel,,repository,https://bitbucket.org/ald/quassel.git,,
+qrees/test,,repository,https://bitbucket.org/qrees/test.git,,
+goozbach/planet.gooseproject.org,,repository,https://bitbucket.org/goozbach/planet.gooseproject.org.git,github.com/gooseproject,
+"gilsondev/personal_site,""Projeto feito para desenvolver o meu site, divulgando os meus dados profissionais, como também gerenciamento de briefings, blog e muito mais."",repository,https://bitbucket.org/gilsondev/personal_site.git,,python"
+mirror/cassandra,Mirrored from http://git.apache.org/,repository,https://bitbucket.org/mirror/cassandra.git,,java
+mbbx6spp/riak_core-templates,WIP: Rebar templates for a riak_core application. Still testing against the 1.0 branch of riak_core currently. Preparing for the #strangeloop talk I'm giving on building distributed systems around riak_core.,repository,https://bitbucket.org/mbbx6spp/riak_core-templates.git,github.com/bashogithub.com/basho,erlang
+goozbach/gooseproject-main,,repository,https://bitbucket.org/goozbach/gooseproject-main.git,github.com/gooseprojectgithub.com/gooseproject,
+mirror/linux,Mirror of Linux from kernel.org,repository,https://bitbucket.org/mirror/linux.git,,c
+jrgifford/icukes-website,The iCukes website,repository,https://bitbucket.org/jrgifford/icukes-website.git,github.com/mojombo,ruby
+tangzero/haml4j,Haml on a Java plataform,repository,https://bitbucket.org/tangzero/haml4j.git,github.com/tangzero,java
+"lkalif/singularityviewer,""Singularity Viewer is an exciting client for Second Life and OpenSim, which strives to combine the beloved look and feel of Viewer 1.23 with the latest and greatest of available technology, and to stay compatible with future Second Life changes and features. "",repository,https://bitbucket.org/lkalif/singularityviewer.git,,c++"
+k19k/go-gameboy,Game Boy emulator written in Go.,repository,https://bitbucket.org/k19k/go-gameboy.git,github.com/0xe2github.com/k19k,go
+sharyanto/perl-org-parser,Parse Org documents,repository,https://bitbucket.org/sharyanto/perl-org-parser.git,,perl
+tangzero/blog,My older personal blog,repository,https://bitbucket.org/tangzero/blog.git,,ruby
+mirror/git,Mirror of Git from http://github.com/gitster/git,repository,https://bitbucket.org/mirror/git.git,,c
+dcampos/batalha-naval,,repository,https://bitbucket.org/dcampos/batalha-naval.git,,java
+druid628/oddsthomas,,repository,https://bitbucket.org/druid628/oddsthomas.git,,php
+druid628/mapstog,,repository,https://bitbucket.org/druid628/mapstog.git,,java
+elibarzilay/eliemacs,Eli's Emacs Environment,repository,https://bitbucket.org/elibarzilay/eliemacs.git,github.com/elibarzilay,emacs lisp
+mirror/activemq,Mirrored from http://git.apache.org/,repository,https://bitbucket.org/mirror/activemq.git,,java
+mirror/apache-http-server,Mirrored from http://git.apache.org/,repository,https://bitbucket.org/mirror/apache-http-server.git,github.com/trawick,c
+sevas/sevas.github.com-mirror,,repository,https://bitbucket.org/sevas/sevas.github.com-mirror.git,,markdown
+jasondew/learnstat,learnSTAT -- course management software with a slight bent towards introductory statistics courses.,repository,https://bitbucket.org/jasondew/learnstat.git,,ruby
+"boriscyber/bonsaierp,""Sistema ERP sencillo para administrar Ingresos, Egresos e Inventarios"",repository,https://bitbucket.org/boriscyber/bonsaierp.git,github.com/me,ruby"
+delapsley/cybersecure,,repository,https://bitbucket.org/delapsley/cybersecure.git,,java
+dcampos/vimfiles,,repository,https://bitbucket.org/dcampos/vimfiles.git,,viml
+haldean/cm-sketches,,repository,https://bitbucket.org/haldean/cm-sketches.git,,
+edmcman/edmcmanpub,,repository,https://bitbucket.org/edmcman/edmcmanpub.git,,
+rouge8/pig,,repository,https://bitbucket.org/rouge8/pig.git,,python
+nucleoid/pdfcustomization,,repository,https://bitbucket.org/nucleoid/pdfcustomization.git,,c#
+eg03872n/pace-dining-application,,repository,https://bitbucket.org/eg03872n/pace-dining-application.git,,java
+mattnworb/hibernate-sample,,repository,https://bitbucket.org/mattnworb/hibernate-sample.git,,
+"advance38/subtitleeditor-sami,""A plug-in for subtitleeditor, for sami (*.smi) subtitle format. See http://home.gna.org/subtitleeditor/ for more information."",repository,https://bitbucket.org/advance38/subtitleeditor-sami.git,github.com/advance38,c"
+encukou/lastscrape-gui,,repository,https://bitbucket.org/encukou/lastscrape-gui.git,,
+wyatt/pyramid_restler,RESTful routes and views for Pyramid,repository,https://bitbucket.org/wyatt/pyramid_restler.git,,python
+brunofr/onemq,A distributed RESTful queueing service,repository,https://bitbucket.org/brunofr/onemq.git,,javascript
+"brunofr/nodus,""Event-driven I/O framework for building HTTP servers, ala node.js"",repository,https://bitbucket.org/brunofr/nodus.git,,java"
+brunofr/mmd-latex,Multimarkdown Latex support files,repository,https://bitbucket.org/brunofr/mmd-latex.git,github.com/fletcher,latex
+brunofr/emacs-init,My old emacs pre-24 init files (see dot-emacs-d for Emacs 24),repository,https://bitbucket.org/brunofr/emacs-init.git,github.com/technomancygithub.com/technomancy,emacs lisp
+brunofr/euler,Solutions in Clojure to Project Euler's math problems,repository,https://bitbucket.org/brunofr/euler.git,,clojure
+nucleoid/template-project,,repository,https://bitbucket.org/nucleoid/template-project.git,,c#
+brunofr/cibeles,Petri net execution engine for Java and C#,repository,https://bitbucket.org/brunofr/cibeles.git,,java
+cajun_code/demo_app,Demo application out of rails tutorial,repository,https://bitbucket.org/cajun_code/demo_app.git,,ruby
+mirror/apache-directory-server,Mirrored from http://git.apache.org/,repository,https://bitbucket.org/mirror/apache-directory-server.git,,java
+brunofr/caffeine,An embedded JVM for the .NET CLR,repository,https://bitbucket.org/brunofr/caffeine.git,,c#
+"chuckg/cginvite,""Add add-on for World of Warcraft, cgInvite provides a simple interface for conducting raid invites."",repository,https://bitbucket.org/chuckg/cginvite.git,,lua"
+allait/dotfiles,My config files.,repository,https://bitbucket.org/allait/dotfiles.git,github.com/allait,viml
+chuckg/cgcrafty,A World of Warcraft add-on that brings search functionality to your crafting/tradeskill windows.,repository,https://bitbucket.org/chuckg/cgcrafty.git,,lua
+brunofr/mitsim,MIT's Traffic Simulation Laboratory,repository,https://bitbucket.org/brunofr/mitsim.git,,c++
+chuckg/truecolors,An add-on for World of Wacraft that restores the sexy turquoise to shamans. ,repository,https://bitbucket.org/chuckg/truecolors.git,,lua
+"chuckg/moveframes,""An add-on for World of Warcraft, moveFrames enables you to move components of your interface anywhere you'd like. "",repository,https://bitbucket.org/chuckg/moveframes.git,,lua"
+ilardm/bfi,brainf*k C interpreter,repository,https://bitbucket.org/ilardm/bfi.git,,c
+jpravetz/fb45-parsley-module-example,,repository,https://bitbucket.org/jpravetz/fb45-parsley-module-example.git,,actionscript
+"chuckg/mumble,""An add-on for World of Warcraft, mumble is a collection of enhancements for the chat interface."",repository,https://bitbucket.org/chuckg/mumble.git,,lua"
+hamiltont/reddit-is-fun,,repository,https://bitbucket.org/hamiltont/reddit-is-fun.git,github.com/talklittle,java
+kylef/znc,,repository,https://bitbucket.org/kylef/znc.git,github.com/znc,c++
+justinpeel/peel,My public repo.,repository,https://bitbucket.org/justinpeel/peel.git,,python
+jacobgroundwater/sofia.js,A Node.js application,repository,https://bitbucket.org/jacobgroundwater/sofia.js.git,,javascript
+brynjar/timedreb2erl,Timed Rebeca to Erlang Translation Tool,repository,https://bitbucket.org/brynjar/timedreb2erl.git,,haskell
+"gnosislabs/golb,""The blogging, reversed."",repository,https://bitbucket.org/gnosislabs/golb.git,,ruby"
+chuckg/dircmp,Directory content comparison circa 1999. ,repository,https://bitbucket.org/chuckg/dircmp.git,,php
+scalding/node-mongoskin,,repository,https://bitbucket.org/scalding/node-mongoskin.git,,
+dc/django-tastypie,,repository,https://bitbucket.org/dc/django-tastypie.git,github.com/toastdriven,
+gyordanov/smart-todo.el,,repository,https://bitbucket.org/gyordanov/smart-todo.el.git,,emacs lisp
+chuckg/rcfiles,Collection of my kludgy rcfiles.,repository,https://bitbucket.org/chuckg/rcfiles.git,github.com/chuckg,shell
+alien8/django-cms-html5-1140px-boilerplate,,repository,https://bitbucket.org/alien8/django-cms-html5-1140px-boilerplate.git,,shell
+hey_lu/confidence,An essay about what $HOME is.,repository,https://bitbucket.org/hey_lu/confidence.git,,shell
+informedindividual/ii-oikos-android,,repository,https://bitbucket.org/informedindividual/ii-oikos-android.git,,java
+informedindividual/ii-reg-maemo-client,,repository,https://bitbucket.org/informedindividual/ii-reg-maemo-client.git,,c#
+tscho/cpsc501as3,java (de)serialization,repository,https://bitbucket.org/tscho/cpsc501as3.git,,java
+mpmont/codeigniter-pt-user-guide,CodeIgniter user-guide translation to Portuguese ,repository,https://bitbucket.org/mpmont/codeigniter-pt-user-guide.git,,html/css
+"Aiiane/pluss,""Plus Syndication - an Atom feed proxy for Google+ public post streams, powered by Tornado."",repository,https://bitbucket.org/Aiiane/pluss.git,github.com/russellbeattiegithub.com/ayust,python"
+"chadmaughan/cs6890-android,""Utah State University, CS6890 - Android, Vladimir Kulyukin, Fall 2011 http://vkedco.blogspot.com"",repository,https://bitbucket.org/chadmaughan/cs6890-android.git,,java"
+kpykc/cw-lg_zero_shift,ring laser gyro parametrs zero-shift dependency,repository,https://bitbucket.org/kpykc/cw-lg_zero_shift.git,github.com/kpykcgithub.com/kpykc,matlab
+bogdano/jurt,Jurt builds packages in a clear root,repository,https://bitbucket.org/bogdano/jurt.git,,python
+johnweems/openproject,,repository,https://bitbucket.org/johnweems/openproject.git,,coldfusion
+daveeed/wonder-fork,Wonder Fork,repository,https://bitbucket.org/daveeed/wonder-fork.git,,java
+anghyflawn/ottablx-extras,,repository,https://bitbucket.org/anghyflawn/ottablx-extras.git,,latex
+tsoporan/dotfiles,my dotfiles.,repository,https://bitbucket.org/tsoporan/dotfiles.git,,
+blueshamrock/cggsonadaptor,,repository,https://bitbucket.org/blueshamrock/cggsonadaptor.git,,java
+rjw57/hashstream,,repository,https://bitbucket.org/rjw57/hashstream.git,,c++
+informedindividual/innsikt,ii register android client,repository,https://bitbucket.org/informedindividual/innsikt.git,,java
+anghyflawn/cv-maker,,repository,https://bitbucket.org/anghyflawn/cv-maker.git,,common lisp
+anghyflawn/bothoa-parser,,repository,https://bitbucket.org/anghyflawn/bothoa-parser.git,,common lisp
+vii/dotfiles,Personal config files,repository,https://bitbucket.org/vii/dotfiles.git,,shell
+jdawson/jqueryplugins,jQuery Examples,repository,https://bitbucket.org/jdawson/jqueryplugins.git,,javascript
+dglaser/testing,,repository,https://bitbucket.org/dglaser/testing.git,,ruby
+rjw57/cloudsync,,repository,https://bitbucket.org/rjw57/cloudsync.git,,c++
+"dpflug/dotfiles,""Just my dotfiles, nothing special."",repository,https://bitbucket.org/dpflug/dotfiles.git,,"
+ne_sachirou/spinornetwork,Crain SpinorNetwork source,repository,https://bitbucket.org/ne_sachirou/spinornetwork.git,,ruby
+tailhook/zerogw,A fast HTTP/Websocket to zerogw gateway,repository,https://bitbucket.org/tailhook/zerogw.git,github.com/tailhookgithub.com/tailhook,c
+DieLaughing/f-script-anywhere,A small fix to get F-Script working on my Mac OS Lion system,repository,https://bitbucket.org/DieLaughing/f-script-anywhere.git,,shell
+neloe/pyvrcc3d,Python implementation of the vrcc3d framework,repository,https://bitbucket.org/neloe/pyvrcc3d.git,,python
+dpflug/sher,Django app for sharing social media,repository,https://bitbucket.org/dpflug/sher.git,github.com/UdderWeb,python
+imapsync/imapsync,,repository,https://bitbucket.org/imapsync/imapsync.git,github.com/nicolas33,perl
+clon07/gfdgfd,gfgfsdgfsdgfsdgfds,repository,https://bitbucket.org/clon07/gfdgfd.git,,html/css
+aurelian/ti10d,,repository,https://bitbucket.org/aurelian/ti10d.git,,c
+kumbach/snacksrgooder,We need even better snacks for everyone.,repository,https://bitbucket.org/kumbach/snacksrgooder.git,,
+dpflug/gmap,Django app to display a Google Map with markers,repository,https://bitbucket.org/dpflug/gmap.git,,python
+puffnfresh/cloud9-userscript,Extend the Cloud9 editor with a client-side script.,repository,https://bitbucket.org/puffnfresh/cloud9-userscript.git,github.com/pufuwozu,javascript
+jmcastagnetto/math_trascendentalnumber,,repository,https://bitbucket.org/jmcastagnetto/math_trascendentalnumber.git,,php
+sirkitree/stripe,clone of some work I'm doing to gain integration of Stripe with Drupal ,repository,https://bitbucket.org/sirkitree/stripe.git,,php
+ialcazar/nodejs-examples,Some Node JS Examples,repository,https://bitbucket.org/ialcazar/nodejs-examples.git,,javascript
+dmitrijs/lab01-events,,repository,https://bitbucket.org/dmitrijs/lab01-events.git,,java
+rit/abacus,Helper library for Tornado web framework,repository,https://bitbucket.org/rit/abacus.git,,python
+puffnfresh/hnchumby,A Hacker News client for Chumby.,repository,https://bitbucket.org/puffnfresh/hnchumby.git,,actionscript
+puffnfresh/scander,Single file PHP remote administration,repository,https://bitbucket.org/puffnfresh/scander.git,,php
+lsegal/yard,YARD (Yay! A Documentation Tool) is a documentation tool for the Ruby programming language.,repository,https://bitbucket.org/lsegal/yard.git,github.com/lsegalgithub.com/lsegalgithub.com/lsegal,ruby
+puffnfresh/fiery-biscuits,An entry for PyWeek,repository,https://bitbucket.org/puffnfresh/fiery-biscuits.git,,python
+puffnfresh/sicp-exercises,Structure and Interpretation of Computer Programs Exercises (in Scheme),repository,https://bitbucket.org/puffnfresh/sicp-exercises.git,,scheme
+puffnfresh/awsom,Implemenation of a Self-Organising Map using Python,repository,https://bitbucket.org/puffnfresh/awsom.git,,python
+elmcitylabs/goodiebag,,repository,https://bitbucket.org/elmcitylabs/goodiebag.git,,python
+puffnfresh/node-webgl,WebGL addon for node.js,repository,https://bitbucket.org/puffnfresh/node-webgl.git,github.com/pufuwozu,c++
+puffnfresh/blank_page,2010 entry into http://pyweek.org/,repository,https://bitbucket.org/puffnfresh/blank_page.git,,python
+molson/geocell-java,Geocell implementation for Java with GWT wrappers.,repository,https://bitbucket.org/molson/geocell-java.git,,java
+bigbash/longurl,,repository,https://bitbucket.org/bigbash/longurl.git,,php
+kendfinger/git-google,,repository,https://bitbucket.org/kendfinger/git-google.git,,shell
+imoseyon/charge-gb-kernel-repack,,repository,https://bitbucket.org/imoseyon/charge-gb-kernel-repack.git,,c
+terryk2/swanson-android,Ron F***in' Swanson Android app,repository,https://bitbucket.org/terryk2/swanson-android.git,,
+jhaberstro/cs4-project,CS4 class project,repository,https://bitbucket.org/jhaberstro/cs4-project.git,,c++
+jtrim/dotfiles,,repository,https://bitbucket.org/jtrim/dotfiles.git,,
+netroby/fastem,fastem is ads management,repository,https://bitbucket.org/netroby/fastem.git,,php
+jmcastagnetto/math_statindex,,repository,https://bitbucket.org/jmcastagnetto/math_statindex.git,,php
+aeron/django-scheduled-mailer,A reusable Django app for queuing and scheduling the sending of email. Django-mailer (by James Tauber) fork. Mirror for https://github.com/Aeron/django-mailer,repository,https://bitbucket.org/aeron/django-scheduled-mailer.git,,python
+tim_heap/.dot-files,,repository,https://bitbucket.org/tim_heap/.dot-files.git,,shell
+"yizhang84/riotfusion,""Code for our VLDB 2012 paper """"Optimizing I/O for Big Array Analytics"""" http://vldb.org/pvldb/vol5/p764_yizhang_vldb2012.pdf"",repository,https://bitbucket.org/yizhang84/riotfusion.git,,python"
+bcarter/sinatra-template,base Sinatra Template,repository,https://bitbucket.org/bcarter/sinatra-template.git,,ruby
+davefp/life-dial,Magic: The Gathering life tracker app for Android,repository,https://bitbucket.org/davefp/life-dial.git,,java
+jmcastagnetto/pear2_math_trigonometry,,repository,https://bitbucket.org/jmcastagnetto/pear2_math_trigonometry.git,,php
+saiten/radikker,radiko + twitter = radikker,repository,https://bitbucket.org/saiten/radikker.git,github.com/psychs,objective-c
+volrath/aigames,Game project with pygame and py-opengl,repository,https://bitbucket.org/volrath/aigames.git,,python
+daisuke-shimada/dotfiles,,repository,https://bitbucket.org/daisuke-shimada/dotfiles.git,,
+"severeon/html2js,""A simple tool that converts any valid HTML to a series of JavaScript statements. Output can either be raw JavaScript (document.write) or jQuery statements. Levels of verbosity can be selected, ranging from simply writing the HTML line by line, to creating new DOM elements, adding classes and IDs, etc."",repository,https://bitbucket.org/severeon/html2js.git,,javascript"
+csaunders/todoodl,Presentation & Application Code for Android TO 2011,repository,https://bitbucket.org/csaunders/todoodl.git,github.com/weavejestergithub.com/technomancy,clojure
+jmcastagnetto/pear_math_complex,,repository,https://bitbucket.org/jmcastagnetto/pear_math_complex.git,,php
+ragesh4u/rebuild-plugin,This is my first project for Jenkins and later maintained by Shemeer,repository,https://bitbucket.org/ragesh4u/rebuild-plugin.git,,java
+ariya/phantomjs,PhantomJS is a headless WebKit with JavaScript API.,repository,https://bitbucket.org/ariya/phantomjs.git,github.com/ariyagithub.com/ariya,c++
+jmcastagnetto/pear_math_integer,,repository,https://bitbucket.org/jmcastagnetto/pear_math_integer.git,,php
+jmcastagnetto/pear_math_stats,,repository,https://bitbucket.org/jmcastagnetto/pear_math_stats.git,,
+jmcastagnetto/pear_math_vector,,repository,https://bitbucket.org/jmcastagnetto/pear_math_vector.git,,
+dine909/com.dinamoproductions.wowow,,repository,https://bitbucket.org/dine909/com.dinamoproductions.wowow.git,,
+jmcastagnetto/pear_math_matrix,,repository,https://bitbucket.org/jmcastagnetto/pear_math_matrix.git,,php
+jmcastagnetto/pear_math_trigop,,repository,https://bitbucket.org/jmcastagnetto/pear_math_trigop.git,,
+jmcastagnetto/pear_math_quaternion,,repository,https://bitbucket.org/jmcastagnetto/pear_math_quaternion.git,,php
+jmcastagnetto/pear_science_chemistry,,repository,https://bitbucket.org/jmcastagnetto/pear_science_chemistry.git,,php
+dekz/dcrypt,,repository,https://bitbucket.org/dekz/dcrypt.git,,coffeescript
+imoseyon/gtab-7-gb-kernel-repack,,repository,https://bitbucket.org/imoseyon/gtab-7-gb-kernel-repack.git,,c
+jmcastagnetto/pear_message,,repository,https://bitbucket.org/jmcastagnetto/pear_message.git,,php
+ragesh4u/gerrit-trigger-plugin,Internal fork of Jenkins Plugin by R Sandell,repository,https://bitbucket.org/ragesh4u/gerrit-trigger-plugin.git,,java
+jmcastagnetto/pear_math_histogram,,repository,https://bitbucket.org/jmcastagnetto/pear_math_histogram.git,,php
+jmcastagnetto/pear_math_fibonacci,,repository,https://bitbucket.org/jmcastagnetto/pear_math_fibonacci.git,,php
+ceol/pypkm,A Pokémon file (.pkm) manipulation utility written in Python.,repository,https://bitbucket.org/ceol/pypkm.git,github.com/ceol,python
+"duper/combinatorics,""A collection of modules and methods for performing Combinatoric calculations. Methods are defined to compute power sets, cartesian products, permutations, combinations, and derangements. Note: this includes k-combinations and k-permutations, i.e. only generating resultant sets of a given size. Each set theory operation method supports block arguments to allow continuous code execution during the combinatoric set generation process. Each combinatoric operation implementation also supports a cardinality or len method which determines the total number of subsets that will be created beforehand (to aid in the avoidance of starting an operation which will never complete due to exponential computational complexity.)"",repository,https://bitbucket.org/duper/combinatorics.git,github.com/postmoderngithub.com/postmodern,ruby"
+xdandroid/rootfs,XDAndroid root filesystem.,repository,https://bitbucket.org/xdandroid/rootfs.git,,
+manusubramanian/testgit,,repository,https://bitbucket.org/manusubramanian/testgit.git,,
+tenderlove/nokogiri,nokogiri,repository,https://bitbucket.org/tenderlove/nokogiri.git,github.com/tenderlovegithub.com/tenderlovegithub.com/tenderlovegithub.com/tenderlovegithub.com/tenderlovegithub.com/tenderlovegithub.com/tenderlovegithub.com/tenderlovegithub.com/tenderlovegithub.com/tenderlove,
+"chadmaughan/cs6890-web,""Utah State University, CS6890 - Web Development, Kenneth Sundberg, Spring 2011"",repository,https://bitbucket.org/chadmaughan/cs6890-web.git,,c++"
+marioaquino/gol-coffeescript,,repository,https://bitbucket.org/marioaquino/gol-coffeescript.git,,coffeescript
+byteit101/zomb-dashboard-system-git,Dashboard system for FRC teams (git mirror) hg mirror at https://bitbucket.org/byteit101/zomb-dashboard-system,repository,https://bitbucket.org/byteit101/zomb-dashboard-system-git.git,,c#
+"sandeepadhikari/cyberstorm-hackfest,""This is hackfest, the infrastructure for a network security competition which was held on May 7, 2010 at Louisiana Tech University"",repository,https://bitbucket.org/sandeepadhikari/cyberstorm-hackfest.git,github.com/hackfestgithub.com/,"
+liangyongning/ascommlib,ActionScript Common Library,repository,https://bitbucket.org/liangyongning/ascommlib.git,,actionscript
+sandeepadhikari/dotfiles,My configuration files for ubuntu,repository,https://bitbucket.org/sandeepadhikari/dotfiles.git,,shell
+madgeekfiend/pastr,The pastr app on heroku.,repository,https://bitbucket.org/madgeekfiend/pastr.git,,ruby
+danap/osx-aws-toolkit,A port of the Amazon iOS WS Framework to plan old OS X. ,repository,https://bitbucket.org/danap/osx-aws-toolkit.git,,objective-c
+xdandroid/frameworks_base,XDAndroid fork of upstream AOSP project.,repository,https://bitbucket.org/xdandroid/frameworks_base.git,,java
+cwtong/testjava,Testing with some Java projects,repository,https://bitbucket.org/cwtong/testjava.git,,java
+leaonfm/webpy,,repository,https://bitbucket.org/leaonfm/webpy.git,,python
+dreamsocket/dreamsocket-actionscript_analytics,,repository,https://bitbucket.org/dreamsocket/dreamsocket-actionscript_analytics.git,,actionscript
+hondam/hondam,,repository,https://bitbucket.org/hondam/hondam.git,,javascript
+"chadmaughan/cs5460-security,""Utah State University, CS5460 - Computer Security, Ming Li, Fall 2011"",repository,https://bitbucket.org/chadmaughan/cs5460-security.git,,c++"
+jao/geiser,,repository,https://bitbucket.org/jao/geiser.git,,scheme
+pgscully/cacti-isp-quota,,repository,https://bitbucket.org/pgscully/cacti-isp-quota.git,,python
+jongartman/spf13-vim,This is a fork of spf13 Ultimate Vim Config,repository,https://bitbucket.org/jongartman/spf13-vim.git,github.com/spf13github.com/spf13github.com/spf13github.com/msandersgithub.com/scrooloosegithub.com/scrooloosegithub.com/tpopegithub.com/Raimondigithub.com/msandersgithub.com/spf13github.com/spf13,
+jburris/clotris,My attempted rewrite of the tetris clojure implementation from http://codethat.wordpress.com/2011/09/10/writing-tetris-in-clojure/ Now with more git!,repository,https://bitbucket.org/jburris/clotris.git,,clojure
+ryands/imghost,Clone of the same project by me on github.,repository,https://bitbucket.org/ryands/imghost.git,,python
+firedead/pythonwtf,WTF,repository,https://bitbucket.org/firedead/pythonwtf.git,,python
+"firedead/jabbot,""Simple framework for creating Jabber/MUC bots, inspired by Sinatra and Twibot "",repository,https://bitbucket.org/firedead/jabbot.git,,ruby"
+dmedvinsky/gsimplecal,Mirror of the official gsimplecal repo,repository,https://bitbucket.org/dmedvinsky/gsimplecal.git,,c++
+lastkarrde/qtwebkit-examples,Various scripts showing functionality of the PySide implementation of QtWebkit.,repository,https://bitbucket.org/lastkarrde/qtwebkit-examples.git,,python
+sgirish/test,,repository,https://bitbucket.org/sgirish/test.git,,python
+plumbum/ttgui,TT GUI (Tuxotronic's GUI) - this is a simple implementation of a Graphical User Interface for use in microcontroller devices.,repository,https://bitbucket.org/plumbum/ttgui.git,,c
+tmitz/dotfile,,repository,https://bitbucket.org/tmitz/dotfile.git,,viml
+"laurenceputra/cs1010-2011-s1,""The code here is MY code for CS1010, created in my personal capacity. This is NOT official. If there is a bug please inform me. Thanks"",repository,https://bitbucket.org/laurenceputra/cs1010-2011-s1.git,,c"
+vasaka/browny-reloaded,Resurrection of old game of mine on a whole new level. Now thousands of self-gravitating particles to form environment and objects. Code is licensed under GPLv3 or later.,repository,https://bitbucket.org/vasaka/browny-reloaded.git,,c++
+revan12/dumfish,,repository,https://bitbucket.org/revan12/dumfish.git,,
+petrochenko_pavel_a/testrepo,e,repository,https://bitbucket.org/petrochenko_pavel_a/testrepo.git,,java
+dustinmasters/cosc4303-group-project,The group project by members of the Software Engineering class of Fall 2011.,repository,https://bitbucket.org/dustinmasters/cosc4303-group-project.git,,java
+zdenal/sharedmemory,,repository,https://bitbucket.org/zdenal/sharedmemory.git,,php
+H3n0xek/diario-extras,Additional applications for Django Diario weblog framework.,repository,https://bitbucket.org/H3n0xek/diario-extras.git,,python
+AntiGameZ/oopsgit,Git for Fun,repository,https://bitbucket.org/AntiGameZ/oopsgit.git,,c#
+ikerib/uda,Herramienta de autor para el Apoyo a la Formación,repository,https://bitbucket.org/ikerib/uda.git,,php
+mystic-mirage/mayanc,This project is deprecated. If you interested in Maya Date calculation use python-mayadate (https://github.com/Mystic-Mirage/python-mayadate),repository,https://bitbucket.org/mystic-mirage/mayanc.git,,python
+vgl_iisc/mscomplex-3d,3d mscomplexes,repository,https://bitbucket.org/vgl_iisc/mscomplex-3d.git,,
+netlemur/nightlist,,repository,https://bitbucket.org/netlemur/nightlist.git,,javascript
+csaken/distributed-flame,,repository,https://bitbucket.org/csaken/distributed-flame.git,,c++
+"jvorhauer/lucene-scala,""An attempt to create a DDD basis on Lucene indexes as storage (I know, sounds a bit distorted)."",repository,https://bitbucket.org/jvorhauer/lucene-scala.git,,scala"
+lolnic/channel-3,A data manipulation program written for my father.,repository,https://bitbucket.org/lolnic/channel-3.git,,c++
+avhacker/tesseract,Tesseract OCR project. Branched from http://code.google.com/p/tesseract-ocr/ r625(http://code.google.com/p/tesseract-ocr/source/detail?r=625),repository,https://bitbucket.org/avhacker/tesseract.git,,c++
+cldrn/nmap-dev,My Nmap development sandbox. Feel free to play around with things and send me your comments.,repository,https://bitbucket.org/cldrn/nmap-dev.git,,lua
+jbellmann/test,Simple Test-Repository to see what Bitbucket offers with Git.,repository,https://bitbucket.org/jbellmann/test.git,,java
+smokey42/dotfiles,~/.*,repository,https://bitbucket.org/smokey42/dotfiles.git,github.com/smokey42,
+abelsey/sparklines,Custom view for iOS apps implementing Edward Tufte's sparkline concept.,repository,https://bitbucket.org/abelsey/sparklines.git,github.com/abelsey,objective-c
+s4l1h/test-git-project,Test Project,repository,https://bitbucket.org/s4l1h/test-git-project.git,,php
+grubix/git,This repo hosts my humble attempts at contributing to the best vcs around.,repository,https://bitbucket.org/grubix/git.git,github.com/git,c
+dandanx/androidsnippets,,repository,https://bitbucket.org/dandanx/androidsnippets.git,,java
+ozgurkuru/tools,,repository,https://bitbucket.org/ozgurkuru/tools.git,,python
+"MarijnKoesen/php-kindle-collections,""This script makes creating and managing collections on your kindle as easy as creating folders on your kindle and placing documents in them. This script reads the directories and creates the collections on your kindle, saving a lot of hussle and time :)"",repository,https://bitbucket.org/MarijnKoesen/php-kindle-collections.git,,"
+MarijnKoesen/wordpress-vim-plugin,Write and edit wordpress posts from within VIM!,repository,https://bitbucket.org/MarijnKoesen/wordpress-vim-plugin.git,,
+ivanp80/stoplespubs,,repository,https://bitbucket.org/ivanp80/stoplespubs.git,,php
+tapir/asnippets,Just some actionscript code snippets,repository,https://bitbucket.org/tapir/asnippets.git,,actionscript
+patrikryd/manifest,My own Android manifests,repository,https://bitbucket.org/patrikryd/manifest.git,,xml
+"a_alfredo/vagrant-instance,""A Vagrant configuration for a Python-centric machine, largely based on https://github.com/theteam/vagrant-django-template I use this machine for doing some development bits that don't require a single instance."",repository,https://bitbucket.org/a_alfredo/vagrant-instance.git,github.com/theteamgithub.com/alfredo,java"
+jredrejo/labels-for-pyfpdf,,repository,https://bitbucket.org/jredrejo/labels-for-pyfpdf.git,,python
+sndyuk/snippets,,repository,https://bitbucket.org/sndyuk/snippets.git,,java
+mahesharandara/hackerhub,,repository,https://bitbucket.org/mahesharandara/hackerhub.git,,javascript
+Romiras/printer-supplies-manager,PrinterSuppliesManager allows to monitor and manage a printer supplies in small business. This project is my first experience of building Ruby on Rails application.,repository,https://bitbucket.org/Romiras/printer-supplies-manager.git,,ruby
+yudun1989/avmash,avmash,repository,https://bitbucket.org/yudun1989/avmash.git,,python
+Pilatuz/omni,small C++ library,repository,https://bitbucket.org/Pilatuz/omni.git,,c++
+leetneko/vim,Backup vim config ,repository,https://bitbucket.org/leetneko/vim.git,,viml
+loverdos/mytex,A script from the old days of iso8859-7 and TeX's inability to handle greek in a decent way.,repository,https://bitbucket.org/loverdos/mytex.git,,perl
+hacklab/jabber-server-monitor,,repository,https://bitbucket.org/hacklab/jabber-server-monitor.git,,
+h0rnet/office-net-billing,,repository,https://bitbucket.org/h0rnet/office-net-billing.git,,php
+adaptiweb/java-utils,,repository,https://bitbucket.org/adaptiweb/java-utils.git,,java
+dave1010/taskthere,Location-based task management,repository,https://bitbucket.org/dave1010/taskthere.git,,html/css
+maurotrb/sofobomo2011,Latex files to create the photo book for SoFoBoMo 2011.,repository,https://bitbucket.org/maurotrb/sofobomo2011.git,,latex
+maurotrb/photos4web,Rake tasks to create photo thumbnails for the web.,repository,https://bitbucket.org/maurotrb/photos4web.git,,ruby
+"MikeJansen/jclp-fork,""{{ THIS FORK IS OBSOLETE. PLEASE SEE THE OFFICIAL PLUGIN PROJECT }} Fork of JIRA Create and Link Plugin, mainly to get it working for JIRA 4.4."",repository,https://bitbucket.org/MikeJansen/jclp-fork.git,,java"
+joshua.adelman/pyqcprot,Python implementation of the fast rmsd and optimal rotation matrix method by Douglas Theobald and Pu Liu,repository,https://bitbucket.org/joshua.adelman/pyqcprot.git,,python
+advance38/gmailfs,,repository,https://bitbucket.org/advance38/gmailfs.git,,python
+"rrezzik/proj-euler-clojure,""My solutions to some Project Euler problems, in Clojure. "",repository,https://bitbucket.org/rrezzik/proj-euler-clojure.git,,clojure"
+dominikschwind/twitter-link-feed,,repository,https://bitbucket.org/dominikschwind/twitter-link-feed.git,,php
+joshua.adelman/pylangevin-integrator,2nd order Langevin integrator written in cython/python,repository,https://bitbucket.org/joshua.adelman/pylangevin-integrator.git,,python
+ctron/org.openscada.utgard,,repository,https://bitbucket.org/ctron/org.openscada.utgard.git,,java
+advance38/ceph-kclient,,repository,https://bitbucket.org/advance38/ceph-kclient.git,,c
+ctron/org.openscada.external,,repository,https://bitbucket.org/ctron/org.openscada.external.git,,java
+loverdos/libreadline-java-mac,Mac compilation for libreadline-java. See README.Mac for credits.,repository,https://bitbucket.org/loverdos/libreadline-java-mac.git,,c
+adaptiweb/gwt-utils,,repository,https://bitbucket.org/adaptiweb/gwt-utils.git,,java
+simpzan/codesnippets,,repository,https://bitbucket.org/simpzan/codesnippets.git,,objective-c
+causingeffect/ce-gravatar,Facilitates the use of Gravatar images in ExpressionEngine templates.,repository,https://bitbucket.org/causingeffect/ce-gravatar.git,,php
+chauncey/dotfiles,,repository,https://bitbucket.org/chauncey/dotfiles.git,,
+causingeffect/ce-benchmark,For developers to benchmark anything with {exp:...} tags,repository,https://bitbucket.org/causingeffect/ce-benchmark.git,,php
+causingeffect/ce-validation,Allows CodeIgniter form validation callbacks to work in ExpressionEngine templates,repository,https://bitbucket.org/causingeffect/ce-validation.git,,php
+alvrSG/cpanel-backup,,repository,https://bitbucket.org/alvrSG/cpanel-backup.git,,php
+advance38/matthewsshellconfig,,repository,https://bitbucket.org/advance38/matthewsshellconfig.git,github.com/joeltheliongithub.com/forkinggithub.com/jcorbingithub.com/31631github.com/52689github.com/787142github.com/training,shell
+"alpino/alpino,""The Alpino parser for Dutch (public mirror). Please do not clone this repository, but download the latest bootstrap repository from: http://www.let.rug.nl/dekok/bootstrap"",repository,https://bitbucket.org/alpino/alpino.git,,c++"
+ctron/org.openscada.documentation,,repository,https://bitbucket.org/ctron/org.openscada.documentation.git,,
+ctron/org.openscada.oxygen,,repository,https://bitbucket.org/ctron/org.openscada.oxygen.git,,java
+ctron/org.openscada.othala,,repository,https://bitbucket.org/ctron/org.openscada.othala.git,,java
+"rmwcs/sequin,""Commands to list, test and modify file sequences"",repository,https://bitbucket.org/rmwcs/sequin.git,,"
+ctron/org.openscada.aurora,,repository,https://bitbucket.org/ctron/org.openscada.aurora.git,,java
