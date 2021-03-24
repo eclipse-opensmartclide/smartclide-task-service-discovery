@@ -1,5 +1,3 @@
 # smartclide-task-service-discovery
 
-![smartclide-task-service-discovery](https://socialify.git.ci/eclipse-researchlabs/smartclide-task-service-discovery/image?language=1&owner=1&theme=Light)
-
-This repository is to centralise the data while working internally, the files are experimental and can undergo major changes. 
+![smartclide-task-service-discovery](https://socialify.git.ci/eclipse-researchlabs/smartclide-task-service-discovery/image?description=1&descriptionEditable=This%20repository%20is%20to%20centralise%20the%20data%20while%20working%20internally%2C%20the%20files%20are%20experimental%20and%20can%20undergo%20major%20changes.%20&language=1&owner=1&pattern=Brick%20Wall&theme=Light)
