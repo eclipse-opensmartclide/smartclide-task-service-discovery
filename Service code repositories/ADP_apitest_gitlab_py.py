@@ -16,7 +16,7 @@ with open('repos_gitlab_example.csv', 'w', newline='',encoding="utf-8") as csvfi
             print(page)
             url = f"https://gitlab.com/api/v4/search?scope=projects&search={keyword}&per_page=100&page={page}"
             headers = {
-                'Authorization': 'Bearer sfszpSxeLYy33gLNyJQ3'
+                'Authorization': 'Redacted' ## 
             }
             dfs = []
             response = requests.request("GET", url, headers=headers)
