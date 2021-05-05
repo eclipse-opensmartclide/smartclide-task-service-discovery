@@ -1,33 +1,23 @@
-import subprocess
-import requests
+# -*- coding: utf-8-sig -*-
+import subprocess, requests, re, concurrent.futures
 from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
-import re
 
-# Mas filtros: 
-# https://docs.docker.com/engine/reference/commandline/search/#filtering
-
-#   Ejemplos
-#    docker search ruby
-#    docker search wsdl
-#    docker search weather-service
-#    docker search service
 base_url2 = "https://github.com/"
 base_url = "https://hub.docker.com/r/"
-limit = 25
-ctrl = True
+limit = 100
 
-def search_dockerhub_files(keywords,ctrl):
-    keywords = [keyword.strip() for keyword in keywords.split(',')]
+def search_dockerhub_files(keyword):
+    print(keyword)
+    process = subprocess.Popen(['docker', 'search', '--limit', str(limit),'--no-trunc', keyword],
+                            stdout=subprocess.PIPE,
+                            universal_newlines=True) # stdout.decode('utf-8')
 
-    for keyword in keywords:
-        process = subprocess.Popen(['docker', 'search', '--limit', str(limit),'--no-trunc', keyword], 
-                                stdout=subprocess.PIPE,
-                                universal_newlines=True) # stdout.decode('utf-8')
-
-        d = []
-        for i in range(0,limit+1):
+    data = []
+    for i in range(1,limit):
+        print(str(i)+" / "+keyword)
+        try:
             output2 = process.stdout.readline()
 
             output = " ".join(re.split("\s+", output2, flags=re.UNICODE))
@@ -38,58 +28,92 @@ def search_dockerhub_files(keywords,ctrl):
             linea.append('')
             name = linea[0]
             linea[0] = ""
-            
+
             if(name!="NAME"):
-                
                 rx = re.compile(r'-?\d+(?:\.\d+)?')
-                numbers = rx.findall(output2)
-                line = output2.split(numbers[len(numbers)-1])
-                if(len(line[1])==18):
-                    off = "1"
-                    aut = "0"
-                elif(len(line[1])==19):
-                    off = "1"
-                    aut = "0"
-                elif(len(line[1])==25):
-                    aut = "1"
-                    off = "0"
-                else:
-                    off = "0"
-                    aut = "0"
-                
-                linea = " ".join(linea)
-                rx = re.compile(r'-?\d+(?:\.\d+)?')
-                numbers = rx.findall(linea)
-                
-                desc = linea.split(numbers[len(numbers)-1])
-                if(len(numbers)>1):
-                    descr = ""
-                    for i in range(0,len(numbers)):
-                        descr +=desc[i]
-                else:
-                    descr = desc[0]
-                desc.append("")
-                url = f"{base_url}{name}"
-                url2 = f"{base_url2}{name}"
-                if(url!="{ base_url }"):
-
-                    r = requests.get(url2)
-                    soup = BeautifulSoup(r.text, 'lxml')
-                    title = soup.find('title')
-                    if(title.text != "Page not found · GitHub · GitHub"):
-                        d.append([name,descr,numbers[len(numbers)-1],off,aut,url2])
+                nums = rx.findall(output2)
+                if(len(nums)!=0):
+                    line = output2.split(nums[len(nums)-1])
+                    if(len(line[1])==18):
+                        off = "1"
+                        aut = "0"
+                    elif(len(line[1])==19):
+                        off = "1"
+                        aut = "0"
+                    elif(len(line[1])==25):
+                        aut = "1"
+                        off = "0"
                     else:
-                        d.append([name,descr,numbers[len(numbers)-1],off,aut,"not found"])
-                else:
-                    break
-            else:
-                if(ctrl):
-                    d.append([name,linea[1],linea[2],linea[3],linea[4],"GITHUB"])
-                    ctrl = False
+                        off = "0"
+                        aut = "0"
 
-        df = pd.DataFrame(np.array(d))
-        df.to_csv (r'reposlistdockerhub.csv', index = False, mode = 'a',header = False)
-        print(df)
+                    linea = " ".join(linea)
+                    rx = re.compile(r'-?\d+(?:\.\d+)?')
+                    numbers = rx.findall(linea)
+                    desc = linea.split(numbers[len(numbers)-1])
+                    if(len(numbers)>1):
+                        descr = ""
+                        for i in range(0,len(desc)):
+                            descr +=desc[i]
+                    else:
+                        descr = desc[0]
+                    desc.append("")
+                    url = f"{base_url}{name}"
+                    url2 = f"{base_url2}{name}"
+                    if(url!="{ base_url }"):
+                        r = requests.get(url2)
+                        soup = BeautifulSoup(r.text, 'lxml')
+                        title = soup.find('title')
+                        if(title is not None):
+                            if(title.text == "Page not found · GitHub · GitHub"):
+                                url2 = "not found"
+                        datarepo = {
+                            "name": name,
+                            "description": descr,
+                            "stars": numbers[len(numbers)-1],
+                            "official": off,
+                            "automated": aut,
+                            "github": url2,
+                            "keyword": keyword
+                        }
+                        data.append(datarepo)
+        except UnicodeDecodeError:
+            print("error")
+    return data
 
-searchs = 'service, api'
-search_dockerhub_files(searchs, ctrl)
+df_temp = []
+
+def process_(bulk, num_Splits):
+    global df_temp
+    # Split
+    bulk_splited  = np.array_split(bulk, num_Splits) # max workers
+
+    tasks = []
+
+    for split in range(len(bulk_splited)):
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers = len(bulk_splited)) as executor:
+            for data in bulk_splited[split]:
+                tasks.append(executor.submit(search_dockerhub_files, data))
+
+    # iterate results
+    for result in tasks:
+        if(type(result.result() is not list)):
+            if(result.result() is not None):
+                df_temp += result.result()
+    df = pd.json_normalize(data=df_temp)
+    df.to_csv('output_dockerhub.csv', index = False, encoding='utf-8-sig')
+
+    return df_temp
+
+
+f = open("keywordsAll.txt")
+keywords = []
+for line in f:
+    keywords.append(line.rstrip('\n'))
+f.close()
+
+df_final = pd.DataFrame()
+df_final = process_(keywords, 16)
+df = pd.json_normalize(data=df_final)
+df.to_csv('output_dockerhub.csv', index = False,encoding='utf-8-sig')

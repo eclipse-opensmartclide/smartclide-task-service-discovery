@@ -1,0 +1,82 @@
+﻿name,description,stars,official,automated,github,keyword
+telegraf, Telegraf is an agent for collecting metrics and writing them to InfluxDB or other outputs. ,484,1,0,https://github.com/telegraf,Writing
+ricordanza/writing-with-gitlab-textlint, ,0,0,0,not found,Writing
+nicmays334/writing-advisor-flask-server, docker setup for running writing advisor in a container ,0,0,0,not found,Writing
+writingavatar/trustedubuntu, ,0,0,0,not found,Writing
+ricordanza/writing-textlint, ,0,0,0,not found,Writing
+writingavatar/jenkins1, ,0,0,0,not found,Writing
+strift/writing-assistant, ,0,0,0,not found,Writing
+thinkaboutcsharp/writing_tex, ,0,0,0,not found,Writing
+ccl17/writing-module, ,0,0,0,not found,Writing
+briankotch/brianvonwell, My writing site ,0,0,1,not found,Writing
+dilawars/writing, ,0,0,0,not found,Writing
+bushari/telegraf-snmp," Telegraf is an agent for collecting metrics and writing them to InfluxDB, this version has SNMP. ",0,0,1,https://github.com/bushari/telegraf-snmp,Writing
+coco/genres-rw-neo4j, An API for reading/writing genres into Neo4j.  [OK]    ,0,0,1,not found,Writing
+screwdrivercd/log-service, Log container for reading and writing Screwdriver logs ,0,0,1,not found,Writing
+drentrega/drone-plugin-ssm-env-creator, Drone.io plugin for writing .env files. ,0,0,1,not found,Writing
+coco/people-rw-neo4j, An API for reading/writing people into Neo4j.  [OK]    ,0,0,1,not found,Writing
+writingpanda/docker101tutorial, ,0,0,0,not found,Writing
+alanm0/writing-tools," Tools to convert Markdown manuscript to publishable form (PDF, DOCX, Kindle, etc.) ",0,0,0,not found,Writing
+cookieisaac/writing-docker-in-c, ,0,0,0,not found,Writing
+josshorn/writingtest, ,0,0,0,not found,Writing
+firefall/writinganalysis, ,0,0,0,not found,Writing
+fbglucky/writing-service, ,0,0,0,not found,Writing
+samuelololol/docker-gentoo-write-ebuild, A gentoo docker image for helping writing ebuilds ,0,0,1,https://github.com/samuelololol/docker-gentoo-write-ebuild,Writing
+amd64/telegraf, Telegraf is an agent for collecting metrics and writing them to InfluxDB or other outputs. ,0,0,0,not found,Writing
+nyrobert/js-tools, Useful tools when writing JavaScript applications. ,0,0,1,https://github.com/nyrobert/js-tools,Writing
+coco/financial-instruments-rw-neo4j, An API for reading and writing financial instruments into Neo4j.  [OK]    ,0,0,1,not found,Writing
+hieung/writing-cfs, ,0,0,0,not found,Writing
+qualis/writing-hub, ,0,0,0,https://github.com/qualis/writing-hub,Writing
+andreychuk/postrabbit, A bridge between Postgres and RabbitMQ writing on GO ,0,0,1,https://github.com/andreychuk/postrabbit,Writing
+o1labs/snarky, snarky is an OCaml front-end for writing R1CS SNARKs.  [OK]    ,0,0,1,not found,Writing
+writingpanda/flask-test, A test flask app in docker ,0,0,0,https://github.com/writingpanda/flask-test,Writing
+daspanel/daspanel-services," Volume container holding DASPANEL services app, mostly writing in PHP. ",0,0,1,https://github.com/daspanel/daspanel-services,Writing
+jchao100/ngis-testreportingframework, NGIS Test Reporting Framework Script for writing data points to InfluxDB ,0,0,0,not found,Writing
+bfosberry/http-logger, Simple container writing request bodies to stdout. Useful for logging Kong requests as json. ,0,0,1,not found,Writing
+elyscape/selinux-sandbox, A Docker environment for writing SELinux policy modules. ,0,0,1,https://github.com/elyscape/selinux-sandbox,Writing
+nukapi/pgbench2postgres, endless loop of pgbench + writing results to postgres. ,0,0,1,not found,Writing
+nyxcharon/logspout-redis-logstash, Logspout adapter for writing Docker container logs to Redis in Logstash jsonevent layout ,0,0,0,https://github.com/nyxcharon/logspout-redis-logstash,Writing
+aostreetart/ao-services, AO Shared Service Framework - A Set of tools for writing C++ Microservices ,0,0,1,not found,Writing
+terjesannum/sensu-socket, Docker image providing sensu socket for writing metrics ,0,0,1,not found,Writing
+fgribreau/google-spreadsheet-cli, CLI writing data into a Google Spreadsheet ,0,0,1,https://github.com/fgribreau/google-spreadsheet-cli,Writing
+programie/telegram2elastic, A simple Telegram client writing chat messages to an Elasticsearch instance in realtime ,0,0,0,https://github.com/programie/telegram2elastic,Writing
+amireh/kong-dev, Kong development environment for writing and testing plugins. ,0,0,1,not found,Writing
+notbot/mmdb, Perl dependencies for writing custom MaxMind databases (MMDB) ,0,0,0,not found,Writing
+wata727/pahout, A pair programming partner for writing better PHP. ,0,0,0,https://github.com/wata727/pahout,Writing
+writingpanda/cheers2019, ,0,0,0,not found,Writing
+odiogosilva/samtools, Reading/writing/editing/indexing/viewing SAM/BAM/CRAM format ,0,0,1,not found,Writing
+mmcarey/consul-template, Hashicorp Consul-template image for writing file updates based on Consul and Vault changes. ,0,0,1,not found,Writing
+qualis/writing-hub-ci, ,0,0,0,not found,Writing
+writingpanda/docker-goof, Goofy project ,0,0,0,not found,Writing
+writinghelpessay/writinghelpessay.net, writinghelpessay ,0,0,0,not found,Writing
+nerfthis/writing, ,0,0,0,not found,Writing
+miguelpmachado/htslib, A C library for reading/writing high-throughput sequencing data ,0,0,0,not found,Writing
+tmknom/textlint-for-tech, The pluggable natural language linter for technical writing. ,0,0,0,https://github.com/tmknom/textlint-for-tech,Writing
+feipyang/markdowncv, markdown based cv writing system. ,0,0,1,not found,Writing
+yrzr/writing, ,0,0,0,not found,Writing
+umnagnati/writing-about-writing-wordle-ebook-reader, Writing About Writing Wordle Ebook Reader ,0,0,0,not found,Writing
+joearasin/jupyter-scheme, A Jupyter Notebook for writing Scheme. ,0,0,1,not found,Writing
+smireasypig/writing-about-writing-wordle-ebook-torrents, Writing About Writing Wordle Ebook Torrents ,0,0,0,not found,Writing
+iotops/writefreely, WriteFreely is free and open source software for building a writing space on the web ,0,0,0,not found,Writing
+oberbichler/alpine-tex, TeX Live 218 for writing scientific articles  [OK]    ,0,0,0,not found,Writing
+jamesvince/writing, Essay writing on Programming is a specific classification of writing ,0,0,0,not found,Writing
+sesamcommunity/endpoint2file, A micro-service for reading a byte stream from a sesam node endpoint and writing it to a file. ,0,0,0,not found,Writing
+sabogmocoun/writing-for-law-practice-advanced-legal-writing-download-ebook-in-doc-azw-mobi," Writing For Law Practice : Advanced Legal Writing Download Ebook In DOC, AZW, MOBI ",0,0,0,not found,Writing
+wavercasu/writing-for-law-practice-advanced-legal-writing-download-ebook-in-doc-azw-mobi," Writing For Law Practice : Advanced Legal Writing Download Ebook In DOC, AZW, MOBI ",0,0,0,not found,Writing
+camil/telegraf, Telegraf is an agent for collecting metrics and writing them to InfluxDB or other outputs. ,0,0,1,not found,Writing
+charlesmm237/writingtips, Writing tips and advice ,0,0,0,not found,Writing
+dogsticonni/writing-essays-pdf, Writing Essays Pdf ,0,0,0,not found,Writing
+kneadchisthota/writing-pad-for-mac, Writing Pad For Mac ,0,0,0,not found,Writing
+turkketpiton/writing-program-for-mac-computers, Writing Program For Mac Computers ,0,0,0,not found,Writing
+julia4perfectwords/writing-arts-essay, Writing Essays On Arts Topics ,0,0,0,not found,Writing
+stabafunrin/writing-english-alphabets-pdf-download, Writing English Alphabets Pdf Download ,0,0,0,not found,Writing
+diutranurpi/writing-a-python-app-for-mac, Writing A Python App For Mac ,0,0,0,not found,Writing
+julia4perfectwords/writing, Persuasive Essay Writing-INFOGRAPHIC GUIDE ,0,0,0,not found,Writing
+wintiresrei/writing-on-cards, Writing On Cards ,0,0,0,not found,Writing
+nerdpapers/writing, Essay Writing Essentials ,0,0,0,not found,Writing
+minsrafdihe/writing-applications-for-mac, Writing Applications For Mac ,0,0,0,not found,Writing
+tropolelim/writing-kids-books, Writing Kids Books ,0,0,0,not found,Writing
+arpadmata/writing-software-requirements, Writing Software Requirements ,0,0,0,not found,Writing
+djermaheadmau/writing-data-to-a-text-file-in-python, Writing Data To A Text File In Python ,0,0,0,not found,Writing
+teireddeoznam/writing-clearly-grammar-for-editing-answer-key, Writing Clearly Grammar For Editing Answer Key ,0,0,0,not found,Writing
+collegeessay/writing_service, A high quality essay writing service. ,0,0,0,not found,Writing
