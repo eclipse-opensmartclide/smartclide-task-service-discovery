@@ -49,14 +49,20 @@ def search_dockerhub_files(keyword):
                     linea = " ".join(linea)
                     rx = re.compile(r'-?\d+(?:\.\d+)?')
                     numbers = rx.findall(linea)
-                    desc = linea.split(numbers[len(numbers)-1])
-                    if(len(numbers)>1):
-                        descr = ""
-                        for i in range(0,len(desc)):
-                            descr +=desc[i]
+                    if(len(numbers)>0):
+                        stars = numbers[len(numbers)-1]
+                        desc = linea.split(numbers[len(numbers)-1])
+                        if(len(numbers)>1):
+                            descr = ""
+                            for i in range(0,len(desc)):
+                                descr +=desc[i]
+                        else:
+                            descr = desc[0]
+                        desc.append("")
                     else:
-                        descr = desc[0]
-                    desc.append("")
+                        stars = 0
+                        print(linea)
+                        descr = linea
                     url = f"{base_url}{name}"
                     url2 = f"{base_url2}{name}"
                     if(url!="{ base_url }"):
@@ -66,7 +72,7 @@ def search_dockerhub_files(keyword):
                         datarepo = {
                             "name": name,
                             "description": descr,
-                            "stars": numbers[len(numbers)-1],
+                            "stars": stars,
                             "official": off,
                             "automated": aut,
                             "github": url2,
@@ -91,13 +97,13 @@ def process_(bulk, num_Splits):
             for data in bulk_splited[split]:
                 tasks.append(executor.submit(search_dockerhub_files, data))
 
-    # iterate results
-    for result in tasks:
-        if(type(result.result() is not list)):
-            if(result.result() is not None):
-                df_temp += result.result()
-    df = pd.json_normalize(data=df_temp)
-    df.to_csv('output_dockerhub.csv', index = False, encoding='utf-8-sig')
+            # iterate results
+            for result in tasks:
+                if(type(result.result() is not list)):
+                    if(result.result() is not None):
+                        df_temp += result.result()
+            df = pd.json_normalize(data=df_temp)
+            df.to_csv('output_dockerhub.csv', index = False, encoding='utf-8-sig')
 
     return df_temp
 
