@@ -197,16 +197,16 @@ datetime = datetime.now()
 
 ## Export the original - Meta_Url
 # To CSV (index True 0,1,2...)
-df_export_SDK.to_csv(r'C:/Users/David/Desktop/DataFrames/SDK_' + datetime.now().strftime('%d_%m_%Y') + '.csv', index = True, header = True)
+df_export_SDK.to_csv(r'/content/DataFrame/SDK_' + datetime.now().strftime('%d_%m_%Y') + '.csv', index = True, header = True)
 
 # To JSON (columns format index True 0,1,2...)
-df_export_SDK.to_json(r'C:/Users/David/Desktop/DataFrames/SDK_' + datetime.now().strftime('%d_%m_%Y') + '.json')
+df_export_SDK.to_json(r'/content/DataFrame/SDK_' + datetime.now().strftime('%d_%m_%Y') + '.json')
 
 
 ## Export the original + Meta_Url
 
 # To CSV (index True 0,1,2...)
-df_SDK_metaData.to_csv(r'C:/Users/David/Desktop/DataFrames/MetaUrl_SDK_' + datetime.now().strftime('%d_%m_%Y') + '.csv', index = True, header = True)
+df_SDK_metaData.to_csv(r'/content/DataFrame/MetaUrl_SDK_' + datetime.now().strftime('%d_%m_%Y') + '.csv', index = True, header = True)
 
 # To JSON (columns format index True 0,1,2...)
-df_SDK_metaData.to_json(r'C:/Users/David/Desktop/DataFrames/MetaUrl_SDK_' + datetime.now().strftime('%d_%m_%Y') + '.json')
+df_SDK_metaData.to_json(r'/content/DataFrame/MetaUrl_SDK_' + datetime.now().strftime('%d_%m_%Y') + '.json')
