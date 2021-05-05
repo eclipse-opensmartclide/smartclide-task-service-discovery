@@ -1,6 +1,5 @@
 # -*- coding: utf-8-sig -*-
 import subprocess, requests, re, concurrent.futures
-from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 
@@ -62,11 +61,8 @@ def search_dockerhub_files(keyword):
                     url2 = f"{base_url2}{name}"
                     if(url!="{ base_url }"):
                         r = requests.get(url2)
-                        soup = BeautifulSoup(r.text, 'lxml')
-                        title = soup.find('title')
-                        if(title is not None):
-                            if(title.text == "Page not found · GitHub · GitHub"):
-                                url2 = "not found"
+                        if(r.status_code==404 or r.status_code==403):
+                            url2 = "not found"
                         datarepo = {
                             "name": name,
                             "description": descr,
@@ -91,7 +87,6 @@ def process_(bulk, num_Splits):
     tasks = []
 
     for split in range(len(bulk_splited)):
-
         with concurrent.futures.ThreadPoolExecutor(max_workers = len(bulk_splited)) as executor:
             for data in bulk_splited[split]:
                 tasks.append(executor.submit(search_dockerhub_files, data))

@@ -1,11 +1,14 @@
 import requests, json, re, concurrent.futures
+from datetime import datetime
 import pandas as pd
 import numpy as np
 from config import config
 
 # Get info for repo url with api
+dataglobal = []
 def getrepos(keyword):
-    data = []
+    global dataglobal
+    data
     page = 1
     ctrl = True
     while(ctrl):
@@ -65,6 +68,7 @@ def getrepos(keyword):
                 "keyword": keyword
             }
 
+            dataglobal.append(datarepo)
             data.append(datarepo)
 
         # Check next pages
@@ -76,37 +80,27 @@ def getrepos(keyword):
             else:
                 ctrl = False
 
+    df = pd.json_normalize(data=data)
+    df.to_csv(r'C:/Datos/Repos/pruebas/docker/outputs/output_gitlab_'+keyword+"_" + datetime.now().strftime('%d_%m_%Y') + '.csv', index = False)
     return data
 
-def process_(bulk, num_Splits):
-    df_temp = []
-
-    # Split
-    bulk_splited  = np.array_split(bulk, num_Splits) # max workers
-
-    tasks = []
-
-    for split in range(len(bulk_splited)):
-
-        with concurrent.futures.ThreadPoolExecutor(max_workers = len(bulk_splited)) as executor:
-            for data in bulk_splited[split]:
-                tasks.append(executor.submit(getrepos, data))
-
-    # iterate results
-    for result in tasks:
-        df_temp+=result.result()
-    df = pd.json_normalize(data=df_temp)
-    df.to_csv('output_gitlab.csv', index = False)
-
-    return df_temp
-
+# Get keywords
 f = open("keywordsAll.txt")
 keywords = []
 for line in f:
     keywords.append(line.rstrip('\n'))
 f.close()
 
-df_final = pd.DataFrame()
-df_final = process_(keywords, 16)
-df = pd.json_normalize(data=df_final)
-df.to_csv('output_gitlab.csv', index = False)
+# Iterate keywordss
+data = []
+tasks = []
+with concurrent.futures.ThreadPoolExecutor(max_workers = 16) as executor:
+    for kw in keywords:
+        print(kw)
+        tasks.append(executor.submit(getrepos, kw))
+
+    # iterate results
+    for result in tasks:
+        data+=result.result()
+        df = pd.json_normalize(data=data)
+        df.to_csv('output_gitlab.csv', index = False)

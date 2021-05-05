@@ -52,7 +52,7 @@ def getRepo(urlrepo, kw):
     }
     return datarepo
 
-f = open("keywordsBit.txt")
+f = open("keywordsAll.txt")
 keywords = []
 for line in f:
     keywords.append(line.rstrip('\n'))
@@ -103,7 +103,7 @@ for kw in keywords:
                 # Limit api requests
                 else:
                     print("Error 429, omitiendo...")
-                    time.sleep(3600)
+                    time.sleep(600)
 
             except ValueError:  # includes simplejson.decoder.JSONDecodeError
                 print("ValueError")
