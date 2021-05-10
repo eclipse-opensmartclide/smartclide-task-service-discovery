@@ -8,7 +8,7 @@ from config import config
 dataglobal = []
 def getrepos(keyword):
     global dataglobal
-    data
+    data = []
     page = 1
     ctrl = True
     while(ctrl):
@@ -81,11 +81,11 @@ def getrepos(keyword):
                 ctrl = False
 
     df = pd.json_normalize(data=data)
-    df.to_csv(r'C:/Datos/Repos/pruebas/docker/outputs/output_gitlab_'+keyword+"_" + datetime.now().strftime('%d_%m_%Y') + '.csv', index = False)
+    df.to_csv(r'C:/Datos/Repos/pruebas/docker/outputs/output_gitlab_'+keyword.replace(" ","")+"_" + datetime.now().strftime('%d_%m_%Y') + '.csv', index = False)
     return data
 
 # Get keywords
-f = open("keywordsAll.txt")
+f = open("keywords.txt")
 keywords = []
 for line in f:
     keywords.append(line.rstrip('\n'))
@@ -94,13 +94,15 @@ f.close()
 # Iterate keywordss
 data = []
 tasks = []
-with concurrent.futures.ThreadPoolExecutor(max_workers = 16) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers = 24) as executor:
     for kw in keywords:
         print(kw)
         tasks.append(executor.submit(getrepos, kw))
 
-    # iterate results
-    for result in tasks:
-        data+=result.result()
-        df = pd.json_normalize(data=data)
-        df.to_csv('output_gitlab.csv', index = False)
+# iterate results
+for result in tasks:
+    data+=result.result()
+df = pd.json_normalize(data=data)
+
+print("Generando fichero")
+df.to_csv('output_gitlab2.csv', index = False)
