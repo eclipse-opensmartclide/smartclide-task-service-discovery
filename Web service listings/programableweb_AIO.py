@@ -20,7 +20,13 @@ import requests_random_user_agent
 from bs4 import BeautifulSoup
 
 def _download_programmableweb_list(urlsSplited):
-
+    """
+    Iterates over the input list and accesses the url 
+     to collect data using requests and BeautifulSoup
+    
+    :param urlsSplited: List
+    :return DataFrame:
+    """
     df_temp = pd.DataFrame()
 
     for url in urlsSplited:
@@ -55,6 +61,15 @@ def _download_programmableweb_list(urlsSplited):
     return df_temp
 
 def download_programmableweb_list(bulkUrls, numSplits):
+    """
+    Receives the url list, bulkUrls, and a number of partitions, numSplits, to launch concurrent 
+     executions by calling _download_programmableweb_list which fetches
+     the data for each partition from the list and returns a DataFrame
+     
+    :param bulkUrls: List
+    :param numSplits: int
+    :return DataFrame:
+    """
     df_temp = pd.DataFrame()
     # Split urls
     urls_splited = np.array_split(bulkUrls, numSplits)  # max workers
@@ -76,6 +91,16 @@ def download_programmableweb_list(bulkUrls, numSplits):
     return df_temp
 
 def download_list(headUrl, numPages, numSplits):
+    """
+    Builds a list of urls based on the headUrl, then calls 
+     download_programmableweb_list which gets the entries of each url
+     to finally return a basic dataframe 
+     
+    :param headUrl: String
+    :param df_temp: DataFrame
+    :param numSplits: int
+    :return DataFrame:
+    """
     urls = []
     df_temp = pd.DataFrame()
 
@@ -87,6 +112,14 @@ def download_list(headUrl, numPages, numSplits):
     return df_temp
 
 def _download_meta_url(df_temp, listType):
+    """
+    Iterates over the input dataframe and accesses the metaurl 
+     to collect data based in listType imput using requests and BeautifulSoup
+    
+    :param df_temp: DataFrame
+    :param listType: String
+    :return DataFrame:
+    """
 
     df_temp = df_temp.reset_index(drop=True)
 
@@ -326,7 +359,9 @@ def _download_meta_url(df_temp, listType):
 
 def download_programmableweb_meta_url(df, numSplits, listType):
     """
-    Creates a DataFrame from mashup programmableweb URL
+    Splits a dataframe and uses simultaneous executions to access the metaurl
+    wirh _download_meta_url the information is collected and returned
+    
     :param df: DataFrame
     :param numSplits: int
     :param numSplits: string
@@ -462,7 +497,11 @@ def download_LIB():
     df_temp = download_programmableweb_meta_url(df_temp, 5, "LIB")
     df_temp = df_temp.reset_index(drop=True)
     return df_temp
+    
+"""### URL and PAGES
+    TODO: Get num of pages requesting the Url
 
+"""
 LIB_URL = "https://www.programmableweb.com/category/all/api-library?page="
 LIB_PAGES = 67 # 67
 
