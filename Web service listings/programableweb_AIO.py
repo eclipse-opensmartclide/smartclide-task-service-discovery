@@ -9,18 +9,15 @@
 !pip install lxml
 
 """
-import requests
-import requests_random_user_agent
-import concurrent.futures
-import pandas as pd
-import numpy as np
-from bs4 import BeautifulSoup
+
 import time
 from datetime import datetime
-
-# # 
-# import warnings
-# warnings.filterwarnings("ignore", category=DeprecationWarning)
+import pandas as pd
+import numpy as np
+import concurrent.futures
+import requests
+import requests_random_user_agent
+from bs4 import BeautifulSoup
 
 def _download_programmableweb_list(urlsSplited):
 
@@ -328,6 +325,13 @@ def _download_meta_url(df_temp, listType):
     return df_temp
 
 def download_programmableweb_meta_url(df, numSplits, listType):
+    """
+    Creates a DataFrame from mashup programmableweb URL
+    :param df: DataFrame
+    :param numSplits: int
+    :param numSplits: string
+    :return DataFrame:
+    """
     df_temp = pd.DataFrame()
     tasks = []
 
@@ -349,6 +353,11 @@ def download_programmableweb_meta_url(df, numSplits, listType):
     return df_temp
 
 def download_MASH():
+    """
+    Creates a DataFrame from mashup programmableweb URL
+
+    :return DataFrame:
+    """
     df_temp = pd.DataFrame()
     df_temp = download_list(MASH_URL, MASH_PAGES, 5)
     df_temp = df_temp.reset_index(drop=True)
@@ -365,6 +374,11 @@ def download_MASH():
     return df_temp
 
 def download_FRAME():
+    """
+    Creates a DataFrame from framework programmableweb URL
+
+    :return DataFrame:
+    """
     df_temp = pd.DataFrame()
     df_temp = download_list(FRAME_URL, FRAME_PAGES, 5)
     df_temp = df_temp.reset_index(drop=True)
@@ -381,6 +395,11 @@ def download_FRAME():
     return df_temp
 
 def download_CODE():
+    """
+    Creates a DataFrame from api-library programmableweb URL
+
+    :return DataFrame:
+    """
     df_temp = pd.DataFrame()
     df_temp = download_list(CODE_URL, CODE_PAGES, 5)
     df_temp = df_temp.reset_index(drop=True)
@@ -395,6 +414,11 @@ def download_CODE():
     return df_temp
 
 def download_SDK():
+    """
+    Creates a DataFrame from sample-source-code programmableweb URL
+
+    :return DataFrame:
+    """
     df_temp = pd.DataFrame()
     df_temp = download_list(SDK_URL, SDK_PAGES, 5)    
     df_temp = df_temp.reset_index(drop=True)
@@ -412,8 +436,13 @@ def download_SDK():
     return df_temp
 
 def download_LIB():
+    """
+    Creates a DataFrame from api-library programmableweb URL
+
+    :return DataFrame:
+    """
     df_temp = pd.DataFrame()
-    df_temp = download_list(LIB_URL, 67, 15)
+    df_temp = download_list(LIB_URL, LIB_PAGES, 5)
     df_temp = df_temp.reset_index(drop=True)
 
     # Creates new columns
@@ -430,7 +459,7 @@ def download_LIB():
     df_temp['Request Formats'] = ""
     df_temp['Response Formats'] = ""
 
-    df_temp = download_programmableweb_meta_url(df_temp, 15, "LIB")
+    df_temp = download_programmableweb_meta_url(df_temp, 5, "LIB")
     df_temp = df_temp.reset_index(drop=True)
     return df_temp
 
