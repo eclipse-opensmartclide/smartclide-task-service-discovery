@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
-"""Programableweb.ipynb
+############################ Copyrights and license ############################
+#                                                                              #
+################################################################################
 
-
+""" Programableweb
 
 !pip install requests-random-user-agent
 !pip install pandas
@@ -16,15 +18,20 @@ import pandas as pd
 import numpy as np
 import concurrent.futures
 import requests
-import requests_random_user_agent
+import requests_random_user_agent ## TODO
 from bs4 import BeautifulSoup
+from pathlib import Path
+import os
+
+# TODO> instead of waiting for it to process everything all at once_ pull out small datasets in case it fails or wait too long
+
 
 def _download_programmableweb_list(urlsSplited):
     """
     Iterates over the input list and accesses the url 
      to collect data using requests and BeautifulSoup
-    
-    :param urlsSplited: List
+
+    :param urlsSplited: list
     :return DataFrame:
     """
     df_temp = pd.DataFrame()
@@ -60,13 +67,14 @@ def _download_programmableweb_list(urlsSplited):
 
     return df_temp
 
+
 def download_programmableweb_list(bulkUrls, numSplits):
     """
     Receives the url list, bulkUrls, and a number of partitions, numSplits, to launch concurrent 
      executions by calling _download_programmableweb_list which fetches
      the data for each partition from the list and returns a DataFrame
-     
-    :param bulkUrls: List
+
+    :param bulkUrls: list
     :param numSplits: int
     :return DataFrame:
     """
@@ -90,17 +98,19 @@ def download_programmableweb_list(bulkUrls, numSplits):
 
     return df_temp
 
+
 def download_list(headUrl, numPages, numSplits):
     """
     Builds a list of urls based on the headUrl, then calls 
      download_programmableweb_list which gets the entries of each url
      to finally return a basic dataframe 
-     
-    :param headUrl: String
+
+    :param headUrl: str
     :param df_temp: DataFrame
     :param numSplits: int
     :return DataFrame:
     """
+
     urls = []
     df_temp = pd.DataFrame()
 
@@ -111,13 +121,14 @@ def download_list(headUrl, numPages, numSplits):
     df_temp = download_programmableweb_list(urls, numSplits)
     return df_temp
 
+
 def _download_meta_url(df_temp, listType):
     """
     Iterates over the input dataframe and accesses the metaurl 
      to collect data based in listType imput using requests and BeautifulSoup
-    
+
     :param df_temp: DataFrame
-    :param listType: String
+    :param listType: str
     :return DataFrame:
     """
 
@@ -129,12 +140,12 @@ def _download_meta_url(df_temp, listType):
 
         rq = requests.get(meta_url)
 
-        while rq.status_code == 429: # Too many rq
-          time.sleep(2100)
-          rq = requests.get(meta_url)
-          if rq.status_code == 200:
-            break
-          # Sleep, proxy change?          
+        while rq.status_code == 429:  # Too many rq
+            time.sleep(2100)  # TODO: hanlde time
+            rq = requests.get(meta_url)
+            if rq.status_code == 200:
+                break
+            # Sleep?, proxy change?, user agent change?
 
         meta_data = rq.text
         meta_soup = BeautifulSoup(meta_data, 'html.parser')
@@ -148,8 +159,9 @@ def _download_meta_url(df_temp, listType):
                 meta_description = str(meta_soup.find('div', class_='tabs-header_description')).partition(
                     '">')[2].partition('</')[0].partition('">')[2].partition('">')[2].partition('">')[2]
                 df_temp['Description'][i] = meta_description
-            else: # CODE, SDK, FRAME             
-                meta_description = str(meta_soup.find('div', class_='tabs-header_description')).partition('">')[2].partition('</')[0]       
+            else:  # CODE, SDK, FRAME
+                meta_description = str(meta_soup.find(
+                    'div', class_='tabs-header_description')).partition('">')[2].partition('</')[0]
                 df_temp['Description'][i] = meta_description
 
         # Get section specs and iterate the labels
@@ -355,16 +367,23 @@ def _download_meta_url(df_temp, listType):
                     continue
                 continue
 
+                
+    ## TODO Handle this better
+    # Export the metacsv for handle updates
+    df_temp.to_csv(str(FILES_PATH) + '/' + listType +'/' + '_'+  listType +
+                datetime.now().strftime('%S_%d_%m_%Y') + '.csv', index=True, header=True)
+    
     return df_temp
+
 
 def download_programmableweb_meta_url(df, numSplits, listType):
     """
     Splits a dataframe and uses simultaneous executions to access the metaurl
     wirh _download_meta_url the information is collected and returned
-    
+
     :param df: DataFrame
     :param numSplits: int
-    :param numSplits: string
+    :param numSplits: str
     :return DataFrame:
     """
     df_temp = pd.DataFrame()
@@ -379,7 +398,8 @@ def download_programmableweb_meta_url(df, numSplits, listType):
     for split in range(len(dt_splited)):
         with concurrent.futures.ThreadPoolExecutor(max_workers=len(dt_splited)) as executor:
             # Download splited dataframes with jobs
-            tasks.append(executor.submit(_download_meta_url, dt_splited[split], listType))
+            tasks.append(executor.submit(
+                _download_meta_url, dt_splited[split], listType))
     # Union
     for result in tasks:
         print("Task finisehd", result)
@@ -387,15 +407,22 @@ def download_programmableweb_meta_url(df, numSplits, listType):
 
     return df_temp
 
+
 def download_MASH():
     """
     Creates a DataFrame from mashup programmableweb URL
+     and exports the dataframe gererated from download_list
 
     :return DataFrame:
     """
     df_temp = pd.DataFrame()
     df_temp = download_list(MASH_URL, MASH_PAGES, 5)
     df_temp = df_temp.reset_index(drop=True)
+    # Export the metacsv for handle updates
+    df_temp.to_csv(str(FILES_PATH) + '/_MASH_' +
+                   datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
+
+    # time.sleep() # ?
 
     # Creates new columns for the data in the meta url
     df_temp['Related APIs'] = ""
@@ -408,15 +435,22 @@ def download_MASH():
     df_temp = df_temp.reset_index(drop=True)
     return df_temp
 
+
 def download_FRAME():
     """
     Creates a DataFrame from framework programmableweb URL
+     and exports the dataframe gererated from download_list
 
     :return DataFrame:
     """
     df_temp = pd.DataFrame()
     df_temp = download_list(FRAME_URL, FRAME_PAGES, 5)
     df_temp = df_temp.reset_index(drop=True)
+    # Export the metacsv for handle updates
+    df_temp.to_csv(str(FILES_PATH) + '/_FRAME_' +
+                   datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
+
+    # time.sleep() # ?
 
     # Creates new columns
     df_temp['Languages'] = ""
@@ -429,15 +463,22 @@ def download_FRAME():
     df_temp = df_temp.reset_index(drop=True)
     return df_temp
 
+
 def download_CODE():
     """
     Creates a DataFrame from api-library programmableweb URL
+     and exports the dataframe gererated from download_list
 
     :return DataFrame:
     """
     df_temp = pd.DataFrame()
     df_temp = download_list(CODE_URL, CODE_PAGES, 5)
     df_temp = df_temp.reset_index(drop=True)
+    # Export the metacsv for handle updates
+    df_temp.to_csv(str(FILES_PATH) + '/_CODE_' +
+                   datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
+
+    # time.sleep() # ?
 
     # Creates new columns
     df_temp['Source Code'] = ""
@@ -448,15 +489,22 @@ def download_CODE():
     df_temp = df_temp.reset_index(drop=True)
     return df_temp
 
+
 def download_SDK():
     """
     Creates a DataFrame from sample-source-code programmableweb URL
+     and exports the dataframe gererated from download_list
 
     :return DataFrame:
     """
     df_temp = pd.DataFrame()
-    df_temp = download_list(SDK_URL, SDK_PAGES, 5)    
+    df_temp = download_list(SDK_URL, SDK_PAGES, 5)
     df_temp = df_temp.reset_index(drop=True)
+    # Export the metacsv for handle updates
+    df_temp.to_csv(str(FILES_PATH) + '/_SDK_' +
+                   datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
+
+    # time.sleep() # ?
 
     # Creates new columns
     df_temp['Description'] = ""
@@ -470,15 +518,22 @@ def download_SDK():
     df_temp = df_temp.reset_index(drop=True)
     return df_temp
 
+
 def download_LIB():
     """
-    Creates a DataFrame from api-library programmableweb URL
+    Creates a DataFrame from api-library programmableweb URL 
+     and exports the dataframe gererated from download_list
 
     :return DataFrame:
     """
     df_temp = pd.DataFrame()
     df_temp = download_list(LIB_URL, LIB_PAGES, 5)
     df_temp = df_temp.reset_index(drop=True)
+    # Export the metacsv for handle updates for handle updates
+    df_temp.to_csv(str(FILES_PATH) + '/_LIB_' +
+                   datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
+
+    # time.sleep() # ?
 
     # Creates new columns
     df_temp['Languages'] = ""
@@ -497,25 +552,60 @@ def download_LIB():
     df_temp = download_programmableweb_meta_url(df_temp, 5, "LIB")
     df_temp = df_temp.reset_index(drop=True)
     return df_temp
-    
-"""### URL and PAGES
-    TODO: Get num of pages requesting the Url
 
-"""
+
+def getNumPages(headUrl):
+    """
+    Return the num of pages which has data in the head url 
+
+    :param headUrl: string
+    :return int:
+    """
+    rq = requests.get(headUrl)
+
+    while rq.status_code == 429:  # Too many rq
+        time.sleep(2100)  # TODO: hanlde time
+        rq = requests.get(headUrl)
+        if rq.status_code == 200:
+            break
+        # Sleep?, proxy change?, user agent change?
+
+    meta_data = rq.text
+    meta_soup = BeautifulSoup(meta_data, 'html.parser')
+
+    numPages = str(meta_soup.find('li', class_='pager-next')).partition(
+        '">')[2].partition('</')[0].partition('">')[2].partition('</')[0]
+
+    return numPages
+
+
+def create_relative_folder(folderName):   
+    """
+    Creates a folder folderName in the relative path
+
+    :param folderName: string
+    """
+    os.makedirs(os.path.join(Path(__file__).parent, folderName) , exist_ok=True)
+
+
+# Relative
+FILES_PATH = Path(__file__).parent
+
 LIB_URL = "https://www.programmableweb.com/category/all/api-library?page="
-LIB_PAGES = 67 # 67
+LIB_PAGES = 1 # getNumPages(LIB_URL)  # 67
 
 MASH_URL = "https://www.programmableweb.com/category/all/mashups?page="
-MASH_PAGES = 1 # 258
+MASH_PAGES = getNumPages(MASH_URL)  # 258
 
 FRAME_URL = "https://www.programmableweb.com/category/all/web-development-frameworks?page="
-FRAME_PAGES = 23 # 23
+FRAME_PAGES = getNumPages(FRAME_URL)  # 23
 
 CODE_URL = "https://www.programmableweb.com/category/all/sample-source-code?page="
-CODE_PAGES = 616 #616
+CODE_PAGES = getNumPages(CODE_URL)  # 616
 
 SDK_URL = "https://www.programmableweb.com/category/all/sdk&page="
-SDK_PAGES = 50 #776
+SDK_PAGES = getNumPages(SDK_URL)  # 776
+
 
 """### Wait btw types to avoid 429
 
@@ -523,46 +613,48 @@ TODO?: handle 429 with proxys?
 
 """
 
-print("SDK.. ")
-df_sdk = download_SDK()
-df_sdk
+# print("SDK.. ")
+# df_sdk = download_SDK()
+# df_sdk
 
-df_sdk.to_csv(r'/content/sample_data/SDK_' + datetime.now().strftime('%d_%m_%Y') + '.csv', index = True, header = True)
+# df_sdk.to_csv(r'/content/sample_data/SDK_' +
+#               datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
 
-# time.sleep()
+# # time.sleep()
 
-print("CODE.. ")
-df_code = download_CODE()
-df_code
+# print("CODE.. ")
+# df_code = download_CODE()
+# df_code
 
-df_code.to_csv(r'/content/sample_data/CODE_' + datetime.now().strftime('%d_%m_%Y') + '.csv', index = True, header = True)
+# df_code.to_csv(r'/content/sample_data/CODE_' +
+#                datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
 
-# time.sleep()
+# # time.sleep()
 
-print("FRAME.. ")
-df_frame = download_FRAME()
-df_frame
+# print("FRAME.. ")
+# df_frame = download_FRAME()
+# df_frame
 
-df_frame.to_csv(r'/content/sample_data/FRAME_' + datetime.now().strftime('%d_%m_%Y') + '.csv', index = True, header = True)
+# df_frame.to_csv(r'/content/sample_data/FRAME_' +
+#                 datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
 
-# time.sleep()
+# # time.sleep()
 
 print("LIB.. ")
+create_relative_folder('LIB')
 df_lib = download_LIB()
 df_lib
 
-df_lib.to_csv(r'/content/sample_data/LIB_' + datetime.now().strftime('%d_%m_%Y') + '.csv', index = True, header = True)
+# df_lib.to_csv(r'/content/sample_data/LIB_' +
+#               datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
 
-# time.sleep()
+# # time.sleep()
 
-print("MASH.. ")
-df_mash = download_MASH()
-df_mash
+# print("MASH.. ")
+# df_mash = download_MASH()
+# df_mash
 
-df_mash.to_csv(r'/content/sample_data/MASH_' + datetime.now().strftime('%d_%m_%Y') + '.csv', index = True, header = True)
+# df_mash.to_csv(r'/content/sample_data/MASH_' +
+#                datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
 
-# time.sleep()
-
-
-
-
+# # time.sleep()
