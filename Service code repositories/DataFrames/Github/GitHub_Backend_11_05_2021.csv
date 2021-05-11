@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/doocs/advanced-java.git,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,"java,distributed-systems,message-queue,redis,distributed-search-engine,high-availability,high-concurrency,dubbo,zookeeper,rpc,elasticsearch,hystrix,spring-cloud,microservices-architecture,ribbon,feign,eureka,springcloud-config,doocs,advanced-java",53954
+1,https://github.com/xi-editor/xi-editor.git,A modern editor with a backend written in Rust.,,18687
+2,https://github.com/dgraph-io/dgraph.git,Native GraphQL Database with graph backend,"graph-database,database,distributed,throughput,latency,production,golang,graphdb,go,scale,graphql,graphql-server",15991
+3,https://github.com/graphql/graphql-spec.git,GraphQL is a query language and execution engine tied to any backend service.,,13295
+4,https://github.com/valeriansaliou/sonic.git,"🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.","rust,infrastructure,search,index,graph,database,server,backend,search-server,search-engine",11283
+5,https://github.com/graphql/dataloader.git,"{""DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.""}","nodejs,dataloader,graphql,batch",10436
+6,https://github.com/falconry/falcon.git,"The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.","python,framework,rest,microservices,web,api,http,hacktoberfest",8374
+7,https://github.com/bitwarden/server.git,"The core infrastructure backend (API, database, Docker, etc).","aspnetcore,aspnet,sql-server,api,sql,csharp,bitwarden,dotnet-core,dotnet,docker,signalr",7738
+8,https://github.com/appwrite/appwrite.git,"Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀","appwrite,docker,baas,backend-as-a-service,javascript,flutter,tools,serverless,backend,backend-server,hacktoberfest,hacktoberfest2021",6843
+9,https://github.com/rethinkdb/horizon.git,"Horizon is a realtime, open-source backend for JavaScript apps.",,6812
+10,https://github.com/qqwweee/keras-yolo3.git,A Keras implementation of YOLOv3 (Tensorflow backend),,6721
+11,https://github.com/tinode/chat.git,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots","chat,chat-application,chatapp,go,golang,instant-messaging,messenger,messaging,messaging-api,grpc,chatbots,chatserver,webchat-server,whatsapp,telegram,xmpp",5385
+12,https://github.com/lostisland/faraday.git,"Simple, but flexible HTTP client library, with support for multiple backends.",,5026
+13,https://github.com/fpereiro/backendlore.git,How I write backends,,4853
+14,https://github.com/bartonhammond/snowflake.git,":snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router,  & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku","react-native,redux,jest,immutablejs,fastlane,bitrise,eslint,parse-server,hapi-server,tcomb-form-native,validate,standard-js,react-native-router-flux,react-native-vector-icons,i18n,key-mirror,async-storage,snowflake",4564
+15,https://github.com/Project-OSRM/osrm-backend.git,Open Source Routing Machine - C++ backend,"osrm,cpp14,cpp,c-plus-plus,routing,routing-engine,map-matching,traveling-salesman,openstreetmap,osm,isochrones",4366
+16,https://github.com/helios-framework/helios.git,An extensible open-source mobile backend framework,,4168
+17,https://github.com/hoodiehq/hoodie.git,:dog: The Offline First JavaScript Backend,"hoodie,javascript,backend,offline-first",4154
+18,https://github.com/share/sharedb.git,Realtime database backend based on Operational Transformation (OT),,4061
+19,https://github.com/alibaba/Tangram-Android.git,"Tangram is a modular UI solution for building native page dynamically including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on Android.","tangram,vlayout,android,card,ultraviewpager,native-dynamic,native-page,modular-ui-solution",3977
+20,https://github.com/emcrisostomo/fswatch.git,"A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.","event-notifications,change-monitor,fswatch,kqueue,inotify,solaris,c,c-plus-plus",3770
+21,https://github.com/logseq/logseq.git,"A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap","knowledge-base,graph,clojurescript,clojure,org-mode,markdown,git,local-first",3767
+22,https://github.com/corcel/corcel.git,Use WordPress backend with Laravel or any PHP application,"php,wordpress,laravel,eloquent,mvc,corcel,shortcode,taxonomies,hacktoberfest",3245
+23,https://github.com/relatedcode/GraphQLBackends.git,A collaborative list of GraphQL backend service providers.,"graphql,graphql-server,graphql-client,graphql-api,graphql-schema,apollo-ios,apollographql,parse-server,backend-services",2802
+24,https://github.com/Tencent/MSEC.git,"Mass Service Engine in Cluster(MSEC) is opened source by QQ team from Tencent. It is a backend DEV &OPS engine, including RPC,name finding,load balance,monitoring,release and capacity management.  ",,2763
+25,https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server.git,":email: An Example of using an HTML form (e.g: ""Contact Us"" on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect data. ","email,html-form,google-spreadsheet,no-server,ajax,tutorial,howto,static-site,example,form",2523
+26,https://github.com/passbolt/passbolt_api.git,"Passbolt CE Backend, a JSON API written with Cakephp","password-manager,passbolt,security,cakephp",2487
+27,https://github.com/bitcoin-wallet/bitcoin-wallet.git,"Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.","bitcoin,bitcoinj,bitcoin-wallet,android,java,blockchain,p2p,segwit,bech32",2431
+28,https://github.com/jvilk/BrowserFS.git,BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.,,2405
+29,https://github.com/fossasia/susi_server.git,SUSI.AI server backend - the Artificial Intelligence server for personal assistants  https://api.susi.ai,,2277
+30,https://github.com/PHPSocialNetwork/phpfastcache.git,"A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothing, yielding faster page load times for users, better resource utilization.  It is simple yet powerful. ","cache,php,redis,couchbase,speed,website,mongodb,cassandra,driver,memcached,couchdb,phpfastcache,php7",2130
+31,https://github.com/yuantiku/YTKKeyValueStore.git,"A simple Key-Value storage tool, using Sqlite as backend.",,2110
+32,https://github.com/jazzband/django-redis.git,Full featured redis cache backend for Django.,,2053
+33,https://github.com/encoredev/encore.git,The Go backend framework with superpowers,"go,api,framework,backend,microservices,encore",2015
+34,https://github.com/openzipkin/brave.git,Java distributed tracing implementation compatible with Zipkin backend services.,"zipkin,java,distributed-tracing,tracing,zipkin-brave,instrumentation,openzipkin",2014
+35,https://github.com/gorilla/sessions.git,Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.,"gorilla,cookie,go",1964
+36,https://github.com/GoogleChrome/web.dev.git,"The frontend, backend, and content source code for web.dev","html,css,javascript,web,mobile-web,web-app,progressive-web-app",1948
+37,https://github.com/Flood-UI/flood.git,"A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood. ","react,nodejs,rtorrent,qbittorrent,transmission,webui",1788
+38,https://github.com/tarent/loginsrv.git,"JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..","jwt,htpasswd,service,golang,caddy,caddyserver,login,oauth2,github",1776
+39,https://github.com/alibaba/Tangram-iOS.git,"Tangram is a modular UI solution for building native page dynamically, including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on iOS platform.","tangram,lazyscrollview,native-dynamic,scrollview,ios,modular-ui-solution",1770
+40,https://github.com/corona-warn-app/cwa-server.git,Backend implementation for the Apple/Google exposure notification API.,"covid-19,covid19,corona,coronavirus,cwa-server",1717
+41,https://github.com/contiamo/restful-react.git,"A consistent, declarative way of interacting with RESTful backends, featuring code-generation from Swagger and OpenAPI specs 🔥","openapi,openapi3,swagger,rest,react,typescript",1700
+42,https://github.com/experiencor/keras-yolo2.git,Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).,"convolutional-networks,deep-learning,yolo2,realtime,regression",1673
+43,https://github.com/fossasia/badgeyay.git,Attendee Badge Generator for Conferences http://badgeyay.com Backend: http://badgeyay-dev.herokuapp.com,,1649
+44,https://github.com/yinqiwen/ardb.git,"{""A redis protocol compatible nosql,  it support multiple storage engines as backend like Google's LevelDB, Facebook's RocksDB, OpenLDAP's LMDB,  PerconaFT, WiredTiger, ForestDB.""}","redis,key-value,persistence,database,server,c-plus-plus,rocksdb,lmdb,leveldb,wiredtiger,percona,forestdb,nosql,nosql-database,lua",1649
+45,https://github.com/benwilber/boltstream.git,Boltstream Live Video Streaming Website + Backend,,1646
+46,https://github.com/hugegraph/hugegraph.git,"HugeGraph Database core component, including graph engine, API, and built-in backends",,1613
+47,https://github.com/spring-guides/tut-spring-security-and-angular-js.git,"Spring Security and Angular:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.",,1611
+48,https://github.com/opnsense/core.git,"OPNsense GUI, API and systems backend","firewall,gui,api,ips,proxy,vpn,shaping,captive-portal,bsd,routing",1610
+49,https://github.com/futurice/backend-best-practices.git,An evolving description of general best practices for backend development.,best-practices,1596
+50,https://github.com/elninotech/uppload.git,"📁 JavaScript image uploader and editor, no backend required","widget,javascript,file-upload,plugin,image,uploader",1595
+51,https://github.com/weibocom/nginx-upsync-module.git,"{""For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers attributes(weight, max_fails, down...), needn't reload nginx""}",,1554
+52,https://github.com/LeelaChessZero/lc0.git,"The rewritten engine, originally for tensorflow. Now all other backends have been ported here.",,1535
+53,https://github.com/lujakob/nestjs-realworld-example-app.git,Exemplary real world backend API built with NestJS + TypeORM / Prisma,"nestjs,typeorm,prisma",1505
+54,https://github.com/grafana/tempo.git,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.","distributed-tracing,grafana",1469
+55,https://github.com/lukechilds/keyv.git,Simple key-value storage with support for multiple backends,"keyv,key-value,cache",1468
+56,https://github.com/lonnieezell/Bonfire.git,"Jumpstart your CodeIgniter web applications with a modular, HMVC-ready, backend.",,1435
+57,https://github.com/dwijitsolutions/laraadmin.git,"LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel with features like Advanced CRUD Generation, Module Manager, Backups and many more.",,1433
+58,https://github.com/graphite-project/carbon.git,"Carbon is one of the components of Graphite, and is responsible for receiving metrics over the network and writing them down to disk using a storage backend.","carbon,graphite,python,graphite-components,time-series,metrics,hacktoberfest",1422
+59,https://github.com/onnx/onnx-tensorrt.git,ONNX-TensorRT: TensorRT backend for ONNX,"onnx,deep-learning,nvidia",1421
+60,https://github.com/dternyak/React-Redux-Flask.git,Boilerplate application for a Python/Flask JWT Backend and a Javascript/React/Redux Front-End with Material UI.,"redux,react,flask,material-ui,boilerplate-application",1405
+61,https://github.com/CloudBoost/cloudboost.git,Realtime JavaScript Backend. ,"backend-services,api,cloud-platform,baas,backend-as-a-service,backendless,realtime,realtime-database,search,storage-api,docker",1386
+62,https://github.com/fossasia/knitweb.git,knitting web app frontend and backend,,1383
+63,https://github.com/fossasia/knitlib.git,Knitting backend library for knitting machines,,1381
+64,https://github.com/afteracademy/nodejs-backend-architecture-typescript.git,"Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy","nodejs,expressjs,typescript,docker,docker-compose,medium-article,mindorks,jest,mongodb,mongoose,freecodecamp",1379
+65,https://github.com/jonseg/crud-admin-generator.git,An open source tool to generate a complete backend from a MySql database.,,1371
+66,https://github.com/gothinkster/aspnetcore-realworld-example-app.git,ASP.NET Core backend implementation for RealWorld,"asp-net-core,net-core,entity-framework-core,mediatr,automapper,cake,csharp,realworld",1365
+67,https://github.com/PansonPanson/Java-Notes.git,:books: 计算机科学基础知识、Java开发、后端/服务端、面试相关        :books: computer-science/Java-development/backend/interview,"java,computer-network,operating-system,database,backend,computer-science,jvm,concurrency,distributed,message-queue",1324
+68,https://github.com/Tencent/paxosstore.git,"PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS.","paxos,database,distributed-database,consensus",1315
+69,https://github.com/redacademy/vue-ethereum-ipfs.git,"Distributed Application Starter: Vue front-end, Ethereum / IPFS Backend","javascript,solidity,vue,ethereum,ipfs",1314
+70,https://github.com/daleroberts/itermplot.git,"An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.","python,iterm2,matplotlib,plot,visualization,command-line",1279
+71,https://github.com/daptin/daptin.git,Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS,"content-management,headless-cms,static-site,graphql,graphql-server,graphql-api,json-api,crud-apis,cloud-storage",1234
+72,https://github.com/yongman/tidis.git,"Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend","redis,nosql,database,tikv,2pc,raft,distributed-nosql-database,transaction-storage,transaction,rocksdb,shared-nothing",1203
+73,https://github.com/session-replay-tools/cetus.git,Cetus is a high performance middleware that provides transparent routing between your application and any backend MySQL Servers. ,"mysql,xa,sharding,distributed,performance,mysql-proxy,database,scaling,middleware,horizontal-scalable",1201
+74,https://github.com/scality/cloudserver.git,"Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.","aws-s3,docker,multiple-backends,storage,cloud,s3-storage,cloud-storage,cloud-native,object-storage,nodejs,javascript",1196
+75,https://github.com/basecamp/xip-pdns.git,PowerDNS pipe backend adapter powering xip.io,,1157
+76,https://github.com/anymail/django-anymail.git,"Django email backends and webhooks for Amazon SES, Mailgun, Mailjet, Postmark, SendGrid, Sendinblue, SparkPost and more","django,email,mailgun,postmark,sendgrid,sparkpost,mandrill,mailjet,sendinblue,amazon-ses",1145
+77,https://github.com/bernardphp/bernard.git,Bernard is a multi-backend PHP library for creating background jobs for later processing.,,1141
+78,https://github.com/dmstr/yii2-adminlte-asset.git,AdminLTE Asset Bundle for Backend Theme in Yii2 Framework,"yii2-asset,yii2,adminlte,admin-dashboard,admin-ui",1122
+79,https://github.com/dmlc/minpy.git,NumPy interface with mixed backend execution,,1119
+80,https://github.com/fashiontec/openwash-server.git,OpenWash Backend API Server,,1101
+81,https://github.com/GitbookIO/nuts.git,:chestnut: Releases/downloads server with auto-updater and GitHub as a backend,,1088
+82,https://github.com/ubisoft/massgate.git,"Massgate is the online backend server for the Massive Entertainment game World in Conflict, and is now open-source to make it possible for anyone to host their own Massgate server.",,1084
+83,https://github.com/angel-dart/angel.git,"[ARCHIVED] A polished, production-ready backend framework in Dart for the VM, AOT, and Flutter.","dart,web,server,framework,angel,dart-web,websocket-server,angel-framework",1081
+84,https://github.com/shea256/angular-flask.git,An AngularJS (frontend) + Flask / Python (backend) Boilerplate Application,,1067
+85,https://github.com/laravel/fortify.git,Backend controllers and scaffolding for Laravel authentication.,"laravel,auth",1060
+86,https://github.com/nsidnev/fastapi-realworld-example-app.git,Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI,"python,python3,async,fastapi,postgresql,docker,docker-compose,tutorial,github-actions",1054
+87,https://github.com/mattmezza/vue-beautiful-chat.git,"A simple and beautiful Vue chat component backend agnostic, fully customisable and extendable.","vue,chat,vuejs,frontend,message,support,colors,marketing,customer-support",1011
+88,https://github.com/sebleier/django-redis-cache.git,A Redis cache backend for django,,995
+89,https://github.com/gothinkster/laravel-realworld-example-app.git,Exemplary real world backend API built with Laravel,"laravel,backend,rest-api,crud,jwt,demo-app,realworld,codebase",978
+90,https://github.com/gaul/s3proxy.git,Access other storage backends via the S3 API,"s3,proxy,openstack-swift,azure,aws-s3,google-cloud-storage,backblaze-b2,atmos",969
+91,https://github.com/agiliq/merchant.git,A Django app to accept payments from various payment processors via Pluggable backends.,,966
+92,https://github.com/firestormforum/firestorm.git,"An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.","forum,phoenix,elixir,kickstarter,dailydrip,elixirsips",961
+93,https://github.com/davidfowl/Todos.git,Various todo list backend API implementations,,939
+94,https://github.com/dengyin2000/dynamic_widget.git,"A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.","flutter,widget,dynamicwidget,dynamic",912
+95,https://github.com/onnx/onnx-tensorflow.git,Tensorflow Backend for ONNX,"deep-neural-networks,deep-learning,tensorflow,onnx",885
+96,https://github.com/jlongster/electron-with-server-example.git,An example Electron app with a backend server all wired up via IPC,,864
+97,https://github.com/django-nonrel/mongodb-engine.git,Django MongoDB Backend,,858
+98,https://github.com/mratsim/Arraymancer.git,"A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends","tensor,nim,multidimensional-arrays,cuda,deep-learning,machine-learning,cudnn,high-performance-computing,gpu-computing,matrix-library,neural-networks,parallel-computing,openmp,linear-algebra,ndarray,opencl,gpgpu,iot,automatic-differentiation,autograd",815
+99,https://github.com/Joshua-Ashton/d9vk.git,A Direct3D9 to Vulkan layer using the DXVK backend. [Upstreamed to DXVK],"d3d9,vulkan,spirv,wine,linux,directx,nine,dxvk,windows,direct3d",803
+100,https://github.com/estiens/world_cup_json.git,Rails backend for a scraper that outputs World Cup data as JSON,,799
+101,https://github.com/turicas/brasil.io.git,"Backend do Brasil.IO (para código dos scripts de coleta de dados, veja o link na página de cada dataset)","opendata,brazil,python,data,dados-abertos,brasil,hacktoberfest",786
+102,https://github.com/upmin/upmin-admin-ruby.git,Framework for creating powerful admin backends with minimal effort in Ruby on Rails.,,777
+103,https://github.com/django-ses/django-ses.git,"{""A Django email backend for Amazon's Simple Email Service""}",,775
+104,https://github.com/jorge07/symfony-5-es-cqrs-boilerplate.git,Symfony 5 DDD ES CQRS backend boilerplate,"symfony,event-sourcing,cqrs,cqrs-es,ddd,symfony-flex,backend,docker,hacktoberfest",774
+105,https://github.com/darklang/dark.git,"Client, backend, and services for Dark: https://darklang.com",,769
+106,https://github.com/doubleleft/hook.git,"A RESTful and extendable Backend as a Service that provides instant backend to develop sites and apps faster, with dead-simple integration for JavaScript, iOS, Android and more.","backend-as-a-service,php,baas",761
+107,https://github.com/HospitalRun/hospitalrun-server.git,Backend for HospitalRun,"nodejs,fastify,hospitalrun,backend,hospitalrun-server",756
+108,https://github.com/rails/activejob.git,Declare job classes that can be run by a variety of queueing backends,,751
+109,https://github.com/mondora/asteroid.git,An alternative client for a Meteor backend,,743
+110,https://github.com/hugoam/kiui.git,"Auto-layout Ui library, lightweight, skinnable and system agnostic, with an OpenGL backend",,737
+111,https://github.com/amazon-archives/aws-serverless-auth-reference-app.git,"Serverless reference app and backend API, showcasing authentication and authorization patterns using Amazon Cognito, Amazon API Gateway, AWS Lambda, and AWS IAM.","amazon-cognito,aws-cognito,serverless,iam,serverless-architectures,aws-lambda,cognito,cognito-quickstart,authentication,authorization,auth,amazon-api-gateway,aws,aws-apigateway",726
+112,https://github.com/godlikepanos/anki-3d-engine.git,"AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more","vulkan,game-engine,3d,graphics,c-plus-plus,linux,windows",720
+113,https://github.com/ufna/VaRest.git,REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!,"unreal-engine,c-plus-plus,blueprint,rest-api,ue4,ue4-plugin,web,rest-client",719
+114,https://github.com/proshoumma/ReForum.git,"A minimal forum board application. Built on top of React-Redux frontend, ExpressJS-NodeJS backend (with PassportJS for OAuth) and MongoDB databse.","reactjs,redux,expressjs,passportjs,mongodb-database",719
+115,https://github.com/kirel/detexify-hs-backend.git,Detexify Backend written in Haskell,,711
+116,https://github.com/getoutreach/adminjs.git,The backend agnostic administration framework.,,706
+117,https://github.com/bjorn3/rustc_codegen_cranelift.git,Cranelift based backend for rustc,"rust,compiler,cranelift,jit,aot",705
+118,https://github.com/bensheldon/good_job.git,"Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.","ruby-on-rails,activejob,activejob-backend,multithreaded,rails",702
+119,https://github.com/xmikos/qspectrumanalyzer.git,"Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, hackrf_sweep, rtl_power, rx_power and other backends)","sdr,spectrum-analyzer,software-defined-radio,radio,rtl-sdr,hackrf,limesdr,airspy,fft,visualization,qt,python",699
+120,https://github.com/Finb/bark-server.git,Backend of Bark,,687
+121,https://github.com/michaelcontento/redux-storage.git,Persistence layer for redux with flexible backends,"react,redux,storage,javascript,database,storage-engine,immutablejs",682
+122,https://github.com/quarnster/completion.git,This project aims to implement an editor and language agnostic backend,,682
+123,https://github.com/subzerocloud/postgrest-starter-kit.git,Starter Kit and tooling for authoring REST API backends with PostgREST,"postgrest,postgresql,api,rest,openresty,docker,boilerplate,starter-kit,rabbitmq,automatic-api",677
+124,https://github.com/twitter/pelikan.git,"{""Pelikan is Twitter's unified cache backend""}",,675
+125,https://github.com/PatrikHlobil/Pandas-Bokeh.git,Bokeh Plotting Backend for Pandas and GeoPandas,,666
+126,https://github.com/DMOJ/judge-server.git,Judging backend server for the DMOJ online judge.,"online-judge,sandbox,competitive-programming,computer-science,linux,freebsd,contest-platform",658
+127,https://github.com/amazon-archives/aws-mobile-react-sample.git,"A React Starter App that displays how web developers can integrate their front end with AWS on the backend. The App interacts with AWS Cognito, API Gateway, Lambda and DynamoDB on the backend.","react,aws,serverless,dynamodb,cognito,api-gateway,lambda,mobile-hub,s3,javascript,aws-amplify,aws-amplify-react",651
+128,https://github.com/eaigner/DataKit.git,DataKit makes it easy to add web backends to your apps!,,651
+129,https://github.com/swank-js/swank-js.git,Swank backend for Node.JS and in-browser JavaScript,,638
+130,https://github.com/philipsorst/angular-rest-springsecurity.git,An example AngularJS Application that uses a Spring Security protected Jersey REST backend based on Hibernate/JPA,,629
+131,https://github.com/awes-io/awes-io.git,"Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟","vue,nuxt,tailwindcss,laravel,boilerplate,ui-kit,crm-platform,saas-boilerplate,pwa-boilerplate,pwa,spa,ssr",627
+132,https://github.com/CoderKungfu/php-queue.git,"A unified front-end for different queuing backends. Includes a REST server, CLI interface and daemon runners.",,627
+133,https://github.com/rspeele/Rezoom.SQL.git,Statically typechecks a common SQL dialect and translates it to various RDBMS backends,"sql,compiler,typechecker,sqlite,sqlserver,tsql,postgresql,fsharp",625
+134,https://github.com/harthur/classifier.git,[UNMAINTAINED] Bayesian classifier with Redis backend,,619
+135,https://github.com/ReactTraining/react-stdio.git,Render React.js components on any backend,,618
+136,https://github.com/wnielson/Plex-Remote-Transcoder.git,A distributed transcoding backend for Plex,,608
+137,https://github.com/filearts/plunker.git,Plnkr.co front-end and backend,,605
+138,https://github.com/cloverstudio/Spika.git,"Spika is universal chat module with backend, web, ios and Android client.",,603
+139,https://github.com/btford/angular-express-blog.git,Example AngularJS app using an Express + Node.js backend.,,602
+140,https://github.com/vmihailenco/taskq.git,"Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends","go,golang,queue,message-queue,ironmq,sqs,redis,task-queue,taskqueue,ironmq-backend",595
+141,https://github.com/ivanceras/sauron-native.git,"Truly cross platform, truly native. multiple backend GUI for rust","gui,native,gtk,html,terminal,tui",591
+142,https://github.com/Arkq/bluez-alsa.git,Bluetooth Audio ALSA Backend,"audio,bluetooth,alsa,bluez,linux",586
+143,https://github.com/PatilShreyas/NotyKT.git,📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.,"kotlin,ktor,backend,api,rest-api,android,coroutines,testing,mvvm-android,mvvm-architecture,coroutines-android,hilt-android,dependency-injection,flow,viewbinding,retrofit2,jetpack-compose,navigation-architecture-component",583
+144,https://github.com/e-commerce-sample/ecommerce-order-service.git,Order backend for Ecommerce.,,582
+145,https://github.com/kwebio/kweb-core.git,A lightweight Kotlin web framework for backend developers 🦆,"kotlin,web-framework,web-performance,html,dom",577
+146,https://github.com/aws-samples/lambda-refarch-mobilebackend.git,Serverless Reference Architecture for creating a Mobile Backend,,562
+147,https://github.com/plentico/plenti.git,Static Site Generator with Go backend and Svelte frontend,"ssg,go,jamstack,svelte,git-cms",562
+148,https://github.com/aws-samples/lambda-refarch-imagerecognition.git,"The Image Recognition and Processing Backend reference architecture demonstrates how to use AWS Step Functions to orchestrate a serverless processing workflow using AWS Lambda, Amazon S3, Amazon DynamoDB and Amazon Rekognition.",,561
+149,https://github.com/fatiherikli/mockup-designer.git,The mockup tool that uses your local storage as backend.,,559
+150,https://github.com/Adamdad/keras-YOLOv3-mobilenet.git,I transfer the backend of yolov3 into Mobilenetv1，VGG16，ResNet101 and ResNeXt101,"object-detection,yolov3,mobilenet,keras,tensorflow,vgg16,keras-yolov3-mobilenet,yolo,anchor",555
+151,https://github.com/btccom/btcpool-ABANDONED.git,backend of pool.btc.com,"btc,pool,bitcoin,ethereum,blockchain,mine,decred",553
+152,https://github.com/dockersamples/atsea-sample-shop-app.git,A sample app that uses a Java Spring Boot backend connected to a database to display a fictitious art shop with a React front-end.,"java,spring-boot,react,docker,swarm-mode",553
+153,https://github.com/Devs-Garden/jsonbase.git,"A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new features and providing more updates. The another beautiful advantage with JSON-base is since it is a NPM module, this fits well in your nodeJs applications eco system. if you want to develop quick prototypes/poc or need of a database with minimal requirements then, JSONBASe is an must option that you can consider. However there is a limitation if you go beyond a million records per table.","database,npm-module,json-base",553
+154,https://github.com/shyiko/kubesec.git,"Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)","kubernetes,secret,gpg,google-cloud-kms,aws-kms",551
+155,https://github.com/Santos-Enoque/complete_flutter_ecommerce.git,This repo will contain the backend code and the Ui of the flutter ecommerce app,,550
+156,https://github.com/hay-kot/mealie.git,Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor,"meal-plans,self-hosted,recipe-manager",547
+157,https://github.com/mohak1283/Instagram-Clone.git,Working Instagram Clone (Frontend + Backend) created with Flutter and Firebase,"flutter,flutter-examples,flutter-apps,flutter-demo,dart,flutter-example-app,instagram-clone",546
+158,https://github.com/andyarvanitis/purescript-native.git,A native compiler backend for PureScript (via C++ or Golang),,545
+159,https://github.com/passwall/passwall-server.git,PassWall Server is the core backend infrastructure for PassWall platform,"golang,go,api,password,password-manager",539
+160,https://github.com/zentralopensource/zentral.git,"Zentral is an open-source solution for infrastructure monitoring and endpoint event stream processing. It provides build-in orchestration of macOS security components (Santa, Osquery, et-al.), event correlation and event management. It consolidates its features with various data store backends (ElasticStack, Azure Log Analytics, Splunk, et-al.).","logging,sysadmin,macos,osquery,santa,munki,open,puppet,monitor,puppetdb,mdm,dep,azure,elastic,zentral,inventory",533
+161,https://github.com/manikandanraji/youtubeclone-backend.git,Youtube Clone Backend (Express + Sequelize),,531
+162,https://github.com/tidyverse/multidplyr.git,A dplyr backend that partitions a data frame over multiple processes,"dplyr,multiprocess",523
+163,https://github.com/aws-samples/aws-serverless-ecommerce-platform.git,"Serverless Ecommerce Platform is a sample implementation of a serverless backend for an e-commerce website. This sample is not meant to be used as an e-commerce platform as-is, but as an inspiration on how to build event-driven serverless microservices on AWS.","serverless,aws,eventbridge,microservices,api-gateway,appsync,lambda",510
+164,https://github.com/TommyX12/company-tabnine.git,"A company-mode backend for TabNine, the all-language autocompleter: https://tabnine.com/",,503
+165,https://github.com/limetext/backend.git,Backend for LimeText,"golang,editor",502
+166,https://github.com/ACRA/acralyzer.git,Open source backend for ACRA reports.,,497
+167,https://github.com/voxpupuli/hiera-eyaml.git,A backend for Hiera that provides per-value asymmetric encryption of sensitive data,hacktoberfest,495
+168,https://github.com/ajweeks/FlexEngine.git,Cross-platform game engine with Vulkan backend,"vulkan,cpp,glsl,rendering-engine,game-engine,personal-game-engine,flex-engine",493
+169,https://github.com/reactioncommerce/example-storefront.git,"Example Storefront is Reaction Commerce’s headless ecommerce storefront - Next.js, GraphQL, React. Built using Apollo Client and the commerce-focused React UI components provided in the Storefront Component Library (reactioncommerce/reaction-component-library). It connects with Reaction backend with the GraphQL API.","ecommerce-platform,ecommerce,commerce,reactioncommerce,storefront,e-commerce,javascript,cart,shop,marketplace,docker,mongodb,headless,graphql,ssr,graphql-client,apollo,react,nextjs",487
+170,https://github.com/keets2012/microservice-integration.git,"microservice-integration with auth, gateway and backend.",,482
+171,https://github.com/EiNSTeiN-/decompiler.git,"A decompiler with multiple backend support, written in Python. Works with IDA and Capstone.",,481
+172,https://github.com/martinrusev/django-redis-sessions.git,Session backend for Django that stores sessions in a Redis database,"redis,django,django-redis-sessions,redis-database",481
+173,https://github.com/JuliaComputingOSS/llvm-cbe.git,"resurrected LLVM ""C Backend"", with improvements",,479
+174,https://github.com/mapbox/tilelive.git,fast interface to tiles with pluggable backends - NOT ACTIVELY MAINTAINED,,477
+175,https://github.com/mozilla/zamboni.git,Backend for the Firefox Marketplace,,476
+176,https://github.com/tidyverse/dtplyr.git,Data table backend for dplyr,"r,dplyr,datatable",475
+177,https://github.com/chrisdiana/simplestore.git,"A clean, responsive storefront boilerplate with no database or backend","javascript,store,storefront,ecommerce,databaseless,serverless,no-database",472
+178,https://github.com/theankurkedia/newsbuzz.git,News App created in Flutter using News API for fetching realtime data and Firebase as the backend and authenticator.,"flutter,firebase,dart",472
+179,https://github.com/sihorton/appjs-deskshell.git,SDK to build desktop apps using HTML5/CSS/JS for frontend and server script for backend ,,463
+180,https://github.com/ovr/StaticScript.git,:rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend ,"typescript,llvm",463
+181,https://github.com/adamwalach/openvpn-web-ui.git,Web interface (with golang backend) for monitoring and administration of OpenVPN server,"openvpn,admin,webapp",462
+182,https://github.com/Viber/build-a-bot-with-zero-coding.git,An example of using Google Sheets to create a Viber survey chat bot without a backend server,"google-script,viber,chatbot,google-sheets",461
+183,https://github.com/apache/incubator-eventmesh.git,"EventMesh is a dynamic cloud-native eventing infrastruture used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.","esb,event-driven,event-mesh,event-governance,cloud-native,serverless,message-bus,event-gateway,event-streaming,event-sourcing,serverless-workflow,cqrs,event-routing",449
+184,https://github.com/sumeetchhetri/ffead-cpp.git,"Framework for Enterprise Application Development in c++, HTTP1/HTTP2/HTTP3 compliant, Supports multiple server backends  ",,447
+185,https://github.com/treeform/fidget.git,"Figma based UI library for nim, with HTML and OpenGL backends.",,444
+186,https://github.com/dfeich/org-babel-examples.git,Examples using emacs org mode babel inline source code with different backend languages,,443
+187,https://github.com/blacklabelops/volumerize.git,Docker Volume Backups Multiple Backends,,441
+188,https://github.com/haxenme/nme.git,A cross-platform native backend for Haxe projects,,439
+189,https://github.com/danny0838/webscrapbook.git,"A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from ScrapBook X.","browser-addon,capture,archive,maff,bookmark,chrome-extension,firefox-addon",438
+190,https://github.com/dimagi/commcare-hq.git,"{""CommCareHQ is the server backend for CommCare, the world's largest platform for designing, managing, and deploying robust, offline-first, mobile applications to frontline workers worldwide""}",commcare-hq,436
+191,https://github.com/awslabs/dynamodb-janusgraph-storage-backend.git,The Amazon DynamoDB Storage Backend for JanusGraph,,431
+192,https://github.com/uber/clay.git,Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.,,427
+193,https://github.com/staart/api.git,🏁🛠️ SaaS backend & API framework based on @nestjs,"nodejs,typescript,starter-kit,stripe,saas,admin,auth,staart,nestjs,nest,saas-startups",425
+194,https://github.com/madari/go-socket.io.git,A Socket.IO backend implementation written in Go,"socket-io,socketio,go",408
+195,https://github.com/anttttti/Wordbatch.git,"Python library for distributed AI processing pipelines, using swappable scheduler backends.",,408
+196,https://github.com/fairingrey/actix-realworld-example-app.git,"{""Implementation of the RealWorld backend API spec in Actix, Rust's powerful actor system and most fun web framework.""}","actix-web,actix,rust,backend,backend-server,realworld-backend,web",407
+197,https://github.com/illuhad/hipSYCL.git,Multi-backend implementation of SYCL for CPUs and GPUs,"sycl,opencl,cuda,hip,gpgpu,high-performance,gpu,gpu-computing,high-performance-computing,nvidia-cuda,rocm,clang",399
+198,https://github.com/borysn/spring-boot-angular2.git,"spring boot backend, angular2 frontend with webpack, typescript, sass, bootstrap4, karma, jasmine","spring-boot,angular,bootstrap,bithound,angular2-frontend,jasmine,typescript,karma,sass,java,gradle,springboot,spring",398
+199,https://github.com/wx-chevalier/ms-backend-boilerplates.git,"Boilerplate for Your Server Side(Backend) Application, Java | Spring(Boot, Cloud) | Node.js(Express, Koa, Egg) | Go | Python | DevOps 💫 服务端项目模板","spring-boot,spring,gradle,maven,wx-code,wx-snippets",394
+200,https://github.com/benawad/slack-clone-server.git,The backend for a Slack clone using React and GraphQL,,390
+201,https://github.com/Erudika/para.git,"Open source back-end server for web, mobile and IoT. The backend for busy developers. (self-hosted or hosted)","backend,api-server,json-api,baas,para,java,rest-api,backend-as-a-service,backend-server,backend-service,modular,search-engine,standalone-server,back-end,self-hosted,backend-api,rapid-prototyping,serverless,api",390
+202,https://github.com/create-go-app/cli.git,"✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!","cli,cli-app,cli-commands,golang,go,create-go-app,cgapp,frontend,backend,docker-container,boilerplate-template,boilerplate-application,go-cli,ansible-playbook,ansible-roles,cui,docker-image,backend-template,homebrew-tap",389
+203,https://github.com/a1ext/labeless.git,"Labeless is a multipurpose IDA Pro plugin system for labels/comments synchronization with a debugger backend, with complex memory dumping and interactive Python scripting capabilities.","ida,memorydumping,python-script,x64dbg,ollydbg,labeless,x86,x86-64,x64,x64dbg-plugin,reversing,heap-spray,broken-pe-headers,decryption-automation",388
+204,https://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git,A Zend_Cache backend for Redis with full support for tags (works great with Magento),,386
+205,https://github.com/decision-labs/gcm.git,A gem that helps developers send data from ruby backend servers to their Mobile applications on devices via Google Cloud Messaging (GCM).,,386
+206,https://github.com/dataarts/tailbone.git,Automatic RESTful backend for AppEngine,,381
+207,https://github.com/arjunyel/firestore-apollo-graphql.git,An example of a GraphQL setup with a Firebase Firestore backend. Uses Apollo Engine/Server 2.0 and deployed to Google App Engine.,"firebase,firestore,graphql,apollo,apollo-server,apollo-engine,app-engine",381
+208,https://github.com/heetch/confita.git,Load configuration in cascade from multiple backends into a struct,"configuration,structure,configuration-loader,golang,team-boost",377
+209,https://github.com/tonysimpson/nanomsg-python.git,nanomsg wrapper for python with multiple backends (CPython and ctypes) should support 2/3 and Pypy,,376
+210,https://github.com/mixu/minilog.git,Lightweight client & server-side logging with Stream-API backends,,373
+211,https://github.com/restic/rest-server.git,"{""Rest Server is a high performance HTTP server that implements restic's REST backend API.""}",,373
+212,https://github.com/XiaoMi/hiui.git,"HIUI is a solution that is adequate for the fomulation and implementation of interaction and UI design standard for front, middle and backend.","design-system,component-library,react,react-components",373
+213,https://github.com/hashicorp/raft-boltdb.git,Raft backend implementation using BoltDB,,372
+214,https://github.com/yoonic/atlas.git,E-Commerce Backend API in Hapi.js and RethinkDB,,372
+215,https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras.git,Keras tutorial for beginners (using TF backend),"rnn,gru,lstm,deep-learning,deep-neural-networks,neural-network,neural-networks,convolutional-neural-networks,convolutional-networks,convolutional-neural-network",371
+216,https://github.com/django/channels_redis.git,Redis channel layer backend for Django Channels,,371
+217,https://github.com/requests/requests-threads.git,🎭 Twisted Deferred Thread backend for Requests. ,"twisted,deferred,requests,async,asyncio,threads",370
+218,https://github.com/Wildhoney/Magento-on-Angular.git,Angular.js application using Magento as the backend API,,369
+219,https://github.com/jesec/flood.git,A modern web UI for various torrent clients with a Node.js backend and React frontend.,"rtorrent,webui,nodejs,react,qbittorrent,transmission",369
+220,https://github.com/ExHammer/hammer.git,An Elixir rate-limiter with pluggable backends,"elixir,elixir-lang,rate-limiting,rate-limiter,phoenix-framework,phoenix",366
+221,https://github.com/zalandoresearch/pytorch-ts.git,PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend,"pytorch,time-series,probabilistic,deepar,lstnet,n-beats",366
+222,https://github.com/webrpc/webrpc.git,webrpc is a schema-driven approach to writing backend services for modern Web apps and networks,"webrpc,json,webapps,code-generation,golang,typescript,rpc",366
+223,https://github.com/esausilva/example-create-react-app-express.git,Example on using create-react-app with a Node Express Backend,"create-react-app,node,express,react",365
+224,https://github.com/Shyam-Chen/Express-Starter.git,":truck: A boilerplate for Node.js, Express, Mongoose, Heroku, Atlas, Nodemon, PM2, and Babel. REST / GraphQL API Server | PaaS | SaaS | CI/CD | Jest | Supertest | Docker | MongoDB | PostgreSQL | Sequelize | Lodash | RxJS | JWT | Passport | WebSocket | Redis | CircleCI | Apollo | DevSecOps | Microservices | Backend Starter Kit | ES6","nodejs,express,mongoose,heroku,mlab,nodemon,pm2,babel",365
+225,https://github.com/LunarFlash/Chaty.git,"{""Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching""}",,364
+226,https://github.com/grosser/fast_gettext.git,"Ruby GetText, but 12x faster + 530x less garbage + simple + clean namespace + threadsafe + extendable + multiple backends",,362
+227,https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch.git,Real-time 3D multi-person pose estimation demo in PyTorch. OpenVINO backend can be used for fast inference on CPU.,"human-pose-estimation,real-time,3d-human-pose,multi-person-pose-estimation,lightweight,pytorch,openvino,deep-learning,keypoint-estimation,cmu-panoptic,computer-vision",362
+228,https://github.com/nielsutrecht/jwt-angular-spring.git,JSON Web Token example that integrates both a Spring backend with an AngularJS frontend.,"blogs,spring,spring-boot,java",361
+229,https://github.com/codingforentrepreneurs/Try-Django-1.11.git,"{""Learn the fundamentals behind one of the most popular web frameworks in the world: Django. We will teach you step-by-step how to implement concepts like Views, Template Rendering, Forms, Saving Data, URL routing, Deployment aka Going Live, and so much more.   Django is a web-framework written in Python and runs the backend for many of the internet's most popular websites such as Instagram and Pinterest.   Get started today!""}","django,python,bootstrap,python3,django111",360
+230,https://github.com/go-redis/cache.git,Cache library with Redis backend for Golang,"redis,golang,go-redis,cache",359
+231,https://github.com/pmclanahan/django-celery-email.git,A Django email backend that uses a celery task for sending the email.,"python,django,celery",358
+232,https://github.com/bzikarsky/gelf-php.git,A php implementation to send log-files to a gelf compatible backend like graylog,,357
+233,https://github.com/repology/repology-updater.git,Repology backend service to update repository and package data,"packages,repository,version,package",355
+234,https://github.com/tbicr/django-pg-zero-downtime-migrations.git,Django postgresql backend that apply migrations with respect to database locks,"python,python3,django,django-postgresql,django-backend,django-migrations",354
+235,https://github.com/reindexio/reindex-api.git,GraphQL backend as a service,,352
+236,https://github.com/heynemann/r3.git,r³ is a map-reduce engine written in python using redis as a backend,,351
+237,https://github.com/knewter/time-tracker.git,"An example Single Page Application in Elm, using elm-mdl for the UI, with a Phoenix backend.",,351
+238,https://github.com/timolson/cointrader.git,"Coin Trader is a Java-based backend for algorithmically trading cryptocurrencies.  It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading.","cryptocurrency,trading-cryptocurrencies,trading-platform,trading-bot,trading-algorithms",349
+239,https://github.com/boj/redistore.git,A session store backend for gorilla/sessions using Redis.,,346
+240,https://github.com/johndatserakis/koa-vue-notes-api.git,"🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and async/await.","koa,node,spa,backend,mysql,boilerplate,demo,template,jwt,pm2,database,api",346
+241,https://github.com/sttz/MPlayer-OSX-Extended.git,"MPlayer OSX Extended video player for Mac. Continuation of original MPlayer OSX project, using MPlayer command line as backend.",,343
+242,https://github.com/updivision/estarter-ecommerce-for-laravel.git,The best way to start your custom e-commerce on Laravel. You get a ready to clone Laravel installation with a functional shop backend and a DIY frontend.,,341
+243,https://github.com/aws-samples/aws-bookstore-demo-app.git,AWS Bookstore Demo App is a full-stack sample web application that creates a storefront (and backend) for customers to shop for fictitious books. The entire application can be created with a single template. Built on AWS Full-Stack Template.,,341
+244,https://github.com/Ma-Dan/keras-yolo4.git,A Keras implementation of YOLOv4 (Tensorflow backend),"keras,yolov4,object-detection",340
+245,https://github.com/Peltoche/vixi.git,A vim like client for the xi backend,"vim,frontend,xi-editor",339
+246,https://github.com/vuestorefront/vue-storefront-api.git,Vue.js storefront for Magento2 (and not only) - data backend,"elasticsearch,magento,redis,backend,vue-storefront,product-catalog,vuejs2,hac,hacktoberfest",336
+247,https://github.com/corona-warn-app/cwa-verification-server.git,Backend implementation of the verification process,,335
+248,https://github.com/LeonLok/Deep-SORT-YOLOv4.git,People detection and optional tracking with Tensorflow backend.,"yolov4,deep-sort,deep-sort-tracking,people-tracker,people-tracking,asynchronous,asynchronous-io,yolo,tensorflow,asynchronous-processing,tracking-algorithm,object-detection,object-tracking,tensorflow2,detection-algorithm,yolov3",335
+249,https://github.com/micahpearlman/MonkVG.git,MonkVG is an OpenVG 1.1 like vector graphics API implementation optimized for game use currently using an OpenGL ES backend that should be compatible with any HW that supports OpenGL ES 2.0 which includes most iOS and Android devices. ,,335
+250,https://github.com/DivineITLimited/hyper-editor.git,A backend independent visual composer for web.,"content-editor,block-editor,javascript,editor,vue,wysiwyg",332
+251,https://github.com/brack3t/Djrill.git,[INACTIVE/UNMAINTAINED] Djrill is an email backend and new message class for Django users that want to take advantage of the Mandrill transactional email service from MailChimp.,,331
+252,https://github.com/trezor/blockbook.git,:blue_book: Trezor address/account balance backend ,"bitcoin,backend,trezor",330
+253,https://github.com/etsy/statsd-jvm-profiler.git,Simple JVM Profiler Using StatsD and Other Metrics Backends,,330
+254,https://github.com/tobimensch/aqemu.git, Official AQEMU repository - a GUI for virtual machines using QEMU as the backend,"virtual-machines,virtual-machine,gui,qt,easy-to-use",329
+255,https://github.com/pietheinstrengholt/rssmonster.git,Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.,"fever-api,php,rss,google-reader,rss-reader,rssreader,vuejs,scrolling,express-js,nodejs,docker",326
+256,https://github.com/adewes/blitzdb.git,Blitz is a document-oriented database for Python that is backend-agnostic. It comes with a flat-file database for JSON documents and provides MongoDB-like querying capabilities.,,326
+257,https://github.com/vaidik/sherlock.git,Easy distributed locks for Python with a choice of backends.,"distributed-systems,distributed-locking,python,python3",325
+258,https://github.com/bradtraversy/devcamper-api.git,Backend for devcamper app,,323
+259,https://github.com/mattpap/IScala.git,Scala backend for IPython,,322
+260,https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS.git,A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserialization Using Components with Known Vulnerabilities Insufficient Logging & Monitoring Drupal WordPress Joomla Flash Magento PHP Plone WHMCS Atlassian Products malicious traffic Adult video script avs KVS Kernel Video Sharing Clip Bucket Tube sites Content Management Systems Social networks scripts backends proxy proxies PHP Python Porn sites xxx adult gaming networks servers sites forums vbulletin phpbb mybb smf simple machines forum xenforo web hosting video streaming buffering ldap upstream downstream download upload rtmp vod video over dl hls dash hds mss livestream drm mp4 mp3 swf css js html php python sex m3u zip rar archive compressed mitigation code source sourcecode chan 4chan 4chan.org 8chan.net 8ch 8ch.net infinite chan 8kun 8kun.net anonymous anon tor services .onion torproject.org nginx.org nginx.com openresty.org darknet dark net deepweb deep web darkweb dark web mirror vpn reddit reddit.com adobe flash hackthissite.org dreamhack hack hacked hacking hacker hackers hackerz hackz hacks code coding script scripting scripter source leaks leaked leaking cve vulnerability great firewall china america japan russia .gov government http1 http2 http3 quic q3 litespeedtech litespeed apache torrents torrent torrenting webtorrent bittorrent bitorrent bit-torrent cyberlocker cyberlockers cyber locker cyberbunker warez keygen key generator free irc internet relay chat peer-to-peer p2p cryptocurrency crypto bitcoin miner browser xmr monero coinhive coin hive coin-hive litecoin ethereum cpu cycles popads pop-ads advert advertisement networks banner ads protect ovh blazingfast.io amazon steampowered valve store.steampowered.com steamcommunity thepiratebay lulzsec antisec xhamster pornhub porn.com pornhub.com xhamster.com xvideos xvdideos.com xnxx xnxx.com popads popcash cpm ppc,"cloudflare,anti-ddos,ddos,dos,denial-of-service,distributed-denial-of-service,javascript,html,anti-ddos-script,ddos-attack,attack-mode,traffic,nginx-lua,protection,sucuri,bitmitigate,exploit,security,lua,ddos-mitigation",322
+261,https://github.com/torch/cutorch.git,A CUDA backend for Torch7,,321
+262,https://github.com/algolia/sup3rS3cretMes5age.git,"Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend","golang,vault,security,secrets,hashicorp-vault",321
+263,https://github.com/kottans/backend.git,:octocat: Kottans backend course 🎓,"javascript,nodejs,node,self-learning,backend,python,golang,go",320
+264,https://github.com/itsniper/FTASync.git,Allows you to sync CoreData entities with a Parse backend.,,319
+265,https://github.com/coderello/laravel-shared-data.git,📦 An easy way to share the data from your backend to the JavaScript.,,319
+266,https://github.com/namshi/mockserver.git,Mock your backends in a matter of seconds. HTTP is King.,,317
+267,https://github.com/Gizra/elm-hedley.git,Elm web app with Headless Drupal backend,,316
+268,https://github.com/xizhibei/blog.git,"个人博客，(Node.js/Golang/Backend/DevOps)，欢迎 Star, Watch 订阅以及评论","blog,issue-blog",316
+269,https://github.com/michaelneu/webxcel.git,🤔 A REST backend built with plain VBA Microsoft Excel macros. Yes. Macros.,"http,rest,excel,macros,modern-web,web,visual-basic,vba,vba-excel",315
+270,https://github.com/benhmoore/Argon.git,Plug and play backend based on JS and PHP.,,314
+271,https://github.com/PortSwigger/collaborator-everywhere.git,A Burp Suite Pro extension which augments your proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator,,314
+272,https://github.com/collectiveidea/delayed_job_active_record.git,ActiveRecord backend integration for DelayedJob 3.0+,,312
+273,https://github.com/yunnet/gardens.git,:gem: backend manager platform :heavy_plus_sign: 开源交流群：202196300,"beego,garden,adminlte2,d3js,mysql,redis",312
+274,https://github.com/omgnetwork/ewallet.git,eWallet Backend for the OmiseGO SDKs.,"omisego,ewallet,omg,wallet,loyalty-programs,elixir",311
+275,https://github.com/libfirm/libfirm.git,graph based intermediate representation and backend for optimising compilers,"compiler,libfirm,c,optimization,backend,ssa,graph",310
+276,https://github.com/vinsol/fullcalendar_rails.git,"Using FullCalendar jQuery plugin(http://arshaw.com/fullcalendar/) with Rails backend.  You can create, edit, delete, reschedule, resize events. ",,310
+277,https://github.com/DevArchitecture/DevArchitecture.git,DevArchitecture Backend Project,"c-sharp,aspnetcore,csharp,framework,clean-architecture,aspect-oriented-programming,dotnet-core,dotnet5,angular",309
+278,https://github.com/easyCZ/grpc-web-hacker-news.git,An example app implementing a Hacker News reader in React with gRPC-Web and Go backend,"grpc,grpc-web,react,redux,example,golang,typescript",303
+279,https://github.com/etianen/django-python3-ldap.git,Django LDAP user authentication backend for Python 3.,,302
+280,https://github.com/chxfantasy/spring-cloud-demo.git,"This repo is a spring-cloud-demo, can be used for a server backend","spring,eureka,spring-cloud,multi-database,dynamic-configuration,starter",302
+281,https://github.com/jazzband/django-queued-storage.git,Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely,,301
+282,https://github.com/adam-mcdaniel/free.git,An esoteric programming language with an unusual compiler backend,,300
+283,https://github.com/r4fek/django-cassandra-engine.git,Django Cassandra Engine - the Cassandra backend for Django,"cassandra,django,python,django-cassandra-engine,scylladb",299
+284,https://github.com/kaltura/server.git,"The Kaltura Platform Backend. To install Kaltura, visit the install packages repository.","video,video-platform,kaltura-platform,php,kaltura-ce,ovp,kaltura-cluster,online-video,media-management,media-library,media-services,media-server,media-platform,transcoding,video-streaming,video-transcoding,video-processing,video-management,video-recording,kaltura",299
+285,https://github.com/linde12/kod.git,"terminal text editor written in Go, using xi-editor as backend","xi-editor,golang,text-editor,terminal-based",296
+286,https://github.com/docker-archive/openstack-docker.git,Nova driver and Glance backend to use Docker inside OpenStack,,295
+287,https://github.com/cginternals/cppfs.git,Cross-platform C++ file system library supporting multiple backends,"c-plus-plus,c-plus-plus-11,library,filesystem-library",295
+288,https://github.com/logux/server.git,Build your own Logux server or make a proxy between a WebSocket and an HTTP backend in any language,,295
+289,https://github.com/alfredbaudisch/Godello.git,"Trello inspired kanban board made with the Godot Engine and GDScript, powered by an online real-time collaborative backend (Elixir and Phoenix Channels)","godot-engine,elixir,phoenix-framework,gdscript,godot,godotengine,elixir-lang,elixir-phoenix",295
+290,https://github.com/HeroicKatora/oxide-auth.git,"A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.","iron-framework,rust,web,web-development,actix-web",294
+291,https://github.com/tidyverse/dbplyr.git,Database (DBI) backend for dplyr,"r,database",292
+292,https://github.com/kentcdodds/testing-node-apps.git,Test Node.js Backends on TestingJavaScript.com,"kcd-edu,node,testing,testingjavascript",288
+293,https://github.com/muety/wakapi.git,"📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics","wakatime,wakatime-api,time-tracker,developer-tools,coding-statistics,self-hosted,productivity",287
+294,https://github.com/softwaremill/supler.git,Rapid Form Development library. Use your favourite JS frontend & Scala backend frameworks.,,287
+295,https://github.com/h2oai/deepwater.git,Deep Learning in H2O using Native GPU Backends,,286
+296,https://github.com/eventeum/eventeum.git,A resilient Ethereum event listener that bridges your smart contract events and backend microservices,"ethereum,ethereum-blockchain,blockchain,event-broadcasting,event-driven,smart-contracts,kafka,event-listener",283
+297,https://github.com/graphikDB/graphik.git,Graphik is a Backend as a Service implemented as an identity-aware document & graph database with support for gRPC and graphQL,"graphql,graph-theory,database,pubsub,streaming,grpc,oauth2,oidc,graph-database,cel,go,golang,grpc-api,grpc-client-sdks",283
+298,https://github.com/skoczen/django-ajax-uploader.git,"Ajax-based, multiple-upload django class with pluggable backends, and subclass goodness.",,282
+299,https://github.com/canonical/netplan.git,Backend-agnostic network configuration in YAML,,280
+300,https://github.com/BrettRToomey/Jobs.git,A job system for Swift backends.,,280
+301,https://github.com/aws-samples/aws-cognito-apigw-angular-auth.git,A simple/sample AngularV4-based web app that demonstrates different API authentication options using Amazon Cognito and API Gateway with an AWS Lambda and Amazon DynamoDB backend that stores user details in a complete end to end Serverless fashion.,"cognito-user-pool,amazon-cognito,api-gateway,aws-lambda,sam,cloudformation,dynamodb,angular4",280
+302,https://github.com/exoscale/pithos.git,"{""UNMAINTAINED - cassandra-backed object store. Retired backend for Exoscale's Simple Object Storage offering.""}",,279
+303,https://github.com/elastic/elasticsearch-py-async.git,"{""Backend for elasticsearch-py based on python's asyncio module.""}",,277
+304,https://github.com/WidgetsBurritos/d8-studyguide.git,"Study guide for the Acquia Certified Drupal 8 Developer, Backend and Frontend Exams. ","drupal-8,certification,acquia",277
+305,https://github.com/jet/equinox.git,".NET Event Sourcing library with CosmosDB, EventStoreDB, SqlStreamStore and integration test backends. Focused at stream level; see https://github.com/jet/propulsion for cross-stream projections/subscriptions/reactions","cosmos-db,eventstore,fsharp,event-sourcing,dotnet,dotnet-core,csharp,todo-backend,sqlstreamstore,postgres,sql-server,mysql,cosmosdb,memorystore",276
+306,https://github.com/hughperkins/cltorch.git,An OpenCL backend for torch.,,275
+307,https://github.com/ctdk/goiardi.git,"A Chef server written in Go, able to run entirely in memory, with optional persistence with saving the in-memory data to disk or using MySQL or Postgres as the data storage backend. Docs: http://goiardi.readthedocs.io/en/latest/index.html","golang,goiardi,chef-server,chef",274
+308,https://github.com/Lallassu/wizardwarz.git,WebGL Multiplayer game with NodeJS backend,"threejs,game,gamedev,indiedev,nodejs,javascript-game",271
+309,https://github.com/jxom/react-loads.git,React Loads is a backend agnostic library to help with external data fetching & caching in your UI components.,"react,loads,promise,loading,state,hook",271
+310,https://github.com/adr1enbe4udou1n/laravel-boilerplate.git,Laravel 5.7 Boilerplate based on Bootstrap 4 and Vue Tabler for Backend.,"laravel-boilerplate,bootstrap4,vue,bootstrap-vue,tabler,tabler-ui,laravel57",269
+311,https://github.com/myst729/Vuelog.git,A backend-free blog system built on top of Vue.js,"vuejs,blog-engine",269
+312,https://github.com/Swizec/serverlesshandbook.dev.git,A resource for frontend engineers to learn everything about modern backend development.,,269
+313,https://github.com/yiister/yii2-gentelella.git,Free admin template for backend,"gentelella,backend,yii2,yii2-extension,yii2-widgets,theme,template,yii2-admin",267
+314,https://github.com/terrycain/aioboto3.git,Wrapper to use boto3 resources with the aiobotocore async backend,,267
+315,https://github.com/oarriaga/STN.keras.git,Implementation of spatial transformer networks (STNs) in keras 2 with tensorflow as backend.,,267
+316,https://github.com/FasterXML/jackson-dataformats-text.git,"Uber-project for (some) standard Jackson textual format backends: csv, properties, yaml (xml to be added in future)","hacktoberfest,jackson,textual-formats",266
+317,https://github.com/colemancda/NetworkObjects.git,"Swift backend / server framework (Pure Swift, Supports Linux)",,265
+318,https://github.com/mickgeek/yii2-advanced-one-domain-config.git,A template configuration without separation on the frontend and backend parts on different domains.,"yii2,virtual-hosts,apache,nginx",265
+319,https://github.com/django-nonrel/djangoappengine.git,"Django backends for App Engine (datastore, mail, ...)",,264
+320,https://github.com/ngs-doo/revenj.git,DSL Platform compatible backend,,263
+321,https://github.com/alexanderjulo/wiki.git,"a flask based wiki, using markdown files as backend. completely file based!",,263
+322,https://github.com/poowf/otter.git,A relatively automatic CRUD backend administration panel for Laravel,"laravel,administration,backend,otter,dashboard,eloquent-models,laravel-nova,hacktoberfest",263
+323,https://github.com/yunity/karrot-frontend.git,"Web application for organization of foodsaving groups worldwide - frontend code and central location for feature planning. For server-side code, go to https://github.com/yunity/karrot-backend","social,community,organization,food",262
+324,https://github.com/emersion/xdg-desktop-portal-wlr.git,xdg-desktop-portal backend for wlroots,,260
+325,https://github.com/slashdotdash/conduit.git,RealWorld example backend implementing the CQRS/ES pattern in Elixir and Phoenix,"elixir,conduit,phoenix,cqrs,event-sourcing,cqrs-es",260
+326,https://github.com/nette/caching.git,⏱ Caching library with easy-to-use API and many cache backends.,"nette,nette-framework,php,cache,storage,expiration,memcached,atomicity",260
+327,https://github.com/SergeyTsalkov/brooce.git,Brooce is a language-agnostic job queue with a redis backend. It was written in Go.,,259
+328,https://github.com/darcys22/godbledger.git,Accounting Software with GRPC endpoints and SQL Backends,,258
+329,https://github.com/micromata/http-fake-backend.git,Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.,"nodejs,node,json,mocks,fake,fake-data,api,http,http-server,backend,rest,restful,data,mock,mocking,mocking-server,json-files,restful-api,rest-api",257
+330,https://github.com/maxogden/abstract-blob-store.git,A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms,,256
+331,https://github.com/Flynntes/Sleeky.git,🎨 A sleek and simple frontend & backend theme for YOURLS,"yourls,theme,url-shortener,php",255
+332,https://github.com/sxyu/volrend.git,PlenOctree Volume Rendering (supports CUDA & fragment shader backends),"rendering,octree,volume-rendering,spherical-harmonics",254
+333,https://github.com/plk/biber.git,Backend processor for BibLaTeX,,253
+334,https://github.com/i18next/i18next-xhr-backend.git,[deprecated] can be replaced with i18next-http-backend,"i18next,xhr,backend,plugin",252
+335,https://github.com/appcornerit/DeploydKit.git,DeploydKit makes it easy to add a professional web backend to your iOS app with Deployd.,,251
+336,https://github.com/substack/substack-flavored-webapp.git,Here are some tiny backend node modules I like to glue together to build webapps.,,250
+337,https://github.com/firesharkstudios/butterfly-server.git,The Everything is Real-Time C# Backend for Single Page Applications,"realtime,push,websocket,webapp,app,server,webserver,database,spa,butterfly",247
+338,https://github.com/google/hat-backup.git,Backend-agnostic snapshotting backup system,,246
+339,https://github.com/DockYard/ember-admin.git,Admin backend for ember-cli projects,,246
+340,https://github.com/ericnewton76/gmaps-api-net.git,C# google maps api interface for interacting with the backend web services for Google Maps,"editorconfig,c-sharp,google-maps",245
+341,https://github.com/elierotenberg/nexus-flux.git,Streamlined Flux abstract interface suitable for a variety of backends.,,244
+342,https://github.com/adityab/Awwation.git,"Prezi clone in HTML5, Js, and SVG. Can use different animation backends, for example impress.js. [I NO LONGER OWN AWWATION.COM]",,244
+343,https://github.com/mapbox/node-mbtiles.git,"mbtiles utility, renderer, and storage backend for tilelive",,243
+344,https://github.com/kennethjiang/Teleport-NSLog.git,Remote logging for iOS. Send NSLog messages to backend server.,,242
+345,https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker.git,Backend and Frontend application for tracking differences via image comparison,"visual-testing,visual-tests,regression-tests,image-comparison,cypress,playwright,docker",242
+346,https://github.com/containerbuilding/cbi.git,"Container Builder Interface for Kubernetes with support for several backends (Docker, BuildKit, Buildah, kaniko, img, Google Cloud Container Builder, Azure Container Registry Build, OpenShift Source-to-Image...)","kubernetes,opencontainers,docker,buildkit,buildah,docker-image,dockerfile,kaniko",242
+347,https://github.com/tobimensch/termsql.git,Convert text from a file or from stdin into SQL table and query it instantly. Uses sqlite as backend. The idea is to make SQL into a tool on the command line or in scripts.,"sql,sqlparse,terminal,pipe,sqlite,parse,convert,query,scripts,stdin",242
+348,https://github.com/Xe/site.git,The new frontend/backend code for https://christine.website,"web,nix,rust,hacktoberfest",241
+349,https://github.com/tigersoldier/company-lsp.git,Company completion backend for lsp-mode,"language-server-protocol,company-mode,emacs",238
+350,https://github.com/svenfuchs/i18n-active_record.git,I18n ActiveRecord backend,,237
+351,https://github.com/aws-samples/lambda-refarch-iotbackend.git,Serverless Reference Architecture for creating an IoT Backend ,,236
+352,https://github.com/pyscada/PyScada.git,PyScada is a open source scada system that uses the Django framework as backend,"hmi,scada,modbus,modbus-tcp,modbus-rtu,modbus-serial,visa,scpi,html5,python,phant,smbus,onewire,1-wire,hdf5,owfs,pymodbus,data-visualization,dataacquisition",236
+353,https://github.com/lablup/backend.ai.git,"Backend.AI is a streamlined, container-based computing cluster orchestrator that hosts diverse programming languages and popular computing/ML frameworks, with pluggable heterogeneous accelerator support including CUDA and ROCM.","python,docker,distributed-computing,api,documentation,cloud-computing,backendai",235
+354,https://github.com/neo4j-examples/neo4j-movies-template.git,A Neo4j movies React application with backends in Python/Flask and Node/Express.,"flask-api,neo4j,swagger,imdb,react,express",234
+355,https://github.com/isopropylcyanide/Jwt-Spring-Security-JPA.git,"Backend MVP showcasing JWT (Json Web Token) authentication with multiple login,  timeout / refresh / logout (with in memory invalidation) using Spring Security & MySQL JPA.  ","jwt,jwt-authentication,jwt-token,jwt-spring-boot-integration,spring-security,spring-security-jwt,spring-security-web,spring-security-webauthn,spring-boot-jpa,refresh-tokens,jwt-auth,refresh-token,spring-events",233
+356,https://github.com/plumier/plumier.git,"A TypeScript backend framework focuses on development productivity, uses dedicated reflection library to help you create a robust, secure and fast API delightfully.","typescript,decorators,nodejs,plumier,reflection,backend",233
+357,https://github.com/sashabaranov/pike.git,Generate CRUD gRPC backends from single YAML description.,"golang,grpc,postgresql,crud",232
+358,https://github.com/HaxeFoundation/hxcpp.git,Runtime files for c++ backend for haxe,"haxe,cpp,build-tool",229
+359,https://github.com/jupyter-server/jupyter_server.git,"The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.","jupyter,server",229
+360,https://github.com/Flyer53/jsPanel4.git,"A JavaScript library to create highly configurable floating panels, modals, tooltips, hints/notifiers/alerts or contextmenus for use in backend solutions and other web applications.","panel,modal,tooltip,hint,contextmenu,draggable,resizable,javascript,ui,alert,notifier",228
+361,https://github.com/Twinklebear/ChameleonRT.git,An example path tracer that runs on multiple ray tracing backends (Embree/DXR/OptiX/Vulkan/Metal/OSPRay),,227
+362,https://github.com/jonataslaw/get_server.git,A backend server that makes it possible to program with Flutter syntax and reuse existing code,,226
+363,https://github.com/jxcore/jxm.git,Incredibly fast messaging backend for Node.JS / JXcore,,225
+364,https://github.com/FasterXML/jackson-dataformats-binary.git,"Uber-project for standard Jackson binary format backends: avro, cbor, ion, protobuf, smile","avro,cbor,protobuf,smile,jackson-backends,hacktoberfest",225
+365,https://github.com/gnzlbg/jemallocator.git,Rust allocator using jemalloc as a backend,,224
+366,https://github.com/luisvinicius167/godux.git,State Management for Go Backend application inspired in Redux. ,"golang,redux,state,backend-applications",224
+367,https://github.com/avr-llvm/llvm.git,[MERGED UPSTREAM] AVR backend for the LLVM compiler library,"llvm,avr,compiler",221
+368,https://github.com/PhilippeBoisney/NoBullshit.git,A sample project entirely written in Kotlin. Backend/Frontend with Ktor and Android app.,"kotlin,ktor,freemarker,google-app-engine,firestore,firebase,android,dagger2,sample-app,architecture-components",221
+369,https://github.com/Alephbet/gimel.git,Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog,,220
+370,https://github.com/jazzband/django-dbtemplates.git,Django template loader for database stored templates with extensible cache backend,,217
+371,https://github.com/SakaDream/actix-web-rest-api-with-jwt.git,"A simple CRUD backend app using Actix-web, Diesel and JWT","actix-web,rust,restful-api,diesel-rs,jwt,docker",217
+372,https://github.com/zendesk/radar.git,High level API and backend for writing web apps that use push messaging,,217
+373,https://github.com/expo/image-upload-example.git,"Demonstration of how to upload images from the ImagePicker, using a node backend to upload to S3","example,react-native,expo,image-picker,s3",216
+374,https://github.com/maxogden/toiletdb.git,flushes an object to a JSON file. lets you do simple CRUD with async safely with the backend being a flat JSON file,,216
+375,https://github.com/alexeypro/crud-bones.git,"Sample CRUD application with Node.JS, using MySQL, Mongo and Redis. Basically, I am using it as a boilerplate (template, skeleton) for all new backend apps I start.",,215
+376,https://github.com/svenstaro/rust-web-boilerplate.git,Rust web template for modern web backend applications,"best-practices,boilerplate,web,diesel,rocket",213
+377,https://github.com/AdrienHerubel/imgui.git,A small multiplatform immediate mode graphical user interface with OpenGL3.2 backend,,213
+378,https://github.com/Tivix/django-common.git,"Common things every Django project needs :-) It provides lot of helper functions, commonly used middlewares, context processors, custom email/auth backends, session helpers etc.",,213
+379,https://github.com/mschuwalow/zio-todo-backend.git,"Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s and circe","zio,http4s,circe,hacktoberfest",212
+380,https://github.com/TailorDev/crick.git,📊 Crick is a backend for the Watson time-tracker.,"timetracker,react,golang,api,dashboard",212
+381,https://github.com/starandtina/backend-interview-questions.git,"Hiring is extremely hard, and figuring out if someone is a good fit within 45 minutes is a demanding task. Here are some simple questions to interview potential backend candidates.","backend,interview",212
+382,https://github.com/rexyai/RestRserve.git,R web API framework for building high-performance microservices and app backends,"rest-api,http-server,r,swagger-ui,openapi",210
+383,https://github.com/rtCamp/wp-decoupled.git,Next.js app with WPGraphQL and WordPress at the backend.,"wordpress,graphql,wp-decoupled,decoupled-wordpress,nextjs,react,rtcamp-wp-decoupled,woocommerce,woocommerce-pwa,research-development,labs",209
+384,https://github.com/neo4j-examples/movies-python-bolt.git,Neo4j Movies Example application with Flask backend using the neo4j-python-driver,"python,graph,graph-database,bolt,cypher,movies-api,neo4j",208
+385,https://github.com/llvm-dcpu16/llvm-dcpu16.git,LLVM backend for dcpu-16 processor,,207
+386,https://github.com/rhubarbgroup/redis-cache.git,"A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, Credis, HHVM, replication and clustering.","wordpress-plugin,redis,predis,phpredis,php,cache,wordpress",207
+387,https://github.com/dart-lang/dart-services.git,The server backend for a web based interactive Dart service,,206
+388,https://github.com/charlieschwabacher/gestalt.git,"Use the GraphQL schema language and a small set of directives to define an API with a PostgreSQL backend declaratively, really quickly, and with a tiny amount of code.",,206
+389,https://github.com/LennonChin/BlogBackendProject.git,"Backend code for my blogs, develop with Django Rest framework.","django,django-rest-framework,blog,xadmin,editormd,python,drf,vue,rest-api,restful-api,rest,restful,whoosh,drf-haystack",205
+390,https://github.com/elbuo8/sendgrid-django.git,Simple django backend to send email through SendGrid,,205
+391,https://github.com/django-auth-ldap/django-auth-ldap.git,Django authentication backend that authenticates against an LDAP service.,,205
+392,https://github.com/meltingice/git-lfs-s3.git,A Git LFS server that uses S3 as the storage backend.,,205
+393,https://github.com/johndatserakis/koa-vue-notes-web.git,"🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.","vue,spa,frontend,bootstrap,boilerplate,demo,template,jwt,mysql,vuex,typescript,storybook",204
+394,https://github.com/areebbeigh/codeinterview-backend.git,Backend code repository for CodeInterview,,203
+395,https://github.com/pure-c/purec.git,C backend for PureScript,"purescript,c,clang,native,functional-programming,programming-language,backends",203
+396,https://github.com/EdisonLeeeee/GraphGallery.git,GraphGallery is a gallery for benchmarking Graph Neural Networks (GNNs) and Graph Adversarial Learning with TensorFlow 2.x and PyTorch backend.,"graph-neural-networks,models,graph,geometric-deep-learning,tensorflow,pytorch,graphgallery,graph-adversarial-learning,adversarial-machine-learning",203
+397,https://github.com/DP-3T/dp3t-sdk-backend.git,The backend implementation for DP3T,,201
+398,https://github.com/fazo96/ipfs-boards.git,a truly distributed social platform for the browser with no backend and no external applications required,,201
+399,https://github.com/XrayR-project/XrayR.git,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接","xray-core,v2ray-core,sspanel-uim,vless,shadowsocks,v2ray,socks5,vmess,trojan,v2board,xrayr",201
+400,https://github.com/django-nonrel/djangotoolbox.git,Django tools for building nonrel backends,,200
+401,https://github.com/flatlogic/angular-dashboard-seed.git,Angular dashboard sample application with nodejs REST backend integration,,200
+402,https://github.com/vimeo/graphite-influxdb.git,An influxdb backend for Graphite-web and graphite-api,,199
+403,https://github.com/openai/orrb.git,"Code for the paper ""OpenAI Remote Rendering Backend""",,199
+404,https://github.com/weDevsOfficial/wp-user-frontend.git,A WordPress plugin that brings many backend functionality to the site frontend,"php,form-builder,frontend,registration-forms,wordpress,plugins",198
+405,https://github.com/nanoexpress/nanoexpress.git,Professional backend framework for Node.js,"fast,middleware,cplusplus,ws,memory-efficient,uwebsockets,express-like,esm,esmodules",198
+406,https://github.com/noahlh/celestite.git,"Beautifully reactive, server-side rendered Svelte apps w/ a Crystal backend","crystal,framework,web,ssr,amber,amber-framework,universal,isomorphic,svelte,sapper,sapperjs",198
+407,https://github.com/seajaysec/cypheroth.git,"{""Automated, extensible toolset that runs cypher queries against Bloodhound's Neo4j backend and saves output to spreadsheets.""}","cypher-query-language,bloodhound,bash-script,cybersecurity,redteam,blueteam,active-directory",197
+408,https://github.com/FORTH-ICS-INSPIRE/artemis.git,"ARTEMIS: Real-Time Detection and Automatic Mitigation for BGP Prefix Hijacking. This is the main ARTEMIS repository that composes artemis-frontend, artemis-backend, artemis-monitor and other needed containers.",,197
+409,https://github.com/sgxiang/YTKKeyValueStore_Swift.git,"A simple Key-Value storage tool, using Sqlite as backend.",,196
+410,https://github.com/penguin-statistics/backend.git,Penguin Statistics backend.,penguin-statistics,195
+411,https://github.com/lionheart/django-pyodbc.git,An ODBC-powered MS SQL Server DB backend for Django 1.4+,"python,odbc,python-library,database-adapter",195
+412,https://github.com/chrisleekr/yii2-angular-boilerplate.git,Yii2 REST API + Angular10 Boilerplate (Frontend/Backend),"yii2,jwt,yii2-rbac,frontend,backend,boilerplate,bootstrap4,momentjs,sweetalert,staff-management,dashboard,registration,rest-api,angular-universal,server-side-rendering,protractor-e2e-test,karma-jasmine,angular10",194
+413,https://github.com/nonocast/todolist.git,"{""A simple todolist system implemented with Spring's backend and TypeScript/React's frontend. Enjoy it.""}",,194
+414,https://github.com/jina-ai/jinabox.js.git,"A lightweight, customizable omnibox in Javascript, for use with a Jina backend.","omnibox,searchbar,javascript,jina,neural-search,frontend,audio,video",194
+415,https://github.com/shinyscorpion/task_bunny.git,TaskBunny is a background processing application written in Elixir and uses RabbitMQ as a messaging backend,"rabbitmq,elixir,workers",193
+416,https://github.com/ericflo/django-newcache.git,Improved memcached cache backend for Django,,192
+417,https://github.com/anishkny/realworld-dynamodb-lambda.git,λ serverless backend implementation for RealWorld using AWS DynamoDB + Lambda,"aws,dynamodb,lambda,serverless,realworld",192
+418,https://github.com/igor84/summus.git,Simple compiler frontend using LLVM as backend,,192
+419,https://github.com/easychen/MemberPrism2.git,"open source alternative to memberstack / memberspace , but with both front and backend member-only content protection","membership-management,subscription,stripe,saas,nocode",192
+420,https://github.com/m4b/faerie.git,Magical ELF and Mach-o object file writer backend,"compiler,object-files,elf,mach",191
+421,https://github.com/timwis/jkan.git,"A lightweight, backend-free open data portal, powered by Jekyll",,190
+422,https://github.com/kennethkalmer/powerdns-on-rails.git,Rails frontend for PowerDNS running MySQL or PostgreSQL backends,,189
+423,https://github.com/not-kennethreitz/flango.git,"A Django template for using Flask for the frontend, Django for the backend. ","django,flask,orm,template",187
+424,https://github.com/mengshukeji/LuckysheetServer.git,Luckysheet java backend,,186
+425,https://github.com/lenary/idris-erlang.git,Erlang Backend for Idris Compiler,,185
+426,https://github.com/Abdur-rahmaanJ/shopyo.git,"🎁 Your Open web framework, designed with big in mind. Flask with Django advantages. Build your management systems, ERP products & mobile backend (coming soon). Small business needs apps included by default. First timers friendly. Email: admin@domain.com | password: pass","pos,python,open,point-of-sale,web,inventory,erp,flask,inventory-management,hacktoberfest,ecommerce,e-commerce",185
+427,https://github.com/mdbootstrap/Angular-Bootstrap-Boilerplate.git,Angular CRUD application starter with NgRx state management and Firebase backend,,184
+428,https://github.com/kevinpapst/AdminLTEBundle.git,AdminLTE bundle for Symfony 4 - an backend/admin theme for easy integration with SF4. Its based on the AdminLTE Template and built with webpack-encore. Supports KNPMenuBundle and FOSUserBundle.,"symfony4,symfony-bundle,symfony,adminlte,adminlte-template,fontawesome5",184
+429,https://github.com/ibarrond/Pyfhel.git,"PYthon For Homomorphic Encryption Libraries, perform encrypted computations such as sum, mult, scalar product or matrix multiplication in Python, with NumPy compatibility. Uses SEAL/PALISADE as backends, implemented using Cython.","homomorphic-encryption,encrypted-data,homomorphic-encryption-library,python,seal,palisade,helib,cython,encrypted-computation",184
+430,https://github.com/vuestorefront/storefront-api.git,"Storefront GraphQL API Gateway. Modular architecture. ElasticSearch included. Works great with Magento1, Magento2, Spree, OpenCart, Pimcore and custom backends","graphql-api,graphql-schemas,graphql-gateway,api,graphql,graphql-server,ecommerce,rest-api,rest,gateway-api",182
+431,https://github.com/brentvatne/flix.git,Swipe Netflix movies as if they were people on Tinder - built with Angular/Ionic/Auth0 for frontend & Rails on the backend,,182
+432,https://github.com/bilashcse/Online-Video-Editor.git,API based Online Video Editing using FFMPEG & NodeJs for Backend Editing,"video-editor,ffmpeg,nodejs,audio,edit-videos,video-processing",181
+433,https://github.com/relekang/django-nopassword.git,Authentication backend for django that uses a one time code instead of passwords,,181
+434,https://github.com/alphagov/router.git,Router in front on GOV.UK to proxy to backend servers on the single domain,govuk,181
+435,https://github.com/GregaVrbancic/fastapi-celery.git,"Minimal example utilizing fastapi and celery with RabbitMQ for task queue, Redis for celery backend and flower for monitoring the celery tasks.","fastapi,celery,flower,redis,rabbitmq,docker-compose,python",181
+436,https://github.com/django-ldapdb/django-ldapdb.git,"django-ldapdb, an LDAP database backend for Django",,180
+437,https://github.com/skibish/ddns.git,Personal DDNS client with Digital Ocean Networking DNS as backend.,"golang,go,dyndns,ddns,digitalocean,digital-ocean",180
+438,https://github.com/DataBiosphere/dsub.git,Open-source command-line tool to run batch computing tasks and workflows on backend services such as Google Cloud.,,180
+439,https://github.com/dks333/Tiktok-Clone.git,An iOS Tiktok Clone built with Swift(Frontend) and Firebase(Backend),"tiktok,ios-tiktok,swift,firebase",179
+440,https://github.com/wothing/wonaming.git,"Wonaming is a simple grpc-go balancer & naming implementation, supporting etcd and Consul as the service register/discovery backend. Wonaming also supports self-register to etcd/consul.",,179
+441,https://github.com/emscripten-core/emscripten-fastcomp.git,"{""LLVM plus Emscripten's asm.js backend""}",,177
+442,https://github.com/JuliaGPU/GPUArrays.jl.git,"{""Reusable array functionality for Julia's various GPU backends.""}",,177
+443,https://github.com/jhipster/generator-jhipster-nodejs.git,A NodeJS blueprint that creates the backend using NestJS,"nodejs,nestjs-backend,angular,vuejs,react,generator,jhipster,yeoman-generator",177
+444,https://github.com/nodize/nodizecms.git,"A Node.js CMS written in CoffeeScript, with a user friendly backend",,177
+445,https://github.com/jsuarezruiz/forms-gtk-progress.git,Xamarin.Forms GTK Backend Progress,"xamarin,gtk,gtk-sharp,xamarinforms,mono,linux",176
+446,https://github.com/Samaritan1011001/Trovami.git,A live location sharing app built on Flutter and Firebase as backend,,176
+447,https://github.com/prowdsponsor/esqueleto.git,"Bare bones, type-safe EDSL for SQL queries on persistent backends.",,176
+448,https://github.com/milakov/nnForge.git,Convolutional neural networks C++ framework with CPU and GPU (CUDA) backends,,176
+449,https://github.com/Azure-Samples/active-directory-angularjs-singlepageapp.git,"An AngularJS based single page app, implemented with an ASP.NET Web API backend, that signs in users and calls web APIs using Azure AD",,176
+450,https://github.com/cairuoyu/flutter_admin.git,Flutter Admin: 一个基于 Flutter 的后台管理系统、开发模板。A backend management system and development template based on Flutter,"flutter,web",175
+451,https://github.com/Leezj9671/socialdb_vue_flask.git,"一个小型的较为简陋的社工库查询系统,使用Vue.js+Flask+MongoDB.可用52g, 本人不提供任何社工库资源. A tiny social engineering database system, including backend and frontend. ",,175
+452,https://github.com/collectiveidea/delayed_job_mongoid.git,Mongoid backend for delayed_job,"mongoid,mongoid-plugin,delayed-job",174
+453,https://github.com/faradayio/tilesplash.git,a light and quick nodejs vector tile server for use with a postgis backend,,174
+454,https://github.com/nihp-public/covid19-app-system-public.git,COVID19 app backend,,173
+455,https://github.com/lomik/graphite-clickhouse.git,Graphite cluster backend with ClickHouse support,,173
+456,https://github.com/camspiers/statistical-classifier.git,"A PHP implementation of a Naive Bayes statistical classifier, including a structure for building other classifiers, multiple data sources and multiple caching backends.",,173
+457,https://github.com/backend-br/desafios.git,Desafios BackEnd Brasil,,172
+458,https://github.com/openannotation/annotator-store.git,A backend store for the Annotator,,172
+459,https://github.com/tada/pljava.git,"PL/Java is a free add-on module that brings Java™ Stored Procedures, Triggers, and Functions to the PostgreSQL™ backend.",,172
+460,https://github.com/haraldmartin/things-rb.git,Ruby library & command line tool for accessing the backend of the Mac GTD app Things.,,172
+461,https://github.com/bernd/statsd-influxdb-backend.git,A naive InfluxDB backend for StatsD,,171
+462,https://github.com/shanhuiyang/TypeScript-MERN-Starter.git,Build a real fullstack app (backend+website+mobile) in 100% Typescript,"typescript,mern,mongodb,react-native,react-redux,react-router-v4,fullstack,javascript,express,nodejs,node,template,native-base,semantic-ui,react,oauth2-server,android,ios,webapp,expo",171
+463,https://github.com/anujshah1003/own_data_cnn_implementation_keras.git,A complete tutorial on using own dataset to train a CNN from scratch in Keras (TF & Theano Backend)-,,171
+464,https://github.com/DevlessTeam/DV-PHP-CORE.git,Devless is a ready-made back-end for development of web or mobile applications. It is fully open source under the permissive Apache v2 license. This means that you can develop your front end without worrying about neither back-end code or the business risk of a proprietary backend-as-a-service.,"baas,backend-services,php,laravel,backend-as-a-service,apis,reusable,docker",170
+465,https://github.com/sczyh30/vertx-blueprint-todo-backend.git,Vert.x Blueprint Project - A reactive todo-backend implementation using Vert.x and various persistence,"vertx,restful-api,asynchronous,rxjava2,reactive-programming",169
+466,https://github.com/carlonluca/pot.git,Raspberry Pi accelerated video/image rendering with Qt: custom QML components and QtMultimedia backend.,,168
+467,https://github.com/benjojo/yubiTLS.git,"{""A Go TLS/HTTPS server demo that uses a Yubikey as the backend for it's private key""}","yubikey,proof-of-concept,built-at-rc",168
+468,https://github.com/yuchiu/Netflix-Clone.git,Netflix like full-stack application with SPA client and backend implemented in service oriented architecture,"elasticsearch,nodejs,expressjs,react,redux,postgresql,javascript,python,rpc,scrapy,web-scraping,netflix",167
+469,https://github.com/sanity-io/gatsby-source-sanity.git,Gatsby source plugin for building websites using Sanity.io as a backend.,"sanity,gatsby,real-time,preview,gatsby-source-sanity,gatsby-image",167
+470,https://github.com/nelmio/NelmioJsLoggerBundle.git,"{""This bundle allows you to log JavaScript errors and others in your backend's Monolog logs""}",,166
+471,https://github.com/eckyputrady/haskell-scotty-realworld-example-app.git,Exemplary real world backend API built with Haskell/Scotty https://realworld.io,"haskell,realworld,scotty,restful-api,tutorial",166
+472,https://github.com/aclysma/rafx.git,"Multi-backend renderer built on top of distill. The objective of this repo is to build a scalable, flexible, data driven renderer.",,166
+473,https://github.com/librespeed/speedtest-go.git,Go backend for LibreSpeed,"librespeed,golang,go,speedtest",165
+474,https://github.com/manikandanraji/twitter-clone-backend.git,Twitter Clone Backend (Prisma + GraphQL),,165
+475,https://github.com/libgit2/libgit2-backends.git,Standalone ODB backends for the libgit2 library,,165
+476,https://github.com/guylabs/angular-spring-data-rest.git,An AngularJS module to ease the work with a Spring Data REST backend.,"angular,spring,spring-data-rest,spring-data,spring-hateoas,hateoas,hal",165
+477,https://github.com/huseyinbabal/token-based-auth-backend.git,Token Based Authentication Backend Project Written in NodeJS,,164
+478,https://github.com/brutasse/django-ratelimit-backend.git,Rate-limit your login attempts at the authentication backend level,,164
+479,https://github.com/yatsu/bestmix.git,Boilerplate to develop both iOS/Android app and Rails-based backend integrated with each other,,164
+480,https://github.com/nubank/state-flow.git,Integration testing framework using a state monad in the backend for building and composing flows,,164
+481,https://github.com/elementary/houston.git,"AppCenter Dashboard, the backend for elementary AppCenter","node,appcenter,aptly",162
+482,https://github.com/stelace/stelace.git,"Open-source marketplace backend in Node.js, empowering Web platforms with Search API, Automation, Auth, Headless CMS… ⚡ :computer:","marketplace,api,server,nodejs,platform,search,automation,headless-cms,authentication",162
+483,https://github.com/OrleansContrib/SignalR.Orleans.git,SignalR backend based on Orleans.,"orleans,signalr,orleans-cluster,real-time,realtime-messaging,dotnet-core,aspnet-core,backplane",161
+484,https://github.com/EOSIO/eos-vm.git,"A Low-Latency, High Performance and Extensible WebAssembly Backend Library",,161
+485,https://github.com/b-mueller/apkx.git,One-Step APK Decompilation With Multiple Backends,,160
+486,https://github.com/grafana/grafana-image-renderer.git,A Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome),"grafana,grafana-backend-plugin,docker",160
+487,https://github.com/anshumanbh/kubebot.git,A security testing Slackbot built with a Kubernetes backend on the Google Cloud Platform,,160
+488,https://github.com/zohararad/bee-gorm-graphql.git,Example application with Beego + Gorm + graphql-go in the backend & Vue.js in the frontend,,160
+489,https://github.com/yhcc/yolo2.git,"这个项目是基于论文YOLO9000: Better, Faster, Stronger的keras（backend：tensorflow）实现",,160
+490,https://github.com/topheman/react-es6-redux.git,"A simple app to try React, ES6 and redux, using topheman-apis-proxy as data api backend",,159
+491,https://github.com/Flyer53/jsPanel.git,"A jQuery Plugin to create highly configurable floating panels, modals, tooltips and hints/notifiers for use in a backend solution and other web applications.",,159
+492,https://github.com/simontomaskarlsson/CycleGAN-Keras.git,Keras implementation of CycleGAN using a tensorflow backend.,"deep-learning,deep-neural-networks,machine-learning,image-processing,image-to-image-translation,cyclegan,keras,python",158
+493,https://github.com/simPod/GrafanaJsonDatasource.git,Grafana datasource to load JSON data over your arbitrary HTTP backend,"grafana,api,rest,rest-api,json,datasource,http",158
+494,https://github.com/artagnon/rhine.git,"🔬 a C++ compiler middle-end, using an LLVM backend","programming-language,llvm,compiler-design,c-plus-plus,compiler",158
+495,https://github.com/xiaokai-wang/nginx-stream-upsync-module.git,"For stream protocol. syncing upstreams from etcd or consul and so on, dynamically updating backend servers attribute, not need to reload nginx for tcp protocol, stream configure.",,158
+496,https://github.com/purerl/purerl.git,Erlang backend for the PureScript compiler,,158
+497,https://github.com/maxime1992/pizza-sync.git,"Pizza-Sync is a web app built on the frontend with angular, ngrx and on the backend with Nest. It let you and your friends/colleagues choose a pizza before placing a group order. Built using https://github.com/maxime1992/angular-ngrx-starter","angular,ngrx,socket-io,nestjs,parsing,pizza",158
+498,https://github.com/httptoolkit/httptoolkit-server.git,The backend of HTTP Toolkit,"developer-tools,tools,http,server,oclif",157
+499,https://github.com/abonander/multipart.git,A backend-agnostic extension for file uploads in HTTP libraries for Rust,"rust,crates,multipart,http",157
+500,https://github.com/czivar/ruru.git,Real-time TCP latency monitoring using DPDK backend and a 3D React frontend,"tcp-latency-monitoring,dpdk,ip2location",156
+501,https://github.com/pop-os/distinst.git,Installer Backend,,155
+502,https://github.com/JasanHdz/backendnodejs.git,"backend of an api rest for movies, with some examples of server-side nodejs",,155
+503,https://github.com/ElanMan/simple-quiz.git,A simple quiz administration written in PHP with a MySQL backend. Uses Bootstrap 3 and Slim PHP micro framework,"quiz,php",155
+504,https://github.com/jcoleman/JCAutocompletingSearch.git,iOS widget for querying asynchronous backends allowing user selection from results.,,155
+505,https://github.com/pyvisa/pyvisa-py.git,A pure python PyVISA backend,,154
+506,https://github.com/jobguywork/backend.git,Job Guy Backend,"django,jobguy,jobguywork,jobguyir,python",154
+507,https://github.com/m3dev/octoparts.git,"Octoparts, the backend services aggregator",,154
+508,https://github.com/af/djangbone.git,Simple Django backends for Backbone.js apps.,,154
+509,https://github.com/Qiskit/ibmq-device-information.git,Information about the different remote backends available for qiskit users with a IBMQ account,"specs,qiskit,ibmqx,quantum-computing",154
+510,https://github.com/lukeed/freshie.git,(WIP) A fresh take on building universal applications with support for pluggable frontends and backends.,,154
+511,https://github.com/wbhart/Cesium3.git,"Fast interpreter with macros, local type inference, LLVM backend.",,153
+512,https://github.com/pywharf/pywharf.git,The private PyPI server powered by flexible backends.,,153
+513,https://github.com/treeder/go-polymer.git,An example app that users Polymer with Go on the backend and can easily run on App Engine (or anywhere),,153
+514,https://github.com/bstrahija/l4-site-tutorial.git,Simple website with a backend built in Laravel 4,,152
+515,https://github.com/andrewrk/node-groove.git,bindings to libgroove - music player backend library,,152
+516,https://github.com/MetaMetricsInc/django-warrant.git,Django package that uses AWS Cognito and Warrant to create a Django backend and common views.,,152
+517,https://github.com/runexec/chp.git,ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.,,152
+518,https://github.com/kjdion84/turtle.git,"Turtle is a Laravel 5.5 package with front & backend scaffolding including a CRUD generator, auth integration, roles, permissions, contact forms, reCAPTCHA, activity logs, demo mode, user timezones, AJAX CRUD/validation, Bootstrap 4, DataTables, & more!",,152
+519,https://github.com/ansrivas/angular2-flask.git,Simple angular2 app with python-flask backend ( Learning Angular2 ),"python,angular2,flask-backend,angular2-flask,frontend,flask",151
+520,https://github.com/marcelovicentegc/django-react-typescript.git,"A boilerplate with Django on the backend, React on the frontend, and much more!","react,typescript,python,djangorestframework,django,boilerplate,docker,docker-compose,github-actions,styled-components,django-react,django-react-boilerplate,django-react-integration",151
+521,https://github.com/joblib/joblib-spark.git,Joblib Apache Spark Backend,,150
+522,https://github.com/CenterForCollectiveLearning/DIVE-backend.git,"Codebase for DIVE backend (server, worker, and ORM)",,150
+523,https://github.com/huwcarwyn/react-laravel-boilerplate.git,"A Laravel REST API backend with React/Redux, hot module reloading in development and route-level code splitting","laravel,react,redux,react-lazy,react-css-modules,storybook,boilerplate,travis-ci,hot-module-replacement,tailwindcss,code-splitting,formik",150
+524,https://github.com/bloomsburyai/cape-webservices.git,Entrypoint for all backend cape webservices,"machine-learning,machine-reading,search,cape,python,deep-learning,question-answering",149
+525,https://github.com/normanjoyner/quarry.git,"A rock solid, dynamic DNS server with swappable backends and CRUD API",,149
+526,https://github.com/t04glovern/selfie2anime.git,"Anime2Selfie Backend Services - Lambda, Queue, API Gateway and traffic processing","selfie2anime,data-science,aws,aws-lambda,serverless",148
+527,https://github.com/Openworx/backend_theme.git,Odoo Backend Theme,,147
+528,https://github.com/voc/voctoweb.git,voctoweb – the frontend and backend software behind media.ccc.de,"c3voc,conference,video,hacktoberfest",147
+529,https://github.com/RameshMF/Angular8-SpringBoot-CRUD-Tutorial.git,Develop a single page application(SPA) using Angular 8 as a front-end and Spring boot restful API as a backend.,,147
+530,https://github.com/subzerocloud/subzero-starter-kit.git,Starter Kit and tooling for authoring GraphQL/REST API backends with subZero,"subzero,postgrest,postgresql,api,rest,graphql,openresty,docker,boilerplate,starter-kit,automatic-api",147
+531,https://github.com/maraujop/django-rules.git,Flexible and scalable Django authorization backend for unified per object permission management,,147
+532,https://github.com/bitmand/utterson.git,"A Jekyll web backend written in ruby, for a more user friendly management of http://jekyllrb.com/ websites.",,147
+533,https://github.com/editor-js/editorjs-php.git,PHP backend for Editor.js,"codex,codex-editor,htmlpurifier",146
+534,https://github.com/ourresearch/oadoi.git,The backend code that powers Unpaywall. support@unpaywall.org,,146
+535,https://github.com/kabasakalis/angular-yii.git,A Gallery Manager demo application with Yii (PHP) REST backend and AngularJS frontend.,,145
+536,https://github.com/notanumber/xapian-haystack.git,A Xapian backend for Haystack,,144
+537,https://github.com/greenbone/gvmd.git,Greenbone Vulnerability Manager - The database backend for the Greenbone Vulnerability Management (GVM) framework,"greenbone,openvas,vulnerability,vulnerability-management,vulnerability-scanners,openvas-manager",144
+538,https://github.com/colinmollenhour/Cm_Cache_Backend_File.git,Much improved replacement for Zend_Cache_Backend_File - works great with Magento!,,144
+539,https://github.com/lijiansong/clang-llvm-tutorial.git,"clang & llvm examples, e.g. AST Interpreter, Function Pointer Analysis, Value Range Analysis, Data-Flow Analysis, Andersen Pointer Analysis, LLVM Backend...","clang,llvm",143
+540,https://github.com/aparo/django-elasticsearch.git,Django ElasticSearch Backend,,142
+541,https://github.com/JeremySkinner/git-dot-aspx.git,Implementation of git-http-backend for IIS7/ASP.NET,,142
+542,https://github.com/slok/go-http-metrics.git,Go modular http middleware to measure HTTP requests independent of metrics backend (with Prometheus and OpenCensus as backend implementations) and http framework/library,"http,metrics,observability,http-middleware,middleware,instrumentation,prometheus,golang,go,opencensus,gin,echo,echo-framework,gin-framework,http-metrics,opencensus-recorder",142
+543,https://github.com/rubygarage/react-native-firebase-chat.git,This repository contains the source code for a simple chat application built with React Native (frontend) and Firebase (backend).,"react-native,firebase,redux,ios,android",142
+544,https://github.com/fortruce/react-fullstack-skeleton.git,A minimal React fullstack skeleton featuring hot reloading and a backend api server.,,142
+545,https://github.com/NVIDIA/Milano.git,Milano is a tool for automating hyper-parameters search for your models on a backend of your choice.,"deep-learning,deep-neural-networks,automl,hyperparameter-tuning,hyperparameter-optimization,machine-learning",142
+546,https://github.com/dabit3/graphql-recipes.git,"A list of GraphQL recipes that, when used with the Amplify CLI, will deploy an entire AWS AppSync GraphQL backend.","graphql,serverless,apis,aws-appsync,aws-amplify,aws,dynamodb",142
+547,https://github.com/serby/save.git,"A simple CRUD based persistence abstraction for storing objects to any backend data store. eg. Memory, MongoDB, Redis, CouchDB, Postgres, Punch Card etc.",,142
+548,https://github.com/dstpierre/parle.git,Customer messenger backend part of https://parle.io,"customers,marketing-automation,livechat",141
+549,https://github.com/hashicorp/ngx_http_consul_backend_module.git,An nginx module for setting backends from Consul services.,"consul,nginx,nginx-consul-template",141
+550,https://github.com/penny4860/SVHN-deep-digit-detector.git,Deep-digit-detector (and recognizer) in natural scene. A digit detection framework was implemented using keras with tensorflow backend.,"svhn,keras,detection,tensorflow",141
+551,https://github.com/eaigner/shield.git,Bayesian text classifier with flexible tokenizers and storage backends for Go,,140
+552,https://github.com/cloverstudio/Spika-Server.git,Server backend system for Spika,,139
+553,https://github.com/noBackend/nobackend.org.git,"Look ma, no Backend!",,139
+554,https://github.com/i-rinat/libvdpau-va-gl.git,VDPAU driver with OpenGL/VAAPI backend,"va-api,vaapi,driver,opengl,vdpau,c-plus-plus",139
+555,https://github.com/umap-project/Leaflet.Storage.git,Manage map and features with Leaflet and expose them for backend storage through an API.,"umap,leaflet,leaflet-plugin",138
+556,https://github.com/facebook/grocery-delivery.git,The Grocery Delivery utility for managing cookbook uploads to distributed Chef backends.,,138
+557,https://github.com/ninjudd/jiraph.git,"A graph database with pluggable backends, written in Clojure.",,138
+558,https://github.com/vmware/p4c-xdp.git,Backend for the P4 compiler targeting XDP,"xdp,p4c,ebpf,drivers",137
+559,https://github.com/hdngr/sriracha.git,A super spicy admin backend for Express and Mongoose.,,137
+560,https://github.com/melthaw/spring-backend-boilerplate.git,"The modularized backend boilerplate based on Spring Boot Framework, easy to get started and add your business part.","spring-boot,spring-mvc,spring-security,spring-data,spring-framework,gradle,boilerplate,audit,storage,sms,rbac,gridfs,backend,java,spring-boot-starter",137
+561,https://github.com/FasterXML/jackson-dataformat-yaml.git,Jackson module to add YAML backend (parser/generator adapters),,136
+562,https://github.com/itzikbenh/React-Native-on-Rails.git,This is a demonstration of how to connect a React Native app to a Rails backend. ,,136
+563,https://github.com/anitab-org/mentorship-backend.git,"Mentorship System is an application that matches women in tech to mentor each other, on career development, through 1:1 relations during a certain period of time. This is the backend of this system.","python,flask,backend,flask-sqlalchemy,swagger,openapi,flask-restx",136
+564,https://github.com/react-dnd/react-dnd-html5-backend.git,HTML5 backend for React DnD [Legacy Repo],,135
+565,https://github.com/AccelerateHS/accelerate-llvm.git,LLVM backend for Accelerate,"haskell,accelerate,llvm,cuda,parallel-computing,gpu-computing",135
+566,https://github.com/microsoft/SmartHotel360-Backend.git,Kubernetes-optimized version of the SmartHotel360 backend services,,135
+567,https://github.com/fex-team/node-ral.git,a backend service manager for nodejs,,135
+568,https://github.com/snok/django-auth-adfs.git,A Django authentication backend for Microsoft ADFS and AzureAD,"adfs,django,jwt,oauth2,authentication,restframework,drf,azure-active-directory,openid-connect",135
+569,https://github.com/covid-projections/covid-data-model.git,Data backend providing computed data for the graphs displayed at https://covidactnow.org,,135
+570,https://github.com/duointeractive/sea-cucumber.git,"A Django email backend for Amazon Simple Email Service, backed by celery",,135
+571,https://github.com/brainhubeu/hadron.git,"⚛️Framework for building a testable, modular backend with a dependency injection pattern in plain JavaScript.","hadron,framework,javascript,nodejs,typescript",135
+572,https://github.com/moneroexamples/openmonero.git,Fully open sourced implementation of MyMonero backend,"crypto-wallet,monero,cpp14,linux,webwallet",134
+573,https://github.com/i18next/i18next-http-backend.git,"i18next-http-backend is a backend layer for i18next using in Node.js, in the browser and for Deno.","i18next,xhr,fetch,backend,plugin,deno,nodejs,javascript",134
+574,https://github.com/neutrinoapp/neutrino.git,:zap: Realtime/REST backend service,,134
+575,https://github.com/newobj/nginx-x-rid-header.git,"{""Nginx module that adds a 'request id' header that can be used to correlate frontend and backend requests.""}",,134
+576,https://github.com/Project-OSRM/node-osrm.git,DEPRECATED Part of osrm-backend since 5.7. NodeJS bindings for OSRM,"osrm,routing-engine,map-matching,traveling-salesman,openstreetmap",133
+577,https://github.com/genkami/kiara.git,"Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.","pubsub,golang,go",133
+578,https://github.com/klarna/mnesia_eleveldb.git,An eleveldb backend for Mnesia,klarna-featured,132
+579,https://github.com/doctrine/DoctrinePHPCRBundle.git,This bundle integrates Doctrine PHPCR ODM and PHPCR backends into Symfony,"symfony,phpcr-odm,doctrine,php,symfony-bundle",132
+580,https://github.com/bamboo/idris-cil.git,A Common Intermediate Language backend for Idris.,"idris,language-backend",132
+581,https://github.com/seanchas116/qtimgui.git,Qt (QOpenGLWidget / QOpenGLWindow) backend for ImGui,"qt,imgui,opengl,cpp",131
+582,https://github.com/reindexio/graphql-nodejs-newsfeed.git,"Example of a GraphQL Node.js backend for a news feed, built with Hapi and SQLite",,131
+583,https://github.com/LouisBrunner/dnd-multi-backend.git,Multi Backend system for DnD Core & more,"react,react-dnd,drag-and-drop,html5,touch,hacktoberfest,dnd-preview",130
+584,https://github.com/mysql/mysql-router.git,MySQL Router is lightweight middleware that provides transparent routing between your application and any backend MySQL Servers.,,130
+585,https://github.com/hackedteam/rcs-common.git,Common components for RCS backend,,129
+586,https://github.com/labd/django-cognito-jwt.git,An Authentication backend for Django Rest Framework for AWS Cognito JWT tokens,"aws,cognito",129
+587,https://github.com/VirgilSecurity/demo-twilio-backend-nodejs.git,A sample backend that demonstrates how to generate a Virgil JWT and Twilio token used for authentication with the Virgil and Twilio services,"end-to-end-encryption,twilio,twilio-chat,secured-by-virgil,cryptography,crypto,encryption,chat,messenger,demo,jwt,sample-backend,secure-the-future",128
+588,https://github.com/aolarchive/ribs2.git,RIBS (Robust Infrastructure for Backend Systems) version 2,,127
+589,https://github.com/webmozart/key-value-store.git,A key-value store API with implementations for different backends.,,127
+590,https://github.com/mhaagens/hot-reload-all-the-things.git,Starter project for HMR with backend routes and server/client-side react.,"react,express,webpack,hot-reload,hot-module-replacement,es6,javascript",127
+591,https://github.com/haskell-servant/example-servant-elm.git,Example for a web app with a servant backend and an elm frontend,,127
+592,https://github.com/heiseonline/shariff-backend-php.git,👮 PHP backend for Shariff. Shariff enables website users to share their favorite content without compromising their privacy.,"shariff,php,backend,privacy",127
+593,https://github.com/danielzen/ionic-pouchdb-todo.git,A simple Ionic Todo app with a PouchDb local storage backend configured to sync\nwith a CouchDb installation. Demo of offline functionality with server synchronization.,,127
+594,https://github.com/backend-br/awesome-backend.git,Awesome list backend,,126
+595,https://github.com/MoePlayer/DPlayer-node.git,Node.js backend with Docker for DPlayer(https://github.com/DIYgod/DPlayer),,126
+596,https://github.com/leeeboo/wechat.git,My WeChat Backend Example,,125
+597,https://github.com/gothinkster/gcp-datastore-cloud-functions-realworld-example-app.git,Serverless GCP Cloud Functions + Datastore implementation of RealWorld Backend,"cloud-functions,cloud-datastore,gcp,realworld,serverless,google-cloud",125
+598,https://github.com/Michael-F-Bryan/mdbook-epub.git,An experimental mdbook backend for creating EPUB documents.,,125
+599,https://github.com/grin-compiler/ghc-grin.git,GRIN backend for GHC,"compiler,haskell,grin,ghc,functional-programming",125
+600,https://github.com/2color/real-world-grading-app.git,"An example of a real-world REST API backend built with TypeScript, Hapi, Prisma, and PostgreSQL. ","typescript,prisma,orm,postgresql,hapi,database-schema,rest-api",125
+601,https://github.com/coxjonc/django-react-auth.git,Example of token-based authentication with a Django Rest Framework backend and ReactJS frontend,,125
+602,https://github.com/sameersingh/scalaplot.git,"Library to plot graphs using a scala frontend, and various backends such as gnuplot, jfreegraph, matplotlib, etc.",,125
+603,https://github.com/roman01la/react-horizon.git,React Horizon makes it easier to use your React application with horizon.io realtime backend,,125
+604,https://github.com/clementfarabet/gfx.js.git,A graphics backend for the browser (with a Torch7 client).,,124
+605,https://github.com/hyron-group/hyron.git,Build backend app like play Lego,,124
+606,https://github.com/codingforentrepreneurs/Angular-Django.git,Integrate Try Angular v4 to a Django backend using the Django Rest Framework and Django version 1.11.,,124
+607,https://github.com/dylanz/i18n_backend_database.git,Database Backend for Rails I18n,,123
+608,https://github.com/commonsearch/cosr-back.git,Backend of Common Search. Analyses webpages and sends them to the index.,,123
+609,https://github.com/conorhastings/routeql.git,"backend agnostic, graphql style colocation of data requests in React",,123
+610,https://github.com/microsoft/TailwindTraders-Backend.git,Tailwind Traders Backend Services,,122
+611,https://github.com/hughperkins/clnn.git,OpenCL backend for Torch nn neural networks library,,122
+612,https://github.com/martini-contrib/oauth2.git,[not maintained] Allows your Martini application to support user login via an OAuth 2.0 backend.,,122
+613,https://github.com/Evolution-App/Backend.git,Backend is responsible to provide data to EVOlution App - iOS,"swift-evolution,swift,backend,server-side-swift,kitura,evolution-app,ibm,bff-component,bff,evolution,macos,xcode,toolchain,ibm-bluemix,proposals",122
+614,https://github.com/DadosAbertosDeFeira/maria-quiteria.git,Backend para coleta e disponibilização dos dados 📜,"dados-abertos,feira-de-santana,civic-tech,scrapy,hacktoberfest,django,django-rest-framework,dramatiq",121
+615,https://github.com/draperlaboratory/llvm-cbe.git,"resurrected LLVM ""C Backend"", with improvements",,121
+616,https://github.com/fernandopassaia/app_fullstackdemo.git,AppFullStackDemo: DDD/SOLID/CleanCode App .NetCore 3.1 (BackEnd) Angular Material Panel (FrontEnd) React Native (Mobile),,121
+617,https://github.com/Knotx/knotx.git,Knot.x is a highly-efficient and scalable integration framework designed to build backend APIs,"vertx,rxjava,knotx,aem,handlebars,reactive,java-8,microservices,adobe-experience-manager,adobe-cq",121
+618,https://github.com/nmaupu/freenas-provisioner.git,Kubernetes external provisioner using Freenas as backend,,120
+619,https://github.com/hosain-mohamed/Flutter-chat-App.git,Chat application using Flutter and Firebase for backend.,,120
+620,https://github.com/heartexlabs/label-studio-frontend.git,Data labeling react app that is backend agnostic and can be embedded into your applications — distributed as an NPM package,"label-studio,image-annotation,labeling-tool,image-labeling,image-labeling-tool,react-components,semantic-segmentation,annotation-tool,text-labeling,audio-classification,pose-estimation,labelingtool,react,mobx-state-tree",120
+621,https://github.com/creationix/postgres-js.git,The postgres backend protocol implemented in pure JS for use with node.js,,120
+622,https://github.com/schollz/jsonstore.git,Simple thread-safe in-memory JSON key-store with persistent backend,"keystore,json",120
+623,https://github.com/aliyun/django-oss-storage.git,Django storage backends for AliCloud OSS.,"django,oss",119
+624,https://github.com/ziman/idris-py.git,"Python backend for Idris (generates Python source, not bytecode).",,119
+625,https://github.com/IUNetSci/hoaxy-backend.git,"Backend component for Hoaxy, a tool to visualize the spread of claims and fact checking",,119
+626,https://github.com/sean7218/ubereats.git,"🍦 UberEats clone 🍜 : iOS in Swift, backend with Yelp API and Node.js. Location uses Google Map Service API. All animation and UI done programmatically","ios,uber,swift",119
+627,https://github.com/francois/piston.git,"Piston is a utility that eases vendor branch management.  This repository is a complete reimplementation of Piston to provide different backends, depending on the repositories and working copies you pistonize from.",,119
+628,https://github.com/cloudfoundry-incubator/eirini.git,"Pluggable container orchestration for Cloud Foundry, and a Kubernetes backend","cloud-foundry,kube,orchestrator,eirini,kubernetes",118
+629,https://github.com/adelowo/onecache.git,"One caching API, Multiple backends","cache,golang",118
+630,https://github.com/nov/apple_id.git,Sign in with Apple backend library in Ruby,"apple,sign-in-with-apple,rubygem,ruby,rails,openid-connect",118
+631,https://github.com/fpco/ide-backend.git,"ide-backend drives the GHC API to build, query, and run your code",,118
+632,https://github.com/hootsuite/akka-persistence-redis.git,Akka Persistence that uses Redis as backend,,117
+633,https://github.com/EmmanuelOga/simple-angular-rails-app.git,Simple Angular App with a Rails backend,,117
+634,https://github.com/valenting/node_tradfri_ifttt.git,Backend to control Ikea TRADFRI from IFTTT,,116
+635,https://github.com/tareksalem/grandjs.git,A backend framework for solid web apps based on node.js,,116
+636,https://github.com/heapsource/mongoose-attachments.git,Attachments Plugin for Mongoose.js with Support for ImageMagick Styles and Multiple Storage Backends,,115
+637,https://github.com/Nebo15/logger_json.git,JSON console backend for Elixir Logger.,"elixir,package,elixir-lang,log,logging,json,google-cloud-logging,log-collector,dockerized",114
+638,https://github.com/afertil/nest-chat-api.git,Chat app backend using Nest framework,"nestjs,websocket,authentication,typescript,chat-application",114
+639,https://github.com/sonoro1234/LuaJIT-ImGui.git,"LuaJIT ffi binding for imgui, backends and extension widgets","luajit,imgui,luajit-ffi",114
+640,https://github.com/dividuum/fdb-nbd.git,A totally proof-of-concept FoundationDB based network block device backend,"python,nbd,foundationdb",114
+641,https://github.com/Nesseref/nginx-rtmp-auth.git,Backend for handling nginx rtmp module stream authentication,,113
+642,https://github.com/moshe/asonic.git,async python client for the sonic search backend,,113
+643,https://github.com/GoogleCloudPlatform/appengine-angular-gotodos.git,Go/App Engine backend for the popular Angular.js todo example,,113
+644,https://github.com/storyicon/graphquery.git,GraphQuery is a query language and execution engine tied to any backend service. ,"query,html,xml,css,xpath,jsonpath,regexp,sql,graph,crawler",113
+645,https://github.com/sqlalchemy/dogpile.cache.git,dogpile.cache is a Python caching API which provides a generic interface to caching backends of any variety,"memcached,redis",113
+646,https://github.com/Fonta1n3/FullyNoded.git,"{""Self sovereign, secure, powerful, easy to use wallet that utilizes your own node as a backend. Powered by PSBT's and descriptors. Acts as an offline signer using your node as a watch-only wallet. C-Lightning compatible for instant, unfairly cheap payments. ""}","bitcoin,swift,tor,psbt,onion,c-lightning",113
+647,https://github.com/elmsln/HAXcms.git,HAX with a lightweight CMS backend to manage your microsite universe,"cms,haxcms,haxtheweb,hax,webcomponents",112
+648,https://github.com/snitko/straight-server.git,"Open source bitcoin payment gateway server, used as a backend for Mycelium Gear",,112
+649,https://github.com/danielsdeleo/qusion.git,Using AMQP as a Queuing Backend for Web Apps Should Be Easy,,112
+650,https://github.com/Scharkee/react-hooks-uikit-express-oauth-boiler-v2.git,"A React/TypeScript fullstack boilerplate utilizing React hooks, using Express as backend, UIKit for frontend, MongoDB for storage & open-authenticator for OAuth.","react-hooks,composition-mode,oauth,uikit,boilerplate,react,nodejs,express,mongodb,docker,docker-compose,nginx,open-authenticator",112
+651,https://github.com/f213/education-backend.git,Django-based backend for my Learning Management System,"django,python,django-rest-framework,django-application,pytest,lms",111
+652,https://github.com/getdock/whitelist.git,whitelist.dock.io backend service,"whitelist,ethereum,tokensale",111
+653,https://github.com/GoogleCloudPlatform/google-cloud-node-todos.git,TodoMVC backend using gcloud-node,,110
+654,https://github.com/cabo/kramdown-rfc2629.git,"{""An RFC2629 (XML2RFC) backend for Thomas Leitner's kramdown markdown parser""}",,110
+655,https://github.com/xirong/my-backend.git,learning content  of backend development （java 后端开发知识汇总）,,110
+656,https://github.com/eed3si9n/gigahorse.git,Gigahorse is an HTTP client for Scala with multiple backend support.,,110
+657,https://github.com/long2ice/fastapi-cache.git,"fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcache.","cache,fastapi,redis,memcached",110
+658,https://github.com/jupyter-xeus/xwidgets.git,C++ backend for Jupyter interactive widgets,,109
+659,https://github.com/ONLYOFFICE/server.git,The backend server software layer which is the part of ONLYOFFICE Document Server and is the base for all other components,"node,nodejs,redis,rabbitmq,backend-server",109
+660,https://github.com/CaelumF/FigmaToCompose.git,Plugin and backend to convert Figma designs to Jetpack Compose code,,109
+661,https://github.com/PseudoTV/PseudoTV_Live.git,"PseudoTV Live acts similar to normal broadcast or cable TV, complete with multiple preset and user-defined channels and an EPG.          PseudoTV Live can directly integrate with various Kodi plugins and video sources such as Playon, Hdhomerun and PVR backends.",,109
+662,https://github.com/aspiers/mysqldiff.git,tool and CPAN suite backend for comparing MySQL database schemas,,108
+663,https://github.com/RameshMF/ReactJS-Spring-Boot-CRUD-Full-Stack-App.git,Learn how to develop a full-stack CRUD application using React as frontend and spring boot as backend.,"spring-boot,reactjs,mysql,axios,hibernate",108
+664,https://github.com/mirakc/mirakc.git,A Mirakurun-compatible PVR backend written in Rust,"mirakc,mirakurun,dtv,pvr",108
+665,https://github.com/powa-team/pg_stat_kcache.git,Gather statistics about physical disk access and CPU consumption done by backends.,"c,postgresql,extension,database,performance,performance-analysis,optimization,powa",108
+666,https://github.com/MemVerge/splash.git,"Splash, a flexible Spark shuffle manager that supports user-defined storage backends for shuffle data storage and exchange","spark,shuffle,apache-spark,bigdata,scala,java,storage,elasticity,disaggregation",108
+667,https://github.com/tiangolo/flask-frontend-docker.git,"Minimal project generator with a Flask backend, a modern frontend (Vue, React or Angular), a Traefik load balancer with HTTPS, all based on Docker.","flask,vue,docker,traefik,https,letsencrypt,uwsgi,nginx,docker-compose",108
+668,https://github.com/carljm/django-transaction-hooks.git,"Django database backends with post-transaction-commit hooks. Merged into Django 1.9; please report bugs or make feature requests in core Django, not here.",,108
+669,https://github.com/MycroftAI/personal-backend.git,WORK IN PROGRESS: A Flask personal backend alternative for running your own version of https://home.mycroft.ai,,107
+670,https://github.com/elghazal-a/autowire.git,Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.,"wireguard,vpn,consul,devops,security,networking",107
+671,https://github.com/blockchainsllc/slock-js.git,the backend of the slock framework,,106
+672,https://github.com/bancek/django-smtp-ssl.git,SMTP SSL email backend for Django,,106
+673,https://github.com/nishant-boro/django_rest-vuejs-auth.git,"An Authentication project using JWT Tokens, Vuejs(frontend) and Django-Rest(backend).","authentication,vuejs,django-rest-framework,jwt-authentication,django",106
+674,https://github.com/threatify/arango-orm.git,A SQLAlchemy like ORM implementation using python-arango as the backend library,,106
+675,https://github.com/TimWolla/haproxy-auth-request.git,auth-request allows you to add access control to your HTTP services based on a subrequest to a configured HAProxy backend.,"haproxy,haproxy-lua,http,lua-script,subrequests,authentication,authentication-service",106
+676,https://github.com/IBM/FoodTrackerBackend.git,This tutorial teaches how to create a Kitura Swift backend for the FoodTracker iOS app tutorial from Apple. This project contains a version of the tutorial code that has been updated to use Codable rather than NSCoder.,,106
+677,https://github.com/go-graphite/carbonzipper.git,proxy to transparently merge graphite carbon backends,"carbon,go,graphite-web,carbonapi,carbonzipper,protobuf",105
+678,https://github.com/8l/qbe.git,A Quick Backend,,105
+679,https://github.com/JuliaLinearAlgebra/MKL.jl.git,Intel MKL linear algebra backend for Julia,,105
+680,https://github.com/christian-bromann/devtools-backend.git,Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.,,105
+681,https://github.com/paoyong/chat-room.git,"Chat room built with Reactjs, backend with nodejs, socket.io, and postgresql.",,105
+682,https://github.com/thautwarm/restrain-jit.git,"The first and yet the only CPython compatible Python JIT, over the world.(julia backend: https://github.com/thautwarm/RestrainJIT.jl) ","python-jit,python",105
+683,https://github.com/felipepassosdev/Devhipster.git,"Com o intuito de ajudar a comunidade, criei esse projeto. Percebi a falta de um projeto em português e gratuito e resolvi mudar essa realidade e criar o Devhipster. Os vídeos vão ser postados no meu canal do youtube, as atualizações vão ser postadas no meu instagram. A ideia é usar front-end React com Styled Components, backend usarei nodejs./",,105
+684,https://github.com/crayfishx/hiera-gpg.git,GPG Backend to HIera,,104
+685,https://github.com/django-pylibmc/django-pylibmc.git,A cache backend for Django using pylibmc,,104
+686,https://github.com/tribbloid/ISpark.git,An Apache Spark-shell backend for IPython,,104
+687,https://github.com/YAL-Haxe/openfl-bitfive.git,Alternative blitting-targeted HTML5 backend for OpenFL.,,104
+688,https://github.com/juxt/apex.git,A compendium of Clojure libraries for implementing web backends.,,104
+689,https://github.com/anthony-mills/raspberrypi-carputer.git,UI component for the Nomadic Pi a Raspberry Pi based car computer. Allows interaction with MPD and GPSD backend services.,"automotive,raspberry-pi,gps,car,car-computer,trip,car-location,mpd,gps-device,music",104
+690,https://github.com/reverbrain/eblob.git,"Eblob is an append-only low-level IO library, which saves data in blob files. Created as low-level backend for elliptics",,104
+691,https://github.com/adamhub/screenbird.git,"a full cross platform video screen capture tool and host. Java based screen recorder, and Django based web backend. Also included is a distributed video processing engine that uses ffmpeg across any amount of AWS instances.",,104
+692,https://github.com/dhingratul/Stock-Price-Prediction.git,Stock price prediction using LSTM and 1D Convoltional Layer implemented in keras with TF backend on daily closing price of S&P 500 data from Jan 2000 to Aug 2016,"rnn,keras,tensorflow,stock-price-prediction,lstm,cnn,max-pooling",104
+693,https://github.com/valeriansaliou/node-sonic-channel.git,"🦉 Sonic Channel integration for Node. Used in pair with Sonic, the fast, lightweight and schema-less search backend.","sonic,nodejs,npm,npm-package,search,index,graph",104
+694,https://github.com/SAP-samples/cloud-espm-v2.git,"This sample is a reference application project, showcasing an end-to-end development scenario for a Java-based app on SAP Cloud Platform. The app has a SAPUI5 web frontend, uses OData to connect to a Java-based cloud backend which in turn connects via JPA to an SAP HANA DB in the cloud.","sample,sample-code,sap-cloud-platform,sapui5,sap-hana-db",104
+695,https://github.com/artiste-qb-net/qubiter.git,"Python tools for reading, writing, compiling, simulating quantum computer circuits. Includes numpy and tensorflow backends. “Quantum Space, the final frontier. These are the voyages of the starship Qubiter. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.”","quantum-computing,quantum-compiler,tensorflow",104
+696,https://github.com/lirongtong/miitvip-vue-admin-manager.git,:kissing_heart:A unified template used to backend management based on Vue3.0 + Ant Design Vue + Vite. :heart: Makeit Admin Pro，是基于 Vue3.0 + Vite + Ant Design Vue 组件库开发的一套适合中后台管理项目的统一 UI 框架，包含页面布局 / 注册 / 登录 / 验证码等常用模块，开箱即用。持续开发更新中 ...,"vue,vue3,vite,typescript,ui-components,ant-design-vue,admin,manager-system,admin-management,makeit,makeit-admin,makeit-admin-pro,vue-components,ui-design,ui,webpack,vur-router,vuex,ui-frame,components",104
+697,https://github.com/AnupKumarPanwar/Uber-Like-Cab-Service.git,Uber Like Android App with PHP backend,"uber,android,php-backend,cab-service",103
+698,https://github.com/cpetzold/node-impact.git,nodejs backend for impactjs (http://impactjs.com),,103
+699,https://github.com/saghul/CallRoulette.git,A WebRTC demo using Python (asyncio + aiohttp) as the backend,"webrtc,python,asyncio",103
+700,https://github.com/paltman-archive/django-pdf.git,Manage uploaded documents (pdfs) with backend cloud processing of the pdfs into individual pngs per page,,103
+701,https://github.com/gilbertchen/cloud-storage-comparison.git,Performance comparisons of cloud backup storages as Duplicacy backends,,103
+702,https://github.com/jimpick/dat-shopping-list.git,A progress web app built to demonstrate Dat multi-writer support (hyperdrive+hyperdb) as a web backend,,103
+703,https://github.com/python-poetry/poetry-core.git,Poetry PEP 517 Build Backend & Core Utilities,"poetry,python,pep517,hacktoberfest",102
+704,https://github.com/StackExchange/StackExchange.Metrics.git,A .NET client to send metrics to a variety of metrics backends,,102
+705,https://github.com/apix/cache.git,A thin PSR-6 cache wrapper with a generic interface to various caching backends emphasising cache tagging and indexing.,"psr-cache,apix-cache,apix,cache-backend,pdo,memcached,redis,mongodb,apcu,apc,sqlite,igbinary,msgpack,json,psr-6,mysql,pgsql,oracle,mariadb,tagging",102
+706,https://github.com/purescript-python/purescript-python.git,A Python backend for PureScript.,"purescript,python,compiler",102
+707,https://github.com/jsok/hiera-vault.git,"{""A Hiera backend to retrieve secrets from Hashicorp's Vault""}",,101
+708,https://github.com/ultimate-guitar/reImage.git,"Fast image resizing backend based on libvips, mozjpeg and pngquant","golang,image-resizer,image-resizing",101
+709,https://github.com/gkoberger/avataaars.git,Renders Avataaars.com on the backend so you can use <img> tags,,101
+710,https://github.com/Rudge/kotlin-javalin-realworld-example-app.git,Real world backend API built in Kotlin with Javalin + Koin + Exposed,"kotlin,javalin,realworld-backend,koin,exposed",101
+711,https://github.com/Gizra/generator-hedley.git,"Scaffold a headless Drupal backend, Angular app client,  and Behat tests",,101
+712,https://github.com/hashicorp/raft-mdb.git,LMDB backend for Raft,,100
+713,https://github.com/dagwieers/asciidoc-odf.git,ODF backend for AsciiDoc,,100
+714,https://github.com/stripe/example-mobile-backend.git,"A simple, easy-to-deploy backend that you can use to demo our example mobile apps.           ",,100
+715,https://github.com/xxweimei/krpano-editor-js.git,A static krpano editor html based on jquery & a demo backend server based on nodejs,,100
+716,https://github.com/Azure-Samples/active-directory-javascript-singlepageapp-dotnet-webapi.git,"A javascript based single page app with a .NET backend that authenticates Azure AD users and calls the backend web api using access tokens, without using any SPA frameworks.",,100
+717,https://github.com/vpulim/mango.git,"{""MongoDB backends for Django sessions and authentication (bypasses Django's ORM model)""}",,100
+718,https://github.com/thesephist/polyx.git,Productivity suite written from scratch in Ink on the backend and Torus on the web,"productivity,notes,todolist,crm,reading-list,file-sync",100
+719,https://github.com/jaegertracing/helm-charts.git,Helm Charts for Jaeger backend,"helm-charts,jaeger-backend,kubernetes-operator,helm,jaeger,tracing",99
+720,https://github.com/FluxML/NNlib.jl.git,Neural Network primitives with multiple backends,"machine-learning,deep-learning,julia",99
+721,https://github.com/bradtraversy/nodeauthapp.git,Backend authentication with json web token,,99
+722,https://github.com/myjfm/cnetpp.git,a ligthweight asynchronized network library focused on backend c++ development,,99
+723,https://github.com/commercialhaskell/stack-ide.git,Stack-based JSON interface to ide-backend,,99
+724,https://github.com/SchumacherFM/Magento-OpCache.git,OpCache (Zend Optimizer) Control Panel (GUI) for the Magento Backend.,,99
+725,https://github.com/petercunha/tts.git,"{"":pencil: :sound: A simple text-to-speech tool. Converts your text to speech with any of Streamlab's voices. Frontend built with GatsbyJS, backend is serverless Node.js""}","text-to-speech,streamlabs,serverless,gatsby,lambda,twitchtv",99
+726,https://github.com/jphalip/djangocore-box.git,"NOTE: THIS PROJECT IS NOW UNMAINTAINED. PLEASE SEE https://github.com/django/django-box FOR THE UPDATED VERSION. — A virtual machine for running the Django core test suite with every supported version of Python, every supported database backend and other dependencies.",,99
+727,https://github.com/jenkins-infra/update-center2.git,Jenkins Update Center backend,"jenkins,jenkins-infra,update-center,java",98
+728,https://github.com/QuickBlox/quickblox-javascript-sdk.git,JavaScript SDK of QuickBlox cloud backend platform,"quickblox-javascript-sdk,quickblox,sdk,js-sdk,javascript,messaging,chat,textchat,videochat,calling,webrtc,bower,html,css,communication,framework,requirejs,whatsapp,xmpp",98
+729,https://github.com/pythonic-emacs/company-anaconda.git,Anaconda backend for company-mode.,,98
+730,https://github.com/pietrzakadrian/bank-server.git,"Backend Application using Node.js with Nest.js, REST API, PostgreSQL, Jest and Swagger Documentation","nodejs,nestjs,typescript,postgresql,rest-api,backend-server",98
+731,https://github.com/laohanlinux/riot.git,"Riot is a distributed key/value system based at raft algorithm, leveldb and bitCask backend storage!!!",,98
+732,https://github.com/PrefectHQ/server.git,The Prefect API and backend,"prefect,workflow,workflow-engine,automation,orchestration",97
+733,https://github.com/hakdogan/ElasticSearch.git,:globe_with_meridians: This application illustrates and demonstrates use of ElasticSearch Java API in the backend,"elasticsearch,elasticsearch-java-api,rest-client",97
+734,https://github.com/gonicus/gofaxip.git,GOfax.IP - T.38 / Fax Over IP backend for HylaFAX using FreeSWITCH,,97
+735,https://github.com/vertexcover-io/falcon-auth.git,A falcon middleware + authentication backends that adds authentication layer to you app/api service.,,97
+736,https://github.com/joescii/lift-ng.git,"lift-ng is the most powerful, most secure AngularJS backend available today",,97
+737,https://github.com/murilosandiego/delivery-app-getx.git,"Um aplicativo de delivery feito em flutter com GetX, GraphQL, GetStorage, Dio etc. Utilizando Strapi como Backend","flutter,getx,graphql,dio,delivery",97
+738,https://github.com/GMOD/Apollo.git,Genome annotation editor with a Java Server backend and a Javascript client that runs in a web browser as a JBrowse plugin.,"jbrowse,apollo,groovy,grails,genome-annotation-editor,gwt,jbrowse-plugin",97
+739,https://github.com/wx-chevalier/Awesome-Interviews.git,"Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备","wx-doc,wx-fench",97
+740,https://github.com/torodb/server.git,"ToroDB Server is an open source NoSQL database that runs on top of a RDBMS. Compatible with MongoDB protocol and APIs, but with support for native SQL, atomic operations and reliable and durable backends like PostgreSQL","torodb,mongodb,nosql,nosql-transactions",97
+741,https://github.com/crayfishx/hiera-http.git,HTTP backend for Hiera,"hiera,hiera-http,backend,puppet",96
+742,https://github.com/tqhoughton/chat-app-serverless.git,Public repo for serverless chat API backend,,96
+743,https://github.com/r-lib/tidyselect.git,A backend for functions taking tidyverse selections,,96
+744,https://github.com/ddewaele/emberjs-crud-rest.git,Simple CRUD application using Ember.JS with a Node.JS Express backend with MongoDB,,96
+745,https://github.com/F43nd1r/Acrarium.git,"A Backend for ACRA written in Kotlin using Spring Boot, Vaadin and MySQL",,96
+746,https://github.com/mafintosh/abstract-chunk-store.git,A test suite and interface you can use to implement a chunk based storage backend,,96
+747,https://github.com/intra2net/guibot.git,A tool for GUI automation using a variety of computer vision and display control backends.,,96
+748,https://github.com/talw/crisp-compiler.git,"A compiler for Crisp (Lisp/Scheme-inspired language) in Haskell, with an LLVM backend",,96
+749,https://github.com/jonatasbaldin/fin.git,"Fin is an open source backend API to track personal finances, made with Go 💸",,96
+750,https://github.com/lynxman/hiera-consul.git,Hiera backend plugin for Consul,,95
+751,https://github.com/Sopamo/laravel-filepond.git,Laravel backend module for filepond uploads,"php,laravel,filepond,upload",95
+752,https://github.com/zhashkevych/awesome-backend.git,🚀 A curated and opinionated list of resources (English & Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки,"backend,software-engineering,computer-science,web,databases,architecture,guide,guides,roadmap,list,curated-list,for-beginners",95
+753,https://github.com/qor/i18n.git,"I18n is a golang implementation, provides internationalization support for your application, with different backends support",,95
+754,https://github.com/sergcpp/Ray.git,Small pathtracing library with GPU  and CPU backends,"opencl,sse,bvh,path-tracer,raytracing",95
+755,https://github.com/capless/kev.git,"K.E.V. (Keys, Extras, and Values) is a Python ORM for key-value stores based on Valley. Currently supported backends are Redis, S3, and a S3/Redis hybrid backend. Based on Valley.","redis,s3,orm",95
+756,https://github.com/bitnenfer/tiny-canvas.git,Tiny-Canvas is a lightweight minimal implementation of a batched and stack matrix based canvas similar to HTML5 Canvas2D with WebGL backend.,,95
+757,https://github.com/SharebookBR/sharebook-backend.git,Projeto backend de código livre para o app Sharebook.,"dotnet-core,webapi-2,entity-framework-core,sql-server",94
+758,https://github.com/QuantStack/xplot.git,C++ backend for the bqplot 2-D plotting library,,94
+759,https://github.com/xxweimei/krpano-editor-vuejs.git,A static krpano editor based on vuejs & a demo backend server based on nodejs,,94
+760,https://github.com/magepal/magento2-reindex.git,"Reindex your Magento2 store quickly and easily from backend/admin, instead of using the command line.","magento2,magento2-extension,magento2-module,reindex,magento,magento-reindex,backend,php,magento-extension,magento-module,magento-2,mage",94
+761,https://github.com/FRiCKLE/ngx_supervisord.git,nginx module providing API to communicate with supervisord and manage (start/stop) backends on-demand.,,94
+762,https://github.com/immuni-app/immuni-backend-common.git,Common repository for the app backend ,"python,sanic,celery,covid-19",93
+763,https://github.com/jpmorganchase/jupyter-fs.git,A filesystem-like contents manager for multiple backends in Jupyter,"jupyter,jupyter-notebook,jupyterlab,jupyterlab-extension,jupyter-lab",93
+764,https://github.com/Swarmops/Swarmops.git,Admin backend for any bitcoin-native or swarm organization,,93
+765,https://github.com/zio/zio-logging.git,"Simple logging for ZIO apps, with correlation, context & pluggable backends out of the box.","zio,scala,logging,fp,functional-programming,tracing,slf4j",93
+766,https://github.com/alisaifee/limits.git,utilities to implement rate limiting using various strategies and storage backends such as redis & memcached.,"python,flask,rate-limiting",93
+767,https://github.com/GoogleCloudPlatform/appengine-endpoints-tictactoe-java.git,"A simple backend for a Tic Tac Toe game using Google Cloud Endpoints, App Engine, and Java.",,93
+768,https://github.com/mattmezza/react-beautiful-chat.git,A simple and beautiful React chat component backend agnostic and with Emoji and File support.,"chat,react,reactjs,chat-component,file,emoji",93
+769,https://github.com/sapk/docker-volume-gluster.git,Use GlusterFS as a backend for docker volume (also as a plugin),"docker-volumes,glusterfs,docker,docker-plugin,docker-volume-plugin",93
+770,https://github.com/dilum1995/IIT-PlayFramework-Session.git,Play framework as a backend session (03 week session series) that I have conducted for the Informatics Institute of Technology L5 students,,93
+771,https://github.com/yfactorial/objectivesync.git,An abstraction of the various synchronization policies used when linking a remote iPhone app to a supporting backend web service.  Abstracted from the ObjectiveResource project.,,93
+772,https://github.com/win5do/vue-fb-demo.git,"a simple admin demo,backend use node,frontend use vue.","nodejs,vue",92
+773,https://github.com/splunk/splunk-demo-collector-for-analyticsjs.git,Example Node.js based backend collector for client-side data,,92
+774,https://github.com/kowainik/cake-slayer.git,🍰🔪 Architecture of Haskell backend applications,"haskell,backend,architecture,web,haskell-backend,elm",92
+775,https://github.com/winwiz1/crisp-react.git,Boilerplate with React client and Express backend written in TypeScript. Offers performance and extended functionality. Comes with SSR and without need to learn a framework. Helps to avoid frequent React-Express integration pitfalls.,"react,typescript,express,webpack,semantic-ui,boilerplate,nodejs,docker,containerization,cloudflare,heroku,cloud-run,fullstack,ssr",92
+776,https://github.com/corona-warn-app/cwa-testresult-server.git,Backend implementation of the test result information. ,,91
+777,https://github.com/wikimedia/restbase.git,Distributed storage with REST API & dispatcher for backend services.,"cassandra,javascript,wikipedia-api,restbase,backend-services,rest-api",91
+778,https://github.com/ludohenin/ng2-wp-blog.git,Angular2 frontend app using Wordpress API backend,,91
+779,https://github.com/stig/ox-jira.el.git,Org-mode export backend for JIRA markup,"emacs,org-mode,jira",91
+780,https://github.com/yysun/Git-Web-Access.git,The project provides a Git smart HTTP backend on IIS.,,91
+781,https://github.com/pankod/canvas2video.git,canvas2video is a backend solution for creating and rendering dynamic videos.,"canvas,ffmepg,rendering,typescript",91
+782,https://github.com/matrix-org/matrix-bifrost.git,General purpose bridging with a variety of backends including libpurple and xmpp.js,,91
+783,https://github.com/openstack/liberasurecode.git,Erasure Code API library written in C with pluggable Erasure Code backends. Mirror of code maintained at opendev.org.,,91
+784,https://github.com/gtaylor/django-dynamodb-sessions.git,"{""A Django session backend for Amazon's DynamoDB""}",,90
+785,https://github.com/onehilltech/blueprint.git,solid framework for building APIs and backend services,"blueprint,node-js,expressjs,node,express-js,javascript,apis",90
+786,https://github.com/GoogleCloudPlatform/appengine-endpoints-tictactoe-python.git,"A simple backend for a Tic Tac Toe game using Google Cloud Endpoints, App Engine, and Python.",,90
+787,https://github.com/juliancwirko/react-redux-webpack-meteor.git,"React demo app with Webpack, Redux and Meteor as a backend only",,90
+788,https://github.com/velopert/whotalk.us.git,Chat based SNS implemented using React.js on frontend-side and Node.js on backend-side - https://whotalk.us/,,90
+789,https://github.com/markkimsal/statsd-elasticsearch-backend.git,Elasticsearch backend for statsd,,89
+790,https://github.com/microsoft/BikeSharing360_BackendServices.git,BikeSharing360 Demo Apps Backend Services,,89
+791,https://github.com/slate-studio/activeadmin-settings.git,Settings backend for activeadmin based projects - pretty handy tool.,,89
+792,https://github.com/emacsorphanage/company-jedi.git,Company backend for Python jedi,,89
+793,https://github.com/AngellusMortis/django_microsoft_auth.git,"Simple app to enable Microsoft Account, Office 365 and Xbox Live authentcation as a Django authentcation backend.",,89
+794,https://github.com/firegento/firegento-adminmonitoring.git,Monitor all activities in the backend and provide a history about the changes.,,89
+795,https://github.com/yahoohung/loopback-graphql-server.git,Combine the powers of GraphQL with the backend of Loopback to automatically generate GraphQL endpoints based on Loopback Schema. ,,89
+796,https://github.com/adhocore/urlsh.git,"GOlang URL shortener and bookmarker service with UI, API, Cache, Hits Counter and forwarder using postgres and redis in backend, bulma in frontend","golang,go,url-shortener,redigo,postgres,url-shortener-microservice,urlshortener,gorm-orm,gorm-model,gorm,redis,bulma,bulma-css,go-url-shortener,adhocore",89
+797,https://github.com/tencentyun/qcloud-cos-sts-sdk.git,QCloud COS STS SDK for Backend Server,,88
+798,https://github.com/xiewenya/django-aliyun-oss2-storage.git,django storage backend for aliyun oss2,"aliyun-oss,django-storages",88
+799,https://github.com/rolandoislas/drc-sim.git,Wii U Gamepad Simulator Backend,"drc-sim,wii-u,network,simulator",88
+800,https://github.com/kobotoolbox/kobocat.git,Our (backend) server for providing blank forms to Collect and Enketo and for receiving and storing submissions. ,,88
+801,https://github.com/egoist/vite-plugin-mix.git,Adding backend API to your Vite app.,,88
+802,https://github.com/engindemirog/TemplateBackend.git,Template for backend projects,,87
+803,https://github.com/InfluxGraph/influxgraph.git,Graphite InfluxDB backend. InfluxDB storage finder / plugin for Graphite API.,"influxdb,monitoring,metrics,grafana,graphite,timeseries,visualisation,graphite-api,metrics-gathering,metrics-library,metrics-visualization,metrics-databases,metrics2",87
+804,https://github.com/chartmuseum/storage.git,Go library providing common interface for working across multiple cloud storage backends,"golang,go,cloud,storage,s3,gcs,azure-blob,alibaba-oss,openstack,oracle-cloud,chartmuseum",87
+805,https://github.com/amazon-archives/aws-mobile-ionic-sample.git,"It is a Ionic Sample App that displays how web developers can integrate their front end with AWS on the backend. The App interacts with AWS Cognito, API Gateway, Lambda and DynamoDB on the backend. ",,87
+806,https://github.com/JayZang/twitter-clone.git,Twitter clone.   The target is learning Vue framework and technique of backend to implement a SPA website.,"node,nodejs,vue,vuejs,restful-api,es7,twitter",87
+807,https://github.com/Flyer53/jsPanel3.git,"A jQuery Plugin to create highly configurable floating panels, modals, tooltips, hints/notifiers or contextmenus for use in a backend solution and other web applications.","jquery,tooltip,hint,notifier,panel,modal,draggable,resizable,window,contextmenu",87
+808,https://github.com/RamAlapure/JavaFXSpringBootApp.git,The application frontend created using JavaFX and backend services are implemented using Spring Boot. The app demonstrate simple CRUD operation and switching between two scenes with Login and User Dashboard view.,,87
+809,https://github.com/cockroachdb/django-cockroachdb.git,CockroachDB Backend for Django,,86
+810,https://github.com/grapheco/InteractiveGraph-neo4j.git,"a graph server serves backend neo4j, virtosuo as an InteractiveGraph","neo4j,graph,interactivegraphprotocol",86
+811,https://github.com/brutasse/graphite-cyanite.git,A plugin for using graphite-web with the cassandra-based Cyanite storage backend.,,86
+812,https://github.com/Dynalon/Rainy.git,Simple Tomboy/Tomdroid cloud/syncing server. Written in C# with AngularJS web frontend. Supports SQLite & Postgres Backends.,,86
+813,https://github.com/Azure-Samples/active-directory-angularjs-singlepageapp-dotnet-webapi.git,"An AngularJS single page app, implemented with an ASP.NET Web API backend, that signs users in using Azure AD and calls another web API using OAuth 2.0 access tokens.",,86
+814,https://github.com/IncredibleWeb/Xamarin-Forms-Chat-Client.git,A cross platform Xamarin Forms Chat application using SignalR. The application makes use of a SignalR backend to manage web socket connections. SignalR Groups are used to demonstrate how private chats can be created using SignalR. The application also uses custom renderers to display speech bubbles on Android and IOS.,,86
+815,https://github.com/openstates/billy.git,legacy backend for Open States,"legislation,scraping,python",85
+816,https://github.com/msanvarov/nest-rest-mongo-boilerplate.git,"🍱 backend with nest (typescript), mongoose, and authentication","nest,docker,mongoose,mongodb,swagger,typescript,bearer-authentication,nestjs,fastify,express",85
+817,https://github.com/DTaoo/VGGish.git,An implementation of vggish in keras with tf backend,,85
+818,https://github.com/smartfile/django-mysqlpool.git,Django database backend for MySQL that provides pooling ala SQLAlchemy.,,85
+819,https://github.com/wuruoyun/electron-vue-spring.git,An opinionated desktop application with web front-end and Java backend.,"electron,spring-boot,vue,java-backend,desktop,spring",85
+820,https://github.com/victorsteven/Forum-App-Go-Backend.git,"Forum Backend API built with Golang, GIn Framework, GORM, PostgreSQL/MySQL","gin,go,golang,gin-gonic,gorm,gorm-orm,postgresql,mysql",85
+821,https://github.com/bueltge/adminimize.git,"{""Adminimize is a WordPress plugin that lets you hide 'unnecessary' items from the WordPress backend.""}","wordpress-backend,wordpress-admin,wordpress",85
+822,https://github.com/vmanchev/ionic3-seed-jwt.git,Ionic 3 seed project with JWT support. It works together with the backend from here https://github.com/vmanchev/laravel-jwt,"ionic3,jwt,angular4,ng-translate,route-guards,ionic",85
+823,https://github.com/SoftwareEngineeringDaily/software-engineering-daily-api.git,Backend API for Software Engineering Daily,,84
+824,https://github.com/w3bdesign/nextjs-woocommerce.git,NextJS (React) eCommerce site with WooCommerce backend,"nextjs,react,es6,woocommerce-api,woocommerce,graphql,ecommerce-site,wp-graphql,algolia-search,algolia,styled-components,animatecss,react-hook-form",84
+825,https://github.com/altair-viz/altair_pandas.git,Altair backend for pandas plotting,,84
+826,https://github.com/cbrake/goreact.git,Example Go (backend) React (frontend) Application,,84
+827,https://github.com/jmorozov/awesome-java-backend-interview-rus.git,Repository with java-backend interview questions and answers [RUS],,84
+828,https://github.com/aeternity/mnesia_rocksdb.git,"A RocksDB backend plugin for mnesia, based on mnesia_eleveldb",,84
+829,https://github.com/raman-sc/VASP.git,Python program to evaluate off-resonance Raman activity using VASP code as the backend.,,84
+830,https://github.com/martijnboland/VSReact.git,"React/MobX TodoMVC app with ASP.NET Web Api backend, developed with Visual Studio",,84
+831,https://github.com/Teamwork/s3zipper.git,Simple Steaming S3 File Zipper Microservice - works with any backend via redis and redirection.,,84
+832,https://github.com/LuEE-C/PPO-Keras.git,My implementation of the Proximal Policy Optisation algorithm using Keras as a backend,,84
+833,https://github.com/evoluteur/evolutility-server-node.git,"Model-driven REST or GraphQL backend for CRUD and more, written in Javascript, using Node.js, Express, and PostgreSQL.","crud,database,nodejs,restful-api,crud-functionality,model-driven-development,mda,orm,rest,rest-api,crud-api,postgres,low-code,no-code,metadata,models,evolutility,sql,metadata-driven,query-builder",84
+834,https://github.com/sassanh/qnvim.git,Neovim backend for Qt Creator,"qtcreator,neovim,qt,vim,neovim-qt,msgpack",83
+835,https://github.com/michetonu/gradient_reversal_keras_tf.git,Keras implementation of a gradient reversal layer for the Tensorflow backend,,83
+836,https://github.com/stevederico/SDLoginKit.git,Login/Sign-Up ViewControllers Ready-To-Use with your Custom Backend,,83
+837,https://github.com/garyburgmann/drf-firebase-auth.git,"{""Firebase backend to receive a user idToken and authenticate via Django REST Framework 'authentication.BaseAuthentication'.  Optionally, a new local user can be created in the process.""}",,83
+838,https://github.com/ericflo/django-tokyo-sessions.git,"This is a session backend for Django that stores sessions in a Tokyo Cabinet database, which communicates via Tokyo Tyrant using the PyTyrant library.  Tokyo Cabinet is a key-value store similar to BDB.",,83
+839,https://github.com/FoolMitAh/CVE-2018-14729.git,Discuz backend getshell,,82
+840,https://github.com/pagopa/io-backend.git,App IO (backend),digital-citizenship,82
+841,https://github.com/openstack/django_openstack_auth.git,A Django authentication backend for use with the OpenStack Keystone Identity backend. Mirror of code maintained at opendev.org.,,82
+842,https://github.com/n76/Local-GSM-Backend.git,GSM LocationProvider backend for µg UnifiedNlp,,82
+843,https://github.com/clojure-emacs/ac-cider.git,[DEPRECATED] Emacs auto-complete backend for CIDER,,82
+844,https://github.com/wingrunr21/gitolite.git,A Ruby interface for the gitolite git backend system,,82
+845,https://github.com/spinscale/dropwizard-blog-sample.git,A sample dropwizard application using elasticsearch as storage backend,,82
+846,https://github.com/alexk307/cache_deco.git,Backend agnostic cache decorator,"redis,cache-deco,cache,cache-control",82
+847,https://github.com/IBM/ToDoBackend.git,"This tutorial teaches how to create a Kitura backend for the Todo-Backend project, which provides tests and a web client for a ""To Do List"" application.",,82
+848,https://github.com/colinmollenhour/magento-cache-benchmark.git,Benchmarking script for comparing performance of Magento cache backends.,,82
+849,https://github.com/dakrone/ox-tufte.git,"{""Emacs' Org-mode export backend for Tufte HTML""}",,82
+850,https://github.com/evilsocket/joe.git,The Swiss Army knife for backend engineers.,,82
+851,https://github.com/thedillonb/rails-angularjs-simple-forum.git,A simple demonstration between a Rails backend and AngularJS front end: creating a simple forum.,,82
+852,https://github.com/astraw/bui-backend.git,backend server for Browser User Interface (BUI),,82
+853,https://github.com/artyom/leproxy.git,https reverse proxy with automatic Letsencrypt usage for multiple hostnames/backends,"golang,go,https-server,https-proxy,letsencrypt,reverse-proxy",82
+854,https://github.com/faye/faye-redis-ruby.git,Redis engine backend for Faye,,81
+855,https://github.com/dennisv/django-storage-swift.git,OpenStack Swift storage backend for Django,"python,django,openstack-swift",81
+856,https://github.com/TYPO3/styleguide.git,TYPO3 CMS Extension to test everything in the TYPO3 Backend,"typo3,styleguide,formengine,tca,bootstrap3,icons",81
+857,https://github.com/attilaz/horde3d-x.git,"a simple but powerful 3D render engine with OpenGL, OpenGL ES2 (iOS, android) backends. D3D11 backend is work in progress",,81
+858,https://github.com/evonove/django-stored-messages.git,"{""Store Django messages on your project's backend""}",,81
+859,https://github.com/oslabs-beta/old-Tikitaka.git,Backend,,81
+860,https://github.com/snipcart/wordpress-react.git,A React demo app tied to a WordPress backend with REST API,"reactjs,wordpress,wordpress-rest-api,javascript-framework",81
+861,https://github.com/magento-hackathon/E-MailPreview.git,This extension enables the merchants and developers to preview mail templates from the backend with real data.,,81
+862,https://github.com/chrisleekr/nodejs-vuejs-mysql-boilerplate.git,Node.js (REST API) + Vue.js/Nuxt.js  (Frontend/Backend) + MySQL Boilerplate,"nodejs,express,jwt,express-validator,node-mailer,bunyan,vuejs,vuex,vue-router,vue-draggable,vuelidate,bootstrapvue,mysql,frontend,vue,boilerplate,webpack,jest,cypress,nuxtjs",80
+863,https://github.com/abinoda/awesome-baas.git,"Awesome list of Backend as a Service (""BaaS"") services",,80
+864,https://github.com/kejodion/laracrud.git,A simple CRUD backend package for Laravel 5.8.,,80
+865,https://github.com/iiscleap/NeuralPlda.git,Implementation of Neural PLDA (NPLDA) model (A discriminative backend for Speaker Verification),,80
+866,https://github.com/lmangani/cLoki.git,Clickhouse Loki: Grafana Loki API + ClickHouse Backend in NodeJS,"loki,grafana,clone,prometheus,api,node,prototype,json,clickhouse,clickhouse-database,logql,regex-match,fastify,cloki,timeseries,metrics",80
+867,https://github.com/Pylons/pyramid-cookiecutter-starter.git,"A Cookiecutter (project template) for creating a Pyramid starter project with choices for template language (Jinja2, Chameleon, or Mako), persistent backend (none, SQLAlchemy with SQLite, or ZODB), and mapping of URLs to routes (URL dispatch or traversal)","cookiecutter-template,pyramid,jinja2,chameleon,mako,sqlalchemy,sqlite,zodb,traversal,url-dispatch",80
+868,https://github.com/kevinwchn/slamit_ORBSLAM2_on_Android.git,"{""Due to personal tech stack change, I'm focusing more on Web and backend dev instead of Mechanical Engineering. Thus this repository will not be maintained. Feel free to fork and change whatever you want. :)""}",,80
+869,https://github.com/pycontw/pycon.tw.git,PyCon TW Proposal System & Backend Server,"conference,pycon-tw,pycontw,django",79
+870,https://github.com/abiodunjames/NodeJs-Todo-List.git,Build a todo list with NodeJs backend and VueJs frontend,"nodejs,vuejs,expressjs,mongodb",79
+871,https://github.com/kjdion84/bootadmin.git,A free Bootstrap 4 admin/backend template - https://bootadmin.net,,79
+872,https://github.com/tidepool-org/uploader.git,"{""An Electron app for uploading diabetes device data to Tidepool's backend""}",,79
+873,https://github.com/nberger/ring-logger.git,Log ring requests & responses using your favorite logging backend,"clojure,logging,ring-middleware,ring,http",79
+874,https://github.com/xescugc/webrtc-rails.git,WebRTC implemented with a Rails Backend and a NodeJS server for signaling,,79
+875,https://github.com/azavea/django-amazon-ses.git,A Django email backend that uses Boto3 to interact with Amazon Simple Email Service (SES).,"django,aws,amazon-ses,email",79
+876,https://github.com/create-go-app/fiber-go-template.git,📝 Production-ready backend template with Fiber Go Web Framework for Create Go App CLI.,"template-project,golang-app-server,golang,api-server,api-test,create-go-app,cgapp,fiber,backend-template,docker,fiber-backend-template,swagger",79
+877,https://github.com/thinktecture/boardz-cross-platform-sample.git,"Sample application for demonstrating various aspects of modern cross-platform applications - using Angular 2, Cordova, Electron & gulp. With a .NET Web API & SignalR backend.",,79
+878,https://github.com/binbytes/nuxt-chat-app.git,"Frontend of real-time chat application built using nuxtjs, socket.io. Check the backend at https://github.com/binbytes/chat-app-server.","nuxt-chat,nuxtjs,socket-io-client,vuejs,chat-application,progressive-web-app,spa,nuxt,frontend",79
+879,https://github.com/wx-chevalier/Awesome-Vision-and-RoadMaps.git,"Awesome Vision and RoadMaps for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 技术领域前瞻与程序员的进阶之路","wx-doc,wx-fence",79
+880,https://github.com/ionicthemes/ionic-firebase-starter-app.git,Ionic 4 firebase CRUD tutorial to learn how to create a firebase application to perform Authentication and all CRUD operations in an ionic 4 application. You can use this FREE Ionic Firebase Starter App as a base to create your Ionic App with Firebase backend :) ,"ionic3,ionicframework,ionic-firebase,firebase,firebase-storage,firebase-database,firebase-firestore,ionic-starter,firebase-tutorial,ionic-tutorial,ionic-framework,ionic-4,ionic,ionic-firebase-tutorial",79
+881,https://github.com/codigofalado/brdev.git,"Backend da plataforma BR.DEV. BR.DEV será uma rede social para Devs e Divas, onde será fácil ensinar e aprender sobre Tecnologia da Informação. Será open-source e criaremos ao vivo no canal Código Falado (https://www.twitch.tv/codigofalado).",,79
+882,https://github.com/mapbox/tilelive-mapnik.git,mapnik renderer backend for tilelive,,78
+883,https://github.com/kivy-garden/garden.matplotlib.git,Matplotlib backends using kivy,,78
+884,https://github.com/NIFCLOUD-mbaas/UserCommunity.git,ニフクラ mobile backend ユーザーコミュニティ,,78
+885,https://github.com/zyzo/react-dnd-mouse-backend.git,Mouse Backend for react-dnd library,"react,react-dnd",78
+886,https://github.com/grafana/grafana-plugin-sdk-go.git,A Go SDK for building backend plugins for Grafana,"grafana,grafana-plugin-sdk,sdk,grafana-plugin",78
+887,https://github.com/tdewolff/go-vue-template.git,Go backend and Vue frontend template with social logins,,78
+888,https://github.com/amitavroy/vuespa.git,A Vue.js 2.0 single page application with Laravel 5.3 as backend,,78
+889,https://github.com/leighmacdonald/mika.git,Modern bittorrent tracker designed for private site use with multiple storage backends,,78
+890,https://github.com/SaiUpadhyayula/angular-reddit-clone.git,"This repository contains source code for the Reddit Clone application built in Angular, the backend is built using Spring boot - https://github.com/SaiUpadhyayula/spring-reddit-clone",,78
+891,https://github.com/sapk/docker-volume-rclone.git,Use Rclone as a backend for docker volume (also as a plugin). This permit to easely mount a lot of cloud provider (https://rclone.org/overview).,"docker-volume,docker-plugin,docker,rclone,docker-volume-plugin",78
+892,https://github.com/JeswinSunsi/PentyDesktopAssistant.git,"Penty is a small Desktop Assistant programmed with JS and Python as its backend and HTML and CSS as its front.  Took just over a month to create v1.0. It has a few features, like an in-built gMail sender and a quick-open browser.","searchbar,mailer,pent,wolframalpha,hacktoberfest,gmail-sender,link-shortener,python,css",78
+893,https://github.com/codebndr/compiler.git,The codebender compiler backend.,,77
+894,https://github.com/susundberg/django-auth-ldap-ad.git,Django authentication backend for LDAP with Active Directory,,77
+895,https://github.com/sidgtl/wordpressNoThemes.git,Connecting to a Wordpress backend without using themes,,77
+896,https://github.com/rafaeltoledo/social-app.git,"A social app for Android, using Kotlin as language and Firebase as backend","android,kotlin,firebase,hacktoberfest",77
+897,https://github.com/marmelab/NgAdminGeneratorBundle.git,"Generate a client-side admin backend for Symfony2 applications, powered by ng-admin and LemonRestBundle",,77
+898,https://github.com/Goatella/Simple-PHP-Login.git,"{""A very simple PHP script with MySQL backend to store usernames, passwords, and use cookies to protect a member's area.""}",,77
+899,https://github.com/campoy/apiai.git,A simple framework for api.ai fulfillment backends,,77
+900,https://github.com/edmolima-zz/awesome-backend-for-frontend.git,Curated awesome backend for frontend pattern links and materials for study,"bff,pattern",77
+901,https://github.com/aryaminus/RN-firechat.git,FIrebase backend chat / messaging app (Chat Room + Personal i.e one to one ) with push notification in react native with user sign in/up for personal and anonymous for Global Chat with pusing user to Friendlist for the user to choose friend to chat with. Youtube:,"react,react-native,firebase,invertase,notifications,android,ios,javascript,chat-room,messaging,push-notifications,login,anonymous,friendlist,one-to-one,chat,firebase-functions,serverless-functions",77
+902,https://github.com/HSEIreland/covid-tracker-backend-api.git,COVID Tracker backend API,,76
+903,https://github.com/librato/statsd-librato-backend.git,A StatsD backend that sends metrics to Librato Metrics,"statsd-backends,monitoring,librato,statsd",76
+904,https://github.com/stedolan/idris-malfunction.git,Experimental Malfunction backend for Idris,,76
+905,https://github.com/madrugado/Attention-Based-Aspect-Extraction.git,"Code for unsupervised aspect extraction, using Keras and its Backends","keras,topic-modeling,unsupervised-learning,deep-learning,aspect-extraction",76
+906,https://github.com/camitz/aws-cloudwatch-statsd-backend.git,Backend for use with statsd (statistics aggregator for Node.js) targeting AWS CloudWatch.,"aws-cloudwatch,statsd,node",76
+907,https://github.com/component/todo.git,Todo list example application using components and Express for the backend,,76
+908,https://github.com/rocketseat-content/youtube-upload-nodejs-reactjs-backend.git,Código produzido durante o vídeo sobre criação do backend de uma aplicação de upload de imagens com NodeJS e ReactJS.,,76
+909,https://github.com/mplacona/BurnerPhones.git,A burner phone application using the Twilio API and Kotlin at the backend,,76
+910,https://github.com/akiraz2/yii2-blog.git,"Simple, configurable blog module for Yii2 (post, comment, nested category, tags). + frontend, backend. + SEO! (Opengraph, Schema.org) ~~~COMING SOON V2.0~~~ Please STAR this repo","yii2-modules,yii2-blog,yii2-extension,blog,yii2,article,post,comment",76
+911,https://github.com/ienzam/s3-multipart-upload-browser.git,This is a demonstration of how to upload from browser to amazon s3 directly in chunk and resumable way with php as backend.,,76
+912,https://github.com/EmergentOrder/onnx-scala.git,"An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3)","onnx,deep-learning,scala,jvm,dotty,deep-neural-networks,neural-network,machine-learning,scala3",76
+913,https://github.com/stadtulm/cykel.git,Django Bikesharing Backend,openbike,75
+914,https://github.com/earl1k/llvm-z80.git,LLVM backend for Z80,,75
+915,https://github.com/ZachLiuGIS/reactjs-auth-django-rest.git,A ReactJS authentication demo site with django-rest-auth backend,,75
+916,https://github.com/clojure-emacs/ac-nrepl.git,[DEPRECATED] Emacs auto-complete backend for nrepl completions,,75
+917,https://github.com/Clever/leakybucket.git,"Leaky bucket implementation in Go with support for different backends (redis, in-memory)",,75
+918,https://github.com/aws-samples/aws-serverless-crud-sample.git,"An example implementation of a mobile backend for a movies database using AWS Lambda, API Gateway and DynamoDb",,75
+919,https://github.com/cjbassi/rust-warp-realworld-backend.git,Implementation of the RealWorld backend API spec in Rust and Warp,,75
+920,https://github.com/nus-mtp/worldscope.git,"{""An open source live mobile broadcast platform.  Worldscope's client runs on Android.  The backend runs on Wowza and Node.js (using Hapi framework).""}",,75
+921,https://github.com/adblockradio/buffer.git,A player that buffers radio content and lets you fast-forward ads. Uses Adblock Radio as a backend.,"adblockradio,radio,player,react",75
+922,https://github.com/devdcores/BookStoreApp-Distributed-Application.git,"Ecommerce project is being developed using Spring Boot Microservices and Spring Cloud (Backend) and React (Frontend). Splitting the Ecommerce functionality into various individual microservices so that they can be distributed,  scale really well and make use of resources efficiently. ","spring-boot,microservices,zuul,eureka,react,docker,docker-compose,graphana,prometheus,zipkin,feign,mysql,flyway,tick-stack,influx,telegraf,chronograf,kapacitor,consul,spring-cloud",75
+923,https://github.com/hmalphettes/redisdown.git,Redis backend for LevelUP,,74
+924,https://github.com/CONNECT-platform/connect-platform.git,Visual Backend Programming Platform,"nodejs,nodejs-framework,backend,microservice,visual-programming-language,low-code,low-code-development-platform",74
+925,https://github.com/getcandy/candy-hub.git,The backend system for your GetCandy API,"ecommerce-platform,ecommerce,laravel-package,laravel",74
+926,https://github.com/ripienaar/puppet-module-data.git,Hiera backend that stores data in a module,,74
+927,https://github.com/dunn/company-emoji.git,company-mode backend for emoji,,74
+928,https://github.com/tidwall/raft-fastlog.git,Raft in-memory backend implementation with persistence,,74
+929,https://github.com/kellegous/underpants.git,Reverse Proxy w/ OAuth2 - it covers its backends,,74
+930,https://github.com/AIZOOTech/flask-object-detection.git,"Frontend and backend separated object detection demo build with Flask, TensorFlow.",,74
+931,https://github.com/cleancode-id/laravel6-api-boilerplate.git,A Laravel 6 (LTS) Backend API starter project kit template/boilerplate.,"laravel,api,backend,boilerplate,starter-kit",74
+932,https://github.com/matbloch/electron-flask.git,"Barebone template for cross platform desktop apps, featuring a FLASK powered backend for IPC",,74
+933,https://github.com/rocicorp/replicache-old.git,Realtime Sync for Any Backend Stack,,74
+934,https://github.com/danielberkompas/mithril.git,"An Elixir architecture-in-a-box for a backend server. Supports GraphQL, Authority authentication, and more.","elixir,generator,template,project-template,web-server,mix-template",74
+935,https://github.com/rom-rb/rom-factory.git,Data generator with support for persistence backends,"rom-rb,data-generator,sql",73
+936,https://github.com/paulmillr/ostio-api.git,Your open-source talks place. Rails backend.,,73
+937,https://github.com/YaleDHLab/flask-react-boilerplate.git,Simple boilerplate for a Flask backend and React client,"web-app,boilerplate,webpack",73
+938,https://github.com/symfony2admingenerator/GeneratorBundle.git,Admingenerator for Symfony. Parse YAML files to build customized backend.,,73
+939,https://github.com/honcheng/iOS-nodechat.git,iOS chat client for socket.io & node.js backend,,73
+940,https://github.com/mariano/goshorty.git,A URL shortener in Go with Redis as the backend,,73
+941,https://github.com/lfkdsk/HobbyScript.git,Yet Another JVM/LLVM Dynamic Language (LLVM Backend WIP),"computer-language,java,jvm,jvm-languages,llvm,cpp17",73
+942,https://github.com/SPY/idris-codegen-wasm.git,WebAssembly Code Generation Backend for Idris Compiler,"idris,webassembly,codegen,wasm",73
+943,https://github.com/lewisacidic/electron-flask.git,Quick and dirty demo of a cross platform native app using electron to provide a html/css/javascript client with a python backend.,,73
+944,https://github.com/brminnick/DotNetGraphQL.git,A sample demonstrating how to create a GraphQL Backend in .NET and consume it from a .NET mobile app created using Xamarin,"graphql-api,graphql-backend,graphiql,android,ios,xamarin,xamarin-forms,xamarin-ios,xamarin-android,xamarin-graphql,graphql,graphql-server,graphql-client,graphql-dotnet",73
+945,https://github.com/geodesign/django-raster.git,"Django-raster allows you to create tiled map services (TMS) and raster map algebra end points for web maps.  It is Python-based, and requires GeoDjango with a PostGIS backend.","django-framework,webmap,slippy-map,postgis,python,tms,raster,geodjango",73
+946,https://github.com/SimonJF/cmm_of_wasm.git,"A compiler from WebAssembly to native code, via the OCaml backend.",,73
+947,https://github.com/ergonode/backend.git,Ergonode backend repository,"php,pim,ergonode,symfony,ddd,event-sourcing,cqrs,rest-api,php74,backend",72
+948,https://github.com/practical-rust-web-development/mystore.git,BackEnd Code for MyStore,,72
+949,https://github.com/OpenPrinting/cups-filters.git,"filters, backends, cups-browsed, ... - Everything which CUPS needs to be used on non-Mac systems",,72
+950,https://github.com/traPtitech/traQ.git,traQ - traP Internal Messenger Application Backend,,72
+951,https://github.com/arlac77/svelte-websocket-store.git,svelte store with a websocket backend,"websocket,svelte-v3,store",72
+952,https://github.com/microsoft/AspNetCore-React-WebApp.git,ASP.NET Core backend + React frontend + Entity Framework Core + automated testing,"frontend,backend,react,mediatr,dotnet-core,automapper,moq,mstest,entity-framework",72
+953,https://github.com/smali-kazmi/detect-mobile-browser.git,It is a very simple & small javascript lib to detect all major modern mobile browsers in both backend & frontend,,72
+954,https://github.com/tmacam/private-git-on-dreamhost.git,"{""This is yet another guide describing how to setup private write/push-enable HTTP-accessible Git repositories on Dreamhost using Git's git-http-backend (a.k.a git's Smart HTTP protocol). ""}",,72
+955,https://github.com/vangav/vos_backend.git,vangav open source - backend; a backend generator (generates more than 90% of the code needed for big scale backend services),"backend,generator,java,service-oriented-architecture,performant,cassandra,client,algorithms,dispatcher,worker-service,exceptions,geoservices,metrics,geometry,play-framework,networking,thread-pool,tutorial,security,scalable",71
+956,https://github.com/paweljw/bookstore-frontend.git,Front end app for bookstore-backend,,71
+957,https://github.com/ianmcook/implyr.git,SQL backend to dplyr for Impala,"r,dplyr,tidyverse,apache,impala,sql,odbc,jdbc,hadoop,dplyr-sql-backends",71
+958,https://github.com/n76/DejaVu.git,Yet another network location backend for the UnifiedNLP/microG project,,71
+959,https://github.com/kimvais/django-ssl-auth.git,SSL authentication backend & middleware for Django for authenticating users with SSL client certificates,,71
+960,https://github.com/substack/attractor.git,snap together frontend and backend modules with html attributes,,71
+961,https://github.com/dlizarra/spring-angular2-cli-starter.git,"Starter webapp using Spring Boot on the backend and Angular 2 on the frontend, with  Maven and Angular CLI as build tools, hot reloading on both sides and no xml configuration.",,71
+962,https://github.com/jscomplete/graphql-in-action.git,A GraphQL project with a backend component written with GraphQL-js and Apollo Server and a frontend component written in React.,"graphql,javascript",71
+963,https://github.com/gothinkster/hapijs-realworld-example-app.git,Real World Hapi.JS + Mongoose backend implementations,,70
+964,https://github.com/vaterlaus/django_cassandra_backend.git,A Django database backend for Cassandra,,70
+965,https://github.com/chantra/openvpn-mysql-auth.git,A flexible OpenVPN plugin to handle user using a MySQL database backend,,70
+966,https://github.com/DuendeSoftware/BFF.git,Framework for ASP.NET Core to secure SPAs using the Backend-for-Frontend (BFF) pattern,,70
+967,https://github.com/jkjung-avt/keras-cats-dogs-tutorial.git,"{""A practical example of image classifier with Keras 2.x and TensorFlow backend, using the Kaggle Cats vs. Dogs dataset. By taking advantage of Keras' image data augmentation capabilities (and also random cropping), we were able to achieve 99% accuracy on the trained model with only 2,000 images in the training set.""}",,70
+968,https://github.com/Borodutch/backend-starter.git,Backend starter template,,69
+969,https://github.com/AlekseyChudov/powergslb.git,PowerGSLB - PowerDNS Remote GSLB Backend,,69
+970,https://github.com/openfaas/faas-provider.git,A backend provider interface for OpenFaaS,,69
+971,https://github.com/calvinmetcalf/SQLdown.git,sql backend for levelup,,69
+972,https://github.com/arturpanteleev/phpInterview.git,Памятка Backend разработчика по прохождению собеседованй,,69
+973,https://github.com/upbasedev/broker.git,Real-time BaaS (Backend as a Service),"sse,api,message-broker,rust,real-time",69
+974,https://github.com/gooofy/drawilleplot.git,matplotlib backend for graph output in unicode terminals using drawille,,69
+975,https://github.com/Fs02/go-todo-backend.git,Go Todo Backend example using modular project layout for product microservice.,"go,golang,modular,project-structure,project-template,todolist",69
+976,https://github.com/bretth/django-pq.git,[UNMAINTAINED] A task queue based on the elegant python RQ but with a django postgresql backend.,,69
+977,https://github.com/PommeVerte/gremlin-php.git,"{""gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.)""}",,69
+978,https://github.com/kubeflow/kfp-tekton.git,Kubeflow Pipelines with Tekton backend. ,"kubeflow-pipeline,tekton,tekton-pipelines,mlops,kubeflow,python,dsl,hacktoberfest",68
+979,https://github.com/sandromancuso/cleancoders_openchat.git,Backend application for the CleanCoders series,,68
+980,https://github.com/edwinlunando/django-naomi.git,Django email backend,,68
+981,https://github.com/surveyjs/surveyjs-nodejs.git,Sample NodeJS backend for SurveyJS: Survey Library and Survey Creator,"nodejs,survey,surveyjs,javascript,survey-creator,survey-maker,form-builder",68
+982,https://github.com/jsuarezruiz/xamarin-forms-gui.cs.git,Xamarin.Forms gui.cs Backend,"xamarin,xamarin-forms,csharp,console,console-application,terminal",68
+983,https://github.com/Textalk/jquery.jsonrpcclient.js.git,JSON-RPC 2.0 Client for HTTP and WebSocket backends,,68
+984,https://github.com/csicar/pskt.git,Kotlin-backend for PureScript,"purescript,purescript-native,kotlin,android",68
+985,https://github.com/indexa-git/l10n-dominicana.git,Repositorio base de la localización Dominicana para manejo de NCF en backend y PdV,"python3,javascript,odoo",68
+986,https://github.com/landz/z-stack.git,backend stack maintained by landz itself,,68
+987,https://github.com/wimagguc/react-django-admin.git,"{""Administration interface in React JS, using Django's Rest Framework for the backend.""}",,68
+988,https://github.com/spyder-ide/spyder-reports.git,Spyder plugin to render Markdown reports using Pweave as a backend,,68
+989,https://github.com/QueraTeam/django-qsessions.git,"Extended session backends for Django (Sessions store IP, User Agent, and foreign key to User)","python,django,session,sessions,cache,session-management",68
+990,https://github.com/itzg/mc-router.git,Routes Minecraft client connections to backend servers based upon the requested server address,minecraft-server,68
+991,https://github.com/rgaino/docker-node-react-mysql-boilerplate.git,"A boilerplate Docker project for development with a MySQL database, a Node.js backend using Express and Sequelize, and a React front-end.",,68
+992,https://github.com/yosephha/Crank-Starter.git,"A single-page app inspired by Kickstarter. Ruby on Rails backend, React/Redux frontend ",,68
+993,https://github.com/hoc081098/find_room_flutter_BLoC_pattern_RxDart.git,"👘 [FUNCTIONAL REACTIVE PROGRAMMING].💎 The main purpose of repository is learning. 📘 A FLUTTER app help student find room 🏠 Using BLoC pattern with RxDart library, firebase as backend, .... Star 🌟 if it is helful 💓 . In progress... :zap:","flutter-bloc,flutter-bloc-pattern,flutter-rxdart,rxdart,flutter-material,flutter,flutter-app,flutter-example,flutter-reactive,functional-reactive-programming,flutter-stream,find-room,bloc-pattern,bloc,flutter-bloc-rxdart,flutter-rx-preferences,json-serializable,flutter-bloc-pattern-rxdart,bloc-rxdart,bloc-pattern-rxdart",68
+994,https://github.com/jazzband/django-redshift-backend.git,Redshift database backend for Django,,67
+995,https://github.com/graphql-java/todomvc-relay-java.git,Relay TodoMVC with Java Backend,"graphql,graphql-java,todomvc",67
+996,https://github.com/marcelog/logger_logstash_backend.git,Logstash backend for the Elixir Logger,"logstash,elixir-logger,elixir,udp,logger",67
+997,https://github.com/vladislavalerievich/Django-personal-website.git,Portfolio website with Django on a backend,"python,django,html-css-javascript,portfolio-website",67
+998,https://github.com/bwlewis/doRedis.git,R/foreach Redis backend for parallel computing,,67
+999,https://github.com/neo4j-examples/movies-java-bolt.git,Neo4j Movies Example application with SparkJava backend using the neo4j-java-driver,"graph,graph-database,neo4j,cypher,bolt,java,movies-api",67
+1000,https://github.com/surveyjs/surveyjs-aspnet-mvc.git,Sample .NET Core backend for SurveyJS: Survey library and Survey Creator,"survey,surveyjs,csharp,asp-net-core,survey-creator,survey-app,form-builder,survey-maker",67
+1001,https://github.com/caktus/django-email-bandit.git,A Django email backend for hijacking email sending in a test environment.,,67
+1002,https://github.com/Quetzal-RDF/quetzal.git,"SPARQL to SQL translation engine for multiple backends, such as DB2, PostgreSQL and Apache Spark",,67
+1003,https://github.com/johndatserakis/koa-react-notes-web.git,"🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and more. ","react,koa,react-router,crud,starter,boilerplate,typescript,functional-components,hooks,storybook",67
+1004,https://github.com/rmagen/elastic-gremlin.git,TinkerPop 3 implementation on Elasticsearch backend,,66
+1005,https://github.com/minimal-xyz/minimal-webpack-nodejs-hmr.git,Webpack Backend HMR Demo,"webpack,nodejs,hmr",66
+1006,https://github.com/antonlindstrom/pgstore.git,A Postgres session store backend for gorilla/sessions,"go,gorilla,sessions,sessionstorage,postgres",66
+1007,https://github.com/ActivityWatch/aw-android.git,"ActivityWatch for Android, using aw-server-rust as backend.","android,activitywatch,rust",66
+1008,https://github.com/dimovich/roll.git,Roll — backend for Clojure,"clojure,tools-deps,http-kit,aleph,reitit,integrant,nrepl,sente,reloaded-workflow,backend",66
+1009,https://github.com/Rudge/kotlin-ktor-realworld-example-app.git,Real world backend API built in Kotlin with Ktor + Kodein + Exposed,"kotlin,ktor,realworld-backend,kodein,exposed",66
+1010,https://github.com/modrinth/labrinth.git,"{""Rust based backend utilizing the actix-web framework to serve modrinth's API.""}","minecraft,modding,fabricmc,forge,distribution,rust-lang,meilisearch,openapi,hacktoberfest",66
+1011,https://github.com/snipcart/snipcart-wordpress-react.git,Strapping React.js on a WordPress Backend: WP REST API Example,"react,wordpress,headless,jamstack,rest-api",66
+1012,https://github.com/instructure/i18nema.git,"{""fast i18n backend that doesn't stop up the garbage collector""}",,66
+1013,https://github.com/ajgrover/hexagonal-architecture-python.git,An example backend implementing Hexagonal Architecture in Python using Flask and SqlAlchemy.,"python,flask,sqlalchemy,hexagonal-architecture,blog-post",66
+1014,https://github.com/meldio/meldio.git,Open Source GraphQL Backend for Building Delightful Mobile and Web Apps - https://www.meldio.com,,66
+1015,https://github.com/museumsvictoria/spatial_audio_server.git,"An audio backend for the multi-layered soundscape of Beyond Perception: Seeing the Unseen, a permanent exhibition at Scienceworks in Melbourne, Australia. ",,66
+1016,https://github.com/lutherism/GraphNoQL.git,"{""Facebook's GraphQL backend implemented with Node+Mongo""}",,66
+1017,https://github.com/charleyw/weChat-backend.git,微信，weChat，微信公众平台，DSL实现，帮助你快速开发微信后台程序，weixin open platform backend implementation in a DSL way,,66
+1018,https://github.com/ti-dev/Scrum-it.git,"Scrum-it is digital Scrum Board based on multi-touch and modern web technologies. It supports your Scrum Team with a board which can manage projects, team members, sprints, userstories, tasks and the burn down chart. It is written in HTML5 / CSS3, jQuery and jQuery Mobile and the backend system with Java EE, Tomcat, MySQL, Hibernate, Envers.  The virtual Scrum Board can be used on every modern web browser and also on mobile devices like Apple iPad. ** Not supported anymore **",,66
+1019,https://github.com/i18next/i18next-node-fs-backend.git,[deprecated] can be replaced with i18next-fs-backend,,65

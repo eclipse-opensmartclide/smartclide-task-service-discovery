@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/astroML/astroML.git,"Machine learning, statistics, and data mining for astronomy and astrophysics",,744
+1,https://github.com/skyfielders/python-skyfield.git,Elegant astronomy for Python,,664
+2,https://github.com/brandon-rhodes/pyephem.git,Scientific-grade astronomy routines for Python,,468
+3,https://github.com/MenoData/Time4J.git,"Advanced date, time and interval library for Java with sun/moon-astronomy and calendars like Chinese, Coptic, Ethiopian, French Republican, Hebrew, Hijri, Historic Christian, Indian National, Japanese, Julian, Korean, Minguo, Persian, Thai, Vietnamese","java,time4j,calendar,interval,duration,sun,moon,timezone",335
+4,https://github.com/nasa/apod-api.git,Astronomy Picture of the Day API service,"astronomy-picture,astronomy,astronomy-picture-of-the-day,nasa,nasa-api,space",314
+5,https://github.com/jonathansick/awesome-astronomy.git,A list of awesome astronomy projects,,242
+6,https://github.com/cosmonium/cosmonium.git,3D astronomy and space exploration program.,"astronomy,space,planetarium,procedural-generation,3d,panda3d",158
+7,https://github.com/rkaczorek/astroberry-server.git,Astroberry Server is a ready to use system for Raspberry Pi for controlling all your astronomy equipment,"raspberry-pi,indi-server,desktop,indi-driver,astronomy,astronomy-desktop,astrophotography,telescope",142
+8,https://github.com/gammapy/gammapy.git,A Python package for gamma-ray astronomy,"python,astropy,astronomy,awesome,numpy",130
+9,https://github.com/jakevdp/2013_fall_ASTR599.git,Content for my Astronomy 599 Course: Intro to scientific computing in Python,,128
+10,https://github.com/pytroll/pyorbital.git,Orbital and astronomy computations in python,"python,satellite,orbital-mechanics,hacktoberfest",124
+11,https://github.com/keflavich/image_registration.git,Image Registration for Astronomy,,110
+12,https://github.com/astroML/sklearn_tutorial.git,Tutorial for astronomy data processing with scikit-learn,,100
+13,https://github.com/wlandsman/IDLAstro.git,Astronomy related procedures in the commercial IDL language,,98
+14,https://github.com/krittikaiitb/tutorials.git,"Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy",,96
+15,https://github.com/sczesla/PyAstronomy.git,A collection of astronomy-related routines in Python,"python,astronomy,data-analysis",90
+16,https://github.com/liberfa/erfa.git,Essential Routines for Fundamental Astronomy. Maintainers: @eteq @mhvk @sergiopasra,,80
+17,https://github.com/casacore/casacore.git,Suite of C++ libraries for radio astronomy data processing,,77
+18,https://github.com/jakevdp/BayesianAstronomy.git,"Bayesian Methods in Astronomy workshop, presented at AAS227",,76
+19,https://github.com/cosinekitty/astronomy.git,"Astronomy Engine: multi-language calculation of Sun, Moon, and planet positions. Predicts lunar phases, eclipses, transits, oppositions, conjunctions, equinoxes, solstices, rise/set times, and other events. Provides vector and angular coordinate transforms among equatorial, ecliptic, and horizontal orientations.",,74
+20,https://github.com/jakevdp/2014_fall_ASTR599.git,Content for my Astronomy 599 / Applied Math 500 Course: Intro to scientific computing in Python,,68
+21,https://github.com/MilesCranmer/anki_science.git,"Anki decks for physics, astronomy, computer science, machine learning, and statistics.",,67
+22,https://github.com/Elinvention/gnome-shell-extension-nasa-apod.git,"{""Change your wallpaper daily to the NASA's astronomy picture of the day""}","gnome-shell-extension,nasa-astronomy-picture,nasa-apod,nasa-api,gnome,poedit,wallpaper",66
+23,https://github.com/indigo-astronomy/indigo.git,INDIGO is a system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.,"astronomy,astronomy-library,macos,macosx,linux",65
+24,https://github.com/0xCoto/Virgo.git,📡 Virgo: A Versatile Spectrometer for Radio Astronomy,"sdr,virgo,radio-telescope,radio,telescope,astronomy,spectrometer,rf,rfi-mitigation,astrophysics,radio-astronomy",59
+25,https://github.com/astroCV/astroCV.git,Computer Vision library for Astronomy,"computer-vision,image-processing,astronomy,lsst",55
+26,https://github.com/RadioAstronomySoftwareGroup/pyuvdata.git,"A pythonic interface for radio astronomy interferometry data (uvfits, miriad, others)","python,astronomy,radio-astronomy,interferometry",51
+27,https://github.com/zingale/astro_animations.git,Various animations used for teaching introductory astronomy concepts,,49
+28,https://github.com/gastsail/SimpleMVP.git,"{""A simple app that fetches NASA's API to return the Astronomy Picture of the Day and a live video of the ISS""}","mvp,android,kotlin,java",48
+29,https://github.com/astrocatalogs/OACAPI.git,Open Astronomy Catalog API,"catalog,open-astronomy-catalogs,transient-astronomy,supernovae,kilonovae,tidal-disruptions,api,astronomy,astronomy-api",42
+30,https://github.com/GuLinux/PlanetaryImager.git,"Qt capture software for astronomy, mainly planetary shooting ","planets,moon,asi,qhy,imaging,astronomy",42
+31,https://github.com/waqasbhatti/astrobase.git,Python modules for light curve work and variable star astronomy,"light-curves,astronomy,python,variable-stars",39
+32,https://github.com/mirapy-org/mirapy.git,MiraPy: A Python package for Deep Learning in Astronomy,"deep-learning,astronomy,keras,machine-learning,classification,autoencoder,curve-fitting,ogle,htru1,x-ray-binaries,image-reconstruction,variable-stars",39
+33,https://github.com/skyportal/skyportal.git,Collaborative platform for time-domain astronomy,"astronomy,transient-astronomy,variable-stars,lsst,machine-learning,collaborative-research",37
+34,https://github.com/OpenAstronomy/openastronomy.github.io.git,The web site for the Open Astronomy effort.,"astronomy,open-source",35
+35,https://github.com/myriadrf/RASDR.git,Radio Astronomy Software Defined Radio,,35
+36,https://github.com/taka-tanaka/astronomy-to-data-science.git,resources for transitioning from academic astronomy to industry data science,,32
+37,https://github.com/goranl/eJyoti.git,"jyotish, astronomy",,31
+38,https://github.com/brandon-rhodes/python-novas.git,The United States Naval Observatory NOVAS astronomy library for Python,,31
+39,https://github.com/MichelleLochner/astronomaly.git,A flexible framework for anomaly detection in astronomy.,,31
+40,https://github.com/jtbandes/SpacePOD.git,"{""Space! – an iOS 14 widget displaying NASA's Astronomy Picture of the Day""}","ios,swiftui,nasa-apod",30
+41,https://github.com/slowe/astro.js.git,A Javascript library for astronomy,,29
+42,https://github.com/LoveDaisy/star_alignment.git,Align several astronomy / nightscape images by star points in images.,,28
+43,https://github.com/HorizonIITM/PythonForAstronomy.git,Repository for Python Tutorial in Astronomy,,27
+44,https://github.com/casacore/python-casacore.git,"Python bindings for casacore, a library used in radio astronomy",,27
+45,https://github.com/astromatic/visiomatic.git,A web client for visualizing science-grade astronomy images,,27
+46,https://github.com/astrothesaurus/UAT.git,"The Unified Astronomy Thesaurus is an open, interoperable and community-supported thesaurus of astronomical and astrophysical concepts and their relationships.",,27
+47,https://github.com/Punzo/SlicerAstro.git,Astronomy (HI) extension for 3DSlicer (https://www.slicer.org/),"astronomy,3d,visualization,3dslicer,image-processing,visual-analytics,c-plus-plus",26
+48,https://github.com/telegraphic/pfb_introduction.git,An interactive introduction to the polyphase filterbank technique for radio astronomy spectrometers,,26
+49,https://github.com/zoglauer/megalib.git,MEGAlib - the Medium-Energy Gamma-ray Astronomy library,,24
+50,https://github.com/GPU-correlators/xGPU.git,A GPU based FX correlator for radio astronomy,,24
+51,https://github.com/edspencer/APOD.git,Sencha Touch 2 Astronomy Picture Of the Day app,,24
+52,https://github.com/bwinkel/cygrid.git,Cygrid is a cython-powered convolution-based gridding module for astronomy,"astronomy,python,gridding,resampling",24
+53,https://github.com/mbiesiad/awesome-astronomy.git,"😎 Awesome lists about Astronomy stuff. ⭐ Databases, sites, Twitter accounts, projects, NASA, ESA, JAXA, and more 🚀","awesome,awesome-list,astronomy,astro,hacktoberfest,hacktoberfest2020",24
+54,https://github.com/kshetline/aw-clock.git,Astronomy/weather clock,"astronomy,weather,clocks,raspberrypi,typescript,gps",23
+55,https://github.com/open-gamma-ray-astro/gamma-astro-data-formats.git,Data formats for gamma-ray astronomy,"astronomy,gamma-ray,data-format,specification,gamma-ray-astronomy",22
+56,https://github.com/ccnmtl/astro-simulations.git,Astronomy Simulations and Animations,"astronomy,simulations",22
+57,https://github.com/finucane/sunrise-alarm.git,ios alarm clock based on astronomy,,22
+58,https://github.com/AstronomerAmber/Machine-Learning.git,Machine Learning in Astronomy,"astronomy,machine-learning,machine-learning-algorithms",22
+59,https://github.com/AstroAccelerateOrg/astro-accelerate.git,AstroAccelerate is a many core accelerated software package for processing time domain radio-astronomy data.,,22
+60,https://github.com/itzmeanjan/astroZ.git,"An Android App, shows Astronomy Picture of the Day, built with :heart: using Flutter :)",,22
+61,https://github.com/howardisaacson/Intro-to-Astro-2020.git,A free set of tutorials for aspiring astronomy researchers,,21
+62,https://github.com/DougBurke/astro-haskell.git,IHaskell notebooks showing how Haskell can be used in Astronomy.,,21
+63,https://github.com/AndrewCarterUK/AstroSplash.git,An app that uses the Astronomy Picture of the Day API provided by NASA and the Zend Expressive framework.,,21
+64,https://github.com/pludov/mobindi.git,Control astronomy software from a mobile browser,"raspberry-pi,libindi,astrophotography",20
+65,https://github.com/mariocannistra/radio-astronomy-fftw.git,fftw3 based radio-astronomy data collection and dissemination (see project on hackster.io website),,20
+66,https://github.com/sbustamante/ComputationalMethods.git,Course of Computational Methods for Astronomy. Universidad de Antioquia,,19
+67,https://github.com/weaverba137/pydl.git,Library of IDL astronomy routines converted to Python.,"python,astronomy,astropy",19
+68,https://github.com/astronomy-commons/axs.git,"Astronomy eXtensions for Spark: Fast, Scalable, Analytics of Billion+ row catalogs",,19
+69,https://github.com/cgarry/ser-player.git,"A simple video player for playing SER files used for solar, lunar and planetary astronomy-imaging.",,19
+70,https://github.com/mubdi/pyastrolib.git,"{""pyastrolib is a python library providing professional astronomers a robust set of tools for astronomical data analysis. This project will provide all the similar functionality as NASA's IDL Astronomy User's Library in addition to other planned features.""}",,19
+71,https://github.com/WVURAIL/dspira.git,Digital Signal Processing in Radio Astronomy,"radio-astronomy,digital-signal-processing,education",18
+72,https://github.com/Entropy/Entropy.git,Astronomy staged as a live immersive performance,,18
+73,https://github.com/nhmc/Barak.git,"A set of astronomy-related routines for generating Voigt profiles from atomic data, reading and writing data, working with SEDs and passbands.",,18
+74,https://github.com/pkgw/pwkit.git,Miscellaneous science/astronomy tools.,,17
+75,https://github.com/astro4dev/OAD-Data-Science-Toolkit.git,"{""The Office of Astronomy for Development's Data Science Toolkit.""}","data-science,astronomy,teaching,assessment,teaching-materials",17
+76,https://github.com/patchvonbraun/simple_ra.git,Simple (hah) integrated radio astronomy receiver for Gnu Radio,,17
+77,https://github.com/GeminiDRSoftware/DRAGONS.git,Data Reduction for Astronomy from Gemini Observatory North and South,"dragons,gemini-data,dragons-data-reduction,gemini-iraf,astronomy,gemini-observatory",17
+78,https://github.com/rmquimby/Astronomical_Techniques.git,Introduction to astronomy research featuring short video lectures with (incomplete) Jupyter notebooks,"astronomy,lectures,python,tutorials",17
+79,https://github.com/glue-viz/bqplot-image-gl.git,Jupyter widget for displaying images with a focus on astronomy,,17
+80,https://github.com/howardisaacson/Intro-to-Astro-2019.git,An Introduction to Astronomy research for Aspiring Astronomy Students,,16
+81,https://github.com/howardisaacson/Introduction-to-Astronomy-Research-2018.git,An Introduction to Astronomy Research,,16
+82,https://github.com/Hansastro/Focuser.git,Focuser for Astronomy based on Arduino (usable by Indi),"astronomy,stepper-motor,arduino,ekos,indilib",16
+83,https://github.com/rainsworth/ROSA.git,Resources for Open Science in Astronomy (ROSA) ✨ 🔭 ,"open-science,astronomy,open-access,open-data,open-source",16
+84,https://github.com/OpenSkyProject/OpenSkyImager.git,OpenSkyImager is a capture program written for Astronomy camera operation,,16
+85,https://github.com/Newbrict/Fe26.git,Astronomy themed 2048 clone,,15
+86,https://github.com/JuanCab/AstroInteractives.git,Astronomy Interactives,"astronomy,educational-materials",15
+87,https://github.com/MJRLegends/Space-Astronomy-Feedback-.git,Issues and suggestions for the Space Astronomy Mod Pack,,15
+88,https://github.com/ska-sa/homebrew-tap.git,Useful Homebrew formulas for radio astronomy in general and the MeerKAT project in particular.,,15
+89,https://github.com/gully/awesome-astrodata.git,Awesome list for astronomy data and resources for self-learning,,15
+90,https://github.com/pmocz/astrojobs.git,Get latest astronomy job and rumor news in your command line,,15
+91,https://github.com/JackHCC/SkyDream.git,个人动态星空网站：天文爱好者(Personal dynamic star website: astronomy enthusiasts),,15
+92,https://github.com/astroDimitrios/Astronomy.git,Astronomy resources and code,"astronomy,space,astrophysics,python",14
+93,https://github.com/abrudana/wwa.git,"World Wide Astronomy - SOFA - for Linux, mac OS, Windows","astronomy,sofa",14
+94,https://github.com/caracal-pipeline/caracal.git,Containerized Automated Radio Astronomy Calibration (CARACal) pipeline ,,14
+95,https://github.com/danielgimenes/NasaPic.git,"{""Android App - Set NASA's Astronomy Picture of the Day as your wallpaper!""}",,14
+96,https://github.com/ccera-astro/spectro_radiometer.git,"A very simple radio astronomy application that provides spectral and continuum modes, including total-power, correlation, an differential.",,14
+97,https://github.com/dirac-institute/SPSAS2019.git,"Lectures on ""Big Data Sets in Astronomy"" by Zeljko Ivezic at Sao Paulo School of Advanced Science on Learning from Data, July 31 - Aug 2, 2019",,14
+98,https://github.com/ska-sa/codex-africanus.git,Radio Astronomy Algorithms Library,"radio-astronomy,python,numba,dask",13
+99,https://github.com/quatrope/ProperImage.git,Proper Image utils for astronomy. ,"data-analysis-python,image-processing,coaad-images,psf-estimation,astronomy",13
+100,https://github.com/SimpleAstronomy/simple-astronomy-lib.git,A simple and free astronomy library for calculating moon phase,,13
+101,https://github.com/urvashirau/ImagingSimulator.git,An interactive tool to introduce the concepts of interferometric imaging in radio astronomy,,13
+102,https://github.com/TravisL12/apod_chrome_extension.git,Astronomy Picture of the Day (APOD) Chrome Extension for the new tab screen,"apod,astronomy-picture,chrome-extension,day-apod,astronomy-picture-of-the-day,firefox-addon,space,astronomy,awesome",13
+103,https://github.com/dvida/UnknownPleasuresGenerator.git,"Python script that generates a graph similar to the one on the cover of the album Unknown Pleasures by Joy Division. The original cover was based on an image of radio waves from pulsar CP 1919, from The Cambridge Encyclopaedia of Astronomy.",,13
+104,https://github.com/tardis-sn/carsus.git,Atomic Database for Astronomy,,12
+105,https://github.com/Starlink/pal.git,Positional Astronomy Library,"astronomy,c,wcs",12
+106,https://github.com/astrolabsoftware/fink-broker.git,Astronomy Broker based on Apache Spark,"apache-spark,structured-streaming,apache-kafka,alerts,astronomy,apache-hbase",12
+107,https://github.com/larrylart/Unimap.git,Astronomy Telescope Software,"astronomy,astrophotography,astrophysics,telescope,plate-solving",12
+108,https://github.com/BIDS/Kira.git,Kira is an astronomy image processing toolkit implemented with Apache Spark.,,12
+109,https://github.com/evanmayer/rtlobs.git,RTL-SDR-based radio astronomy observation software using Python.,"rtl-sdr,radio,astronomy,radioastro",12
+110,https://github.com/csiqueirasilva/ASTRO.git,Collection of Basic Astronomy Tools,,12
+111,https://github.com/OttoStruve/awesome-astronomy-tools.git,"A collection of awesome tools, resources and shiny toys for astronomy research",,12
+112,https://github.com/rsnemmen/nmmn.git,"Miscellaneous methods for: astronomy, dealing with arrays, statistical distributions, computing goodness-of-fit, numerical simulations and much more","statistics,signal-processing,numerical-methods,astronomy,numerical-simulations,astrophysics,mhd,grmhd",12
+113,https://github.com/daniel-beckham/nasa-imagery-fetcher.git,"{""Android app that fetches images from NASA's Image of the Day and Astronomy Picture of the Day services""}","android,nasa,iotd,apod",12
+114,https://github.com/tscheepers/Starry-v1.git,"Astronomy iOS app. The universe is a big place, and we’ve brought it to your fingertips. Discover and explore the night sky with your iPhone in hand. The app is clutter free, feature rich, and is everything you could wish for in a stargazing app. Starry v2 has ben released, a complete rewrite, faster with new features.",,12
+115,https://github.com/anzhihe/encyclopedia.git,"Learning astronomy, geography, history, politics, religious","china,america,history,politics,religion",11
+116,https://github.com/astroML/text_errata.git,"A Catalog of errors and typos in the book ""Statistics, Data Mining, and Machine Learning in Astronomy",,11
+117,https://github.com/ivanov/AY250.git,"notebooks for UC Berkeley\'s Astronomy 250: ""Python Computing for Scientific Research"" Spring 2012",,11
+118,https://github.com/msproul/AlpacaPi.git,Astronomy control software using Alpaca protocol on the Raspberry Pi,,11
+119,https://github.com/AstronomyAPI/Samples.git,Vue Js samples for Astronomy API,"astronomy-api,astronomy",11
+120,https://github.com/patchvonbraun/IRA.git,Integrated Radio Astronomy receiver that uses Gnu Radio underneath,,11
+121,https://github.com/monsterlabs/AstroWeather.git,iOS app for visualization of astronomy weather forecasts made by 7timer,,11
+122,https://github.com/gammapy/gamma-cat.git,An open data collection and source catalog for gamma-ray astronomy,"astronomy,gamma-ray-astronomy,dataset,source-catalog",10
+123,https://github.com/nithyanandan/PRISim.git,Precision Radio Interferometry Simulator (for radio astronomy applications),"python,radio-astronomy,radioastronomy,interferometry,simulations,power-spectrum,astronomy,cosmology",10
+124,https://github.com/stevebest/julian.git,Convert between Javascript Date and Julian Dates they use in astronomy,,10
+125,https://github.com/eteq/pyastro17-tutorials.git,Tutorials on software repositories and code testing from the Python in Astronomy 2017 meeting,"pyastro17,python,astronomy,software,github,testing,packaging",10
+126,https://github.com/mark-orion/PyFSPro.git,"Python Frame Sequence Processor for Schlieren Videography, Astronomy and other realtime video applications.",,10
+127,https://github.com/jsamr/serrurier.git,A handy declarative extension for methods access control in jagi:astronomy with decorators,,10
+128,https://github.com/mkelley/mskpy.git,"{""MSK's personal Python library, mostly for astronomy work.""}",,10
+129,https://github.com/deepraj1729/AstroML.git,This a repository consisting my works in astronomy using Deep Learning,,10
+130,https://github.com/BoostGSoC18/astronomy.git,Astronomy Library for C++,,9
+131,https://github.com/aallan/perl-modules-for-astronomy.git,Astronomy related Perl Modules.,,9
+132,https://github.com/nextgen-astrodata/DAL.git,Data Access Library for the LOFAR radio astronomy telescope,,9
+133,https://github.com/pchev/libpasastro.git,Interface to standard astronomy library for use from Pascal program,,9
+134,https://github.com/pkgw/miriad-python.git,Clean Python bindings to the MIRIAD radio astronomy package,,9
+135,https://github.com/chrislad/ImageScrappers.git,"A few Python scripts for scrapping the daily images from bing.com, national geographic and astronomy picture of the day.",,9
+136,https://github.com/nextgen-astrodata/DAL1.git,The Data Access Library (DAL) is a library that abstracts the underlying file format from the user when working with radio astronomy data.,,9
+137,https://github.com/glangsto/gr-nsf.git,Nsf-Integrate: a library of Gnuradio Companion blocks and Python code for Radio Astronomy,,9
+138,https://github.com/eringrand/astropic.git,An R package that connects to the NASA Astronomy Picture of the Day (APOD) API,,9
+139,https://github.com/hagabbar/Glasgow_Machine_Learning_Course-2019.git,A hands-on machine learning course for physics and astronomy PhD students at the University of Glasgow. Courses designed by John Armstrong and Hunter Gabbard.,,9
+140,https://github.com/libgamera/GAMERA.git,A C++/python library for source modeling in gamma astronomy,,8
+141,https://github.com/Starlink/ORAC-DR.git,The ORAC-DR astronomy data reduction pipeline,"perl,orac-dr,pipeline-framework,astronomy",8
+142,https://github.com/slowe/apod.git,Astronomy Picture of the Day,,8
+143,https://github.com/lokijota/datadrivenastronomymooc.git,"{""My personal solutions to Coursera's Data Driven Astronomy course""}",,8
+144,https://github.com/esa/GUSTO.git,A Java library for space astronomy,,8
+145,https://github.com/LaurethTeX/Clustering.git,Clustering multi-wavelength data for Astronomy,,8
+146,https://github.com/mpopp75/astronomy-libs.git,Astronomy & Geography libraries,,8
+147,https://github.com/yucelkilic/astrolib.git,My astronomy routines,"astronomy,astrometry,gaia,asteroids,photometry,image-processing,ccd-data-reduction",8
+148,https://github.com/jankotek/asterope-scala-legacy.git,"Astronomy charting, observation planning, ephemeris and image processing app.",,8
+149,https://github.com/ratt-ru/eidos.git,Modelling primary beams of radio astronomy antennas,,8
+150,https://github.com/kcranky/Galileo-s-Finger.git,An open source astronomy learning tool.,,8
+151,https://github.com/demorest/dspsr.git,Digital signal processing package for pulsar astronomy (copy of SourceForge version),,8
+152,https://github.com/cormullion/Astro.jl.git,Meeus astronomy routines,,8
+153,https://github.com/brhamon/astro.git,Basic vector astronomy using NOVAS,,8
+154,https://github.com/Fmajor/fmajorAstroTools.git,"{""Fmajor's tools for astronomy data reduction""}",,8
+155,https://github.com/Flet/spacewall.git,"{"":space_invader: Set your wallpaper to the latest NASA's Astronomy Photo of the Day""}",,8
+156,https://github.com/janerigby/astro-pandas-tutorials.git,"These are tutorials on how to use Pandas Data Frames for professional astronomy.  Import common types of astronomical data, filter, sort, and plot.  Contributions welcome!",,8
+157,https://github.com/ChileanVirtualObservatory/acalib.git,Advanced Computing for Astronomy Library,"astronomy-library,jupyter-notebook,astronomy,python",7
+158,https://github.com/OpenAstronomy/pyastro.git,Webpages for the Python in Astronomy Conference Series,"pyastro17,pyastro18,astronomy-conference-series,python",7
+159,https://github.com/dmitryduev/kowalski-archived.git,"Time Domain Astronomy for Zwicky Transient Facility: Databases, APIs, Portal",,7
+160,https://github.com/isadoranun/time-series-feats.git,Features for time series in astronomy,,7
+161,https://github.com/drphilmarshall/scriptutils.git,"Useful scripts for astronomy, text and image processing, life etc",,7
+162,https://github.com/mworion/MountWizzard4.git,Amateur astronomy imaging support tool with special support for 10micron mounts.,"astromomy,tooling",7
+163,https://github.com/CfA-Library/Cite_Astro_Software.git,Documents to support software sharing and citation in astronomy. Contributions welcome.,,7
+164,https://github.com/leejjoon/matplotlib_astronomy_gallery.git,Matplotlib Gallery for Astronomy,,7
+165,https://github.com/drupke/ifsred.git,Astronomy software tools for reducing data from an integral field spectrograph (IFS).,,7
+166,https://github.com/AstronomyAPI/Documentation.git,Documentation for Astronomy API,"astronomy-api,astronomy,docs",7
+167,https://github.com/nesanders/gICLEAN.git,A GPU implementation of the CLEAN algorithm used in radio astronomy using pyCUDA,,7
+168,https://github.com/brunnamattos/APOD.git,Astronomy Picture of the Day,,7
+169,https://github.com/WVURAIL/os_radio_astro_hw.git,Open source radio astronomy hardware,"radio-astronomy,open-source-hardware",7
+170,https://github.com/Freaky/elite_shield_tester.git,"{""A Rust port of Down To Earth Astronomy's Elite Dangerous shield tester""}",,7
+171,https://github.com/jacobwilliams/astro-fortran.git,Modern Fortran implementations of standard models used in fundamental astronomy,,7
+172,https://github.com/maxogden/equatorial.git,converts right ascension/declination values from the equatorial coordinate system (used in astronomy) between the HMS/DMS and degree representations,,7
+173,https://github.com/kakacordovil/nasa-api.git,APOD: Astronomy Picture of the Day Browse API https://api.nasa.gov/ ,,7
+174,https://github.com/grenagit/MMM-APOD.git,Magic Mirror Module displaying the last Astronomy Picture Of the Day (APOD) and using NASA API,,7
+175,https://github.com/jradavenport/elevate-apj.git,Working to elevate the readability and design of astronomy journal articles.,,7
+176,https://github.com/gabrieledarrigo/nasa-apod.git,A simple application that show the Nasa astronomy picture of the day,"nasa-astronomy-picture,photos,javascript,nasa-apod,nasa,browse",7
+177,https://github.com/smonkewitz/scisql.git,"  Science-specific tools and extensions for SQL. Currently the project contains user defined functions (UDFs) for MySQL including spatial geometry, astronomy specific functions and mathematical functions.  The project was motivated by the needs of the Large Synoptic Survey Telescope (LSST).",,7
+178,https://github.com/rstofi/ICRAR_presentation_LaTeX_template.git,"Unofficial LaTeX beamer teplate for presentations, made for people from the International Centre for Radio Astronomy Research (ICRAR).",,7
+179,https://github.com/IvS-KULeuven/IvSPythonRepository.git,Python Repository of the Institute of Astronomy @ KU Leuven,,6
+180,https://github.com/anjavdl/PHY517_AST443.git,PHY 517 / AST 443 - Observational Techniques in Astronomy,,6
+181,https://github.com/astronomy-software-index/2015-workshop.git,A place to organise the upcoming astronomy software indexing workshop.,,6
+182,https://github.com/LHCfitNikhef/ML4PA.git,Machine Learning for Physics and Astronomy,,6
+183,https://github.com/arceli/charter.git,Organizational document for the Archival of Informal Astronomy Communications,,6
+184,https://github.com/rederikus/AllSky-Camera-Raspberry-Pi.git,A Raspberry Pi based Astronomy AllSky Camera,,6
+185,https://github.com/jdalcanton/Scientific-Writing-Workshop.git,Notes and resources for Astronomy 597 at University of Washington Department of Astronomy,,6
+186,https://github.com/swt30/ioa-julia-tutorials.git,"An introductory Julia tutorial for the Institute of Astronomy, University of Cambridge",,6
+187,https://github.com/nebulx29/MMM-nasaastropic.git,"{""Magic Mirror Module displaying NASA's astronomy picture of the day""}",,6
+188,https://github.com/ronaldogomes96/TheUniverse.git,Astronomy iOS App,hacktoberfest,6
+189,https://github.com/prappleizer/prappleizer.github.io.git,"This repo contains my introductory python textbook for astronomy students, which covers the basics of learning the language with an emphasis on astronomical applications.",,6
+190,https://github.com/navanchauhan/Astronomy-Torrents.git,Space/Cosmos/Astronomy/NASA/ESO,,6
+191,https://github.com/sainiteshb/NASA-Apod-flutter.git,Simple Flutter App showing NASA Astronomy picture of the day using NASA API,"flutter,flutter-apps,flutter-examples,nasa-api,nasa-apod,api,hacktoberfest,ios-app,android-studio,android-app,hacktoberfest2020",6
+192,https://github.com/Joshuaalbert/IonoTomo.git,"Ionospheric tomography for radio astronomy using ray tracing, and radio observation simulation",,6
+193,https://github.com/mfouesneau/mf_jupyter.git,Jupyter notebook tools and Latex templates for astronomy journals,"jupyter-notebook,latex-template",6
+194,https://github.com/gully/gpytorch-astro.git,GPyTorch Gaussian Process framework applied to astronomy time series datasets,,6
+195,https://github.com/dnldsht/apod.git,Wallpapers from NASA Astronomy Picture of the Day,"flutter,wallpapers,nasa,astronomy,android,apod",6
+196,https://github.com/flyeye/AstroTools.git,"Arduino-based astronomy devices like focuser, mounter, etc",,6
+197,https://github.com/hodavidhara/nasa-apod.git,"{""NASA's Astronomy Picture of the Day API""}",,6
+198,https://github.com/kenyoung/orrery.git,An open source amateur astronomy app for gnu/linux phones,,6
+199,https://github.com/sisl/SOFA.jl.git,Unofficial wrapper of the IAU SOFA C libraries for fundamental astronomy. ,,6
+200,https://github.com/danieljprice/uvsph.git,Image reconstruction for radio astronomy using SPH kernel interpolation in the uv plane,,6
+201,https://github.com/MarcusOtter/APOD.Net.git,"{""An unofficial .NET wrapper for NASA's Astronomy Picture of the Day API.""}","astronomy,photography,space,astronomy-picture-of-the-day,apod,nasa,nasa-apod,nasa-api,api,api-wrapper,dotnet,csharp",6
+202,https://github.com/nesanders/NESsubmit.git,Python script to automate formatting tasks necessary before submitting journal papers in astronomy.,,6
+203,https://github.com/ericmandel/regions.git,"background-subtracted counts in regions for astronomy, along with the underlying regions filtering library",,6
+204,https://github.com/AndruMace/Nasa_APOD_API_daily_wallpaper.git,"{""A script that will pull Nasa's APOD (astronomy picture of the day) using their API and set it as your system wallpaper.""}",,6
+205,https://github.com/wxAstro/wxAstroCapture.git,"wxAstroCapture - Windows linuX Astronomy Capture   This group is dedicated to the multi-platform software program wxAstroCapture. Here you can solve problems and share ideas and experiences. The software is primarily intended for astronomical use, such as lunar, solar or planetary imaging using webcams.  wxAstroCapture is developed by Martin Burri and Carsten Arnholm.  The software runs on Windows XP/Vista, Linux Kubuntu/Ubuntu 8.04->10.04, Linux SuSE 10.2 and more.",,6
+206,https://github.com/lancelote/data-driven-astronomy.git,Data-driven Astronomy Coursera course,,5
+207,https://github.com/AaronParsons/astro250.git,general astronomy tools,,5
+208,https://github.com/wf4ever/astrotaverna.git,Astronomy plugins for Taverna Workbench,,5
+209,https://github.com/wkrzywiec/Nasa-Picture.git,"{""Single-page application which display NASA's Astronomy Picture of the Day""}","spring-boot,jsp,java,docker,gradle",5
+210,https://github.com/timj/aandc-fits.git,Paper on the FITS format for Astronomy and Computing journal,,5
+211,https://github.com/MJRLegends/Space-Astronomy-2-Feedback-.git,Issues and suggestions for the Space Astronomy 2 Mod Pack,,5
+212,https://github.com/harley-wood-school-for-astronomy/HWSA2020.git,The 2020 Harley Wood School of Astronomy,,5
+213,https://github.com/drupke/ifsfit.git,Astronomy spectral fitting software optimized for integral field spectroscopy (IFS).,,5
+214,https://github.com/jonathansick/tess.git,Voronoi and Delaunay tessellations for astronomy,,5
+215,https://github.com/jradavenport/Gender-in-Astro.git,A central repository for the ongoing study of gender in astronomy conferences,,5
+216,https://github.com/0xCoto/PSR-Toolkit.git,📡 An easy-to-use Pulsar Toolkit for Pulsar Astronomy...,"radioastronomy,radio-astronomy,pulsar,pulsars,astronomy,astrophysics",5
+217,https://github.com/jonyardley/AstroView.git,Astronomy FITS Viewer & Analysis Tool in the browser,"astronomy,fits-files,fits,image-processing,react,mobx,mobx-react,webgl,typescript",5
+218,https://github.com/jagi/meteor-astronomy-softremove-behavior.git,Soft remove behavior for Meteor Astronomy,,5
+219,https://github.com/ceyzeriat/astroobs.git,Provides astronomy ephemeris to plan telescope observations,,5
+220,https://github.com/bmorris3/2016_astro_bootcamp.git,2016 Python Bootcamp for UW Astronomy and Physics,,5
+221,https://github.com/arhcf/pswai.git,"PSWAI: A ""Plate Solved Where Am I"" application for astronomy",,5
+222,https://github.com/rclai/meteor-astronomy-simple-schema.git,Convert Astronomy classes to SimpleSchemas,,5
+223,https://github.com/ginader/Misconceptions.git,Daily Myths — Visualize the “All-too-Common Astronomy/Solar System Misconceptions”,,5
+224,https://github.com/skendrew/astro-instrumentation.git,A career guide for instrumentalists in astronomy,,5
+225,https://github.com/eptaccio/angular-apod.git,Astronomy Picture of the Day :) (NASA API),"nasa,nasa-api,nasa-apod,nasa-data,nasa-astronomy-picture",5
+226,https://github.com/ratt-ru/radiopadre.git,(Radio) Python Astronomy Data Reductions Examiner,,5
+227,https://github.com/Asterics2020-Obelics/AstroLearning.git,"Transversal astronomy, astrophysics and astroparticle machine learning group",,5
+228,https://github.com/EpiSlyon/apod.git,Bash script that give you the daily nasa astronomy picture.,,5
+229,https://github.com/radio-astro/packaging.git,Repository containing documentation and issues about packaged radio astronomy software,,5
+230,https://github.com/dvida/UWO-PA-Python-Course.git,Python course designed for grad students of the Physics & Astronomy department of the University of Western Ontario.,,5
+231,https://github.com/garlick/sbig-util.git,Linux utility for Santa Barbara Instrument Group cameras for astronomy,,5
+232,https://github.com/cr/apod.git,"{""Command line tool for Nasa's Astronomy Picture Of The Day""}",,5
+233,https://github.com/techpotatoes/APOD-daydream.git,A daydream backdrop that shows the astronomy picture of the day provided by APOD to be installed on your android TV.,"android-tv,screensaver,opensource,daydream,backdrop",5
+234,https://github.com/philschatz/astronomy-book.git,:orange_book: Astronomy Textbook (Openstax),"textbook,openstax,cc-by,astronomy",4
+235,https://github.com/gammapy/PyGamma15.git,"""Python for gamma-ray astronomy"" workshop, MPIK Heidelberg, November 16-20,  2015",,4
+236,https://github.com/bill-cotton/Obit.git,Obit astronomy software,,4
+237,https://github.com/pkgw/precastro.git,Precision astronomy libraries in Python,,4
+238,https://github.com/dmitryduev/kowalski.git,Kowalski: a multi-survey data archive and alert broker for time-domain astronomy,"astronomy,time-domain-astronomy,ztf,ztf-ii,alert-broker",4
+239,https://github.com/fmartinache/xara.git,a python package for eXtreme Angular Resolution Astronomy,"astronomy,interferometry,high-contrast-imaging,data-processing",4
+240,https://github.com/gully/astroMLfigs.git,"hacks and enhancements to the book figures from ""Statistics, Data Mining, and Machine Learning in Astronomy""",,4
+241,https://github.com/jegpeek/xorastro.git,"Extremely Open, Extremely Reproducible Astronomy on deep learning on galaxy images for colors",,4
+242,https://github.com/peddie/OpenVLBA.git,Very long baseline interferometry for radio astronomy,,4
+243,https://github.com/SusanCartwright/PHY340.git,Jupyter notebooks for PHY340/350 Professional Skills in Physics and Astronomy,,4
+244,https://github.com/skrushinsky/astro-montenbruck.git,"Library of astronomical calculations, based on ""Astronomy On The Personal Computer"" by O.Montenbruck and T.Phleger .","astronomy,astronomy-library,astronomical-algorithms,ephemeris,ephemerides",4
+245,https://github.com/pkgw/carma-miriad.git,A mirror of the CVS repository for the CARMA version of the MIRIAD radio astronomy package,,4
+246,https://github.com/carolune/astrocast.git,Bistesize astronomy knowledge API,,4
+247,https://github.com/soniakeys/astro.git,stuff generally useful in astronomy,,4
+248,https://github.com/PaulHancock/RISS19.git,NE2001 for extra-galactic astronomy,,4
+249,https://github.com/sergiolindau/JavaScript-Astronomy-Algorithms.git,Javascript library for astronomy calculations,,4
+250,https://github.com/jonathansick/MoAstro.git,MongoDB framework for observational astronomy,,4
+251,https://github.com/manjunath5496/Open-Source-Economics-Books.git,"""The history of astronomy is a history of receding horizons.""― Edwin Powell Hubble",,4
+252,https://github.com/AndrewCarterUK/astronomy-picture-of-the-day.git,A wrapper for the Astronomy Picture of the Day API provided by NASA.,,4
+253,https://github.com/Blueshawk/Rayz-indi-wheel.git,An Arduino Nano stepper driven Indi compatible DIY filter wheel for remote astronomy/AP,,4
+254,https://github.com/walkeri/Aristarchus.git,A Programming Language for High School Astronomy,,4
+255,https://github.com/kaohman/nasa-apod.git,An astronomy photo of the day app,,4
+256,https://github.com/MarcvdSluys/HistAstro.git,Python code for historical astronomy calculations,,4
+257,https://github.com/Xotic750/astrodate.git,Javascript Date object with Astronomy in mind.,,4
+258,https://github.com/Marcel-Jan/astro_datasets.git,Astronomy and space related (downloadable) datasets,,4
+259,https://github.com/mwauger/spacejunk.git,Sometimes useful astronomy codes. Perpetually beta.,,4
+260,https://github.com/joanmarieverba/astronomy-photos.git,API class exercise - NASA astronomy photos,,4
+261,https://github.com/msereno/lira.git,R-package for Bayesian linear regression in astronomy,,4
+262,https://github.com/lgrcia/prose.git,A python framework to process FITS images. Built for Astronomy.,"python,astronomy,photometry,pipeline",4
+263,https://github.com/R4yGM/Nasa-Apod-Discord-Bot.git,Discord bot that returns the Astronomy Picture of the Day,,4
+264,https://github.com/crhea93/AstronomyTools.git,A set of tools written for astronomy applications,"astronomy,python,ciao,xray",4
+265,https://github.com/pchote/homebrew-astro.git,Homebrew formulae for some astronomy tools and libs,,4
+266,https://github.com/astrojysun/Sun_Astro_Tools.git,My collection of handy Python tools for astronomy research.,,4
+267,https://github.com/ralscha/apod.git,Self hosted Astronomy Picture of the Day viewer,"java,protobuf,xodus,kryo,okhttp3,spring,spring-boot,jsoup,ionic4",4
+268,https://github.com/rafaelderolez/random-apod-generator.git,A Backbone SPA that generates random Astronomy Pictures Of the Day by NASA,,4
+269,https://github.com/SSARCandy/node-apod.git,"""Astronomy Picture of the Day"" scraper for node, support multi-language","scraper,astronomy-picture",4
+270,https://github.com/coderXmachina2/radioAstronomyCompendium.git,scienceEpics Code Compendium about the raw Awesomeness that is Radio Astronomy,,4
+271,https://github.com/pchretien/APOD.git,View the Astronomy Picture Of The Day (APOD) on your Android device,,4
+272,https://github.com/t0nedef/space-bg.git,Set your desktop background to the astronomy image of the day,,4
+273,https://github.com/julianogiusti/apod-downloader.git,"{""A simple script to download the NASA's Astronomy Picture of the Day from https://apod.nasa.gov""}","apod,astronomy-picture-of-the-day,astronomy-picture,python",4
+274,https://github.com/skendrew/midIR_sensitivity.git,Code to calculate the sensitivity of a ground-based instrument for astronomy at mid-infrared wavelengths (3-15 micron). Written for the METIS instrument for the E-ELT but easily customisable.,,4
+275,https://github.com/RononDex/Astrobot.git,"{""An advanced discord bot running on .net core, that can help with anything that is astronomy related (platesolving, image analysis, astronomical weather forecast, get information on DSO's, ...)""}","astronomy,discord-bot,dotnet-core,astrophotography,chatbot",4
+276,https://github.com/LeBaleiro/nasa_clean_architecture.git,"{""A clean architecture app that performs requests to nasa's api in order to get APOD (Astronomy Picture of the Day).""}",,4
+277,https://github.com/UlysesAColon/ThisDay.git,"The purpose of this website is to inform the user of a date that they would like to know about. It gives them information on the astronomy Picture of the day, histroical trivia of the date and month selected as well as New York Times articles published on that day.",,4
+278,https://github.com/bubby323/anomaly_kernel_platform_SGH-T989.git,"a·nom·a·ly /əˈnɒməli/ [uh-nom-uh-lee] noun, plural -lies. 1. a deviation from the common rule, type, arrangement, or form. 2. someone or something anomalous: With his quiet nature, he was an anomaly in his exuberant family. 3. an odd, peculiar, or strange condition, situation, quality, etc. 4. an incongruity or inconsistency. 5. Astronomy. a quantity measured in degrees, defining the position of an orbiting body with respect to the point at which it is nearest to or farthest from its primary.",,4
+279,https://github.com/Shiva-Iyer/kepler.git,"kepler is a C and Python astronomy library. It implements VSOP87 for the planets, ELP 2000-82B for the Moon, minor body calculations using the MPC database, IAU precession & nutation models, rise/transit/set, Moon phase, eclipse, and equinox/solstice calculations.","astronomy,astronomical-algorithms,ephemerides,solar-system,planets,comets,asteroids,moon,sun",4
+280,https://github.com/anupammr89/matrix.git,"MATRIX is a distributed data-aware execution fabric supporting both high-performance computing (HPC) and many-task computing (MTC) workloads. The execution fabric is fault tolerant by having all compute nodes participate in the job submission and handling process; work stealing is used to achieve efficient distributed load balancing. The fabric guarantees job execution and dependencies, and relies on an underlying scalable distributed storage system for inter-process communication (e.g. FusionFS). Data-aware scheduling maximizes data locality by scheduling computational tasks close to the data. Computations are overlapped with I/O to reduce wasted resources and hide latencies. The fabric is elastic, allowing it to grow and shrink in resource usage based on the application demand. The fabric also support compact task representation to alleviate task submission bottlenecks for common patterns (e.g. “for each x do y”). The execution fabric is integrated with several other projects, including FusionFS(a distributed file system), D^3 (direct distributed data-structure), and Swift (parallel programming system). The work will be evaluated with many applications (e.g. bioinformatics, medicine, pharmaceuticals, astronomy, physics, climate modeling, economics, and analytics) through the Swift project collaboration on the largest high-end computing (HEC) systems.",,4
+281,https://github.com/jonwihl/FATS-2.0.git,"In time-domain astronomy, data gathered from the telescopes is usually represented in the form of light-curves. These are time series that show the brightness variation of an object through a period of time (for a visual representation see video below). Based on the variability characteristics of the light-curves, celestial objects can be classified into different groups (quasars, long period variables, eclipsing binaries, etc.) and consequently be studied in depth independently.  In order to characterize this variability, some of the existing methods use machine learning algorithms that build their decision on the light-curves features. Features, the topic of the following work, are numerical descriptors that aim to characterize and distinguish the different variability classes. They can go from basic statistical measures such as the mean or the standard deviation, to complex time-series characteristics such as the autocorrelation function.  In this document we present a library with a compilation of some of the existing light-curve features. The main goal is to create a collaborative and open tool where every user can characterize or analyze an astronomical photometric database while also contributing to the library by adding new features. However, it is important to highlight that this library is not restricted to the astronomical field and could also be applied to any kind of time series.  Our vision is to be capable of analyzing and comparing light-curves from all the available astronomical catalogs in a standard and universal way. This would facilitate and make more efficient tasks as modeling, classification, data cleaning, outlier detection and data analysis in general. Consequently, when studying light-curves, astronomers and data analysts would be on the same wavelength and would not have the necessity to find a way of comparing or matching different features. In order to achieve this goal, the library should be run in every existent survey (MACHO, EROS, OGLE, Catalina, Pan-STARRS, etc) and future surveys (LSST) and the results should be ideally shared in the same open way as this library.",,4
+282,https://github.com/liberfa/erfa-fetch.git,Essential Routines for Astronomy,,3
+283,https://github.com/SITools2/Astronomy-Extension-Server.git,"{""SITools2's Extension for Astronomy""}",,3
+284,https://github.com/drphilmarshall/Ideas-for-Citizen-Science-in-Astronomy.git,Ideas for Citizen Science in Astronomy,,3
+285,https://github.com/GoodOlClint/Astronomy.git,C# Astronomy Library,"c-sharp,julian-epoch,equinox,astronomy,astronomy-library,meeus",3
+286,https://github.com/matthewturk/astr496-spr2018.git,Astronomy 496 - Spring 2018,,3
+287,https://github.com/gonzalo/astrolog.git,Astronomy logging tool for Android smartphones,,3
+288,https://github.com/UWashington-Astro300/Astro300-A15.git,Class website for Astronomy 300,,3
+289,https://github.com/gsurma/stellar.git,Astronomy Photo of the Day 🚀.,"swift,ios,nasa,apod,nasa-apod,nasa-api,iphone,ipad",3
+290,https://github.com/Space-Bangalore/Indian-Astronomy.git,Indian Astronomy App for Android,,3
+291,https://github.com/python4vo/coatpy.git,collection of online astronomy tools,,3
+292,https://github.com/Gonzih/apod-nasa-scraper-rs.git,Scrape Astronomy Picture of the Day website,,3
+293,https://github.com/mwcraig/obs-astronomy-binder.git,Notebooks for Observational Astronomy at Minnesota State University Moorhead,,3
+294,https://github.com/AleksCipri/DeepMergeDomainAdaptation.git,Fisher deep domain adaptation for astronomy - galaxy mergers,,3
+295,https://github.com/SoyGema/ASTRON_Hackathon.git,Scalable Astronomy data management ,,3
+296,https://github.com/WVURAIL/cra.git,Classroom Radio Astronomy,,3
+297,https://github.com/adrn/pyastro17-tutorials.git,Machine learning tutorials for Python in Astronomy 2017,"pyastro17,python,astronomy,machine-learning,adrn-teaching",3
+298,https://github.com/OSDG-IIITH/astronomy-club-website.git,Codebase for the IIIT-H astronomy club website,,3
+299,https://github.com/LSSTDESC/OpSimSummary.git,Package to interact with `LSST` `OpSim` outputs for simulations of Time Domain Astronomy objects.,"lsst,opsim,transients,variables,supernovae,timedomainastronomy",3
+300,https://github.com/mkenworthy/astrosoftware_howto.git,"How to submit your astronomy software, cite relevant astronomy software, and upload your data reduction scripts",,3
+301,https://github.com/mjaschen/astrotools.git,General Purpose Astronomy Library for PHP,,3
+302,https://github.com/radio-astro/docker-images.git,Docker images containing radio astronomy software,,3
+303,https://github.com/benjaminpope/manhattan.git,Test L1-norm Periodograms for Astronomy,,3
+304,https://github.com/terben/Programming_in_Python_BCGS_Summer_2020.git,"{""Materials for the course 'Programming in Physics and Astronomy with C++ or Python' (BCGS; Summer Term 2020) ""}",,3
+305,https://github.com/elliesch/AltairAstroPlots.git,Library of Common Astronomy Plots coded in Matplotlib and Altair,,3
+306,https://github.com/sbu-phy-ast-reu/reu-python-tutorial.git,Summer 2020 SBU Physics and Astronomy REU python tutorial,,3
+307,https://github.com/metzdigital/openStarStack.git,Open source astronomy star alignment and stacking program,,3
+308,https://github.com/Picarro-SzeMengTan/OptimalGridding.git,Algorithms for Least-Misfit Gridding in Radio Astronomy,,3
+309,https://github.com/philippebeck/astronomy.git,Astronomy Website,,3
+310,https://github.com/tommasotreu/AARV.git,Astronomy and Astrophysics Review,,3
+311,https://github.com/larrybradley/homebrew-astro.git,Astronomy-related Homebrew formulae.,,3
+312,https://github.com/carsten0x51h/astro_tools.git,Helpful astronomy tools.,,3
+313,https://github.com/yashovardhan/AstroClub.git,Astronomy Club Website,,3
+314,https://github.com/stewart/apod.js.git,A NPM module to get the Astronomy Picture Of the Day,,3
+315,https://github.com/ncarandini/BlazorNasaImages.git,A sample Blazor app that fetches the Nasa Astronomy Picture of the Day,,3
+316,https://github.com/acviana/fits2sqlite.git,A tool for exporting header data from astronomy FITS images in a SQLIte database.,,3
+317,https://github.com/JulienPeloton/mini_spark_broker.git,Design and proof-of-concept for a Broker for astronomy using Apache Spark,"spark,spark-structured-streaming,kafka,python,docker",3
+318,https://github.com/autocorr/besl.git,My personal library of astronomy related routines,,3
+319,https://github.com/shreyasbapat/astrool.git,astrool :rocket: - Astronomy in Python :star:,"astronomy,scientific-computing",3
+320,https://github.com/lsst-epo/investigations.git,LSST EPO astronomy investigations using Jupyter Notebooks.,,3
+321,https://github.com/GuLinux/SkyPlanner.git,SkyPlanner: an online astronomy session planner,,3
+322,https://github.com/carolune/DMA.git,.astronomy 9 hack to clone Demitri,,3
+323,https://github.com/transientlunatic/gravpy.git,A python package for gravitational wave astronomy,,3
+324,https://github.com/caspg/space-exp.git,Space Experience - Astronomy Picture of the Day,,3
+325,https://github.com/mirkobunse/CherenkovDeconvolution.jl.git,Deconvolution algorithms popular in Cherenkov astronomy,,3
+326,https://github.com/attipaci/jnum.git,Java numerical classes for astronomy and beyond,"java,astronomy,numerical-methods,math-library,utilities,fft,fourier-transform,complex-numbers,wcs,spherical-coordinates,units,multidimensional-arrays,configuration-parser,special-functions,statistics",3
+327,https://github.com/christopherlovell/astro-python.git,Practical notebooks introducing popular python modules for Astronomy ,,3
+328,https://github.com/fred3m/astro-toyz.git,Astronomy tools built to run using the Toyz framework,,3
+329,https://github.com/TRASAL/Dedispersion.git,Radio astronomy dedispersion algorithm implemented for many-core accelerators.,,3
+330,https://github.com/dfm/AstroFlow.git,A collection of custom TensorFlow Ops for astronomy,,3
+331,https://github.com/privong/papers-in-markdown.git,Templates and pandoc invocations for preparing astronomy papers in Markdown,"pandoc,markdown,aastex,mnras,astronomy-astrophysics",3
+332,https://github.com/kevinlacaille/General-Astronomy-Astrophysics.git,Codes used in a wide variety of astronomy/astrophysics,"astronomy,astrophysics,astropy,python,scipy,pyfits,star-formation,galaxy-clusters,number-counts,rgb,aplpy",3
+333,https://github.com/kcambrek/Astro_miner.git,"{""Mining the Nasa's Astronomy Picture of the Day""}",,3
+334,https://github.com/tundeakins/Machine_Learning4Astronomy.git,A brief practical introduction to machine learning methods in astronomy,,3
+335,https://github.com/Castronauts/CASA.git,Repository for Center for Astrophysics and Space Astronomy work,,3
+336,https://github.com/saint-germain/interferometry.git,Notebooks for simulating aperture synthesis snapshot imaging in radio astronomy,,3
+337,https://github.com/lrmcfarland/Coordinates.git,C++ and Python coordinate objects for physics and astronomy applications,,3
+338,https://github.com/tdaylan/lygos.git,PSF modeling of images in time domain astronomy,,3
+339,https://github.com/MingjieJian/UTokyo-astro-thesis-template.git,"This is the master thesis template used by a student from Dept. of Astronomy, the University of Tokyo. It is adpoted from ociathesis.",,3
+340,https://github.com/spsrc/somachine2021.git,"SOMACHINE 2021. Machine Learning, Big Data, and Deep Learning in Astronomy. A Severo Ochoa School of the Instituto de Astrofísica de Andalucía (CSIC)",,3
+341,https://github.com/timj/perl-Astro-SLA.git,Perl CPAN Astro::SLA module interfacing to slalib positional astronomy library,"astronomy,perl,wcs",3
+342,https://github.com/MasterOfTheTiger/apod-extension.git,Web extension to show the latest Astronomy Picture of the Day. ,"browser-extension,apod,astronomy,astronomy-picture-of-the-day,extension,firefox-addon,firefox-webextension,firefox-extension,nasa",3
+343,https://github.com/KshitijAggarwal/FRB-journal-club.git,Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU ,,3
+344,https://github.com/vlaate/EqRADrive.git,An easy to build (and extend) Right Ascension motor drive for astronomy equatorial mounts,,3
+345,https://github.com/willianjusten/apod.git,A simple website to show Astronomy Picture of the Day using NASA API.,,3
+346,https://github.com/PyLCARS/YT_BeyondAstro.git,Example Notebooks Illustrating how to utilize YT for non Pure Astronomy Work,,3
+347,https://github.com/dougsko/apod.git,"{""This is a library to work with NASA's astronomy pictures of the day.""}",,3
+348,https://github.com/cdominik/ads.git,Command line access to a web search for physics/astronomy articles on the Astrophysical Data System,,3
+349,https://github.com/osman-developer/APOD.git,"{""Astronomy picture of the day. An angular application that uses NASA's API.""}",,3
+350,https://github.com/johnvining/ptolemy.git,a sexagesimal calculator for ancient Greek (i.e. base sixty) astronomy,,3
+351,https://github.com/zstuartp/AstroReduce.git,An astronomy flat-field correction script using Python 3 and Astropy.,"astronomy,image-processing",3
+352,https://github.com/igoralmeida/muzei-apod.git,"{""Free software Muzei plugin for NASA's Astronomy Picture of the Day.""}",,3
+353,https://github.com/pirtleshell/AladinLite.git,"{""an SSL-enabled fork of CDS's AladinLite, an astronomy data viewer""}","astronomy,astrophysics,space,ssl",3
+354,https://github.com/akionsight/APOD.git,Get and easily parse the APOD (Astronomy Picture Of The Day) from the NASA open API,"dictionary,apod,parse,astronomy-picture,python3,easy,easy-to-use",3
+355,https://github.com/thiagoassantos/flutter-nasa-apod.git,"{""A simple Flutter App to NASA's Astronomy Picture of the Day.""}","flutter,nasa-apod,nasa-api",3
+356,https://github.com/pkgw/atnf-miriad.git,A mirror of the RCS repository for the ATNF version of the MIRIAD radio astronomy package,,3
+357,https://github.com/urvashirau/WidebandSDINT.git,Joint Reconstruction of Wideband Single Dish and Interferometer data for Radio Astronomy,,3
+358,https://github.com/casper-astro/publications.git,"Memos, Papers, and Theses from the Collaboration of Astronomy Signal Processing and Electronics Research",,3
+359,https://github.com/chiraag-kakar/nasa-apod.git,"{""NASA's Astronomy Picture of the Day Viewer App which fetches data from APOD website using NASA API.""}","nasa-api,nasa-apod",3
+360,https://github.com/dakloifarwa/Astroschelle-SY135.git,Astroschelle is an Open-Source-Hardware project for astronomy applications. It is a dove tail adapter for the Samyang/Walimex/Rokinon 135mm/T2.2 lens.,,3
+361,https://github.com/gammy/apod_get.git,"{""Perl/Bash Tools related to NASA's APOD(Astronomy Picture Of the Day): Store/archive the APOD (with explanation), set it as your background image and so on.""}",,3
+362,https://github.com/renatogroffe/ASP.NET-Core-2.2_NASA-API.git,Exemplo de consumo da API REST da NASA (Astronomy Picture of the Day API) em uma aplicação Razor Pages criada com o ASP.NET Core 2.2,,3
+363,https://github.com/naamach/WiseGCN.git,A GCN/TAN (Gamma-ray Coordinates Network/Transient Astronomy Network) handler for use at the Wise Observatory in case of gravitational-wave alerts.,"gravitational-waves,ligo,gcn,voevent,observation,observatory,telescope,astronomy,astrophysics",3
+364,https://github.com/Jvinniec/CppEphem.git,CppEphem is a self-contained ephemeris package written in C++. It allows computation of celestial coordinate and date conversions and planet ephemerides by leveraging the Standards of Fundamental Astronomy (SOFA) software (included in the repo). It is C++11 compatible.,"ephemeris,sofa,conversion-routines,coordinate-systems,astronomy,cpp,planet",3
+365,https://github.com/johanley/astro.git,"Full source for astronomytonight.net, a site for amateur astronomers. The site has basic astronomy data for any location, and weather data for specific countries (the US and Canada). Customizable for your observing location.",,3
+366,https://github.com/Michaels72/Exo_Planet_Data_Analysis.git,"Extrasolar planets, or exoplanets for short, are all the rage in astronomy these days. Our excitement builds as we continue to search for life on newly discovered Earthlike planets.",,3
+367,https://github.com/jaredmales/mxlib.git,"{""This is the c/c++ library of Jared Males.   It contains code I have developed for data analysis and other tasks, primarily related to astronomy.    The documentation is located here: https://jaredmales.github.io/mxlib/  See the User's Guide for installation instructions.""}","image-processing,astronomy,signal-processing",3
+368,https://github.com/nkern/Astro_9.git,"Python Programming in Astronomy, Summer 2017",,2
+369,https://github.com/bill-cotton/ObitOld.git,Radio astronomy software,,2
+370,https://github.com/pangeo-data/pangeo-astro-examples.git,Binder for astronomy stuff on pangeo,,2
+371,https://github.com/Astronomy-Club-IITBHU/astro-app.git,Official website of Astronomy Club IIT-BHU,"astronomy,space",2
+372,https://github.com/darioflute/CS4A.git,Lectures about Python for astronomy given at the Innsbruck University on January 2017,,2
+373,https://github.com/Hedwig1958/libastro.git,astronomy librairy,,2
+374,https://github.com/astroNN/astroNN.git,Neural networks and deep learning in astronomy,,2
+375,https://github.com/ucb-datalab/course-materials_2020.git,"AY 128/256 Materials (UC Berkeley, Astronomy)",,2
+376,https://github.com/Starlink/palpy.git,Python interface to the PAL positional astronomy library,"python,astronomy,wcs",2
+377,https://github.com/njuastro/astro_notes.git,Collection of astronomy notes,,2
+378,https://github.com/sebhz/astro.git,Playing with astronomy,"lua,sundials",2
+379,https://github.com/thesamprice/Sofa.git,Standards of Fundamental Astronomy,,2
+380,https://github.com/rodluger/rodluger.github.io.git,My astronomy website,,2
+381,https://github.com/spsrc/droplets.git,Open Science Droplets - Reproducible and Collaborative Research Resources for Astronomy,,2
+382,https://github.com/mjuric/astr597b_wi16.git,Class Materials for Big Data in Astronomy - Introduction to Large Surveys,,2
+383,https://github.com/hwborchers/zaRastro.git,"Astronomy packages for R, Python, and Julia",,2
+384,https://github.com/UniversalScientificTechnologies/ExpaLight.git,The red flashlight for night astronomy observations,"astronomers,night,robustness,flashlight,astronomy,astrophotography",2
+385,https://github.com/mkrauskopf/devstronomy.git,"Datasets, tools and server related to astronomy for developers who happen to be amateur astronomers.","astronomy,solar-system,planets,planetary-satellites",2
+386,https://github.com/arhstevens/Dirty-AstroPy.git,Various Python routines for playing with simulated astronomy data,,2
+387,https://github.com/felixbosco/vegapy.git,VEGAPy: A Virtual Exposure Generator for Astronomy in Python,,2
+388,https://github.com/rfinn/astro-tutorials.git,cool things you can do with python for astronomy,,2
+389,https://github.com/sgsax/apod-desktop.git,Script to set your Linux desktop wallpaper to the Astronomy Picture of the Day.,,2
+390,https://github.com/terben/Programming_in_Python_Bonn_Summer_2018.git,"{""Materials for the course 'Programming in Physics and Astronomy with C++ or Python' (AIfA; Summer Term 2018) ""}",,2
+391,https://github.com/rjrouquette/radio_astronomy.git,Radio Astronomy,,2
+392,https://github.com/walterfreeman/ast101.git,Astronomy 101,,2
+393,https://github.com/joeblau/astronomy-kit.git,Astronomy Kit,,2
+394,https://github.com/Andromedanita/AST326.git,Practical Astronomy Course,,2
+395,https://github.com/steveicarus/astrocam.git,Icarus Astronomy Camera,,2
+396,https://github.com/lolney/Planetary-Surface-Visualizer.git,Vaporwave WebGL astronomy program,,2
+397,https://github.com/informationcake/astro_scripts.git,General astronomy scripts,,2
+398,https://github.com/qwx9/sce.git,setec astronomy project,,2
+399,https://github.com/ortk95/astro-tools.git,Python tools for astronomy,"python,astronomy,science",2
+400,https://github.com/stefano-meschiari/AstroKOW.git,Astronomy abstracts spam.,,2
+401,https://github.com/CalebHarada/ASTR-310.git,UMD Observational Astronomy,,2
+402,https://github.com/JackStapletonLucky/InterGalactic.git,All about astronomy,"react,reactjs,astronomy,javascript",2
+403,https://github.com/kapadia/PinpointWCS.git,PinpointWCS simplifies retrieval of world coordinate system (WCS) data from FITS images for education and public outreach (EPO) astronomy images.,,2
+404,https://github.com/brunston/nextTwilight.git,Astronomy-related python scripts,,2
+405,https://github.com/rsnemmen/asurv.git,ASURV: Astronomy SURVival analysis,"statistical-methods,astronomical-data,astronomy-survival-analysis,upper-limits,correlation,regression,survival-analysis,univariate,bivariate-analysis,statistics",2
+406,https://github.com/wdmchaft/Aloft.git,Mac OS X planatarium/astronomy appliacation. Build by Jan-Willem Buurlage and his friends at the University of Utrecht. ,,2
+407,https://github.com/casper-berkeley/pasp.git,Packetized Astronomy Signal Processor,,2
+408,https://github.com/alexrudy/AstroObject.git,Object Oriented Astronomy Programming,,2
+409,https://github.com/SDSU-VR-Club/ExpandingGalaxies.git,Astronomy Project 2,,2
+410,https://github.com/stefano-meschiari/dotastro-game.git,A template for a possible game to be developed at .Astronomy during hack day,,2
+411,https://github.com/christopherwaltham/UBC_PHYS_Python-crash-course.git,A crash course in Python developed by UBC Physics and Astronomy.,,2
+412,https://github.com/AASJournals/uat-chooser.git,A web widget for finding and selecting concepts from the Unified Astronomy Thesaurus,,2
+413,https://github.com/demitri/aas231_workshop.git,"Repository for ""A Data Science Foundation & Roadmap for Astronomy Instructors"" AAS 231 Workshop.",,2
+414,https://github.com/ccera-astro/odroid_ra.git,Tools and flow-graphs for managing radio astronomy observations on remote odroid or odroid-like devices,,2
+415,https://github.com/HongquanSu/tools_for_astro_developed_at_Curtin.git,Simple tools for Astronomy research developed at Curtin University by Hongquan,,2
+416,https://github.com/Ry-C123/LazyPSF.git,"Astronomy, Photometry, Fake source injection",,2
+417,https://github.com/UWashington-Astro300/Astro300-W16.git,Astronomy 300 Winter quarter 2016,,2
+418,https://github.com/MHSAstronomyClub/MHSAstronomyClub.github.io.git,Mundelein High School Astronomy Club,,2
+419,https://github.com/nicholasmirchandani/Parallax.git,GCI VR Educational Astronomy Project,,2
+420,https://github.com/CurtinIC/casacore-old.git,C++ libraries for radio astronomy,,2
+421,https://github.com/CurtinIC/fireballs.git,Detecting fireballs from astronomy images,,2
+422,https://github.com/jrka/astrojobs.git,"Repository for astronomy job related data, including astronomy degree recipients and funding.",,2
+423,https://github.com/oskarkleincentre/MachineLearningInAstronomy.git,"github repository for `Machine Learning in Astronomy` course in Astronomy, Stockholm University.",,2
+424,https://github.com/kemifree/weather-api.git,"A Python wrapper for the Yahoo Weather API. With the API, you can get up-to-date weather information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more. You can lookup weather by woeid, city name or lat/long.",,2
+425,https://github.com/av4l4nc14/astronomy_website.git,website for astronomy center IIT Indore,,2
+426,https://github.com/soylentdeen/AstroCode.git,"General Purpose astronomy codes (IDL, python, etc...)",,2
+427,https://github.com/maros/Zway-Astronomy.git,Zway automation module for astronomy calculations,"zway,home-automation,zwave,sunrise,sunset",2
+428,https://github.com/don-smith/astropaper.git,Astronomy Picture of the Day Wallpaperer,,2
+429,https://github.com/ExcaliburZero/blendplot.git,Scripts for visualizing astronomy data using Blender.,"blender,plot-data,scatter-plot,3d-modelling",2
+430,https://github.com/facero/BHESS.git,Separating spectral components for high energy astronomy,,2
+431,https://github.com/kevinkiklee/apodview.git,NASA Astronomy Picture of the Day Viewer,,2
+432,https://github.com/mpokorny/hyperion.git,High performance radio astronomy data processing prototyping,"cplusplus-17,legion,astronomy",2
+433,https://github.com/nj-vs-vh/pyindigo.git,Python interface for INDIGO astronomy software framework,,2
+434,https://github.com/astroDimitrios/astroedu.git,A python package for astronomy educators,,2
+435,https://github.com/CodeDotJS/apod-nasa.git,:earth_americas: Astronomy Picture of the Day!,"nodejs,api,picture,day,picture-of-the-day,fetch,extract,scrap",2
+436,https://github.com/alexd6631/apod-async-client.git,"Rust ""Astronomy Picture Of the Day"" client",,2
+437,https://github.com/oldiepuppie/apod.git,Astronomy Picture of the Day - NASA,,2
+438,https://github.com/ratt-ru/radiopadre-deprecated.git,(Radio) Python Astronomy Data Reductions Examiner,,2
+439,https://github.com/rrawat/AY250.git,Astronomy 250: Scientific Programming in Python,,2
+440,https://github.com/timj/perl-Astro-PAL.git,Perl interface to Starlink positional astronomy library,"astronomy,perl,wcs",2
+441,https://github.com/coderXmachina2/adventuresInMachineLearning.git,ML practice on non Astronomy related data,,2
+442,https://github.com/nikibobi/AstroPhysics.git,A program for physics and astronomy,,2
+443,https://github.com/LessThan12Parsecs/ParallaxAR.git,Mobile Augmented Reality test for Astronomy Visualization,"arcore,arcore-android,arcore-unity,unity,astronomy",2
+444,https://github.com/revarbat/CLIVE.git,"Celestial Laser Identification and Visualization Experiment: Astronomy software to point out stars, planets, etc. using a stepper based turret.","nintendo-gameboyadvance,astronomy",2
+445,https://github.com/cjhang/dive-into-astropy.git,A coarse introduction on how to use Astropy to release your hands when doing astrophysics and astronomy research,,2
+446,https://github.com/cdeil/slippy-astro-images.git,Demos how to display astronomy images as slippy web maps,,2
+447,https://github.com/tvdboom/Computational-Astrophysics.git,"Scripts for the astronomy master course ""Computational Astrophysics"".",,2
+448,https://github.com/glangsto/analyze.git,Review and Analyze NSF Horn Radio Astronomy Data,,2
+449,https://github.com/vlukic973/ConvoSource.git,Source-finding in radio astronomy using convolutional neural networks,,2
+450,https://github.com/mirkobunse/CherenkovDeconvolution.py.git,Deconvolution algorithms for Cherenkov astronomy and other use cases,,2
+451,https://github.com/WVURAIL/dspira-lessons.git,Digital Signal Processing in Radio Astronomy - Lessons Portal,,2
+452,https://github.com/emilyma53/brown-dwarfs.git,Astronomy research on brown dwarf candidates for measured polarization ,,2
+453,https://github.com/fding/pyAstro.git,"Python package with functions for astronomy, and specifically, orbit determination.",,2
+454,https://github.com/briandfoy/practical_astronomy.git,Implementing what I see in Practical Astronomy with Your Calculator,,2
+455,https://github.com/jereddanielson/apod2.0.git,Astronomy Picture of the Day with Web 2.0 features,,2
+456,https://github.com/jbrazio/ardupower.git,Open source remote controlled power box for astronomy.,"astronomy,arduino,power",2
+457,https://github.com/kumarvikramshahi/khagolVigyan.git,this project is providing basic to advance knowledge of astronomy.,,2
+458,https://github.com/MingcongBai/astron103-notes.git,Notes for Astronomy 103 @ University of Wisconsin - Madison,,2
+459,https://github.com/rubiculite/waterfall_plotter.git,D3.js Waterfall Plotter Tool for Radio Astronomy,,2
+460,https://github.com/ApoorvaAditya/nasa-apod-app.git,A Flutter app for NASA Astronomy Picture of the Day,,2
+461,https://github.com/wisemanp/test_the_limits.git,Testing different methods of incorporating upper limits in astronomy,,2
+462,https://github.com/qbit/APOTD.git,Set Astronomy Photo of the Day as OSX background,,2
+463,https://github.com/ocordes/arctic.git,artic - Algorithm foR Charge Transfer Inefficency Correction (Astronomy),,2
+464,https://github.com/TheTeaCup/astrology-hub-bot.git,The official bot for the astronomy bot support server.,,2
+465,https://github.com/jaredsmorgan/astronomy-memory-game.git,A basic astronomy memory game for kids ages 6-12.,,2
+466,https://github.com/hagabbar/matching_cnn_paper.git,Matching matched filtering with deep learning in gravitational-wave astronomy,,2
+467,https://github.com/VandyAstroML/Vanderbilt_Astro_PhD_Template.git,Template for the Vanderbilt Astronomy PhD. Program - Thesis,,2
+468,https://github.com/lifeparticle/PhotonyLibs.git,PhotonyLibs is a collection of Android Java libraries (Astronomy).,,2
+469,https://github.com/JeffreyCA/APOD-Gallery.git,"An Android app for viewing NASA\'s daily photos for the ""Astronomy Picture of the Day""","nasa-apod,apod,android,android-app",2
+470,https://github.com/mpound/carma.git,Archive of codebase for Combined Array for Research in Millimeter-wave Astronomy (CARMA),,2
+471,https://github.com/gdomingu/nasa_apod.git,Ruby gem for NASAs API for Astronomy Picture of the Day,,2
+472,https://github.com/rickyegeland/egelib.git,Collection of functions I have written while performing various data analysis in astronomy and solar physics.,,2
+473,https://github.com/tadast/nice-apod.git,"{""A Google Chrome extension to make NASA's Astronomy Picture of the Day website look nicer""}",,2
+474,https://github.com/etandel/ovcurriculum.git,"{""CLI tool to analyse the different curricula of UFRJ's Astronomy undergraduate program""}",,2
+475,https://github.com/iastro-pt/AST732_template.git,"{""A LaTeX template for the AST732 report of the U.Porto's Doctoral Program in Astronomy""}",,2
+476,https://github.com/IAU-NOC-MUR/website.git,Official website for the International Astronomical Union (IAU) dedicated to Astronomy Outreach in Mauritius.✨💫⭐,,2
+477,https://github.com/lauradegroot/cosmoleidos.git,"{""It's NASA's Astronomy Picture of the Day, except through a ~ kaleidoscope ~""}",,2
+478,https://github.com/the-rccg/FIDS.git,Using plotly.dash look into table data based on the FITS file format in astronomy,"astronomy,visualization,analysis-services,astrophysics,fits-files,fits,opendata,open-data,cosmology",2
+479,https://github.com/davidson16807/tectonics.glsl.git,A glsl library of useful functions for physically based rendering in astronomy,,2
+480,https://github.com/lauradegroot/cosmoleidos.git,"{""It's NASA's Astronomy Picture of the Day, except through a ~ kaleidoscope ~""}",,2
+481,https://github.com/Grapheion/Astropocket.git,"Astronomy services, like NASA Reports and space launches, in one app",,2
+482,https://github.com/justinzelinsky/apod-bg.git,Chooses a random Astronomy Picture of the Day and makes it the desktop background,,2
+483,https://github.com/jlorett/nebula.git,"{""Showcasing Android Application Design using Nasa's Astronomy Picture of the Day.""}",android,2
+484,https://github.com/ExcaliburZero/ast_data_download_scripts.git,These are scripts I have written for downloading and processing astronomy datasets.,,2
+485,https://github.com/aaronfreimark/INDIGO-to-GO.git,Monitor services using the INDIGO astronomy protocol from iOS & Mac Catalyst ,,2
+486,https://github.com/zktanvir/apod.py.git,A python wrapper for the Astronomy Picture Of the Day api.,,2
+487,https://github.com/jonathansick/starlit.git,"Package for working with astronomy literature databases: ADS, arXiv and your bibtex file.",,2
+488,https://github.com/GITenberg/History-of-Astronomy_8172.git,"History of Astronomy by Forbes, George\n is a Project Gutenberg book, now on Github.",,2
+489,https://github.com/dibyendumajumdar/ray.git,"{""The 'ray' ray tracing package by Don Wells at NRAO National Radio Astronomy Observatory""}",,2
+490,https://github.com/iamgbayer/apozzle.git,:rocket: A puzzle game using the Astronomy Picture of the Day from NASA.,"apod,react,puzzle,nasa-api,react-puzzle",2
+491,https://github.com/open-gamma-ray-astro/ogadf-schema.git,Definition of the open gamma ray astronomy data formats using fits-schema,,2
+492,https://github.com/PsyJim/AURORA.git,"A viewer with tools for different astronomy data cube types like; MaNGa, SAMI, Pmas-Ppak, MUSE, gmos, etc.","python,astronomy,spectrosopy",2
+493,https://github.com/wtbarnes/masters_thesis.git,"Master of science thesis on impulsive heating in the solar atmosphere, Dept. of Physics and Astronomy, Rice University",,2
+494,https://github.com/adamjermyn/AstroStatsSuite.git,"A suite of statistical tools meant for non-parametric regression in astronomy, along with benchmarks and tests.",,2
+495,https://github.com/dombrant/nasa-apod-request.git,"{""Makes a request to NASA's Astronomy Picture of the Day (APOD) and makes it the background image""}","html,css,javascript,js,nasa,apod,plash",2
+496,https://github.com/Max-FM/AstronomyClickbaitGenerator.git,Code that scrapes the web for astronomy-based clickbait and then generates its own headlines and text.,,2
+497,https://github.com/abigailStev/NICER_exploration.git,Software tools for quicklook data products to explore astronomy data from the NICER X-ray Timing Instrument.,,2
+498,https://github.com/astro-whitepapers/software-support.git,a white paper to discuss the need for software support in astronomy across the field.  All are welcome!,,2
+499,https://github.com/abryan40/Survival-Probabilities-on-Branching-Tissue.git,"Research project of Adam Bryant and Dr. Maxim Lavrentovich of the University of Tennessee, Knoxville department of physics and astronomy",,2
+500,https://github.com/jonathanmarsaud/zapod.git,Automatic download of the APOD (Astronomy Picture Of the Day from NASA) and permits to set it as a wallpaper and lockscreen,,2
+501,https://github.com/josephgodoy/lightcurves.git,My sophomore year observational astronomy work: scripts for slicing time-series photometry data and fitting them to inverted Gaussians to find eclipse times.,,2
+502,https://github.com/DaWoody/Astronomy-Picture-Of-the-Day.git,"{""A Wordpress plugin that fetches data from NASA's open API regarding the Astronomy Picture Of the Day to be used within posts/pages""}","nasa,apod,wordpress,astronomy-picture-of-the-day,php,plugin",2
+503,https://github.com/taurhine/apodFetch.git,"{""For the i3wm minimalists... A bash script to change your wallpaper daily to the NASA's astronomy picture of the day.""}","nasa-astronomy-picture,nasa-apod,i3wm,i3,wallpaper-changer,pod",2
+504,https://github.com/Aberman12/spacewatch.git,"https://spacewatch.herokuapp.com/ One-stop-shop news app for all things astronomy and space exploration-related. Built using MongoDB, Express.js, React.js and Node.js.",,2
+505,https://github.com/Mel23/thesis.git,"{""Repo containing files and code for Melanie's doctoral thesis to be submitted to the Physics and Astronomy program at the University of Minnesota. ""}",,2
+506,https://github.com/karthiv/Star-Buddy.git,Star Buddy is an encyclopedia of stars for kids. It can locate a star and describe it for a user. It is an educational tool for for Kids and others: to build a liking to astronomy and astro-physics in them for Students of Astronomy: amateur astronomers can benefit from it ,,2
+507,https://github.com/sdasrc/radioastronomylive.git,"Radio Astronomy Live is a simple python script that iteratively searches for tweets using a broad set of keywords. For each keyword, the resultant tweets are further filtered by a narrow set of keywords. ","bot,twitter,twitter-api,research,tweepy,herokuapp,messaging",2
+508,https://github.com/VasuGoel/yahoo-weather-api.git,"Get up-to-date weather information for any location, including 10-day forecast, wind, atmosphere, astronomy conditions, and more. You can lookup weather by location (city name) or lat/long.",,2
+509,https://github.com/sdasrc/radio-astronomy-retweeter.git,"Radio Astronomy Live is a simple python script that iteratively searches for tweets using a broad set of keywords. For each keyword, the resultant tweets are further filtered by a narrow set of keywords. ","tweepy,retweet-bot,twitter,retweet,bot,herokuapp",2
+510,https://github.com/victordomingos/NiceTelescopePlanner.git,"A simple cross-platform desktop utility for amateur astronomy hobbyists, written in Java. The aim is to provide an easy to use tool to help planning sky observation sessions, suggesting some of the interesting objects you may be able to watch at naked eye, or using amateur equipment (binoculars or small to medium size telescopes) in a given date/time and place. ","astronomy,astronomy-instrumentation,amateur-astronomy,java,java-swing,desktop-application,telescope,deep-space,solar-system,planner,planning,planning-tool,gui,jparsec",2
+511,https://github.com/JeremyHarwood/bratswrapper.git,"A Python wrapper for the Broadband Radio Astronomy Tools software package (BRATS) which allows easy integration of BRATS with user specific code e.g. analysis pipelines. The wrapper uses Python 3 and has been tested on v3.6+. Development is ongoing, see README.md for details.","radio-astronomy,astronomy,astrophysics,spectral-analysis,radio-galaxies",2
+512,https://github.com/connolly/A302_2019.git,Python for Astronomy,,1
+513,https://github.com/casangi/casadocs.git,Common Astronomy Software Applications Documentation,,1
+514,https://github.com/jradavenport/WWU-seminar-2016.git,Practical coding and data science techniques for astronomy students,,1
+515,https://github.com/spacetelescope/github-401.git,Repository for the Git(Hub) 401 Tutorial at the 2018 .Astronomy conference,,1
+516,https://github.com/glue-viz/glue-astronomy.git,Plugin to add astronomy-specific functionality to glue,,1
+517,https://github.com/rutgers-physics-ml/gaia-dr2-hack.git,"{""The astronomy graduate students' (belated) hack day for Gaia Data Release 2""}",,1
+518,https://github.com/kmsmith137/rf_pipelines.git,Plugin-based radio astronomy pipelines,,1
+519,https://github.com/lsst/pal.git,EUPS package of the Positional Astronomy Library (PAL),,1
+520,https://github.com/dschimin/soma.git,"Repository for Graduate Seminar: Statistics, Observation, and Modeling in Astronomy",,1
+521,https://github.com/lebgrossman/Astronomy335h.git,"Projects, et cetera for Astronomy 335h",,1
+522,https://github.com/BDNYC/astrodbkit.git,"A Python module for astronomy to create, manage, and collaborate using SQL relational databases.",,1
+523,https://github.com/astrophys-degroot/astro_idl.git,My astronomy IDL collection. ,,1
+524,https://github.com/macrocosme/spaceshark.git,dot astronomy 7 AstroPointer webservice ,,1
+525,https://github.com/swshadle/physics.git,Physics/astronomy labs and sims for classroom use,,1
+526,https://github.com/VandyAstroML/Vandy_AstroML.git,Vanderbilt - Astronomy Machine Learning Group,,1
+527,https://github.com/ska-sa/radio-astronomy-for-beginners.git,Simple tutorials and projects to help understand various aspects of radio astronomy and radio astronomy observations,,1
+528,https://github.com/emilianosantucci/meteor-astronomy-ts.git,Meteor Astronomy definition file for TypeScript,,1
+529,https://github.com/MNewby/Newby-tools.git,A suite of custom astronomy tools,,1
+530,https://github.com/ptomato/gnome-recipes-experiment.git,"GNOME Recipes UI, Endless Astronomy content",,1
+531,https://github.com/matthewjohnpayne/shifty.git,python code to shift-and-stack astronomy exposures,,1
+532,https://github.com/skyportal/healpix-alchemy.git,SQLAlchemy extensions for HEALPix spatially indexed astronomy data,,1
+533,https://github.com/Onyothi/NamJedi.git,Modelling Synchrotron Radiation using Python: Astronomy and Astrophysics Workshop Namibia,,1
+534,https://github.com/lpsinger/modulesets.git,Module sets and configuration files for building LIGO data analysis software and open source astronomy software with jhbuild <https://live.gnome.org/Jhbuild>.,,1
+535,https://github.com/vanderdole/TheSky.git,Astronomy,,1
+536,https://github.com/acecil/astroclock.git,Astronomy Clock,,1
+537,https://github.com/Syndikit/sims.git,Astronomy Simulations,,1
+538,https://github.com/astronomynotes/astronomynotes.github.com.git,Astronomy Notes,,1
+539,https://github.com/zerotri/astronomynotes.git,Astronomy Notes,,1
+540,https://github.com/developerAzat/Astronomy.git,Astronomy Lib,,1
+541,https://github.com/lordbecerril/Astro-Group-Code.git,Astronomy Code,,1
+542,https://github.com/sigrlami/skybeam.git,astronomy package,,1
+543,https://github.com/albertdavid00/albertdavid00.github.io.git,Astronomy website,,1
+544,https://github.com/moustakas/astronomy-camp.git,Code for reducing data taken during Astronomy Camp (http://astronomycamp.org).,,1
+545,https://github.com/DominicDirkx/sofa.git,"Standards of Fundamental Astronomy code, copyright of the Board of the International Astronomical Union",,1
+546,https://github.com/jennifersarahpaul/LHL-science-wall-project.git,"Midterm project: making a wall of astronomy/science news articles, contributed by the user",,1
+547,https://github.com/AMIGA-IAA/AstroTaverna-AA-article.git,GitHub for the editing of the Astronomy & Astrophysics article on AstroTaverna,,1
+548,https://github.com/caseyjlaw/sdmreader.git,Python toolkit for reading the radio astronomy data format known as the Science Data Model (SDM),,1
+549,https://github.com/brantr/astro400B.git,Lectures for UA Astronomy 400B : Galactic and Extragalactic Astronomy,,1
+550,https://github.com/gschwim/elysian.git,Astronomy automation stuff,,1
+551,https://github.com/qxlsz/astromath.git,Library for mathematical astronomy,"astronomy,mathematics,astronomical-algorithms",1
+552,https://github.com/mikeshutt/Astronomy.git,java astronomy library,,1
+553,https://github.com/webplate/astrini.git,Initiation to basic astronomy,,1
+554,https://github.com/cinserra/Starlight.git,Astronomy tools collection,,1
+555,https://github.com/lookitskris/Astronomy.git,Astronomy based calculation library,,1
+556,https://github.com/kstar/logbook.git,The Astronomy Logbook Project,,1
+557,https://github.com/tlareywi/Infinitarium.git,Astronomy Rendering Engine,"astronomy,metal,realtime-rendering,simulation,scientific-visualization,graphics-engine",1
+558,https://github.com/Longhadac/Calendar.git,Lunar and astronomy calendar,,1
+559,https://github.com/tbitsakis/astro_projects.git,Various astronomy projects,,1
+560,https://github.com/rbarbera/astrobin.git,Astronomy related stuff,,1
+561,https://github.com/mirkosimunovic/Astronomy_scripts.git,software for astronomy research,,1
+562,https://github.com/TychosDrunkElk/astroviz.git,Astronomy data visualizations,,1
+563,https://github.com/kevinjardine/galaxymap.git,Code for astronomy projects,,1
+564,https://github.com/yanxiali/research_code.git,Some astronomy code,,1
+565,https://github.com/manguluka/astral.git,High level astronomy library,,1
+566,https://github.com/ewpeng/PKUdistances20.git,Distance Measurement in Astronomy,,1
+567,https://github.com/dukeraphaelng/astro.cr.git,Astronomy Algorithms in Crystal,,1
+568,https://github.com/pld-linux/nightfall.git,An astronomy application,,1
+569,https://github.com/shimonah/astronomy-scripts.git,Scripts for astronomy calculation.,,1
+570,https://github.com/shimonah/astronomy-scripts.git,Scripts for astronomy calculation.,,1
+571,https://github.com/tomvonclef/GAL.git,Graphical Astronomy Language,,1
+572,https://github.com/jonnybazookatone/pyservatory.git,Observational astronomy tools,,1
+573,https://github.com/Traain/astronomy.git,astronomy club website,,1
+574,https://github.com/gnatman/Jimmy---the-BCGs.git,My astronomy research work,,1
+575,https://github.com/gmn/saguaro_db.git,Interactive Saguaro Astronomy Database,,1
+576,https://github.com/MattPrescottAstro/AstroTutorials.git,"{""UWC's Astronomy Tutorials ""}",,1
+577,https://github.com/CSHNotes/Astro-Notes.git,Notes for Stellar Astronomy,,1
+578,https://github.com/FRobaglia/learmy.git,astronomy made simple ,,1
+579,https://github.com/KonVas/CosmoSonics.git,Sonification project using astronomy data,,1
+580,https://github.com/sudhirkhanger/apod.git,Astronomy Picture of the Day,"dagger2,mvvm,android,kotlin,nasa-astronomy-picture-of-the-day",1
+581,https://github.com/saethlin/astrotools.git,"Scripts and stuff, mostly astronomy",,1
+582,https://github.com/LucGZ/APOD.git,Astronomy Picture Of The Day,,1
+583,https://github.com/JarbasSkills/skill-apod.git,Astronomy picture of the day,,1
+584,https://github.com/Zetoff/meteor-astronomy-userstamp-behavior.git,Userstamp behavior for Meteor Astronomy,,1
+585,https://github.com/walinchus/astronomy.git,Messing around with astronomy data,,1
+586,https://github.com/atelechev/astrocadre.git,Astronomy sky charts viewer application,"astronomy,angular,typescript,stellar,sky,constellation,threejs,rendering",1
+587,https://github.com/AlphaLFC/astro-IDL.git,IDL scripts for astronomy convenience,,1
+588,https://github.com/booo/astro.git,information about astronomy for everyone,,1
+589,https://github.com/danhey/sibyl.git,A lazy slackbot for astronomy,,1
+590,https://github.com/arillo/meteor-astronomy-softremove-behavior.git,Softremove behavior for Meteor Astronomy,,1
+591,https://github.com/sweesenkoh/Astronomy-Quiz-Android-App.git,Test your knowledge on astronomy!,,1
+592,https://github.com/nstarman/astronat.git,Astronomy concomitant tools. Astropy powered.,,1
+593,https://github.com/arpan-dhatt/auto-astronomy.git,frontend app for automatic astronomy,,1
+594,https://github.com/MinasTirith3018/2017-1_AC.git,2017-1 Astronomy Computation homeworks,,1
+595,https://github.com/pld-linux/libnova.git,General purpose astronomy & astrodynamics library,,1
+596,https://github.com/ickyrr/my-mantra-blog.git,Sample mantra app + Meteor + Astronomy,,1
+597,https://github.com/Caselles/Compressed_sensing_astronomy.git,Compressed sensing applied to Astronomy,"compressed-sensing,astronomy",1
+598,https://github.com/dywanik/Astronomy.git,My astronomy and astrophysics repository,"astronomy,celestial-coordinates,celestial-mechanics",1
+599,https://github.com/psimao/apod.git,🌌 Astronomy Picture of the Day,"android,ios,flutter,dart,redux",1
+600,https://github.com/cboone/hpm-geocentric-r.git,"Astronomy helper functions, in R.",,1
+601,https://github.com/EranOfek/AstroMATLAB.git,Astronomy & Astrophysics toolboxes for MATLAB,,1
+602,https://github.com/yubo1993/Astronomy-mining-contest.git,Alibaba Tianchi Astronomy Mining Competition,,1
+603,https://github.com/vsaivihari/APOD.git,Astronomy Picture of the Day,,1
+604,https://github.com/javlonrahimov/APOD.git,Astronomy Picture of the day,,1
+605,https://github.com/astroDimitrios/AstronomyClass.git,Resources for teaching astronomy / BTEC Unit 16 Astronomy and Space Science,,1
+606,https://github.com/NOAO/natica.git, National Astronomy Telescope Image & Catalog Archive,,1
+607,https://github.com/fconrotte/android_astronomy.git,Tools to teach astronomy using an Arduino,,1
+608,https://github.com/JohannesBuchner/presentations.git,Research presentations on Astronomy and Astrostatistics ,"presentation-slides,astronomy,astrostatistics,statistics,astrophysics,research",1
+609,https://github.com/AlexB67/TCalc.git,An astronomy tool for telescopes and eyepieces,,1
+610,https://github.com/johnmcwade/piastro.git,astronomy mini-projects on the raspberry pi,"raspberry-pi-4,python3",1
+611,https://github.com/inigosword/rDuino_pcb.git,gerber pcb layout for rDuino astronomy tracker,,1
+612,https://github.com/larsnaesbye/tempus.git,A C++/Qt-based astronomy timekeeper.,,1
+613,https://github.com/canderson/PACS.git,"The ""Physics and Astronomy Classification Scheme"".",,1
+614,https://github.com/codl/mastodon-apod.git,Astronomy Picture of the Day bot,"mastodon,bot,ananas",1
+615,https://github.com/ratt-ru/ragavi.git,Radio Astronomy Gain and Visibility Inspector ,,1
+616,https://github.com/VR-DSA/ay20_2019.git,AY20 - Basic Astronomy and the Galaxy,,1
+617,https://github.com/fandongwei/radiox.git,radio and optical astronomy catalogs crossmatch,,1
+618,https://github.com/pkuzhw387/astro_utils.git,Astronomy utility package made by Haowen Zhang,,1
+619,https://github.com/kgobakis/astronomy_amherst_college.git,Front End for Astronomy Department Project,,1
+620,https://github.com/fbm224/Astronomy-Red-Led-Lamp.git,A Red Led Lamp for astronomy observation,,1
+621,https://github.com/Leo-godel/Project-S-data-preparation.git,Data preparation for Project-S ( Astronomy Project),,1
+622,https://github.com/atulbhats/stellarium-kannada-starlore.git,A Starlore from the Modern Kannada Astronomy,,1
+623,https://github.com/nattieg/astroteach.git,HTML5 interactive astronomy and physics demos,,1
+624,https://github.com/Amr-H-Hassan/GraphTIVA.git,Terascale Visualization for Astronomy 3D Spectral Cube,,1
+625,https://github.com/SoixanteSixGitHub/Astronomy.git,baseline for Astronomy competition on biendata,,1
+626,https://github.com/aDamian88/DayPicture.git,Displaying the astronomy picture of the day.,,1
+627,https://github.com/AleAlves/NASA-APOD-APP.git,Android - Astronomy Picture of the Day Application,,1
+628,https://github.com/STAC-IITMandi/astrocker.git,Dockerize astronomy related python packages easily!,"docker,astronomy,python",1
+629,https://github.com/jlustigy/astr521.git,Coursework for Astronomy 521: Stellar Atmospheres,,1
+630,https://github.com/AleAlves/NASA-APOD-APP.git,Android - Astronomy Picture of the Day Application,,1
+631,https://github.com/STAC-IITMandi/astrocker.git,Dockerize astronomy related python packages easily!,"docker,astronomy,python",1
+632,https://github.com/jlustigy/astr521.git,Coursework for Astronomy 521: Stellar Atmospheres,,1
+633,https://github.com/mireianievas/hdf5gamma.git,HDF5 format for Gamma Ray Astronomy,,1
+634,https://github.com/shreyasbapat/Machine-Learning-Astronomy-Paper.git,Paper for machine learning techniques in astronomy,,1
+635,https://github.com/augustfly/astrodatacite.git,tooling around with data citation in astronomy,,1
+636,https://github.com/walterfb/pmpar.git,Parallax and proper motion fitting software (astronomy),,1
+637,https://github.com/dubirajara/apod-astronomy-picture-of-the-day.git,Astronomy Picture of the Day (APOD),"nasa-api,nasa-astronomy-picture-of-the-day,nasa-apod,nasa-data,apod,nasa-astronomy-picture,nasa",1
+638,https://github.com/pgiani/redis-astronomy.git,Redis-oplog version of meteor-astronomy,,1
+639,https://github.com/sonithls/Python_tutorials_for_Astronomy.git,Python tutorials for Astronomy and Astrophysics,,1
+640,https://github.com/focisrc/ucast.git,Micro-weather forecasting for radio astronomy,"astronomy,weather-data,gfs,python",1
+641,https://github.com/albertfxwang/mypytools.git,My python stuff (mostly for astronomy research),,1
+642,https://github.com/heliostatic/APOD.git,Astronomy Picture of the Day scraper,,1
+643,https://github.com/rawatenator/ay250hw.git,"{""rishi's hw from astronomy 250""}",,1
+644,https://github.com/mdottavio/astronomy-space-icons.git,Animated version of Astronomy & Space Icons Set,,1
+645,https://github.com/adrn/whatsup.git,A web-based observational astronomy tool.,,1
+646,https://github.com/pratishtha-abrol/Astronomy-DataAnalysis.git,A key technique in Data Driven Astronomy ,"astronomy,data-analysis,crossmatch,astropy",1
+647,https://github.com/dovrosenberg/meteor-astronomy-displayFormat.git,Display formatting module for jagi:meteor-astronomy,,1
+648,https://github.com/RyanBalfanz/apodbm.git,Astronomy Picture of the Day Background Manager,,1
+649,https://github.com/PoomSmart/Cometo.git,"Academic project, where Astronomy and Programming met.","astronomy,comet,trajectory,python,newton,kepler,astrophysics",1
+650,https://github.com/jpweist/nasa-api-apod.git,NASA API Astronomy Picture of the Day,,1
+651,https://github.com/emdagon/meteor-astronomy-author-behavior.git,Author/createdBy behavior for Meteor Astronomy,,1
+652,https://github.com/adamstephensen/astrophysics.git,a place for notes on astronomy and physics,,1
+653,https://github.com/abtiwary/Constellation-Explorer.git,Constellation Explorer is an education astronomy game written in HTML5! ,,1
+654,https://github.com/cailmdaley/astrocail.git,oft-used python functions and classes for astronomy,,1
+655,https://github.com/bretthandrews/galaxies-mzr.git,ASTRON 3580: Galactic and Extra-galactic Astronomy: Mass-Metallicity Relation,,1
+656,https://github.com/ttanay/ACCDownload.git,Script to download resources for Astronomy Code Camp.,,1
+657,https://github.com/KnowOneDotNinja/APOD.git,"{""Nasa's Astronomy Picture of the Day for Android""}",,1
+658,https://github.com/adamkdean/nasa-apod-slack-bot.git,NASA Astronomy Picture of the Day slack bot,,1
+659,https://github.com/shawnlauzon/unit.git,A set of types useful in astronomy applications,,1
+660,https://github.com/VIVelev/goApod.git,Astronomy Picture of the Day rewritten in Go,,1
+661,https://github.com/DavidVargasMora/TACTests.git,Test repository for Teen Astronomy Cafe notebooks @noaodatalab,,1
+662,https://github.com/weizhenwei/non-technical-knowledge.git,"non-technical knowledge including history, literature, astronomy, society, etc.",,1
+663,https://github.com/gdoepp/skyreigen.git,"Android ephemerides app: astronomy, planets, sun and moon",,1
+664,https://github.com/findaz/focoastro.git,Notebook of examples accompanying talk on Data in Astronomy,,1
+665,https://github.com/Alexander-Randall/APOD.git,"{""API for NASA's astronomy picture of the day.""}",,1
+666,https://github.com/mjc-gh/apod2.git,🔭 Modern mirror for NASA Astronomy Picture of the Day,,1
+667,https://github.com/semolex/astrawpy.git,Set of utils to process raw files for astronomy purposes,,1
+668,https://github.com/the-flame-trench/AstroTools.git,"{""Astronomy tool development for TFT's Gaze project""}",,1
+669,https://github.com/ColonialDagger/AstronomyDiscordBot.git,A Discord Bot that provides daily astronomy pictures from NASA.,,1
+670,https://github.com/DougBurke/research-blog.git,"A research blog, exploring OpenAccess principles for Astronomy research.",,1
+671,https://github.com/bradenmacdonald/astrocube.git,Python Classes for Loading and Viewing Radio Astronomy Data Cubes,,1
+672,https://github.com/PaulaSanchezSaez/time_series.git,Several methods to analyze time series in astronomy,,1
+673,https://github.com/hotpeppersec/hack_the_universe.git,(Presentation): Radio Astronomy is a great hobby for tech nerds!,"radio-astronomy,hacking,slides",1
+674,https://github.com/yasin-ashraf/NasaAPOD.git,Nasa Astronomy Photo of the day Android App,,1
+675,https://github.com/EdwardEJ/nasa-photo-of-the-day.git,Made using NASAs Astronomy Photo of the Day API,,1
+676,https://github.com/shreyasbapat/thoughts.git,"My thoughts on life, astronomy, code and more!","personal-blog,jekyll-theme",1
+677,https://github.com/PawseySC/cosmic-machines.git,Introductory workshop for Machine Learning in observational astronomy,,1
+678,https://github.com/eyston/SCATRGenC.git,Solar System Astronomy Code - Being Ported from Fortran to C++,,1
+679,https://github.com/nick-aschenbach/astronomy-engine.git,A mountable engine that wraps the `astronomy` gem,,1
+680,https://github.com/shreyasbapat/Astronomy-Code-Camp-Slides.git,Content for the 3 Day Astronomy Code Camp @ Delhi,,1
+681,https://github.com/Yeqzids/astronomy-in-china.git,A collection of useful astronomy-related materials in China (Nanjing).,,1
+682,https://github.com/AgentTroll/gate.git,"CLI-based astronomy software to track satellites, planets, stars, etc.",,1
+683,https://github.com/ska-telescope/image-compression.git,Comparison of image compression methods for radio astronomy,,1
+684,https://github.com/cm2esp/radioAstronomy_utilities.git,"Collection of scripts, programs and utilities for Radio Astronomy",,1
+685,https://github.com/Moppa5/taivaanvahti2-jolla.git,Sailfish application to view Finnish Ursa astronomy related observations,"astronomy,sky",1
+686,https://github.com/Mohan-Gupta/NASA-APOD.git,"{""Downloading Astronomy Pic Of The Day using NASA's API.""}",,1
+687,https://github.com/nick-aschenbach/astronomy.git,Search or browse curated data on astronomy from Freebase,,1
+688,https://github.com/ishivvers/astro.git,A library of Astronomy codes (mostly written by me),,1
+689,https://github.com/lao19881213/RTF.git,Real Time Flagging Raw Data for Radio Astronomy,,1
+690,https://github.com/cm2esp/radioAstronomy_utilities.git,"Collection of scripts, programs and utilities for Radio Astronomy",,1
+691,https://github.com/Moppa5/taivaanvahti2-jolla.git,Sailfish application to view Finnish Ursa astronomy related observations,"astronomy,sky",1
+692,https://github.com/Mohan-Gupta/NASA-APOD.git,"{""Downloading Astronomy Pic Of The Day using NASA's API.""}",,1
+693,https://github.com/tvwenger/tmbidl.git,TMBIDL - Single Dish Radio Astronomy Data Reduction Package,,1
+694,https://github.com/berraknil/nasa-apod.git,Fetch Astronomy Picture of the Day by using NASA API,,1
+695,https://github.com/granttremblay/AstroJournalTemplates.git,"{""Grant's fussy tweaks to Astronomy Journal LaTeX Templates""}",,1
+696,https://github.com/dtouzan/ciboulette.git,Astronomy packages for CCD/CMOS and photographic lens,,1
+697,https://github.com/crpurcell/pyutils.git,Python utility functions I commonly use in my astronomy research,,1
+698,https://github.com/rahuldave/semflow-core.git,Sets up sesame and Solr for astronomy assets,,1
+699,https://github.com/chrisnorth/physx-advent.git,Advent Calendar for Cardiff School of Physics and Astronomy,,1
+700,https://github.com/jchryssanthacopoulos/astroAI.git,Repository for exploring astronomy data using AI and ML,"astronomy,astrophysics,astronomical-algorithms,artificial-intelligence,machine-learning",1
+701,https://github.com/vishwam/apod.gadget.git,"{""Windows Gadget for NASA's Astronomy Picture of the Day""}",,1
+702,https://github.com/marcofanciulli/celestia.git,"The Celestia astronomy viewer, ported to the Oculus Rift",,1
+703,https://github.com/LKelsey/SouthamptonAstroJC.git,Documents and code for Southampton Astronomy Journal Club,,1
+704,https://github.com/arnauddupuis/hac-website.git,Repository for the website of the Hyrule Astronomy Club,,1
+705,https://github.com/mewni/Machine-Learning-in-Astronomy.git,A theoretical & practical guide for Machine Learning in Astronomy,,1
+706,https://github.com/embray/pyastro-packaging-tutorial.git,Tutorial on Python packaging for Python in Astronomy Workshop 2015,,1
+707,https://github.com/rywag/PythonLibraries.git,Quickly install python libraries for app development and astronomy majors,,1
+708,https://github.com/pekkipo/DS_ML_astronomy.git,Astronomy related classification and regression algorithms. Exoplanets challenge,,1
+709,https://github.com/theritz/21cm.git,Python code for data processing 1420.5Hz radio astronomy data,,1
+710,https://github.com/mr-headwind/AstroCTC.git,AstroCTC - Linux astronomy software for Planetary and Lunar image capture ,,1
+711,https://github.com/sytelus/ObservationSites.git,Website to find and register good observation sites for astronomy,,1
+712,https://github.com/anjaneya2b/apod.git,Desktop viewer for astronomy picture of the day,,1
+713,https://github.com/bernardinelli/python_workshop_penn.git,Python for astronomy workshop at Penn - Summer 2020,,1
+714,https://github.com/tcoenen/astroprog.git,Basic Linux and Coding for Astronomy and Astrophysics website,,1
+715,https://github.com/marceloaraujo/apod_flutter.git,Astronomy Picture of the Day app made using Flutter Framework.,,1
+716,https://github.com/iamXowy/astronomy.git,programs/codes related to astronomy(educational purpose only :)),,1
+717,https://github.com/ivh/astroweb.git,putting a few astronomy tools onto the web,,1
+718,https://github.com/cardinot/kstars.git,"KStars is free, open source, cross-platform Astronomy Software.",,1
+719,https://github.com/jason-neal/spectrum_overload.git,An astronomy spectrum class with overloaded math operators.,,1
+720,https://github.com/SSARCandy/slack-for-APOD.git,slack bot that post Astronomy Picture of the Day,"apod,node-apod,bot",1
+721,https://github.com/swt30/git-good.git,Sample repository to accompany a talk at .Astronomy 8,,1
+722,https://github.com/erinleeryan/1000ptcoauthor.git,A draft 1000 point plan for coauthorship of astronomy papers,,1
+723,https://github.com/David-Levinthal/Physics-and-Astronomy.git,lecture notes and papers on physics and astronomy,,1
+724,https://github.com/philna/Python-Space-Projects.git,Various Python scripts for space and astronomy projects,,1
+725,https://github.com/zkbt/craftroom.git,Lots of tiny tools that Zach uses for astronomy. ,,1
+726,https://github.com/nomadicvince/travelastronomy.git,"Travel Astronomy built with Gatsby, Contentful and Netlify",,1
+727,https://github.com/ivh/astroweb.git,putting a few astronomy tools onto the web,,1
+728,https://github.com/davidand36/libEpsilonDelta.git,"C++ classes and routines: general, math, astronomy, calendars, games",,1
+729,https://github.com/cardinot/kstars.git,"KStars is free, open source, cross-platform Astronomy Software.",,1
+730,https://github.com/simonpl/fetch_apod.git,Fetches the APOD (Astronomy picture of the day),,1
+731,https://github.com/jason-neal/spectrum_overload.git,An astronomy spectrum class with overloaded math operators.,,1
+732,https://github.com/GrantSlattery/nasaapod.git,React website for NASA Astronomy Picture of the Day ,,1
+733,https://github.com/jorgeAML/astronomypicture.github.io.git,an app where you can learn astronomy using amazon alexa,,1
+734,https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs.git,"🌌🔭Cross-identification of astronomy sources across observations, instruments and telescopes.","astronomy,cross-match,astronomical-catalogs,catalogue,hacktoberfest",1
+735,https://github.com/darasart/astronomy.in.th.git,This is the initiative repository for https://astronomy.in.th where it will be the open place for Thais to learn astronomy for free.,,1
+736,https://github.com/VLLT-joint-seminar-series/VLLT-joint-seminar-series.github.io.git,"The ""VLLT Joint Physics and Astronomy seminar"" series aims to bring together experts in different areas of Physics & Astronomy to discuss their research program and experience with undergraduate and graduate students at the VLLT department of the Faculty of Physics and Engineering Physics, University of Science, Vietnam National University Ho Chi Minh City. The aim is to give the students a glimpse at active research areas and to cultivate their passion for science. This series celebrates diversity and covers research topics in many fields, including but not limited to, High Energy Particle Physics, Quantum Physics, Condensed Matter Physics, Astrophysics & Astronomy and Space Physics.",,1
+737,https://github.com/OliverWilliamStaton/Astronomy.git,"Websites, Application, Scripts, and other software to support my hobby of Astronomy.",,1
+738,https://github.com/jason-neal/equanimous-octo-tribble.git,Random collection of scripts for astronomy and the like from my Phd.,,1
+739,https://github.com/rahuldave/newmyads.git,"A collaborative del.icio.us style bookmarker for astronomy, with tags and collaborations and vospace integration",,1
+740,https://github.com/CfA-Library/dotCfA.git,dotCfA: Collaborating for Astronomy. A community organized event hosted by Wolbach Library.,,1
+741,https://github.com/DaviAragao/appod.git,Pogressive Web App to the NASA Astronomy Picture of the Day.,"webapp,polymer,nasa,nasa-apod,firebase",1
+742,https://github.com/badhatharry/astropraktikum.git,Practical lessons in astronomy. This repo is for storing the protocol stuff. ,,1
+743,https://github.com/sebastian-aranda/Labeled-LDA-Spectral-Line-Classification.git,Labeled Latent Dirichlet Allocation model implementation for spectral line classification on ALMA Astronomy Datacubes,"llda,spectral-lines,topic-modeling,astronomy",1
+744,https://github.com/brunotad/projetoAPOD.git,"Projeto de desenvolvimento de uma página que exiba a ""Astronomy Picture of the Day"" da Nasa.",,1
+745,https://github.com/Punzo/SlicerAstroApp.git,Astronomy (HI) customization of 3DSlicer with SlicerAstro (https://github.com/Punzo/SlicerAstro),,1
+746,https://github.com/DougBurke/astroprop.git,Randomly generate Astronomy proposals from successful past proposals. What could go wrong?,,1
+747,https://github.com/sirmatt/nasa-api.git,"{""A single-page app using NASA's Astronomy Picture of the Day (APOD)""}",,1
+748,https://github.com/cdupree/castro.git,Python version of algorithms from Astronomy on the Personal Computer by Montenbruck and Pfleger,,1
+749,https://github.com/FoothillCSClub/AstronomyProjects.git,"{""Documentation, ideas, planning documents and other materials common to Prof. Geoff Mathews' astronomy teaching projects""}",,1
+750,https://github.com/elfensky/apod.git,"{""consuming and visualizing NASA's Astronomy Picture of the Day API using js""}",,1
+751,https://github.com/kollerlukas/NasaMuzei.git,Simple Muzei Source providing the Astronomy Picture of the Day by NASA,"kotlin,kotlin-android,muzei,android",1
+752,https://github.com/cgobat/hr-diagram.git,"Generates a visually appealing H-R diagram, a foundational visualization tool of modern astronomy.","astronomy,visualization,stars,data",1
+753,https://github.com/henrikef/mev-simulation-utilities.git,Collection of scripts etc. related to simulations for MeV gamma-ray astronomy.,,1
+754,https://github.com/haaakon/AstronomyPictureOfTheDay.git,A test driven iOS-app that shows photos from NASAs Astronomy Picture Of The Day,,1
+755,https://github.com/helixcn/skycalc.git,"{""Computational Astronomy in R based on PJ Naughter's AA+ library""}",,1
+756,https://github.com/ADACS-Australia/10_Astronomy_Things.git,"This is an adaptation of the ANDS 23 (research data) Things, repurposed for astronomy ",,1
+757,https://github.com/FareedKhanGithub/Angular-apod.git,"{""Using NASA's astronomy picture of the day(APOD) as an Angular application.""}",,1
+758,https://github.com/dbouquin/cite_astro_software_2019.git,Software associated with Credit Lost:  Two Decades of Software Citation in Astronomy,,1
+759,https://github.com/ajipandean/nasa-apod-calendar.git,Calendar-based Astronomy Picture of the Day from NASA. Stacks: Vue.js | Quasar,,1
+760,https://github.com/decaelus/BoiseState_SciComp_Workshop.git,"{""Boise State's Physics and Astronomy Club scientific computing discussion workshop""}",,1
+761,https://github.com/dschmenk/AstroHub.git,Attach all astronomy devices to one hub accessible over the LAN. For RaspberryPi and the ilk.,,1
+762,https://github.com/astro-britt/dataAnalysis_stats.git,A collection of Jupyter notebooks used in a Data Analysis in Physics and Astronomy course.,,1
+763,https://github.com/VPAbraham/astronomy-pic-otd.git,"VueJS practice project, utilizing the NASA API to display daily astronomy-related content.",,1
+764,https://github.com/pmturner2/APOD.git,Simple android app to view a stream of the Astronomy Picture of the Day from NASA,,1
+765,https://github.com/PAGSA/ThesisTemplate.git,Thesis Template based on UVic requirements redesigned with Physics and Astronomy in mind,,1
+766,https://github.com/oleg-milantiev/DarkSorter.git,"Astronomy Windows (dotnet 3.5) software to filter Dark files by temperature, iso, exposure time",,1
+767,https://github.com/amrutajaodand/AstroCapital.git,A community oriented project to host all tools that enable astronomy for researchers in one node. ,,1
+768,https://github.com/mesarcik/Wavelet_Libraries.git,Code Used for Performing Discrete Wavelet Based Interference Suppression for Radio Astronomy,,1
+769,https://github.com/valeriocarruba/Natastron.git,Repository for Nature astronomy paper on the internal structure of young asteroid families,,1
+770,https://github.com/fsicardir/apod.git,"A frontend in react for nasa\'s ""Astronomy Picture Of the Day"" API.","apod,nasa,react,astronomy,astronomy-picture,typescript",1
+771,https://github.com/nickk124/stellardatamining.git,Machine learning (unsupervised learning/data mining/clustering) final project for ASTR 519: Observational Astronomy,,1
+772,https://github.com/umrozeid/SAPA.git,Developing a Website for The Student Association for Physics and Astronomy (SAPA) at An-Najah University,,1
+773,https://github.com/astropenguin/astro-python-course.git,:rocket: Introductory course of Python and its libraries for data analysis in astronomy,"astronomy,python,jupyter-notebook,google-colab",1
+774,https://github.com/saxenaudit/Nasa_APOD_API.git,"{""Simpe WebApp implementation of NASA's APOD API (astronomy picture of the day)""}","nasa-api,api,javascript,jquery,css,html,markdown,astronomy-picture",1
+775,https://github.com/RoccoA97/University_assignments.git,"Assignments done during my bachelor and master university studies in Department of Physics and Astronomy, Padua","data-analysis,quantum-computing,machine-learning,statistics,python3,root,r,fortran",1
+776,https://github.com/slowe/dotAstroPlayer.git,"A web-interface for .Astronomy conference talks - displays slides, audio, video clips, synced tweets and notes.",,1
+777,https://github.com/SolarDrew/plasmapy-talk-NAM2017.git,"Talk on the PlasmaPy package, given at the National Astronomy Meeting, Hull 2017",,1
+778,https://github.com/excalith/apod-cli.git,"Fetch Astronomy Picture of the Day From Nasa, Right Into Your Terminal As ASCII Art","nasa,apod,npm,node,ascii,ascii-art,cli-app",1
+779,https://github.com/jlevine22/apod-react-native.git,APOD (Astronomy Photo Of the Day) viewer built with React Native,,1
+780,https://github.com/doryphores/pretty-apod.git,Pretty APOD - A pretty version of Astronomy Picture Of the Day (htttp://apod.nasa.gov),,1
+781,https://github.com/jarmar/apodget.git,"{""Python script to fetch NASA's astronomy picture of the day""}",,1
+782,https://github.com/rahulporuri/uniLocs.git,An interactive map of Universities and Labs worldwide pursuing research in Astronomy & Astrophysics,,1
+783,https://github.com/margaret-jihua/Astronomy-App.git,This is an app to view and store cool astronomy pictures ,,1
+784,https://github.com/jlevine22/apod-react-native.git,APOD (Astronomy Photo Of the Day) viewer built with React Native,,1
+785,https://github.com/forero/AstroSeminarUniandes.git,Summarizes the topics we have discussed in the Astronomy Seminar (AKA AstroLunch@Uniandes),,1
+786,https://github.com/pavlikva/astroolymp.git,Package for typesetting exercices of the Czech Astronomy Olympiad in LaTeX.,,1
+787,https://github.com/sdrios/nasa-api-full-stack.git,Full stack application utilizing NASA API to display Astronomy Image of the Day.,,1
+788,https://github.com/byggemandboesen/Astromate.git,A flutter app for simplifying astronomy observations with a python/Pyephem API,,1
+789,https://github.com/Shandilya21/astroX.git,An AI chatbot designed for astronomy and space enthusiast using Rasa,"rasa-nlu,rasa-chatbot,astronomy,space-science,rasa-core,conversational-ai",1
+790,https://github.com/tthrivik/astropi.git,This repository is for software for astronomy application in python using the Raspberry Pi,,1
+791,https://github.com/teefax/pacsparser.git,Parse the Physics and Astronomy Classification Scheme® (PACS) into something manageable,,1
+792,https://github.com/coleoala/space-pics.git,"{""Astronomy photo viewer built in React using NASA's APOD API""}",,1
+793,https://github.com/OlineRanum/Datadriven_Astronomy.git,"A series of 4 notebooks exploring tools like MCMC, neural nets osv. based on astronomy data",,1
+794,https://github.com/GITenberg/A-New-Astronomy_35261.git,"A New Astronomy by Todd, David Peck\n is a Project Gutenberg book, now on Github.",,1
+795,https://github.com/wlandsman/IDLAstro_dev.git,"Development version of IDL Astronomy library - for 8.5 or later, and *not* backwards compatiable",,1
+796,https://github.com/PCanton87/Ou2k16Hackathon.git,A project Tim Miller and I created for the Ou physics & astronomy departments first ever hackathon!,,1
+797,https://github.com/photodude/Joomla_Astronomer.git,Joomla Astronomer will be a extension / group of extensions for Astronomy research and observation.,,1
+798,https://github.com/DaveStrickland/SimplePracticalAstronomy.git,C++ implementation of Practical Astronomy With Your Calculator by Duffet-Smith,"c-plus-plus,amateur-astronomy,ephemerides",1
+799,https://github.com/MurylloEx/Astroware.git,An astronomy software that you can use to do what you want.,,1
+800,https://github.com/idilalemdar/apod.git,A small script to download and set wallpaper the Astronomy Picture of the Day of NASA.,,1
+801,https://github.com/Aarya-Patel/NasaAPOD.git,"{""Using NASA's Astronomy Picture of the Day (APOD) API to display some cool imagery.""}",,1
+802,https://github.com/Seifbarouni/React-APOD.git,A React app that displays the Astronomy Picture of the Day from the Nasa API,"react,astronomy-picture,nasa-api",1
+803,https://github.com/Open-Astrophysics-Bookshelf/introductory-topics.git,"Notes for a introductory undergraduate course in astronomy, organized around the theme ""Planets and Telescopes""",,1
+804,https://github.com/girishrajani/NASA-APOD-API.git,"{""Generating Astronomy picture of the day using Nasa's APOD API.""}",,1
+805,https://github.com/LucazzP/daily_nasa_photo.git,This app uses the open api of nasa to show the Astronomy picture of the day! ,,1
+806,https://github.com/NJU-Astrometry/Modern-Statistical-Methods-for-Astronomy.git,"{""Codes used for solving statistical exercises in Appendix C of ''Modern Statistical Methods for Astronomy''""}",,1
+807,https://github.com/nageshmv06/nasa-apod.git,Get random NASA Astronomy Pictures of the Day and display them. ,,1
+808,https://github.com/maxogden/dat-wise-stripe-82.git,imports the allwise astronomy catalog data\xa0via unwise.me for stripe 82 into dat,,1
+809,https://github.com/reaalkhalil/apod.git,"{""A short script to pull NASA's Astronomy Picture of the Day""}",,1
+810,https://github.com/maartenbreddels/mab.git,"Private repo used during my Astronomy Phd, including Schwarzschild modelling code",,1
+811,https://github.com/OrangeFlavoredDerek/APOD.git,An example Astronomy Picture of the Day(APOD) application using SwiftUI and Combine under iOS 14.,"swift,swiftui,swiftui-example,swiftui-learning,swiftui-demo,ios14",1
+812,https://github.com/PatoGordo/Rocket-Launches-API.git,This is a API to inform next launches and astronomy news.,"nextjs,api,next-api,rocket-launches",1
+813,https://github.com/brainstew927/apod.git,a simple client to view and download the astronomy pic of the day by NASA,"astronomy-pic,nasa,space,python,space-exploration",1
+814,https://github.com/johnbintz/ruby-avm-library.git,"Gem for parsing, manipulating, and serializing Astronomy Visualization Metadata (AVM) in the XMP format.",,1
+815,https://github.com/2016rshah/apod-extension.git,Chrome extension to show the latest Astronomy Picture of the Day,,1
+816,https://github.com/sgettel/science-in-paradise.git,Code from the 1st CfA Hack Day to analyze astronomy meeting statistics,,1
+817,https://github.com/paulmelnikow/apod-slack-lambda.git,"The Astronomy Picture of the Day via Slack, with a little help from AWS Lambda",,1
+818,https://github.com/jimkang/random-apod.git,Get a random Astronomy Picture of the Day with a little metadata.,,1
+819,https://github.com/ebeyrent/apod.git,Provides a Drupal 8 module that displays the current Astronomy Picture of the Day from NASA.,,1
+820,https://github.com/samwelkinuthia/Apod.git,Showcasing the astronomy picture of the day. View todays picture here,"nasa,apod,angular4,nasa-apod",1
+821,https://github.com/murilovidal/apod-telegram-bot.git,"{""A Telegram bot that sends the Nasa's Astronomy Picture of the Day - APOD.""}","apod,nasa,astronomy-picture,bot,apod-telegram-bot,typeorm,telegraf",1
+822,https://github.com/paulonteri/NASA.git,A website consuming the NASA api to show the Astronomy Picture of the Day.,"nasa,gatsbyjs,reactjs,nodejs,expressjs,cloud-functions,firebase",1
+823,https://github.com/astropenguin/ss-2020-proceedings.git,:page_facing_up: Proceedings for the astronomy/astrophysics summer school 2020,,1
+824,https://github.com/mefryar/apod.git,"{""Scripts to automatically update desktop background to NASA's Astronomy Picture of the Day""}",,1
+825,https://github.com/LASalvador/Exposure-Time-Calculator.git,A tool for Brazilians astronomers to use in the LNA (National Astronomy Laboratory).,,1
+826,https://github.com/viadee/cudapfb.git,An optimized GPU implementation of a polyphase filterbank in the context of radio astronomy,"cuda,gpu,fft",1
+827,https://github.com/jilkka/nasa-apod-powershell.git,"{""Set NASA's Astronomy Photo of the Day as your wallpaper using a PowerShell script.""}",,1
+828,https://github.com/ayannw/apod-js.git,"{""An API client for fetching NASA's Astronomy Picture Of the Day (APOD).""}",,1
+829,https://github.com/nirmalkar/nasa-api.git,A small app for showing NASA Astronomy Picture of the Day with image search functionality.,"nasa,nasa-apod,space",1
+830,https://github.com/mkherman/Quals2018.git,"{""My notes and resources for the UofT astronomy PhD program's general qualifying exam""}",,1
+831,https://github.com/monoid/gentoo-astronomy.git,This overlay is not maintained anymore. // My Gentoo overlay where I collect astronomy-related software.,,1
+832,https://github.com/shfengcj/pydm.git,pydm will be a python module for data mining in astronomy and other fileds,,1
+833,https://github.com/MarceloAlves/electron-nasa-apotd.git,"{""Electron app to update desktop wallpaper to NASA's Astronomy Picture of the Day""}","nasa-astronomy-picture,electron,desktop-wallpaper",1
+834,https://github.com/pkgw/rubbl-rxpackage.git,"Radio astronomy reduction utilities written in Rust, using the Rubbl framework",,1
+835,https://github.com/HWang-Summit/HCGrid.git,HCGrid is a convolution-based gridding framework for radio astronomy on hybrid computing environments,"astronomy,gridding,heterogeneous-computing",1
+836,https://github.com/Chofito/apodjs.git,ApodJS is an api wrapper for Nasa APOD (Astronomy Picture of the Day),,1
+837,https://github.com/Rahul218691/Nasa-APOD.git,Nasa Api integration that shows the astronomy pictures of the day.,,1
+838,https://github.com/Aditya9056/stellar_project_nasa.git,This Web App shows Astronomy Picture of the Day using NASA API.,,1
+839,https://github.com/colemanator/AstronomyConditions.git,Web App mush up using node.j express to display Astronomy Conditions Based on location,,1
+840,https://github.com/Absera/Astronomy.git,This is an android/ios app that teaches you Astronomy. Made with Flutter. Still in Developmnet.,,1
+841,https://github.com/dgamboa/astronomy-photo-of-the-day.git,"{""A simple React app leveraging NASA's API to showcase the astronomy picture of the day.""}",,1
+842,https://github.com/shfengcj/pydm.git,pydm will be a python module for data mining in astronomy and other fileds,,1
+843,https://github.com/monoid/gentoo-astronomy.git,This overlay is not maintained anymore. // My Gentoo overlay where I collect astronomy-related software.,,1
+844,https://github.com/MarceloAlves/electron-nasa-apotd.git,"{""Electron app to update desktop wallpaper to NASA's Astronomy Picture of the Day""}","nasa-astronomy-picture,electron,desktop-wallpaper",1
+845,https://github.com/mkherman/Quals2018.git,"{""My notes and resources for the UofT astronomy PhD program's general qualifying exam""}",,1
+846,https://github.com/pkgw/rubbl-rxpackage.git,"Radio astronomy reduction utilities written in Rust, using the Rubbl framework",,1
+847,https://github.com/HWang-Summit/HCGrid.git,HCGrid is a convolution-based gridding framework for radio astronomy on hybrid computing environments,"astronomy,gridding,heterogeneous-computing",1
+848,https://github.com/Chofito/apodjs.git,ApodJS is an api wrapper for Nasa APOD (Astronomy Picture of the Day),,1
+849,https://github.com/Rahul218691/Nasa-APOD.git,Nasa Api integration that shows the astronomy pictures of the day.,,1
+850,https://github.com/Aditya9056/stellar_project_nasa.git,This Web App shows Astronomy Picture of the Day using NASA API.,,1
+851,https://github.com/1noro/apod-dybg-py.git,A program to install in your PC and change daily the wallpaper of your GNOME Shell for the photo of the Astronomy Picture of the Day or the Amateur Astronomy Picture of the Day according to your preference.,,1
+852,https://github.com/vitaly72/AstronomyForKids.git,"Android application in Java on the topic: ""Educational application"" Astronomy for children "". This appendix contains theoretical materials for acquaintance with astronomy of the age group of 6-10 years (primary school) and also check of knowledge for their consolidation.","java,firebase,gson",1
+853,https://github.com/d80b2t/Astro10.git,These are the lecture note PDFs that I used for the ASTRO 10: Elementary Astronomy course when at Penn State. ,,1
+854,https://github.com/f-silva-archaeo/skyscapeR.git,"skyscapeR: an R package for data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy.",,1
+855,https://github.com/BrianaLane/Pandas_tutorial.git,A Jupyter notebook tutorial to get you started with Pandas (and some Astropy Tables) with astronomy examples,,1
+856,https://github.com/rocktronica/nasa_desktop.git,"A script to download NASA\'s ""Astronomy Picture of the Day"" and set it as the desktop background",,1
+857,https://github.com/scvalencia/SECCHI.git,"A program for galaxy classification, spectra pattern matching and in general using machine learning to shape astronomy via computer methods.",,1
+858,https://github.com/AVS1508/nasa-apod-gallery-app.git,"{""ReactJS application for displaying NASA's Astronomy Picture of the Day, fetching data from NASA APoD API.""}",,1
+859,https://github.com/robertfwilson/redduck.git,A python package that wraps a bunch of other related astronomy packages used to reduce and analyze optical data,,1
+860,https://github.com/mb010/EquivariantSelfAttention.git,"An implementation of Equivariant e2 convolutional kernals into a convolutional self attention network, applied to radio astronomy data.",,1
+861,https://github.com/nlewis84/farout-frontend.git,Vote on your favorite NASA Astronomy Photo of the Day. Backend is https://github.com/nlewis84/farout-backend,"react,nasa-api",1
+862,https://github.com/tanu272/NASA-APOD.git,"{""A page that scrapes NASA's Astronomy Pictures of the Day and allows you to save your favourite selections""}",,1
+863,https://github.com/idleberg/Little-Printer-APOD.git,"{""A little web app that brings NASA's Astronomy Picture of the Day to your Little Printer""}","little-printer,bergcloud,astronomy-picture,apod",1
+864,https://github.com/melodyplan/APODsearch.git,"{""A calendar that uses NASA's Astronomy Picture of the Day API in a more minimalist, functional, and prettier way.""}",,1
+865,https://github.com/ritsource/houseofbosons.git,"House-of-Bosons is a Science-blog on Physics, Math, Astronomy & More. The repository contains code for HOB-website.",,1
+866,https://github.com/Mohammed-Adnan-MA/miniProject.git,"Enter Any date after the year 1995, and it will return to you an APOD (Astronomy Picture of the Day) ",,1
+867,https://github.com/nikola310/Astronomy.git,Project for astronomy seminar at Petnica science center. Document Venus.pdf contains results as well as thesis,,1
+868,https://github.com/camieac/astronomy-scraper.git,Scrape the web for weather/lunar/pollution conditions to determine the best days and locations for astronomy.,,1
+869,https://github.com/megk96/DLGalaxyMorph.git,Using Deep Learning tools in Galaxy Morphology as part of Inter-University Center for Astronomy and Astrophysics (IUCAA),"deep-learning,galaxy-morphology",1
+870,https://github.com/cran/astrolibR.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  astrolibR\xa0—\xa0Astronomy\xa0Users\xa0Library  ,,1
+871,https://github.com/annayqho/Notes_Radio_Astronomy.git,"Notes from my attempt to learn radio astronomy, including many from the 2016 NRAO Synthesis Imaging Summer School. ",,1
+872,https://github.com/astrocatalogs/astroschema.git,"Package defining schema relevant to astronomy and astrophysics data, providing useful interfaces for interaction with those schema.","astronomy,astrophysics,json-schema,avro,json,avro-schema,data-structures,data-science",1
+873,https://github.com/nlewis84/farout-backend.git,Vote on your favorite NASA Astronomy Photo of the Day! Frontend is https://github.com/nlewis84/farout-frontend,"rails,api,backend",1
+874,https://github.com/chstan/APOD-File-Downloader.git,"{""A script for downloading all the pictures of significance off NASA's Astronomy Photo of the Day""}",,1
+875,https://github.com/LeetalC/CosmicClicker.git,"This is my first game ever. Made in Unity, CosmicClicker is an idle clicker game based on Astronomy. ",,1
+876,https://github.com/chriswood/Toroid.git,"A web based app to store/work on/display some cool math and stuff, mostly related to physics/astronomy",,1
+877,https://github.com/tylerd81/nasa-apod.git,"{""A Flutter app that uses NASA's Astronomy Picture of the Day API to display the pictures.""}",,1
+878,https://github.com/kirksudduth/web_scraping.git,"{""I wrote a program using beautifulsoup to extract an image from NASA's Astronomy Picture of the Day web page.""}",,1
+879,https://github.com/linanqiu/astr-1404-notes.git,"Notes for Astronomy 1404 Stars, Galaxies, and Cosmology. Felt like I needed to contribute to the class in penance for not attending class an entire semester.",,1
+880,https://github.com/federatedcloud/FRB_pipeline.git,"A customizable scientific software pipeline for detecting, categorizing, and viewing single pulse candidates that may be Fast Radio Burst (FRB) sources in Radio Astronomy data.","astronomy,science,radio-astronomy,configurable",1
+881,https://github.com/olokobayusuf/Stellar-Visage.git,Stellar Visage is an educational application built for teaching physics and astronomy in K-6. Built for the 2015 NASA International Space Apps Hackathon.,,1
+882,https://github.com/shrki416/NASA-APOD.git,"{""A small application that displays NASA's astronomy picture of the day.  This app uses NASA APOD API, is made with REACT and hosted on NETLIFY.""}","react,nasa-api,netlify",1
+883,https://github.com/mkcyoung/astro-vis-survis.git,A digital collection of the papers surveyed for our yet-to-be-named survey of visualization efforts in astronomy. Created using SurVis: https://github.com/fabian-beck/survis,,1
+884,https://github.com/lapsedPacifist/novas-java-core.git,NOVAS-JAVA is a pure Java translation of the NOVAS-C code from the Naval Observatory for computing various quantities in positional astronomy.,,1
+885,https://github.com/akberg/AstronomyAutomator.git,"Source code of the 2016/17 astronomy and programming project at Horten videregående skole, made for observation for the ESA PLATO project (2007 - 2024).",,1
+886,https://github.com/joshp23/TTRSS-APOD-Fix.git,"{""A simple plugin to assist in the display of images from NASA's Astronomy Picture of the Day feed in TT-RSS""}","ttrss,tt-rss,apod,nasa,nasa-apod",1
+887,https://github.com/mDDop/NasaApi.git,This is a WebApplication finding asteroids near Earth at specific date and displaying NASA Astronomy Picture of the Day with description. ,,1
+888,https://github.com/sundharvs/NASA-APOD-FlaskApp.git,"{""Flask app to display NASA's Astronomy Picture of the Day for any given date, and output the result as a PDF""}",,1
+889,https://github.com/nani8ot/GetAPOD.git,"A little Java Program, which can download the newest ""Astronomy Picture of the Day"" from apod.nasa.gov. Useful for a Diashow or Wallpapers.",,1
+890,https://github.com/acviana/AstroGitHub.git,Text and exploratory code using the Git API to explore how the Astronomy community uses GitHub and how it could be improved.,,1
+891,https://github.com/cjordan/astro-scripts.git,"{""Some tools astronomers might find useful. There is an emphasis on Australian radio astronomy - software such as MIRIAD and karma's kvis are extensively used.""}",,1
+892,https://github.com/jolinarodriguez/Master-en-Astronomia-.git," Provide students with a detailed understanding  of current themes in astronomy, including the  composition of the universe and the most modern  observational techniques used to explore the cosmos. ",,1
+893,https://github.com/JordynRachelThompson/GiveMeSpaceApi.git,"{""Returns NASA's astronomy picture of the day and Curiosity data and most recent pictures. Can also query pictures by date.""}",,1
+894,https://github.com/epowelldev/p01-on-this-day-in-space.git,"Enter a date and get the astronomy picture of the day, as well as space launches on or surrounding the date entered.",,1
+895,https://github.com/EnduringBeta/APODBackground.git,A short program built for Windows 7/10 that will replace the background with the current Astronomy Picture of the Day. Place in Startup folder for daily updates.,,1
+896,https://github.com/rcywang/BL1U-Simulation-Code.git,Corresponding simulation code for work done on beamline 1U optimization at TRIUMF. Completed in part of an undergraduate thesis for the Combined Honours in Physics & Astronomy program.,,1
+897,https://github.com/CARTAvis/carta-archived.git,"CARTA stands for Cube Analysis and Rendering Tool for Astronomy, a new visualization tool designed for the ALMA, the JVLA and the SKA.",,1
+898,https://github.com/RononDex/DiscordAstroBot.git,"{""An advanced Discord bot to help with anything that is astronomy related (platesolving, image analysis, astronomical weather forecast, get information on DSO's, ...)""}","discord-bot,astronomy,astrophotography,c-sharp,bot,chatbot",1
+899,https://github.com/nicolasiensen/apod-wallpaper.git,Astronomy Picture of the Day Wallpaper is a cross-platform desktop application that automatically changes your wallpaper to an amazing cosmic picture of the day ✨,,1
+900,https://github.com/oalejel/WWDC-18-Playground.git,"{""Winner of WWDC'18 Scholarship! This Physics Playground explores astronomy, musical frequencies with tuning forks, and most excitingly, stop-motion animation!""}",,1
+901,https://github.com/pme5vc/Senior-Thesis-May2018.git,Repository containing my code and write-ups for my Senior Thesis for the Astronomy-Physics BS Major at the University of Virginia.,,1
+902,https://github.com/morriscb/Weigh-SEY.git,Astronomy code for empirically estimating the contribution to galaxy over-density from systematic effects. See Morrison & Hildebrandt 2015 for details on the method.,,1
+903,https://github.com/bramochsendorf/n79.git,"{""Data and analysis scripts supporting the plots and findings in the Nature Astronomy letter 'The star-forming complex N79 as a future rival to 30 Doradus'""}",,1
+904,https://github.com/Brocklobsta/change_wallpaper.git,"Use the recent ""Astronomy Picture of the Day"" by NASA as your desktop wallpaper (Python script for Mac OS X, should be easy do adapt for Linux or Windows)",,1
+905,https://github.com/Eigenajeet/NewMathematicaPortfolio.git,"A collection of Mathematica models I have made to visualize concepts in Mathematics, Physics, and Astronomy. You can visit my website https://sites.google.com/nyu.edu/ajeetgary/mathematica-portfolio for a description of the different projects!",,1
+906,https://github.com/sagnew/PicturesFromMars.git,"An iOS app that displays the ""Astronomy Picture of the Day"" from NASA\'s API. Built as an example of how to send HTTP requests with AlamoFire in Swift",,1
+907,https://github.com/magnue/WebObservatory.git,"A webapp to show off your astronomy images, write about your observatory (or portable setup), show up to date weather for your site from Clear outside and YR, and blog about your observations and experiences.",,1
+908,https://github.com/stephanbaker/go-nasa.git,"{""Assists in the retrieval of data from some of NASA's APIs, including their Astronomy Picture of the Day (APOD) API.  For more information, see https://api.nasa.gov/api.html#apod.""}",,1
+909,https://github.com/AbhiDhir/DSO-Information.git,"This is a website created for the science olympiad event, astronomy. This website was made using HTML, CSS, and Javascript and contains information for the 2017-2018 Deep Sky Objects.",,1
+910,https://github.com/niu541412/APOD_Mac_Daily.git, A script that works together to download the astronomy picture of the day (also know as APOD) and set it as the current desktop wallpaper in Mac OS X.,"apod,wallpaper,nasa",1
+911,https://github.com/willekemulder/MScThesis.git,"This repository is an addition to my Master Thesis in the field of Astronomy. The thesis is called ""A data science system for Astrometry with an Evolving Reference System"" and combined data science with the specific astronomical field astrometry.",,1
+912,https://github.com/rjsmethurst/ebvpy.git,A python astronomy function to calculate the E(B-V) reddening value for a source at a specific location on the sky using the Schlegel et al. (1998) dust maps,,1
+913,https://github.com/brechtlaperre/DTW_measure.git,"{""Code used to recreate the experiments in the paper 'Dynamic Time Warping as a New Evaluation for Dst Forecast with Machine Learning', published in Frontiers Astronomy and Space Sciences.""}","dtw-algorithm,dst-index,machine-learning,python",1
+914,https://github.com/pXlor/Siril-0.9.git,"{""Siril is an image processing tool specially tailored for noise reduction and improving the signal/noise ratio of an image from multiple captures, as required in astronomy. This repository is forked from lock042's original repository.""}",,1
+915,https://github.com/UMKCgeg/Wiki.git,"This is the wiki for the UMKC Galaxy Evolution Group. It contains information about how to do many of the things we do in everyday astronomy, as well as other handy resources.",,1
+916,https://github.com/tomstamm/Red.git,"{""Astronomy Utility  to red (or green) ramp the video gamma table on a Macintosh to protect scotopic vision (night vision) while working in the dark.  It's more than a program, Its a Feature!""}",,1
+917,https://github.com/willkitay/Quasar.git,"{""An iOS app that provides space-related image feeds such as NASA's Astronomy Picture of the Day, the Mars rovers, rocket launches by SpaceX and images captures by the Hubble Telescope among others.""}",,1
+918,https://github.com/AstroJuniorResearcherMeetings/JRM_2013.git,These materials were created/compiled to help students with the learning process for doing research. They are part of a series of discussions held at the University of Utah Department of Physics and Astronomy,,1
+919,https://github.com/SayanChaki/Starscape-Module.git,"The following Python Module is an Astronomy repository using ideas of Image Segmentation to filter/contour out images of stars from star clusters or any Astronomical data clicked by professional telescopes based on the brightness of stars, redshift and temperature. It hosts a temperature database that maps a temperature in Kelvin to a well calibrated RGB value.",,1
+920,https://github.com/obbap1/nasa-explorer.git,"Uses the NASA API to explore the Mars Rover Photos API, APOD (Astronomy Picture of the Day) API, DONKI (Space Weather Database of Notifications, Knowledge, Information) API,   EPIC (Earth Poly chromatic Imaging Camera API), Imagery API,  Genelab Search and The NASA Image and Video Library",,1
+921,https://github.com/rojerthat07/Universe-Site.git,"A Educational Website that gives informations about our Universe and the other astronomy stuff like Galaxies, Stars, Planets, etcetera. The goal of the site is to give insight on how enourmous our universe is and how we are extremely lucky to live.",,1
+922,https://github.com/RadioAstroRAG/RadioAstroScatterthon.git,"Scatterthon is a C# windows forms application for Radio Astronomy enthusiasts to perform basic analysis and visualisation of Meteor Shower events, captured by Spectrum Lab Software. It exports an RMOB format file for use by international meteor observing groups and interested individuals.",,1
+923,https://github.com/azer0m/Gravitational-Wave-Audiofication-and-Instrument-Classification.git,"This was my final project for Astro 9: Python Programming in Astronomy. I researched the applications of the Fourier Transform in audio analysis and used Nyquist sampling to ""audiofy"" LIGO strain data, representative of detected gravitational waves. Additionally, I built a classifier using Fourier Analysis to categorize sound files as A4, F3, or F4 pitches.",,1
+924,https://github.com/pyhtonman0101/Ask_me_Anything.git,"This program help you to ask any question. In this program we have made a software which answer all the queries from wolframe alpha API and wikipedia API. mathematics, astronomy, technology, business, economy etc. all the queries you can solve with this program.",,1
+925,https://github.com/hellgrenj/apod-wp.git,"a simple cli tool that fetches the latest high resolution APOD (Astronomy Picture Of the Day) from NASA, writes the explanation (written by a professional astronomer) on the image and sets it as your desktop wallpaper. works on windows, linux and mac.",,1
+926,https://github.com/oopfan/astro-dark-frame-library-manager.git,"To achieve the finest astronomy images with a telescope and uncooled CMOS camera, astrophotographers need to match the temperature of Light frames and Dark frames. The solution presented here will minimize the impact of thermal noise in your final stack and thwart the effects of Raining Noise. Furthermore it will facilitate the creation of a Darks Library which will free your time under the stars to concentrate on the acquisition of Light frames.",,1
+927,https://github.com/baldm0mma/NASA_APOD_vue.git,"This project was takehome code challenge. The prompt goes as follows: ""Build a single-page application in Vue.js that queries the NASA Astronomy Picture of the Day API and displays the day\'s image. The application should include a way to view each of the current month\'s pictures (it\'s okay if the month only has 1 photo so far, for example if it\'s the first of the month), and a way to return to the current day\'s picture. Be creative with how you present the collections - think about the experience of the viewer with what they want to view and learn.""",,1
+928,https://github.com/friday7/exoplanet-detection.git,"Exoplanets are defined as planets orbiting a star outside our solar system. There have been considerable improvements over the past decades in the detection of exoplanets. NASA launched the Kepler satellite in 2009 with the mission to hunt exoplanets. The data gathered by the satellite have been made publicly available by NASA in an attempt to increase development in the field of astroinformatics, a crossdisciplinary field consisting of astronomy, data science and informatics. This has led to increased contribution in detecting exoplanets among non-exoplanets. In this paper, we explore various techniques to detect exoplanets using the intensity of light captured by Kepler space telescope. The dimming in flux (light intensity) of the stars indicates an orbiting body around that star. We perform preliminary analysis and prepare the data to be fed in to our data mining models. We have used multiple models to efficiently classify the exoplanets. The first model, H2O’s Deep Learning, is based on a multi-layer feedforward artificial neural network. We have then performed the Gradient Boosting technique using XGBoost algorithm, an ensemble technique that works on the concept of Decision Tree and Bootstrap Aggregation. Finally, we have used Convolutional Neural Network, a Black Box method, to classify the exoplanets. This paper will provide the results, model performance and efficiency of the various algorithms used to detect such exoplanets. ",,1
+929,https://github.com/aliaryan/satellite-orbit-prediction.git,"Predicting the position of satellites is one of the big challenges in astronomy. More than 500,000 pieces of debris are tracked as they orbit the Earth. They all travel at speeds up to 28163.52 km/hour, fast enough for a relatively small piece of orbital debris to damage a satellite. If space debris hits the satellite it would result in the creation of more debris. According to NASA, there are more than 3,000 satellites currently revolving around the earth’s orbit. If most of these satellites are damaged as a result of space junk, it will result in the creation of more space debris that will lead to Kessler syndrome. The existing SGP4-simulator in the satellite predicts the position of the satellite before but it’s an approximation. The solution can be to create a machine learning model that learns from the historical publicly available data that contains simulated coordinate data and the true coordinate data and predicts the value which has less error as compared to SGP4-simulator. We will be using gradient boosting in this project. The machine learning model will lie somewhere in between the simulated value and the true value and thus will be suited well enough to improve the existing model. The accuracy of the existing model will be increased.",,1
+930,https://github.com/lucaambrosio/TSP.git,"The travelling salesman problem (TSP) asks the following question: ""Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?"" It is an NP-hard problem in combinatorial optimization, important in operations research and theoretical computer science.  The travelling purchaser problem and the vehicle routing problem are both generalizations of TSP.  In the theory of computational complexity, the decision version of the TSP (where, given a length L, the task is to decide whether the graph has any tour shorter than L) belongs to the class of NP-complete problems. Thus, it is possible that the worst-case running time for any algorithm for the TSP increases superpolynomially (but no more than exponentially) with the number of cities.  The problem was first formulated in 1930 and is one of the most intensively studied problems in optimization. It is used as a benchmark for many optimization methods. Even though the problem is computationally difficult, a large number of heuristics and exact algorithms are known, so that some instances with tens of thousands of cities can be solved completely and even problems with millions of cities can be approximated within a small fraction of 1%.[1]  The TSP has several applications even in its purest formulation, such as planning, logistics, and the manufacture of microchips. Slightly modified, it appears as a sub-problem in many areas, such as DNA sequencing. In these applications, the concept city represents, for example, customers, soldering points, or DNA fragments, and the concept distance represents travelling times or cost, or a similarity measure between DNA fragments. The TSP also appears in astronomy, as astronomers observing many sources will want to minimize the time spent moving the telescope between the sources. In many applications, additional constraints such as limited resources or time windows may be imposed.",,1
+931,https://github.com/LambdaSchool/ios-afternoon-project-astronomy-objc.git,Astronomy Project using Objective-C and Swift,,0
+932,https://github.com/LambdaSchool/ios-module-project-apod.git,Astronomy Picture of the Day,,0
+933,https://github.com/wkerzendorf/cassis.git,Atomic Database for Astronomy,,0
+934,https://github.com/nmarosan/astr-302-w20.git,Astronomy 302: Python for Astronomy (Winter 2020 edition),,0
+935,https://github.com/astro-soton/astroweb.git,Developing the Southampton astronomy department website,,0
+936,https://github.com/dfm/yobot3k.git,Yo-ing the astronomy facts!,,0
+937,https://github.com/ttfnrob/botastro.git,An astronomy hubot app,,0
+938,https://github.com/jni/programming-languages-in-astronomy.git,Analysis of programming language mentions in astronomy papers in ADS,,0
+939,https://github.com/etsmit/seraproject.git,Software-Enabled Radio Astronomy,,0
+940,https://github.com/privong/easyuvathesis.git,LaTeX template for a UVa Astronomy Dissertation,"dissertation,university-of-virginia,latex-template",0
+941,https://github.com/igorandreoni/snippets.git,Collection of useful astronomy snippets,,0
+942,https://github.com/karthikmohan/NASA---APOD.git,"An Android app for viewing NASA\'s daily photos for the ""Astronomy Picture of the Day""","apod,nasa-apod,nasa-potd,potd,android,kotlin,nasa,videos,astronomy-picture",0
+943,https://github.com/UWPreMAP/PreMAP2016.git,Pre-Major in Astronomy Program: Cohort 12,,0
+944,https://github.com/rfinn/obsastro.git,observational astronomy python notebooks,,0
+945,https://github.com/ernewton/ernlib.git,Tools for astronomy,,0
+946,https://github.com/jdalcanton/A512-Spring-2019.git,Material for Extragalactic Astronomy,,0
+947,https://github.com/ilovetheuniverse/ilovetheuniverse.git,Art inspired by Astronomy,,0
+948,https://github.com/linan7788626/cosmonet.git,Deep Neural Net Demos of Applications to Cosmology and Astronomy,,0
+949,https://github.com/Stony-Brook-Astronomy/astro_webpage.git,The webpage for the Stony Brook Astronomy group,,0
+950,https://github.com/moeyensj/ast597b.git,Big Data in Astronomy: Introduction to Large Surveys (Winter 2015 UW course),,0
+951,https://github.com/STAC-IITMandi/Blog.git,Blog page of Space Technology and Astronomy Cell (STAC) - IIT Mandi,"stac,jeykll,blog",0
+952,https://github.com/timstaley/jabref-astro-abbreviations.git,Jabref journal name abbreviations for astronomy,,0
+953,https://github.com/AstroFloyd/astroTools.git,Command-line tools for astronomy and astrophysics,,0
+954,https://github.com/astronomy/astroTools.git,Command-line tools for astronomy and astrophysics,,0
+955,https://github.com/marando/AstroDate.git,A PHP Date/Time class with useful Astronomy related functionality (currently in development),,0
+956,https://github.com/Athanaseus/drasticali.git,Diverse radio astronomy software tools for imaging and calibration,,0
+957,https://github.com/GlennGroupUCB/submm_python_routines.git,Python routines for submm instrumentation astronomy at the University of Colorado Boulder,"kinetic,inductance,detectors,attenuator,multitone,astronomy,instrumentation,interactive-plots",0
+958,https://github.com/julesfowler/dot-astro-flask-demo.git,A flask demo for the .Astronomy X conference. ,,0
+959,https://github.com/radio-astro/docker-notebook.git,dockerized ipython notebook used for viewing radio astronomy datasets,,0
+960,https://github.com/abigailbishop/AST443-F18-BBY.git,Astronomy 443 Fall 2018 Group Repository - For scripts,,0
+961,https://github.com/jeffcampbell/apod-slack.git,"{""Get NASA's Astronomy Picture of the Day in Slack""}",,0
+962,https://github.com/WillArmentrout/dotAstroGraveyard.git,Website showing forgotten or failed hacks from .Astronomy.,,0
+963,https://github.com/OnurKaral/Discover-The-Universe.git,Astronomy Picture of the Day on a mobile phone ,,0
+964,https://github.com/mesarcik/DL4DI.git,Code for Deep Learning Assisted Data Inspection for Radio Astronomy,,0
+965,https://github.com/AstronomiPPK/astronomippk.github.io.git,astronomy,,0
+966,https://github.com/Ajay-Singh-Ratnawat/mathematician.git,Astronomy,,0
+967,https://github.com/deepeshpatel/Astronomy.git,Astronomy,,0
+968,https://github.com/computerchi/estihlalkwt.git,Astronomy ,,0
+969,https://github.com/JagdeepSing/Astr300-A17.git,"Astronomy 300, Python for Astronomy.",,0
+970,https://github.com/daniellemullan/danielle.git,astronomy,,0
+971,https://github.com/Habibalamsya130/HNA.git,Astronomy,,0
+972,https://github.com/amarnathrana11/spacescience.git,astronomy,,0
+973,https://github.com/hashimoto0106/Astronomy.git,Astronomy,,0
+974,https://github.com/ivyleigh04/GitHub-Planets.git,Astronomy ,,0
+975,https://github.com/rahulyhg/astro-9.git,Astronomy,,0
+976,https://github.com/felicitimilne/AstroCitizen.github.io.git,Astronomy,,0
+977,https://github.com/PrestonStyles/study_folder_101.git,astronomy,,0
+978,https://github.com/SKY8888GR/emmanuel-orion.git,astronomy,,0
+979,https://github.com/azbyc2610/Astronomy.git,Astronomy,,0
+980,https://github.com/DavidMcR/Astronomy.git,Astronomy,,0
+981,https://github.com/abhisekhadhikari/planets.git,Astronomy,,0
+982,https://github.com/amarnathrana11/spacescienc.git,astronomy,,0
+983,https://github.com/faisal089/ASTRONOMY.git,ASTRONOMY,,0
+984,https://github.com/TSAMBALI/planets.git,astronomy,,0
+985,https://github.com/ameya-chess-astronomy/ameya.git,Astronomy,,0
+986,https://github.com/Saharayang/TOA.git,Astronomy,,0
+987,https://github.com/astrollytelling/astrollytelling.github.io.git,Astronomy + Scrollytelling: Astronomy through visual stories,,0
+988,https://github.com/wenruiliau/Wen-Rui.git,Astronomy Website for VJ Astronomy Club,,0
+989,https://github.com/LakeMatt/LakeMatt.github.io.git,"Progetto ""Astronomy""",,0
+990,https://github.com/lukewendling/metamask-auth.git,Setec astronomy,,0
+991,https://github.com/m17q2/astronomy.git,astronomy piplelines,,0
+992,https://github.com/ari-abr/api-data-to-table-converter-app.git,Astronomy app,,0
+993,https://github.com/Eamon02/X1.git,Astronomy Guide,,0
+994,https://github.com/meeladavis/apod.git,Astronomy pod,,0
+995,https://github.com/SarahRadulovich/CelestialView.git,Astronomy project,,0
+996,https://github.com/luminaire-dev/luminaire.git,Astronomy Forecast 🔭. 🌌,"astronomy,stars,stargazing,weather,forecast",0
+997,https://github.com/dickreuter/astronomy.git,Astronomy work,,0
+998,https://github.com/askielboe/astro_equations.git,Astronomy Equations,,0
+999,https://github.com/theassyrian/seatec-astronomy.git,seatec astronomy,,0
+1000,https://github.com/Dineshs91/astronomy.git,Astronomy api,,0
+1001,https://github.com/jflatby/AST2210.git,Observational Astronomy,,0
+1002,https://github.com/ari-abr/astro-api-app1.git,Astronomy API,,0
+1003,https://github.com/MeDoan/astro.medoan.git,Astronomy Website,,0
+1004,https://github.com/jmtyszka/astrokit.git,Astronomy utilities,,0
+1005,https://github.com/navneetnipu/astronomy.git,astronomy research,,0
+1006,https://github.com/KayaPlanet/Xtinct.git,Radio Astronomy,,0
+1007,https://github.com/helland/AST2210.git,Observational Astronomy,,0
+1008,https://github.com/tranduong12893/Eproject-5underground-Website-astronomy.git,Website-astronomy,,0
+1009,https://github.com/Kuuskinen/Bellatrix.git,Astronomy software,,0
+1010,https://github.com/jschmidtnj/astronomy.git,astronomy class,,0
+1011,https://github.com/ambrosehundal/astroworld.git,Everything astronomy,,0
+1012,https://github.com/edreichua/astronomy.git,Astronomy lab,,0
+1013,https://github.com/kiadorii/MACS0647Project.git,Astronomy Research,,0
+1014,https://github.com/NickD1/AstroEngineer.git,Astronomy Programs,,0
+1015,https://github.com/vyvee/practical-astronomy.git,Practical Astronomy,,0
+1016,https://github.com/SagittariusA-Star/AST4310.git,Radiative Astronomy,,0
+1017,https://github.com/panzhiwei1997/Stellar-Astronomy.git,Stellar Astronomy,,0
+1018,https://github.com/helasraizam/helasraizam.github.io.git,Astronomy 101,,0
+1019,https://github.com/anarayan092019/astro1.git,Astronomy Related,,0
