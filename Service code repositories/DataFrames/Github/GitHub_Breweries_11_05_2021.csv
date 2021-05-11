@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/Stiivi/brewery.git,IMPORTANT: Data Brewery is now Bubbles: https://github.com/stiivi/bubbles This brewery repository is NOT MAINTAINED any more.,,135
+1,https://github.com/blevesearch/beer-search.git,example bleve application for indexing and search beers and breweries,,71
+2,https://github.com/openbeer/world.git,"Free open public domain beer, brewery n brewpub data",,65
+3,https://github.com/BrewBench/monitor.git,BrewBench Monitor is a homebrew and brewery controller and fermentation monitor,"arduino,monitor,brewing,beer,controller",55
+4,https://github.com/openbrewerydb/openbrewerydb.git,"🍻 An open-source dataset of breweries, cideries, brewpubs, and bottleshops.","breweries,dataset,hacktoberfest,csv,json,sql,typescript",54
+5,https://github.com/openbrewerydb/openbrewerydb-gatsby.git,Official Open Brewery DB website built with Gatsby,"gatsby,hacktoberfest,documentation",53
+6,https://github.com/springframeworkguru/mssc-brewery.git,Spring MVC Brewery Microservice,,29
+7,https://github.com/springframeworkguru/ssc-brewery.git,Spring Security Core Brewery,"spring,spring-boot,springmvc,springsecurity",27
+8,https://github.com/alexander-young/brewlala.git,A simple brewery finder project,,24
+9,https://github.com/BrewBlox/brewblox-ui.git,single page app as frontend for brewery control built with Vue.js and Quasar,,23
+10,https://github.com/jangevaare/brew2.git,A sophisticated brewery control dashboard using node-red,"node-red-project,node-red,homebrewing,process-control,pid",18
+11,https://github.com/ferakpeter/6beers-cms-client.git,"This the app for a local brewery (www.6beers.at) written in ReasonML. It uses bs-director for routing, and bs-fetch and bs-json for calling an API.",,18
+12,https://github.com/openbrewerydb/openbrewerydb-rails-api.git,Official v1 Open Brewery DB REST API built with Ruby on Rails,"rails,api-rest,hacktoberfest",16
+13,https://github.com/springframeworkguru/mssc-brewery-client.git,Spring MVC Brewery Client,,15
+14,https://github.com/mezzoblue/canadian-craft-breweries.git,Canadian Craft Breweries,,15
+15,https://github.com/amolenaar/brewberry-pi.git,Home brewery automation the smart way,"elixir,nerves,firmware,brewing-beer,embedded,raspberry-pi",15
+16,https://github.com/openbeer/openbeer.github.io.git,"Open Beer, Brewery n Brewpubs Data (beer.db) Web Site",,15
+17,https://github.com/chrisjm/openbrewerydb-website.git,Open Brewery DB website with brewery search React app (Deprecated),,14
+18,https://github.com/ErinMorelli/em-beer-manager.git,Manage your beers with WordPress. Integrates simply with Untappd beer checkins. Great for everyone from home brewers to professional breweries!,"untappd,beer,wordpress,wordpress-plugin,untappd-api,beers,plugin,brewing,brewery,shortcode,widget",14
+19,https://github.com/dataintoresults/data-brewery.git,"Data Brewery is an ETL (Extract-Transform-Load) program that connect to many data sources (cloud services, databases, ...) and manage data warehouse workflow.","etl,datawarehouse,data-engineering,data-warehouse,elt",14
+20,https://github.com/kegged/client.git,A social media app driven by user activity to discuss and discover breweries and brews around North Carolina.,,12
+21,https://github.com/openbeer/us-united-states.git,"Free open public domain beer, brewery n brewpub data for the United States / North America",,12
+22,https://github.com/springframeworkguru/tsbb2b-sfg-brewery.git,Testing Spring Boot B2G SFG Brewery,,11
+23,https://github.com/redhat-developer-demos/brewery.git,The repository to hold the Spring Cloud Brewery application which will be deployed to OpenShift/Kubernetes,"kubernetes,spring,openshift,microservices,demos",11
+24,https://github.com/openbeer/at-austria.git,"Free open public domain beer, brewery n brewpub data for Austria (Österreich) / Europe","beer,austria,vienna,wien,salzburg,graz,linz,bier,opendata,publicdomain,brewery",10
+25,https://github.com/sfg-beer-works/brewery-monolith.git,SFG Brewery Monolith,,9
+26,https://github.com/jrbourbeau/openbrewerydb-python.git,Python wrapper for the Open Brewery DB API,"python,data,beer",9
+27,https://github.com/RescueThemes/beer-directory.git,"This plugin allows home brewers, professional breweries, and beer afficianadoes to enter individual beer, beer categories, and beer details. It provides a shortcode that will allow for display management.\n\nBeer Directory is a WordPress plugin that creats a custom post which allows home brewers, professional breweries, and beer afficianadoes to enter individual beer, beer categories, and beer details. It provides a shortcode that will allow for display management.",,9
+28,https://github.com/Chris00/color_brewery.git,Color brewery — provides color palettes and color interpolation,,9
+29,https://github.com/JasonFritsche/BreweryFinder.git,Find breweries all over the country,,8
+30,https://github.com/DataBrewery/databrewery.github.io.git,Brewery Home Page,,8
+31,https://github.com/lukexyz/CraftVision.git,:eyeglasses: Craft brewery identification,,8
+32,https://github.com/jones139/BrewMap.git,The client and server side code to produce a map of uk breweries based on OpenStreetMap Data (http://wiki.openstreetmap.org/wiki/WikiProject_United_Kingdom_Breweries),,7
+33,https://github.com/striking-lunatics/buzzFinder.git,An application that helps you find great local beers and breweries!,,6
+34,https://github.com/alexstandiford/easy-age-verifier.git,"{""A simple age verification modal for websites that need to confirm if you're over a specific age. Designed for Breweries and bars""}","verification,age-verification,wordpress-plugin",6
+35,https://github.com/theoretick/awesome-open-beer.git,A curated list of breweries that open source their beer recipes,"homebrewing,beer,beers,awesome-list,recipes,awesome",6
+36,https://github.com/bvellek/pivo-check.git,"A full-stack, responsive web application designed to help beer lovers track and discover breweries.","react,redux,node,express,passport,bcrypt,sass,mongodb,mongoose,responsive,continuous-integration,es6,javascript,breweries,restful-api",6
+37,https://github.com/mvboettcher/drafty.git,A React app for finding craft breweries near you.  Search by current location or by address and get relevant info about each brewery.,,6
+38,https://github.com/ada-u/brewery.git,Brewery is a simple Brewfile dumper.,,6
+39,https://github.com/springframeworkguru/mssc-brewery-bom.git,MSSC Brewery BOM,,5
+40,https://github.com/sfg-beer-works/sfg-brewery-beer-service.git,SFG Brewery Beer Service,,5
+41,https://github.com/vortexau/OpenBrew.git,Open Source Brewery Controller.,,5
+42,https://github.com/beercsv/us-united-states.git," Beer, brewery n brewpub data for the United States",,5
+43,https://github.com/angusgrantBC/brew3.git,2v or 3v brewery control software using node-red,,5
+44,https://github.com/cadwallion/brewby.git,Automated brewery software for multiple hardware interfaces,,5
+45,https://github.com/MedRedha/Flutter-Challenge-Apps.git,Source code of “The Complete Flutter Development Bootcamp Using Dart” by The App Brewery https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart,,5
+46,https://github.com/springframeworkguru/brewery-rest-docs.git,Brewery Project for RestDocs,,4
+47,https://github.com/Joycechidi/https-github.com-londonappbrewery-i-am-poor-android-TheMuellenator.git,I am poor Challenge App Brewery,,4
+48,https://github.com/rastrau/Swiss-Beer-Map.git,Mapping the breweries of Switzerland.,,4
+49,https://github.com/beerbook/maps.git,"Free open public domain beer, brewery n brewpub maps",,4
+50,https://github.com/brewmap/brewmap.git,Laravel-based application for brewery tourism social media platform.,"brewery,map,social",4
+51,https://github.com/jslawinsk/BrewTempController.git,Arduino Temperature controller for brewing beer. Optionally sends data to Brewery Services project using bluetooth.,"arduino,scetch,controller,brewing-beer,temperature,bluetooth,rotary-encoder,relay-board,lcd-display,mit-license,wemos-d1-mini,lolin-d1-mini",4
+52,https://github.com/mikeschuld/brewnano.git,Software for controlling a BrewNano HERMS Brewery,,4
+53,https://github.com/openbeer/ca-canada.git,"Free open public domain beer, brewery n brewpub data for Canada / North America",,4
+54,https://github.com/openbeer/be-belgium.git,"Free open public domain beer, brewery n brewpub data for Belgium / Europe",,4
+55,https://github.com/garethgd/angular-4-beer-search.git,Angular 4 Beer Search using the Brewery API. Uses a range of transitions to create a dashboard.,,4
+56,https://github.com/devNoiseConsulting/geoBeer.git,GeoJSON data files for Breweries  ,"beer,brewery,brewery-files,breweries,geojson,geojson-files,javascript",3
+57,https://github.com/atlefren/norwegian-breweries.git,A GeoJSON-file with position and basic info about Norwegian breweries,,3
+58,https://github.com/DaneShrewsbury2288/CRM.git,This is a React based CRM focused on data analytics and sales team tools to improve efficiency and cohesion. The theme of this CRM is brewery and is aimed toward start-up to small breweries. ,,3
+59,https://github.com/Emile666/ebrew_PC.git,PC Front-end for my Home-Brewery,,3
+60,https://github.com/ejanow/beer-map.git,:beers: Find Nearby Breweries,,3
+61,https://github.com/senthilthyagarajan/brewerymaps.git,Mapping breweries across USA,"html,css,js,maps,beer",3
+62,https://github.com/wesleimp-deprecated/brewery-map.git,Show all breweries in the USA,,3
+63,https://github.com/jrouly/traveling-beersman.git,Find the shortest path between all breweries.,,3
+64,https://github.com/lamdbui/BeerView.git,BeerMapper app for finding local and remote beers and breweries ,,3
+65,https://github.com/governmentSponsored/BreweryDB-API.git,"See local breweries, their beers, and their scores",,3
+66,https://github.com/geshii/brewerymap.git,"🍻 EN/FR | A map to see breweries, bars and more !",,3
+67,https://github.com/StudyBuddies-UW2018/HopOn.git,"{""A fun app that takes the user's geolocation, with permission, via the Google API to find local breweries within their area. ""}",,3
+68,https://github.com/stepheno/brewtronic-5000.git,Brewery Management Rails app,,3
+69,https://github.com/aabrahamson3/beer30.git,A Brewery Recommender For Travellers,,3
+70,https://github.com/openbeer/de-deutschland.git,"Free open public domain beer, brewery n brewpub data for Germany (Deutschland) / Europe",,3
+71,https://github.com/Aeronautics/Mustang.git,The insanely modular CSS ecosystem. Also a famous plane. Also a famous brewery.,,3
+72,https://github.com/kevin-powell/brewery-start.git,Files I started with for my brewery site for my YT series,,3
+73,https://github.com/hadro/brewery-guides.git,The data for guides to breweries across the United States from 1896 to 1918,"nypl,brewery-guides,brewers,hocr,digital-collections,brewing,brewing-history",3
+74,https://github.com/beercsv/be-belgium.git,"beer, brewery n brewpub data for Belgium",,3
+75,https://github.com/HomeTap/HomeTap.git,"Application for users to browse a library of beers, add them to a queue, and receive deliveries from local breweries.",,3
+76,https://github.com/Sigafoos/Keg-tracker.git,Web interface for tracking kegs of beer from a brewery,,3
+77,https://github.com/CivPirater/minetest-brewery.git,A brewery mod/plugin for Minetest. Made for CivTest server.,,3
+78,https://github.com/mmgolden/grist-test.git,Brewery app built with React Native and AWS AppSync,,3
+79,https://github.com/beylkhanovdamir/beerwebapp.git,"{""Beer book which provides info about breweries and beers from around the world. It's using a third-party BreweryDB API to get data (http://www.brewerydb.com)""}",,3
+80,https://github.com/openbeer/by-bayern.git,"Free open public domain beer, brewery n brewpub data for Bavaria, Germany  (Bayern, Deutschland ) / Europe",,3
+81,https://github.com/openbeer/co-colorado.git,"Free open public domain beer, brewery n brewpub data for Colorado (CO), United States / North America",,3
+82,https://github.com/openbeer/mx-mexico.git,"Free open public domain beer, brewery n brewpub data for Mexico / North America",,3
+83,https://github.com/gfycat/gifbrewery.git,A tracker for new features and fixes coming in GIF Brewery by Gfycat.,"macos,gif,gif-brewery,gfycat",3
+84,https://github.com/redhat-developer-docs/green-cloud-demo.git,The repository to hold the documentation related to Green Cloud Demo (Spring Cloud Brewery) migration to OpenShift/Kubernetes,,3
+85,https://github.com/jslawinsk/brewery-services.git,Brewery Services Spring REST API Project and Web UI interface. Allows to retrieve data from various types of sensors and present data. Measurement data may also be entered manually. The API also provide for restful calls to receive data. Optionally the bluetooth interface may be used to automatically log sensor data.,"brewing-beer,spring-boot,spring-data-jpa,mit-license,cloud,bluetooth,postgresql,postgres,h2,h2-database",3
+86,https://github.com/sfg-beer-works/sfg-brewery-bom.git,SFG Brewery BOM,,2
+87,https://github.com/tristandenyer/brewery-search.git,A brewery search app using the Open Brewery DB,"brewery-search,brewery,breweries,open-source,oss,axios,help-wanted,good-first-issue",2
+88,https://github.com/armcbride/libations.git,A web app to locate local breweries.,,2
+89,https://github.com/springframeworkguru/sfg-reactive-brewery.git,Reactive Brewery Service,,2
+90,https://github.com/Mjheverett/To-Do-Today.git,"To-Do Today provides information about local events that are happening when you use it; Today! With information about weather, concerts, festivals, sporting events, breweries and more, To-Do Today provides plenty of options to find something to-do.",,2
+91,https://github.com/NanyThery/SimonGame.git,Simon Game inspired on the App Brewery challenge,,2
+92,https://github.com/brainslug-bln/booze.git,Management software for micro breweries,,2
+93,https://github.com/Linkm1993/BreweryLocator.git,"User can input brewery name, type of beer, location, types of breweries and tags. Then the application would generate of list of breweries with these filter near by. Once results are generated, the user can choose the best option, which will open into a map for directions.",,2
+94,https://github.com/GerwinBosch/Hackalod-2018.git,Brewery timeline 🍺🍺🍺🍺🍺🍺🍺🍺,"hackathon,brewery-timeline,sparql-query,linked-data,linked-open-data,react",2
+95,https://github.com/wezrine/Brewstr.git,App that allows users to search for breweries,,2
+96,https://github.com/iamadamcooke/FindMeABrew.git,"Find bars, liquor stores and breweries based on geo-location",,2
+97,https://github.com/blugelabs/beer-search.git,Sample application using Bluge to search beers and breweries.,,2
+98,https://github.com/GChaviraJr/Project2.git,Brewery Crawl 2.0,,2
+99,https://github.com/vm930/brewery-finder-commandlineinterface.git,brewery-finder-commandlineinterface,,2
+100,https://github.com/JustCylon/stardew-brewery.git,SDV Brewery mod,,2
+101,https://github.com/vulnersCom/gitbeer.git,Vulners Brewery Receipts,,2
+102,https://github.com/jasonkmoses/Dicee.git,London App Brewerys Dicee,,2
+103,https://github.com/stelawton/brewshark.git,Arduino Brewery/Homebrew Controls,,2
+104,https://github.com/beercsv/world.git,"beer, brewery n brewpub data",,2
+105,https://github.com/jangevaare/nospaRge.git,No sparge brewery efficiency calculator,,2
+106,https://github.com/pkqk/beer.git,A saturday afternoon brewery crawl?,,2
+107,https://github.com/milocosmopolitan/hopfinder.git,brewery / beer finder web app,,2
+108,https://github.com/joshwagoner/beerery.git,Raspberry Pi home brewery control,,2
+109,https://github.com/aaronmiler/beer-map.git,This project inspired by pdxroasters.com will be a Rails Powered Google Map of Breweries,,2
+110,https://github.com/Derrickas/BackpackBrewApp.git,Find local breweries through a third party application. pick the destination of your choice!,,2
+111,https://github.com/DTLivingstone/BrewHop.git,A web app that connects Seattle residents with breweries near them,,2
+112,https://github.com/martinwestwood/beer_recipe_wordpress_plugin.git,"Wordpress Plugin to add custom types for beers, recipes and breweries etc.",,2
+113,https://github.com/fmarier/bc-breweries.git,Scrape the BC Craft Brewers Guild website to get a list of all breweries.,,2
+114,https://github.com/falseresync/yaga.git,Minecraft & Fabric mod about pagan brewery,"minecraft,fabric",2
+115,https://github.com/chriswells1995/BrewBuzz.git,"{""If it's beer, it's here. BrewBuzz is a brewery review application that allows you to locate, read, and post reviews for breweries all across the nation.""}",,2
+116,https://github.com/stephenyeargin/angularjs-brewery-db.git,Demonstration of AngularJS and Brewery DB.,"brewerydb,angularjs,demo",2
+117,https://github.com/ganto/linuxmonk-overlay.git,"{""Gentoo Overlay - Ganto's ebuild brewery""}","gentoo-overlay,ebuilds,gentoo",2
+118,https://github.com/jslawinsk/brewery-alexa.git,Alexa interface to brewery-services API,"alexa,nodejs,heroku,brewing-beer,mit-license",2
+119,https://github.com/Emile666/Brew_Arduino.git,Home Brewery Automation with an Arduino Nano,"brewing-beer,home-brewery",2
+120,https://github.com/Emile666/Brew_Arduino.git,Home Brewery Automation with an Arduino Nano,"brewing-beer,home-brewery",2
+121,https://github.com/joannerd/brewer.git,"Create brewery travel guides, share brewery knowledge in a forum, and search for favorite breweries. Built with Ruby on Rails, React/Redux, AWS S3, and Yelp Fusion REST API.","react,redux,yelp-fusion-api,aws-s3,ruby-on-rails",2
+122,https://github.com/Philusha1983/HopDropper.git,Hops dropper and brewing additions for Craft Beer Pi operated home-breweries. Using a Boil hop dropper plugin,,2
+123,https://github.com/ramos07/Open-Brewery-React.git,Web application that searches for breweries in the United States based off keywords and shows details about them. ,,2
+124,https://github.com/xdagee/my_keyboard_app.git,a keyboard app based on the.app.brewery,,2
+125,https://github.com/MikeMather/bivver-backend.git,The backend for the Bivver brewery management application,,2
+126,https://github.com/Jaofranca/Identification_Card-Flutter.git,Second app developed in London App Brewery Developer bootcamp,,2
+127,https://github.com/jeromeaking40/rockymountainhops.git,"Rocky Mountain Hops: Brewery finder for the Denver, Colorado Area",,2
+128,https://github.com/mdlayher/tapcam.git,Brewery tap camera image upload and display system.,,2
+129,https://github.com/danvega/openbrewery-composition-api-refactor.git,Open Brewery DB Demo using Vue 3 Composition API,,2
+130,https://github.com/jasonkmoses/I-am-poor.git,The simplest app I learned from the London App Brewery,,2
+131,https://github.com/kawgh1/kwg-microservices-brewery.git,multi-module maven project containing brewery microservices and servers,"jms,java-messaging-service,spring-boot-2,microservices,beer,ehcache,restdocs,netflix-eureka,zipkin-sleuth,spring-cloud,gateway-api,spring-cloud-config,docker,docker-compose,docker-image,elk-stack,consolidated-logging",2
+132,https://github.com/Jaofranca/Dicee-flutter.git,Third app developed in London App Brewery Developer bootcamp,,2
+133,https://github.com/jasonkmoses/Magic-8-ball.git,Magic 8 ball by The London App Brewery,,2
+134,https://github.com/seiniku/drunken-control.git,Software to control heating elements in a home brewery,,2
+135,https://github.com/heerden/cherry-pie-brewery.git,Fully automated HERMS brewery on your Raspberry Pi,,2
+136,https://github.com/chaytanyasinha/Brewery-Database-App.git,"{""This project is to demonstrate the MVVM architecture with paging3 library and offline caching using database. This android application lists the breweries list. When tap on any brewery it will open the brewery detail with it's name, image, address, phone, web url and other attributes.""}",,2
+137,https://github.com/openbeer/jp-japan.git,"Free open public domain beer, brewery n brewpub data for Japan / Asia",,2
+138,https://github.com/openbeer/nl-netherlands.git,"Free open public domain beer, brewery n brewpub data for the Netherlands / Europe",,2
+139,https://github.com/openbeer/cz-czech-republic.git,"Free open public domain beer, brewery n brewpub data for the Czech Republic / Europe",,2
+140,https://github.com/cbab/ddc-menu.git,A simple command-line utility to query the Dieu du Ciel! brewery current beer menu,,2
+141,https://github.com/davionic/BreweryFinder.git,"Brewery-beer-reviewing ASP.NET MVC site using a SQL database, session, and razor pages.",,2
+142,https://github.com/Carnaux/Hackathon-Raffe.git,A complete industry 4.0 system made for the brewery Raffe Hackathon,,2
+143,https://github.com/openbeer/or-oregon.git,"Free open public domain beer, brewery n brewpub data for Oregon (OR), United States / North America",,2
+144,https://github.com/VicodinAbuser/Complete-2020-Web-Development-Bootcamp.git,Contains material from The Complete 2020 Web Developer Bootcamp by Angela Yu (The App Brewery),,2
+145,https://github.com/beerkit/beer.js.git,"{""Beer 'n' brewery widgets in JavaScript using the beer.db HTTP JSON(P) API""}",,2
+146,https://github.com/stenowtf/brewcat.git,BrewCat is a simple catalog to browse and find new beers from the BrewDog brewery.,,2
+147,https://github.com/seagda/the-full-tankard.git,"Free, streamlined, responsive web application that allows bar managers to find and save information about local beers and craft breweries in the Pacific Northwest (and beyond) without leaving the floor.",,2
+148,https://github.com/openbeer/oberbayern.git,"Free open public domain beer, brewery n brewpub data for Munich & Upper Bavaria, Germany (München & Oberbayern, Deutschland ) / Europe",,2
+149,https://github.com/MBrassey/brewhound-2.git,"{""MERN (MongoDB, Express.js, React, and Node.js) stack Brewery Finder with GraphQL integration using multiple external API's""}",,2
+150,https://github.com/fix92/BrewerySimNodeJS.git,A simulation of a running brewery using node js. Part of the Android pracical course at TUM,,2
+151,https://github.com/jeashwor/The_Silent_Turtles.git,"A Node.js based application hosted on Heroku that allows a user to create an account to allow favorite beers to be stored for breweries searched.   Admin level allows for review of all users and favorite beers, in addition to granting admin permission to other users. ","express-js,nodejs,sequelize,beer,database,data-visualization,passportjs",2
+152,https://github.com/KhiryHill/Brew-Chew.git,"Our application will offer our user a choice between finding a local restaurant or a brewerie. After a selection is made you will enter the require login information, which is stored in firebase. This application makes a call to two APIs to locate restaurants and breweries across North Carolina. When the calls made the name, address, phone number and website are rendered on the page.",,2
+153,https://github.com/AlexJHand/SocialDrinker.git,"[Prime Solo Project] An application to help users remember and track which beers they have consumed, as well as their opinions about them. Social Drinker allows them to search by beer name or brewery, and then lets them input a rating as well as a comment.",,2
+154,https://github.com/fix92/BrewerySimUnity3D.git,Data visualization of a simulated machine (brewery) in Unity3D. Contents of this repository are the unity3d package required to open and edit the game in Unity3D as well as the main code (C#). Also added is an Android build (>= 4.4 KitKat) for usage with a Google Cardboard VR viewer,,2
+155,https://github.com/vasukumar92/Recommender-System-for-Groceries-Contractor.git,"{""Groceries are critical part for any Restaurants, Bakery, Breakfast Spot, Brewery, Cafe (with fresh and high quality groceries) etc. Their quality and timely delivery plays a critical role in the serviceability of a vendor. The supply chain's most important element in its supply is distributor or supplier. The location, transportation method, cost and quality plays a significant role. Moreover, the warehouse location plays a critical role in development and progress of a contractor / distributor. The project discusses a method to data mapping, visualization and applying machine learning techniques in order to identify optimum location in a neighborhood in Scarborough of Toronto for a groceries contractor.""}",,2
+156,https://github.com/sfg-beer-works/sfg-brewery-inventory-service.git,SFG Brewery Inventory Service,,1
+157,https://github.com/sfg-beer-works/brewery-api.git,SFG Beer Works Brewery OpenAPI,,1
+158,https://github.com/warpaltarpers/bmi-calculator.git,Made with help from App Brewery tutorials by @angelabauer,"flutter,health,example-project",1
+159,https://github.com/milesjamz/mod4frontend.git,"Discover, rate, and review American breweries",,1
+160,https://github.com/jmsaenz5/project-1-group-5.git,Kegs-istential C R I S I S: A tool to help you find local breweries,,1
+161,https://github.com/jasminekay505/Deja-Brew.git,"As a beer drinker, I want to discover breweries in my area and interact with other beer drinkers.",,1
+162,https://github.com/Lambaa94/Brewery-Finder.git,An application that will allow you to search for breweries by state and brewery type. Uses Yelp and Google maps to give you more information about that brewery.,"brewery-finder,jquery,javascript,api,google-maps-api,yelp-api,brewerydb-api",1
+163,https://github.com/beerbrewing/beerbrewing.github.io.git,Secret Squirrel Brewery Web Site,"secret,squirrel,brewery,homebrew,recipes,beerxml",1
+164,https://github.com/brewery-project/brewery.git,The Brewery Rails CMS Engine,,1
+165,https://github.com/uncommonAP/booze_yourself.git,Group Project: Brewery/Beer review site,,1
+166,https://github.com/agdavid/pucker-up-angular-rails-heroku.git,Pucker up on this roadtrip to sour beer breweries across the US. Single-page application (SPA) built with an AngularJS frontend and Rails API backend.,,1
+167,https://github.com/MJ94/brewluth.git," Brewluth allows users of the app to discover, filter through, and learn about the breweries local to Duluth, Minnesota.",,1
+168,https://github.com/KEPHA222/breweries-angular-app.git,Cool Breweries Application.,,1
+169,https://github.com/datahub/beer-near.git,List of Wisconsin breweries,,1
+170,https://github.com/west5mapping/breweries.git,leaflet yyc breweries webmap,,1
+171,https://github.com/MaggieRose810/brewery_map.git,Map of Breweries,,1
+172,https://github.com/jamesnagle/brewskies.git,Find breweries near you,,1
+173,https://github.com/hsuttong/BreweryFinder.git,Locate and map breweries,,1
+174,https://github.com/kodama78/brewology.git,compilation of data for breweries,,1
+175,https://github.com/jham005/tbhr.git,The Two Breweries Hill Race,,1
+176,https://github.com/LaunchAcademy/fizz_buzz.git,A review site for breweries.,,1
+177,https://github.com/cronint11/GroupTOME.git,Helps locate breweries near you!,,1
+178,https://github.com/beerkit/beer.db.day.git,"beer.db web app -  beer of the day, brewery of the day, breweries a-z, breweries by location",,1
+179,https://github.com/sophiawu1006/DDSProject1.git,Case Study 1: Breweries and Beer,,1
+180,https://github.com/billyfung/beertravel.git,route finding for breweries in BC,,1
+181,https://github.com/madmaxlax/sistersbrewing.git,Website for Dutch Brewery: The Sisters Brewery,,1
+182,https://github.com/albs22/BreweryTracker.git,Track and share your favorite breweries ,,1
+183,https://github.com/willnix86/get-your-beerings.git,Find breweries and craft beer near you,,1
+184,https://github.com/evanschwarz90/BrewTrack.git,"{""Track what breweries you've visited""}",,1
+185,https://github.com/danielriley06/taproom-index.git,Track and review breweries and taprooms visited.,,1
+186,https://github.com/mraines4/Rough-Draft-Beer.git,A web application for finding local breweries,,1
+187,https://github.com/rdinter/breweries.git,Preliminary research in breweries across the US,,1
+188,https://github.com/cboden/brewed.today.git,Find the latest releases from Ontario breweries,,1
+189,https://github.com/Sam-sas/beerKnight.git,a tap list for local breweries,,1
+190,https://github.com/marshcooke/bike-brew.git,An application to store your favorite breweries and find find your favorite breweries along your bike route. ,,1
+191,https://github.com/davestroud/BeerStudy.git,The Beers dataset contains a list of 2410 US craft beers and Breweries dataset contains 558 US breweries.,"r,rmarkdown,rstudio",1
+192,https://github.com/tibysko/herms-backend.git,Brewery backend,,1
+193,https://github.com/jaredwheet/brew_project.git,Brewery Project,,1
+194,https://github.com/epitonlancini/bootcamp.git,Brewery Bootcamp,,1
+195,https://github.com/ErinUntermeyer/brewfinder.git,"brewfinder is an application for avid beer lovers in Colorado to seek out breweries. Features include searching for breweries by city, filtering by brewery type, and adding breweries to favorites.",,1
+196,https://github.com/Sigafoos/beer-api.git,"{""API for accessing a brewery's beers and what's currently on tap""}",,1
+197,https://github.com/adishthapa/carolina-brew-review.git,A Brewery tracking application that shows Breweries located throughout North Carolina and their most popular beers.,,1
+198,https://github.com/JoeyMckenzie/Dappery.git,"A Dapper-based .NET Core project for our favorite fictional brewery, Dappery.",,1
+199,https://github.com/p-hsu/BREW_ME.git,A practice in API calls: find a brewery in your area!,,1
+200,https://github.com/fsanchez4/Beer-Tracker-App.git,Android app that allows users to track and store local brewery favorites.,,1
+201,https://github.com/blakeharris3/Barley_Legal_Frontend.git,"Receive a list of brewery beers and based off your preferences, place them into according categories.",,1
+202,https://github.com/wikiscript/beer.json.git,"{""Beers 'n' Breweries Sourced from Wikipedia Pages Converted into JSON""}",,1
+203,https://github.com/atiakor0/Beer_Study.git,Analysis the craft beers and Breweries data set ,,1
+204,https://github.com/BrewTour/BrewTour.git,BrewTour shows local beers and breweries around South Africa.,,1
+205,https://github.com/jarrodfinn/GoBeer.git,An app to help you find local breweries,,1
+206,https://github.com/Vsosameza/unsupervised_learning_of_denver_breweries.git,"{""Using unsupervised learning to cluster Denver's breweries ""}",,1
+207,https://github.com/aguin467/Breweries.git,An Angular app written in TypeScript that displays breweries.,"typescript,angularapp,frontend,webdevelopment",1
+208,https://github.com/mayankrungta/pyTIB.git,The python related code used at The Idea Breweries,,1
+209,https://github.com/DanFCo/brewery-fe.git,user can browse breweries in a specific city,,1
+210,https://github.com/ianfoo/beerweb.git,Pull tap lists from breweries and bottle shops.,"beer,golang,web-scraping,colly,go",1
+211,https://github.com/elandesign/BreweryController.git,Arduino Powered Brewery Controller.,,1
+212,https://github.com/sfchronicle/beer-map.git,NorCal Brewery Map,,1
+213,https://github.com/vojtechmares-archives/skynette.git,small brewery homepage,,1
+214,https://github.com/woodfordpd/Marvida.git,Marvida Brewery Materials,,1
+215,https://github.com/accurtis18/breweryFinder.git,Local Brewery Finder,,1
+216,https://github.com/lumberjackchester/HammerCreekBrewery.git,Hammer Creek Brewery,,1
+217,https://github.com/jneed94/brewery-model.git,repo for brewery model,,1
+218,https://github.com/zeeroiq/zeero-brewery.git,Beer brewery Microservice implementation,,1
+219,https://github.com/Feeblemind/M8-Brewery-old.git,Small Automated Brewery,,1
+220,https://github.com/trottmpq/AshBrew.git,Home Brewery Project,,1
+221,https://github.com/chrisdoberman/mssc-brewery.git,Spring Cloud Microservice Brewery,,1
+222,https://github.com/Jesus-Escalona/andculture_cc_spa.git,Brewery finder Web App 🍺,,1
+223,https://github.com/probonogeek/csb.git,Community Supported Brewery,,1
+224,https://github.com/whoisharrison/brewfinder.git,local brewery registry,,1
+225,https://github.com/kareemdjames/hoodwink-brewery-client.git,Hoodwink Brewery Client,,1
+226,https://github.com/fredjke/Brewery.git,Automated brewery using arduino,,1
+227,https://github.com/hopfinder/hopfinder.git,local brewery finder,,1
+228,https://github.com/tastethedream/flutter-development-bootcamp.git,App Brewery course,,1
+229,https://github.com/Oskars24/oskars-craft-beer.git,My home brewery site,,1
+230,https://github.com/elhombrefiero/CCBC.git,Coulson Craft Brewery Control,,1
+231,https://github.com/eduard-lyaskovskiy/brewery_api.git,Get brewery from openbrewerydb,,1
+232,https://github.com/absolutholz/Breweries---live-but-outdated.git,Simple Brewery Collection Site,,1
+233,https://github.com/zachseifts/brewerypi.git,Some brewery software,,1
+234,https://github.com/ortizen/BMI_Refactored.git,APP Brewery Project Refactored,,1
+235,https://github.com/ntkduy123/mssc-brewery-ws.git,MSSC Brewery Webservices,,1
+236,https://github.com/coreydogfish/dogfish.git,Dogfish Head Craft Brewery,,1
+237,https://github.com/spmbayan/brewery.git,Unofficial Brewery widgets plugin.,,1
+238,https://github.com/Lawrencehudson23/my-app.git,angular-brewery-api,,1
+239,https://github.com/dcoppage86/high-hops.git,"This is a simple application that provides a directory of local Colorado breweries. You can favorite, review and check off your list of breweries that you have visited.",,1
+240,https://github.com/kellarelliott/getmetobeer.git,"The getmetobeer website is designed to help people find a brewery near them, and read reviews about different breweries.",,1
+241,https://github.com/ch3rr17/belch.git,Belch is a web application(responsive design with mobile) which allows users to either view a list of San Diego Breweries or search breweries based on your location,,1
+242,https://github.com/mozvat/dotNetJsonDeserializer.git,"By leveraging http://json2csharp.com/ and json.net http://json.codeplex.com/releases/view/97986 , you can quickly create classes and deserialize json responses into objects.  This example using a simple RESTful API searching for breweries by zipcode",,1
+243,https://github.com/tKemery/Brewery-Locator.git,This project will use the Open Brewery DB and Yelp Fusion APIs to help users find and filter breweries.,,1
+244,https://github.com/RyanEllingson/Squirtle-Squad.git,"Brew Cruze - application which allows users to enter cities and generate a Mapquest route, as well as locate breweries near the cities and generate a new route passing through them",,1
+245,https://github.com/corpulent/task-databrewery.git,Docker wrapper for Data Brewery.,,1
+246,https://github.com/sparethme/lab_tindog.git,London App Brewery Bootcamp Project,,1
+247,https://github.com/zeeroiq/zeero-brewery-eureka.git,Eureka configuration for zeero-brewery,,1
+248,https://github.com/honigwald/rathsnetz.git,Django Webapplication. Brewery management system,,1
+249,https://github.com/robbiegreiner/brewery-tracker.git,BrewScout - Personal Brewery & Beer Project,,1
+250,https://github.com/brytebee/diceGame.git,App Brewery mini dice game,,1
+251,https://github.com/PW486/alcohol-map.git,"Pub, Brewery, Store in Korea","ruby,rails,postgresql,bootstrap,google-maps-api",1
+252,https://github.com/Stiivi/brewery-opendata.git,Open Data nodes for brewery,,1
+253,https://github.com/AfterHoursGameDev/StraightToAle.git,Straight to Ale Brewery Game,,1
+254,https://github.com/ikottlowski/QuaffOn-Mobile.git,Mobile application for a brewery,,1
+255,https://github.com/ortizen/Chat.git,Flutter app brewery chat app,,1
+256,https://github.com/singesavant/erpnext-ubrewery.git,Micro Brewery utilities for ErpNext,,1
+257,https://github.com/derrickmstrong/Project-InTheBrews.git,React app with Brewery API,"reactjs,reacthooks,bootstrap4,api",1
+258,https://github.com/allena29/brewerslab.git,Brewerslab - Home Brew Brewery Contrl,,1
+259,https://github.com/jgyonzo/laterne-brewery.git,Laterne Brewery Control (alpha version),,1
+260,https://github.com/paulodhiambo/beer.git,Beer Brewery Spring MVC project,,1
+261,https://github.com/hdaniel1/Tap_List.git,"Browse a selection of beers, breweries and retailers. Manage your favorite beers, add tags, and reviews.",,1
+262,https://github.com/VivekV95/Hoppy.git,Android app that allows user to view and persist beers and breweries,,1
+263,https://github.com/crneff84/BeerGuide.git,Uses BreweryDB API to provide users with information on beer and breweries.,,1
+264,https://github.com/btmccollum/brewery_search.git,Conveniently get info on breweries from your command line! Published Ruby gem.,,1
+265,https://github.com/BruddaFett/Galvanize_Final_Tableau.git,Tableau Dashboards created from Beer Reviews and Breweries Data for Galvanize Portfolio ,,1
+266,https://github.com/dgillen27/Brewery-Finder-App.git,Web app designed to help users find breweries in their area!,,1
+267,https://github.com/torsteinf/untappd-brewerylist.git,React app using the Untappd API listing breweries and most checked-in beers.,untappd,1
+268,https://github.com/jscottusf/brewgo.git,"Find local breweries and grub. Enter location, get buzzed, eat food.",,1
+269,https://github.com/johniblake/Bike-Brew.git,A simple tool for finding pay-to-ride bikes near breweries.,,1
+270,https://github.com/johniblake/Bike-Brew.git,A simple tool for finding pay-to-ride bikes near breweries.,,1
+271,https://github.com/NerdyToddGerdy/Beer-directory.git,A directory in which you can search for beers and breweries.,,1
+272,https://github.com/davidruvolo51/travel-app.git,"Finding European travel destinations based on your preferences for coffee, breweries, and museums","shiny,shiny-contest,shiny-contest-2020",1
+273,https://github.com/jhnbrnn/bottleshop.git,Node.js script for quickly getting bottleshop listings from craft breweries in Toronto,,1
+274,https://github.com/amitzed/breweries.git,React/Redux (w/Redux Thunk) app showing lists of breweries in Los Angeles,,1
+275,https://github.com/idev-a/ecommerce-scraper-untappd.com.git,A scraper to get the list of breweries in untappd.com,,1
+276,https://github.com/Ponacko/BeerRecommender.git,A recommender system for recommending czech breweries. Created as a university project for PV254 course.,,1
+277,https://github.com/JBird1977/GC-FinalProject.git,"{""Final Project that can search for and recommend breweries based on user's mood""}",,1
+278,https://github.com/drmadskills/beerfest.git,Simple beerfest application to list breweries beers and food vendors overlaid on a venue map,,1
+279,https://github.com/W00DH0USE/drinkinbuddi.git,"Drinkin Buddi offers information related to breweries, cideries and bottle shops across the USA by city.",,1
+280,https://github.com/sanbales/brewmaster.git,A model-based framework to assist breweries in optimizing their processes,,1
+281,https://github.com/robgmerrill/seattle-breweries.git,MEAN Stack application used to review and rate top Seattle Breweries,,1
+282,https://github.com/adamyanalunas/GrowlerFills-iOS.git,An iOS app to view the growler fill policies of breweries,,1
+283,https://github.com/b3cft/real-ales.git,"Website with APIs supplying information on Breweries, Real Ales and Public Houses. ",,1
+284,https://github.com/ramonpbarros/bar-hop-webapp.git,Application allows user to get information about breweries searching by zip-code and bar type.,,1
+285,https://github.com/km1230/simpleweatherapp.git,Exercise from the London App Brewery,,1
+286,https://github.com/zeeroiq/zeero-brewery-client.git,rest client for zeero-brewery microservice,,1
+287,https://github.com/book-templates/beer.git,"{""Beer, Brewery 'n'  Brewpubs Guide Book Template""}",,1
+288,https://github.com/sarkispeha/beer_equip_site.git,Idea for used commercial brewery equipment website.,,1
+289,https://github.com/iqrafatimame/Mi-Card.git,Section 6 of The App Brewery 🎴,"flutter,flutter-app,dart",1
+290,https://github.com/BlakeACollins/NunChucksBrewing.git,"{""Source code for Nun Chuck's Brewery.""}",,1
+291,https://github.com/iqrafatimame/Quizzler.git,Section 10 of The App Brewery 🤔 ,"flutter,flutter-app,dart,quizapp",1
+292,https://github.com/beercsv/ca-canada.git,"  beer, brewery n brewpub data for Canada",,1
+293,https://github.com/eridbardhaj/NanoBrewery.git,Brewery App using data from Punk API,,1
+294,https://github.com/evertharmeling/arduino-brouwkuyp-control.git,Brouwkuyp brewery control software Arduino part,,1
+295,https://github.com/iqrafatimame/Xylophone.git,Section 9 of The App Brewery 🎵 ,"flutter-apps,flutter-examples,dart",1
+296,https://github.com/zachseifts/brewery.git,Drupal Brewery is an open source brewery websites framework that is designed to enabled development of flexible brewery websites and applications based on Drupal 8.x.,,1
+297,https://github.com/iqrafatimame/Dice-Roll.git,Section 7 of The App Brewery  🔥,"flutter,flutter-app,flutter-examples,dart,dice-roller",1
+298,https://github.com/foxirving/BreweryProgram.git,Version 2 of the brewery project,,1
+299,https://github.com/HedgeHodge/Dice-Game.git,Dice Game from App Brewery Challenge ,,1
+300,https://github.com/topleft/WheresTheBeer.git,A beer locator for a production brewery.,,1
+301,https://github.com/loganshahan/BrewZzz.git,BrewZzz: API calling application used to find breweries by city. Based upon these breweries you can also search hotels in the general area. Great application to plan a responsible weekend!,,1
+302,https://github.com/ryanpeterson08/portland-breweries.git,"{""Web map that allows shows breweries in Portland and allows user to check of ones they've visited""}",,1
+303,https://github.com/vivgarcia/Group-11-Project.git,Beer Run is an application that takes in user input and will return breweries and their Yelp ratings.,,1
+304,https://github.com/JEMinick/Brewery-Crawler.git,A group project created for the UCSD-Extension Full-Stack Bootcamp.  It locates breweries by any given zip-code.,,1
+305,https://github.com/matthewemichael/BeerHiker.git,"A MERN stack application for beer aficionados to discover, save and map routes to breweries all over the US.",,1
+306,https://github.com/ryankooy/TriangleOnTap.git,Triangle OnTap is the ultimate application for finding and researching the best breweries in the Triangle region of North Carolina.,"react,material-ui,google-maps-react,maps-javascript-api,express-js,mongodb,mongoose,axios,react-router-dom,mern-stack",1
+307,https://github.com/Xplor8r/brewery_reviewery.git,"{""Visit your Local Brewery or visit a Brewery that's new to you. Eat some grub, sip some craft brew, then share a review. Brewery Reviewer is a Ruby on Rails forum app for posting reviews for breweries across the U.S. Users must sign up or log in in order to contribute.""}",,1
+308,https://github.com/ejzn/brewery.git,An OpenERP module to add additional capabilities for a brewery.,,1
+309,https://github.com/codyo/dicee.git,Dicee iPhone app - based on the London App Brewery tutorial,,1
+310,https://github.com/jonte/brewerycontrol_qt.git,Qt/QML UI for a brewery control panel,,1
+311,https://github.com/sameer882000/BMI-Calculator.git,Apps made while learning Flutter from London App Brewery.,,1
+312,https://github.com/DimoDimov/BrewerySearch.git,brewery search with angular 9.0 ngrx rxjs,,1
+313,https://github.com/billbird02/brew1v.git,Single vessel brewery controller and dashboard using Node-RED.,"node-red,brewery-controller",1
+314,https://github.com/beercsv/de-deutschland.git,"beer, brewery n brewpub data for Deutschland (Germany)",,1
+315,https://github.com/sameer882000/Destini.git,Apps made while learning Flutter from London App Brewery.,,1
+316,https://github.com/KevinRooso/BreweryAPI.git,Retrieving data from a brewery API using Angular,,1
+317,https://github.com/sameer882000/Dicee.git,Apps made while learning Flutter from London App Brewery.,,1
+318,https://github.com/Feeblemind/M8_Brewery_c-.git,Coffee Urn Brewery written for a FEZ Panda,,1
+319,https://github.com/Xegyn/beerengine.git,A brewery review site with Google App Engine,,1
+320,https://github.com/ArviinM/Dicee-Game-Challenge.git,A Challenge by App Brewery - Finished it under 20 mins.,,1
+321,https://github.com/adamkral12/breweryManager.git,"Java application for managing brewery - GUI, DB available",,1
+322,https://github.com/Jaofranca/Quizzler-flutter.git,Fifth app developed in London App Brewery Developer bootcamp,,1
+323,https://github.com/warpaltarpers/flutter-weather.git,Made with help from App Brewery tutorials by @angelabauer,"flutter,flutter-example,dart,weather,openweathermap",1
+324,https://github.com/albertmiro/flutter_course.git,Flutter project examples from course from The App Brewery,,1
+325,https://github.com/jasdumas/ct-brewery-ratings.git,Web Scraping Craft Brewery Beer Ratings From BeerAdvocate.com :beers:,"tutorial,beer-statistics,r,web-scraping,data-visualization",1
+326,https://github.com/sameer882000/Quizzler.git,Apps made while learning Flutter from London App Brewery.,,1
+327,https://github.com/Jaofranca/BmiCalculator-Flutter.git,Seventh App developed in London App Brewery Developer bootcamp,,1
+328,https://github.com/Ruzo/complete_flutter_bootcamp.git,The App Brewery - The Complete Flutter Development Bootcamp Using Dart,,1
+329,https://github.com/zeeroiq/zeero-brewery-gateway.git,Spring cloud config gateway implementation for project zeero-brewery,,1
+330,https://github.com/netshade/bierbot.git,Publish updates from the Bier Brewery website of new biers,,1
+331,https://github.com/caffeinum/puppy-brew.git,Simple app to help you write down your brewery,,1
+332,https://github.com/timsneath/udemy_flutter.git,Flutter implementation of the London App Brewery iOS exercises,,1
+333,https://github.com/Jaofranca/Xylophone-flutter.git,Fourth app developed in London App Brewery Developer bootcamp,,1
+334,https://github.com/finncarlsvi/brew-pcb.git,Altium files for PCB that controls the Od Olgerd brewery.,,1
+335,https://github.com/nandodonaire/BrewJournal-api.git,"{""BrewJournal is a full-stack web application that allows users to keep track of breweries they have visited, list the beers they've tried, and add notes about their experience at the brewery.""}",,1
+336,https://github.com/stefeifert/Beer_Quest.git,"Through use of APIs (Google Maps and Open Brewery DB), the app allows the user to submit either their current location or another city and state to locate breweries in their area.",,1
+337,https://github.com/nandodonaire/BrewJournal-client.git,"{""BrewJournal is a full-stack web application that allows users to keep track of breweries they have visited, list the beers they've tried, and add notes about their experience at the brewery.""}",,1
+338,https://github.com/bp100a/beerlister.git,Jersey Beers Alexa Skill - provides up-to-date tap list information for select North Jersey breweries (basically the ones that have scrapeable websites!),"python3,beer,continuous-integration,continuous-deployment,alexa-skill",1
+339,https://github.com/zlehmann/nyc_beer.git,Flatiron CLI Project - a command line application built in Ruby that scrapes popular New York City Breweries for their latest beer lists.,"command-line-app,ruby-gem,beer,breweries,nyc-beer",1
+340,https://github.com/TheOnlyRealTodd/HappyHourBeerList.git,"A web application that allows the user to search for bars, breweries and/or beers near him or her and find out the happy hour deals by day",,1
+341,https://github.com/kotomino/life-is-brewtiful-project.git,"Life Is Brewtiful is a Rails web app that lets users review over 8000+ breweries from all over the United States. It includes profile pages, avatar images, top 100 breweries page, and a search feature. CRUD actions are available for all reviews belonging to the user.",,1
+342,https://github.com/gaurangaurang/BeerVisualization.git,This repository is my first attempt at choropleth maps. I have plotted the distribution of breweries and number of beers produced on two maps. The data set had 2410 unique beers and  558 breweries across the US. source: https://www.kaggle.com/nickhould/craft-cans,,1
+343,https://github.com/juliuscc/craft-africa.git,"The website for Craft Africa, a modular craft brewery concept democratizing entrepreneurship.",,1
+344,https://github.com/Altaeb/I_AM_RICH_App.git,"{"":octocat:This is a companion project to The App Brewery's Complete Flutter Development Bootcamp,""}",,1
+345,https://github.com/amcmilne/Brewery-Finder.git,"{""The Brewery Finder application allows the user to search for information on breweries by city and state and filter the response by type (e.g. micro brewery, nano brewery, bar, etc.). The application will also automatically render results for the user's current location, if any are nearby. Additionally, if the user desires information for a specific brewery, they may make a search by name. The page will only display five results at most, but a user may paginate through the results using the next and previous buttons located at the bottom of the page.""}",,1
+346,https://github.com/openbeer/wa-washington.git,"Free open public domain beer, brewery n brewpub data for Washington (WA), United States / North America",,1
+347,https://github.com/alemohamad/flutter-appbrewery.git,Source code of “The Complete Flutter Development Bootcamp Using Dart” by The App Brewery,,1
+348,https://github.com/dillonhoban/The_BEST_Brewery_Finder.git,"A brewery locater built by Austin Perez, Dillon Hoban, and Tim Hoyt",,1
+349,https://github.com/AlexHowansky/beer.git,DEPRECATED <Tools to extract and format brewery information from brewersassociation.org>,,1
+350,https://github.com/Chuabacca/flash-chat.git,Another London App Brewery project that uses table views and Firebase.,,1
+351,https://github.com/RosalieWessels/Todoey.git,A todo app from the App Development course by the London App Brewery.,,1
+352,https://github.com/seanmbills/FFBT-Server-Heroku.git,The server code for the Family Friendly Brewery Tracker application for Junior Design.,,1
+353,https://github.com/tleen/rising-tide-tap-list.git,Obtain a list of beers on tap at the Rising Tide Brewery,,1
+354,https://github.com/openbeer/market.git,"Free open public domain beer, brewery n brewpub data about industry groups, market alliances, etc. ",,1
+355,https://github.com/AmruthBellala/AppBrewery_100Days_Coding_Challenges_Projects.git,This Repo contains all the projects of App Brewery 100-Days-of-coding-challenge in Python,,1
+356,https://github.com/liuleah/BreweryApp.git,use BreweryDB and Brewery API to create a web application that display all kinds of beers,,1
+357,https://github.com/felexkuria/xylophone_flutter.git,App FRom london app brewery greet for learning functions (block of codes,,1
+358,https://github.com/rprioul/ETL_Brewery_DB.git,ETL process of the Brewery_DB database using nodeJs and Postgresql,"nodejs,postgresql",1
+359,https://github.com/Altaeb/media_player_App.git,"{"":octocat:This is a companion project to The App Brewery's Complete Flutter Development Bootcamp,""}",,1
+360,https://github.com/Altaeb/flutter_App.git,"{"":octocat:This is a companion project to The App Brewery's Complete Flutter Development Bootcamp,""}",,1
+361,https://github.com/seanmbills/FamilyFriendlyBreweryTracker.git,Repository for the Family Friendly Brewery Tracker Project for Junior Design.,,1
+362,https://github.com/MexpressoBean/To-Do-List.git,To Do List Web App - Made during 2019 Web Developer Bootcamp at the London App Brewery.,,1
+363,https://github.com/Altaeb/magic_8_ball_App.git,"{"":octocat:This is a companion project to The App Brewery's Complete Flutter Development Bootcamp,""}",,1
+364,https://github.com/DerekWW/Brew-Finder.git,A simple brewery finder using google maps and the brewerydb API.,,1
+365,https://github.com/Altaeb/diceeApp.git,"{"":octocat:This is a companion project to The App Brewery's Complete Flutter Development Bootcamp,""}",,1
+366,https://github.com/sriveragithub/dc-front-end-project.git,"{""Barrel Hop - Brewery search website utilizing 3 different APIs. Where's the next adventure?""}",,1
+367,https://github.com/beerkit/beer.api.js.git,"{""Beer 'n' brewery service in JavaScript using the beer.db HTTP JSON(P) API""}",,1
+368,https://github.com/openbeer/ch-confoederatio-helvetica.git,"Free open public domain beer, brewery n brewpub data for Switzerland (Schweiz) / Europe",,1
+369,https://github.com/openbeer/ie-ireland.git,"Free open public domain beer, brewery n brewpub data for Irland / Europe",,1
+370,https://github.com/t8lv4/Destini.git,a choose your own adventure game -- London App Brewery coding challenge,"game,londonappbrewery,codechallenge",1
+371,https://github.com/okize/trillium.git,cli app that displays which cans are available at Trillium Brewery locations,,1
+372,https://github.com/Altaeb/flutter_Apps.git,"{"":octocat:This is a companion project to The App Brewery's Complete Flutter Development Bootcamp,""}",,1
+373,https://github.com/Altaeb/my_card_App.git,"{"":octocat:This is a companion project to The App Brewery's Complete Flutter Development Bootcamp,""}",,1
+374,https://github.com/pedrochiossi/Todoey.git,Todoey is a tutorial iOS app for the App Brewery iOS App Development course.,,1
+375,https://github.com/Altaeb/altaeb_office_FlutterApp.git,"{"":octocat:This is a companion project to The App Brewery's Complete Flutter Development Bootcamp,""}",,1
+376,https://github.com/openbeer/collections.git,"Beer n brewery collections (e.g. great beers from the british isles, europe, america, etc.)",,1
+377,https://github.com/LewisErick/brewery-sales-prediction.git,Make a projection of sales for the Teotihuacan Brewery in the JDA HackMTY Challenge,,1
+378,https://github.com/asingh33/Flutter5_Quizzler.git,"{""A basic flutter quiz app based on App Brewery's part5 tutorial.""}",,1
+379,https://github.com/Altaeb/destini_App.git,"{"":octocat:This is a companion project to The App Brewery's Complete Flutter Development Bootcamp,""}",,1
+380,https://github.com/ThePragmatic20/Flutter_Apps.git, 15 Flutter Apps from the  Flutter course from the App Brewery,"flutter,dart,brewery",1
+381,https://github.com/PraveenNunna/BeerSearch.git,"This project will allow you to browse, search and filter beers and breweries. It also provide information on beer. This project is developed using Angular js and using data from brewerydb.com.",,1
+382,https://github.com/koltondecker/quarantinis.git,"{""A Materialize framework built application using 2 external API's to search and generate a variety of cocktail recipes and find and locate breweries on a map in city of user's searching.""}",,1
+383,https://github.com/Anthony-G89/Local_Wire.git,"{""Local Wire is an application for you to see the nearest local breweries, restaurants, and events. All you have to do is enter your city and you'll get your results.""}",,1
+384,https://github.com/dclechok/beer-client-cli.git,"{""This application produces a CLI (command line interface) that let's you look through a list of local breweries in Butler County, PA and it retrieves a short description of each.""}","brewery,beer-circuit-cli,cli",1
+385,https://github.com/LynnBoudreau/ProjectOne.git,"This application fulfills the users drinking needs. It allows the user to search for breweries by town/city, state as well as look up cocktail recipes by ingredients they have on hand.",,1
+386,https://github.com/lankaukk/where_is_my_beer_project.git,Command Line Interface (CLI) to an external Brewery API. The CLI is be composed of an Object Oriented Ruby application.,,1
+387,https://github.com/dariusturner/ejs-challenge.git,EJS Challenge to create a blog site project for a Full Stack Developer Course made by The App Brewery,,1
+388,https://github.com/mauedu93/Drinking-habit-of-global-population.git,Analysis of alcohol consumption around the world to determine inventory levels of a wine a brewery establishment.,,1
+389,https://github.com/dmitryrocha/Flutter_mi_card.git,"{""Business card made using Flutter as part of App Brewery's The Complete 2020 Flutter Development Bootcamp""}",,1
+390,https://github.com/davydog187/ecto_ipa.git,A tour of Ecto using data from https://en.wikipedia.org/wiki/List_of_breweries_in_New_York,,1
+391,https://github.com/iandesj/beerscraper.git,Compendium of scripts to scrape and parse beer lists from Michigan-based brewery websites. A collaborative effort.,,1
+392,https://github.com/chrisjm/brewery-review-nlp.git,Brewery review analysis and summarization with NLP - Springboard Data Science Career Track - April 2020 Cohort - Final Capstone,"springboard,springboard-data-science,spacy,nlp,brewery-review",1
+393,https://github.com/parth58/Flutter_Demo_Apps.git,"This Repo contains the project developed during the Course ""Introduction to Flutter Development Using Dart""  By The App Brewery.",,1
+394,https://github.com/ArviinM/Drum-Kit.git,Simple project and a part of the course from App Brewery - edited sounds and added more stuffs.,,1
+395,https://github.com/hsankalp/brewtiful.git,"React app for beer lovers (search brewery by name, size and location filters) | React Hooks, OpenBreweryDB, Leaflet, Picsum and Bootstrap",,1
+396,https://github.com/dnuzum/beervana.git,"{""It's Beer:30. Learn how to brew or search for any beer or brewery you could possibly imagine.""}",,1
+397,https://github.com/AmruthBellala/AppBrewery_100Days_Coding_Challenges_Exercises.git,This Repo contains all the coding exercises of App Brewery 100-Days-of-coding-challenge in Python,,1
+398,https://github.com/Altaeb/quizzler_App.git,"{"":octocat:This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, quiz app that tests your general knowledge.""}",,1
+399,https://github.com/openbeer/oberfranken.git,"Free open public domain beer, brewery n brewpub data for Bamberg & Upper Franconia in Bavaria, Germany (Bamberg & Oberfranken in Bayern, Deutschland ) / Europe",,1
+400,https://github.com/cscade/BCS.client.git,A node.js implementation of a read-only client for the BCS-460 and BCS-462 brewery automation controllers with robust read-through caching.,,1
+401,https://github.com/eddieduro/BrewTown.git,"{""Find local brewery's and places pouring your favorite beers - search based on name, type, location, etc... built with ReactJS, Gmaps API, BreweryDB, Firebase""}",,1
+402,https://github.com/stekaye/simon_game.git,"{""A clone of the London App Brewery Simon Game (https://londonappbrewery.github.io/Simon-Game/). Completed as part of Angela Yu's fantastic Complete 2020 Web Development Bootcamp.""}",,1
+403,https://github.com/allena29/brewerslabng.git,Temperature/Power control for a home brewery. This project intends to rewrite existing code- but provide separation between the code and the data.,,1
+404,https://github.com/theKunz/FamilyFeud.git,"Free, open source family feud program that runs on the .NET framework. Convenient for your Family Feud trivia night at the bar or brewery!",,1
+405,https://github.com/odowdbrendan/TokenTraveler.git,"Android application with the goal of attracting players to visit local coffee shops, breweries, and nature parks around Asheville, NC.  Players collect tokens by physically visiting points of interest, tracked using a Google Location Services API.  Mapbox mapping software is used to design the map interface.",,1
+406,https://github.com/Adenugakolade-02/Data-analytics-using-SQL.git,"This respository contains my answers to Utiva Data analytics competition. The data was gotten from the international breweries data recorded for a duration of three years. I provided profit analysis, brand analysis and countries analysis, in order to aid better decision making so as to maximize profit and reduce loss to the lowest minimal.",,1
+407,https://github.com/BsgauthierWebDev/Brewpub-Locater-API-Project.git,"Displays a list of brewpubs in a user-designed area, pulled from the Open Brewery DB site. User can access websites (where applicable) for locations and organize the list by distance from a chosen start point.",,1
+408,https://github.com/Kanishka3/XyloiPhone.git,This is a xylophone made under the guidance of Udemy instruction angelo working at london app brewery. I downloaded the skeleton project from udemy and continued working on it,,1
+409,https://github.com/correyananta/Analyses-and-Predict-Global-Drinking-Habits.git,Problem: Analyses and Predict Global Drinking Habits Data using Jupiter notebook and IBM Watson Studio. New York is a global city with over 846 spoken languages. A new wine and brewery establishment wants to analyze the drinking habits of the population by nationality to help determine their inventory.,,1
+410,https://github.com/AngelinoPalce/iOS13-Quizzler-App.git,"Quizzler App - iOS App Design Pattern and Code Structuring - I am one of the students of the App Brewery in the course, ""iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp"". This project, we are uploading the finished product coming from this module.",,1
+411,https://github.com/jhoyos135/Brewery_finder_app.git,"BrewZzzz allows beer connoisseurs to find the perfect brewery for their weekend outing...night out on the town...vacation...Whatever it may be, by providing a location-based search function complete with the current weather in that locale. It doesn’t stop there though! We all know what happens when you have a few too many...ZzzzZzzz….So BrewZzzz goes the next step to help its thirsty friends find nearby hotels so that they can have all of the fun, and none of the worry about driving home after.",,1
+412,https://github.com/OverDEdge/Quiz-App.git,"{""A simple Quiz App that gives the user a number of questions where they can answer 'True' or 'False' by pressing one of two buttons. During the quiz the result is shown as icons at the bottom: green checkmark for correct and red cross for incorrect.  At the end of the Quiz the total score is displayed with a button that gives the option to restart the quiz.  The inspiration for the app has been taken from the London Brewery App Turtorial: https://github.com/londonappbrewery/quizzler-flutter""}",,1
+413,https://github.com/timmyvc123/iOS-Quiz-App.git,"A quiz app that asks the user 13 true or false questions. It has a progress bar at the bottom of the storyboard that lets the user know what question they\'re on. There is also a score at the bottom of the right of the story board that tells the user how many questions they\'ve gotten correct. Also, after each question an alert pops up saying ""correct"" or ""wrong"" depending on what the user picked, as well as an alert after all questions have been answered that asks the user if they want to restart. I followed video tutorials from the London app brewery through Udemy to create this.",,1
+414,https://github.com/sfg-beer-works/sfg-brewery-order-service.git,SFG Brewery Order Service,,0
+415,https://github.com/spring-cloud-samples/brewery-config.git,Configuration for the Brewery,,0
+416,https://github.com/sfg-beer-works/sfg-brewery-config.git,Config Server for Brewery Applications,,0
+417,https://github.com/MStewGT/FindMeBeer.git,Beginner React project making use of an API to return a list of breweries in a given city. https://findmebeer.app,hacktoberfest,0
+418,https://github.com/bgtaber/brewcrew_project.git,Brewery Analysis ,,0
+419,https://github.com/Naprogramuji/Unciv-Fermentation.git,"Unciv tech mod with brewing, hops, hop houses and breweries",,0
+420,https://github.com/MC180G/BrewFinder.git,Location finder for closest breweries to current locale.,,0
+421,https://github.com/paulgmiller/MVB.git,Minium viable brewery,,0
+422,https://github.com/zackapotamus/Brew-2-You.git,"Discover, rate, and go to breweries/beer",,0
+423,https://github.com/matthouk/pubcoin.git,Pubcoin. A rewards token for breweries. ,,0
+424,https://github.com/SippinSuds/bungo.git,beer/brewery app to identify beers on revolving taps,,0
+425,https://github.com/zilchlorf/RGG_Tours.git,"Site to book tours of breweries, dispensaries and wineries.",,0
+426,https://github.com/cmadding/BeersAndBreweries.git,A Study of Beers and Breweries in the US,,0
+427,https://github.com/Sevag1990/home-brewery.git,Control system for home brewery,,0
+428,https://github.com/cabbycab/brewery_advisor_client.git,"View breweries in Austin, TX, NYC, NY, or San Diego, CA. Full CRUD app.",,0
+429,https://github.com/joseph-marlitt/Park-Explorer.git,We help you easily find breweries easily accessible by public transportation. ,,0
+430,https://github.com/adamzaninovich/sd-brew-hop.git,"{""A web application to track the breweries you've been to in San Diego""}",,0
+431,https://github.com/cindyledev/webDevelopmentBootcamp.git,"The Complete 2020 Web Development Bootcamp by Dr Angela Yu, App Brewery on Udemy",,0
+432,https://github.com/emijoha/Ales-and-Trales.git,"{""A web application integrating multiple server-side APIs that takes user's search input to populate pins for both trails and breweries on an interactive map.""}",,0
+433,https://github.com/cabbycab/brewery_advisor_api.git,Backend to the Brewery Advisor frontend. ,,0
+434,https://github.com/bradbotcode/Crown-Town-Crafts.git,"{""Charlotte beer application that connects user's to the beers and breweries of Charlotte based on their search preferences. ""}",,0
+435,https://github.com/aleppla/SMU-Doing-Data-Science-Project1.git,"An analysis of the Beers data set, a list of 2410 US craft beers and 558 US breweries. ",,0
+436,https://github.com/tabor-northup/https-www.brewersassociation.org-directories-breweries-.git,Breweries,,0
+437,https://github.com/snore00/Breweries.git,Breweries Website,,0
+438,https://github.com/fastikq/Breweries.git,Breweries list,,0
+439,https://github.com/sfdcbrewery/Pok-monLightningWebComponent.git,Pokémon Lightning Web Component Open Source Version by SFDC Brewery ,,0
+440,https://github.com/jackalow13/BreweriesData.git,Breweries Data,,0
+441,https://github.com/dlawrie63137/brewguide.git,Locate breweries,,0
+442,https://github.com/tcrump38/Projects-1.git,"A brewery locating app using materialize, javascript and html.",,0
+443,https://github.com/BenGroff/Breweries.git,Finds Local Breweries using Open Brewery API,,0
+444,https://github.com/ryanmcalpin/beer-finder.git,Find beers and breweries.,,0
+445,https://github.com/abhinavjhaofficial/Search-Breweries.git,Search breweries using Api,,0
+446,https://github.com/AdamElsbury/vueapp.git,Repo for Breweries classwork,,0
+447,https://github.com/olsonso/BeerBrews.git,React application for breweries ,,0
+448,https://github.com/mrodgers25/sandiegobreweries.git,San Diego Breweries,,0
+449,https://github.com/juliuskamau/ubl.git,Uganda Breweries Limited,,0
+450,https://github.com/motiejuskasp/breweries.git,breweries route problem,,0
+451,https://github.com/Antyneskul/brewLocator.git,Map of German Breweries ,,0
+452,https://github.com/meliyahu/breweries.git,Angular app listing breweries,,0
+453,https://github.com/MakoaDeVincent/local_breweries_cli.git,Local Breweries CLI Project,,0
+454,https://github.com/RMandava6/SMUCaseStudy01.git,CaseStudy01 - Beers and Breweries,,0
+455,https://github.com/nateewall/USBreweriesAnalysis.git,Analysis of US Breweries,,0
+456,https://github.com/joydamola93/SalesDemo.git,Analyzing for International breweries  ,,0
+457,https://github.com/ThijsMaenhout/BreweryModule.git,Odoo Module for Breweries,,0
+458,https://github.com/juliuskamau/Serengeti-Breweries-Limited-.git,Serengeti Breweries Limited ,,0
+459,https://github.com/VitaliyButsan/Breweries.git,Breweries list with description,,0
+460,https://github.com/madrigje/Beers-and-Breweries-API.git,Beers and Breweries API,,0
+461,https://github.com/Vitalchi4ik/RestAssuredTestWithGauge.git,"Test ""Search Breweries"" endpoints",,0
+462,https://github.com/ashwinder24/BrewDo.git,Recipes app for breweries,,0
+463,https://github.com/samdotson1992/TN_Beer.git,breweries in Tennessee,,0
+464,https://github.com/ninjagirl2018/BattleOfTheBreweries.git,Battle of the Breweries,,0
+465,https://github.com/indujoev/local-breweries.git,Breweries via OpenBreweryDB API,,0
+466,https://github.com/javajazz98/breweries_cli_beer.git,Cli project about breweries ,,0
+467,https://github.com/TheBlueReview/idahoCraftBreweries.git,Idaho Craft Breweries (Geo),,0
+468,https://github.com/tylerhuimingalone/brew-ery-views.git,Review site for Breweries,,0
+469,https://github.com/javajazz98/breweries_cli.git,About beer and breweries. ,,0
+470,https://github.com/warsec/BeerAnalytics.git,Breweries Visualizations (1996-2012),,0
+471,https://github.com/croossin/BeerHunter.git,Find Local Breweries,,0
+472,https://github.com/brownwood/nbp.git,for Nigeria breweries,,0
+473,https://github.com/BuyingANew-Soul/brewery-search.git,Search for breweries anywhere,,0
+474,https://github.com/krzysztofrewak/browary.git,Visited breweries summary microapp,"breweries,map",0
+475,https://github.com/johnshawstudent/brewery.git,directory for breweries,,0
+476,https://github.com/johnshawstudent/beer.git,a directory for breweries,,0
+477,https://github.com/andrew1835/In_The_Moment.git,Discover events and breweries ,,0
+478,https://github.com/Kmbaria/george-breweries.git,breweries get beer angular application ,,0
+479,https://github.com/dhavalptl/breweries.git,To know more about breweries,,0
+480,https://github.com/chrisjm/san_diego_breweries_scraper.git,San Diego Breweries scraper script,,0
+481,https://github.com/nbrailsford/nbrailsford-Beer-Me.git,find local breweries near you,,0
+482,https://github.com/IamNuru/opk.git,website for oppoku kyekyeku breweries,,0
+483,https://github.com/tonymwinters/Beerio.git,Find Local Breweries by GeoLocation,,0
+484,https://github.com/Jouddeken/vue-breweries.git,Breweries List made with Vue,,0
+485,https://github.com/rhart211/6306_Case_Study_1.git,Beers and Breweries Case Study,,0
+486,https://github.com/quynhhgoogoo/Craft-Breweries.git,American Craft Breweries data visualization,"d3js,d3-visualization,tweenmax,map",0
+487,https://github.com/krisGTech/DDS_Project_01.git,Analysis of Beers and Breweries ,,0
+488,https://github.com/michielvandijk/DutchMicroBrew.git,Analysis of Dutch micro-breweries,,0
+489,https://github.com/wtmullins/Breweries.git,CRUD App for National Breweries,,0
+490,https://github.com/dotzet-consulting/brewITyourself.git,Vertical ERP for breweries management,,0
+491,https://github.com/Kiebert/breweries.git,React app to find breweries,,0
+492,https://github.com/Kmbaria/Kmbaria.github.io.git,My cool angular App (Breweries),,0
+493,https://github.com/fjae/brewITyourself.git,Vertical ERP to manage breweries,,0
+494,https://github.com/dawidzawada/brewery-finder.git,Find breweries in your city!,,0
+495,https://github.com/dotzet/brewITyourself.git,Vertical ERP for breweries management,,0
+496,https://github.com/DFuenning/Brewery-App.git,App for Breweries by Criteria,,0
+497,https://github.com/cidsinga/Brewery-Locator.git,lists breweries in entered city,,0
+498,https://github.com/nikihashemi/breweries_us.git,Overview of US Breweries data,,0
+499,https://github.com/bbarrantes3/florentina.git,Brewery,,0
+500,https://github.com/tchelidze/Brewery.git,Brewery,,0
+501,https://github.com/kjo133/brew.git,brewery,,0
+502,https://github.com/nclar015/brewslocal.git,BrewsLocal - Find Local Craft Breweries,,0
+503,https://github.com/ohfr/BrewBase.git,App that finds breweries nearby,,0
+504,https://github.com/Bhavya001/my-angular-app.git,Breweries Angular App! @localhost:4200,,0
+505,https://github.com/rodrigomd94/store-locator.git,Micro breweries locator using mapbox,,0
+506,https://github.com/dsims00/final_project.git,brewery,,0
+507,https://github.com/whoerman/Breweries.git,a search engine for breweries based on open Brewery API,,0
+508,https://github.com/MayraCruz94/mssc-brewery.git,brewery,,0
+509,https://github.com/james-randolph-50/HowAbout.git,React App for Browsing Breweries - Uses Open Brewery Database (OBD),,0
+510,https://github.com/jsharief/brewery.git,brewery,,0
+511,https://github.com/ekieser/BrewCity.git,Uses Open Brewery DB to find breweries nearby.,,0
+512,https://github.com/justinochoa5792/brewery-app.git,locate breweries near you with open brewery api,,0
+513,https://github.com/wtmullins84/Breweries.git,"Breweries is a website for people to share local breweries, reviews, menus, and location data.",,0
+514,https://github.com/NathanRThomas/BeerLoop.git,List of breweries from my place,,0
+515,https://github.com/gavinquirk/brewapp.git,an app which finds local breweries,,0
+516,https://github.com/jon-livingstone/CraftMaps.git,A search app for local craft breweries,,0
+517,https://github.com/chris-lej/FindMyBrew.git,WebApp to find breweries accross the US.,,0
+518,https://github.com/nick-stew/breweries_cli_project.git,It will show you breweries in states.,,0
+519,https://github.com/misaelntirushwa/breweries.git,A Spring Boot Application for Breweries,,0
+520,https://github.com/megelismi/brewery-app.git,Search by city for local breweries,,0
+521,https://github.com/antonioortegajr/breweries-in-portland.git,"Map of breweries in Portland, OR",,0
+522,https://github.com/marcosvpj/brewery-api.git,An API to breweries and craft beers.,,0
+523,https://github.com/dmaul12/brew-search.git,Search for breweries and add user comments,,0
+524,https://github.com/motowilliams/MontanaBreweries.git,List of Breweries for Big Sky Country,,0
+525,https://github.com/elcojacobs/grid-react.git,Grid based (tiled) web interface for breweries,,0
+526,https://github.com/sanjaystone/MSDS6306ProjectUSBeer.git,MSDS Case Study #1: Beers & Breweries,,0
+527,https://github.com/scottherford/Beers-Breweries.git,MSDS 6306 Case Study 1 Beers & Breweries,,0
+528,https://github.com/davidkim310/brewlove.git,Search and favorite your favorite breweries!,,0
+529,https://github.com/renempineda/Craft-Beer-Analysis.git,Analysis of Craft Beers and Breweries,,0
+530,https://github.com/gavinquirk/HopStop.git,find local breweries and relevant information,,0
+531,https://github.com/kerrygathers/nycbrew.git,Map of NYC Brewers Guild member breweries,,0
+532,https://github.com/hemlockfarms/breweries.git,A collection of breweries I have visited,,0
+533,https://github.com/dasmalz/dasmalz.github.io.git,A map showing Malzbier breweries in Germany,,0
+534,https://github.com/thomftz/nc_breweries.git,🍺   Searchable list of NC Breweries and beers,,0
+535,https://github.com/seanpmcb/wheres_the_beer.git,Scouring twitter in search of local breweries.,,0
+536,https://github.com/klmarsh4/BrewYou.git,This app will locate nearby breweries.,,0
+537,https://github.com/OpenWaterFoundation/owf-data-co-breweries.git,Open Water Foundation dataset for Colorado breweries,,0
+538,https://github.com/dasveloper/BreweriesIn.git,Directory of breweries in the US,,0
+539,https://github.com/bjer123/MsuMicroBreweries.git,Microsoft University Lab Project - Micro Breweries,,0
+540,https://github.com/fritzgerald21/cincy-brews.git,A list of active breweries in Cincinnati,,0
+541,https://github.com/Nima99/The-Brewers.git,Find nearby breweries for the local brews.,,0
+542,https://github.com/megnhild/brewery-finder.git,locate breweries based on different criteria,,0
+543,https://github.com/CookieMonsteriOS/breweries.git,React Application allowing users to find breweries,,0
+544,https://github.com/charley81/gitDrafts.git,Search breweries across the United States ,"beer,breweries",0
+545,https://github.com/teskew/Breweries_Cli_Project.git,CLI  data application for breweries co ,,0
+546,https://github.com/TheBeerNetwork/thebeerlife.git,A social network for finding breweries,,0
+547,https://github.com/drregg6/phila-brews.git,A directory for Philadelphia based breweries,,0
+548,https://github.com/danielcmckay/HomeBrew.git,An app for finding new local breweries,,0
+549,https://github.com/PorzioDario/WhereIsMyPub.git,Simple Ionic App to view american breweries,,0
+550,https://github.com/Eurusa/State_Breweries.git,graph plot of breweries count statewise,,0
+551,https://github.com/sshaffer/cheersmi.git,Cheers Michigan - A website about Michigan breweries,,0
+552,https://github.com/lukemccrae/bikepathmevanillajs.git,Randomly generated bike paths to local breweries,,0
+553,https://github.com/koneruteja/plenty-of-brew.git,Site where you look for local breweries ,,0
+554,https://github.com/jordanbegian/brewskidoodle.git,Web Application to find breweries by state,,0
+555,https://github.com/Jarlskov/breweries.git,Timeline and map of Danish breweries,,0
+556,https://github.com/alexpojman/BreweryTour.git,Mobile App for Discovering Local Breweries,,0
+557,https://github.com/jladams/breweryMap.git,Map of breweries in the US,,0
+558,https://github.com/djblumenthal/brewery-navigator.git,Find and rate breweries and beers,,0
+559,https://github.com/skligerman/IndyBeerList.git,a list of breweries in Indianapolis,,0
+560,https://github.com/jackfoust/deprecated-craft-breweries.git,Craft Breweries I no longer consider craft.,,0
+561,https://github.com/janetcushing/brewquest.git,An app to search for local breweries:,"mern-stack,mongodb,express,react,node,auth0,material-ui,google-maps,html5,css3,javascript",0
+562,https://github.com/mayank-1/Angular-Cool-App.git,Listing down breweries from Differect locations,,0
+563,https://github.com/gjwajda/BrewerySupplyChainDapp.git,A prototype supply chain dapp for breweries,,0
+564,https://github.com/generocha/favoriteBreweriesMap.git,Custom Google Maps with my favorite breweries,,0
+565,https://github.com/speedy012/Find-Your-Brew-Frontend.git,Web App to find local breweries ,,0
+566,https://github.com/cindyxlee/breweryopedia.git,An app to help discover nearby breweries,,0
+567,https://github.com/munrocape/toronto-bottleshops.git,Bottleshop inventory listings for breweries in Toronto.,,0
+568,https://github.com/CRStevens54/Nashua-Breweries.git,Data Product Project to show Nashua Breweries,,0
+569,https://github.com/brassagem-forte/breweries.git,List of Breweries all around the world.,,0
+570,https://github.com/realdanielbyrne/BeersCaseStudy.git,The Beers dataset contains a list of 2410 US craft beers and Breweries dataset contains 558 US breweries. ,,0
+571,https://github.com/Malt-a-bars/maltabar.git,Brewery control,,0
+572,https://github.com/Sitecore-Hackathon/2018-Digital-Brewery.git,Digital Brewery,,0
+573,https://github.com/rmcbride2121/Brewery-API.git,Brewery Locator,,0
+574,https://github.com/hanguyen0/dice.git,App Brewery,,0
+575,https://github.com/yfernandes/Beer-Me.git,Brewery Automation,,0
+576,https://github.com/thanhpt0105/mc-brewery.git,Brewery service,,0
+577,https://github.com/sushilamanral/mssc-brewery.git,mssc-brewery,,0
+578,https://github.com/BREW-APP/BREWLOVE-APP.git,brewery application,,0
+579,https://github.com/reachingsunny123/mssc-brewery.git,mssc-brewery,,0
+580,https://github.com/fykidwai/mssc-brewery-gateway.git,Brewery Gateway,,0
+581,https://github.com/frednias/BrewerySimulator.git,Brewery simulator,,0
+582,https://github.com/danielrlambert3/brewery.git,Brewery App,,0
+583,https://github.com/BrittLHeth/Final-Project.git,brewery data,,0
+584,https://github.com/Nobles07/mssc-brewery.git,Brewery Microservice,,0
+585,https://github.com/sfg-beer-works/sfg-restful-brewery.git,Restful Brewery,,0
+586,https://github.com/rajukbn/mssc-brewery.git,SFG brewery,,0
+587,https://github.com/micyo10/mybrewlist-clientgatsby.git,Brewery listings,,0
+588,https://github.com/PirmasPuslapis/ventura.git,Ventura Brewery ,,0
+589,https://github.com/mcarvalhodev/mssc-brewery-gateway.git,Brewery Gateway,,0
+590,https://github.com/Biro123/ms-brewery.git,Brewery microservice,,0
+591,https://github.com/iampawands/microservice-brewery.git,service-brewery,,0
+592,https://github.com/andylushman/DU-Group-Project1.git,Brewery Tour,,0
+593,https://github.com/robertmeans/evergreenbrewery.git,Evergreen Brewery,,0
+594,https://github.com/serranisimo/mssc-brewery.git,Brewery Microservice,,0
+595,https://github.com/doifodeamol/mssc-brewery.git,mssc-brewery,,0
+596,https://github.com/enam/brewview.git,brewery class,,0
+597,https://github.com/ovasilenkovc/brewery.git,brewery repo,"java,backend",0
+598,https://github.com/sbrij001/Brewery.git,Brewery Pairing,,0
+599,https://github.com/ajuvendra/mssc_brewery.git,MSSC brewery,,0
+600,https://github.com/navedbc/mssc-brewery.git,brewery project,,0
+601,https://github.com/Amrindersingh1/Brewery-microservices.git,Brewery Microservice,,0
+602,https://github.com/GevenM/BrewSystem.git,Brewery Controller,,0
+603,https://github.com/noemibalazs/RestaurantsFinder.git,Brewery Finder,,0
+604,https://github.com/reevmods/advanced-brewing.git,Enhancing Brewery ,,0
+605,https://github.com/jasonc-dev/mssc-brewery-gateway.git,Brewery Gateway,,0
+606,https://github.com/danvarga1985/mssc-brewery-gateway.git,Brewery Gateway,,0
+607,https://github.com/Richard-st/brew-control.git,Brewery Controller,,0
+608,https://github.com/akshay-panchakshari/mssc-brewery.git,mssc-brewery,,0
+609,https://github.com/cucosion/mssc-brewery.git,mssc-brewery,,0
+610,https://github.com/murataltinay/mssc-brewery.git,# mssc-brewery,,0
+611,https://github.com/tailrin/brewery-app.git,brewery-app,,0
+612,https://github.com/aalcamo/mssc-brewery-gateway.git,Brewery Gateway,,0
+613,https://github.com/lbrowning/Story.git,App Brewery,,0
+614,https://github.com/wlyons09/homebrewery.git,Brewery Website,,0
+615,https://github.com/jacbop/bub.git,Brewery assistant,,0
+616,https://github.com/osyoyu/osyoyubrew.git,Shoyu brewery,,0
+617,https://github.com/braxtondiggs/Blastoise.git,Brewery Tracker,"deno,typescript",0
+618,https://github.com/coderroggie/theBrewery.git,The Brewery,,0
+619,https://github.com/godzhila/brewery.git,for brewery,,0
+620,https://github.com/8percent/homebrew-brew.git,8percent brewery,,0
+621,https://github.com/OswaterBrewingCo/brewery-controller.git,Brewery Controller,,0
+622,https://github.com/jkill123/mssc-brewery.git,mssc-brewery,,0
+623,https://github.com/nitinkrs2000/mssc-brewery.git,mssc-brewery,,0
+624,https://github.com/kmoreti/kmoreti-brewery.git,KMoreti Brewery,,0
+625,https://github.com/lmayorga1980/breweryhaus.git,Brewery API,,0
+626,https://github.com/Madireddymmk/scms-brewery.git,Brewery microservice,,0
+627,https://github.com/gwrobertson/nsb-brewery-website.git,brewery website,,0
+628,https://github.com/kugaevsky/affigen.ru.git,Affigen Brewery,,0
+629,https://github.com/NotBoire/chinco.git,Chinco Brewery,,0
+630,https://github.com/zed-ash/mssc-brewery-client.git,Brewery Client,,0
+631,https://github.com/andersondebrito/abo-brewery.git,ABO-brewery,,0
+632,https://github.com/vandagrifte/BITS-vandagrifte.git,Brewery Program,,0
+633,https://github.com/nlehmanDLC/mssc-brewery-client.git,Brewery Client,,0
+634,https://github.com/swarnabhapaul/fftb-brewery-site.git,Brewery site,,0
+635,https://github.com/ruchir-agrwl/ms-brewery.git,"Brewery Microservice,",,0
+636,https://github.com/toheed046/mssc-brewery.git,SFG Brewery,,0
+637,https://github.com/colmose/Shackelton.git,Brewery Management,,0
+638,https://github.com/gidmonbrewing/Brewery.git,Brewery automation,,0
+639,https://github.com/martinsaporiti/brewery-bom.git,Brewery Bom,,0
+640,https://github.com/eavinash1983/mssc-brewery.git,SFG brewery,,0
+641,https://github.com/damchy/mssc-brewery.git,SFG Brewery,,0
+642,https://github.com/earthapple/bragwr.git,Brewery controller,,0
+643,https://github.com/mscottsinclair/brewinator.git,Brewery Controller,,0
+644,https://github.com/mpieratt/HalfPint.git,Brewery Simulator,,0
+645,https://github.com/oddy-bassey/mssc-brewery.git,SFG-Brewery,,0
+646,https://github.com/sergiogolin/henequet.git,Henequet Brewery,,0
+647,https://github.com/uziandari/bmbrew.git,brewery website,,0
+648,https://github.com/gzentkovich/mssc-brewery-gateway.git,Brewery Gateway,,0
+649,https://github.com/vcheruk2/microservices-brewery.git,Brewery Microservice,,0
+650,https://github.com/teskew/project_Cli_Brewery.git,Brewery project,,0
+651,https://github.com/DominicPaiso/startnow-react100-hackathon.git,A brewery finder app that will help you find breweries near you by inputting your city.,,0
+652,https://github.com/mkuch90/BrewDuino.git,Arduino Brewery,,0
+653,https://github.com/jpanoff/jpanoff.github.io.git,Brewery site,,0
+654,https://github.com/gonzaloan/breweryMS.git,MS Brewery,,0
+655,https://github.com/ggab78/mssc-beer-service.git,brewery application,,0
+656,https://github.com/jbreitzman/mssc-brewery.git,SFG Brewery,,0
+657,https://github.com/jsmit032/secrets-app.git,Udemy: The Complete 2020 Web Development Bootcamp by London App Brewery. Learning about Authentication & Security.,"mongodb,mongoose,mongodb-atlas,nodejs,expressjs,passportjs,oauth,oauth2,express-session,heroku,heroku-app",0
+658,https://github.com/R-Aravind/brewaries-app.git,Angular Tutorial: Application to retrieve and display a list of breweries from Open Brewery DB API,"angular,typrescript,tutorial-code,hacktoberfest",0
+659,https://github.com/mlucas24/LondonAppBrewery-PersonalWebsite.git,"{""My personal website made with the help of London App Brewery's Udemy web development bootcamp""}",,0
+660,https://github.com/stubrew24/tapadvisor.git,The TripAdvisor of brewery taprooms. Leave reviews and follow breweries for updates.,,0
+661,https://github.com/d-actor/react-brews.git,Web client for discovering beers and breweries using the brewery db api,,0
+662,https://github.com/Beaulieu527/ma_breweries.git, Brewery search that allows you to find all of the local Massachusetts breweries,,0
+663,https://github.com/keskinner/BreweryFinder.git,Filters through all breweries in a city and narrows down a search by brewery type.,,0
+664,https://github.com/ericnielsen/brewhalla.git,A brewery search tool for beer connoisseurs who want to discover Orange County breweries,,0
+665,https://github.com/Neurocaster/REST_API_test.git,Send a zip code to Brewery DB and display a list of breweries in that area.,,0
+666,https://github.com/charley81/tap-app.git,search breweries in a location using the Open Brewery DB API,,0
+667,https://github.com/chrisdamico/singlePageJavascriptWebApp.git,"A Javascript/HTML5/jQuery CRUD code test, with breweries!",,0
+668,https://github.com/meingorn/Beer_Release_Tracker.git,Rails app meant to track releases from breweries,,0
+669,https://github.com/pocketens/PennBeerapp.git,"Python App, links to PA Breweries beer pages",,0
+670,https://github.com/tothutra/bottleshot-management-rails-app.git,"{""Web app managing wineries and breweries' bottleshots orders""}",,0
+671,https://github.com/TonyuhJo/brewhound.git,Search for breweries across the country with BrewHound,,0
+672,https://github.com/pugetbrandon/BarleyWorks.git,Automated brewery control system for a custom designed brewery.,,0
+673,https://github.com/FernandoNunez-Dev/Craft-Beverage-Locator.git,Search for breweries near you.  Click link for live demo===>,"javascript,bootstrap,api,html5,css3",0
+674,https://github.com/kennethiheans/International_Breweries.git,A compilation of code used in Breweries analysis,,0
+675,https://github.com/aditki/Beer-Reviews.git,A php web application to review beers and breweries,,0
+676,https://github.com/twbarber/tap-alert.git,Monitor Bars and Breweries for Updated Tap Selection,,0
+677,https://github.com/MonikaPetr/Beer-brewery-api-app.git,Search for beer breweries all around the world,,0
+678,https://github.com/joshalmasin88/wp_plugin_brewfinder.git,A wordpress widget to find breweries near you ,,0
+679,https://github.com/chrisbajorin/beer_tour.git,Find local breweries that produce your favorite style of beer!,,0
+680,https://github.com/RandonJordan/Brewscovery.git,Web Appllication to find your favorite beers from different breweries,,0
+681,https://github.com/dollydoxyfree/BrewHub.git,Find nearby breweries after a long day on the trails.,,0
+682,https://github.com/ryanziuke/brewery-finder.git,A website that helps you find breweries in your area,,0
+683,https://github.com/tylerfoulkes/wp_brewery-theme.git,Source code to a Wordpress theme designed for micro breweries ,,0
+684,https://github.com/neilgamb/HopAroundClt.git,Interactive map of all the breweries in Charlotte,,0
+685,https://github.com/j-arsenault/Brewery-Tracker.git,Simple MVC Razor Application to track Breweries and Beers,,0
+686,https://github.com/georgeglessner/BreweryLocator.git,Alexa skill that finds breweries in a given city,,0
+687,https://github.com/noahthedev/APIs-for-IPAs.git,A brewery finder built on Open Brewery DB,,0
+688,https://github.com/catherinekenny/nl-breweries.git,An app showing craft beer breweries in Newfoundland and Labrador.,,0
+689,https://github.com/idblr/brewtruck.git,"Daily food trucks at Breweries in Golden, CO",,0
+690,https://github.com/soundparticle/beer-finder.git,App to search database of beers and breweries.,,0
+691,https://github.com/axially1/Case-Study-1.git,Case Study 1 - Beers and Breweries - Bilma Sanchez,,0
+692,https://github.com/fdmckie/BreweriesDataFromBreweryDBAPI.git,Exercise: Breweries Data from BreweryDB API (Advance Data Analytics),,0
+693,https://github.com/plutownium/Breweries-Map.git,A map of many many breweries in California.,,0
+694,https://github.com/addblack/wp-and-brewery-api.git,"Create, get and update CPT from breweries api in WordPress.",,0
+695,https://github.com/emilyleblanc/project-2-rebecca-emily.git,API project at Juno College.  Search for Breweries.,,0
+696,https://github.com/opuseleven/brewery-search.git,A simple app to search a database of breweries.,,0
+697,https://github.com/jjchambl/Bham-Brews.git,"{""A website showcasing Birmingham's local breweries using Angular.js""}",,0
+698,https://github.com/valdero/rails-ratebeer.git,Ruby on Rails application for ratings of local breweries,,0
+699,https://github.com/GCordero1/NY_Loves_Beer.git,Creating a director of craft breweries in NYC. Capstone project.,,0
+700,https://github.com/shayla-moore/brewery-react-challenge.git,"My ReactJs Application displaying beer breweries in Hanover, PA.",,0
+701,https://github.com/jimbobding/Bar-Hop-UK.git,A website designed to find you breweries in the UK,,0
+702,https://github.com/LoganRobb/Boneface-Website.git,This is my recreation of the Boneface Breweries website ,,0
+703,https://github.com/richwesley/brewerydb.git,App to find breweries and brew for a pub crawl,,0
+704,https://github.com/nathan1324/TexasBeerGeek.git,Website that contains Texas local beers and breweries.,,0
+705,https://github.com/kelly-tnguyen/breweries.git,Locating all of the breweries in a zipcode with API,,0
+706,https://github.com/cocoellis/Beer-Club.git,This starter app helps users find breweries in their area,,0
+707,https://github.com/pickle-weasel/BreweryApp.git,"Visualization of San Diego Breweries, Beer, and Ratings",,0
+708,https://github.com/daniel-vargas96/api-hackathon.git,An application for people who want to locate nearby breweries ,,0
+709,https://github.com/vijayvardhan94/BrewView.git,Rails app to view breweries by location- by city,,0
+710,https://github.com/graysonhicks/brewaround.git,Search for breweries in your area with your zip code.,"react,node,heroku,yeoman",0
+711,https://github.com/samdotson1992/KY_beer.git,A web map showcasing the breweries in Kentucky. ,,0
+712,https://github.com/josibake/tapsie.io.git,lil web app for finding breweries in seattle ,,0
+713,https://github.com/thevalenciandev/beer-tracker.git,A simple RESTful API of beers and breweries,"spring-boot,hateoas,restful-api",0
+714,https://github.com/mildmelon/brew-buddy.git,"{""Search for the closest breweries to a state's capital.""}",,0
+715,https://github.com/kpresta04/beerme.git,Find top breweries in your area. Built in VanillaJS,,0
+716,https://github.com/rajeshsk/DDS-Project-One.git,This Repository contains information about Breweries and Beer analysis,,0
+717,https://github.com/danielriley06/brewerytracker.git,Simple CRUD app to track breweries you have visited.,,0
+718,https://github.com/NateThomas55/BreweryApp.git,using brewerydb to find new beers and breweries,,0
+719,https://github.com/scannata37/Beerrit.git,Angular Website that displays information about different Breweries ,,0
+720,https://github.com/samdotson1992/KY_beer.git,A web map showcasing the breweries in Kentucky. ,,0
+721,https://github.com/josibake/tapsie.io.git,lil web app for finding breweries in seattle ,,0
+722,https://github.com/thevalenciandev/beer-tracker.git,A simple RESTful API of beers and breweries,"spring-boot,hateoas,restful-api",0
+723,https://github.com/mildmelon/brew-buddy.git,"{""Search for the closest breweries to a state's capital.""}",,0
+724,https://github.com/rajeshsk/DDS-Project-One.git,This Repository contains information about Breweries and Beer analysis,,0
+725,https://github.com/kpresta04/beerme.git,Find top breweries in your area. Built in VanillaJS,,0
+726,https://github.com/danielriley06/brewerytracker.git,Simple CRUD app to track breweries you have visited.,,0
+727,https://github.com/NateThomas55/BreweryApp.git,using brewerydb to find new beers and breweries,,0
+728,https://github.com/scannata37/Beerrit.git,Angular Website that displays information about different Breweries ,,0
+729,https://github.com/GeoffZC/SouthDakotaWebMap.git,An interactive web map of breweries in South Dakota.,,0
+730,https://github.com/rockchalkwushock/Bro2Brew_App.git,Thinkful Capstone #1 Project: API Hack for finding local breweries.,,0
+731,https://github.com/WindDAnalytics/CaseStudy01.git,Doing Data Science Section 405 Case Study about Breweries,,0
+732,https://github.com/realsaul00/Breweries.git,A python project about the breweries in the US.,,0
+733,https://github.com/fikramulla/6306-TeamStars-B-B.git,Analysis of Beers and Breweries in the US,,0
+734,https://github.com/Beamer92/Alexa-Brewery-Finder.git,Alexa Skill to find random breweries near me,,0
+735,https://github.com/vogelsara/crafted-in-sweden.git,Meeting place for craft beer lovers and breweries.,,0
+736,https://github.com/NB28VT/Beerica-0.0.1.git,An app for tracking the state of breweries by state,,0
+737,https://github.com/melmoshi/CalgaryBreweriesMap.git,A map of the best breweries in Calgary.,,0
+738,https://github.com/kevinbandy/breweryList.git,A UI for finding and learning about breweries,,0
+739,https://github.com/boudreau14/BreweryApp.git,Web application designed to locate breweries based on user input.,,0
+740,https://github.com/januszpolak/angular-breweries-app.git,This app display most of breweries in US,,0
+741,https://github.com/jallend1/breweries.git,"{""Simple web app for searching breweries with OpenBrewery's API""}",,0
+742,https://github.com/Loft47/loft_bot_brewery_tour.git,Help Loft Bot find Breweries for the tour.,,0
+743,https://github.com/stockandawe/beerhunt.git,A place to find good beer and breweries.,,0
+744,https://github.com/ericuldall/california-craft-breweries.git,A quasi-exhaustive list of operational craft breweries in California.,,0
+745,https://github.com/nasnyder91/brewery_tour.git,"Search for breweries by city, state, name, or type.",,0
+746,https://github.com/LizLeki/project_brew.git,An exploration of craft breweries across the United States.,"r,ggplot2,webscraping,beer,beer-statistics",0
+747,https://github.com/greesik/hopito.git,A simple React app for one of my favourite breweries.,,0
+748,https://github.com/mikkoJJ/pienpanimopeli.git,A newsgame prototype about managing small breweries in Finland.,,0
+749,https://github.com/inspectordanno/craft_beer_viz.git,A visualization about U.S. craft breweries and beers,"craft-beer,breweries,beer,data-visualization,united-states-data",0
+750,https://github.com/mcnamara14/brewerydb.git,App that locates breweries and displays their current beer selection,,0
+751,https://github.com/benoittgt/biereanantes.git,Map of breweries and bars in Nantes with craft beers,,0
+752,https://github.com/adrifern48/brewery-search.git,A client and server to query for breweries,,0
+753,https://github.com/Frank-Rauen/Frank-Rauen.github.io.git,An app to help locate beers and breweries,,0
+754,https://github.com/whoerman/Brewery-Adventure.git,Find Breweries in every state using an open API,,0
+755,https://github.com/braican/neighbrewhood.git,Keep track of the breweries you go to.,,0
+756,https://github.com/adamluchini/breweries-in-pdx.git,Breweries in and around PDX according to Adam and Marty,,0
+757,https://github.com/Blackbaud-JasonRikard/Beerbaud.git,Displays breweries by state with breweryDB and Blackbaud Sky UX,,0
+758,https://github.com/aoifeburckhardt/breweryDB-repo.git,A web app to explore beers and breweries,,0
+759,https://github.com/ryanpeterson08/portland-breweries-v2.git,updating portland breweries to be a MEAN stack application,,0
+760,https://github.com/cakeholeDC/U-BREW.git,Angular application for finding breweries by state using openbrewerydb,,0
+761,https://github.com/c-smith7/An-Analysis-of-Beer.git,"A multivariate analysis of beer, beer styles, and breweries. ","data-analysis,data-analysis-python,beer-statistics,data-visualization,data-cleaning,beer-advocate-dataset",0
+762,https://github.com/JeremyThimmesch/brewapp.git,Ruby on Rails Application: Minneapolis - St. Paul Breweries,,0
+763,https://github.com/mcarlin27/brew2U.git,a program where a user can query breweries by location,,0
+764,https://github.com/elbaumpj/brewery-app.git,node + express app for your fav breweries and restaurants,,0
+765,https://github.com/edgarmantes/MapMyBrewery.git,Finding local breweries using google API and BreweryDB API,,0
+766,https://github.com/tanvi-arora/Beerplant.git,This repository is for Analyzing US Breweries data,,0
+767,https://github.com/pharmon9847/nc_craft_breweries.git,The foundation code for the NC Breweries project,"python,javascript,d3js,d3-visualization,leaflet,flask,mongodb",0
+768,https://github.com/EmilyShearer/bestLexBreweries.git,"A map of the top 15 Breweries in Lexington, KY",,0
+769,https://github.com/stephbarker/broogle.git,An app that searches for breweries by city!🍻,,0
+770,https://github.com/mvaldesdeleon/microbrew.git,"A microbrewery or craft brewery is a brewery that produces small amounts of beer, typically much smaller than large-scale corporate breweries, and is independently owned. Such breweries are generally characterized by their emphasis on quality, flavor and brewing technique.",,0
+771,https://github.com/bowens23/mybierhere.git,"{""Bierhere is an app that lets users find about about local breweries. Users can rate beers they've tried from local breweries and see where their nearby breweries are located.""}",,0
+772,https://github.com/rwhitmore90/BreweryDashboard.git,Brewery Dashboard for Whitmoretech,,0
+773,https://github.com/cgiacofei/pybrew.git,Python based brewery control.,,0
+774,https://github.com/Yuweh/Magic8Ball.Sample.git,London App Brewery Project,,0
+775,https://github.com/Yuweh/Xylophone-Make-Music-App.git,From London App Brewery,,0
+776,https://github.com/rock-walker/brewery.git,my mini-brewery shop,,0
+777,https://github.com/cookedm87/BreweryDB.git,brewery database project,,0
+778,https://github.com/bmajor01/Release.git,Home brewery HMI,,0
+779,https://github.com/davxdan/MSDS_6306_DoingDataScience_Case-Study_01.git,Brewery Data Analysis,,0
+780,https://github.com/jacbop/dunkel.git,Brewery Calc API,,0
+781,https://github.com/ortizen/BMI.git,App Brewery Chapter,,0
+782,https://github.com/mel2121/brewApi.git,Brewery lookup by state,,0
+783,https://github.com/9aN3D/mssc-brewery.git,Spring MVC Brewery Microservice,,0
+784,https://github.com/Wishman/quizzler.git,Dart App Brewery Excercise,"flutter,appbrewery",0
+785,https://github.com/Slypher1/BookGameExample.git,Flutter - Challenge App Brewery,,0
+786,https://github.com/dlawrie63137/breweries.git,responsive brewery search,,0
+787,https://github.com/HH964/SMU-Project-one.git,U.S. Brewery Finder,,0
+788,https://github.com/GabrielGardev/mssc-brewery-client.git,Spring MVC Brewery Client,,0
+789,https://github.com/Azhara17/Dicee-game.git,App Brewery challenge,,0
+790,https://github.com/lddamola/webBootcamp.git,App Brewery Web Bootcamp,,0
+791,https://github.com/artshishkin/art-sfg-mssc-brewery-config-repo.git,Brewery Configuration Repository,,0
+792,https://github.com/thestereoscopics/whatalesye.git,Brewery database application,,0
+793,https://github.com/Richard-st/arduino-XML.git,Arduino brewery 2,,0
+794,https://github.com/rosapso/rosapso.github.io.git,Big Time Brewery hosting,,0
+795,https://github.com/VanillaCortex/BreweryApp.git,Repository voor Brewery app,,0
+796,https://github.com/bmajor01/brewHMI.git,Home brewery HMI,,0
+797,https://github.com/dfcoffin/mssc-brewery-client.git,Spring MVC Brewery Client,,0
+798,https://github.com/rosart-dev/brewery-search.git,Brewery Search website,,0
+799,https://github.com/wagner-morais/brewery-client.git,Brewery Client Microservice,,0
+800,https://github.com/JohnBreenSr/mssc-brewery.git,The brewery app,,0
+801,https://github.com/brundozer/pragma-brewery.git,Pragma Brewery coding challenge,,0
+802,https://github.com/jchaconv/mcs-brewery.git,Spring MVC Brewery Microservice,,0
+803,https://github.com/eriklowrance/Project-1-BrewNorris.git,An app for travelers looking to connect with local breweries. Allows a user to search for breweries by city with the option to save and share those breweries with others via email.,,0
+804,https://github.com/LOGre/pico_hop_dropper.git,pico brewery hop dropper,,0
+805,https://github.com/lvaligra/BreweriesInMaine.git,Craft brewery finder.,,0
+806,https://github.com/dornellesleandro/mssc-brewery-client.git,MSSC brewery client microservice,,0
+807,https://github.com/pedroeml/pragma-server.git,Pragma Brewery NestJS server,,0
+808,https://github.com/klaakso/osmotar.git,Osmotar Brewery Controller,"esp32,arduino,beer,brewing,brewery,brewing-beer,iot,mqtt,ds18b20,pid",0
+809,https://github.com/foolingcoder/mssc-brewery-gateway.git,Mssc Brewery Gateway,"spring-gateway,spring-boot,eureka-service-discovery",0
+810,https://github.com/ondrej-silha/mikropivovar.git,Homemade brewery control system,,0
+811,https://github.com/Maxomys/mssc-brewery.git,SFG Brewery Microservice,,0
+812,https://github.com/RyanRumseyBR/Story.git,app brewery my masterpiece,,0
+813,https://github.com/ursus-home-brewery/cydr.git,strona ursus-home-brewery,,0
+814,https://github.com/danvarga1985/mssc-brewery-config-repo.git,MSSC-Brewery-Config-Repo,,0
+815,https://github.com/morodev/brewery-monolith.git,Brewery UI Monolith,,0
+816,https://github.com/evertharmeling/brouwkuyp-control.git,Brouwkuyp brewery control software,,0
+817,https://github.com/ragnarka/rj-brewery.git,A brewery app,,0
+818,https://github.com/brotherlogic/thornbridgeathon.git,Brewery Drink Map,,0
+819,https://github.com/erikLovesMetal/oregon-brewery-locator.git,oregon brewery locator,,0
+820,https://github.com/gregd307/Brewery.git,Raspberry Pi Brewery,,0
+821,https://github.com/GrandBeggar/SKJ-Controls.git,Brewery Controls Project,,0
+822,https://github.com/szeidman/brewery.git,Brewery management application,,0
+823,https://github.com/jacbop/brewery.git,personal brewery calc library,,0
+824,https://github.com/hejdujir/HejBrew.git,Brewery built on Arduino,,0
+825,https://github.com/lucas-rds/brewery.git,Therm Brewery 2000,,0
+826,https://github.com/yoyoyo11/dicee-flutter.git,App Brewery Dicee Tutorial,,0
+827,https://github.com/yoyoyo11/i_am_rich.git,App Brewery Tutorial 1,,0
+828,https://github.com/PauloJorgeJunior/brewery.git,SFG Brewery API,,0
+829,https://github.com/kl-services/ms-services-bom.git,BOM For Brewery Services,,0
+830,https://github.com/neerajpuri/mssc-brewery-client-master.git,mssc-brewery-client-master,,0
+831,https://github.com/seetide/mssc-brewery-bom.git,microservice brewery bom,,0
+832,https://github.com/WilliamWhite86/WishYouWereBeer.git,A brewery location app,,0
+833,https://github.com/baileyeet/clima-bootcamp.git,from The App Brewery,,0
+834,https://github.com/ckeefe90/Hoppy-Hunting-Client.git,A brewery searching app,,0
+835,https://github.com/aalcamo/mssc-brewery-client.git,Brewery Client uses RestTemplate,,0
+836,https://github.com/SahinOnl9/mssc-brewery.git,Initializing brewery project ---SFG,,0
+837,https://github.com/tpstocker/brewery_api.git,Brewery App using api,,0
+838,https://github.com/Delightfully-Nerdy/Simon-Game.git,App brewery challenge,,0
+839,https://github.com/rock-walker/shiny-fiesta.git,my mini-brewery shop,,0
+840,https://github.com/jordanchristie/Jorsquare-Search.git,Brewery search app,,0
+841,https://github.com/OlegMarko/brewery.git,Web templates for brewery,,0
+842,https://github.com/ColBrewer/the-distillery.git,A Brewery Boilerplate,,0
+843,https://github.com/develbit/dicee.git,London App Brewery,,0
+844,https://github.com/karinecardoso/brewery-challenge.git,Brewery Code Challenge,,0
+845,https://github.com/DomLJ/Brewfinder.git,Brewery Searching Website,,0
+846,https://github.com/smodarressi/ETL_Project.git,Brewery Ratings in California,,0
+847,https://github.com/timericson/Todoey.git,App Brewery tutorial,,0
+848,https://github.com/pjpardo/mssc-brewery-client.git,Spring MVC Brewery Client ,,0
+849,https://github.com/NewForce-at-Mountwest/es6-modules.git,Brewery search app,,0
+850,https://github.com/jmattfeld/bbbrew.git,beaglebone automated brewery project,,0
+851,https://github.com/Truroer/brewery-backend.git,backend for brewery app,,0
+852,https://github.com/arunprasadbh/mssc-brewery.git,Simple Brewery app,,0
+853,https://github.com/DocsWebApps/mssc-brewery-spring.git,Microservice course: Brewery microservice,,0
+854,https://github.com/nicolaspernoud/malt_app.git,A brewery managing app,,0
+855,https://github.com/damchy/mssc-brewery-client.git,Spring MVC Brewery Client,,0
+856,https://github.com/pbinny/mssc-brewery.git,MSSC Brewery -- Spring MVC ,,0
+857,https://github.com/Artoiss/Nassukat-brewing.git,Brewery website/blog,,0
+858,https://github.com/clreyes6/mi_card_flutter.git,From App brewery,,0
+859,https://github.com/gnmz/brewery.git,work with brewery api,,0
+860,https://github.com/saleco/mssc-brewery-bom.git,Mssc Brewery Bom ,,0
+861,https://github.com/jsobryan/ciderpage.git,fake cider brewery,,0
+862,https://github.com/lo-windigo/battlehill.git,Battle Hill Brewery website,,0
+863,https://github.com/omiologic/finback.git,demo finback brewery site,,0
+864,https://github.com/kameshsampath/brewery-config.git,my brewery config sample,,0
+865,https://github.com/Dnlwieger/Sud_Sensei.git,Brewery finding app,,0
+866,https://github.com/chlab/unikum.beer.git,Website of my brewery,,0
+867,https://github.com/adtechnerd/mic-ser-brewery.git,Brewery micro service ,,0
+868,https://github.com/akashabhishek1/CV.git,App Brewery Html Traning,,0
+869,https://github.com/Jitu7/mssc-brewery-client.git,Beer Works - Brewery Client,,0
+870,https://github.com/ssorrychoi/flutter_brewery.git,The app Brewery Study ,,0
+871,https://github.com/martinezcarlos/mssc-brewery.git,MiscroServices Spring Cloud Brewery,,0
+872,https://github.com/9aN3D/mssc-brewery-client.git,Spring MVC Brewery Client,,0
+873,https://github.com/steinko/brewery.git,A brewery application,"java,junit5,mockito,springboot,docker,sonarqube,appengine,tdd,gradle",0
+874,https://github.com/yappie96/Story.git,App Brewery GitHub Demo,,0
+875,https://github.com/mhr75/Xylophone.git,Learning From App Brewery,,0
+876,https://github.com/lo-windigo/battlehill.git,Battle Hill Brewery website,,0
+877,https://github.com/omiologic/finback.git,demo finback brewery site,,0
+878,https://github.com/kameshsampath/brewery-config.git,my brewery config sample,,0
+879,https://github.com/Dnlwieger/Sud_Sensei.git,Brewery finding app,,0
+880,https://github.com/chlab/unikum.beer.git,Website of my brewery,,0
+881,https://github.com/akashabhishek1/CV.git,App Brewery Html Traning,,0
+882,https://github.com/Jitu7/mssc-brewery-client.git,Beer Works - Brewery Client,,0
+883,https://github.com/adtechnerd/mic-ser-brewery.git,Brewery micro service ,,0
+884,https://github.com/ajuvendra/mssc-brewery-client.git,MSSC Brewery Client,,0
+885,https://github.com/nam054/keeperProjectReact-Final.git,London App Brewery,,0
+886,https://github.com/shreeshasa/mssc-brewery-gateway.git,MSSC Brewery Gateway,,0
+887,https://github.com/Ajengcp/Drum-Kit.git,"{""app brewery's""}",,0
+888,https://github.com/Delightfully-Nerdy/portfolio.git,intermediate css (app brewery),,0
+889,https://github.com/mgudlin/Story2.git,App Brewery Ex 2,,0
+890,https://github.com/dhadaway/trip-b.git,tripb brewery site,,0
+891,https://github.com/jerrygarciab/NEMinator.git,NEM Brewery Admin System,,0
+892,https://github.com/Bhoff909/IE-Brew.git,Brewery POS system,,0
+893,https://github.com/Victor-Jansson/brewery.git,Supervision of the brewery,,0
+894,https://github.com/dahnielkim/brewery-list.git,Brewery List Application,react,0
+895,https://github.com/mataanabucar/Brewster.git,code for brewery imporium ,,0
+896,https://github.com/franciscocalderon2/Todoey.git,Todoey: London App Brewery,,0
+897,https://github.com/CryptoRodeo/Broogle.git,Beer Brewery Search Engine🍺,,0
+898,https://github.com/kydubois/DatabaseDesign.git,DataHaus Brewery Database Design,,0
+899,https://github.com/akainoto/FlashChat-iOS13.git,App Brewery Exercise,,0
+900,https://github.com/cwalbanese/thirsty-brewery-search.git,Thirsty Brewery Search App,,0
+901,https://github.com/Vsmith408/brew-masters.git,Brewery search app,,0
+902,https://github.com/sham-gaurav/mssc-brewery-client.git,client for brewery,,0
+903,https://github.com/Elevencode/mi-card.git,App Brewery course lesson,,0
+904,https://github.com/danvarga1985/mssc-brewery-config-server.git,MSSC-Brewery-Config-Server,,0
+905,https://github.com/davcliff/BeerMaps.git,Brewery finder app.,,0
+906,https://github.com/mcannamela/brew-control.git,Controls our brewery,,0
+907,https://github.com/ksc4130/osBrew.git,Owens Station Brewery,,0
+908,https://github.com/LieslMarie/Beardy-Brews.git,Fake Brewery Website,,0
+909,https://github.com/jeepnjeff/brewrey.git,Brewery Home Page,,0
+910,https://github.com/joelbitar/brewery.git,Brewery related code,,0
+911,https://github.com/Targgus/beerFinder.git,Local Brewery Finder,,0
+912,https://github.com/piseaakash/mssc-brewery.git,Springframeworkguru Microservices Brewery Project,,0
+913,https://github.com/ortizen/Clima.git,App Brewery Clima App,,0
+914,https://github.com/agamdaz/i_am_rich.git,App Brewery Flutter exercise,,0
+915,https://github.com/livdroid/mister_dicey.git,App brewery tutorial,,0
+916,https://github.com/chandu3015/mssc-brewery-client.git,client for mssc-brewery,,0
+917,https://github.com/IoannisLafiotis/Brewery.git,Beer brewery microservices,,0
+918,https://github.com/padmaramesh/mssc-brewery-client.git,Brewery Client Consumer,,0
+919,https://github.com/drkms/kms.beer.git,Website of my Brewery,,0
+920,https://github.com/Craig831/mi_card_flutter.git,app brewery bootcamp course,,0
+921,https://github.com/Mr-randomize/msscbrewerybom.git,MSSC Brewery BOM,,0
+922,https://github.com/Coolerhino/flutter-learning.git,from app brewery,,0
+923,https://github.com/rwbasso/ohioBreweryFiles.git,Ohio Brewery Web Files,,0
+924,https://github.com/evansimoni/brew_bar_baz.git,Brewery discovery app,,0
+925,https://github.com/kameshsampath/brewery_doc.git,Brewery on OpenShift Docs,,0
+926,https://github.com/danp3d/nerdbrew.git,Arduino-based brewery control,,0
+927,https://github.com/the-brewery/the-brewery.github.io.git,The Brewery Tech Blog,,0
+928,https://github.com/Ralven/Croma.git,Croma Brewery Application,,0
+929,https://github.com/EmrKsm/AyudaCodingChallenge.git,Brewery Web Site,,0
+930,https://github.com/mataanabucar/Brewster.git,code for brewery imporium ,,0
+931,https://github.com/franciscocalderon2/Todoey.git,Todoey: London App Brewery,,0
+932,https://github.com/CryptoRodeo/Broogle.git,Beer Brewery Search Engine🍺,,0
+933,https://github.com/kydubois/DatabaseDesign.git,DataHaus Brewery Database Design,,0
+934,https://github.com/cwalbanese/thirsty-brewery-search.git,Thirsty Brewery Search App,,0
+935,https://github.com/akainoto/FlashChat-iOS13.git,App Brewery Exercise,,0
+936,https://github.com/Vsmith408/brew-masters.git,Brewery search app,,0
+937,https://github.com/sham-gaurav/mssc-brewery-client.git,client for brewery,,0
+938,https://github.com/Elevencode/mi-card.git,App Brewery course lesson,,0
+939,https://github.com/danvarga1985/mssc-brewery-config-server.git,MSSC-Brewery-Config-Server,,0
+940,https://github.com/wwelchre/tvb.git,Twisted Vine Brewery,,0
+941,https://github.com/Fewoman/LAB.git,London App Brewery Training,,0
+942,https://github.com/arhartwe/Telco.git,Telco Brewery Website,,0
+943,https://github.com/droxine/mssc-brewery-sam.git,Based on SSC Brewery,,0
+944,https://github.com/pmirville/breweryDBTest.git,Brewery DB Test,,0
+945,https://github.com/pedroeml/pragma-client.git,Pragma Brewery Angular client,,0
+946,https://github.com/justinesymphony/brewery.git,A simple brewery API,,0
+947,https://github.com/RMrobb1e/IntermediatePolymerPractice.git,Used brewery API,,0
+948,https://github.com/ortizen/todoey.git,App brewery app,,0
+949,https://github.com/svmihar/flutter-stuff.git,app brewery course,,0
+950,https://github.com/fykidwai/mssc-brewery-bom.git,MSSC Brewery POM,,0
+951,https://github.com/tsimas/mssc-brewery.git,udemy mssc-brewery lessons,,0
+952,https://github.com/jamiegrain/business_card_app.git,App Brewery Flutter Course,,0
+953,https://github.com/joseNarvaez83/mssc-brewery-eureka.git,mssc-brewery-eureka,,0
+954,https://github.com/ddawkinsSMU/BreweryProject.git,DDS6306 Brewery Project Winter21,,0
+955,https://github.com/restoready/brewery.git,Thème RestoReady Brewery,,0
+956,https://github.com/jormar2k/ardu-pi-brew.git,Arduino raspberry pi brewery,,0
+957,https://github.com/roc-craven/Bugnutty.git,Bugnutty Brewery Project,,0
+958,https://github.com/TheBrewery/TheBrewery.github.io.git,The Brewery website,,0
+959,https://github.com/LouiseMac/Story.git,London App Brewery test,,0
+960,https://github.com/luckym1/home_brew.git,Automated home brewery,,0
+961,https://github.com/dfcoffin/brewery-monolith.git,SFG Brewery Monolith,,0
+962,https://github.com/dfcoffin/mssc-brewery-bom.git,MSSC Brewery BOM,,0
+963,https://github.com/studiox-web/brewplus.git,brewery loyalty program,,0
+964,https://github.com/tdar31/Seattle-Brewery-Search.git,Seattle-Brewery-Search,,0
+965,https://github.com/AmanVerma0512/Quizzler-App-AS.git,London App Brewery Project,,0
+966,https://github.com/kyledorton/Brewery.git,Brewery VR and AR,,0
+967,https://github.com/chandana-tech/mssc.brewery-client.git,Brewery Client application,,0
+968,https://github.com/KudryashovAlexander/The-App-Brewery.git,The App Brewery,,0
+969,https://github.com/sushkrish/Android-Weather-App.git,Using London Brewery Tutorial,,0
+970,https://github.com/giorgiofrittoli/mssc-brewery-service-bom.git,Brewery service bom,,0
+971,https://github.com/mmkurt/mssc-brewery.git,microservice for brewery,,0
+972,https://github.com/saleco/mssc-brewery-config-repo.git,MSSC Brewery Configs,,0
+973,https://github.com/adityajoshi/mssc-brewery.git,Spring MVC Brewery Microservice,,0
+974,https://github.com/samopal-pro/MiniBrewery.git,Mini Brewery Controller,,0
+975,https://github.com/philn5d/BreweryFinder.git,Find a brewery!,,0
+976,https://github.com/philipcristiano/brewery-manager.git,IoT Brewery Manager,,0
+977,https://github.com/bstephens/BreweryMarketingAnalysis.git,Brewery Marketing Analysis Application,,0
+978,https://github.com/JackWCollins/blueskiesbrewery.git,Blue Skies Brewery website,,0
+979,https://github.com/galadude/BrewSim.git,Make a brewery,,0
+980,https://github.com/eisforellen/Quiz.git,Name that brewery quiz,,0
+981,https://github.com/andrewtatham/brewery.git,Wrath & Ruin Brewery Website,,0
+982,https://github.com/william251082/BreweryApp.git,Brewery Locator WebApp,,0
+983,https://github.com/seanpisano/final-project-3.git,Brewery beer finder,,0
+984,https://github.com/mlingsch52/beer-me.git,brewery inventory tracking,,0
+985,https://github.com/yoyoyo11/xylophone.git,App Brewery Xylophone Example,,0
+986,https://github.com/saw142/Beer-Finder.git,Beer / Brewery Search application,,0
+987,https://github.com/MatMiLam/Brewly.git,Brewery finder web app,,0
+988,https://github.com/rickybell/micro-brewery-web.git,micro_brewery_web,,0
+989,https://github.com/denver92john/brewerySearch.git,A brewery search app,,0
+990,https://github.com/pkorianski/Brew-ineering.git,Brewery Technology Platform (PoC),,0
+991,https://github.com/bobscott45/mssc-brewery.git,Spring Guru Brewery Project,,0
+992,https://github.com/LedioPapa/mssc-brewery-client.git,MSSC Brewery Client,,0
+993,https://github.com/skhandge/mssc-brewery-bom.git,MSSC Brewery BOM,,0
+994,https://github.com/danvarga1985/mssc-brewery-eureka.git,MSSC Brewery Eureka,,0
+995,https://github.com/felipem11/hoopstux-brewery.git,SFG Tux Brewery Microservice,,0
+996,https://github.com/seongilp/ohmybrew.git,Small Brewery in Korea,,0
+997,https://github.com/ricardocantu/brewmasterlog.git,Beer and Brewery Journal,,0
+998,https://github.com/rdraward/ottawa-craft-beer-map-es6.git,Ottawa Brewery Map,,0
+999,https://github.com/dhackelman/the-iron-yard-day-6-HW.git,Responsive Brewery Site,,0
+1000,https://github.com/n-bryant/responsiveBrewerySite_SCSS.git,Responsive Brewery Site,,0
+1001,https://github.com/AfterHoursGameDev/Yellowhammer.git,Yellowhammer Brewery Game,,0
+1002,https://github.com/gradybknight/brewery-spa.git,SPA for brewery project,,0
+1003,https://github.com/ggrow3/flutter_appbrewery.git,app brewery course,,0
+1004,https://github.com/abjorshammar/open-brewery.git,Open source brewery software,,0
+1005,https://github.com/rajendrachavan/mssc-brewery.git,Brewery Project using microservices.,,0
+1006,https://github.com/CCARREON16/BreweryProject.git, My Brewery Project,,0
+1007,https://github.com/kamrinkennedy/breweries.git,American Brewery API / CLI,,0
+1008,https://github.com/DimitrisKandylis/eshop_Project.git,Brewery eshop using Laravel.,,0
+1009,https://github.com/prasannasapkota1717/xylophone.git,from london app brewery,,0
+1010,https://github.com/shreeshasa/mssc-brewery-bom.git,MSSC Brewery BOM,,0
+1011,https://github.com/saleco/mssc-brewery-eureka.git,Brewery Eureka Discovery Server,,0
+1012,https://github.com/DobryninVyacheslav/mssc-brewery.git,Spring MVC Brewery Microservice,,0
+1013,https://github.com/cmanix07/mssc-brewery-service.git,mssc-brewery-service,,0
+1014,https://github.com/devpunumalli/mssc-brewery-bom.git,mssc-brewery-bom,,0
+1015,https://github.com/vijaykglg/mssc-brewery-client.git,SFG Brewery Client,,0
+1016,https://github.com/caparrosmatias/brewery.git,brewery management system,,0
+1017,https://github.com/sivakrishna7/mssc-brewery.git,Spring MVC Brewery Microservice,,0
+1018,https://github.com/kartik15nov/Brewery-Client.git,Beer Service - Brewery Client,,0
+1019,https://github.com/GabrielGardev/mssc-brewery.git,Spring MVC Brewery Microservice,,0
