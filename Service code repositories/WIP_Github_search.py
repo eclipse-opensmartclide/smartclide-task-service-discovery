@@ -6,7 +6,7 @@ from datetime import datetime
 from github import Github
 from github import RateLimitExceededException
 
-ACCESS_TOKEN = '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'  # Github persoal API
+ACCESS_TOKEN = 'token here'  # Github persoal API
 g = Github(ACCESS_TOKEN)
 
 # We look at the readme and the project description
