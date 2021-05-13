@@ -1,0 +1,1050 @@
+,Url,Description,Topics,Stars
+0,https://github.com/ColorlibHQ/AdminLTE.git,AdminLTE - Free admin dashboard template based on Bootstrap 4,"bootstrap,admin-dashboard,admin,admin-template,admin-panel",38552
+1,https://github.com/tabler/tabler.git,Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap,"dashboard,html,bootstrap,sass,scss,boilerplate-template,admin-dashboard,dashboard-templates,modular,dashboards,themes,jekyll,css,adminpanel,bootstrap4-theme,uikit,ui-kit,bootstrap5,sponsors,html5",23402
+2,https://github.com/akveo/ngx-admin.git,Customizable admin dashboard template based on Angular 10+,"webpack,bootstrap4,admin,admin-dashboard,dashboard,framework,typescript,responsive,sass,ng2,admin-ui,angular2,ng2-admin,ngx-admin,theme,admin-template,material-theme,angular9,angular-dashboard-template,angular10",22578
+3,https://github.com/ColorlibHQ/gentelella.git,Free Bootstrap 4 Admin Dashboard Template,"bootstrap,dashboard,admin-dashboard,html,html-template,colorlib",20132
+4,https://github.com/getredash/redash.git,"Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.","redash,python,visualization,analytics,bi,redshift,bigquery,athena,mysql,postgresql,dashboard,javascript,business-intelligence,databricks,spark,spark-sql,hacktoberfest",18707
+5,https://github.com/yaronn/blessed-contrib.git,Build terminal dashboards using ascii/ansi art and javascript,,14251
+6,https://github.com/FormidableLabs/webpack-dashboard.git,A CLI dashboard for webpack dev server,"webpack,dashboard,devtools,dx,cli,webpack-dashboard,cli-dashboard,socket-communication",13782
+7,https://github.com/wtfutil/wtf.git,The personal information dashboard for your terminal,"golang,dashboard,terminal,tui,cui,go,devops,wtf,wtfutil",12429
+8,https://github.com/Shopify/dashing.git,The exceptionally handsome dashboard framework in Ruby and Coffeescript.,,11117
+9,https://github.com/gizak/termui.git,Golang terminal dashboard,,10912
+10,https://github.com/keen/dashboards.git,Responsive dashboard templates 📊✨,"dashboard,templates,keen-io,analytics,analytics-dashboard,charts,grid,css-grid,css-grid-layout,css-grid-template",10872
+11,https://github.com/d2-projects/d2-admin.git,An elegant dashboard,"vue,admin,element-ui,axios,vuex,vue-cli,vue-cli3,element,vue-admin,admin-template,mock,admin-dashboard,desktop,management-system,webpack,i18n,dashboar,xlsx,csv,fontawesome",10431
+12,https://github.com/creativetimofficial/material-dashboard.git,Material Dashboard - Open Source Bootstrap 4 Material Design Admin,"bootstrap-material,material-dashboard,creative-tim,material-design,material-ui,material-theme,bootstrap-4,bootstrap4,bootstrap-theme,admin,admin-dashboard,admin-template",9701
+13,https://github.com/afaqurk/linux-dash.git,A beautiful web dashboard for Linux,"linux,dashboard,monitoring,server,web,ui,linux-dash",9540
+14,https://github.com/aksakalli/gtop.git,System monitoring dashboard for terminal,,8454
+15,https://github.com/Freeboard/freeboard.git,"A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.",,6102
+16,https://github.com/ankane/pghero.git,A performance dashboard for Postgres,,5933
+17,https://github.com/notwaldorf/tiny-care-terminal.git,"{""💖💻 A little dashboard that tries to take care of you when you're using your terminal.""}",,5860
+18,https://github.com/alexazhou/VeryNginx.git," A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards. ",,5600
+19,https://github.com/zouhir/jarvis.git,A very intelligent browser based Webpack dashboard,"webpack,dashboard,build-tool",5400
+20,https://github.com/thoughtbot/administrate.git,A Rails engine that helps you put together a super-flexible admin dashboard.,"ruby,rails,admin-dashboard",5101
+21,https://github.com/fdehau/tui-rs.git,Build terminal user interfaces and dashboards using Rust,"dashboard,tui,terminal,rust",4962
+22,https://github.com/invertase/rdash-angular.git,AngularJS implementation of the RDash admin dashboard theme,,4752
+23,https://github.com/knadh/listmonk.git,"High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.","email-marketing,newsletter,newsletter-management,mailing-list,smtp,self-hosted,email-campaigns,listmonk,email-subscription,campaign-management,campaign,sms-gateway,fcm-messaging",4659
+24,https://github.com/FormidableLabs/nodejs-dashboard.git, Telemetry dashboard for node.js apps from the terminal!,"nodejs,telemetry,monitoring",3902
+25,https://github.com/gridstack/gridstack.js.git,Build interactive dashboards in minutes.,"gridstack,gridstackjs,dashboards",3703
+26,https://github.com/puikinsh/Adminator-admin-dashboard.git,"Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more",,3685
+27,https://github.com/hygieia/Hygieia.git,CapitalOne  DevOps Dashboard,"devops,dashboard,hygieia,delivery-pipeline,visualization,continuous-delivery,continuous-deployment,continuous-integration",3607
+28,https://github.com/0wczar/airframe-react.git,Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe,"react,airframe,reactjs,bootstrap,boostrap4,admin,admin-dashboard,ui-components,react-components,dashboard",3527
+29,https://github.com/ColorlibHQ/AdminLTE.git,AdminLTE - Free admin dashboard template based on Bootstrap 4,"bootstrap,admin-dashboard,admin,admin-template,admin-panel",38552
+30,https://github.com/tabler/tabler.git,Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap,"dashboard,html,bootstrap,sass,scss,boilerplate-template,admin-dashboard,dashboard-templates,modular,dashboards,themes,jekyll,css,adminpanel,bootstrap4-theme,uikit,ui-kit,bootstrap5,sponsors,html5",23402
+31,https://github.com/akveo/ngx-admin.git,Customizable admin dashboard template based on Angular 10+,"webpack,bootstrap4,admin,admin-dashboard,dashboard,framework,typescript,responsive,sass,ng2,admin-ui,angular2,ng2-admin,ngx-admin,theme,admin-template,material-theme,angular9,angular-dashboard-template,angular10",22578
+32,https://github.com/ColorlibHQ/gentelella.git,Free Bootstrap 4 Admin Dashboard Template,"bootstrap,dashboard,admin-dashboard,html,html-template,colorlib",20132
+33,https://github.com/getredash/redash.git,"Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.","redash,python,visualization,analytics,bi,redshift,bigquery,athena,mysql,postgresql,dashboard,javascript,business-intelligence,databricks,spark,spark-sql,hacktoberfest",18707
+34,https://github.com/yaronn/blessed-contrib.git,Build terminal dashboards using ascii/ansi art and javascript,,14251
+35,https://github.com/FormidableLabs/webpack-dashboard.git,A CLI dashboard for webpack dev server,"webpack,dashboard,devtools,dx,cli,webpack-dashboard,cli-dashboard,socket-communication",13782
+36,https://github.com/wtfutil/wtf.git,The personal information dashboard for your terminal,"golang,dashboard,terminal,tui,cui,go,devops,wtf,wtfutil",12429
+37,https://github.com/Shopify/dashing.git,The exceptionally handsome dashboard framework in Ruby and Coffeescript.,,11117
+38,https://github.com/gizak/termui.git,Golang terminal dashboard,,10912
+39,https://github.com/keen/dashboards.git,Responsive dashboard templates 📊✨,"dashboard,templates,keen-io,analytics,analytics-dashboard,charts,grid,css-grid,css-grid-layout,css-grid-template",10872
+40,https://github.com/d2-projects/d2-admin.git,An elegant dashboard,"vue,admin,element-ui,axios,vuex,vue-cli,vue-cli3,element,vue-admin,admin-template,mock,admin-dashboard,desktop,management-system,webpack,i18n,dashboar,xlsx,csv,fontawesome",10431
+41,https://github.com/creativetimofficial/material-dashboard.git,Material Dashboard - Open Source Bootstrap 4 Material Design Admin,"bootstrap-material,material-dashboard,creative-tim,material-design,material-ui,material-theme,bootstrap-4,bootstrap4,bootstrap-theme,admin,admin-dashboard,admin-template",9701
+42,https://github.com/afaqurk/linux-dash.git,A beautiful web dashboard for Linux,"linux,dashboard,monitoring,server,web,ui,linux-dash",9540
+43,https://github.com/aksakalli/gtop.git,System monitoring dashboard for terminal,,8454
+44,https://github.com/Freeboard/freeboard.git,"A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.",,6102
+45,https://github.com/ankane/pghero.git,A performance dashboard for Postgres,,5933
+46,https://github.com/notwaldorf/tiny-care-terminal.git,"{""💖💻 A little dashboard that tries to take care of you when you're using your terminal.""}",,5860
+47,https://github.com/alexazhou/VeryNginx.git," A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards. ",,5600
+48,https://github.com/zouhir/jarvis.git,A very intelligent browser based Webpack dashboard,"webpack,dashboard,build-tool",5400
+49,https://github.com/thoughtbot/administrate.git,A Rails engine that helps you put together a super-flexible admin dashboard.,"ruby,rails,admin-dashboard",5101
+50,https://github.com/fdehau/tui-rs.git,Build terminal user interfaces and dashboards using Rust,"dashboard,tui,terminal,rust",4962
+51,https://github.com/invertase/rdash-angular.git,AngularJS implementation of the RDash admin dashboard theme,,4752
+52,https://github.com/knadh/listmonk.git,"High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.","email-marketing,newsletter,newsletter-management,mailing-list,smtp,self-hosted,email-campaigns,listmonk,email-subscription,campaign-management,campaign,sms-gateway,fcm-messaging",4659
+53,https://github.com/FormidableLabs/nodejs-dashboard.git, Telemetry dashboard for node.js apps from the terminal!,"nodejs,telemetry,monitoring",3902
+54,https://github.com/gridstack/gridstack.js.git,Build interactive dashboards in minutes.,"gridstack,gridstackjs,dashboards",3703
+55,https://github.com/puikinsh/Adminator-admin-dashboard.git,"Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more",,3685
+56,https://github.com/hygieia/Hygieia.git,CapitalOne  DevOps Dashboard,"devops,dashboard,hygieia,delivery-pipeline,visualization,continuous-delivery,continuous-deployment,continuous-integration",3607
+57,https://github.com/0wczar/airframe-react.git,Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe,"react,airframe,reactjs,bootstrap,boostrap4,admin,admin-dashboard,ui-components,react-components,dashboard",3527
+58,https://github.com/plouc/mozaik.git,Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards,"d3,dashboard,react,dataviz,metrics",3516
+59,https://github.com/parse-community/parse-dashboard.git,A dashboard for managing your Parse Server Apps,"dashboard,parse-server,parse-platform,graphql-playground,graphql,hacktoberfest",3429
+60,https://github.com/laravel/horizon.git,Dashboard and code-driven configuration for Laravel queues.,"laravel,queue",3280
+61,https://github.com/christabor/flask_jsondash.git,:snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go.,"flask,dataviz,chart-json,d3,plotly,c3,dashboard,visualization,charts",3162
+62,https://github.com/devias-io/material-kit-react.git,"React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other ","material-ui,nodejs,reactjs,admin-dashboard,material-dashboard,material-theme,admin,admin-template,dashboard,react,devias,typescript,auth0,authentication,firebase,firebase-auth,dark,darktheme,dark-theme",3003
+63,https://github.com/jondot/graphene.git,Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.,,2919
+64,https://github.com/linuxserver/Heimdall.git,An Application dashboard and launcher,"heimdall,nzbget,sabnzbd,nginx,dashboard,plex,application-dashboard,bookmark,emby,startpage,server,htpc,sonarr,radarr,homepage,landingpage,landing,couchpotato,organizr,muximux",2873
+65,https://github.com/modularcode/modular-admin-html.git,ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version,"bootstrap,theme,bootstrap4,sass,boilerplate,boilerplate-template,html,admin,dashboard,dashboards,themes,javascript,modular,semantic",2835
+66,https://github.com/360EntSecGroup-Skylar/ElasticHD.git,"Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等 ","elasticsearch,elastichd,elastic,elasticdashboard,sql,sql-converts,elastic-sql-dsl,es,esdashboard,elasticsearchdashboard",2821
+67,https://github.com/FormidableLabs/electron-webpack-dashboard.git,Electron Desktop GUI for Webpack Dashboard,"electron,webpack,dashboard,webpack-dashboard",2752
+68,https://github.com/puikinsh/Bootstrap-Admin-Template.git,Metis - Free Bootstrap Admin Dashboard Template,,2694
+69,https://github.com/TuiQiao/CBoard.git,"An easy to use, self-service open BI reporting and BI dashboard platform.","olap,dashboard,business-intelligence,big-data,data-visualization,superset,metabase,cboard",2690
+70,https://github.com/Smashing/smashing.git,The exceptionally handsome dashboard framework in Ruby and Coffeescript.,"dashboard,dashboards,dashboard-widget,dashboard-widgets,monitoring,dashboard-application",2599
+71,https://github.com/h2oai/wave.git,Realtime Web Apps and Dashboards for Python and R,"app,dashboard,visualization,python,realtime,webapp,r",2584
+72,https://github.com/Reportr/dashboard.git,"{""Your life's personal dashboard.""}",,2543
+73,https://github.com/zalando/zalenium.git,"A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.","docker-selenium,selenium-grid,testingbot,browserstack,docker,selenium,kubernetes,saucelabs,testing",2345
+74,https://github.com/Jahaja/psdash.git,A linux system information web dashboard using psutils and flask,,2336
+75,https://github.com/balanced/balanced-dashboard.git,The Balanced dashboard.,,2316
+76,https://github.com/halfmoonui/halfmoon.git,Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.,"css,javascript,dark-theme,dark-mode,dashboard,web-framework,halfmoon,css-framework,css-variables,css-custom-properties",2308
+77,https://github.com/booleanhunter/ReactJS-AdminLTE.git,ReactJS version of the original AdminLTE dashboard (EXPERIMENTAL)- https://github.com/almasaeed2010/AdminLTE,"reactjs,charts,widgets,reactjs-adminlte,dashboards",2258
+78,https://github.com/stitchfix/pyxley.git,Python helpers for building dashboards using Flask and React,,2257
+79,https://github.com/orchidsoftware/platform.git,"A @laravel based RAD platform for back-office applications, admin/user panels, and dashboards.","laravel,cms,platform,cmf,admin,dashboard,laravel-admin,laravel-cms,crud,extranet,laravel-admin-panel,hacktoberfest",2143
+80,https://github.com/PGBI/kong-dashboard.git,Dashboard for managing Kong gateway,"kong,kong-dashboard,kong-gateway",2117
+81,https://github.com/DeemOpen/zkui.git,A UI dashboard that allows CRUD operations on Zookeeper.,,2043
+82,https://github.com/themesberg/volt-bootstrap-5-dashboard.git,⚡️ Volt - Bootstrap 5 Admin Dashboard Template with vanilla Javascript,"bootstrap5,bootstrap-5,bootstrap-5-dashboard,bootstrap-5-admin-dashboard,vanilla-javascript,bootstrap-5-datepicker,bootstrap-5-notifications,vanilla-js-dashboard,bootstrap-5-template,bootstrap-5-theme,bootstrap-5-admin-panel,bootstrap-5-charts",1992
+83,https://github.com/percona/grafana-dashboards.git,PMM dashboards for database monitoring,"grafana-dashboard,mongodb-monitoring,mysql,pmm",1931
+84,https://github.com/start-angular/SB-Admin-BS4-Angular-8.git,Simple Dashboard Admin App built using Angular 8 and Bootstrap 4,"angular4,bootstrap4,angular,dashboard-admin,sb-admin,angular-cli,angular-4,angular5,angular6",1929
+85,https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard.git,Responsive Admin Panel or Dashboard using Flutter,"flutter,web,app,dashboard,dashboard-templates",1912
+86,https://github.com/spatie/dashboard.spatie.be.git,The source code of dashboard.spatie.be,"laravel,php,vue,websockets,dashboard,pusher,laravel-echo",1897
+87,https://github.com/XiaoMi/naftis.git,An awesome dashboard for Istio built with love.,"istio,service-mesh,dashboard,kubernetes,ui,admin,microservice",1813
+88,https://github.com/tuandm/laravue.git,Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev,"laravel,vue,vuejs,admin,dashboard,jwt,php,admin-dashboard,vuex,vue-router,axios,webpack",1805
+89,https://github.com/toorshia/justgage.git,JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing.,,1782
+90,https://github.com/creativetimofficial/material-dashboard-react.git,React version of Material Dashboard by Creative Tim,"material-ui,material-dashboard,react,sidebar,material-design",1760
+91,https://github.com/hjacobs/kube-ops-view.git,Kubernetes Operational View - read-only system dashboard for multiple K8s clusters,"kubernetes,kubernetes-monitoring,admin-dashboard",1715
+92,https://github.com/creativetimofficial/vue-paper-dashboard.git,Creative Tim Paper Dashboard made for Vue,,1696
+93,https://github.com/mum4k/termdash.git,Terminal based dashboard.,"golang,terminal-based,dashboard",1678
+94,https://github.com/alexanderzobnin/grafana-zabbix.git,Zabbix plugin for Grafana dashboard,"zabbix,grafana,monitoring",1613
+95,https://github.com/twilio/stashboard.git,An open-source status dashboard running on App Engine,,1593
+96,https://github.com/vapid/vapid.git,Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.,"cms,content-management-system,nodejs",1569
+97,https://github.com/obfuscurity/tasseo.git,Live dashboard for Graphite,,1551
+98,https://github.com/ExpediaGroup/cyclotron.git,A web platform for constructing dashboards.,"dashboards,cyclotron,widgets,hacktoberfest",1535
+99,https://github.com/jadjoubran/webdash.git,🔥 Orchestrate your web project with Webdash the customizable web dashboard,"webdash,productivity,beginner-friendly,nodejs,javascript,polymer,webcomponents",1521
+100,https://github.com/phoenixframework/phoenix_live_dashboard.git,"Realtime dashboard with metrics, request logging, plus storage, OS and VM insights","phoenix,liveview,dashboard,metrics,ecto",1516
+101,https://github.com/kantord/just-dashboard.git,:bar_chart: :clipboard: Dashboards using YAML or JSON files ,"data-science,data-visualization,dashboard,data-engineering,d3,d3js,chart,data,yaml,csv,json,gist,github-gist,big-data,business-intelligence,data-driven,just-dashboard",1486
+102,https://github.com/gottfrois/dashing-rails.git,The exceptionally handsome dashboard framework for Rails.,,1454
+103,https://github.com/LANIF-UI/dva-boot-admin.git,:cake: react admin dashboard ui LANIF-ADMIN --- react 16 + react-router 4 + dva 2 + antd 4 后台管理 脚手架,"react,redux,react-router,design,desktop,enterprise,boilerplate,admin,admin-dashboard,ant-design,dva,react-ui,ui,lanif-admin,lanifadmin,create-react-app-v2",1443
+104,https://github.com/Raathigesh/dazzle.git,:rocket: Dashboards made easy in React JS.,"dashboard,react-js,visualization,analytics,dashboard-widget,drag-and-drop",1422
+105,https://github.com/pratikborsadiya/vali-admin.git,Free Bootstrap 4 admin/dashboard template,"template,admin-dashboard,admin,bootstrap,theme,dashboards,vali-admin,bootstrap4,bootstrap-4",1401
+106,https://github.com/onejgordon/flow-dashboard.git,"A goal, task & habit tracker + personal dashboard to focus on what matters","quantified-self,personal-data,habit-tracking,reactjs,gcp,google-appengine,task-management,google-assistant,facebook-messenger,flow,google-fit,goodreads",1397
+107,https://github.com/tricksterproxy/trickster.git,Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator,"prometheus,dashboards,caching,accelerator,tsdb,influxdb,http-proxy,clickhouse,reverse-proxy,golang,performance",1381
+108,https://github.com/jakubroztocil/cointrol.git,฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.,"bitcoin,bot,bitstamp,trade,transaction,automation,python,jakubroztocil,speculation,trading,trading-bot,cryptocurrencies",1366
+109,https://github.com/codestudiohq/laravel-totem.git,Manage Your Laravel Schedule From A Web Dashboard,"laravel,cron-jobs,scheduling,package,dashboard,cron,laravel-schedule,hacktoberfest,artisan-commands,laravel-totem",1330
+110,https://github.com/flatlogic/angular-material-dashboard.git,Angular admin dashboard with material design,"material,material-ui,dashboard,gulp,angularjs",1324
+111,https://github.com/DesignRevision/shards-dashboard-react.git,⚛️A free and beautiful React admin dashboard template pack.,"admin,admin-dashboard,admin-panel,admin-template,admin-ui,react,reactjs,design-system,shards-ui",1312
+112,https://github.com/TwinProduction/gatus.git,⛑ Gatus - Automated service health dashboard,"golang,go,health,monitor,monitoring,dashboard,automation,pagerduty,twilio,alerting,slack,devops,status,mattermost,kubernetes,user-acceptance,vue",1299
+113,https://github.com/creativetimofficial/light-bootstrap-dashboard.git,Light Bootstrap Dashboard is an admin dashboard template designed to be beautiful and simple. ,"dashboard,creative-tim,bootstrap,admin,starter-template,admin-dashboard",1296
+114,https://github.com/flatlogic/react-dashboard.git,"🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥","react,dashboard,bootstrap,graphql,hmr,browsersync,webpack,react-router,react-router-v4,redux,sass,react-bootstrap",1289
+115,https://github.com/camptocamp/terraboard.git,:earth_africa: :clipboard:  A web dashboard to inspect Terraform States ,"terraform,terraform-states,web-dashboard,aws,go,devops,devops-tools,versioning,diff,infrastructure-as-code",1263
+116,https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards.git,":cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...","aws,aws-cloudwatch,grafana,dashboard,monitoring,devops",1250
+117,https://github.com/weaveworks/grafanalib.git,Python library for building Grafana dashboards,"grafana,monitoring,edsl,dashboards",1213
+118,https://github.com/pi-hole/AdminLTE.git,Pi-hole Dashboard for stats and more,"pi-hole,dashboard,admin,hacktoberfest",1211
+119,https://github.com/openstack/horizon.git,OpenStack Dashboard (Horizon). Mirror of code maintained at opendev.org.,service,1209
+120,https://github.com/flatlogic/sing-app.git,💥Free and open-source admin dashboard template built with Bootstrap 4.5 💥,"dashboard,typography,chart,analytics,icons,bootstrap,admin,admin-dashboard,template,theme,sass,scss,bootstrap4,bootstrap4-theme,boilerplate,admin-ui,responsive",1206
+121,https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template.git,A Free Responsive Admin Dashboard Template Built With Bootstrap 4.  Elegant UI Theme for Your Web App!,"star-admin,admin,template,templates,dashboard,dashboards,dashboard-templates,bootstrap,bootstrap4,bootstrap-admin-theme,admin-dashboard,admin-ui,admin-panel,admin-template,admin-theme,bootstrap-template,sass",1206
+122,https://github.com/tessera-metrics/tessera.git,A dashboard front-end for graphite.  ,"dashboard,graphite,metrics,monitoring",1200
+123,https://github.com/resoai/TileBoard.git,A simple yet highly configurable Dashboard for HomeAssistant,,1179
+124,https://github.com/fiction-com/factor.git,100% JavaScript framework for marketing sites and application dashboards.,"vue,typescript,factor,venm,mevn,cms",1166
+125,https://github.com/sorry-cypress/sorry-cypress.git,"An open-source, on-premise, self-hosted alternative to Cypress Dashboard","cypress,parallelization,dashboard,parallel,cypress-io,e2e-tests,javascript-tests,cypress-dashboard,cypress-tests,hacktoberfest",1162
+126,https://github.com/DesignRevision/shards-dashboard.git,🔥A beautiful Bootstrap 4 admin dashboard templates pack.,"bootstrap,bootstrap4,bootstrap-theme,bootstrap-template,admin-dashboard,admin,admin-panel,admin-template,admin-ui,free,ui,ui-kit,material,material-design,material-ui",1156
+127,https://github.com/kubernetes-monitoring/kubernetes-mixin.git, A set of Grafana dashboards and Prometheus alerts for Kubernetes.,,1153
+128,https://github.com/kamon-io/docker-grafana-graphite.git,"Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard",,1142
+129,https://github.com/jaymedavis/hubble.git,A dashboard that displays in the terminal,,1090
+130,https://github.com/holoviz/panel.git,A high-level app and dashboarding solution for Python,"holoviz,panel,dashboards,control-panels,gui",1085
+131,https://github.com/rach/pome.git,A Postgres Metrics Dashboard,,1083
+132,https://github.com/estevanmaito/windmill-dashboard.git,"📊 A multi theme, completely accessible, ready for production dashboard.",,1075
+133,https://github.com/prymitive/karma.git,Alert dashboard for Prometheus Alertmanager,"monitoring,alerting,dashboard,prometheus,prometheus-utility,alertmanager,prometheus-alertmanager",1074
+134,https://github.com/vimeo/graph-explorer.git,A graphite dashboard powered by structured metrics,,1073
+135,https://github.com/allegro/tipboard.git,"Tipboard - in-house, tasty, local dashboarding system ",,1056
+136,https://github.com/creativetimofficial/vuetify-material-dashboard.git,Vuetify Material Dashboard - Open Source Material Design Admin by Creative Tim,"vue,vuetify,vuex,material,material-admin,vue-material,admin,material-theme,material-theme-ui,material-ui,vuejs,vue-cli,vuejs2,vuetify-material-dashboard,dashboard",1054
+137,https://github.com/Phantas0s/devdash.git,:bento: Highly Configurable Terminal Dashboard for Developers and Creators,"golang,terminal,metrics,dashboard,google-analytics,google-search-console,monitoring,github,go,tui,cli,terminal-dashboards,gopher",1044
+138,https://github.com/B-Software/Ward.git,Server dashboard,"linux,monitoring,monitoring-tool,server,dashboard,cpu-monitoring,web,java,spring-boot,spring",1043
+139,https://github.com/danielbayerlein/dashboard.git,"📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.","dashboard,widget,jenkins,jira,bitbucket,sonarqube,pagespeed-insights,elasticsearch,github,react",1025
+140,https://github.com/HanSolo/tilesfx.git,A JavaFX library containing tiles that can be used for dashboards.,"javafx,javafx-library,javafx-components",1010
+141,https://github.com/cybertec-postgresql/pgwatch2.git,PostgreSQL metrics monitor/dashboard,"postgresql,postgres,monitoring,grafana,influxdb,metrics,postgresql-metrics-monitor,metrics-gathering-daemon,dashboard,docker-setup,metrics-gatherer,pg-monitor",991
+142,https://github.com/haishanh/yacd.git,Yet Another Clash Dashboard,,988
+143,https://github.com/shobrook/BitVision.git,"Terminal dashboard for trading Bitcoin, predicting price movements, and losing all your money","machine-learning,bitcoin-price,bitcoin-price-prediction,technical-analysis,trading,trading-bot,trading-systems,bitcoin",981
+144,https://github.com/angular-dashboard-framework/angular-dashboard-framework.git,Dashboard framework with Angular.js and Twitter Bootstrap,,957
+145,https://github.com/futurice/chilipie-kiosk.git,"Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.","raspberry-pi,kiosk-mode,dashboard",951
+146,https://github.com/node-red/node-red-dashboard.git,A dashboard UI for Node-RED,,943
+147,https://github.com/kittoframework/kitto.git,Kitto is a framework for interactive dashboards written in Elixir,"dashboard,elixir,react,framework",942
+148,https://github.com/sensu/uchiwa.git,Uchiwa is a simple yet effective open-source dashboard for the Sensu monitoring framework.,"go,uchiwa,sensu,monitoring",939
+149,https://github.com/topfullstack/adminify.git,An Admin Dashboard based on Vuetify material,"admin,dashboard,vuetify,adonisjs,sidebar,vue,vuejs",929
+150,https://github.com/silverbux/laravel-angular-admin.git,Laravel + Angularjs + Bootstrap + AdminLTE binded by Gulp workflow Admin Dashboard Boilerplate / Starter. ,,925
+151,https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings.git,OpenVR Advanced Settings Dashboard Overlay,,886
+152,https://github.com/scobal/seyren.git,An alerting dashboard for Graphite,,875
+153,https://github.com/matzman666/OpenVR-AdvancedSettings.git,OpenVR Advanced Settings Dashboard Overlay,,872
+154,https://github.com/googlearchive/big-rig.git,"A proof-of-concept Performance Dashboard, CLI and Node module",,872
+155,https://github.com/byashimov/django-controlcenter.git,Set of widgets to build dashboards for Django projects,"django,dashboard,admin-dashboard",865
+156,https://github.com/start-angular/sb-admin-angular.git,[DEPRECATED] Starter template / theme for AngularJS Dashboard Apps,,853
+157,https://github.com/pascalw/kindle-dash.git,Power efficient dashboard for Kindle 4 NT devices,"kindle,jailbreak",840
+158,https://github.com/yogiben/meteor-admin.git,A complete admin dashboard solution,,839
+159,https://github.com/ben1234560/k8s_PaaS.git,如何基于K8s部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等。,,837
+160,https://github.com/creativetimofficial/material-dashboard-angular2.git,Material Dashboard Angular ,"material-dashboard,bootstrap-material,angular,sidebar,angular2,angular4,webdesign,bootstrap,responsive-design,creativetim",832
+161,https://github.com/start-react/sb-admin-react.git,Starter theme for React JS Dashboard Apps,,830
+162,https://github.com/puikinsh/CoolAdmin.git,Free Bootstrap 4.1 based admin dashboard template,,816
+163,https://github.com/rmountjoy92/DashMachine.git,"Another web application bookmark dashboard, with fun features.",,812
+164,https://github.com/puikinsh/sufee-admin-dashboard.git,A simple yet powerful Bootstrap 4 admin dashboard template. ,,805
+165,https://github.com/obazoud/awesome-dashboard.git,A curated list of amazingly awesome dashboards/visualization resources.,,801
+166,https://github.com/pa11y/pa11y-dashboard.git,Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites,"a11y,accessibility,dashboard,mongo",799
+167,https://github.com/kenhub/giraffe.git,Giraffe - a graphite dashboard with a long neck,,783
+168,https://github.com/Ivaskuu/dashboard.git,Dashboard concept made with Flutter.,,779
+169,https://github.com/dropbox/changes.git,A dashboard for your code. A build system.,,772
+170,https://github.com/indeedeng/k8dash.git,Simple Kubernetes realtime dashboard and management,hacktoberfest,769
+171,https://github.com/ripienaar/gdash.git,A dashboard for Graphite,,765
+172,https://github.com/brandonwamboldt/varnish-dashboard.git,Advanced realtime Varnish dashboard with support for multiple servers and advanced management tasks,,751
+173,https://github.com/dtpublic/malhar-angular-dashboard.git,Generic Dashboard/Widgets functionality with AngularJS (directive),,748
+174,https://github.com/mdbootstrap/Bootstarters.git,"A collection of free Bootstrap 5 templates designed with Material Design 2.0. Admin dashboard, e-commerce, landing pages & much more.","template,ecommerce,admin,landing,blog,bootstrap,bootstrap5,material-design,material-ui,mdbootstrap",733
+175,https://github.com/grafana/grafonnet-lib.git,Jsonnet library for generating Grafana dashboard files.,,729
+176,https://github.com/jwkvam/bowtie.git,:bowtie: Create a dashboard with python!,"python,dashboard,interactive,visualization,webapp,flask,react,socket-io,plotly,data-science,jupyter,ant-design,antd",728
+177,https://github.com/emacs-dashboard/emacs-dashboard.git,An extensible emacs dashboard,"emacs,elisp,startpage,hacktoberfest",724
+178,https://github.com/rstudio/shinydashboard.git,Shiny Dashboarding framework,"r,shiny,shinydashboard,dashboard,admin-dashboard,reactivity,web-app,web-development,rstudio",722
+179,https://github.com/tafcoder/sleek-dashboard.git,Sleek Dashboard - Free Bootstrap 4 Admin Template and UI Kit,"dashboard,bootstrap,admin-dashboard,bootstrap4,html,theme,scss,dashboard-templates,dashboards,css,admin-panel,admin-template,uikit,bootstrap-4,bootstrap-theme,bootstrap-template,admin,bootstrap-admin-dashboard,jekyll",721
+180,https://github.com/CreativeIT/material-dashboard-lite.git,A free dashboard template with material design lite,"html,html5,material-design,nvd3,sass,dashboard-templates",709
+181,https://github.com/cloudflare/unsee.git,Alert dashboard for Prometheus Alertmanager,"monitoring,alerting,dashboard,prometheus,alertmanager",704
+182,https://github.com/ArchiveTeam/grab-site.git,"{""The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns""}","archiving,crawl,spider,crawler,warc",699
+183,https://github.com/nxez/pi-dashboard.git,A WebUI dashboard for IoT devices likes raspberry pi.,,678
+184,https://github.com/k3oni/pydash.git,Small web-based monitoring dashboard for linux in Python and Django,,667
+185,https://github.com/ireaderlab/zkdash.git,A dashboard for zookeeper and Qconf,"zookeeper,qconf,dashboard",665
+186,https://github.com/litaotao/IPython-Dashboard.git,"A stand alone, light-weight web server for building, sharing graphs created in ipython. Build for data science, data analysis guys. Aiming at building  an interactive visualization, collaborated dashboard, and real-time streaming graph. ","dashboard,ipython,ipython-dashboard,visualization,data-science,notebook",665
+187,https://github.com/creativetimofficial/vue-light-bootstrap-dashboard.git,Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE,,663
+188,https://github.com/talpor/django-dashing.git,"django-dashing is a customisable, modular dashboard application framework for Django to visualize interesting data about your project. Inspired in the dashboard framework Dashing","django,dashboard",662
+189,https://github.com/UnchartedBull/OctoDash.git,"OctoDash is a simple, but beautiful dashboard for OctoPrint.","hacktoberfest,octoprint-plugin,octoprint,3d-printing",657
+190,https://github.com/opensearch-project/OpenSearch-Dashboards.git,Open source visualization dashboards for OpenSearch.,"search,opensearch,analytics,foss,apache2",643
+191,https://github.com/moesaid/cleopatra.git,Admin Dashboard Template Built On Tailwind CSS,"css,javascript,tailwindcss,html,tailwind-css,admin-dashboard,dashboard,admin,admin-panel,admin-,admin-ui,dashboard-tailwindcss,admin-tailwindcss,sass,cleopatra",643
+192,https://github.com/slok/grafterm.git,Metrics dashboards on terminal (a grafana inspired terminal version),"metrics,grafana,graphs,terminal,dashboard,observability,prometheus",642
+193,https://github.com/agenda/agendash.git,Agenda Dashboard,"agendash,middleware,dashboard,cron,job-scheduler,crontab,cronjob",640
+194,https://github.com/QuickBox/QB.git,"QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.","seedbox,seedbox-install-script,quickbox,debian,ubuntu,media-server",634
+195,https://github.com/bitnami-labs/cabin.git,The Mobile Dashboard for Kubernetes,"kubernetes,ios,dashboard,android",632
+196,https://github.com/fastapi-admin/fastapi-admin.git,"A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin","fastapi,admin-dashboard,tortoise-orm,tabler,fastapi-admin",620
+197,https://github.com/ng-matero/ng-matero.git,Angular Material admin dashboard template.,"angular,angular-material,admin-dashboard,ng-matero,ng-admin,ngx-admin,responsive,schematics,material-extensions,material-design",614
+198,https://github.com/bee-queue/arena.git,An interactive UI dashboard for Bee Queue,"bee-queue,bull,redis-queue,job-queue,dashboard",614
+199,https://github.com/IzakMarais/reporter.git,Service that generates a PDF report from a Grafana dashboard,"grafana,grafana-dashboard,grafana-reporter,grafana-api,pdf-report,reporting",609
+200,https://github.com/django-admin-tools/django-admin-tools.git,Extends the Django Admin to include a extensible dashboard and navigation menu,,600
+201,https://github.com/ayushsharma82/ESP-DASH.git,Blazing fast library to create a functional dashboard for ESP8266 and ESP32,"esp8266,ui,library,arduino,dashboard,esp-dash,espdash,dash,esp32,button,temperature,humidity,chart,graph,cards,charts",582
+202,https://github.com/puikinsh/concept.git,Free Bootstrap 4 admin dashboard template,,576
+203,https://github.com/wxs77577/rest-admin.git,Restful Admin Dashboard Based on Vue and Boostrap 4,"restful,admin,dashboard,crud,adonisjs,bootstrap,vue",576
+204,https://github.com/creativetimofficial/light-bootstrap-dashboard-react.git,React version of Light Bootstrap Dashboard,"reactjs,react-router,react-template,react-admin,react-bootstrap,react-bootstrap-components,react-components,responsive-design,freebie,react-responsive,react-resources",575
+205,https://github.com/starsliao/Prometheus.git,Grafana Dashboards for Prometheus Exporter ,,574
+206,https://github.com/yb/uptime-status.git,A pretty dashboard of uptime status based on UptimeRobot API ,,563
+207,https://github.com/Pierian-Data/Plotly-Dashboards-with-Dash.git,"{""This is the repo for the Udemy Course Python Dashboards with Plotly's Dash""}",,554
+208,https://github.com/ReSearchITEng/kubeadm-playbook.git,"Fully fledged (HA) Kubernetes Cluster using official kubeadm, ansible and helm. Tested on RHEL/CentOS/Ubuntu with support of http_proxy, dashboard installed, ingress controller, heapster - using official helm charts","helm,ansible,playbook,kubeadm,centos,rhel,kubernetes,proxy,ingress-controller,dashboard,cluster,persistent-volume,persistent-volume-claim,multi-master",536
+209,https://github.com/sodabrew/puppet-dashboard.git,"The Puppet Dashboard is a web interface providing node classification and reporting features for Puppet, an open source system configuration management tool",,534
+210,https://github.com/wjkang/vue-quasar-admin.git,Vue 2.0 admin-dashboard based on Quasar-Framework,"vue2,quasar-framework,vue-admin,admin-template,vuex,axios,vue-router,admin,webpack2,access-control,quasar-admin,admin-dashboard,rbac",530
+211,https://github.com/cedricblondeau/world-cup-2018-cli-dashboard.git,⚽🏆A World Cup 2018 CLI dashboard – Watch matches in your terminal,"worldcup2018,nodejs,dashboard,cli,terminal,soccer,react,blessed,react-blessed,worldcup,football,soccer-matches",530
+212,https://github.com/muan/github-dashboard.git,[Web extension] Filter events on github.com activity dashboard.,"chrome-extension,github-extension,browser-extension,webextension",523
+213,https://github.com/beyondcode/dusk-dashboard.git,A beautiful dashboard for your Laravel Dusk tests,"laravel,dusk,tests",518
+214,https://github.com/oegedijk/explainerdashboard.git,"Quickly build Explainable AI dashboards that show the inner workings of so-called ""blackbox"" machine learning models.","dash,shap-values,dashboard,model-predictions,data-scientists,explainer,interactive-dashboards,permutation-importances,shap,plotly,inner-workings,interactive-plots,xai-library,xai",513
+215,https://github.com/zce/dashboard.git,A dashboard scaffolding based on Vue.js 3.0 created by Vite.,"vue,dashboard,vue-router,vuex,webpack,vue-demo,vue-tutorial,vue2,vuejs2,vue-cli,vue3,vite",513
+216,https://github.com/obfuscurity/descartes.git,Introspective dashboard for Graphite,,512
+217,https://github.com/wobsoriano/v-dashboard.git,Dashboard starter template built with Vue 3 and Tailwind CSS.,"vue,tailwindcss,hacktoberfest,hacktoberfest2020",510
+218,https://github.com/flatlogic/sing-app-vue-dashboard.git,Vue.js admin dashboard template built with Bootstrap 4.5,"vue-dashboard,vuejs2,template,bootstrap4,bootstrap,vuex",504
+219,https://github.com/flakshack/SysAdminBoard.git,"Simple dashboard system for sysadmins with modules for VMware, SNMP, REST API and more",,504
+220,https://github.com/dwainscheeren/dwains-lovelace-dashboard.git,"An auto generating Home Assistant Lovelace UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile","lovelace,lovelace-ui,home-assistant,dwains-lovelace-dashboard",502
+221,https://github.com/day8/re-frame-10x.git,A debugging dashboard for re-frame.  X-ray vision as tooling.,"re-frame,tracing,debugging,reagent",501
+222,https://github.com/oazabir/Droptiles.git,"Droptiles is a ""Windows 8 Start"" like Metro-style Web 2.0 Dashboard. It compromises of Live Tiles. Tiles are mini apps that can fetch data from external sources. Clicking on a tile launches the full application. ",,499
+223,https://github.com/keplr-io/hera.git,"Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.","deep-learning,dashboard,visualization",498
+224,https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template.git,Purple Admin is one of the most stylish Bootstrap admin dashboard you can get hands on. With its beautifully crafted captivating design and well-structured code.,"bootstrap,bootstrap4,gulp,material-design,material-ui,chartjs,bootstrap-theme,bootstrap-template,cms,crm,admin-dashboard",485
+225,https://github.com/rstudio/flexdashboard.git,Easy interactive dashboards for R,,484
+226,https://github.com/tektoncd/dashboard.git,A dashboard for Tekton!,"tekton,pipeline,dashboard,ui",484
+227,https://github.com/TwanoO67/bootstraping-ngx-admin-lte.git,"{""Angular2,4,6 project with AdminLTE dashboard template (using angular, angular-cli and ngx-admin-lte ) Formerly called 'ng2-admin-lte'. ""}","angular-2,bootstrap,admin-dashboard,adminlte-dashboard-template,angular,admin-lte,angular2,angular4,ngx-admin-lte",479
+228,https://github.com/OrleansContrib/OrleansDashboard.git,:bar_chart: An admin dashboard for Microsoft Orleans,"orleans,dashboard",475
+229,https://github.com/NiceDash/Vibe.git,A beautiful react.js dashboard build with Bootstrap 4 👌,,472
+230,https://github.com/vivekratnavel/omniboard.git,Web-based dashboard for Sacred,,452
+231,https://github.com/duyanming/Viper.git,Viper 是一个基于Anno微服务引擎开发的Dashboard项目、示例项目。Anno 底层通讯采用 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线等等,"anno,cqrs,thrift,viper,ddd,dashboard,grpc,microservice",452
+232,https://github.com/danimahardhika/candybar-library.git,Android icon pack material dashboard,"android,library,dashboard,icon-pack,muzei,android-library,material-design",444
+233,https://github.com/creativetimofficial/argon-dashboard.git,Argon - Dashboard for Bootstrap 4 by Creative Tim,"dashboard,bootstrap4,design-systems,webdesign,responsive,responsive-design,creativetim,creative-tim,freebie,freebies,free",440
+234,https://github.com/thanksmister/wallpanel-android.git,WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms,,439
+235,https://github.com/uilibrary/matx-react.git,Matx React Redux Material Design Admin Dashboard Template,"reactjs,dahsboard,dashboard-templates",437
+236,https://github.com/hongrich/Dashboard.git,Dashboard for iPad,,436
+237,https://github.com/statusdashboard/statusdashboard.git,A service status dashboard powered by Node.js,,434
+238,https://github.com/asottile/git-code-debt.git,A dashboard for monitoring code debt in a git repository.,"git,technical-debt",427
+239,https://github.com/jonalxh/Flask-Admin-Dashboard.git,Flask Admin customized using AdminLTE bootstrap template and flask security to offer a better Dashboard UX,,422
+240,https://github.com/GoogleChrome/chromium-dashboard.git,Chrome Status Dashboard,"dashboard,metrics,samples,web,features,chrome",420
+241,https://github.com/creativetimofficial/vue-material-dashboard.git,Vue Material Dashboard - Open Source Material Design Admin,"vue,vuejs2,vuejs,vue-cli,vue-components,material-dashboard,material-design,creativetim,webdesign,vue-material,admin,admin-dashboard,admin-template,material-ui,material-theme",417
+242,https://github.com/Funbit/ets2-telemetry-server.git,ETS2/ATS Telemetry Web Server + Mobile Dashboard,,415
+243,https://github.com/ordina-jworks/microservices-dashboard.git,Dashboard for visualizing Spring Boot microservices and the components they link to.,,414
+244,https://github.com/Androz2091/AtlantaBot.git,🤖 Another powerful Discord Bot with a web-dashboard used by more than 130k users!,"atlanta,dashboard,discordjs,useful,multifunctions,discord-bot,dashboards,easy-install",409
+245,https://github.com/jahirfiquitiva/Frames.git,"Free, feature-rich, easily customizable Android dashboard for wallpapers apps","android,android-library,dashboard,wallpapers,muzei,material,material-design,android-application,template,wallpapers-apps,android-dashboard-library,hacktoberfest,hacktoberfest2020",402
+246,https://github.com/pascalw/dashbling.git,"Hackable React based dashboards for developers, inspired by Dashing.",,401
+247,https://github.com/jahirfiquitiva/Blueprint.git,"Free, feature-rich, easily customizable Android dashboard for icon packs","android,android-library,dashboard,icon-pack,icons,wallpapers,widgets,zooper,kwgt,kwlp,klck,kustom,muzei,material,material-design,android-application,template,hacktoberfest,hacktoberfest2020",401
+248,https://github.com/Crapworks/ceph-dash.git,Flask based api / dashboard for viewing a ceph clusters overall health status,"ceph,dashboard,graphite,influxdb,monitoring,api",401
+249,https://github.com/rapidsai/jupyterlab-nvdashboard.git,A JupyterLab extension for displaying dashboards of GPU usage.,,396
+250,https://github.com/grafana/kubernetes-app.git,A set of dashboards and panels for kubernetes.,"kubernetes,grafana,prometheus",395
+251,https://github.com/aceisace/Inkycal.git,"{""Inykcal is a software written in python for selected E-Paper displays. It converts these displays into useful information dashboards. It's open-source, free for personal use, fully modular and user-friendly. Despite all this, Inkycal can run well even on the Raspberry Pi Zero W. Oh, and it's open for third-party modules! Hooray!""}","waveshare,epaper,e-paper,e-ink,low-power,linux,python3,raspberry-pi,eink",392
+252,https://github.com/puikinsh/ElaAdmin.git,A clean & completely free Bootstrap 4 admin dashboard template,,389
+253,https://github.com/pagarme/pilot.git,"{"":airplane: The next iteration of Pagar.me's Dashboard""}",,384
+254,https://github.com/glepnir/dashboard-nvim.git,vim dashboard,"dashboard,neovim,vim,neovim-plugin,vim-plugin,vim-startify",383
+255,https://github.com/creativetimofficial/vue-black-dashboard.git,Vue Black Dashboard,,381
+256,https://github.com/jeremykenedy/laravel-logger.git,"An out the box activity logger for your Laravel or Lumen application. Laravel logger is an activity event logger for your laravel application. It comes out the box with ready to use with dashboard to view your activity. Laravel logger can be added as a middleware or called through a trait. This package is easily configurable and customizable. Supports Laravel 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 6, and 7+","laravel-logger,laravel-logging,activity,activity-logger,activity-logging,request-logger,request-logging,logging,logger,activity-drilldown,activity-dashboard,logging-dashboard,logger-dashboard,activity-log,activity-log-laravel,middleware",378
+257,https://github.com/SabyasachiRana/WebMap.git,WebMap-Nmap Web Dashboard and Reporting,"webmap,nmap,cve,infosec,cybersecurity",376
+258,https://github.com/brigadecore/kashti.git,Kashti is a dashboard for your Brigade pipelines.,"ui,ci,frontend,angular,brigade,kubernetes,pipeline",374
+259,https://github.com/boombatower/chromecast-dashboard.git,A simple dashboard application for Chromecast.,,372
+260,https://github.com/by-syk/NanoIconPack.git,简单轻量的图标包APP模板 Simple Android icon pack app dashboard,"icon-pack,android-application,android,icon,iconpack",371
+261,https://github.com/vudash/vudash.git,"Powerful, Flexible, Open Source dashboards for anything","vudash,dashboard,websockets,dashing,monitoring,statistics,overview,analytics,viewer,tv,automation,home-automation,svelte,sveltejs,hapi,hapijs,rollup,cryptocurrencies",369
+262,https://github.com/DesignRevision/shards-dashboard-vue.git,A free Vue admin dashboard template pack featuring a modern design system  and lots of custom templates and components.,"vue,vuejs,uikit,dashboard,admin,admin-dashboard,template,design,design-system,ux,modern",364
+263,https://github.com/JSLancerTeam/crystal-dashboard.git,Beautiful React Bootstrap Dashboard for multi-purpose usage. https://jslancerteam.github.io/crystal-dashboard/#/,,361
+264,https://github.com/AppliedTrust/traildash.git,AWS CloudTrail Dashboard,,360
+265,https://github.com/puikinsh/srtdash-admin-dashboard.git,Free admin dashboard template,,359
+266,https://github.com/timoschwarzer/gitlab-monitor.git,A web-based monitor dashboard for GitLab CI,"gitlab,dashboard,monitor,gitlabci,pipelines,hacktoberfest",359
+267,https://github.com/estevanmaito/windmill-dashboard-react.git,"❄ A multi theme, completely accessible, ready for production dashboard.","dashboard,admin-panel,admin-dashboard,react,react-router,dark-theme,tailwindcss,windmill-dashboard",358
+268,https://github.com/swsoyee/2019-ncov-japan.git,🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan,"2019-ncov,shiny-apps,r,interactive-visualizations,japan,2019ncov,covid-19,ncov-2019",352
+269,https://github.com/djirdehh/crypto_vue.git,💠 A Vue.js based real-time dashboard of the top 10 cryptocurrencies ,,352
+270,https://github.com/cruip/tailwind-dashboard-template.git,Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by,"react,reactjs,templates,dashboard,chartjs,admin-dashboard,dashboards,dashboard-templates,analytics-dashboard,flatpickr,tailwindcss,tailwind,tailwind-css",352
+271,https://github.com/codaxy/cxjs.git,"CxJS - Advanced JavaScript UI framework for admin and dashboard applications with ready to use grid, form and chart components.","widgets,themes,charts,react,drag-and-drop,ui,form-controls,form-validation,grid-component",351
+272,https://github.com/wangdicoder/angular-material-dashboard.git,A material-design dashboard by using angular,"angular2,angular4,dashboard,material-ui",350
+273,https://github.com/lowdefy/lowdefy.git,"An open-source low-code framework to build web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML.","low-code,low-code-platform,low-code-framework,web-app,web-app-generator,lowdefy",346
+274,https://github.com/jeremykenedy/laravel-users.git,"A Users Management Package that includes all necessary routes, views, models, and controllers for a user management dashboard and associated pages for managing Laravels built in user scaffolding. Built for Laravel 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 6.0, 7.0 and 8.0.","laravel-users,users,users-management,manage-users,register-users,manage-laravel-users,laravel-user-management",345
+275,https://github.com/barseghyanartur/django-dash.git,"Customisable, modular dashboard application framework for Django.","django,dashboard,dashboards,python",342
+276,https://github.com/devfacet/natsboard.git,Dashboard for monitoring NATS (an open source messaging system),"nats,gnatsd,dashboard,monitoring",338
+277,https://github.com/mazipan/bulma-admin-dashboard-template.git,🐝 Free admin dashboard template with bulma css,"bulma,bulma-admin,admin-dashboard,admin-template,css-template,hacktoberfest",337
+278,https://github.com/WarBean/hyperboard.git,A web-based dashboard for Deep Learning,"deep-learning,visualization,dashboard,training-curves,hyperparameter-tuning",337
+279,https://github.com/rfrail3/grafana-dashboards.git,Grafana dashboards,,335
+280,https://github.com/jamesbarnett91/tplink-energy-monitor.git,An energy monitoring dashboard for TP-Link smart plugs,"tplink,hs110,smartplug,smarthome,energy-monitor,dashboard,chart,graph,kasa",334
+281,https://github.com/zalando/zmon.git,"Real-time monitoring of critical metrics & KPIs via elegant dashboards, Grafana3 visualizations & more","monitoring,metrics",333
+282,https://github.com/JerryC8080/Memeye.git,👀 The eye of memory. A lightweight memory monitor and dashboard for Node.js application on development.,"monitor,dashboard,nodejs,memory,v8",333
+283,https://github.com/Netflix/osstracker.git,Github organization OSS metrics collector and metrics dashboard,,332
+284,https://github.com/K-Phoen/grabana.git,User-friendly Go library for building Grafana dashboards,"grafana,grafana-dashboard,library,golang,builder,grafana-dashboards,dashboards,dashboard-configuration,yaml,hacktoberfest",330
+285,https://github.com/provideal/MMGridView.git,A simple grid view / dashboard component for iOS,,329
+286,https://github.com/whyour/qinglong.git,Ant Design、Ant Design Pro 与 Umijs3.0 项目and暗黑主题实践（Crontab定时运行Python和JavaScript的Dashboard）,,327
+287,https://github.com/jgraichen/redmine_dashboard.git,This redmine plugin adds an issue dashboard that supports drag and drop for issues and support various filters and groups.,"redmine,redmine-plugin,ruby,dashboard,issue-board,issue-tracker",323
+288,https://github.com/notwaldorf/frankly.git,:wrench: A Polymer dashboard of issues/PRs for any number of GitHub repos,,323
+289,https://github.com/vincentbernat/dashkiosk.git,Managing dashboards on various displays (especially those running on Android),,317
+290,https://github.com/omarkdev/awesome-dashboards.git,List of dashboards free to use,hacktoberfest,315
+291,https://github.com/spatie/laravel-dashboard.git,A beautiful dashboard for Laravel,"laravel,php,laravel-dashboard",314
+292,https://github.com/creativetimofficial/paper-dashboard.git,Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.,,314
+293,https://github.com/shevabam/ezservermonitor-web.git,eZ Server Monitor`Web - A simple and lightweight dashboard for Linux,"linux,monitoring",313
+294,https://github.com/puikinsh/notika.git,Free Bootstrap admin dashboard,,309
+295,https://github.com/lephisto/tesla-apiscraper.git,API Scraper for pulling Vehicle Statistics from the Tesla Owner API into an InfluxDB + Grafana Dashboards,,309
+296,https://github.com/balenalabs/balena-dash.git,"Build a Raspberry Pi based desktop dashboard for stats, photos, videos and more!","raspberry-pi,dashboard,webpage,balena",309
+297,https://github.com/apache/apisix-dashboard.git,Dashboard for Apache APISIX,"dashboard,api,api-management,apisix,devops",308
+298,https://github.com/Graphite-Tattle/Tattle.git,Tattle is a lightweight self-service dashboards web-application for Graphite and Ganglia monitoring tools,,308
+299,https://github.com/sterrenburg/flutterhole.git,A third party Android application for the Pi-Hole® dashboard.,"flutter,pi-hole,android,raspberry-pi,mobile,dart",305
+300,https://github.com/akveo/polymer-admin.git,Polymer admin dashboard,,304
+301,https://github.com/frangoteam/FUXA.git,Web-based Process Visualization (SCADA/HMI/Dashboard) software,"scada,hmi,nodejs,angular,web-hmi,web-editor,web-scada,plc,opc-ua,opcua,svg-editor,iot,s7,siemens,dashboard,modbus,bacnet,mqtt",303
+302,https://github.com/creativetimofficial/light-bootstrap-dashboard-angular2.git,Light Bootstrap Dashboard Angular 2,"angular2,dashboard,nodejs,creativetim,bootstrap,freebie,responsive,admin-dashboard",301
+303,https://github.com/mobomo/houston.git,NO LONGER MAINTAINED - Mission control dashboard for your distributed team,,300
+304,https://github.com/themesberg/volt-react-dashboard.git,A React.js admin dashboard template and UI library based on Bootstrap 5,"react,bootstrap,react-bootstrap,bootstrap-5,react-dashboard,react-admin-template,react-bootstrap-5",300
+305,https://github.com/mainwp/mainwp.git,The MainWP Dashboard is an open source self-hosted WordPress management plugin that allows you to maintain virtually all aspects of multiple WordPress sites.,"mainwp,wordpress-plugin,management-system,wordpress,mainwp-dashboard-plugin",300
+306,https://github.com/mirumee/saleor-dashboard.git,"A GraphQL-powered, single-page dashboard application for Saleor.","graphql,ecommerce,single-page-app,saleor,ecommerce-platform,react,typescript,dashboard,saleor-dashboard,hacktoberfest",299
+307,https://github.com/lozzd/Nagdash.git,"A full screen, clean interface for Nagios designed for A dashboard/NOC/monitoring screen. ",,295
+308,https://github.com/rougier/mu4e-dashboard.git,A dashboard for mu4e (mu for emacs) ,"emacs,mu4e,mail,org-mode",292
+309,https://github.com/jessfraz/tdash.git,"A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me.",,291
+310,https://github.com/wg-dashboard/wg-dashboard.git,an (unmaintained) easy-to-use dashboard for wireguard vpn,"wireguard,vpn,admin-dashboard,wg-dashboard,wireguard-dashboard",289
+311,https://github.com/Syncano/syncano-dashboard.git,The Syncano Dashboard built with React.,"syncano,dashboard,react,material-ui,serverless,e2e",287
+312,https://github.com/Azure/ccodashboard.git,Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repository you will find all the guidance and files needed to deploy the Dashboard in your environment to take benefit of a single pane of glass to get insights about your Azure resources and services. ,"azure,optimization,dashboard,powerbi,asc,azureadvisor,microsoft-services,iaas,paas,devops,cloud,microsoft,microsoft-graph-api,microsoft-rest-api",287
+313,https://github.com/creativetimofficial/argon-dashboard-react.git,React version of Argon Dashboard,,286
+314,https://github.com/mtojek/greenwall.git,Tiny service health dashboard written in Go,,286
+315,https://github.com/django-fluent/django-fluent-dashboard.git,An improved django-admin-tools dashboard for Django projects,"django,django-admin",285
+316,https://github.com/AmadeusITGroup/GraphDash.git,A web-based dashboard built on graphs and their metadata.,"python,graphs,dashboard,web",284
+317,https://github.com/app-generator/admin-dashboards.git,Admin Dashboards - Open-Source and Free | AppSeed,"dashboards,open-source,appseed,flask,django",283
+318,https://github.com/OssamaRafique/Covid-19-Statistics-Dashboard-Angular-9.git,🦠Corona Virus / Covid 19 Tracker Dashboard With Awesome UI + PWA + NodeJS Scraper,"coronavirus,coronavirus-tracking,corona,angular,angular9,covid,covid19,covid-data,coronavirus-real-time,coronavirus-globaloutbreak,mit-license,charts,amcharts,covid-2019,coronavirus-tracker,coronavirus-analysis,coronasdk,coronavirus-info,covid19-data,covid-api",283
+319,https://github.com/serputko/performance-testing-framework.git,"Framework allows to perform load testing with Apache Jmeter, view application/server metrics in real-time with Grafana, analyze errors cause with detailed traces for failed requests, compare different test runs in scripted dashboard and perform frontend performance testing with sitespeed.io+webpagetest","jmeter,docker,sitespeed,sitespeedio,grafana,telegraf,webpagetest,webpagetest-server,webpagetest-agent,influxdb,jenkins,load-tests,load-testing,performance,performance-testing,backend-load-testing,frontend-load-testing,real-time-monitoring,performance-measurement",281
+320,https://github.com/pmg1989/dva-admin.git,dva admin antd dashboard,"dva,antd,admin,dashboard,react,redux,dva-admin,axios,mock,immutablejs",279
+321,https://github.com/denisnazarov/awesome-crypto-trackers.git,A curated list of crypto project trackers and analytics dashboards.,,279
+322,https://github.com/flatlogic/light-blue-react-template.git,Light Blue React Template - Admin Dashboard Template built with React,,279
+323,https://github.com/noopkat/electric-io.git,⚡️🌋🌔 The cutest IoT dashboard of your dreams ☁️,,278
+324,https://github.com/perara/wg-manager.git,A easy to use WireGuard dashboard and management tool,"wireguard,wireguard-dashboard,wireguard-vpn-setup,wireguard-tunnel,wireguard-vpn,vpn,wg-manager,dashboard,site-to-site,obfuscation",277
+325,https://github.com/msleal/asciivmssdashboard.git,ASCii VM Scale Set Dashboard,,276
+326,https://github.com/SHWotever/SimHub.git,"Multi sim dashboard, bass shaker driver, ....",,276
+327,https://github.com/zuramai/mazer.git,Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page ,"template,bootstrap,bootstrap5,bootstrap5-template,free-template,scss,dashboard,admin-dashboard",276
+328,https://github.com/mayank091193/quasar-admin-crm.git,Quasar CRM Admin | VueJS Admin | Featuring 3 different dashboards | Give it a star if you find it useful.,"quasar-admin-crm,crm,quasar-framework,vuejs,dashboard,javascript,profile,css",275
+329,https://github.com/edfungus/Crouton.git,Crouton MQTT IOT Dashboard,,272
+330,https://github.com/prometheus-junkyard/promdash.git,Prometheus Dashboard Builder,,272
+331,https://github.com/rhicks/bgp-dashboard.git,BGP Dashboard and Monitoring Web Application,"bgp,bgp-monitoring-protocol,docker,gobgp,bgp-dashboard,flask,peer,mongodb,docker-compose,ipv4,ipv6,looking-glass",272
+332,https://github.com/areski/django-admin-tools-stats.git,Django-admin-tools-stats is a Django admin module that allow you to create easily charts on your dashboard based on specific models and criterias,,269
+333,https://github.com/WikiEducationFoundation/WikiEduDashboard.git,"{""Wiki Education Foundation's Wikipedia course dashboard system""}",,267
+334,https://github.com/Miaababikir/laravel-tailwind-css-dashboard-preset.git,:fire:Dashboard preset using tailwindcss that support RTL out of the box,,267
+335,https://github.com/drone/drone-wall.git,Dashboard for the Drone CI server,,262
+336,https://github.com/VictorRobellini/pfSense-Dashboard.git,"A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf","pfsense,grafana,telegraf,influxdb,dashboard,opensense,opnsense,telegraf-configs",261
+337,https://github.com/topdown/VVV-Dashboard.git,Dashboard for Varying Vagrant Vagrants https://github.com/Varying-Vagrant-Vagrants/VVV ,"varying-vagrant-vagrants,dashboard",258
+338,https://github.com/GoogleCloudPlatform/PerfKitExplorer.git,"PerfKit Explorer is a dashboarding and performance analysis tool built with Google technologies and easily extensible. PerfKit Explorer is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.",,255
+339,https://github.com/duo-labs/isthislegit.git,"Dashboard to collect, analyze, and respond to reported phishing emails.","phishing-reports,phishing,infosec,security,security-tools,security-automation",253
+340,https://github.com/sergiitk/pagerbeauty.git,:pager::sparkles: PagerDuty on-call widget for monitoring dashboard. Datadog and Grafana compatible,"pagerduty,datadog,dashboard,wallboard,on-call,widget,monitor,docker,oncall,incidents,incident-management,schedules,schedule,datadog-dashboard,embeds,pager,oncalls-widget,datadog-pagerduty,grafana,grafana-dashboard",253
+341,https://github.com/FedericoCeratto/dashing.git,Terminal dashboards for Python,"python,python3,terminal,dashboard,terminal-based,gauges,charts",252
+342,https://github.com/creativetimofficial/vue-argon-dashboard.git,Vue Argon Dashboard,,252
+343,https://github.com/initialstate/wunderground-sensehat.git,Tutorial and code for using the Raspberry PI Sense HAT plus a weather API (Dark Sky) to create a personal weather dashboard. ,,250
+344,https://github.com/mikehadlow/gtr-cof.git,Interactive music theory dashboard for guitarists. http://guitardashboard.com/,"guitar,music-composition,d3js,d3,typescript",248
+345,https://github.com/trekhleb/covid-19.git,📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country,"covid-19,dashboard,covid19,coronavirus,chart,charts,2019-ncov,ncov-2019,coronavirus-tracking,coronavirus-real-time",248
+346,https://github.com/fuzzymannerz/swmp.git,"A responsive, eye-pleasing Linux server statistics dashboard.","monitor,server,linux,cpu-monitoring,bootstrap,server-monitoring,ram-info",247
+347,https://github.com/userdashboard/dashboard.git, Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard),"webapp,webapplication,saas,saas-boilerplate,saas-admin,stripe-subscriptions,dashboard,stripe-connect,organizations",244
+348,https://github.com/tylike/CIIP.git,CIIP用于快速开发ERP类信息系统的框架.由CIIP.Designer(业务模型设计器)和CIIP.Client客户端运行程序组成.包含报表设计器，Dashboard数据分析工具，支持验证规则，支持外观变化规则，内置权限模块，界面布局设计器，多国语言支持，支持14种常用数据库，如SqlServer，Oracle，MySql等。,"xaf,rad,radframework,csharp,quickdevelop",244
+349,https://github.com/espy/ubersicht.git,"{""A dashboard for recent activity on all of a user's or organisation's repos ""}",,243
+350,https://github.com/CreateThrive/react-firebase-admin.git,"React ⚛️ starter kit with Firebase 🔥 and Bulma for setting up an admin dashboard - Highly scalable, PWA, Serverless","react,redux,firebase,bulma,pwa,offline,routing,responsive,cloud-functions,serverless,boilerplate,starter-kit,template,typescript,firebase-admin,admin-dashboard,workflows,realtime-database,firebase-dashboard,firebase-account",243
+351,https://github.com/sourcefabric/Newscoop.git,"Newscoop is the open content management system for professional journalists. Features for the modern newsroom include multiple author management, issue-and-section based publishing, geolocation and multilingual content management. The enterprise-standard journalist’s dashboard and a templating engine supporting anything from HTML5 to mobile complete this fast production and publishing system.",,243
+352,https://github.com/rasmusbergpalm/jslate.git,Write your dashboards in pure html/js,,241
+353,https://github.com/nalgeon/dataviz.git,"Data visualization guide for presentations, reports, and dashboards",,241
+354,https://github.com/pipiliang/docker-dashboard.git,Console based docker dashboard,"docker,dashboard,typescript,cli,docker-dashboard",240
+355,https://github.com/tailwindcomponents/dashboard.git,🛩 🧶 Dashboard template built with tailwindcss.,"tailwindcss,tailwindcomponents,uikit",240
+356,https://github.com/riemann/riemann-dash.git,An HTTP dashboard for Riemann.,,238
+357,https://github.com/rajayogan/flutterui-furnitureapp.git,Code for Furniture app dashboard created with flutter,,238
+358,https://github.com/hammerlab/grafana-spark-dashboards.git,Scripts for generating Grafana dashboards for monitoring Spark jobs,,237
+359,https://github.com/danimahardhika/wallpaperboard.git,Android Json based wallpaper dashboard library,"android,android-library,dashboard,wallpapers,library,muzei,material-design",237
+360,https://github.com/paomedia/clearmin.git,Bootstrap 3 responsive dashboard / webapp / admin template,"bootstrap3,admin-dashboard",237
+361,https://github.com/interpretml/interpret-text.git,A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard.,"text-interpretability,explainer,nlp-models,jupyter-notebook,visualization-dashboard,nlp-scenarios,data-scientists,glass-box-explainers,linear-models,grey-box-explainers,black-box-explanations,nlp,text-classification,data-analyst,local-explanations,python,npm,microsoft-azureml,azure-sdk",237
+362,https://github.com/rchakode/kube-opex-analytics.git,"🎨 Kubernetes Cost Allocation and Capacity Planning Analytics Tool. Hourly, daily, monthly reports - Prometheus exporter - Built-in & Grafana dashboard.","kubernetes,analytics,capacity-planning,cost-allocation,dashboard,monitoring,prometheus-exporter,grafana-dashboard",236
+363,https://github.com/integr8ly/grafana-operator.git,An operator that installs Grafana and manages Dashboards,grafana-operator,235
+364,https://github.com/odrobnik/MyAppSales.git,Mobile ITC Reports Downloader and Dashboard,,231
+365,https://github.com/WaterByWind/grafana-dashboards.git,Grafana Dashboards,"ubnt,unifi,monitoring,grafana-dashboard,grafana,ubiquiti,dashboard,hp,hp-printer,telegraf-snmp,telegraf-configurations,collector-configurations,edgerouter,edgeos,uap",230
+366,https://github.com/kdash-rs/kdash.git,A simple and fast dashboard for Kubernetes,,230
+367,https://github.com/umijs/umi-example-dva-user-dashboard.git,User dashboard example with combination use of umi and dva.,,229
+368,https://github.com/flatlogic/light-blue-vue-admin.git,🤘Vue admin dashboard template with stylish transparent design,"dashboard,vue,bootstrap,vuejs,vuejs2",229
+369,https://github.com/3m1o/nginx-rtmp-monitoring.git,real-time monitoring statistics dashboard for nginx rtmp module,"nginx-rtmp,nginx,rtmp,hls,live,streaming,monitoring,statistics",228
+370,https://github.com/SudhanPlayz/Discord-MusicBot.git,"An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!","discord-music-bot,glitch,repl,music,music-bot,song,heroku,discord,discord-bot,web-dashboard,slash-commands,slash,commands,web,website,dashboard",228
+371,https://github.com/kutyla-philipp/simple-dash.git,"A simple, fully responsive Dashboard to forward to the services of your choice!","simple,responsive,homepage,mobile,desktop,font-awesome,minimalist,dashboards,trianglify,dashboard,jscript",228
+372,https://github.com/realLiangshiwei/LogDashboard.git,Log Dashboard,"logdashboard,dashboard,nlog,log4net,netcore",227
+373,https://github.com/Gleidson28/DashboardFx.git,JavaFx Dashboard,"javafx,javafx-application,javafx-gui,javafx-desktop-apps,javafx-library,javafx-frameworks,javafx-components,javafx-project",226
+374,https://github.com/rozierguillaume/covid-19.git,"How does COVID-19 spread around the world? Charts, data, dashboards and interpretations...",,226
+375,https://github.com/ElemeFE/element-dashboard.git,element dashboard,"element,example,element-dashboard",225
+376,https://github.com/chidiwilliams/github-stories.git,View stories on your GitHub dashboard,"stories,github",225
+377,https://github.com/TehloWasTaken/HomeDashboard.git,A requested Github Repo for my Grafana Home Dashboard,,223
+378,https://github.com/hakobera/influga.git,Influga - A InfluxDB Dashboard and Graph Editor,,222
+379,https://github.com/zats/BrowserTV.git,Turn your \uf8ffTV into a dashboard displaying any webpage!,,222
+380,https://github.com/freakdesign/shopifyFD.git,JavaScript layer to provide additional functionality and fixes to the Shopify dashboard,,221
+381,https://github.com/hopkinschris/dashboard.git,A personal statistics dashboard and API.,,219
+382,https://github.com/kubernetes-retired/kubedash.git,[EOL] Analytics dashboard for Kubernetes,,218
+383,https://github.com/zuramai/voler.git,The first Bootstrap 5 admin dashboard template,"template,bootstrap5,bootstrap,admin-dashboard,admin-template",218
+384,https://github.com/simonw/django-sql-dashboard.git,Django app for building dashboards using raw SQL queries,"django,sql,dashboards,datasette-io,datasette-tool",218
+385,https://github.com/xhacker/miracle-board.git,Just another simple and elegant status board / dashboard.,"hacktoberfest,status-board,dashboard",217
+386,https://github.com/puikinsh/kiaalap.git,Free admin dashboard template,,215
+387,https://github.com/Tibing/platform-terminal.git,Angular Dashboard rendered into system’s terminal! 🔥,,215
+388,https://github.com/pocmo/SensorDashboard.git,A sensor dashboard for Android plotting all sensor data of your Android wearable.,,214
+389,https://github.com/getsentry/zeus.git,WIP: A dashboard for CI,"continuous-integration,python,python3,react",213
+390,https://github.com/dsfsi/covid19za.git,Coronavirus COVID-19 (2019-nCoV) Data Repository and Dashboard for South Africa,"south-africa,covid-19,coronavirus,dataset,data-science,nicd,dashboard,covid19,covid19-data,covid-data,doi,doh,health",211
+391,https://github.com/graylog-labs/cli-dashboard.git,A Graylog stream dashboard that runs in your shell.,,210
+392,https://github.com/jkwill87/stonky.git,A command line dashboard for monitoring stocks,"python,dashboard,stock,monitor,command-line,terminal,cli,cryptocurrency",209
+393,https://github.com/yorek/ssis-dashboard.git,HTML5 SQL Server Integration Services Dashboard,"ssis-dashboard,ssis,sql-server,integration-services,dashboard,python,bootstrap,flask",208
+394,https://github.com/720kb/hubuntu-ui.git,Material Admin Dashboard Starter UI ( Ubuntu style ) - https://720kb.github.io/hubuntu-ui/,"material,material-design,material-ui,css,sass,admin-dashboard,ubuntu-style",208
+395,https://github.com/davidgrzyb/tailwind-admin-template.git,An admin dashboard template built with Tailwind and Alpine.js,,207
+396,https://github.com/start-javascript/sb-admin-material.git,Simple Dashboard Admin App built using Angular 9 and Material 2.,"angular6,angular,dashboard-admin,sb-admin,angular-cli",206
+397,https://github.com/koolphp/koolreport.git,This is an Open Source PHP Reporting Framework which you can use to write perfect data reports or to construct awesome dashboards using PHP,"php,reporting,framework,data-visualization,data-analytics,reporting-engine,mysql,mongodb,mysql-reporting-tools,php-reporting-tools,postgresql,sqlserver,oracle,visualization,datasource,extended-packages,reporting-pipeline,report-generator,reporting-tool",205
+398,https://github.com/discoveryjs/discovery.git,"Frontend framework for rapid data (JSON) analysis, sharable serverless reports and dashboards","data-visualization,json,data-analysis",205
+399,https://github.com/nickholub/angular-dashboard-app.git,Dashboard/Widgets functionality with AngularJS,,204
+400,https://github.com/secondtruth/startmin.git,Admin dashboard template for Bootstrap,"bootstrap,fontawesome-icons,html-template",203
+401,https://github.com/lorenwest/monitor-dashboard.git,Dashboards for the Node.js monitor project,,203
+402,https://github.com/GeekyAnts/flutter-web-admin-dashbaord.git,Admin Dashboard built using Flutter Web,"flutter,web,dart",203
+403,https://github.com/algernon/potential-happiness.git,A dashboard for the terminal,,203
+404,https://github.com/converge/instapy-dashboard.git,(discontinued) InstaPy Dashboard developed using React.js and Node.js,,201
+405,https://github.com/fnk0c/cangibrina.git,A fast and powerfull dashboard (admin) finder,"admin-finder,spider,python",200
+406,https://github.com/flatlogic/angular-dashboard-seed.git,Angular dashboard sample application with nodejs REST backend integration,,200
+407,https://github.com/fulcrumapp/geojson-dashboard.git,"A configurable framework for building a geographic ""data dashboard"" from a GeoJSON file.",,200
+408,https://github.com/siegfried415/portia-dashboard.git,portia-dashboard is a visual web crawler based on scrapinghub/portia,"portia,spider,dashboard",200
+409,https://github.com/krestaino/my-dash.git,🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.,"react,nodejs,uptime-robot,unifi,netdata,seafile,plex,dashboard,tailwindcss,docker,docker-compose",200
+410,https://github.com/obfuscurity/dusk.git,Hotspot dashboard for Graphite,,195
+411,https://github.com/home-assistant/hadashboard.git,:tropical_fish: Dashing dashboard for Home Assistant (deprecated),"hadashboard,dashboard,visualization",195
+412,https://github.com/K-Phoen/dark.git,(grafana) Dashboards As Resources in Kubernetes,"grafana,grafana-dashboard,kubernetes,kubernetes-crd,dashboard-configuration,kubernetes-controller,yaml,dashboard,dashboards,hacktoberfest",195
+413,https://github.com/co-meeting/crowy.git,"Crowy is a communication dashboard supports multiple group communications services, incluging Twitter (with hashtag support), Facebook profile/page/group, Yammer, LinkedIn, Cybozu Live and youRoom.",,195
+414,https://github.com/ezbz/graphitus.git,A simple graphite based dashboard system,,194
+415,https://github.com/mocdaniel/dashing-icinga2.git,Dashing dashboard for Icinga 2 using the REST API,"dashboard,icinga2,widgets,dashing",194
+416,https://github.com/weibeld/k1s.git,"{""The world's simplest Kubernetes dashboard (50 lines of Bash code)""}","kubernetes,kubernetes-dashboard,bash,shell",193
+417,https://github.com/davidcomfort/dash_sample_dashboard.git,Build a Complex Reporting Dashboard using Dash and\xa0Plotly,,191
+418,https://github.com/LinkedInAttic/white-elephant.git,Hadoop log aggregator and dashboard,,190
+419,https://github.com/zircleUI/smarthome-tutorial.git,🎓 Tutorial: smart-home dashboard UI concept.,"tutorial,zircle-ui,smart-home,html,javascript,vue,iot,dashboard,concept",190
+420,https://github.com/maakbaas/esp8266-iot-framework.git,"Framework for IoT projects implementing HTTPS requests, a React web interface, WiFi manager, live dashboard, configuration manager, file manager and OTA updates.","esp8266,react,ota-updates,wifi-manager,https,file-manager",190
+421,https://github.com/minimaxir/system-dashboard.git,Minimalist Win/OSX/Linux System Dashboard using Flask and Freeboard,,189
+422,https://github.com/xiaojiaqi/k8seasy_release_page.git,一键安装kubernets(k8s)系统，已支持云环境的发布，可以在阿里云 azure 等云环境自主部署k8s系统，golang 编写 无需任何插件，无需翻墙下载任何内容，证书10年有效期，支持 单机 集群 生产环境的高可用  完全离线安装等标准。自带dashboard 监控，镜像仓库等内容，一键可用。,"kubernetes,one-click-setup,dashboard",189
+423,https://github.com/markwalkom/kibana-dashboards.git,A collection of Kibana 3.X dashboards from the community,,187
+424,https://github.com/ziyasal/rdash-angular2.git,RDash admin dashboard theme /w AngularJS2 & TypeScript,"rdash-admin-dashboard,theme,angular2,typescript",183
+425,https://github.com/cmrunton/tls-dashboard.git,A dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.,,183
+426,https://github.com/jupyter-attic/dashboards_server.git,[RETIRED] Server that runs and renders Jupyter notebooks as interactive dashboards,,181
+427,https://github.com/Unicorndy/covid19_dashboard.git,Create your own dashboard web app with free resources,,181
+428,https://github.com/Murked/vue-tailwind-admin.git,A basic admin dashboard template built using Tailwind & Vue.js.,,180
+429,https://github.com/infosec-au/bugbountydash.git,[depreciated] Terminal dashboard for bug bounty hunters that use HackerOne and Bugcrowd,,180
+430,https://github.com/dvopsway/datasploit.git,"A tool to perform various OSINT techniques, aggregate all the raw data, visualise it on a dashboard, and facilitate alerting and monitoring on the data. ",,180
+431,https://github.com/fastmail/towncrier.git,A status dashboard,,178
+432,https://github.com/mattbrailsford/vuepoint.git,A vuejs based dashboard framework,"vuejs,vuejs2,dashboard,javascript",178
+433,https://github.com/tomdyson/wagalytics.git,A Google Analytics dashboard in your Wagtail admin,"wagtail,google-analytics",178
+434,https://github.com/ember-admin/ember-cli-admin.git,Ember-cli-admin is a powerful admin dashboard for ember-cli projects,"ember-cli,ember-cli-admin,admin-dashboard,admin",178
+435,https://github.com/BootstrapDash/MajesticAdmin-Free-Bootstrap-Admin-Template.git,Simple Bootstrap 4 Dashboard template.,"majestic-admin,bootstrap,bootstrap4,admin-dashboard,admin,admin-panel,admin-template,template,dashboard-templates",177
+436,https://github.com/Appsilon/semantic.dashboard.git,"Quick, beautiful and customizable dashboard template for Shiny based on shiny.semantic and Semantic UI.",,176
+437,https://github.com/paulrouget/html5dashboard.git,HTML5 Dashboard,,175
+438,https://github.com/danielfrg/jupyter-flex.git,Build dashboards using Jupyter Notebooks,"dashboards,jupyter-notebooks,interactive-dashboards,react",175
+439,https://github.com/tailwindtoolbox/Admin-Template.git,Tailwind CSS Starter Template - Admin Dashboard Template,"tailwindcss,tailwind-css,starter-template,template,html,open-source,admin-dashboard,admin-template",175
+440,https://github.com/mieky/sideshow.git,A minimalistic dashboard-as-a-service,,175
+441,https://github.com/kamon-io/docker-grafana-influxdb.git,"Docker image with StatsD, InfluxDB, Grafana and a Kamon Dashboard",,174
+442,https://github.com/app-generator/flask-black-dashboard.git,Flask Black Dashboard - Open-source seed project | AppSeed,"flask,black-dashboard,appseed",174
+443,https://github.com/mujx/hakatime.git,Wakatime server implementation & analytics dashboard,"wakatime-dashboard,wakatime-server,servant,mithriljs,self-hosted,wakatime",174
+444,https://github.com/jupytercalpoly/jupyterlab-interactive-dashboard-editor.git,A drag-and-drop dashboard editor for JupyterLab,"jupyterlab,dashboard,notebook,jupyter",174
+445,https://github.com/chillu/github-dashing.git,"Dashboard to monitor the health of github projects based on their contribution statistics, based on the ""Dashing"" framework",,174
+446,https://github.com/manfredsteyer/angular-elements-dashboard.git,Dynamic Dashboard with Angular Elements and Web Components,,172
+447,https://github.com/agusibrahim/LoginPageConcept.git,Login Page and dashboard concept with awesome transition animation,"ui-design,android,animation,ux-design,transition-animation,dashboard-concept",172
+448,https://github.com/akoutmos/prom_ex.git,An Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards,"elixir,prometheus,grafana,telemetry,beam",172
+449,https://github.com/Azure/ibex-dashboard.git,Custom Analytics Dashboard for Microsoft Bot Framework and other applications as well,"application-insights,dashboard,insights-service,azure,ibex-dashboard,bot-framework",171
+450,https://github.com/phntxx/dashboard.git,:bar_chart: a nice and simple dashboard / landing page.,,171
+451,https://github.com/steellee/sao.git,基于Spring Cloud(Finchley版本)架构体系，整合各微服务基础组件的最新最全的脚手架工程。微服务架构： Spring Cloud全家桶 + Spring boot 2.x + Oauth2 + Mybatis + Druid + Mysql + Sharding-JDBC 3.x + Redis Sentinel + Spring-Session； 全方位监控：Spring Boot Admin 2.x + Turbine + Hystrix Dashboard + Zipkin,,171
+452,https://github.com/userexec/Pi-Kitchen-Dashboard.git,A simple HTML/CSS/JS time and weather dashboard for use with Raspberry Pi and Chromium,,170
+453,https://github.com/chovanecm/sacredboard.git,Dashboard for sacred. Monitor and access your past machine learning experiments.,"dashboard,sacred,mongodb-database,machine-learning,experiments",170
+454,https://github.com/zksailor534/react-adminlte-dash.git,This project is No Longer Maintained.  React implementation of AdminLTE themed dashboard,"adminlte,dashboard,styled-components,react,sidebar",169
+455,https://github.com/mpolden/jarvis2.git,Awesome dashboard built with Flask and Mithril,"dashboard,python,widget,raspberry-pi",168
+456,https://github.com/meraki/dashboard-api-python.git,Dashboard api for python,,167
+457,https://github.com/phunt/zookeeper_dashboard.git,Django based dashboard for an Apache ZooKeeper cluster.,,166
+458,https://github.com/innogames/ltc.git,"Online web application-dashboard for report analyzing,running and online monitoring of load tests started with JMeter ","jmeter,jmeter-plugin,performance-testing,performance-dashboard,django,python,dashboard",165
+459,https://github.com/shaialon/ember-admin-dashboards.git,DEPRECATED. An Ember-Cli Project - Starter admin template based on AdminLTE. Has an example real data dashboard using twitter stream.,,165
+460,https://github.com/DashboardPack/architectui-html-theme-free.git,"ArchitectUI Dashboard Free is lightweight and comes packed with the minimal set of components to get you started. If you have a simple application, it’s the perfect solution for you. It’s built on top of Bootstrap 4 and features a scalable architecture just like it’s wiser, older sibling – ArchitectUI HTML Pro theme.","dashboard-templates,dashboard-framework,admin,admin-template,admin-dashboard,bootstrap4,bootstrap-theme,bootstrap",165
+461,https://github.com/WebStackPage/webstack-Admin.git,网址导航后台静态源码 webstack dashboard UI,,163
+462,https://github.com/heroku/pulse.git,DEPRECATED: Real-time Heroku operations dashboard,,163
+463,https://github.com/ashish-chopra/ngx-gauge.git,A highly customizable Gauge component for Angular apps and dashboards,"canvas,gauge,angular2,angular4,gauge-component,meter,data-visualization,arc,dashboard,ngx-gauge,angular,threshold,dashboards",162
+464,https://github.com/catalogicsoftware/ngx-dynamic-dashboard-framework.git,"{""This is a JSON driven angular x based dashboard framework that is inspired by JIRA's dashboard implementation and https://github.com/raulgomis/angular-dashboard-framework ""}","dashboard-framework,angular,drag-and-drop,semantic-ui,websocket,dashboard,ngx-charts,angular-material,d3,metrics,gadget,natural-language-processing,ibm-watson,wit-ai,witai,widget,widget-library,json",162
+465,https://github.com/dashbuilder/dashbuilder.git,Dashboard composition tooling based on the Uberfire framework,"bam,monitoring,kpi,metric,dashboard,gwt,elasticsearch,java,dashbuilder",162
+466,https://github.com/elementary/houston.git,"AppCenter Dashboard, the backend for elementary AppCenter","node,appcenter,aptly",162
+467,https://github.com/ArcadeData/arcadeanalytics.git,"Arcade Analytics is the first Open Source Graph Analytics platform. Connect your Graph Database (Neo4j, OrientDB, Amazon Neptune, Microsoft CosmosDB, etc) and RDBMS (Oracle, MySQL, Postgres, Microsoft SQLServer, MariaDB) to create powerful dashboards.","graphdb,analytics,graph-analytics,dashboards,widgets,charts",162
+468,https://github.com/meta-magic/amexio.github.io.git,"{""Amexio is a rich set of Angular 7 (170+) components powered by HTML5 & CSS3 for Responsive Design and with 80+ Material Design Themes, UI Components, Charts, Gauges, Data Point Widgets, Dashboards. Amexio is completely Open Sourced and Free. It's based on Apache 2 License. You can use it in your production grade work today at no cost or no obligation. ""}","angular,bootstrap3,bootstrap4,angular-extensions,angular5,responsive-web-design,ui,components,datatable,charts,dashboard,typescript,angular6-component,angular-material,angular4,angular6-table,react,vue",162
+469,https://github.com/creativetimofficial/now-ui-dashboard.git,Now UI Dashboard - Open Source Admin Template,"now,ui,now-ui-design,now-ui-dashboard,html5,bootstrap-4,responsive-admin",161
+470,https://github.com/grafana/grafana-image-renderer.git,A Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome),"grafana,grafana-backend-plugin,docker",160
+471,https://github.com/alexindigo/ndash.git,your npm dashboard! (react-native app),"npm,node,nodejs,modules,packages,downloads,charts,react-native,react",160
+472,https://github.com/lucduong/vue-material-dashboard.git,Vue Material Dashboard - Inspired by Material Dashboard of Creative Tim.,,158
+473,https://github.com/creativetimofficial/soft-ui-dashboard.git,Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard,"soft-design,bootstrap5,dashboard,soft-ui-dashboard,admin,admin-dashboard,dashboard-templates",158
+474,https://github.com/fetep/pencil.git,Graphite dashboard system,,158
+475,https://github.com/Cezerin2/cezerin2.git,"Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart. ""All In One"" App: Cezerin API + Cezerin Storefront + Cezerin Dashboard.","cezerin,react,shopping,cart,ecommerce-platform,express-js,mongodb,nodejs,reactjs,shoppingcart,react-ecommerce,store,shopping-cart,shopping-site,shopping-cart-solution",158
+476,https://github.com/stitchfix/pyxleyJS.git,Collection of React components for dashboards,,155
+477,https://github.com/globocom/gitlab-ci-monitor.git,A simple dashboard for monitoring GitLab CI builds. Alpha version.,"dashboard,gitlab-ci,gitlab,monitoring,continuous-integration,continuous-delivery,javascript,vuejs",155
+478,https://github.com/owsolutions/angular5-iot-dashboard.git,"Multipurpose dashboard admin for IoT softwares, remote control, user interface. Develop your client dashboards in Angular 5 with vast variety of components available.","angular4,socketio,javascript,typescript,angular-iot-dashboard,iot,dashboard,angular,angular5,iot-platform,monitoring,realtime,angular2,iot-components,remote,remote-control,remote-sensing",153
+479,https://github.com/j7126/OctoPrint-Dashboard.git,A dashboard for Octoprint,"octoprint,octoprint-plugin",153
+480,https://github.com/m110/grafcli.git,Grafana CLI for quick and easy dashboards management.,"dashboard,python,grafana,cli,backup",153
+481,https://github.com/grofers/legend.git,Legend builds and publishes Grafana dashboards for your services with prefilled metrics and alerts for your services.,"monitoring,monitoring-tool,grafana,grafana-dashboard,observability",153
+482,https://github.com/DashboardHub/PipelineDashboard.git,Dashboard for your Deployment pipeline https://dashboardhub.io/,"dashboardhub,dashboard,pipeline,deployment,releases,versions",152
+483,https://github.com/google/todo-tracks.git,Web dashboard for tracking the TODOs in a Git repo,,152
+484,https://github.com/kennedyoliveira/standalone-hystrix-dashboard.git,Standalone hystrix dashboard that can be started using a single jar and is very lightweight,,152
+485,https://github.com/kubernetes-retired/kube-ui.git,[EOL] Deprecated Web UI for Kubernetes; please try dashboard instead,,151
+486,https://github.com/Kamona-WD/kwd-dashboard.git,Fully responsive dashboard template built with tailwindcss & alpinejs,"dashboard-templates,tailwindcss,alpinejs,dashboard",151
+487,https://github.com/GraphQL-Portal/graphql-portal.git,Configurable and distributed GraphQL Gateway. Convert your legacy data sources or monitor your existing GraphQL Services with a visual dashboard.,"graphql-portal,graphql,graphql-gateway,api,gateway,typescript",151
+488,https://github.com/peterbe/github-pr-triage.git,A dashboard of Github Pull Requests,,150
+489,https://github.com/paljs/gatsby-admin-template.git,Free admin dashboard template based on Gatsby with @paljs/ui component package,"admin-dashboard,admin,react,reactjs,dashboard,dashboard-templates,themes,styled-components,styledcomponents,admin-template,free-admin-template,react-admin-dashboard,react-admin-panel,react-admin-component,gatsby,react-forms,react-select,react-accordion,react-chat,react-admin-template",150
+490,https://github.com/pietervogelaar/kubernetes-job-monitor.git,"This provides a monitor dashboard that makes it easy to see which jobs are running and if their latest status was ""succeeded"" or ""failed"".",,150
+491,https://github.com/sbilly/joli-admin.git,Joli is a free admin template/Dashboard/Web App based on Angular JS.,,149
+492,https://github.com/lryong/hugo-leetcode-dashboard.git,A LeetCode dashboard for hugo website,"leetcode,hugo,dashboard,plugin",149
+493,https://github.com/kimble/dropwizard-dashboard.git,Real time Dropwizard dashboard based on a Vertx web socket proxy. This was just a weekend experiment to try out some new technologies while refreshing my Javascript knowledge. ,,149
+494,https://github.com/mpetkov/ng2-finance.git,"{""Finance dashboard using Yahoo's public APIs.""}","angular,angular2,typescript,mdl,d3",148
+495,https://github.com/MeasureOSS/Measure.git,"At its core Measure is, for lack of a better term, a contributor relationship management system. Measure consists of easy to understand widgets that can be arbitrarily displayed to build dashboards. It allows you to understand how people as individuals and as organizations are interacting with open source projects on GitHub. It’s metrics that focus not only on code, but on contributors.",,148
+496,https://github.com/FlorianZ/hadashboard.git,Dashing dashboard for SmartThings.,,146
+497,https://github.com/Yooooomi/your_spotify.git,Self hosted Spotify tracking dashboard,"spotify,self-hosted,statistics,dashboard",146
+498,https://github.com/MISP/misp-dashboard.git,A dashboard for a real-time overview of threat intelligence from MISP instances,"misp,cybersecurity,cyber-security,threatintel,threat-intelligence,dashboard",146
+499,https://github.com/FalkoJoseph/certificate-dashboard.git,Dashboard for ssl certificates,,145
+500,https://github.com/amzn/oss-dashboard.git,A dashboard for viewing many GitHub organizations at once.,"dashboard,github,open-source-tooling",145
+501,https://github.com/soaple/stickyboard.git,Fully customizable Web Admin/Dashboard starter kit based on React,"react,dashboard,stickyboard,webadmin",145
+502,https://github.com/spring-cloud/spring-cloud-dataflow-ui.git,This repo provides the Dashboard application of Spring Cloud Data Flow,"angular,typescript,spring-cloud",145
+503,https://github.com/ITLinuxCL/Varnish-Agent-Dashboard.git,Real time Varnish Cache metrics dashboard,,144
+504,https://github.com/tmobile/kardio.git,"Service Health Dashboard for Kubernetes, Containers and more...",,144
+505,https://github.com/uasoft-indonesia/badaso.git,The First and Most advanced Open-Source Laravel Vue headless CMS (PWA dashboard + CRUD + API generator & more) for more productivity !,"laravel,badaso,vue,rest,dashboard,cms,headless,api,php,crud,generator,spa,pwa,crud-generator,laravel-headless-cms,service-worker,customizable,iot,modular",144
+506,https://github.com/stephenyeargin/hubot-grafana.git,📈🤖 Query Grafana dashboards,"grafana,hubot,graphs,coffeescript,s3,hubot-scripts,hacktoberfest",143
+507,https://github.com/minvws/nl-covid19-data-dashboard.git,The dashboard provides information on the outbreak and prevalence of COVID-19 in The Netherlands,"dashboard,coronavirus,covid-19,netherlands",143
+508,https://github.com/webkom-co/airframe-next.git,Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16 + Next.js: http://airframe.nextjs.webkom.co,"react,airframe,nextjs,next,bootstrap4,admin,admin-dashboard",143
+509,https://github.com/metricio/metricio.git,⚡ Simple framework for easily creating dashboards to display metrics ⚡,"reactjs,socket-io,nodejs,dashboard,metrics-visualization,redis,build-tools,expressjs",142
+510,https://github.com/vikdiesel/admin-one-vue-bulma-dashboard.git,Admin One — Free Vue.js Bulma Admin Dashboard SPA/PWA,"bulma,bulma-css,vue,vuejs,vuejs2,vue-bulma-dashboard,bulma-css-framework,bulma-framework,bulma-template,bulma-admin-dashboard,bulma-admin,bulmacss,buefy,vue-spa,vue-cli,bulma-ui,bulma-extensions",142
+511,https://github.com/Notavone/discord-panel.git,📊 User friendly dashboard/tool for discord bot developpers to manage servers,"discord,web,panel,bot,discord-bot,discord-js,javascript,discordbot,discordjs,discordapp,bootstrap,discord-bot-dashboard,discord-api,discord-js-bot,dark-theme,dark-mode,chrome,firefox,html,css",142
+512,https://github.com/frankus/MeterView.git,Dashboard-style gauges for iOS,,141
+513,https://github.com/edf-hpc/slurm-web.git,Slurm HPC workload manager web JS dashboard and JSON REST API,,140
+514,https://github.com/OpenEIT/OpenEIT.git,"Python based dashboard for real-time Electrical Impedance Tomography including image reconstruction using Back Projection, Graz Consensus and Gauss Newton methods","eit,image-reconstruction,python,tomography,biomedical-image-processing,electrical-impedance-tomography,biomedical-instrumentation,inverse-problems",140
+515,https://github.com/VanRoy/spring-cloud-dashboard.git,Spring Cloud Dashboard,,139
+516,https://github.com/chschoenenberger/covid19_dashboard.git,"This is a dashboard, similar to the one from Johns Hopkins using open source technology.",,139
+517,https://github.com/jeweltheme/basix-admin.git,Get Free and Premium Vue.js Bootstrap v4 Admin Dashboard Templates,"basix-admin,vuejs-bootstrap,bootstrap-vue,admin-dashboard-ui,admin-dashboard,admin-panel,admin-ui,admin-template,bootstrap4,bootstrap-admin-theme,bootstrap-admin,bootstrap-theme,bootstrap-admin-dashboard,es6,sass,es6-javascript,vue-cli,vue-router,vuejs2,vuex",138
+518,https://github.com/wayone/Indicator.git,仪表盘 / 指示器 / 温度计 / 湿度计 / Indicator /  Dashboard,"indicator,dashboard,yi-biao-pan,ui,animation,ios",138
+519,https://github.com/roramirez/qpanel.git,Dashboard for Queues in Asterisk and FreeSWITCH. app_queue panel for Asterisk and mod_callcenter in FreeSWITCH.   Get news -> http://eepurl.com/dxKt7X,,138
+520,https://github.com/kwent/pgbouncerhero.git,A dashboard for your PgBouncers.,"pgbouncer,gui,postgresql,dashboard,engine",137
+521,https://github.com/bensladden/vue-responsive-dash.git,"Responsive, Draggable & Resizable Dashboard (Grid) for Vue","vue,grid-layout,dashboard,responsive,draggable,resizable",136
+522,https://github.com/bcwik9/robinhood-on-rails.git,A web dashboard for the free trading platform Robinhood using Ruby on Rails and a private API,"robinhood,robinhood-api,etf,trading,stocks,trade-stocks,dashboard,investing,stock-market,web-dashboard,brokerage,nyse,nasdaq",136
+523,https://github.com/puikinsh/nalika.git,Free dark design Bootstrap admin dashboard template,,134
+524,https://github.com/voila-dashboards/voila-gridstack.git,Dashboard template for Voilà based on GridStackJS,,134
+525,https://github.com/RazorFlow/framework.git,The RazorFlow Dashboard Framework,,133
+526,https://github.com/grafana/grizzly.git,A utility for managing Jsonnet dashboards against the Grafana API,,133
+527,https://github.com/freakdesign/shopify-custom-fields.git,A javascript tool to emulate Custom Fields within the Shopify dashboard.,,133
+528,https://github.com/phillipdupuis/dtale-desktop.git,Build a data visualization dashboard with simple snippets of python code,"python,visualization,data-visualization,pandas,data-science,react,typescript,fastapi,data-analysis",133
+529,https://github.com/leeberg/BlueHive.git,PowerShell based Active Directory Honey User Account Management with Universal Dashboards,"activedirectory,honeypot,dashboard,powershell",131
+530,https://github.com/tuandm/laravue-core.git,Laravel package to provide core functionalities of Laravue dashboard,"laravel,vue,vuejs,php",131
+531,https://github.com/stripe/ios-dashboard-ui.git,UI components from the Stripe Dashboard iOS app          ,,131
+532,https://github.com/Excelian/Angular-Material-ECMA6-Dashboard.git,"This is an opinionated AngularJS dashboard using Material Design, ECMA6 and Traceur",,131
+533,https://github.com/anryko/grafana-influx-dashboard.git,Grafana InfluxDB scripted dashboard,"grafana,grafana-dashboard,grafana-influxdb,influxdb,monitoring,metrics",130
+534,https://github.com/AdamNowotny/BuildReactor.git,Developer notifications and dashboard (Google Chrome extension),,130
+535,https://github.com/materialos/android-icon-pack.git,"{""Material Open Source's Android Icon Pack Running on Adian Follestad's Polar Dashboard""}","icons,iconography,android-icon-pack,material-design,dashboard",130
+536,https://github.com/app-generator/django-admin-dashboards.git,Django Dashboards - Admin Panels coded in Django | AppSeed,"appseed,django-dashboards",128
+537,https://github.com/jenssegers/dashboard.git,A server dashboard for Ubuntu,,128
+538,https://github.com/tylerhall/Shine.git,An web dashboard for indie mac developers.,,128
+539,https://github.com/pagarme/react-scripts-former-kit-dashboard.git,📊 A custom react-scripts for building highly-customizable dashboards using former-kit components ,,128
+540,https://github.com/software-project/scrum-pm.git,"Scrum PM is a plugin for Redmine ticket management system. It adds Scrum items like backlog, dashboard and others.",,128
+541,https://github.com/leogopal/VVV-Dashboard.git,"A Beautiful, Simple and Easy-To-Use Dashboard for Varying Vagrant Vagrants (VVV)",,128
+542,https://github.com/hagen1778/grafana-import-export.git,"{""shell scripts for importing and exporting Grafana's dashboards and datasources""}","grafana,bash,export,import",127
+543,https://github.com/daleosm/pihole-panel.git,Python/GTK3 based Pi-hole (network-level adblocker) dashboard for stats and more,"pi-hole,python,gtk3,raspberry-pi,ubuntu,debian,pygobject,raspbian,pihole-panel",127
+544,https://github.com/bbli/ml_board.git,"{""a machine learning dashboard that displays hyperparameter settings alongside visualizations, and logs the scientist's thoughts throughout the training process""}","machine-learning,dashboard,python,mongodb,visualization,plotly-dash",127
+545,https://github.com/bstavroulakis/polymer-dashboard.git,A Polymer Dashboard with Material Design,,125
+546,https://github.com/NixOS/ofborg.git,@ofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg,,125
+547,https://github.com/stelligent/pipeline-dashboard.git,Simple dashboard for pipelines on AWS,,125
+548,https://github.com/transcranial/statusboard.git,Host status checker complete with a front-end dashboard and slack notifications,,125
+549,https://github.com/geyang/ml_logger.git,"A logger, server and visualization dashboard for ML projects",,124
+550,https://github.com/ranjithprabhuk/Angular-Bootstrap-Dashboard.git,"Angular Bootstrap Dashboard is a web dashboard application based on Bootstrap and AngularJS. All components included in this dashboard template has been developed to bring all the potential of HTML5 and Bootstrap plus a set of new features (JS and CSS) ideal for your next dashboard admin theme or admin web app project. Angular Bootstrap Dashboard can be used in any type of web applications dashboard: Single Page Application (SPA), project management system, ecommerce admin dashboard, CMS, CRM, SAAS, help desk; for personal and business purposes. Angular Bootstrap Dashboard uses ui-router for routing purposes.",,123
+551,https://github.com/app-generator/django-dashboard-black.git,Django Dashboard Black - Open-source Seed Project | AppSeed,"appseed,django-dashboard,black-design",123
+552,https://github.com/syphon1c/Threatelligence.git,"Threatelligence is a simple cyber threat intelligence feed collector, using Elasticsearch, Kibana and Python to automatically collect intelligence from custom or public sources. Automatically updates feeds and tries to further enhance data for dashboards.",,123
+553,https://github.com/themekita/Atlantis-Lite.git,Free Bootstrap 4 Admin Dashboard,,122
+554,https://github.com/JayeshLab/vue-crypto-dashboard.git,Cryptocurrency Dashboard made with Vue,"vuejs,cryptocurrencies,binance,amcharts,svg,charts,websocket,vue,vuex,dashboard,cryptocurrency-dashboard,vue-crypto-dashboard,binance-websocket-api",122
+555,https://github.com/balanced/status.balancedpayments.com.git,Balanced status dashboard.,,122
+556,https://github.com/pusewicz/sonia.git,Awesome Office Dashboard,,122
+557,https://github.com/FRCDashboard/FRCDashboard.git,":video_game: Extensible, JavaScript-based driving dashboard framework for the FIRST Robotics Competition.",,122
+558,https://github.com/lamarios/Homedash2.git,Dashboard for servers,,122
+559,https://github.com/SteveMcGrath/DoFler.git,Dashboard of Fail.  A application to carve out images/accounts/vulns on conference networks and display them for general entertainment.,,122
+560,https://github.com/carlosbuenosvinos/opcache-dashboard.git,"Set up properly and monitor your Zend OPcache with this dashboard that will help you checking memory, hits and status, configuring for optimal performance (warning you when cache full, validation, etc.) and reseting one or all scripts with one click.","php,zend-opcache,opcache-dashboard,monitor,dashboard,opcache",122
+561,https://github.com/tsuru/tsuru-dashboard.git,Web dashboard for tsuru PaaS.,"hacktoberfest,tsuru",121
+562,https://github.com/BBVA/mirrorgate.git,MirrorGate DevOps Dashboard,"dashboard,devops,ci,jira,jenkins,wallboard",121
+563,https://github.com/creativetimofficial/now-ui-dashboard-react.git,React version of Now UI Dashboard,,121
+564,https://github.com/higee/elastic.git,Elastic Stack (6.2.4) 을 활용한 Dashboard 만들기 Project,"elastic,logstash,kibana,elasticsearch,elasticstack,dashboard,beats,elk,elk-stack",121
+565,https://github.com/gregsqueeb/consultDash.git,A program to read from a Nissan Consult port and display a dashboard. This was originally meant to be run on a raspberry pi and used as a dashboard,,121
+566,https://github.com/pojome/activity-log.git,Get aware of any activities that are taking place on your dashboard! Imagine it like a black-box for your WordPress site.,"wordpress,plugin,activity-log",121
+567,https://github.com/Webiks/kibana-API.git,Kibana-API is an extension to Kibana that lets you tap in to the dashboard management board from your app and change the visualizations dynamically,,121
+568,https://github.com/app-generator/django-datta-able.git,Datta Able - Open-Source Django Dashboard | AppSeed,"django,appseed,datta-able",120
+569,https://github.com/datacamp/shinybones.git,A highly opinionated framework for building shiny dashboards.,,120
+570,https://github.com/oussemos/fail2ban-dashboard.git,Fail2ban web dashboard written with Flask framework. (not maintained),"fail2ban-dashboard,fail2ban,linux,monitoring,flask-framework",120
+571,https://github.com/hybridgroup/robeaux.git,Universal dashboard to robotic devices based on React,,120
+572,https://github.com/mozilla/arewefastyet.git,"{""NOT MAINTAINED ANYMORE! New project is located on https://github.com/mozilla-frontend-infra/js-perf-dashboard -- AreWeFastYet is a set of tools used for benchmarking the major browser's JavaScript virtual machines against each other, as well as reporting the results on a website as insightful graphs showing the evolution of performance over time.""}","benchmark,javascript,performance,awfy",120
+573,https://github.com/davefp/handsome.git,"A node-backed, react-based dashboard framework.",,119
+574,https://github.com/stevelacy/movel.git,Móvel - Dashboard for Raspberry pi car computer,"obd,car,raspberry-pi,car-computer,dashboard",119
+575,https://github.com/causefx/iDashboard-PHP.git,"HTPC Dashboard to load website services, written in PHP",,119
+576,https://github.com/githubwing/PanelView.git,android PanelView DashBoard 仪表盘 汽车仪表盘 气压仪表盘,,119
+577,https://github.com/VincentTatan/ValueInvesting.git,For value investing dashboard,,118
+578,https://github.com/creativetimofficial/paper-dashboard-angular.git,Angular version of the original Paper Dashboard. ,"angular,angular2-cli,angular2,angular4,bootstrap-theme,dashboard,admin-dashboard,free,free-software,webdevelopment,design-tools,typescript,ui-components",118
+579,https://github.com/IndeemaSoftware/QSimpleScada.git,"Qt based simple SCADA framework, with dashboard, static and dynamic components","qt,scada,iot,industrial,qt5,configurator,cpp,industry-4,qpm,dashboard,scada-framework,dashboards,dashboard-templates,dashboard-widget,dashboard-application,qt-gui,iot-platform,iot-framework",118
+580,https://github.com/start-angular/ani-theme.git,Ani Free AngularJS Dashboard Theme,,117
+581,https://github.com/ralfyang/docker_cli_dashboard.git,CLI mode dashboard for Docker,,117
+582,https://github.com/nasa-jpl-memex/memex-explorer.git,Viewers for statistics and dashboarding of Domain Search Engine data,"memex-explorer,miniconda,anaconda,crawler,dashboard,domain-discovery,nutch,ache,apache,tika",117
+583,https://github.com/kidtronnix/hapi-dash.git,"Boilerplate Hapi Web and API Server Example, with frontend dashboard.",,116
+584,https://github.com/miklevin/Pipulate.git,Free and Open Source SEO Software. Automate Google Sheets without plug-ins. Build Google Analytics and Search Console Dashboards. Learn Python in Jupyter Notebook. Move your scripts to generic Linux schedulers.,,116
+585,https://github.com/nima200/angular-dashboard.git,Skeleton for a responsive and fully customizable Angular Dashboard,,115
+586,https://github.com/flatlogic/light-blue-dashboard.git,🔥 Free and open-source admin dashboard template built with Bootstrap,"dashboard,typography,admin,admin-dashboard,bootstrap,admin-template,theme,boilerplate,sass,scss,bootstrap4-theme,responsive",115
+587,https://github.com/MarkEdmondson1234/ga-dashboard-demo.git,"A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL",,115
+588,https://github.com/jakubplichta/grafana-dashboard-builder.git,Generate Grafana dashboards with YAML,,114
+589,https://github.com/GSA/project-open-data-dashboard.git,Project Open Data Dashboard,,114
+590,https://github.com/djmelik/lndash.git,A simple web dashboard for lnd.,,114
+591,https://github.com/suetco/suet.git,An analytics dashboard and reporting tool for Mailgun and Amazon SES transactional emails.,"transactional-emails,mailgun,analytics-dashboard,aws-ses",114
+592,https://github.com/256MbTeam/Redmine-Scrumbler.git,Easy to use plugin for Redmine. It allows users to use the Scrum/Agile process in projects. Scrumbler have interactive dashboard with the ability to configure for each sprint. Plugin adds Scrum Points field in every issue in project. Scrumbler as possible using the standard redmine structure of projects.,,114
+593,https://github.com/secret-tech/backend-ico-dashboard.git,"Free & open-source dashboard for your next ICO, crowdsale or tokensale","ico,cryptocurrency,ethereum,blockchain,ico-dashboard",113
+594,https://github.com/coroo/nova-chartjs.git,"A Simple Dashboard Chart in Laravel Nova using Chart JS. Starting create your own dashboard with Chart JS Integration can save your time and help you maintain consistency across standard elements such as Bar, Stacked, Line, Area, Doughnut and Pie Chart.","chart-js,laravel-nova,laravel",113
+595,https://github.com/TarsCloud/TarsWeb.git,TARS Projects Dashboard,"tars-web,dashboard,tars-foundation,tars,maintenance",112
+596,https://github.com/MrAugu/simple-discordjs-dashboard.git,Simplest discord bot dashboard in NodeJS.,,112
+597,https://github.com/prfalken/leonardo.git,Dashboard for Graphite,,112
+598,https://github.com/kennylevinsen/wldash.git,Wayland launcher/dashboard,,112
+599,https://github.com/geekdada/yasd.git,Yet another Surge Dashboard,,112
+600,https://github.com/ra-systems/django-ra-erp.git,"A Django based framework to create diverse business solutions, equipped with a reporting engine and a responsive dashboard.","django,python,erp,framework,responsive-design,charting,reporting-engine",112
+601,https://github.com/danodemano/monitoring-scripts.git,A dump of the scripts used to monitor my environment and write to InfluxDB.  Also includes my dashboard export.,,112
+602,https://github.com/CodyHouse/responsive-sidebar-navigation.git,"An easy-to-integrate side, vertical navigation, ideal for dashboards and admin areas.","javascript,plugin,scss,navigation,responsive",111
+603,https://github.com/ben423423n32j14e/zigbee2mqttadminpanel.git,Node-Red-Dashboard web interface for controlling Zigbee2MQTT,,111
+604,https://github.com/stestagg/dashcast.git,Chromecast app for displaying dashboard pages,,110
+605,https://github.com/BrianRuizy/covid19-dashboard.git,"🦠 Django + Plotly Coronavirus dashboard. Powerful data driven Python web-app, with an awesome UI. Contributions welcomed! Featured on 🕶Awesome-list ","dashboard,django,coronavirus,covid-19,python,data-visualization,pandemic,datascience,covid-dashboard,covid-data,django-application,django-web-app,coronavirus-tracker,coronavirus-real-time,heroku,plotly,plot",110
+606,https://github.com/mlabouardy/grafana-dashboards.git,List of Grafana Dashboards 📺,"grafana,dashboard,monitoring,influxdb,telegraf",109
+607,https://github.com/KSF-Media/gitlab-dashboard.git,📺 TV dashboard for a global view on Gitlab Pipelines,"gitlab,gitlab-dashboard,tv-dashboard,gitlab-pipelines,pipeline,ci,gitlab-ci",109
+608,https://github.com/eellak/nlpbuddy.git,A text analysis application for performing common NLP tasks through a web dashboard interface and an API,"natural-language-processing,spacy,gensim,text-analysis,text-classification,fasttext",109
+609,https://github.com/andre12001/DWAdmin-Template.git,DWAdmin is a dashboard website made of bootstrap 4 and css and other libraries. This template is very light and suitable for use by companies and other things.,dasboard,109
+610,https://github.com/PressForward/pressforward.git,"PressForward is a free plugin that provides an editorial workflow for content aggregation and curation within the WordPress dashboard. It is designed for bloggers and editorial teams who wish to collect, discuss, and share content from a variety of sources on the open web.",,109
+611,https://github.com/sammymwangangi/TALL-Dashboard.git,Tailwind CSS + AlpineJS + Laravel + Livewire dashboard (WIP),"dashboard,alpinejs,livewire,tailwind-css,laravel",108
+612,https://github.com/Activiti/activiti-cloud-examples.git,Activiti Cloud Examples using Docker Images from: https://hub.docker.com/u/activiti/dashboard/,,108
+613,https://github.com/ylacaute/ez-Dashing.git,Another free dashboard tool (React + Spring Boot) for agile development teams,,108
+614,https://github.com/Dashticz/dashticz_v2.git,Alternative dashboard for Domoticz,,107
+615,https://github.com/jimgoo/zipline-tensorboard.git,TensorBoard as a Zipline dashboard,,107
+616,https://github.com/voila-dashboards/voila-vuetify.git,Dashboard template for Voilà based on VuetifyJS,,107
+617,https://github.com/apertureless/npm-stats.git,📈 npm package statistics dashboard build with vue,"stats,statistics,dashboard,npm,npm-search,charts",106
+618,https://github.com/golang/benchmarks.git,Benchmarks for the perf dashboard,,105
+619,https://github.com/fidum/laravel-dashboard-chart-tile.git,Create all the charts you want for your laravel dashboard,"chart,tile,dashboard,laravel,spatie,laravel-framework",105
+620,https://github.com/macouella/linkdash.git,Generate a handy dashboard of links in seconds.,,105
+621,https://github.com/RinteRface/argonDash.git,argon dashboard template,"argon-dashboard-template,r,shiny,shiny-apps,bootstrap4",104
+622,https://github.com/DankMemer/dankmemer.lol.git,"{""Dank Memer's website and dashboard""}","dashboard,website,react,nodejs,express",104
+623,https://github.com/leeberg/BlueCommand.git,Dashboarding and Tooling front-end for PowerShell Empire using PowerShell Universal Dashboard,"cybersecurity,dashboard,empire,powershell",104
+624,https://github.com/SamKnows/dirk.git,A dashboard configuration tool powered by Vue,,104
+625,https://github.com/multunus/dashboard-clj.git,A Clojure mini-framework for building realtime dashboards,,103
+626,https://github.com/creativetimofficial/ct-material-dashboard-pro-react.git,React version of Material Dashboard Pro,,103
+627,https://github.com/linkerd/linkerd-viz.git,Top-line service metrics dashboard for Linkerd 1.,,103
+628,https://github.com/shevabam/ezservermonitor-sh.git,eZ Server Monitor`sh - A simple and lightweight dashboard for Linux,,103
+629,https://github.com/kiegroup/dashboard-builder.git,Web application for the visual composition of dashboards,,102
+630,https://github.com/ideonate/cdsdashboards.git,JupyterHub extension for ContainDS Dashboards,"jupyterhub,jupyter,streamlit,bokeh,panel,plotly-dash,data-science,visualization,rshiny",102
+631,https://github.com/adamdriscoll/poshprotools.git,PowerShell Pro Tools and Universal Dashboard,"powershell,dashboard,visual-studio,web,rest-api",102
+632,https://github.com/htmlstreamofficial/awesome-dashboard-ui-kit.git,Awesome Dashboard UI Kit is a beautiful Open Source Bootstrap 4 Dashboard UI Kit crafted by Htmlstream.,,102
+633,https://github.com/coffeehu/CBoard-v.git,CBoard Vue 版 （BI dashboard platform）,"vue,javascript,dashboard",101
+634,https://github.com/mapbox/mapboxgl-powerbi.git,"Mapbox Visual for Power BI - High performance, custom map visuals for Power BI dashboards",,101
+635,https://github.com/jperillo/Synology_dashboard_grafana.git,A grafana dashboard for monitoring Synology NAS,,101
+636,https://github.com/kakao/hbase-region-inspector.git,A visual dashboard of HBase region statistics,hbase,101
+637,https://github.com/linuxserver/Clarkson.git,Web-based fuel logging dashboard,,101
+638,https://github.com/ralphwetzel/theonionbox.git,Dashboard to monitor Tor node operations,"tor,relay,exit,onionoo,onionbox,the-onion-box,monitor,theonionbox",101
+639,https://github.com/nick8888/mediafrontpage.git,"A dashboard page for xbmc, sabnzbd, sickbeard, couchpotato, etc.",,101
+640,https://github.com/paljs/nextjs-admin-template.git,Free admin dashboard template based on Next.Js with @paljs/ui component package,"react,admin,admin-dashboard,admin-panel,dashboards,admin-template,nextjs,themes,styled-components,free-admin-template,free-admin-theme,react-admin-dashboard,react-admin-template,react-admin-panel,reactjs,react-components,react-select,react-forms,react-accordion,react-chat",101
+641,https://github.com/digitaldreams/laravel-seo-tools.git,Laravel Seo package for Content writer/admin/web master who do not know programming but want to edit/update SEO tags from dashboard,"seo,seo-tools,seo-manager,laravel,meta-tags,laravel-seo,seo-tags,sitemap",101
+642,https://github.com/xuwujing/springcloud-study.git,springcloud学习的相关工程并辅以博文讲解。主要介绍Eureka(服务注册发现)、Feign (服务消费)、Ribbon(负载均衡)、Hystrix(熔断器)、Dashboard(熔断器监控)、Config(分布式配置中心)、Zuul(路由网关)等等相关内容。,"spring-cloud-eureka,springcloud-hystrix,springcloud-ribbon,springcloud-study,spring-cloud,spring-cloud-zuul,spring-cloud-config,spring-cloud-gateway",101
+643,https://github.com/dankilman/awe.git,Dynamic web based reports/dashboards in Python,"python,dashboard,report,react",100
+644,https://github.com/jcergolj/laravellte.git,Fully customizable and tests supported Laravel admin dashboard 2.0,"authorisation,livewire,laravel,adminlte,alpinejs,files-scaffolding,livewire-components,admin-dashboard",100
+645,https://github.com/veronikaro/django-dashboard-app.git,This project shows how to create an analytical dashboard in a Django application. ,,100
+646,https://github.com/dashorst/dashboard.git,Dashboard for the coffee corner based on HTML5/CSS3,,99
+647,https://github.com/vikdiesel/admin-one-laravel-dashboard.git,Admin One — Free Laravel Dashboard (Bulma Buefy Vue.js SPA),"laravel,laravel-framework,laravel-package,bulma,buefy,vue,vuejs,vuejs2,bulma-admin-dashboard,bulma-css,bulma-css-framework,bulma-ui,bulma-framework,bulma-template,bulmacss,bulma-extensions,bulma-admin",99
+648,https://github.com/ofekashery/react-dashboard-design.git,"{""⚡️ Implement of Vercel's Dashboard design in React""}","react,vercel,design,dashboard,dashboard-template,hacktoberfest,geist,geist-ui",99
+649,https://github.com/donaldzou/wireguard-dashboard.git,Simplest Wireguard Dashboard written in Python w/ Flask,"wireguard,wireguard-vpn,dashboard,python,python3,html5,css,flask-application",99
+650,https://github.com/plouc/mozaik-demo.git,Sample mozaïk app with two dashboards,"dashboard,mozaik,demo",98
+651,https://github.com/gadenbuie/tweet-conf-dash.git,A shiny twitter conference dashboard,"shiny,shinyapps,shinydashboard,twitter,rtweet,rstats-twitter,rstats",98
+652,https://github.com/AVGP/cloud9hub.git,A workspace dashboard for Cloud9,,98
+653,https://github.com/app-generator/flask-boilerplate-dashboard-argon.git,Flask Dashboard - Argon Design | AppSeed,"argon-dashboard,flask,appseed",98
+654,https://github.com/NuCivic/react-dash.git,A framework for building data visualization dashboards using react. Docs: http://react-dashboard.readthedocs.io/en/latest/,,98
+655,https://github.com/codaxy/dashboards.git,Drag & drop dashboard builder!,"dashboard,drag-and-drop,cxjs,firebase",98
+656,https://github.com/azizultex/Dark-Mode.git,Dark Mode for the WordPress dashboard.,"wordpress,plugin",98
+657,https://github.com/sensu/sensu-dashboard.git,"A dashboard for Sensu, for displaying & managing events & clients.",,98
+658,https://github.com/bugphix/bugphix-laravel.git,Capture and monitor detailed error logs with nice dashboard and UI,"error,error-catcher,error-handler,error-manager,error-monitoring,error-watcher,error-viewer,error-logger,bugphix,bugphix-laravel,laravel-bugphix,laravel-error,laravel,capture,dashboard,monitor,self-hosted",98
+659,https://github.com/arvindr21/mydashboard.git,node webkit based dashboard app,,97
+660,https://github.com/Kamona-WD/starter-dashboard-layout.git,Responsive dashboard layout,,97
+661,https://github.com/ashish-chopra/angular-gauge.git,A reusable gauge directive for Angular 1.x apps and dashboards,"angularjs-directives,angularjs,directives,gauge,dashboard-widget,ui-components",97
+662,https://github.com/rajeevkannav/gutter.git,gutter (Linux-Ruby DashBoard),,97
+663,https://github.com/mpostument/grafana-sync.git,Keep your Grafana dashboards in sync,"grafana,grafana-dashboard,golang,go,cobra",97
+664,https://github.com/edouardparis/lntop.git,:zap: LN terminal dashboard :bar_chart:,"bitcoin,lightning-network,lightning,tui,terminal,dashboard",97
+665,https://github.com/akira/exq_ui.git,"UI Dashboard for Exq, a job processing library for Elixir.  Exq UI provides the UI dashboard to display stats on job processing.",,96
+666,https://github.com/geocar/dash.git,really fast webserver for kdb (>100kq/sec) and dashboard-making bits,,96
+667,https://github.com/Lissy93/dashy.git,🔗 A dashboard for your homelab,dashboard,96
+668,https://github.com/memsql/workload-simulator.git,MemSQL Workload Simulator and Dashboard,,95
+669,https://github.com/byrnedo/dockdash.git,Docker dashboard using Termui,"docker,termui,monitoring,gui",95
+670,https://github.com/vspiewak/twitter-sentiment-analysis.git,"Streaming tweets with spark, language detection & sentiment analysis, dashboard with Kibana","tiwtter,nlp,sentiment-analysis,kibana,spark,scala,dashboard",95
+671,https://github.com/joereynolds/fanbox.git,A HTML + CSS + JS desktop dashboard!,,95
+672,https://github.com/tailwindtoolbox/Admin-Template-Day.git,Tailwind CSS Starter Template - Admin Dashboard Template (Day Mode),"tailwindcss,tailwind-css,starter-template,template,html,admin-template,admin-dashboard,open-source",94
+673,https://github.com/freedomofpress/securethenews.git,An automated scanner and web dashboard for tracking TLS deployment across news organizations,,94
+674,https://github.com/HangfireIO/Hangfire.Dashboard.Authorization.git,"{""Some authorization filters for Hangfire's Dashboard""}",,93
+675,https://github.com/ashtonmeuser/vue-cloudwatch-dashboard.git,A simple live dashboard for CloudWatch metrics,"aws,cloudwatch,vuejs,aws-lambda",93
+676,https://github.com/gmc-holle/xfdashboard.git,Maybe a Gnome shell like dashboard for Xfce,,93
+677,https://github.com/auth0-samples/auth0-roles-permissions-dashboard-sample.git,Dashboard that allows you to manage roles and permissions for your Auth0 users,,93
+678,https://github.com/creativetimofficial/argon-dashboard-asp-net.git,"Start your development with a Bootstrap 4 Admin Dashboard built for ASP.NET Core framework, the newest go-to technology from Microsoft for top companies.","dashboard,asp,argon,argon-design,argon-dashboard,creative-tim",93
+679,https://github.com/RamiKrispin/coronavirus_dashboard.git,The Coronavirus Dashboard ,,92
+680,https://github.com/FedericoCeratto/nim-dashing.git,Terminal dashboards for Nim,"nim,nim-lang,terminal,console,text-based,dashboard",92
+681,https://github.com/yewstack/facade.git,Facade Framework - autogenerated embedded live dashboards for Rust apps,"rust,dashboards,ui,autogenerated,wasm,yew,websocket,livestream,interactive",92
+682,https://github.com/dellintosh/flask-adminlte.git,Flask extension for AdminLTE dashboard and control panel template,,92
+683,https://github.com/BenJetson/gnome-dash-fix.git,Sort GNOME apps dashboard by category.,"gnome,gnome-shell,gsettings,dconf,python3,bash-script",92
+684,https://github.com/changhuixu/angular-material-admin.git,Angular Material Admin Dashboard,"angular,angular6,angular-material,material-design,dashboard,template,admin,flex,flexbox-layout,angular7,angular11,angular9",91
+685,https://github.com/uilibrary/matx-angular.git,Angular Material Dashboard,,91
+686,https://github.com/telerik/kendoui-northwind-dashboard.git,A dashboard for Northwind built with Telerik UI for ASP.NET MVC.,,91
+687,https://github.com/cristijora/vue-material-dashboard.git,Creative Tim Material Dashboard made for Vue,,91
+688,https://github.com/lastroom/yama.git,Awesome node dashboard,,91
+689,https://github.com/watson-developer-cloud/car-dashboard.git,Application that demonstrates how the Watson Assistant service uses intent capabilities in an animated car dashboard UI.,,91
+690,https://github.com/adonis-china/adonis-adminify.git,Admin dashboard based on AdonisJs + Adminify (based on vuetify),"admin-dashboard,adonisjs,china,nodejs",91
+691,https://github.com/yiimaker/yii2-email-templates.git,Extension for creating email templates and manage using your site dashboard,"yii2,yii2-extension,email-template-generator,email-templates,gii,mail-templates",91
+692,https://github.com/jahirfiquitiva/Kuper.git,"Free, feature-rich, easily customizable Android dashboard for widgets apps with Zooper widgets and/or Kustom assets (Widgets, Wallpapers and Komponents)","android,android-library,dashboard,wallpapers,widgets,zooper,kustom,klwp,kwgt,klck,muzei,material,material-design,android-application,template,hacktoberfest,hacktoberfest2020",91
+693,https://github.com/krakendash/krakendash.git,A free web dashboard for monitoring and managing Ceph clusters.,,90
+694,https://github.com/bluenote10/tabloo.git,Minimalistic dashboard app for visualizing tabular data,,90
+695,https://github.com/broizen/sublimedash.git,"A modern, beautiful, and customizable dashboard for external monitors",,90
+696,https://github.com/microsoft/service-fabric-explorer.git,Service Fabric Explorer is a web based dashboard for visualizing the state of a Service Fabric cluster.,"service-fabric,typescript,angular8,sfx",90
+697,https://github.com/johnjones4/InBrief.git,InBrief is a personal briefing app and dashboard powered by Electron and React,"nodejs,react,dashboard,ics,todoist,asana,exchange-web-services,imap,weather-underground,weather,rss,homepage,start-page,rss-reader,twitter-client,todo,email",90
+698,https://github.com/angular/dashboard.angularjs.org.git,AngularJS Dashboard,,89
+699,https://github.com/cirocosta/sample-grafana.git,Automatic Grafana dashboard initialisation example,"grafana,provisioning,dashboards",89
+700,https://github.com/initialstate/pi-health-dashboard.git,Building a System Health Dashboard for Raspberry Pi,,89
+701,https://github.com/oslabs-beta/Auxpack.git,A dashboard for monitoring Webpack build stats.,,89
+702,https://github.com/jotaf98/overboard.git,"Pure Python dashboard for monitoring deep learning experiments (like TensorBoard for PyTorch/MXNet/etc, without a browser)",,89
+703,https://github.com/start-react/sb-admin-seed-react.git,Simple two page React app with Login and Dashboard,,88
+704,https://github.com/creativetimofficial/ct-material-dashboard-pro.git,Material Dashboard Pro - Bootstrap 4 Admin,"bootstrap4,admin-dashboard,creative-tim,premium-template,material-design",88
+705,https://github.com/heysafronov/square-react-dashboard.git,👨\u200d🎤 React Dashboard Template built with TypeScript,"react,react-template,dashboard,admin-dashboard,admin-template,redux,typescript,styled-components,react-dashboard",88
+706,https://github.com/oslabs-beta/KafKare.git,A Kafka monitoring dashboard,"kafka-cluster,kafka-monitoring-dashboards,monitoring,metrics,dashboard",88
+707,https://github.com/crflynn/pypistats.org.git,PyPI downloads analytics dashboard,"python,pypi-packages,download-counts,python-packages,pypi",88
+708,https://github.com/wangduanduan/vue-el-dashboard.git,实现一个非常简单的vue element-ui dashboard 框架demo,,88
+709,https://github.com/DevCloudFE/ng-devui-admin.git,Customizable admin dashboard template based on Angular and DevUI,"angular,admin-template,admin-dashboard,angular-admin,devui-admin,devui,ng-devui-admin,enterprise,angular11,ng-admin,angular-admin-template,scss,admin,theme,typescript,responsive,angular10,admin-ui",88
+710,https://github.com/pa11y/sidekick.git,Pa11y Sidekick is a proposed replacement for Pa11y Dashboard,,87
+711,https://github.com/Auxpack/Auxpack.git,A dashboard for monitoring Webpack build stats.,"webpack-configuration,webpack,javascript,build,optimization,npm-module,webpack-plugin,nodejs,expressjs,reactjs,material-ui,treeshaking,d3,bundler",87
+712,https://github.com/celestinolopes/dashboard-flutter-web.git,This Dashboard was made to show one of the use cases in which Flutter web is applied.,"fllutter,dart,dashboard",87
+713,https://github.com/RamAlapure/JavaFXSpringBootApp.git,The application frontend created using JavaFX and backend services are implemented using Spring Boot. The app demonstrate simple CRUD operation and switching between two scenes with Login and User Dashboard view.,,87
+714,https://github.com/instrumentisto/grafana-dashboard-kubernetes-prometheus.git,Grafana dashboard for Kubernetes cluster monitoring via Prometheus,,86
+715,https://github.com/optuna/optuna-dashboard.git,Real-time Web dashboard for Optuna.,"optuna,hyperparameter-optimization,dashbboard",86
+716,https://github.com/lensen/graphsky.git,A Graphite dashboard similar to the Ganglia-web interface ,,86
+717,https://github.com/casbin/casbin-dashboard.git,"The web dashboard for Casbin, deprecated, please use: https://github.com/casbin/casdoor instead",,86
+718,https://github.com/fiverr/rollout_dashboard.git,Rollout-Dashboard is a beautiful user interface for rollout gem.,"rollout,rollout-dashboard,rollout-service,feature-revealer,rollout-gem",86
+719,https://github.com/Ryandev/NetStatus.git,"Internet speed & offline status monitor. Upload, download, ping, latency dashboard display","react,typescript,react-router,inversifyjs",86
+720,https://github.com/pranavgupta1234/rqmonitor.git,Flask based more dynamic and actionable frontend dashboard for monitoring RQ  👩🏿\u200d💻  http://python-rq.org ,"rq,python,flask,monitoring,dashboard,bootstrap",86
+721,https://github.com/getsimpleadmin/simpleadmin.git,Create admin dashboards for Web / Mobile / API applications,"webdevelopment,ruby,rails,webservice",85
+722,https://github.com/Misfits-Rebels-Outcasts/Blazor-Dashboard.git,Admin Dashboard Template Theme for Blazor,"blazor,frontend-web,dashboard-templates,css,webassembly",85
+723,https://github.com/app-generator/flask-material-dashboard.git,Flask Dashboard - Material Design | AppSeed,"appseed,flask,material-design",84
+724,https://github.com/beyondcode/nova-custom-dashboard-card.git,A Laravel Nova dashboard card that allows you to build custom dashboards.,"nova,card,laravel",84
+725,https://github.com/brutasse/django-rq-dashboard.git,A dashboard for managing RQ in the Django admin,,84
+726,https://github.com/charypar/swarm-dashboard.git,A simple monitoring dashboard for Docker in Swarm Mode.,"docker,swarm,swarm-mode,dashboard,visualisation",84
+727,https://github.com/Margatroid/micro-dashboard.git,Dashboard for microservices toolchain micro.,,84
+728,https://github.com/Automattic/zoninator.git,"Curation made easy! Create ""zones"" then add and order your content straight from the WordPress Dashboard.","vip,wordpress,vip-plugin",84
+729,https://github.com/thelinuxlich/vue-dashing-js.git,The dashboard framework Dashing reimplemented in Node.js + Vue.js,,84
+730,https://github.com/Bogdanp/dramatiq_dashboard.git,"A dashboard for dramatiq, specific to its Redis broker.","python,task-manager,task-scheduler,task-runner,redis",84
+731,https://github.com/crosscloudci/crosscloudci.git,"Integrating, testing, and deploying projects within the CNCF ecosystem. Results published daily to the CNCF CI Dashboard.","cncf,ci-cd,dashboard,cross-cloud-ci,interoperability",84
+732,https://github.com/app-generator/flask-argon-dashboard.git,Flask Dashboard - Argon Dashboard Design | AppSeed,"flask-dashboard,admin-dashboard,open-source,appseed,web-app-generator",83
+733,https://github.com/Neuethemes/OpenAdmin.git,OpenAdmin - Free Premium Admin Dashboard Theme,"bootstrap,bootstrap4,admin,angular,react,vue,dashboard,nodejs,php,phyton,api-server",83
+734,https://github.com/app-generator/django-dashboard-argon.git,Argon Dashboard - Open-Source Django Seed Project | AppSeed,"django,appseed,argon-dashboard",83
+735,https://github.com/StartBootstrap/sb-admin-angular.git,"A free, open source, Angular admin dashboard template, created by Start Bootstrap",,83
+736,https://github.com/fortrabbit/quotes.git,"{""Quotes for developers, used in fortrabbit's dashboard""}",,83
+737,https://github.com/monitoring-mixins/docs.git,"Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.",,83
+738,https://github.com/meltaxa/solariot.git,Leverage your IoT enabled Solar PV Inverter to stream your solar energy usage data to a real time dashboard.,"freeboard,iot,solar-energy,sungrow-inverter,dashboard,pvoutput,modbus-sungrow,dweet,influxdb,telemetry",83
+739,https://github.com/app-generator/django-dashboard-material.git,Django Dashboard - Material Design | AppSeed,"django,appseed,material-design",82
+740,https://github.com/usiusi360/zabirepo.git,Dashboard using the API of Zabbix,,82
+741,https://github.com/ebmdatalab/openprescribing.git,"{""A Django app providing a REST API and dashboards for the HSCIC's GP prescribing data""}",,82
+742,https://github.com/awslabs/performance-dashboard-on-aws.git,A simple cost-effective web application to build and publish dashboards.,"public-sector,serverless,aws,typescript,reactjs,nodejs,visualize-data,aws-cdk,a11y",82
+743,https://github.com/tonyskn/node-dashboard.git,Real-time dashboard powered by Redis & Node.js,,82
+744,https://github.com/fjerbi/CodeIgniter3-online-shop.git,"A full e-commerce project built with CI3 HMVC with Email confirmation,Paypal payement , Ion Auth , Live Chatroom and full admin dashboard","codeigniter3,ecommerce,ecommerce-website,codeigniter,ecommerce-application,php7,codeigniter-ecommerce,paypal-ipn,paypal-express-checkout,ion,ion-auth,hmvc,hmvc-framework,codeigniter-hmvc,shopping-cart",82
+745,https://github.com/gregbkr/docker-elk-cadvisor-dashboards.git,ElasticSearch 1.7 (+data container) | Logstash 1.5.3 (+conf for elk logs) | Kibana 4 (+Dashboard for elk logs) | cAdvisor (Collect & View containers performance) | Nginx Proxy 1.9.3 (for SSL + password access).,"elk,docker,logstash,elk-cadvisor",82
+746,https://github.com/learnk8s/k8bit.git,A tiny Kubernetes dashboard,"kubernetes,dashboard",81
+747,https://github.com/colekennelly1/awesome-defi-trackers.git,"A curated list of DeFi (decentralized finance) project trackers, analytics dashboards, and resources.",,81
+748,https://github.com/jeffshek/betterself.git,"{""Your body's dashboard.""}","quantified-self,quantifiedself",81
+749,https://github.com/aptible/dashboard.aptible.com.git,DEPRECATED - Ember.js dashboard for the Aptible PaaS,,81
+750,https://github.com/grahamgilbert/vagrant-puppetmaster.git,"Vagrant config for a testing setup with a Puppet Master, Puppet Dashboard and PuppetDB",,81
+751,https://github.com/mattbischoff/tumblr-terminal-theme.git,A Mac OS X Terminal.app Theme That Matches the Tumblr Dashboard,,81
+752,https://github.com/sofastack/sofa-dashboard.git,Dashboard of SOFAStack.,"sofastack,sofa-dashboard,sofa-console,ant-design,sofa-boot,sofa-ark",80
+753,https://github.com/KuiKui/Octoboard.git,GitHub activity dashboard,,80
+754,https://github.com/mohdrashid/PaperAdmin.git,A flat admin dashboard using Angular JS 2/4,"javascript,angularjs,angular4,angular2,dashboard,template,bootstrap,admin-dashboard,typescript,angular-ui,admin-ui,responsive",80
+755,https://github.com/xriley/portal-theme-bs5.git,Portal - Free Bootstrap 5 Admin Dashboard Template For Developers,"template,bootstrap-template,bootstrap,dashboard-templates,admin-dashboard,free",80
+756,https://github.com/ci-dashboard/gitlab-ci-dashboard.git,📊 Dashboard for monitoring GitLab CI builds and pipelines for TV,"gitlab,gitlab-ci,ci,cd,monotor,dashboard",80
+757,https://github.com/DashboardPack/architectui-react-theme-free.git,ArchitectUI React admin template is a simple yet fully customizable admin dashboard for web apps and other software. ,"react,reactjs,admin-dashboard,admin,admintemplate,adminpanel,theme",80
+758,https://github.com/go2ismail/Invoice.git,"Asp.Net example implementation of Invoice Web Application Using Bootstrap AdminLTE Template. Dashboard Cart, Customer, Vendor, Products, User Registration, SendGrid and more. ","invoice,webapp,asp-net,asp-net-mvc,asp-net-core,sendgrid,smtp,print,ef-core,csharp",80
+759,https://github.com/tmobile/loadtest.git,an R package that automates performance testing of ML models and summarizes the results in a dashboard w/ rad visualizations,,80
+760,https://github.com/santoru/pihole-dashboard.git,Minimal and clean dashboard to visualize some stats of Pi-Hole with an E-Ink display attached to your Raspberry Pi,"pihole,raspberry-pi,e-ink,waveshare,dashboard,pi-hole",80
+761,https://github.com/amirk3321/booking-management-dashboard.git,"flutter Booking Management Dashboard responsive (web,mobile,tablet)","flutter,flutter-ui,responsive-design,responsive-layout,responsive-web-design,clean-code,android-application,ios-app,tablet",79
+762,https://github.com/abduegal/Microservice-Admin-Dashboard.git,An admin dashboard for microservices created with dropwizard.,,79
+763,https://github.com/yapplabs/glazier.git,Dashboard for Github projects using Conductor.js and Oasis.js,,79
+764,https://github.com/tighten/nova-stripe.git,Easily show information about Stripe charges and balances in your Nova dashboard,,79
+765,https://github.com/vigetlabs/stat_board.git,"Simple dashboard of records created this week, this month, and all time, mountable as a Rails Engine.",,79
+766,https://github.com/mindspore-ai/mindinsight.git,A visual dashboard for model tuning.,,78
+767,https://github.com/metalmatze/slo-libsonnet.git,Generate Prometheus alerting & recording rules and Grafana dashboards for your SLOs.,,78
+768,https://github.com/jupyter-attic/dashboards_bundlers.git,[RETIRED] Converts a notebook to a dashboard and deploys it / downloads it,"jupyter,dashboards",78
+769,https://github.com/javagossip/opendsp.git,"一款开源的移动dsp广告平台, 内置主流adx对接和开箱即用的dashboard","dsp,adx,java,ads,advertising,opensource",78
+770,https://github.com/awslabs/amazon-quicksight-embedding-sdk.git,A SDK to help users embed QuickSight dashboards on other pages.,,77
+771,https://github.com/emqtt/emq-dashboard.git,EMQ Web Dashboard (Obsoleted in EMQ X 3.0),,77
+772,https://github.com/publichealthengland/coronavirus-dashboard.git,Dashboard for tracking Coronavirus (COVID-19) across the UK,"coronavirus-tracking,govuk-service,coronavirus,covid-19,covid-19-uk,coronavirus-dashboard,frontend",77
+773,https://github.com/vaclav-zeman/dashboard-react-template.git,"[DEPRECATED]\xa0Dashboard admin template made with React.js, Redux, Babel etc.","react,dashboard,administration-dashboard-template",77
+774,https://github.com/eliasdoehne/stellaris-dashboard.git,A graph dashboard and event log for the video game Stellaris.,,77
+775,https://github.com/realJustinLee/weather-dashboard.git,A simple HTML & CSS based weather dashboard used to be loaded on the raspberry pi in my university dormitory.,,77
+776,https://github.com/uxcandy/Label-Free-Bootstrap-Admin-Template.git,Label admin template is a sophisticated responsive admin dashboard template made on top of Bootstrap 4. It is packed with highly customizable Bootstrap components that help web development easy and faster than ever with the advanced automated Gulp workflow.,,77
+777,https://github.com/me-box/databox.git,Databox container manager and dashboard server,,76
+778,https://github.com/edgurgel/verk_web.git,A dashboard for the job processing system that just verks! 🧛\u200d,"verk,dashboard,phoenix",76
+779,https://github.com/k33ptoo/Drapo-Dashboard-JavaFX.git,"{""A JavaFX example based on Drapo's dashboard an inspiration ui.""}","javafx-application,javafx-desktop-apps,javafx,javafx-gui",76
+780,https://github.com/w3guy/persist-admin-notices-dismissal.git,Simple plugin that persists dismissal of admin notices across pages in WordPress dashboard.,,76
+781,https://github.com/oslabs-beta/kafkaESK.git,An event-driven monitoring tool that can consume messages from Apache Kafka clusters and display the aggregated data on a dashboard for analysis and maintenance.,"apache-kafka,ksqldb,confluent,react,chartjs,websocket",76
+782,https://github.com/lucperkins/bulma-dashboard.git,Bulma dashboard,,75
+783,https://github.com/pld/bamboo.git,Dynamic data analysis over the web. The logic to your data dashboards.,,75
+784,https://github.com/grosser/kennel.git,"Datadog monitors/dashboards/slos as code, avoid chaotic management via UI",,75
+785,https://github.com/onyx-platform/onyx-dashboard.git,Dashboard for the Onyx distributed processing system,,75
+786,https://github.com/pawamoy/django-suit-dashboard.git,Create a dashboard within Django admin interface.,"django,admin,dashboard,widgets",75
+787,https://github.com/darekkay/dashboard.git,Customizable personal dashboard and startpage,"dashboard,react,typescript,react-testing-library,tailwindcss",75
+788,https://github.com/verisign/storm-graphite.git,"{""An Apache Storm IMetricsConsumer that forwards Storm's built-in metrics to a Graphite server for real-time graphing, visualization, and operational dashboards.""}",,75
+789,https://github.com/cyc10n3/WPSpider.git,A centralized dashboard for running and scheduling WordPress scans powered by wpscan utility.,,75
+790,https://github.com/foursquare/oozie-web.git,"A more pretty, more usable web dashboard for Apache Oozie, written in Scala.",,75
+791,https://github.com/mainwp/mainwp-child.git,The MainWP Child plugin is installed on the WordPress sites that you want to control from the MainWP Dashboard.,"mainwp,site,management,wordpress,wordpress-plugin,management-system",75
+792,https://github.com/halfss/salt-dashboard.git,dashboard for saltstack,,74
+793,https://github.com/dtpublic/malhar-dashboard-webapp.git,Dashboard Web Application,,74
+794,https://github.com/rancher/dashboard.git,Rancher new Dashboard UI,,74
+795,https://github.com/adrianromero/helloiot.git,HelloIoT is a MQTT dashboard application. ,"javafx,mqtt,iot,javafx-application,javafx-desktop-apps,dashboard-application",74
+796,https://github.com/hanzoai/dash.js.git,⚒️ Reactive UI components and framework for modular dashboards.,"dashboards,reactive,ui,javascript,riotjs,eljs,hanzo",74
+797,https://github.com/nomeata/gipeda.git,Git Performance Dashboard,,73
+798,https://github.com/kelvinconrad/Eatio-Bootstrap-Dashboard.git,Eatio- Restaurant Food Order Bootstrap Admin Dashboard,"bootstrap4,html,admin-dashboard,bootstrap-template",73
+799,https://github.com/forsbergplustwo/partner-metrics-for-shopify.git,"Metrics Dashboard for Shopify Partners, on Rails - Just select your shopify-partner-payment-history.csv file, and away it goes.",,73
+800,https://github.com/dapr/dashboard.git,General purpose dashboard for Dapr,"dapr,microservices,dashboard,typescript,angular",72
+801,https://github.com/neoighodaro/pusher-python-realtime-dashboard.git,Build a realtime dashboard using Python and Pusher channels,,72
+802,https://github.com/marvelapp/Dashboard.git,A dashboard to show what your design team is working on. Written in React.,"react,js,javascript,react-router,apollo-client,graphql,nodejs,node",72
+803,https://github.com/zoharsf/Raspberry-Pi-E-Ink-Dashboard.git,"Tri color e-ink dashboard written in Python 3.7, running on Raspberry Pi","raspberry-pi,e-ink,dashboard,covid-19,covid19,raspberrypi,waveshare-eink,python,python3",72
+804,https://github.com/koolreport/core.git,"An Open Source PHP Reporting Framework that helps you to write perfect data reports or to construct awesome dashboards in PHP. Working great with all PHP versions from 5.6 to latest 8.0. Fully compatible with all kinds of MVC frameworks like Laravel, CodeIgniter, Symfony.","php,reporting,framework,data-visualization,data-viz,data-analysis,data-summarization,reporting-engine,reporting-tool,mysql-reporting-tools,php-reporting-tools,php-reports,data-pipelines,data-pivot,report-generator",72
+805,https://github.com/davesteps/machLearn.git,Machine learning dashboard created with R/shiny,"machine-learning,r,shiny-apps,shiny,shinydashboard",71
+806,https://github.com/shaunsephton/holodeck.git,Simple dashboard system.,,71
+807,https://github.com/jaumard/ngx-dashboard.git,Dashboard library for angular 4 and more,"angular4,dashboard-library,widget",71
+808,https://github.com/nhatkha1407/ElaAdmin.git,A clean & completely free Bootstrap 4 admin dashboard template.,"bootstrap,html,dashboard,admin",71
+809,https://github.com/appaydin/pd-admin.git,Powerful Admin Dashboard for Symfony 5,"symfony,symfony4,symfony-application,admin-dashboard,php,pdadmin,widget",71
+810,https://github.com/AndyTaylorTweet/Pi-Star_DV_Dash.git,Pi-Star DV Dashboard (Based on works by Hans-J. Barthen (DL5DI) and Kim Huebel (DG9VH)).,,71
+811,https://github.com/shashani-humanth/Notebook-AdminPanel.git,Fully responsive web application and admin dashboard template with app landing pages.,,71
+812,https://github.com/abhishekkr/ansible-dashr.git,Ansible Dashboard relying on existing Ansible code and logs,"dashboard,ansible",71
+813,https://github.com/myrsk/vmdash.git,A Cloud (vm) Dashboard that allows you to interact with multiple providers from a single panel,"php,laravel,js,guzzlehttp,cloud,vm,dashboard",71
+814,https://github.com/retzkek/chiamon.git,"mtail, prometheus, and grafana config and dashboard for monitoring chia farming",,71
+815,https://github.com/intuit/costBuddy.git,costBuddy will gather cost information from multiple AWS accounts and generate a  nice Grafana dashboard with alerting in place.,,71
+816,https://github.com/Swizards/QuickBox.git,"Quick Box is a personal seedbox installer script that is multi-user friendly. Quickly setup a seedbox using ruTorrent on a fresh custom seedbox dashboard and custom QuickBox theme as well as build a limited shell environment for additional created users to interact with their seedbox via ssh! For issues, requests, suggestions and more... please use the QuickBox Community - maintained and crafted by https://swizards.net",,71
+817,https://github.com/dromara/shenyu-dashboard.git,Dashboard for ShenYu,soul,70
+818,https://github.com/ordina-jworks/microservices-dashboard-server.git,Server application for microservices-dashboard,,70
+819,https://github.com/vysecurity/CobaltSplunk.git,Splunk Dashboard for CobaltStrike logs,,70
+820,https://github.com/acmerobotics/ftc-dashboard.git,React-based web dashboard designed for FTC,,70
+821,https://github.com/bamotav/Hangfire.RecurringJobAdmin.git,"{""A dashboard to manage Hangfire's recurring jobs.""}","hangfire,job-scheduler,dashboard,vuejs,cronjob,reflection,csharp,plugin,aspnetcore,nuget,hacktoberfest,vue-component,vue-component-cron",70
+822,https://github.com/scytherswings/Plex-Board.git,"A dynamic dashboard for checking the status of multiple services related to Plex Media Server (Plex, Couchpotato, Sickrage, Deluge, Sabnzbd+, etc.).","plex,plex-board,plex-dashboard,plex-server,dashboard,healthchecker,statuspage",70
+823,https://github.com/datastax/metric-collector-for-apache-cassandra.git,Drop-in metrics collection and dashboards for Apache Cassandra,"collectd,prometheus,grafana,cassandra",69
+824,https://github.com/edgeware/dashboard.git,Dashboard for Dashing with Jenkins widget,,69
+825,https://github.com/secret-tech/frontend-ico-dashboard.git,"Free & open-source dashboard for your next ICO, crowdsale or tokensale","react,frontent,ico,cryptocurrencies,ethereum,blockchain,ico-dashboard",69
+826,https://github.com/stefanprodan/dockerdash.git,"Docker dashboard built with ASP.NET Core, Docker.DotNet, SignalR and Vuejs",,69
+827,https://github.com/dotbalo/ratel-doc.git,Kubernetes Dashboard 一键式 Kubernetes多集群资源管理平台 k8s 管理平台,"kubernetes,ratel,k8s,dashboard",69
+828,https://github.com/flaviostutz/docker-swarm-cluster.git,"Combines some general tooling for creating a good Docker Swarm Cluster (Swarm Dashboard, Traefik, Portainer, Prometheus, Grafana)",,69
+829,https://github.com/scorelab/DroneSym.git,Dronesym is a platform enabling users to handle and track their drone fleets in real time. Users can have functionality to add new drones configure their flight paths and monitor their progress through a web dashboard.,,69
+830,https://github.com/gdarko/wp-batch-processing.git,"🚈 Easily process large batches of data in WordPress. Provide the data, setup the processing procedure, run the batch processor from the admin dashboard. Profit.",,69
+831,https://github.com/peferron/air-quality.git,Live dashboard for air quality in my home.,"air-quality,rust,redis,influxdb,grafana,raspberry-pi,dylos",69
+832,https://github.com/web-platform-tests/wpt.fyi.git,web-platform-tests dashboard,"wpt,web-platform-tests,web",68
+833,https://github.com/Geminii/nuxtjs-dashboard.git,NuxtJs Dashboard based on Vuetify Dashboard created by Creative Tim,,68
+834,https://github.com/telerik/ng2-dashboard.git,Kendo UI for Angular w/NativeScript - Dashboard,,68
+835,https://github.com/fgaim/gpuview.git,A lightweight web dashboard for monitoring GPU usage,"gpu-monitoring,deep-learning-training,dashboard,gpu,stats",68
+836,https://github.com/code4sabae/covid19.git,COVID-19 Japan Anti-Coronavirus Dashboard / 新型コロナウイルス対策ダッシュボード,,68
+837,https://github.com/vikdiesel/admin-one-bulma-dashboard.git,Admin One HTML — Free Bulma Admin Dashboard Template (HTML + CSS/SCSS),"bulma-admin-dashboard,bulma,dashboard,html-css,scss,bulma-css-framework,bulma-framework,bulma-ui,bulma-template,bulma-css,bulmacss,justboil",68
+838,https://github.com/aws-samples/aws-cloudwatch-building-dashboard-outside-aws-console.git,"Code samples related to ""Building a CloudWatch Dashboard Outside of the AWS Console"" blog post published on the AWS DevOps blog. This post demonstrates how to build a custom monitoring dashboard outside of the AWS Console by leveraging snapshot graphs.",,68
+839,https://github.com/uowac/nextjs-antd-admin.git,"A multi-functional and comprehensive admin dashboard using Next.js (SSR React), Ant Design and styled-components","react,nextjs,ant-design,dashboard,styled-components,mapbox,auth0,react-map-gl",68
+840,https://github.com/puikinsh/adminpro.git,Free Bootstrap admin dashboard template,,67
+841,https://github.com/Ephigenia/foobugs-dashboard.git,various dashing dashboard jobs,"dashboard,widget,stock-market,javascript,metrics",67
+842,https://github.com/covid19cubadata/covid19cubadata.github.io.git,Covid19 - Dashboard for Cuba,,67
+843,https://github.com/edx/edx-analytics-dashboard.git,Dashboard to display course analytics to course teams,,67
+844,https://github.com/Tabcorp/supervisorui.git,Supervisor multi-server dashboard,,67
+845,https://github.com/creativetimofficial/argon-dashboard-django.git,Argon Dashboard - Django Template | Creative-Tim,"django,argon-design,open-source,creative-tim,appseed",67
+846,https://github.com/creativetimofficial/nextjs-material-dashboard.git,NextJS version of Material Dashboard React,"nextjs-material-dashboard,kit-versions,material-ui,dashboard,nextjs",67
+847,https://github.com/modularcode/modular-admin-react.git,Modular Admin React: a free dashboard theme built with MaterialUI,,67
+848,https://github.com/Data4Democracy/usa-dashboard.git,A dashboard of key metrics for the USA,,67
+849,https://github.com/vikdiesel/admin-two-vue-bulma-dashboard.git,Admin Two — Free Bulma Vue.js Admin Dashboard SPA/PWA,"bulma,vue,vuejs2,dashboard,admin-dashboard,bulma-css,bulma-css-framework,vue-js,vue-bulma-dashboard,bulma-ui,bulma-framework,buefy,bulma-template,bulma-admin,bulmacss,bulma-extensions",67
+850,https://github.com/rochaporto/collectd-ceph.git,collectd plugins and dashboards for ceph,,66
+851,https://github.com/flyve-mdm/web-mdm-dashboard.git,New generation of the Flyve MDM Dashboard,"flyve-mdm,dashboard,admin,web,glpi",66
+852,https://github.com/rs/dashplay.git,Easy dashboard screen management,,66
+853,https://github.com/elliotforbes/angular-2-admin.git,An Angular 2 Admin Dashboard built using the Angular-CLI. ,"angular,angular2,admin,admin-dashboard",66
+854,https://github.com/thomasbnt/Night_Pihole.git,:crescent_moon:  A Dark theme for your Pi-hole Dashboard.,"pihole-dashboard,css,theme-dark,theme,ssh,pi-hole-dark,pi-hole,night,dark-theme,preview-dashboard,hacktoberfest",66
+855,https://github.com/isc-projects/kea-anterius.git,"This is an archive but is no longer maintained and we do NOT recommend you use this in production. There are known security vulnerabilities. This was a Google Summer of Code 2018 project to create a GUI dashboard for Kea. It is publicly available open source, but ISC is *not* supporting it.  The original author is unable to provide much support either, so it should be considered experimental.",,66
+856,https://github.com/circus-tent/circus-web.git,Circus Web Dashboard,,65
+857,https://github.com/Kruemelkatze/vscode-dashboard.git,A speed-dial like project dashboard for VSCode.,,65
+858,https://github.com/jpmorganchase/jif-dashboard.git,A dashboard framework to quickly build widget-based dashboards,,64
+859,https://github.com/jovertical/laravel-react-admin.git,Fully featured dashboard template,"admin,boilerplate,crud,laravel,reactjs,docker,docker-compose",64
+860,https://github.com/radeks/Pastebin-Widget.git,A Pastebin Dashboard Widget for Mac OS X,,64
+861,https://github.com/envyN/ngx-widget-grid.git,Angular 2.x or in general ng-x module for dashboards,"widget,grid,angular2,angular,angular4,dashboard,framework",64
+862,https://github.com/caelinj/discord.js-dashboard.git,"A simple, beginner friendly web dashboard, designed for discord.js bots.",,64
+863,https://github.com/patbuergin-zz/angular-widget-grid.git,Flexible grid layout for responsive dashboards,"angularjs,dashboard,grid",63
+864,https://github.com/tidyverse/tidyversedashboard.git,Tidyverse activity dashboard,,63
+865,https://github.com/grafana/strava-datasource.git,Strava datasource for Grafana dashboard,,63
+866,https://github.com/Jodel/dashboard-viewer.git,"""kiosk"" browser running on resin.io (e.g raspberry pi) for displaying dashboards",,63
+867,https://github.com/soaple/corona-board.git,Global dashboard for monitoring Corona virus(COVID-19),"corona,covid-19,dashboard,monitorning,stickyboard",63
+868,https://github.com/mahtab-ali/flutter_courses_dashboard_ui.git,Flutter UI challange creating a clean minimal student course dashboard.,,63
+869,https://github.com/yasinkuyu/NetDash.git,Small web-based monitoring dashboard for windows in C# and MVC,"asp-net-mvc,monitoring,server-management,csharp",63
+870,https://github.com/relferreira/kubedev.git,A simpler and more powerful Kubernetes Dashboard,"kubernetes,k8s,dashboard",63
+871,https://github.com/publicsoftware/OpenBI.git,The easiest way to create interactive dashboard for the rest of us on our planet.,,63
+872,https://github.com/nicinabox/glances.git,A heads-up dashboard for displaying thing-statuses.,,63
+873,https://github.com/ricoberger/dash.git,"dash is a terminal dashboard solution inspired by Grafana, to visualize and explore your data.","go,golang,terminal,dashboad,grafana,prometheus,node-exporter,blackbox-exporter",63
+874,https://github.com/webdetails/cde.git,Community Dashboard Editor,,62
+875,https://github.com/rstudio-conf-2020/rmarkdown-dashboard.git,The R Markdown and Interactive Dashboards Workshp at rstudio::conf 2020,,62
+876,https://github.com/michaelhidalgo/attack-to-elk.git,This program exports MITRE ATT&CK framework in ELK dashboard,,62
+877,https://github.com/alex-leonhardt/sensu-grid.git,"A sensu dashboard built for the ""big"" screen...","python,sensu,dashboard,flask",62
+878,https://github.com/modularcode/modular-admin-react-pro.git,Modular  Material Admin + React: free dashboard theme built with MaterialUI + TypeScript  | Pro Version,"react,material-ui,material-design,modular,modularity,typescript,redux",62
+879,https://github.com/feinwarusoftware/awesomobot.git,🤖 Modular Discord bot with support for user created scripts and an online dashboard.,"discord,discord-bot,discord-js,bootstrap,material-design,nodejs,ejs,express,mongodb,nosql",62
+880,https://github.com/dniccum/nova-custom-email-sender.git,A Laravel Nova tool that sends ad-hoc email messages from the dashboard.,"laravel,nova,email,email-sender,tool",62
+881,https://github.com/eworksmedia/php-server-status-dashboard.git,PHP Server Status Dashboard is an application that allows for near real-time monitoring of remote servers.,,62
+882,https://github.com/Loopple/loopple.git,Drag and drop dashboard builder,"drag-and-drop,dashboard,bootstrap",62
+883,https://github.com/cetra3/lorikeet-dash.git,A Web Dashboard for Lorikeet,,62
+884,https://github.com/DevExpress/dashboard-extension-webpage-item.git,⛔ DEPRECATED. This project was moved to a new repository. Visit https://github.com/DevExpress/dashboard-extensions to find an updated version.,"dashboard,dashboards,web-dashboard,analytics,devexpress,deprecated",62
+885,https://github.com/DevExpress/dashboard-extension-online-map-item.git,⛔ DEPRECATED. This project was moved to a new repository. Visit https://github.com/DevExpress/dashboard-extensions to find an updated version.,"dashboard,dashboards,web-dashboard,analytics,devexpress,deprecated",62
+886,https://github.com/DevExpress/dashboard-extension-funnel-d3-item.git,⛔ DEPRECATED. This project was moved to a new repository. Visit https://github.com/DevExpress/dashboard-extensions to find an updated version.,"dashboard,dashboards,web-dashboard,analytics,devexpress,deprecated",62
+887,https://github.com/Dashticz/dashticz.git,Alternative dashboard for Domoticz,,61
+888,https://github.com/Qoraiche/VultrDash.git,Vultr self-hosted dashboard.,"vultr-api,vultr,vultr-dashboard,laravel-vultr,control-panel,dashboard,slack-notifications,laravel",61
+889,https://github.com/LendingClub/macgyver.git,DevOps Multi-Tool https://circleci.com/dashboard,,61
+890,https://github.com/zixpo/candybar.git,Dashboard for Android Icon Packs. Supported by the community.,"android,icon-pack,dashboard,customizable,compact,muzei",61
+891,https://github.com/uberVU/elasticboard.git,Dashboard that aggregates relevant metrics for Open Source projects.,,61
+892,https://github.com/metanull-operator/eth2-ubuntu.git,"Configuration of an Ubuntu 20.04 LTS server for use as an Eth2 staking system, including setup of monitoring dashboard.",,61
+893,https://github.com/angusmoore/Matte.jl.git,"Julia-powered dashboards, inspired by Material Design","dashboard,material-design,julia,webapp,web",61
+894,https://github.com/eacdy/Sentinel-Dashboard-Nacos.git,Description  Sentinel Dashboard使用NACOS作为数据源持久化规则。【仅用于教学，如用于生产，请务必做好测试！】,"sentinel,alibaba-sentinel,spring-cloud-alibaba,circuit-breaker",61
+895,https://github.com/stephenlb/startup-metrics-dashboard.git,"Startup Metrics Dashboard - Product Marketing and Product Management.  This is a 5-step model for creating a metrics framework for your business and customers, and how to apply it to your product and marketing efforts. ",,61
+896,https://github.com/open-dash/HousePanel.git,Open source highly customizable dashboard for your SmartThings home,,60
+897,https://github.com/maxboeck/webmention-analytics.git,An analytics dashboard for webmention.io data.,,60
+898,https://github.com/basarevych/next-dashboard.git,A complete React/Redux/Relay/Next.js dashboard example,"reactjs,nextjs,nodejs,dashboard,redux,relay-modern,graphql",60
+899,https://github.com/int128/kauthproxy.git,Local authentication proxy for Kubernetes Dashboard (kubectl auth-proxy),"kubernetes,kubectl,golang,kubectl-plugins,kubernetes-dashboard",60
+900,https://github.com/premieroctet/reactivated-app.git,Reactivated.app is an open-source app that scans your JS dependencies every 4 hours and generates cool dashboards,"reactjs,nestjs,typescript",60
+901,https://github.com/iam-mhaseeb/Skytrax-Data-Warehouse.git,"A full data warehouse infrastructure with ETL pipelines running inside docker on Apache Airflow for data orchestration, AWS Redshift for cloud data warehouse and Metabase to serve the needs of data visualizations such as analytical dashboards. ","python,python3,database,data-visualization,data-analysis,data-warehouse,data-warehousing,redshift,airflow,docker,sql,data-orchestration,data-analytics,s3,s3-bucket,metabase,data-engineering,data-cleaning,data-processing",60
+902,https://github.com/Wikia/discreETLy.git,ETLy is an add-on dashboard service on top of Apache Airflow.,"etl,edt-dashboard,airflow",60
+903,https://github.com/amazon-archives/cost-optimization-monitor.git,Cost Optimization Monitor solution as a reference deployment which provides dashboard and reporting capabilities giving customers a single-pane-of-glass view of their current AWS service inventory.,,60
+904,https://github.com/palratnesh05/LoginAndRegistrationWithSocialMedia.git,"Created a Project to design login screen, registration screen, login with google ,slider navigation drawer,dashboard screen login with Facebook using Flutter","flutter,flutter-login-registration,social-login-flutter,flutter-splash-screen,flutter-navigation-drawer,flutter-registration-screen,flutter-login-screen,flutter-login-with-google,flutter-login-with-facebook,flutter-registration-template,flutter-login-template,registration-login,splashscreen,listview,flutter-listview,flutter-examples,flutter-apps,flutter-firebase,flutter-material,flutter-demo",60
+905,https://github.com/wpilibsuite/shuffleboard.git,A modern dashboard for FRC,"frc,robotics,first-frc,first-robotics-competition",59
+906,https://github.com/sol-eng/db-dashboard.git,Project files of the article featured here: http://db.rstudio.com/best-practices/dashboards/,"shiny,r,database,r2d3,d3",59
+907,https://github.com/nextcloud/dashboard.git,"ARCHIVED, new Dashboard is in the server",,59
+908,https://github.com/romulorodrigues/vue-dashboard-2.git,Responsive dashboard design using Vue.js,,59
+909,https://github.com/creativetimofficial/ct-vue-material-dashboard-pro.git,Vue Material Dashboard Pro - Material Design Admin,"vue-material,admin-dashboard,creative-tim,premium-template,material-design,material-ui,vue,vue-cli",59
+910,https://github.com/BootstrapDash/Kapella-Free-Bootstrap-Admin-Template.git,Free Dashboard template with Horizontal menu featuring Bootstrap 4.,"bootstrap4,admin-dashboard,admin-dashboard-ui,template,admin,admin-template",59
+911,https://github.com/outbrain/Cassibility.git,This is a set of Grafana dashboards for monitoring Cassandra together with a prometheus datasource.,"cassandra,monitoring,prometheus",59
+912,https://github.com/ShiftForward/mucuchies.git,A client-side dashboard,,59
+913,https://github.com/amitdar/FullPageDashboard.git,Full page dashboard app for FullPageOS,,59
+914,https://github.com/auth0-samples/auth0-sso-dashboard.git,[DEPRECATED] App Single Sign On Dashboard using Auth0,,59
+915,https://github.com/AlbionaHoti/react_admin_dashboard.git,Admin Dashboard build with ReactJs and React Semantic UI.,,59
+916,https://github.com/openstack/murano-dashboard.git,Dashboard for Murano. Mirror of code maintained at opendev.org.,,59
+917,https://github.com/salimhamed/dashboard.git,A simple dashboarding web application built using Flask and Bootstrap.,"flask,postgresql-database,bootstrap,dashboard,dashboard-application,python,elasticbeanstalk",59
+918,https://github.com/graphsense/graphsense-dashboard.git,A web dashboard for interactive cryptocurrency analysis.,"dashboard,cryptocurrency,docker-container",59
+919,https://github.com/tompave/fun_with_flags_ui.git,Web dashboard for the FunWithFlags Elixir package,"elixir,plug,web-dashboard,feature-flags,feature-toggles,phoenix-framework",59
+920,https://github.com/cesaramirez/laravel-tabler.git,Laravel Preset for Tabler Dashboard UI Kit,"laravel,presets,tabler",59
+921,https://github.com/ofabricio/capture.git,Capture is a reverse proxy that shows HTTP requests and responses in a dashboard,,59
+922,https://github.com/InsiderJanggo/azunyan.git,"A MultiPurpose Discord Bot Build On discord.js libary include economy,moderation,level system, and fun command and include dashboard to cuztomize the bot","discordbot,discordbots,javascript,discordjs,discord,discord-bot,discord-bots,discord-js,discordjs-bot,discordjsbot,open-source",59
+923,https://github.com/yametech/compass.git,Kubernetes Dashboard,"react,typescript,compass,kubernetes,tektoncd",58
+924,https://github.com/sikrigagan/online-retail-dashboard.git,Online Retail Dashboard,"fusioncharts,dashboard,data-visualization,charts,kpis",58
+925,https://github.com/angular-dashboard-framework/adf-dynamic-example.git,Dynamic example of the angular-dashboard-framework,,58
+926,https://github.com/vlaine/Weather-Forecast-Dashboard.git,Weather Forecast Dashboard,,58
+927,https://github.com/thibaultlaurens/aws-dashing.git,simple aws dashboard powered by Dashing & Node.js,,58
+928,https://github.com/YagoLopez/ng-dashboard.git,:bar_chart: Dashboard for Angular (versions 4 +),"angular,dashboard,angular2,angular4,leaflet,component,angular-leaflet,chart,charting-library,maps,angular-component",58
+929,https://github.com/codeforamerica/open311dashboard.git,"Visualizing and analyzing Open311 data on one unified, customizable dashboard",,58
+930,https://github.com/simonjbeaumont/docker-xs-dev-dash.git,":chart_with_upwards_trend: Docker image for dashboarding stack using InfluxDB, Grafana and nginx",,58
+931,https://github.com/pangratz/dashboard.git,GitHub Dashboard using Ember.js and Twitter Bootstrap,,58
+932,https://github.com/h2oiswater/nextjs-dashboard-antdesign-typescriopt.git,A Next.js7 ant-design typescript dashboard,"nextjs,dashboard,nextjs-dashboard,typescript,ant-design",58
+933,https://github.com/georgesimos/paper-and-ink.git,An awesome Material Dashboard crafted with ReactJs based on Material UI’s components! ,"react,dashboard,theme,material,material-ui,react-hooks,material-design,material-components,jss,paper-and-ink",58
+934,https://github.com/bartbutenaers/node-red-contrib-ui-svg.git,A Node-RED widget node to show interactive SVG (vector graphics) in the dashboard,,58
+935,https://github.com/heroku/heroku-buildpack-ember-cli.git,A Heroku buildpack for ember-cli apps; powers dashboard.heroku.com,,58
+936,https://github.com/wanliyunyan/dva-typescript-antd-starter-kit.git,A admin dashboard application demo based on antd by typescript and dva,"antd,dva,stylelint,less,webpack-dev-server,eslint,webpack,postcss,prettier,mockjs,json-server,babel7,react,webpack-plugin,typescript",58
+937,https://github.com/webdetails/cdf.git,Community Dashboard Framework,,57
+938,https://github.com/ddvkid/ng-dashboard.git,Angular admin dashboard framework,"angular,angular-cli,bootstrap",57
+939,https://github.com/packetb-old/dashboards.git,Kibana dashboards for network monitoring,,57
+940,https://github.com/alextreme/Django-Bingo.git,"Professional reporting for Django (dashboards, web-based query builder)",,57
+941,https://github.com/nielsdejong/neodash.git,NeoDash - Neo4j Dashboard Builder,,57
+942,https://github.com/SUSE/velum.git,"Dashboard for CaaS Platform clusters (v1, v2 and v3)","ruby-on-rails,saltstack,kubernetes,docker,kubernetes-cluster,caasp,cloud-native",57
+943,https://github.com/adamwg/grafana-dashboards.git,Grafana dashboard management demo for PromCon 2019,,57
+944,https://github.com/rstudio/beyond-dashboard-fatigue.git,"{""Materials for the RStudio webinar 'Beyond Dashboard Fatigue'""}",,57
+945,https://github.com/graylog-labs/graylog2-stream-dashboard.git,[DEPRECATED] Get a dashboard optimized view on your Graylog2 streams.,,57
+946,https://github.com/nextcloud/serverinfo.git,📊 A monitoring app which creates a server info dashboard for admins,"nextcloud,admin-tools,monitoring,hacktoberfest",57
+947,https://github.com/LandGrey/flink-unauth-rce.git,exploit Apache Flink Web Dashboard unauth rce on right way by python2 scripts,,57
+948,https://github.com/unrelentingtech/freshcerts.git,"{""ACME certificate protocol (Let's Encrypt) proxy client with a dashboard and monitoring""}","acme,ssl,tls,letsencrypt,monitoring,dashboard,certificate,security",57
+949,https://github.com/IntelOpenDesign/MakerNode.git,"A web based linux dashboard manager for the Intel Galileo and Edison with wifi configuration, pin control, service management, and other useful utilities. Also includes nodejs example projects and useful workflow tools for nodejs developers. ",,57
+950,https://github.com/Gabisonfire/dashboard-q.git,Dashboard for homelab,,56
+951,https://github.com/jeffmcfadden/CarDash.git,OBD2 iOS Communications and Car Dashboard App,,56
+952,https://github.com/RinteRface/tablerDash.git,tabler dashboard template for shiny,"shiny,tabler-dashboard-template,shinyapps,bootstrap4,r",56
+953,https://github.com/corycomer/angular-admin.git,"Simple merge of two fantastic repositories, https://github.com/angular/angular-seed and https://github.com/almasaeed2010/AdminLTE for seeding AngularJS driven admin dashboards",,56
+954,https://github.com/tobinbradley/quality-of-life-dashboard.git,Neighborhood indicators dashboard built with Vue and Mapbox GL JS,,56
+955,https://github.com/AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard.git,A simple lua-based dashboard for the OpenTX XLite/QX7 Transmitters,"xlite,telemetry-page,transmitter,opentx,opentx-xlite,sd-card,opentx-companion,lua",56
+956,https://github.com/StartupAPI/users.git,:zap: User management tool to be used in on-line projects. Includes admin dashboard.,,56
+957,https://github.com/zalando-incubator/catwatch.git,"A metrics dashboard for GitHub organizations, with results accessible via REST API",monitoring,56
+958,https://github.com/aws-samples/aws-appsync-iot-core-realtime-dashboard.git,"This sample application demonstrates a React based web dashboard receiving real-time updates from IoT sensors.  The solution is built with AWS AppSync, AWS Amplify, and AWS IoT Core technologies.","aws,aws-lambda,react,iot,graphql,appsync,dynamodb,cognito,aws-iot-core,aws-iot,amplify,amplify-js",56
+959,https://github.com/themekita/Ready-Bootstrap-Dashboard.git,Free Bootstrap 4 Admin Dashboard,"dashboard,bootstrap,admin",55
+960,https://github.com/RaymiiOrg/simple-nagios-dashboard.git,Simple PHP 5 Nagios Dashboard.,,55
+961,https://github.com/databricks/spark-pr-dashboard.git,Dashboard to aid in Spark pull request reviews,,55
+962,https://github.com/goerli/ethstats-server.git,Ethereum network status dashboard for PoW and PoA networks,,55
+963,https://github.com/htmlstreamofficial/stream-dashboard-ui-kit.git,Stream Dashboard UI Kit - A beautiful Open Source Bootstrap 4 Dashboard UI Kit under MIT license!,,55
+964,https://github.com/ilovepancakes95/idrac_snmp-grafana.git,SNMP Based Dashboard to Monitor Dell Hosts via iDRAC,"grafana,grafana-dashboard,monitoring,idrac,dell",55
+965,https://github.com/ahmadHuss/ludus-free-premium-ecommerce-template.git,"🛒 Ludus - Multipurpose E-commerce Template - 40+ Pages, User Dashboard Module & Blog Module","bootstrap4,scss,css,blog-theme,multipurpose-ecommerce-template",55
+966,https://github.com/okadato623/okadash.git,Simple and Highly Customizable Dashboard tool made with Electron,electron,55
+967,https://github.com/Tiledesk/tiledesk-dashboard.git,"The Tiledesk dashboard. Tiledesk is an Open Source Live Chat platform written in NodeJs, firebase and Angular.","livechat,live-chat,customer-support,customer-service,angualr5,console,dashboard,chat,realtime,realtime-chat,bot,chatbot,firebase,firestore",55
+968,https://github.com/pveyes/indihmm.git,Indihome real time twitter rant dashboard,"scraper,twitter,sentiment-analysis",55
+969,https://github.com/valeriansaliou/raider.git,🐎 Affiliates dashboard. Used by affiliates to generate tracking codes and review their balance.,"affiliates,dashboard,sales,tracker,web",55
+970,https://github.com/anmolkoul/gridster-D3.git,Gridster-D3-Node-MongoDB-Dashboard,,54
+971,https://github.com/jpmens/mqtt-svg-dash.git,"SVG ""live"" dashboard from MQTT",,54
+972,https://github.com/intentmedia/dashboard.js.git,A Node.js Dashboard Framework,,54
+973,https://github.com/vegasbrianc/grafana_dashboard.git,A Grafana Dashboard for monitoring Docker with Prometheus,,54
+974,https://github.com/micrum/react-material-dashboard.git,Material design admin dashboard powered with React,"react,material,material-ui",54
+975,https://github.com/app-generator/flask-dashboard-modular-admin.git,Flask Dashboard - Modular Admin Design | AppSeed,"flask-dashboard,admin-dashboard,open-source,appseed,web-app-generator",54
+976,https://github.com/christ0ph3r/cryptocurrency-dashboard.git,Crypto Currency Dashboard Using Twitter :bird: And Coinmarketcap :rocket: API,"bitcoin,litecoin,crypto,cryptocurrency,dashboard,coinmarketcap,twitter,bootstrap,monero,bitcoincash,dash,ethereum",54
+977,https://github.com/Mbarmem/Grafana.Dashboard.git,Grafana dashboard for monitoring virtual machines!!,,54
+978,https://github.com/boogheta/coronavirus-countries.git,COVID-19 interactive dashboard for the whole world,"covid-19,dashboard,vuejs,d3js,open-source,coronavirus,2019-ncov,sars-cov-2,ncov,open-source-covid",54
+979,https://github.com/sdras/vue-wine-label.git,A very silly demo showing how to make a wine label making dashboard with Vue.js,,54
+980,https://github.com/mikefarah/dashinator.git,Dashinator the daringly delightful dashboard. A replacement for dashing,"dashboard,information-radar,bamboo,continuous-integration,continuous-delivery,business-intelligence,metrics",54
+981,https://github.com/curly60e/pyblock.git,"Python Bitcoin block dashboard, transactions, send message to Space and more. ",,54
+982,https://github.com/zrbcool/prometheus-lua-nginx.git,"API Gateway monitoring tools, out-of-box dashboard helps you find out performance issue,help improve SLA.","prometheus,openresty,grafana,nginx,api-gateway,monitoring",54
+983,https://github.com/juijs/jui-chart.git,"SVG-based JUI chart that can be used in the browser and Node.js. Support many types of charts. (Dashboard, Map, Topology, Full 3D, Realtime)","javascript,chart,svg,canvas,realtime,animation",54
+984,https://github.com/awslabs/real-time-iot-device-monitoring-with-kinesis.git,"AWS Solution with a CloudFormation template for an ingestion mechanism for analytics about device connectivity and activity (i.e. sensor readings), as well as a dashboard for visualizing this data.",,54
+985,https://github.com/lanewinfield/porter.git,A web-based dashboard for raspberry pi + touchscreen to have an at-a-glance view of data for the home.,,54
+986,https://github.com/node-red/node-red-ui-nodes.git,Additional nodes for Node-RED Dashboard,hacktoberfest,53
+987,https://github.com/pavlovdog/grafana-prometheus-node-js-example.git,Step-by-step tutorial on creating beautiful dashboards for your Node JS application,"grafana,prometheus,tutorial,node-js,docker-compose",53
+988,https://github.com/domenipavec/rpi-dashboard.git,A dashboard for Raspberry Pi using Duda I/O.,,53
+989,https://github.com/theoutlander/jest-dashboard.git,Command Line Dashboard for Jest,"jest,dashboard,testing-tools,jest-reporter",53
+990,https://github.com/llvllch/bbq.git,A e-paper feedparser/ dashboard frame,"cryptocurrency,feed-reader,e-paper",53
+991,https://github.com/Yellowen/Faalis.git,A RubyOnRails platform for rapid web application development. Containing a rich and flexible dashboard interface,"ruby,rails,dashboard,control-panel",53
+992,https://github.com/joway/burrow-dashboard.git,"Kafka Dashboard for Burrow 1.0 API, monitor the topic info and consumer group offsets.",,53
+993,https://github.com/SebastienBtr/vue-dashboard.git,"A simple, lightweight and responsive layout for your next Vue.js dashboard","vuejs,dashboard-widget,dashboard-templates,dashboard,admin-dashboard,admin-template",53
+994,https://github.com/kmike/django-admin-user-stats.git,This app provides django-admin-tools dashboard modules with user registration stats/charts. ,,53
+995,https://github.com/hygieia/ExecDashboard.git,Exec Dashboard Documentation,,52
+996,https://github.com/themekita/azzara-admin-dashboard-template.git,Free Bootstrap 4 Admin Dashboard,,52
+997,https://github.com/decebals/wicket-dashboard.git,Simple web dashboard using Apache Wicket,,52
+998,https://github.com/kre8-kubernetes/kre8.git,Kubernetes Visualizer + Management Dashboard,,52
+999,https://github.com/jahirfiquitiva/PaperBoard-Final.git,"Open Source Material Design dashboard for Icon Packs. No longer supported, updated nor maintained.",,52
+1000,https://github.com/littleStudent/now_dashboard.git,▲ZEIT dashboard written in elm,"zeit,now",52
+1001,https://github.com/midwayjs/pandora-dashboard.git,A local GUI Dashboard for Pandora.js,,52
+1002,https://github.com/senlin/so-clean-up-wp-seo.git,Clean up several unwanted things that the Yoast SEO plugin adds to your WordPress Dashboard,,52
+1003,https://github.com/ytx1991/ChiaMonitor.git,An approach for monitoring multiple Chia harvester in one web app based dashboard,chia-blockchain,52
+1004,https://github.com/RyanCCollins/corporate-dashboard.git,":fire: A blazingly fast corporate dashboard single page web application, built with a focus on component oriented design with React, Relay & GraphQL","react,graphql,redux,apollo,grommet,grommet-ux-library",52
+1005,https://github.com/module-federation/medusa.git,A dashboard to tame and control federated apps,,52
+1006,https://github.com/monitoringartist/grafana-zabbix-dashboards.git,Grafana dashboards for Zabbix,"zabbix,monitoring,devops,grafana,dashboard",51
+1007,https://github.com/bjornstar/Tumblr-Savior.git,Filter your Tumblr dashboard,"tumblr,javascript,tumblr-savior,webextension,browser-extension",51
+1008,https://github.com/app-generator/django-dashboard-atlantis-dark.git,Django Dashboard - Atlantis Lite (Dark Version) | AppSeed,"appseed,django,atlantis-dark",51
+1009,https://github.com/codingchili/kibana-mithril.git,Kibana nodejs/hapi plugin adds support for LDAP and 2-factor OTP authentication to dashboards.,"kibana,ldap,2-factor,otp,plugin,javascript,nodejs,security,kibana-plugin",51
+1010,https://github.com/jyhwng/dashboard.git,React dashboard with Semantic UI & Recharts,,51
+1011,https://github.com/Raathigesh/Dazzle-Starter-Kit.git,Sample project of the Dazzle dashboard library for React,,51
+1012,https://github.com/getumbrel/umbrel-dashboard.git,Web-based dashboard to interact with your Umbrel,"umbrel,bitcoin,lightning,bitcoin-node,lightning-node,lightning-network,lnd,vuejs,full-node",51
+1013,https://github.com/msavin/MeteorCandy-meteor-admin-dashboard-devtool.git,"The Fast, Secure and Scalable Admin Panel / Dashboard for Meteor.js ","meteor,meteorjs,admin,admin-dashboard,admin-dashboard-ui,accounts,user-interface,users,impersonation,impersonate,user,impersonator,blaze,react",51
+1014,https://github.com/the94air/empathy.git,":heart: Lightweight admin dashboard build with Tailwindcss, PurgeCSS, Vuejs, Fontawesome 5.","tailwindcss,purgecss,vue,fontawesome,admin-dashboard,components,admin-panel,empathy",51
+1015,https://github.com/vinej/react-portal.git,"{""A Dashboard example with React/Mobx and ReMux :  a 'Flux' pattern inpired by Redux""}",,51
+1016,https://github.com/torkelo/dashboards.git,Grafana Dashboards ,,50
+1017,https://github.com/ravendmaster/linear-mqtt-dashboard.git,Linear MQTT Dashboard,,50
+1018,https://github.com/codelitdev/firebase-admin-dashboard.git,Easily create admin dashboards for your Firebase powered apps.,"firebase,admin-dashboard,admin-panel",50
+1019,https://github.com/Stouts/Stouts.grafana.git,Ansible role which Installs and setups Grafana metrics dashboard,,50
+1020,https://github.com/bainternet/Memchaced-Dashboard.git,A dead simple single file Memchaced stats dashboard in PHP.,,50
+1021,https://github.com/mingfang/docker-dashing.git,Run Dashing dashboard inside Docker,,50
+1022,https://github.com/onehungrymind/dashing-angular.git,An Angular dashboard-style stocks manager,,50
+1023,https://github.com/flatlogic/material-vue.git,:gem: Vue Material Template - Vuetify admin dashboard template built with Vuetify and Love :gift_heart:,"vuetify,vuex,vuejs,material,material-vue,free-template,dashboard",50
+1024,https://github.com/worldline/beekeeper.git,"Beekeeper is a Customizable, RealTime Graphing Dashboard built on MongoDB and cube. ",,50
+1025,https://github.com/casanet/casanet-server.git,Open-source server and dashboard to control IoT devices in a local home network,"iot-server,smart-home,orvibo,yeelight,broadlink,iot-device,tuya,miio,iot,iot-devices,mqtt,tasmota,ifttt",50
+1026,https://github.com/aws-samples/cloudwatch-dashboards-cloudformation-sample.git,"A sample project to demonstrate using Cloudformation, how to create and configure CloudWatch metric filters, alarms and a dashboard to monitor an AWS Lambda function. ","aws-cloudformation,aws-cloudwatch,aws-lambda,cloudformation,cloudwatch,lambda",50
+1027,https://github.com/lukasvinclav/django-nucleus.git,Clean & minimal theme for Django admin with support for custom sidebar and already prepared dashboard components.,"django,python,admin",50
+1028,https://github.com/crowbar/barclamp-nova_dashboard.git,OpenStack Horizon: Nova Dashboard component,,49
+1029,https://github.com/dg9vh/MMDVMHost-Dashboard.git,Dashboard for MMDVMHost (by G4KLX),,49
+1030,https://github.com/vjeantet/goDashing.git,Build beautiful dashboards (dashing.io port),,49
+1031,https://github.com/magehost/performance-dashboard.git,Magento 2 Performance Dashboard,"magento,performance-analysis,performance,redis,hosting,caching",49
+1032,https://github.com/fujiwara/consul-kv-dashboard.git,Consul KVS based dashboard web application.,"consul-kv,go,golang,consul",49
+1033,https://github.com/google/dana.git,Test/benchmark regression and comparison system with dashboard,"benchmark,benchmarking,benchmark-measures,regression,regression-analysis,regression-tests,dashboard,email-notification",49
+1034,https://github.com/WahlNetwork/grafana-vsphere-lab.git,Provides a Grafana dashboard using an InfluxDB back-end,"end-of-life,managed-by-terraform",49
+1035,https://github.com/8ware/task-dashboard.git,A tmux-based dashboard for taskwarrior,,49
+1036,https://github.com/henryz00/COVID-19-Timeline-Data-Visualizer.git,Coronavirus UK and world data visualiser with interactive timeline using vuejs and bootstrap - Covid19 dashboard,"vue,covid-19,covid19,coronavirus,coronavirus-tracking,coronavirus-real-time,bootstrap,covid,visualization,interactive,interactive-visualizations,d3,d3js,bar-race,apexcharts,highcharts,dashboard,covid19-tracker",49
+1037,https://github.com/justdjango/My_Dashboard.git,"A dashboard powered by Django, showing a notepad, scraping news articles and finance data with dash.py","django,django-rest-framework,pandas,dash",49
+1038,https://github.com/hackingthemarkets/streamlit-dashboards.git,"Streamlit dashboard examples - Twitter cashtags, StockTwits, WSB, Charts, SQL Pattern Scanner",,49
+1039,https://github.com/kennetpostigo/component-kit.git,📊 Data Driven Dashboards made easy,,49
+1040,https://github.com/N07070/Dashboard.git,"A small web dashboard for everything you need, at a glance. Free and Open-Source.",,49
+1041,https://github.com/chrisdwheatley/radiate.git,A responsive dashboard written in React - built for all screen sizes,,49
+1042,https://github.com/brightcove/dog-watcher.git,A utility which can be used to watch your DataDog monitor and dashboard configs and save them to a separate repository when they change.,,49
+1043,https://github.com/morpheus65535/oscarr.git,"Oscarr is a dashboard application for users of Plex, Emby, Sonarr, Radarr and Bazarr. It gives you and overview of your media management software.",,49
+1044,https://github.com/citsoft/mongobird.git,"mongobird is powerful and beautiful monitoring tool which provide dashboard, statistics graph and so on. The purpose of mongobird is to perform the systematic and stable operation and efficient database management.",,49
+1045,https://github.com/PunitTailor55/WebMap.git,Nmap Web Dashboard and Reporting,,48
+1046,https://github.com/bitnami-labs/kubernetes-grafana-dashboards.git,Bitnami collection of Grafana dashboards,,48
+1047,https://github.com/app-generator/boilerplate-code-django-dashboard.git,Boilerplate Code - Django Dashboard | AppSeed,"appseed,boilerplate-code,django",48
+1048,https://github.com/tulios/burrow-stats.git,Dashboard for burrow kafka consumer lag checking,,48

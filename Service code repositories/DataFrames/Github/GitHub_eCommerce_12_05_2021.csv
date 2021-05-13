@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/vuestorefront/vue-storefront.git,"The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.","vue-storefront,pwa,headless,vue,ecommerce,magento,storefront,mobile,e-commerce,nuxt,magento2,shopware,shopify,commercetools,vue3,open-source,typescript,hacktoberfest,headless-commerce,ecommerce-platform",8480
+1,https://github.com/woocommerce/woocommerce.git,An open source eCommerce plugin for WordPress.,"woocommerce,wordpress,php,automattic,ecommerce,ecommerce-platform,hacktoberfest",6990
+2,https://github.com/Sylius/Sylius.git,Open Source eCommerce Platform on Symfony,"sylius,php,symfony,ecommerce,ecommerce-platform,shop,shopping-cart,framework,symfony-bundle,hacktoberfest",6334
+3,https://github.com/nopSolutions/nopCommerce.git,The most popular open-source eCommerce shopping cart solution based on ASP.NET Core,"ecommerce,shopping-cart,nopcommerce,asp-net,asp-net-core,aspnetcore,shop,dotnet,dotnet-core,entity-framework,sql,linq2db,fluentmigrator,sqlserver,mysql",6145
+4,https://github.com/fecshop/yii2_fecshop.git,"yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等","yii2-fecshop,yii2,fecshop,shop,cart,yii,ecommerce,shopping,vue,html5,php,b2c,fecmall",4698
+5,https://github.com/aimeos/aimeos-laravel.git,"Laravel ecommerce package for professional, ultra fast online shops, complex B2B applications and #gigacommerce","aimeos,laravel,ecommerce,e-commerce,shop,b2b,marketplace,php,json-api,laravel-package,laravel-ecommerce,laravel-application,shop-application,ecommerce-framework,vuejs,ecommerce-platform,opensource,multivendor-ecommerce,multi-tenant",4468
+6,https://github.com/solidusio/solidus.git,"🛒Solidus, Rails eCommerce System","solidus,ruby,rails,storefront,ecommerce,ecommerce-platform,ecommerce-framework,hacktoberfest",3683
+7,https://github.com/bagisto/bagisto.git,A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.,"ecommerce-framework,laravel,vue,php,warehouse-management,ecommerce,ecommerce-platform,laravel-application,laravel-ecommerce,laravel-package,opensource,multivendor-ecommerce,multi-tenant,multi-tenancy-plugin,opensource-ecommerce-framework,hacktoberfest2020,hacktoberfest",3567
+8,https://github.com/simplcommerce/SimplCommerce.git,"A simple, cross platform, modularized ecommerce system built on .NET Core","dotnetcore,modular,ecommerce,aspnetcore,csharp,angularjs,entity-framework-core,shopping-cart,cross-platform,netcore,asp-net-core,net-core,dotnet-core",3251
+9,https://github.com/smartstore/SmartStoreNET.git,Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution,"smartstore,c-sharp,shop,ecommerce,cart,aspnet,aspnet-mvc-5,e-commerce,cms,pagebuilder,mvc,basket,lucene,esd,sass,bootstrap-4,liquid,ef6,autofac,azure",2195
+10,https://github.com/pimcore/pimcore.git,"Open Source Digital Experience Platform (DXP, MDM/PIM, CDP, DAM, CMS/UX & eCommerce","pimcore,cms,pim,shop,ecommerce,ecommerce-platform,master-data-management,dam,wcms,digital-platform,experience-manager,data-management,product-management,product-information-management,cms-framework,mdm,online-shop,online-store,cdp,customer-data-platform",2101
+11,https://github.com/vendure-ecommerce/vendure.git,A headless GraphQL ecommerce framework for the modern web,"ecommerce,headless,api,graphql,nodejs,framework,typescript",2071
+12,https://github.com/cezerin/cezerin.git,Cezerin is React and Node.js based eCommerce platform.,"nodejs,react,javascript,redux,mongodb,shopping-cart,ecommerce,cms,pwa,spa",1963
+13,https://github.com/jeffersonRibeiro/react-shopping-cart.git,🛍️ Simple ecommerce cart application built with React Redux,"react,redux,sass,ecommerce,firebase,ecommerce-cart-application,e2e-tests,integration-tests,unit-testing,react-shopping-cart,shopping-cart",1690
+14,https://github.com/grandnode/grandnode.git,Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB,"mongodb,ecommerce,shopping-cart,nosql,asp-net,open-source,core,dotnet-core,dotnetcore,ecommerce-platform,shop,storefront,commerce,cart,marketplace,csharp,docker",1675
+15,https://github.com/vuestorefront/storefront-ui.git,"Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.","vue,ecommerce,ui-kit,ui,pwa,vuejs,vuejs2,ui-components,vue-components,javascript,storefront,storefront-theme,hackoctoberfest,hacktoberfest",1636
+16,https://github.com/BroadleafCommerce/BroadleafCommerce.git,Broadleaf Commerce - Enterprise eCommerce framework based on Spring,,1468
+17,https://github.com/jamstack-cms/jamstack-ecommerce.git,A starter project for building performant ECommerce applications with Next.js and React,"gatsby,ecommerce,javascript,react,static-site-generator,serverless,next,nextjs",1430
+18,https://github.com/shopware/platform.git,Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.,"shopware,php,ecommerce,javascript,vuejs,bootstrap4,symfony,twig,shopware6,hacktoberfest",1337
+19,https://github.com/drhenner/ror_ecommerce.git,"Ruby on Rails Ecommerce platform, perfect for your small business solution.",,1201
+20,https://github.com/sdras/ecommerce-netlify.git,🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions,"netlify,serverless,netlify-functions,stripe,stripe-checkout,jamstack,jamstack-storefront,nuxt,serverless-functions,grid",1186
+21,https://github.com/basir/node-react-ecommerce.git,Build ECommerce Website Like Amazon By React & Node & MongoDB,"redux,react,node,expressjs,mongodb,mongoose,html,css,javascript,axios,thunk-middleware,body-parser,file-upload,jsonwebtoken",1125
+22,https://github.com/codingforentrepreneurs/eCommerce.git,"{""We're going to take you step-by-step to build a modern, fully open-source, eCommerce web application using Python, Django, Bootstrap, Javascript, and more. ""}","python,django,django1-11,python3-6,bootstrap4,ecommerce,stripe,mailchimp,ajax,custom-queryset,cart-model,bootstrap,lookup,card,jquery,jquery-ajax",1025
+23,https://github.com/Shopify/js-buy-sdk.git,"{""The JS Buy SDK is a lightweight library that allows you to build ecommerce into any website. It is based on Shopify's API and provides the ability to retrieve products and collections from your shop, add products to a cart, and checkout.""}",,714
+24,https://github.com/muffinresearch/payment-icons.git,💳 Payment / Ecommerce related svg icon packs,"icons,payments,svg,creditcard",680
+25,https://github.com/stephenmcd/cartridge.git,Ecommerce for Mezzanine,,629
+26,https://github.com/adrianhajdin/project_e_commerce.git,"{""This is a code repository for the corresponding video tutorial. In this video, we're going to build a fully functional eCommerce application using commerce.js.""}","ecommerce,ecommerce-applications,reactjs,commercejs,javascript",621
+27,https://github.com/e-commerce-sample/ecommerce-order-service.git,Order backend for Ecommerce.,,582
+28,https://github.com/robertodevs/flutter_ecommerce_template.git,This is an eCommerce minimalist template with a clean and beautiful design for Flutter. ,"flutter-ecommerce-template,flutter-examples,flutter-ui,flutter-app,ui-components",580
+29,https://github.com/Santos-Enoque/complete_flutter_ecommerce.git,This repo will contain the backend code and the Ui of the flutter ecommerce app,,551
+30,https://github.com/aws-samples/aws-serverless-ecommerce-platform.git,"Serverless Ecommerce Platform is a sample implementation of a serverless backend for an e-commerce website. This sample is not meant to be used as an e-commerce platform as-is, but as an inspiration on how to build event-driven serverless microservices on AWS.","serverless,aws,eventbridge,microservices,api-gateway,appsync,lambda",512
+31,https://github.com/ikismail/Angular-ShoppingCart.git,"ShoppingCart (Ecommerce) 🛒 Application using Angular10, Firebase, PWA, Drag&Drop, Materialized Bootstrap and i18n 🚀🔥👨\u200d💻","angularshoppingcart,shopping-cart,ecommerce,angular-shopping,shoppingstore,shopping-site,angular,firebase,firebase-database,pwa,progressive-web-app,angular6,i18n,angular7,angular-7,drag-and-drop,firebase-authentication,angular9,angular10",505
+32,https://github.com/reactioncommerce/example-storefront.git,"Example Storefront is Reaction Commerce’s headless ecommerce storefront - Next.js, GraphQL, React. Built using Apollo Client and the commerce-focused React UI components provided in the Storefront Component Library (reactioncommerce/reaction-component-library). It connects with Reaction backend with the GraphQL API.","ecommerce-platform,ecommerce,commerce,reactioncommerce,storefront,e-commerce,javascript,cart,shop,marketplace,docker,mongodb,headless,graphql,ssr,graphql-client,apollo,react,nextjs",488
+33,https://github.com/parmsang/gatsby-starter-ecommerce.git,Gatsby starter for creating an eCommerce site using the Moltin eCommerce Api,"gatsbyjs,moltin,react,ecommerce,semantic-ui,cypress,jest",459
+34,https://github.com/webkul/hotelcommerce.git,Hotel & Booking Reservation Ecommerce system on Prestashop,"hotel-booking,webkul,hotel",427
+35,https://github.com/shopjs/shop.js.git,🛍️ Ecommerce UI components and framework powered by React.,"ecommerce,shopping-cart,storefront,reactive,ui,javascript,reactjs,hanzo",425
+36,https://github.com/digota/digota.git,ecommerce microservice,"ecommerce,microservice,digota,paypal,stripe,payments",385
+37,https://github.com/DivanteLtd/microservices-book.git,"""Microservices Architecture for eCommerce"" is an Open Source Book on Microservices and Headless eCommerce. Feel invited to contribute! Read online or download a PDF","microservice,microservices-architecture,architecture,best-practices,case-study,engineering,magento,ecommerce,cto",340
+38,https://github.com/storefront-foundation/react-storefront.git,"React Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, Apache-2.0 license. Join us as contributor (contributors@reactstorefront.io).","react,ecommerce,pwa-framework,react-storefront,pwa,headless,ecommerce-platform,commerce,javascript,preact,nextjs,ssr,server-side-rendering,salesforce-commerce-cloud,salesforce-commercecloud,magento,magento2,spa,reactjs,open-source",339
+39,https://github.com/Cezerin2/cezerin2-api.git,Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart.,"cezerin,ecommerce-platform,react,cezerin-store,mongodb,ubuntu,shopping,cart,reactjs,shoppingcart,reactshopping,react-shopping-cart",327
+40,https://github.com/itswadesh/svelte-commerce.git,"Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Faceted Filters, 1 command deploy to production, Open Source, MIT license. Join us as contributor (swadesh@litekart.in)","ecommerce,sapper,svelte,tailwindcss,affiliate,javascript-ecommerce,shopping-cart,cart,auth,authentication,pwa,filters",312
+41,https://github.com/qalingo/qalingo-engine.git,"Qalingo : B2C B2B Engine (opensource Java eCommerce mCommerce Marketplace, sync with ERP CMS CRM) (based on Spring, Hibernate, Velocity, Drools, SOLR)",,303
+42,https://github.com/binx/react-stripe-store.git,roll your own ecommerce store!,,298
+43,https://github.com/codingforentrepreneurs/open-ecommerce.git,"Coding for Entrepreneurs Tutorial for building an eCommerce web application with Django & Bootstrap (djangoproject.com, getbootstrap.com). Topics include Python, HTML, CSS, JQuery, AJAX.",,275
+44,https://github.com/piggybak/piggybak.git,"Modular, extensible open-source ecommerce solution for Ruby on Rails. No longer under development.",,273
+45,https://github.com/aws-samples/retail-demo-store.git,"AWS Retail Demo Store is a sample retail web application and workshop platform demonstrating how AWS infrastructure and services can be used to build compelling customer experiences for eCommerce, retail, and digital marketing use-cases","aws,personalize,pinpoint,cognito,ecs,fargate,amplify,vuejs,elasticsearch,cloudfront,codepipeline,workshops,ecommerce",272
+46,https://github.com/binx/beluga.git,🎷🐋 Build your own ecommerce site! https://belugajs.com,,270
+47,https://github.com/arastta/arastta.git,"Solid, Free, Open Source, Community Driven eCommerce","arastta,ecommerce,ecommerce-platform,shopping-cart,shopping-cart-solution,cart,shop,composer,php",251
+48,https://github.com/jigoshop/jigoshop.git,Jigoshop is an eCommerce plugin for WordPress forged from years of experience by the WordPress Community & the Jigoshop Team.,,251
+49,https://github.com/mohamedsamara/mern-ecommerce.git,:balloon: Fullstack MERN Ecommerce Application,"mongoose,express,react,node,redux,redux-thunk,mern,mern-ecommerce,mern-stack",247
+50,https://github.com/ivanlori/Vuemmerce.git,👉 Responsive ecommerce template 🛒 built with Vue.js and Nuxt.js,"vue,javascript,ecommerce,template,vuejs2,shoppingstore,vuejs,ecommerce-template,vuex,vue-cli,vue-router,bulma-css,vue-components,vue2,responsive,nuxtjs,nuxt",238
+51,https://github.com/idugalic/micro-ecommerce.git,"Rest-full, distributed, ecommerce application. Microservices. Docker.",,236
+52,https://github.com/shopperlabs/shopper.git,An eCommerce  administration built with Laravel 5 for create online shop.,"ecommerce,laravel,php,reactjs,ecommerce-platform,react,laravel-ecommerce,laravel-admin-panel,dashboard,ecommerce-store",213
+53,https://github.com/wp-e-commerce/WP-e-Commerce.git,WP eCommerce - The most popular independent eCommerce platform for WordPress,"wp-ecommerce,wordpress,php,ecommerce",209
+54,https://github.com/samarthagarwal/wooionic3.git,An eCommerce App for WooCommerce stores using Ionic 3.,"woocommerce,ionic,ionic2,ionic3,angular4,cordova,wooionic,ionic-framework",206
+55,https://github.com/basir/amazona.git,Build Ecommerce Like Amazon By MERN Stack,"react,nodejs,reactjs,redux,redux-thunk,expressjs,mongoose,mongodb,bycryptjs",202
+56,https://github.com/vuestorefront/shopware-pwa.git,"Shopware PWA for eCommerce. Headless storefront solution for Shopware 6, which communicates through the SalesChannel-API. Always Open Source, MIT license. Made with :blue_heart: by shopware AG & Vue Storefront.","shopware-pwa,ecommerce,vue,hacktoberfest,shopware,shopware6,pwa",202
+57,https://github.com/RafaelGoulartB/next-ecommerce.git,:zap: Quantum Ecommerce. Made with Next.js | GraphQL | Apollo Server | Apollo Client | SSR,"nextjs,nodejs,e-commerce,graphql,ecommerce,apollo,vercel,next-js,commerce",198
+58,https://github.com/ashishrawat2911/flutter_commerce.git,An Ecommerce application built in Flutter using Firebase.,"flutter,firebase",197
+59,https://github.com/coreshop/CoreShop.git,CoreShop - Pimcore eCommerce,"ecommerce,ecommerce-platform,pimcore,pimcore-ecommerce,shop,commerce,e-commerce,commerce-engine,pimcore-plugin,coreshop",196
+60,https://github.com/zinmyoswe/Django-Ecommerce.git,"Ecommerce website built with Django 2.2.3, Python 3.7.3,  Stripe and AWS","django,python,django-ecommerce,ecommerce-website,stripe,djangoshopping-cart",194
+61,https://github.com/JohnnyLe/Modern-Ecommerce.git,"{""Enterprise Modern E-commerce: Spring Boot, Spring data REST APIs + AngularJS/Bootstrap. IMPORTANT NOTE: The main repository now has been moved to https://github.com/NIT-Software/Modern-Ecommerce . It's FREE open source code, you can clone, custom and redistribute as your needs""}",,185
+62,https://github.com/vespolina/vespolina-sandbox.git,"The purpose of this project is to create an expandable PHP based ecommerce platform, built on interchangeable libraries that can be used independently of Vespolina, all managed by configurable processes and whenever possible, using established standards.",,182
+63,https://github.com/BitBagCommerce/SyliusCmsPlugin.git,"Content management system for eCommerce apps created on Sylius platform. Built with Sylius code quality, flexibility, BDD.","sylius,symfony,php,cms,ecommerce,ckeditor,sylius-plugin",182
+64,https://github.com/Sylius/Sylius-Standard.git,Open Source eCommerce Application on top of Symfony,"sylius,php,symfony-application,symfony,ecommerce,ecommerce-platform,ecommerce-framework,hacktoberfest",173
+65,https://github.com/vatri/spring-rest-ecommerce.git,Java Spring Boot - Ecommerce REST API,"java,java-spring,spring-boot,jwt,hibernate,redis,swagger,hateoas,springfox",172
+66,https://github.com/levelopers/Ecommerce-Reactjs.git,Full stack ecommerce online store application,"reactjs,react-redux,react-bootstrap,sass,axios,react-router",171
+67,https://github.com/kaloraat/react-node-ecommerce.git,React Node Ecommerce with Paypal and Credit Card payments with Admin Order Management System,,171
+68,https://github.com/jgudo/ecommerce-react.git,"eCommerce web application using React, Redux, Redux-Saga, Firebase and SASS. ","shopping-cart-react,react-ecommerce,react-redux-firebase,shopping-cart,react-firebase,ecommerce,shoppingcart,shopping-site,react-shopping-cart",171
+69,https://github.com/moltin/js-sdk.git,JavaScript & Node.js SDKs for the Elastic Path Commerce Cloud eCommerce API,"javascript,moltin,sdk,rollup,es2015",170
+70,https://github.com/codingforentrepreneurs/ecommerce-2.git," eCommerce 2 is a step-by-step guide to creating your own custom eCommerce site using Django (v. 1.8), Bootstrap (v. 3.3), AJAX, jQuery (v. 1.11), Braintree Payments and more.",,166
+71,https://github.com/Shopify/buy-button-js.git,BuyButton.js is a highly customizable UI library for adding ecommerce functionality to any website.,"javascript,ecommece",163
+72,https://github.com/Cezerin2/cezerin2.git,"Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart. ""All In One"" App: Cezerin API + Cezerin Storefront + Cezerin Dashboard.","cezerin,react,shopping,cart,ecommerce-platform,express-js,mongodb,nodejs,reactjs,shoppingcart,react-ecommerce,store,shopping-cart,shopping-site,shopping-cart-solution",158
+73,https://github.com/gary-rowe/multibit-merchant.git,"⚠️ OBSOLETE. DO NOT USE! A free and open source Bitcoin ecommerce platform, with several representative clients (online shop, admin etc). Uses Dropwizard, HAL, MongoDB etc",,154
+74,https://github.com/robconery/peach.git,An experimental ecommerce thing for Elixir,,153
+75,https://github.com/craftcms/commerce.git,Fully integrated ecommerce for Craft CMS,"craft-plugin,commerce,e-commerce,ecommerce,ecommerce-platform,craftcms,craft2,craft3",151
+76,https://github.com/NielsDom/ecommerce-react.git,MERN fullstack ecommerce react/redux/node,,151
+77,https://github.com/ikismail/Vue-ShoppingCart.git,"ShoppingCart (Ecommerce) 🛒 Application using Vuejs, + Node.js + Express + MongoDB 🚀🤘","vuejs,vue-router,vuex,vue-cli,vue-components,nodejs,express,express-middleware,mongodb,progressive-web-app,shopping-cart,shoppingstore,ecommerce,vue-shopping,mevn,mevn-stack",149
+78,https://github.com/Jellyfishboy/trado.git,"Trado is a lightweight, easy to use ecommerce platform; designed to allow developers to quickly deploy a premium ecommerce store for their business","ruby,trado,ecommerce-platform,rails,stripe,paypal,mailchimp",149
+79,https://github.com/seikan/Cart.git,A simple PHP shopping cart class to use in ecommerce web applications.,,148
+80,https://github.com/CrystallizeAPI/crystallize-nextjs-boilerplate.git,Fully featured Next.js / React eCommerce boilerplate. Combine rich marketing content with product information to create highly converting online stores. Fully tuned for performance with JAMStack edge page generation.,"frontend,react,ssr,graphql,ecommerce,subscription-commerce,hacktoberfest,jamstack",147
+81,https://github.com/ElzeroWebSchool/eCommerceCourse.git,This Files For eCommerce Course Found Here: https://goo.gl/hTL1q0,,143
+82,https://github.com/antkaynak/Keyist-Ecommerce.git,🔑 A simple ecommerce site powered with Spring Boot + Angular 10 + Ngrx + OAuth2 ,"ecommerce-application,ecommerce-website,ecommerce-platform,angular5,spring-boot,oauth2,rxjs,ngrx,ngrx-store,ngrx-effects,angular,mysql,mysql-database,java11,springboot,oauth2-authorization,cart,angular11,spring-test,maven",141
+83,https://github.com/SnowdogApps/magento2-alpaca-theme.git,Magento 2 theme built on top of Alpaca design system crafted for ecommerce,"magento-theme,theme,magento2,hacktoberfest",137
+84,https://github.com/isotope/core.git,"Core repository of Isotope eCommerce, an eCommerce extension for Contao Open Source CMS",,133
+85,https://github.com/chec/commerce.js.git,"Open source, JS eCommerce SDK for building headless, Jamstack applications. Build custom storefronts, carts, and checkouts in any frontend framework, platform, or device. Integrates with Stripe, Square, PayPal, Paymill and Razorpay with support for 135+ currencies.","sdk,ecommerce,commercejs,chec,headless,jamstack,js,open-source,checkout,commerce,carts,checkouts,storefront,stripe,square,paypal,razorpay",133
+86,https://github.com/smartstore/Smartstore.git,Open Source ASP.NET Core Enterprise eCommerce Shopping Cart Solution,"sass,c-sharp,cms,ecommerce,core,shop,aspnet,azure,liquid,e-commerce,ef6,lucene,cart,basket,aspnet-core,autofac,bootstrap-4,smartstore,pagebuilder,esd",129
+87,https://github.com/DivanteLtd/storefront-integration-sdk.git,"If You like to integrate Vue Storefront - PWA for eCommerce with 3rd party platform, use this SDK","pwa,vue-storefront,ecommerce,integration,ecommerce-platform",125
+88,https://github.com/mrmodise/nodejs-ecommerce-store.git,An ecommerce store built in NodeJS,"nodejs,mongodb,node-mongodb,elasticsearch,express-js,express-middleware",123
+89,https://github.com/abantecart/abantecart-src.git,"AbanteCart is a free PHP based eCommerce solution for merchants to provide ability creating online business and sell products online quick and efficient.  AbanteCart application is built and supported by experienced enthusiasts that are passionate about their work and contribution to rapidly evolving eCommerce industry. AbanteCart is more than just a shopping cart, it is rapidly growing eCommerce platform",,123
+90,https://github.com/ranjithprabhuk/Angular-Bootstrap-Dashboard.git,"Angular Bootstrap Dashboard is a web dashboard application based on Bootstrap and AngularJS. All components included in this dashboard template has been developed to bring all the potential of HTML5 and Bootstrap plus a set of new features (JS and CSS) ideal for your next dashboard admin theme or admin web app project. Angular Bootstrap Dashboard can be used in any type of web applications dashboard: Single Page Application (SPA), project management system, ecommerce admin dashboard, CMS, CRM, SAAS, help desk; for personal and business purposes. Angular Bootstrap Dashboard uses ui-router for routing purposes.",,123
+91,https://github.com/Swastika-IO/sio.core.git,"✔ [ SIOC ] Swastika I/O Core is an all in one platform (e.g CMS, eCommerce, Forum, Q&A, CRM...) ASP.NET Core / Dotnet Core System based on SIOH Framework.","dot-net-core,web-api-2,signalr,ms-sql-server,swastika,asp-net-core,asp,sqlserver,dotnet-core,dotnet-standard,cms,blog-engine,blog,dot-net-core-cms,dotnetcore,asp-net-core-mvc,dotnet-core-blog,dotnet-core-cms,net-core-cms,blazor",122
+92,https://github.com/zetapath/80cents.git,A real and easy NodeJS service for create ecommerce platforms.,,121
+93,https://github.com/Canner/canner-firebase-cms.git,":fire: Content management for Firebase Realtime Database with SSR supported with NextJS, for blog, ecommerce, mobile apps and even chatbot! This project is based on Canner CMS","canner,canner-cms,firebase,cms,cms-framework,react,reactjs",119
+94,https://github.com/mdbootstrap/Ecommerce-Template-Bootstrap.git,Ecommerce Template - Bootstrap 4 & Material Design. ATTENTION! New templates for the latest Bootstrap 5 are now also available. Access new free templates via the link below.,"template,bootstrap4",117
+95,https://github.com/aviacommerce/flutter-ecommerce.git,Ecommerce app built with flutter,"flutter,ecommerce,open-source",116
+96,https://github.com/robconery/meteor-shop.git,A demo eCommerce site using Meteor.js - the code for this site can also be seen at Pluralsight.,,116
+97,https://github.com/JoelSanchez/ventas.git,Clojure ecommerce platform,"clojure,clojurescript,clojure-spec,websockets,ecommerce,re-frame,reagent,reactjs,datomic,semantic-ui-react,http-kit,help-wanted,elasticsearch,ventas-ecommerce",114
+98,https://github.com/aaronchen2k/mobistore.git,eCommerce Fashion Store,,112
+99,https://github.com/endless-commerce/endless.git,Open Source Ecommerce Platform based on Serverless Framework,,111
+100,https://github.com/shankardevy/mango.git,Ecommerce site that you will build while learning Mastering Phoenix Framework,,109
+101,https://github.com/shyim/awesome-shopware.git,Shopware - Open Source eCommerce built with PHP,"awesome-list,shopware,awesome",106
+102,https://github.com/Santos-Enoque/flutter_ecommerce_app.git,this is an ecommerce app that I built using the flutter frame work,,103
+103,https://github.com/bigcommerce/gatsby-bigcommerce-netlify-cms-starter.git,"Example Gatsby, BigCommerce and Netlify CMS project meant to jump start JAMStack ecommerce sites.",,103
+104,https://github.com/nystudio107/instantanalytics.git,DEPRECATED Instant Analytics brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce.,"craftcms,google-analytics,google-measurement-protocol,craft-commerce,craft-plugin",103
+105,https://github.com/levelopers/Ecommerce-Nodejs.git,Ecommerce application back-end codes,"restful-api,jsonwebtoken,express,mongodb-atlas,mongoose,swagger-documentation,express-validator,cors,paypal-rest-sdk,heroku,nodejs",102
+106,https://github.com/basir/react-shopping-cart.git,React Redux Tutorial - Build ECommerce Shopping Cart In 5 Hours,"react,redux,tutorial,ecommerce,shopping-cart",101
+107,https://github.com/firesale/firesale.git,The lightweight eCommerce platform for PyroCMS,,99
+108,https://github.com/webdevmatics/webmall.git,Laravel multi seller ecommerce marketplace. ( Youtube series : http://bit.ly/2tqUqj4 ),,98
+109,https://github.com/inspire-software/yes-cart.git,YesCart - pure eCommerce,,94
+110,https://github.com/bitfumes/api.git,Create Ecommerce Restful API using Laravel API Resource ,"laravel,api-rest,api,laravel-api,api-restfull,postman,laravel55,laravel-framework",90
+111,https://github.com/sumitkumar1503/ecommerce.git,Ecommerce project || Python Django,"ecommerce,python,demo,cart,payment,dashboard,feedbacks",89
+112,https://github.com/concrete5-community-store/community_store.git,"An open, free and community developed eCommerce system for concrete5","concrete5,ecommerce",89
+113,https://github.com/imanaspaul/Django-eCommerce-tutorial-manascode.git,Django eCommerce tutorial for beginners ,"django,django-project,python-3-6,html5,bootstrap4,ecommerce",87
+114,https://github.com/graycoreio/daffodil.git,Angular Ecommerce PWA Framework,"angular,pwa,magento,ecommerce,typescript,ecommerce-platform,daffodil,hacktoberfest",86
+115,https://github.com/Won-Games/client.git,The frontend part of our ecommerce,hacktoberfest,86
+116,https://github.com/w3bdesign/nextjs-woocommerce.git,NextJS (React) eCommerce site with WooCommerce backend,"nextjs,react,es6,woocommerce-api,woocommerce,graphql,ecommerce-site,wp-graphql,algolia-search,algolia,styled-components,animatecss,react-hook-form",86
+117,https://github.com/davidtrushkov/store.git,A ecommerce store using Laravel 5.2,,85
+118,https://github.com/webdevmatics/ecom.git,Ecommerce website with laravel Project Code. Tutorial on Youtube at... https://youtu.be/UvqhBoMXvPo,,85
+119,https://github.com/dumplie/dumplie.git,First ecommerce framework,,84
+120,https://github.com/AmitXShukla/Online-Shop-eCommerce-App-Angular-6-Firebase.git,Online eCommerce Store app in Angular 11.0 & Firebase,"google-firebase,video-tutorial,angular,download-free-source-code,google-firestore,android-app,complete-source-code,mobile-app,learn-how-to-create-app,online,store,estore,ecommerce,angular11",83
+121,https://github.com/rohitguptab/OneShopper.git,This is repository create for Ecommerce site With Gatsby js,,82
+122,https://github.com/ziddahedem/phone_website.git,"An eCommerce website template built with HTML, CSS, and JAVASCRIPT.",,80
+123,https://github.com/lightspeedretail/webstore.git,Web Store eCommerce solution for Lightspeed,,79
+124,https://github.com/shyam999/Django-ecommerce.git,"Django-ecommerce is a fully open-source E-commerce platform built using Django Web Framework, designed with Bootstrap4...","python,django,django-shop,django-ecommerce,shopping-cart",78
+125,https://github.com/tortuvshin/boxshop.git,Laravel ecommerce platform,"laravel,php,ecommerce,online-shop,laravel5,laravel-ecommerce,shop,angular,multilingual,ecommerce-website,javascript,less",76
+126,https://github.com/devdcores/BookStoreApp-Distributed-Application.git,"Ecommerce project is being developed using Spring Boot Microservices and Spring Cloud (Backend) and React (Frontend). Splitting the Ecommerce functionality into various individual microservices so that they can be distributed,  scale really well and make use of resources efficiently. ","spring-boot,microservices,zuul,eureka,react,docker,docker-compose,graphana,prometheus,zipkin,feign,mysql,flyway,tick-stack,influx,telegraf,chronograf,kapacitor,consul,spring-cloud",75
+127,https://github.com/myntra/ecommerce-demo.git,A demo react native project implementing a basic ecommerce app,,73
+128,https://github.com/codingforentrepreneurs/ecommerce-2-api.git," eCommerce 2 API is a step-by-step guide to implementing an RESTful API into your eCommerce 2 project (https://github.com/codingforentrepreneurs/ecommerce-2) using the Django Rest Framework, Django Rest Framework JWT, Django CORS Headers, and more. ",,73
+129,https://github.com/evgenirusev/Distributed-eStore.git,"Ecommerce SPA application with a microservices architecture implemented from scratch. Tech stack - Docker, Consul, Fabio, RabbitMQ, .Net Core, Mediatr, CQRS, React, Redux. .NET Core Microservices template, .NET React Redux, .NET RabbitMQ, .NET Distributed, Docker, .NET Core with Docker.","fabio,mediatr,cqrs,consul,dotnet,docker,mongodb,rabbitmq,react,redux",73
+130,https://github.com/sahava/eec-gtm.git,DOM scraping scripts for tracking content with Enhanced Ecommerce with Google Tag Manager,,70
+131,https://github.com/marcinstelmach/Ecommerce.Api.git,"Ecommerce in .net core 2.2, C#, MediaTr, CQRS, DDD, Autofac, DI, Entity Framework Core, Memory Cache, Serilog","dotnet-core2,entity-framework-core,autofac,mediator,file-upload,cqrs,ddd,serilog,ecommerce",70
+132,https://github.com/Loydtafireyi/ZimCart-Laravel-Ecommerce.git,ZimCart is an Open Source eCommerce platform by Loyd Tafireyi using Laravel and it is available as a free and paid version.,"laravel-ecommerce,ecommerce-platform,ecommerce-website,ecommerce-application,zimcart,zimbabwe-ecommerce,free-ecommerce,open-source,freeecommerce,laravel-cms,free-cms,selling-platform",69
+133,https://github.com/ahmedeagle/ecommerce.git,Multi Vendor Ecommerce Tutorial In Arabic,,68
+134,https://github.com/jekyll-store/front.git,Jekyll Frontend for the Jekyll-Store ecommerce solution,,67
+135,https://github.com/etrupja/DrinkAndGo.git,A simple eCommerce App build on top of Asp.Net Core MVC framework. ,"c-sharp,dotnet-core,mvc-core",67
+136,https://github.com/MrCMS/Ecommerce.git,C# Ecommerce App for Mr CMS,,66
+137,https://github.com/raylight75/cms.git,Laravel - Ecommerce System,,64
+138,https://github.com/interchange/interchange.git,Interchange ecommerce framework,,64
+139,https://github.com/pxlhead/pxlshop.git,Vue.js ecommerce website with Firebase,"vue,firebase,vuefire,webpack2,ecommerce,shop,website,vue-cli,vue-router,firebase-database,firebase-auth,firebase-storage,firebase-hosting",64
+140,https://github.com/sahuadarsh0/GoGrocery.git,"Its an eCommerce app inspired from Amazon , big Basket , grofers ,grocery app , Etc ","bigbasket,grocery,android,ecommerce,amazon,uikit,ui-kit,flipkart,shopping,shopping-cart,shoppingcart,cart,technitedminds",64
+141,https://github.com/mayur091193/quasar-shopping.git,Free and Open source eCommerce UI template written in Vue.js/Quasar,,64
+142,https://github.com/moqui/PopCommerce.git,"POP Commerce is an eCommerce and ERP application suite for retail and wholesale organizations. POP Commerce is based on Moqui Framework, Mantle Business Artifacts, and Simple Screens.","moqui,moqui-framework,mantle,mantle-business,ecommerce-application,pop-commerce,java,erp,crm,retail,wholesale,application,web,webapp,accounting,inventory,sales,purchasing,erp-application",64
+143,https://github.com/AntonMoskalchenko/nuxt-ecommerce.git,🛍 Ecommerce Store with Nuxt,"vue,vuejs2,vuex,nuxt,nuxtjs,example-project,boilerplate,ecommerce",63
+144,https://github.com/limitless-leggings/limitless-leggings.git,"An ecommerce site selling leggings, filterable by category. Built with Node.JS, Express, PostgreSQL, React, and Redux.",,63
+145,https://github.com/dolapay/backendless-ecommerce-platform.git,"{""BEP is short for “Backendless Ecommerce Platform,” and it turns any website into a shop with just 1-line of code. There's no backend or CMS to manage. Just add our snippet and you're in business!""}","ecommerce,checkout,dola,bep,dolapay,backendless-ecommerce-platform",63
+146,https://github.com/Ekluv/ecommerce-django.git,Simple Ecommerce website built using Django,,62
+147,https://github.com/Gatsbylius/Gatsbylius.git,Fastest PWA eCommerce solution. Joins us as contributor.,"sylius,gatsbyjs,ecommerce,pwa,symfony,react",62
+148,https://github.com/shopperlabs/framework.git,An eCommerce  administration built with Laravel 7 for create and manage online shop with multi-vendor.,"laravel,ecommerce,shopper,admin-dashboard,laravel-ecommerce,shopping,tailwindcss,tailwindcss-ui,livewire,laravel-package,alpinejs",61
+149,https://github.com/jekyll-store/engine.git,Static ecommerce business logic written with Reflux.js,,60
+150,https://github.com/darkslayer92/E-Commerce-Application-Nodejs-Angular-8-MYSQL.git,"ShoppingCart (Ecommerce) 🛒 Application using Angular8, Firebase, MYSQL, Nodejs, express.js and Materialized Bootstrap ","angularshoppingcart,shopping-cart-application,ecommerce-application,angular-shopping,shoppingstore,shopping-site,angular,mysql-database,angular8,nodejs,express-js,firebase-authentication,bootstrap-4",60
+151,https://github.com/stefandoorn/sitemap-plugin.git,Sitemap Plugin for Sylius eCommerce platform,"sylius,sitemap-plugin,php,ecommerce,symfony,sitemap,sitemap-generator",59
+152,https://github.com/Ashraf-Taha/Luxury.git,Using AR to take eCommerce to the next level,,58
+153,https://github.com/rahulsahay19/eCommerce-App.git,Ecommerce App using .Net Core 3.1 and Angular 9,,57
+154,https://github.com/amacgregor/crimson_commerce.git,"An OpenSource Ecommerce platform on the Elixir/Phoenix stack, which aims to leverage the power of functional programming for ecommerce.","ecommerce,ecommerce-platform,elixir,phoenix",57
+155,https://github.com/sandermangel/awesome-pwa-ecommerce.git,A collection of awesome cases and technologies around PWA in Ecommerce,,57
+156,https://github.com/yvsser1/ecommerce-website.git,Full eCommerce Website with Admin Panel,,56
+157,https://github.com/lucaspulliese/next-ecommerce.git,A beautiful ecommerce made with Next.js,"ecommerce,react,nextjs,reactjs,cart,redux",56
+158,https://github.com/opentshirts/OpenTshirts.git,OpenTshirts is the free open source t-shirt design software for eCommerce.,,56
+159,https://github.com/justinhartman/complete-php7-ecom-website.git,🛒 An advanced and complete PHP 7 eCommerce website along with MySQL database and Admin interface.,"php7-framework,php7-ecommerce,ecommerce-website,ecommerce-platform,ecommerce,ecommerce-store,ecommerce-application,ecommerce-framework,ecommerce-shopping-solution,ecommerce-storefront,ecommerce-site,ecommerce2,php7-application,php-application,php-applications,php-app,php7",56
+160,https://github.com/ZonCon/Ecommerce-Retronight-Android.git,"Native Android Application for Ecommerce (online shopping). Features - Product Catalogue Builder, Product Categories & Product Items, Secure Shopping Cart, Payment Gateway, Comprehensive pricing, availability & taxation, Shipping Locations, Customer Accounts, Exhaustive Discounting & Couponing options, Email-based invoicing, Order Management & Tracking, Push notifications",,56
+161,https://github.com/ingenesis/shopp.git,An ecommerce development framework plugin for WordPress,,55
+162,https://github.com/doublethreedigital/simple-commerce.git,Simple Commerce - A simple ecommerce addon for Statamic 3.,"statamic-addon,statamic-v3,ecommerce,simple-commerce",55
+163,https://github.com/maryamaljanabi/bestbags-nodejs-ecommerce.git,"A responsive ecommerce website using Node js, Express js, and MongoDB","nodejs,mongoose,mongodb,expressjs,ecommerce-website,shopping-cart,online-store,stripe,bootstrap4",54
+164,https://github.com/javascript-dragons/ionic-ecommerce.git,"eCommerce client for IOS, Android and Windows Platform with Ionic","ionic,ionic5,angular,nestjs,nodejs,firebase,mysql,ecommerce,ecommerce-application,ecommerce-platform,ecommerce-framework",53
+165,https://github.com/Cezerin2/cezerin2-store.git,Cezerin Store - Store Front PWA App for Cezerin - React and Node.js based eCommerce platform.,"cezerin-store,cezerin,react",53
+166,https://github.com/toddheslin/gtm-ecommerce-platforms.git,"Guides, tools and code to make GTM play nicely on common eCommerce Platforms",,53
+167,https://github.com/lucamug/elm-ecommerce.git,"A simple eCommerce demo application in 2,500 lines of Elm code, all shrank into 40KB of JavaScript, including styling and icons.","elm,ecommerce",53
+168,https://github.com/nikhilagrwl07/ecommerce-flask-python.git,ecommerce-flask-python,"python,flask,webdevelopment,mysql,api,html,javascript",52
+169,https://github.com/kkosiba/ecommerce-backend.git,Django backend for eCommerce project,"django,ecommerce,ecommerce-website,backend,ecommerce-django,python",52
+170,https://github.com/rudreshmehta/Ecommerce-Firebase-app.git,"It is an ecommerce app made in for retail shops and their surrounding customers. After this app no one will hear like ""sorry mam/sir, product is not available"". In the backend it will get from more far store. This will give business to smaller business owner rather then ecommer like amazon and flipkart. This idea was brainstormed by me and with the help of my two team members we made this project. Technologies used in this project are android with java and database in firebase which is own by google.",,52
+171,https://github.com/Codebrahma/gatsby-ecommerce-pwa.git,A Sample Ecommerce PWA using Gatsby,"gatsby,ecommerce,pwa,progressive-web-app,react",51
+172,https://github.com/EcommEasy/EcommEasy.git,EcommEasy is React and Node.js based eCommerce platform. ,"hacktoberfest,hacktoberfest19,mongodb,ecommerce-application,react,shopping-cart,e-commerce,cart,reactjs,nodejs,nodejs-api",51
+173,https://github.com/square/orbit.git,"{""Square eCommerce's (formerly Weebly) Vue.js UI component library""}",,51
+174,https://github.com/sellfino/Statamify.git,FREE Shopify-like ecommerce addon for Statamic.,,50
+175,https://github.com/ipragmatechadmin/React-Ecommerce-Builder.git,Looking for a React-Redux based online store? Try our React Ecommerce Builder and go live in a few hours!,,50
+176,https://github.com/brockf/hero.git,Hero Framework: A powerful Content Management System (CMS) and eCommerce framework built on CodeIgniter.,,49
+177,https://github.com/hereshem/django-ecommerce.git,Django Ecommerce Project,,48
+178,https://github.com/bluebits-academy/mern-stack-ecommerce.git,MERN Stack eCommerce Course,,47
+179,https://github.com/ventacommerce/contracts.git,Venta eCommerce Contracts package,,47
+180,https://github.com/dahernan/gopherscraper.git,"Rest service to scrap websites with ""Items"" like ecommerce, news, videos, etc",,47
+181,https://github.com/SnowdogApps/magento2-alpaca-components.git,Components library of Alpaca design system crafted for ecommerce,,46
+182,https://github.com/freshcom/freshcom.git," Fast, scalable and extensible eCommerce backend in Elixir.","elixir,cqrs-es",46
+183,https://github.com/mageplaza/magento-2-sample-payment-method.git,"{""Magento 2 Create Payment Method proves that store admin has rights to generate as many payment methods as they need when your store is based on Magento 2 platform, an great era of ecommerce architecture. Depending on the customer's requirement, you probably plug it in your list of the existing payment method. The additional payment methods surely bring the diversity of customer choice when they proceed to checkout on your site. On the other's hands, multiple payment method is the great strategy to reach out the global marketplace.""}","payment-methods,gateway",46
+184,https://github.com/adrianspeyer/Piwik-for-Magento.git,This is an extension which allows you to get Ecommerce Magento data into your Piwik,,45
+185,https://github.com/ttaub/nodecommerce.git,"An full-featured, tested ecommerce API for node ",,45
+186,https://github.com/VineGlobal/AngularJS-eCommerce.git,"{""Super Lightweight eCommerce Platform -- Built with AngularJS and Google Sheets API v3.  The eCommerce platform's data is stored in Google Sheets. The product catalog, category management, and multi-lingual support are maintained using Google Sheets. Real-time data updates to the storefront.""}","angularjs,google-sheets,ecommerce,ecommerce-framework,product-catalog,digital-commerce,angularjs-ecommerce,php,landed-cost,duties,taxes,classification",45
+187,https://github.com/nawalgupta/angular2-shop.git,Angular2 +Full Stack Multi Tenant Shop - eCommerce Prototype using all latest technologies,,44
+188,https://github.com/melardev/GoGonicEcommerceApi.git,Ecommerce Rest API application built in Go with Gin Gonic + Gorm,"go,golang,go-gin,web,ecommerce,api,rest,gorm,orm,orm-framework,full-stack,fullstack,gin-gonic,e-commerce",44
+189,https://github.com/HotcakesCommerce/hotcakes-commerce-core.git,The core of the e-commerce part of the overall solution.  This is an ecommerce shopping cart solution built on top of the DNN (DotNetNuke) CMS. Anyone can do commerce online now!,"hotcakes-commerce,ecommerce,ecommerce-platform,ecommerce-application,ecommerce-framework,commerce,commerce-application,commerce-platform,dnn,dotnetnuke,dnncms,cms,hacktoberfest",44
+190,https://github.com/trungcaot/MsCoreOne.git,"MsCoreOne is a simple Ecommerce with using many technologies such as Asp.Net Core 3.1, Entity Framework Core, React 16.13 with modern Clean Architecture, Domain-Driven Design, CQRS, SOLID, Identity Server 4,  Blazor. It will focus on resolving the problems always see in the process to develop projects.","aspnetcore,entity-framework-core,swagger-ui,identityserver4,mediatr,fluentvalidation,xunit,reactjs,typescript,material-ui,swagger-api,docker,mvc,sql-server,redis,coverage,redis-server,vuejs,vuex",44
+191,https://github.com/cosmicjs/ecommerce-app.git,An Angular JS Ecommerce App Powered by Cosmic JS,"javascript,cosmicjs,stripe,angularjs",43
+192,https://github.com/cachrisman/ionic-ecommerce.git,Ionic Ecommerce Frontend,"ionic,frontend,ecommerce-store,spree,angular",42
+193,https://github.com/SaiUpadhyayula/SpringShoppingStore.git,This project is a sample eCommerce ShoppingStore application created  for learning purposes,,42
+194,https://github.com/ecomplus/storefront-starter.git,:shopping: :zap:  PWA & JAMstack (ISG) eCommerce quickstart with totally customizable yet upgradable template,"pwa,storefront,ecomplus,pwa-ecommerce,shop,shopping-cart,checkout,ecommerce-store,jamstack-site,e-commerce,isg,netlify-deployment",42
+195,https://github.com/juriansluiman/SlmGoogleAnalytics.git,"A ZF2 module to track pages, events and ecommerce transactions with Google Analytics",,42
+196,https://github.com/ChrisRoark/beagle_scraper.git,Scraper for categories and lists on ecommerce and other listing websites,,42
+197,https://github.com/odytrice/Dumia.git,ECommerce Demo Application written in F#,"fsharp,e-commerce,demo",41
+198,https://github.com/enghwa/ecommerce-shopfront-on-aws.git,"A high availability, API-first reference architecture for ecommerce using AWS services","aws-lambda,aws-fargate-application,aws-dynamodb,aws-aurora,aws-amplify,react,aws-amplify-react,aws,aws-api-gateway,typescript,bookstore,aws-route53,aws-acm-certificate,aws-cloudfront,storefront,retail,ecommerce-website,ecommerce-platform,microservices,headless-wordpress",41
+199,https://github.com/redooor/redminportal.git,A Laravel package as a backend administrating tool for Content Management and Ecommerce sites.,,41
+200,https://github.com/railsdog/spree-guides.git,Community Documentation for the Spree eCommerce Project,,40
+201,https://github.com/astorm/MagentoBetter404.git,"{""A programmer's 404 page for the Magento Ecommerce system.""}",,40
+202,https://github.com/chec/commercejs-nextjs-vercel.git,"Serverless eCommerce demo store built for the Jamstack. Built with Commerce.js, Next.js and can be one click deployed to Vercel. Includes product catalogue, categories, variants, cart, checkout, order confirmation and printable receipts. This is an open source project.","ecommerce,commercejs,chec,open-source,nextjs,vercel,one-click-deploy,serverless,jamstack,demo-store,commerce",40
+203,https://github.com/chenshuanj/mallmold.git,Mallmold Ecommerce System,,39
+204,https://github.com/sendmail2krrish/eCommerce-site-using-Node-Express-js.git,eCommerce site using Node Express js,"nodejs,expressjs,ecommerce,bootstrap4,mysql",39
+205,https://github.com/mikeesto/ecommerce-gatsby.git,🛒A Gatsby Ecommerce site with Stripe integration & Netlify Functions,"gatsby,stripe,netlify-functions,ecommerce",39
+206,https://github.com/mitchgavan/serverless-shop-tutorial.git,"A little serverless eCommerce web app built with React, Stripe and Netlify","react,beginner-friendly,stripe-elements,stripe,netlify,netlify-functions,nodejs",39
+207,https://github.com/opencart-ukraine/translate.git,OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.,,39
+208,https://github.com/inshopgroup/inshop-crm-ecommerce.git,"{""Inshop CRM / ERP ecommerce. It's powerful framework allows to build systems for business with different workflows. It has on board multi language support, clients management, projects & tasks, documents, simple accounting, inventory management, orders & invoice management, possibilities to integrate with third party software, REST API, and many other features.""}","vuejs,vuex,nuxt,rest-api,pwa,javascript,ecommerce,vuetify",39
+209,https://github.com/piyushpathak03/Recommendation-systems.git,"Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm  Theory: ML & DL Formulation, Prediction vs. Ranking, Similiarity, Biased vs. Unbiased Paradigms: Content-based, Collaborative filtering, Knowledge-based, Hybrid and Ensembles Data: Tabular, Images, Text (Sequences) Models: (Deep) Matrix Factorisation, Auto-Encoders, Wide & Deep, Rank-Learning, Sequence Modelling Methods: Explicit vs. implicit feedback, User-Item matrix, Embeddings, Convolution, Recurrent, Domain Signals: location, time, context, social, Process: Setup, Encode & Embed, Design, Train & Select, Serve & Scale, Measure, Test & Improve Tools: python-data-stack: numpy, pandas, scikit-learn, keras, spacy, implicit, lightfm Notes & Slides Basics: Deep Learning AI Conference 2019: WhiteBoard Notes | In-Class Notebooks Notebooks Movies - Movielens  01-Acquire 02-Augment 03-Refine 04-Transform 05-Evaluation 06-Model-Baseline 07-Feature-extractor 08-Model-Matrix-Factorization 09-Model-Matrix-Factorization-with-Bias 10-Model-MF-NNMF 11-Model-Deep-Matrix-Factorization 12-Model-Neural-Collaborative-Filtering 13-Model-Implicit-Matrix-Factorization 14-Features-Image 15-Features-NLP Ecommerce - YooChoose  01-Data-Preparation 02-Models News - Hackernews  Product - Groceries  Python Libraries Deep Recommender Libraries  Tensorrec - Built on Tensorflow Spotlight - Built on PyTorch TFranking - Built on TensorFlow (Learning to Rank) Matrix Factorisation Based Libraries  Implicit - Implicit Matrix Factorisation QMF - Implicit Matrix Factorisation Lightfm - For Hybrid Recommedations Surprise - Scikit-learn type api for traditional alogrithms Similarity Search Libraries  Annoy - Approximate Nearest Neighbour NMSLib - kNN methods FAISS - Similarity search and clustering Learning Resources Reference Slides Deep Learning in RecSys by Balázs Hidasi Lessons from Industry RecSys by Xavier Amatriain Architecting Recommendation Systems by James Kirk Recommendation Systems Overview by Raimon and Basilico Benchmarks MovieLens Benchmarks for Traditional Setup Microsoft Tutorial on Recommendation System at KDD 2019 Algorithms & Approaches Collaborative Filtering for Implicit Feedback Datasets Bayesian Personalised Ranking for Implicit Data Logistic Matrix Factorisation Neural Network Matrix Factorisation Neural Collaborative Filtering Variational Autoencoders for Collaborative Filtering Evaluations Evaluating Recommendation Systems",,39
+210,https://github.com/maikhoepfel/djangocms-oscar.git,Bridges the gap between django CMS and the Oscar ecommerce framework.,,38
+211,https://github.com/upsidelab/voicecommerce.git,JavaScript library for easily connecting ecommerce to Alexa and Google Assistant,"ecommerce,voice-assistant,nodejs",38
+212,https://github.com/ecomplus/storefront.git,"Modern and high performant headless eCommerce Storefront. PWA & JAMstack architecture ready for E-Com Plus APIs. Built with Vue.js, extensible through widgets and editable with Netlify CMS.","ecomplus,netlify-cms,headless-ecommerce,pwa-ecommerce,bootstrap4,webpack-boilerplate,micro-frontend,ejs-templates,monorepo,jamstack-storefront,ui-components,storefront,vue,e-commerce",38
+213,https://github.com/exendahal/ecommerceXF.git,Ecommerce design using Xamarin Forms,,37
+214,https://github.com/BitBagCommerce/SyliusMailChimpPlugin.git,Simple MailChimp integration with Sylius eCommerce framework.,"sylius,mailchimp,ecommerce,symfony,sylius-plugin",37
+215,https://github.com/reedbarger/ecommerce-react-graphql-stripe.git,"The starter files for an Ecommerce App made with React, GraphQL, Stripe, and Strapi",,37
+216,https://github.com/davepartner/laravel-qrcode-ecommerce.git,"This is a complete laravel project that handles qrcodes,  payments, api/microservices, and ecommerce","laravel,laravel-framework,laravel-package,laravel-application",37
+217,https://github.com/samuelklam/real-estate-ecommerce.git,"Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js","real-estate,ecommerce,angular,nodejs,express,sequelize,full-stack",37
+218,https://github.com/ujjavaldesai07/spring-boot-react-ecommerce-app.git,eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.,"reactjs,react-redux,react-router,redux-thunk,redux-form,heroku,spring-jpa,spring-rest,redis,stripe-api,oauth2,cloudinary,mysql,microservices,java,springboot2-x",37
+219,https://github.com/devandclick/Ecommerce.git,Créer un site Ecommerce avec DevAndClick,,36
+220,https://github.com/AliA1997/MERN_ECommerce_App.git,A MERN Ecommerce App ,,36
+221,https://github.com/bitpay/wordpress-ecommerce-plugin.git,BitPay bitcoin payment plugin for WP eCommerce,,36
+222,https://github.com/Zenithcoder/Multi-Vendor-E-commerce.git,A multi vendor eCommerce developed using Laravel Framework,,36
+223,https://github.com/Cezerin2/cezerin2-admin.git,Cezerin Dashboard - Store Dashboard PWA App for Cezerin - React and Node.js based eCommerce platform.,"cezerin,react,cezerin-admin",36
+224,https://github.com/conorc470/django-ecommerce-project.git,Fictional ECommerce site built from scratch using the Django framework. ,"django,django-framework,python,bootstrap,sqlite-database,stripe,ecommerce,heroku",35
+225,https://github.com/hammadshahir/php-mysql-ecommerce.git,PHP / MySQL based Ecommerce website code along with Paypal payment method.,,35
+226,https://github.com/GalloDaSballo/Next-Ecommerce-Backend.git,"Strapi Backend for Ecommerce, with NextJs Frontend, Magic for Authentication and Stripe for Payment processing",,35
+227,https://github.com/swipestripe/silverstripe-swipestripe.git,Ecommerce module for SilverStripe,,34
+228,https://github.com/heroku/fix.git,eCommerce integrated with Salesforce,,34
+229,https://github.com/IntuitDeveloper/SampleApp-ECommerce_Payments_SalesReceipt-Java.git,eCommerce Sample App using OAuth1.0,,34
+230,https://github.com/marklaygo/aspCart.git,basic ecommerce website | ASP.NET Core,"asp-net-core,asp-net-core-mvc,ecommerce,showcase,demo",34
+231,https://github.com/moltin/ios-sdk.git,Swift SDK for the Moltin eCommerce API,"moltin,ios,sdk,ecommerce,api,headless,commerce,swift",33
+232,https://github.com/Lezeper/spring-boot-ecommerce-dailyshop.git,This is a JEE eCommerce demo project based on Spring framework with annotation configuration.,,33
+233,https://github.com/jahyeha/product-matching-model.git,"🌠Product matching model for an eCommerce platform using FastText, Simple LSTM, Siamese MaLSTM",,33
+234,https://github.com/KickAssCommerce/KickAssCommerce.git,A small proof of concept for building and eCommerce system based on an underlying API system.,"ecommerce,ecommerce-framework,php7",33
+235,https://github.com/reactazteam/material-design-listing-ecommerce.git,"{""Material Listing eCommerce React Native UI Theme - helps you create the listing screen quickly and professionally. It's easy to customize and develop.""}","react-native,react,ecommerce,examples,material-design,material-ui,mobile",33
+236,https://github.com/jsappme/gridsome-shopify-starter.git,Ecommerce Headless PWA Gridsome Shopify Starter using TailwindCSS,,32
+237,https://github.com/jedavelino/ECOMMERCE.git,"An ecommerce web project using PHP, MySQL and Bootstrap by Curtis Parham.",,32
+238,https://github.com/rcosnita/eCommerce-RBAC.git,This project intends to provide a security system implementation fully compliant with RBAC standard. This security system is modeled starting from eCommerce applications security requirements.,,32
+239,https://github.com/vippsas/vipps-ecom-api.git,"Vipps eCommerce API, version 2",vipps,31
+240,https://github.com/hobrt-programming/hobrtEcom.git,hobrt eCommerce script ,"ecommerce,hobrt-ecommerce-script,database,codeigniter,php,ecommerce-platform,ecommerce-shopping-solution,ecommerce-website,ecommerce-store,cod,cash-on-delivery",31
+241,https://github.com/VinceG/yii-ecommerce.git,eCommerce platform built using Yii Framework. WIP.,,31
+242,https://github.com/netgen/ezplatform-sylius.git,eZ Platform and Sylius eCommerce integration,"sylius,cms,ecommerce,symfony,php,ezplatform",31
+243,https://github.com/codesundar/flutter-shopping-cart.git,A Shopping Cart (Ecommerce) using Flutter scoped_model,"flutter,flutter-examples,shopping-cart,flutter-shopping-cart,flutter-ecommerce,e-commerce",31
+244,https://github.com/TarikFojnica/react-moltin-ecommerce.git,[DEPRECIATED] React based Moltin API ecommerce implementation,"react,moltin,ecommerce",30
+245,https://github.com/ratracegrad/ecommerce-demo.git,"Demonstration of an ecommerce website using AngularJS, NodeJS, ExpressJS and MongoDB",,30
+246,https://github.com/scottlyttle/Web-Dev-Contract.git,"Sample agreement for fixed price web development work. This is intended for people operating as freelancers. Based on the popular contract by Dan Wong with a focus on web development and inclusion of sections about ecommerce, hacking, revisions and website launch.",,30
+247,https://github.com/completecoder/MyShop.git,My Shop eCommerce Demo,"mvc,csharp",29
+248,https://github.com/globalpayments/rxp-js.git,Global Payments Ecommerce JavaScript Library,,29
+249,https://github.com/gieart87/larashop.git,Ecommerce Application built on Laravel 6 Framework,,29
+250,https://github.com/piyalidas10/Ecommerce.git,Angular 6 Ecommerce Application POC,"angular6,typescript,javascript,html5,css3,sass,sass-framework,ecommerce-application,angular,nodejs,mongodb,mongoose,ecommerce,httpinterceptor,husky,mlab,highcharts,highchartjs",29
+251,https://github.com/commercelayer/contentful-commerce.git,"How to Build a Static Site Ecommerce with Jekyll, Contentful, and Commerce Layer",,29
+252,https://github.com/polavi-project/ecommerce.git,"A powerful and lightweight eCommerce platform using ReactJs, Graphql, PHP, and Mysql.","php,react,ecommerce-platform,graphql,ecommerce,ecommerce-store,ecommerce-website,reactjs,es6,dynamic-import,mysql,es6-modules,dynamic-imports,shoppingcart,shopping-site,symfony,promises,shoppingstore",29
+253,https://github.com/scottbedard/oc-shop-plugin.git,An ecommerce platform for October CMS.,"octobercms,shop,laravel,ecommerce,october",29
+254,https://github.com/e-commerce-sample/ecommerce-product-service.git,Product backend for Ecommerce.,,28
+255,https://github.com/fecshop/yii2_fecshop_doc.git,yii2 fecshop doc - shop ecommerce doc,,28
+256,https://github.com/schogini/jVoiD.git,"jVoiD - eXtensible Java, Spring MVC, Hibernate eCommerce Shopping Cart",,28
+257,https://github.com/VividWeb/vivid_store.git,Free eCommerce Add-on For Concrete5 5.7,,28
+258,https://github.com/arabnewscms/EcommerceCourse.git,Here The Code For Ecommerce with arabic Language In Youtube by phpanonymous,,28
+259,https://github.com/justalever/flanger.git,"{""A new series featuring an eCommerce based Let's Build using Ruby on Rails""}",,28
+260,https://github.com/zachary/awesome-ecommerce.git,Collect and develop Open Source or Free Projects for building ecommerce platform easy and fast and free,"ecommerce,wordpress,woocommerce,odoo,ebay,walmart,seo,react,shopping-cart,shopping,cart,checkout,payment,code,snippets,subscription,store,amazon",28
+261,https://github.com/GalloDaSballo/Next-Ecommerce-Frontend.git,"Ecommerce Frontend coded with NextJS, Uses Strapi as Backend, Magic for Authentication and Stripe for Payment processing",,28
+262,https://github.com/VamshiIITBHU14/2DUICollectionViewSwift.git,"A simple and elegant 2Dimensional UICollectionView which is most commonly used in ecommerce apps, music streaming apps etc. Easily customisable as per your requirements as it is designed keeping the superset requirement in mind. Developed in latest Swift syntax.","uicollectionview,uiscrollview,scrolling,dynamic-cells",28
+263,https://github.com/DataDog/ecommerce-workshop.git,Example eCommerce App for workshops and observability,,27
+264,https://github.com/w3bdesign/nuxtjs-woocommerce.git,NuxtJS (Vue) eCommerce site with WooCommerce backend,"nuxtjs,woocommerce,tailwindcss,apollo,graphql,javascript,wp-graphql,algolia",27
+265,https://github.com/PublicisSapient/accessible-ecommerce-demo.git,A truly accessible eCommerce experience brought to you by PublicisSapient,,27
+266,https://github.com/jboullianne/TC-ECommerceTemplate.git,"SwiftUI ECommerce Template, written for Trailing Closure Website",,27
+267,https://github.com/cybdom/real_furniture_shop.git,"This is a ""functional"" ecommerce app/server built in Flutter and Strapi (NodeJs)",,27
+268,https://github.com/dokterbob/satchmo.git,Satchmo is an ecommerce framework built on the Django framework. (BitBucket mirror),,27
+269,https://github.com/ashish-kamboj/Market-Mix-Modeling.git,Market Mix Modelling for an eCommerce firm to estimate the impact of various marketing levers on sales,"r,linear-regression,eda,data-visualization,predictive-modeling,elasticity,data-preparation,factor-analysis,market-mix-model,feature-engineering,feature-selection,marketing-levers,ecommerce-firm",27
+270,https://github.com/loq24/react-ecommerce.git,":moneybag: React eCommerce application with NextJS, Ant Design and WooCommerce","reactjs,nextjs,ant-design,typescript,wp-rest-api,woocommerce,shopping-cart,ecommerce-template",27
+271,https://github.com/reactazteam/material-design-collection-ecommerce.git,"{""Material Desgin for Collection Ecommerce - React Native UI Theme. It helps you create the collection screen quickly and professionally. It's easy to customize and develop.""}","material,material-ui,react-native,ecommerce,mobile,examples",27
+272,https://github.com/hicham-alsayed-ahmad/ecommerce-using-codeigniter-3.git,ecommerce using codeigniter 3,,26
+273,https://github.com/moebg/retailbox.git,🛍️RetailBox - eCommerce Recommender System using Machine Learning,"ecommerce,recommendation-system,recommender-system,recommendation-engine,recommender-systems,machine-learning,matrix-factorization,alternating-least-squares,stochastic-gradient-descent",26
+274,https://github.com/serranoarevalo/fira.git,eCommerce App React Native Codekit,,26
+275,https://github.com/swistak/spree-advanced-calculators.git,Advanced calculators for spree ecommerce,,26
+276,https://github.com/sanz/laravel7-ecommerce.git,Ecommerce website build with laravel for educational purpose..,,26
+277,https://github.com/nurbeknurjanov/yii2ecommerce.git,Sakuracommerce - ecommerce made on Yii2 php framework. This code is just for review. Not for install.,,26
+278,https://github.com/mcroteau/Greenfield.git," Greenfield is an Open Source Java/Groovy eCommerce platform focused on easy setup. Greenfield leverages the best in breeds within the Java echo-system including Groovy, Grails, Spring, Hibernate, Sitemesh, Gradle.","grails,groovy,j2ee,java,jvm,greenfield",26
+279,https://github.com/mercadopago/cart-wp-commerce.git,"{""Mercado Pago's Official WP-Ecommerce Plugin""}","wpecommerce,mercadopago,wordpress,cart,plugin",25
+280,https://github.com/stefandoorn/sylius-google-tag-manager-enhanced-ecommerce-plugin.git,Enhanced Ecommerce implementation through Google Tag Manager for Sylius eCommerce Platform,,25
+281,https://github.com/saramoohead/ecommerce_exercise.git,"eCommerce iOS example app, built in Swift",,25
+282,https://github.com/wushengran/UserBehaviorAnalysis.git,A scala maven project for user behavior analysis in eCommerce company with Flink.,,25
+283,https://github.com/swellstores/swell-js.git,JS library for building storefronts and checkouts with Swell ecommerce.,"isomorphic,ecommerce,checkout,storefront,jamstack",25
+284,https://github.com/14Muhammad/eco.git,eCommerce Website using PhP & MySQL,,24
+285,https://github.com/prakhar1989/JokaStore.git,Mini - Ecommerce Store in Python,,24
+286,https://github.com/webdevstar/React-Ecommerce.git,eCommerce platform.,"nodejs,react,javascript,redux,mongodb,shopping-cart,eccomerce,cms,pwa,spa",24
+287,https://github.com/bedimcode/responsive-ecommerce-website-sneakers.git,Responsive Ecommerce Website Using HTML CSS JavaScript,"ecommerce-website,responsive-ecommerce,responsive-web-design",24
+288,https://github.com/morozovalexander/symfocommerce.git,Symfony 3 framework based ecommerce (eshop) project,"symfony,ecommerce,eshop,cms,e-commerce,symfony3",24
+289,https://github.com/iamuzi/Nike-Store-Ui.git,A Nike store ecommerce UI made witn Flutter,,24
+290,https://github.com/netgen/NetgenEzSyliusBundle.git,Bundle supporting integration of eZ Platform & Sylius eCommerce,"ez-platform,ezpublish,sylius,connector",24
+291,https://github.com/AquilaCMS/AquilaCMS.git,"AquilaCMS is an Open Source and ""all in one"" ecommerce solution, self hosted, built using nodejs (MERN stack)","ecommerce,nodejs,mern-stack,cms,javascript,mongodb,mern,e-commerce,ecommerce-platform,ecommerce-api,shopping-site",24
+292,https://github.com/rahul-badgujar/EShopee-Flutter-eCommerce-App.git,"This is an eCommerce Application developed using FlutterFire (Flutter+Firebase). I have tried to collect all the basic features of any eCommerce App into this application (illustrations included in repository). It uses Flutter Framework for App Frontend and Backend, and Firebase as server maintaining Databases and Storage requirments of the app. It uses Firebase Authentification, Firebase Cloud Firestore, Firebase Storage. Try out the APK given in Installation section!!!","flutter,dart,firebase,flutterfire,android,ecommerce,ecommerce-application",24
+293,https://github.com/slince/shipment-tracking.git,":sparkles: A flexible shipment tracking library for multi carriers like DHL eCommerce, USPS, YanWen Express, Epacket, E包裹, E特快, 国际EMS, 快递100,递四方 etc.","shipment,tracking,shipment-tracker,parcel,epacket,dhl-ecommerce,china-post,usps",24
+294,https://github.com/aryanveturekar/Health-Care-Chat-Bot.git,"Through chatbots one can communicate with text or voice interface and get reply through artificial intelligence. Typically, a chat bot will communicate with a real person. Chat bots are used in applications such as ecommerce customer service, call centres and Internet gaming. Chatbots are programs built to automatically engage with received messages. Chatbots can be programmed to respond the same way each time, to respond differently to messages containing certain keywords and even to use machine learning to adapt their responses to fit the situation. A developing number of hospitals, nursing homes, and even private centres, presently utilize online Chatbots for human services on their sites. These bots connect with potential patients visiting the site, helping them discover specialists, booking their appointments, and getting them access to the correct treatment. In any case, the utilization of artificial intelligence in an industry where individuals’ lives could be in question, still starts misgivings in individuals. It brings up issues about whether the task mentioned above ought to be assigned to human staff. This healthcare chatbot system will help hospitals to provide healthcare support online 24 x 7, it answers deep as well as general questions. It also helps to generate leads and automatically delivers the information of leads to sales. By asking the questions in series it helps patients by guiding what exactly he/she is looking for. ",,24
+295,https://github.com/leantony/ecommerce.git,small laravel ecommerce project,"laravel,ecommerce",23
+296,https://github.com/mikehadlow/sutekishop.git,A .NET eCommerce application,,23
+297,https://github.com/Lakion/SyliusElasticSearchBundle.git,ElasticSearch integration with advanced filtering options for Sylius eCommerce applications.,,23
+298,https://github.com/panacloud-modern-global-apps/jamstack-ecommerce.git,Learn to Build Ecommerce Websites and Apps using JAMstack,"gatsby,stripe,snipcart,shopify,javascript,payment-gateways,ecommerce,2checkout",23
+299,https://github.com/angular-university/stripe-course.git,Stripe Payments In Practice - Build your own online ecommerce store and subscription membership website,"stripe,stripe-api,stripe-payments",23
+300,https://github.com/danielmalone/Android-Ecommerce-App.git,Android Studio repo for my YouTube series on building an Ecommerce app using Kotlin.,,23
+301,https://github.com/GraphStory/graph-kit-ruby.git,Graph Story Graph Kit for Ruby: A Neo4j-backed recommendation engine in a Spree eCommerce store built on Rails,,23
+302,https://github.com/aliostad/avalon.git,An Implementation of Raft in .NET for prime-time - along with an eCommerce availability State Machine,,23
+303,https://github.com/quintuslabs/fashion-cube.git,React ecommerce  website  ,"react,reactjs,redux,redux-thunk,fashion,fashion-cube,e-commerce,e-commerce-project,shopping-cart,shopping,shopping-cart-solution,react-ecommerce,ecommerce-react,react-redux-ecommerce",22
+304,https://github.com/michaeljyeates/eosshop.git,Prototype ecommerce contract for EOS,,22
+305,https://github.com/INWTlab/ecom-analytics.git,Shiny-Dashboard show case for ecommerce analytics,,22
+306,https://github.com/adrianomarquess/ecommerce.git,Learning React Native with an example of ecommerce project,,22
+307,https://github.com/CartQL/gatsby-cartql-starter.git,CartQL powered Gatsby ecommerce starter,,22
+308,https://github.com/Sparsh-Bansal/Ecommerce-Website.git,"Ecommerce Website using Django in backend  and HTML,CSS,JS in frontend","django,html,css,bootstarp,javascript,python3",22
+309,https://github.com/FriendsOfShopware/FroshProductCompare.git,A Plugin for Shopware 6 - Ecommerce Platform,"shopware,shopware-plugin,shopware6,shopware-plugins,shopware6-plugin",22
+310,https://github.com/InaneCoding/Piwik-OpenCart-Ecommerce-VQMod.git,A repository for the Piwik Ecommerce mod for Open Cart using VQmod.,,22
+311,https://github.com/chec/commercejs-vuejs-boilerplate.git,"Commerce.js boilerplate, built with Vue.js, for fast eCommerce development and design","vue,boilerplate,commercejs,ecommerce,sdk,javascript,html",22
+312,https://github.com/merikbest/ecommerce-spring-reactjs.git,"🌺 eCommerce online shop . Using Java, Spring Boot, JWT, OAuth2.0, React.js, Redux, Bootstrap, REST API, GraphQL","java,spring,spring-boot,reactjs,jwt,shopping,shopping-cart,ecommerce,cart,ecommerce-application,spring-mvc,spring-security,javascript,typescript,redux,graphql,postgresql,spring-test,onlineshop,oauth2",22
+313,https://github.com/cagartner/bagisto-correios.git,Método de entrega Correios para o Laravel eCommerce,"laravel,bagisto,php,correios,bagisto-correios,ecommerce-shipping-solution",22
+314,https://github.com/DevMountain/ecommerce.git,eCommerce project for learning MongoDB/mongoose,,21
+315,https://github.com/givanz/electro-bootstrap4.git,Electro Bootsrap 4 ecommerce template,"bootstrap,bootstrap-4,bootstrap-template,scss,ecommerce,owl-carousel",21
+316,https://github.com/rahulkadamid/Ecommerce.git,Ecommerce web application using Angular | Node.js | Express.js | MongoDB   ,"angular,expressjs,nodejs,mongodb,mongoose,aws-s3",21
+317,https://github.com/haidarvm/shop.git,"Simple ecommerce online shop base using PHP, codeigniter, bootstrap",,21
+318,https://github.com/okfish/django-oscar-shipping.git,API-based shipping app for the Oscar Ecommerce project. ,,21
+319,https://github.com/SnowdogApps/alpaca-ui.git,Components library of Alpaca design system crafted for ecommerce,hacktoberfest,21
+320,https://github.com/picocodes/hubaga.git,A WordPress eCommerce platform for developers,,21
+321,https://github.com/aschmelyun/laravel-vue-stripe-cashier.git,"A very basic ecommerce app built with Laravel, Vue, and Cashier (Stripe)",,21
+322,https://github.com/moltin/gatsby-source-moltin.git,🚀 Gatsby source plugin for building Elastic Path Commerce Cloud powered eCommerce websites,"moltin,gatsby,gatsby-plugin,gatsby-source-plugin",21
+323,https://github.com/cactusoft/kartris.git,"A powerful responsive ecommerce system capable of running sites with well over a million products, built with ASP.NET, SQL Server in Visual Basic / Web Forms","asp-net,web-form,dotnet,ecommerce,ecommerce-platform,sql-server,iis,responsive-design,foundation,visualbasic",21
+324,https://github.com/magentech/free-magento2-theme.git,"SM MageTheme is a Free Magento 2 Theme by Magentech. That is ideal for any online stores, especially for digital store, hi-tech store, watch store, clothing store and accessories store or mega store with multi-categories. This eCommerce Magento 2 theme comes with a flexible layout with unlimited color schemes. Try now: https://www.magentech.com/magento/free-magento-themes/item/965-sm-magetheme-responsive-multipurpose-free-magento-2-theme","magento2,magetheme,magento-template,magento2-template,magento2-theme,free-magento2-theme,free-theme,free-magento2-templates,clothing-store,accessories-store,digital-store,sm-magetheme,unlimited-color-schemes,tech-store,watch-store",21
+325,https://github.com/Vantiv/litle-sdk-for-php.git,Vantiv eCommerce SDK for PHP,,20
+326,https://github.com/vespolina/core.git,Common entities for ecommerce,,20
+327,https://github.com/owen2345/camaleon-ecommerce.git,This is an ecommerce plugin for CAMALEON CMS,,20
+328,https://github.com/nemanjam/eshop-page.git,Ecommerce website with React Hooks and Redux.,"react,ecommerce,hooks,redux,redux-thunk,bootstrap",20
+329,https://github.com/shahmirfaisal/ecommerce-frontend.git,"{""The frontend of the ecommerce app. Here's the backend: https://github.com/shahmirfaisal/ecommerce-backend""}",,20
+330,https://github.com/kosaikham/ecommerce-app-design.git,A simple ecommerce app layout design built with React Native [Expo],,20
+331,https://github.com/tryshopr/shopr.git,Shopr - A fully featured ecommerce engine for Rails 5.2,,20
+332,https://github.com/cemg/laravel-eticaret.git,Ecommerce Project From Scratch With Laravel (Laravel ile Sıfırdan Eticaret Projesi),,20
+333,https://github.com/shopifypartners/City-Ecommerce-UI-Kit.git,City is our free ecommerce UI kit based on a fictional fashion apparel shop. The UI kit includes all of the main elements you need to quickly start prototyping Shopify store designs for your clients.,,20
+334,https://github.com/ParasGarg/Online-Grocery-Store.git,"Online Grocery Store is an eCommerce based web application for our Web Programming project. We had developed a sample in which user can search and find necessary information about any grocery item, can proceed to checkout to buy products. User can create an account, update personal information, can check its past activities, orders and transactions, and cart items.","web-application,web-programming,javascript,html-css,project,stevens-institute-of-technology,bootstrap,node-js,mongodb,visual-studio-code",20
+335,https://github.com/ctmil/payment_mercadopago.git,MercadoPago payment module for Odoo Ecommerce,"odoo,python,mercadopago",19
+336,https://github.com/Rizwan17/mystore-front-end.git,Ecommerce web app front end using React,,19
+337,https://github.com/gieart87/laravel7-larashop.git,Ecommerce Application built on Laravel 7 Framework,,19
+338,https://github.com/davidduffett/Dinheiro.git,ASP.NET MVC Helpers for ecommerce applications,,19
+339,https://github.com/theuxhub/eCommerce.git,A eCommerce website developed by @niteshkumarniranjan with Flask,"flask,ecommerce,sqlite,responsive-design",19
+340,https://github.com/Sylius/SyliusPromotionBundle.git,"[READ-ONLY] Flexible promotions system - time promotions, coupons, custom actions, rules for your Symfony2 ecommerce app.",,19
+341,https://github.com/Amorem/FlutterStripe.git,"Flutter Ecommerce, using Strapi for backend and Stripe for transactions","flutter,stripe,strapi",19
+342,https://github.com/git-akshat/mini-project.git,An android eCommerce application for students through which they can buy and sell used goods .,"android,firebase,javamail-api,java,recyclerview-adapter,fragments,email-sender,forget-password,email-verification,ecommerce,buy,sell,navigation-drawer,juggler,shop,signup,olx,buying",19
+343,https://github.com/kamalo22/react-redux-hooks-ecommerce.git,Ecommerce project using ReactJs React Hooks and Redux,"react,reactjs,redux,hooks,react-router-dom,react-icons,redux-thunk,redux-persist,react-slick,sass,bootstrap-grid,axios,react-loader-spinner",19
+344,https://github.com/shopyo/ShopCube.git,"Open Ecommerce solution for Shops. Complete with cart and wishlist. Powered by Shopyo, a Python web framework","e-commerce,ecommerce,point-of-sales,inventory,point-of-sale",19
+345,https://github.com/e-commerce-sample/ecommerce-devops.git,Infrastructure as Code for Ecommerce.,,18
+346,https://github.com/kinguinltdhk/Kinguin-eCommerce-API.git,Kinguin eCommerce API,,18
+347,https://github.com/jelastic-jps/magento.git,Collection of pre-packaged solutions with Magento eCommerce software,"magento,magento-cluster,e-commerce,php,magento-collection,magento-1,magento-2,magento-migration,clustering,cluster,auto-scaling,scalable-applications,database-replication,docker,magento-addon,magento-1-cluster,magento-2-cluster",18
+348,https://github.com/jonstuebe/product-scraper.git,Node.js based scraper for ecommerce sites,,18
+349,https://github.com/vendrhub/vendr-demo-store.git,"Demo store for Vendr, the eCommerce solution for Umbraco v8+ ","umbraco,umbraco-v8,ecommerce",18
+350,https://github.com/developerslearnit/ionic3-firebase-shopping-cart.git,This repository is part of an ionic tutorial that explains how to create ionic 3 ecommerce with firebase,"csharp,typescript,ionic3,ionic-framework,javascript,scss",18
+351,https://github.com/ytbryan/summerboot.git,A full-stack Spring Boot skeleton project focusing on ecommerce & blog functionalities. Java ☕️,"database,spring,springboot,mvc,social,stripe,jpa,heroku,java,full-stack,spring-boot-skeleton,ecommerce",18
+352,https://github.com/commercelayer/contentful-gatsby-demo.git,"JAMstack ecommerce demo built with Contentful, Gatsby, and Commerce Layer.",,18
+353,https://github.com/parikshit223933/AgriMart.git,Agrimart is an ECommerce Website completely based on MERN STACK.,"ecommerce-website,reactjs,redux,bootstrap,nginx,morgan,rfs,oauth2-client,mongodb,mongoose,crypto,nodemailer,passportjs,passport-jwt,passport-local,multer,stripe-payments,expressjs,jquery",18
+354,https://github.com/nystudio107/craft-instantanalytics.git,Instant Analytics brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce.,"craftcms,craft-plugin,craft3,google-measurement-protocol,google-analytics,craft-commerce",18
+355,https://github.com/seotoaster-team/seotoaster.git,The most advanced SEO CMS right out of the box: no plug in required. A very intuitive Ecommerce system with a fully integrated shopping cart & B2B quote engine configurable in 60 seconds. Paypal Standard & Paypal Pro ready.,,18
+356,https://github.com/Vantiv/litle-sdk-for-java.git,Vantiv eCommerce SDK For Java,,17
+357,https://github.com/luuvansinh/ecommerce.git,Ecommerce app react native,"react-native,ecommerce",17
+358,https://github.com/biplobice/CakeShop.git,eCommerce website with cakephp,"cakephp,ecommerce,store,shop",17
+359,https://github.com/quenktechnologies/estorejs.git,ECommerce with nodejs and MongoDB.,,17
+360,https://github.com/Won-Games/api.git,Strapi API to our Ecommerce,hacktoberfest,17
+361,https://github.com/thelinuxkid/pyusps.git,Python bindings for the USPS Ecommerce APIs,,17
+362,https://github.com/chetans9/codeigniter-ecommerce.git,A Simple eCommerce solution built on codeigniter. ,"ecommerce,ecommerce-website,codeigniter,php,mysql,shopping-cart,cart",17
+363,https://github.com/ninesystems/Virtual-tryon.git,A virtual tryon(mirror) script for optical ecommerce - Opensource,"virtual-tryon,vitual-mirror,tryon,webbased-tryon,virtual-tryon-ecommerce,thesoftsol,opticians,opensource,script,autoeye-detection",17
+364,https://github.com/MyCashflow/MyCashflow-Default-Theme.git,Default theme that ships with MyCashflow eCommerce software,,17
+365,https://github.com/foomo/shop.git,generic ecommerce core framework,,17
+366,https://github.com/Hellenic/universal-marketcloud-storefront.git,Boilerplate for a universal eCommerce storefront for Marketcloud platform,,17
+367,https://github.com/vuestorefront/ecommerce-integration-boilerplate.git,Boilerplate for creating new integrations for Vue Storefront Next - open-source frontend for any eCommerce,"vue-storefront,pwa,headless,vue,ecommerce,frontend,storefront,mobile,e-commerce,nuxt,vue3,open-source,javascript,typescript",17
+368,https://github.com/hackstarsj/django-ecommerce-project-amazon-clone.git,"Complete Django Ecommerce Project Course Tutorial Based on Amazon Clone ""SuperCodersStore"" ","django,ecommerce,ecommerce-store,ecommerce-site,rest-framework,django-rest-framework,django-application,django-project,django-ecommerce,project,python-project,python-ecommerce",17
+369,https://github.com/AspxCommerce/AspxCommerce2.7.git,"AspxCommerce is an open source ecommerce solution that offers rich features to build attractive, secure and fully functional online stores in minutes. Built over the rigorous foundation of SageFrame, AspxCommerce lets you create a customizable storefront; manage products through categories and subcategories, accept payments through credit cards and ship the ordered products to the customers. AspxCommerce has everything set up for you, so that you can focus on building your fully functional online store right away. ",,17
+370,https://github.com/panigrc/SimpleCiShop.git,A simple ecommerce system based on codeigniter,,16
+371,https://github.com/devRobots/spring-boot-ecommerce.git,eCommerce Application for Spring Boot,,16
+372,https://github.com/matheusgontijo/easy-shipping-rules.git,Flexibility in Magento eCommerce Shipping through Admin area.,,16
+373,https://github.com/dbashyal/Magento-ecommerce-Shell-Scripts.git,Repo for various Magento ecommerce Shell Scripts,,16
+374,https://github.com/Peeyush14198/ECO-Ecommerce-.git,An ecommerce shoping app made with flutter ,,16
+375,https://github.com/vkscool/AmazonCategoriesList.git,All the category and subcategories of amazon for the eCommerce project ,,16
+376,https://github.com/if-true/make-your-own-dropshipping-software.git,Make your own Dropshipping and Ecommerce Tools,,16
+377,https://github.com/sunjava11/Ecommerce-CodeIgniter.git,"An ecommerce CMS, very simple to use. Best for online shopping sites","codeigniter,codeigniter3,ecommerce-application,cms",16
+378,https://github.com/navjotdhanawat/react-redux-express-cart.git,Ecommerce products listing and add to cart functionality using react redux with express api,"react,redux,cart,addtocart,debounce,underscore,cart-functionality,ecommerce",16
+379,https://github.com/sahaktadevosyan89/Online-Shop-Codeigniter.git,"Ecommerce / online shop using PHP 5.5, Codeigniter 3.0, Bootstrap 3.3.5, JQuery 2.1.4, Font Awesome 4.4.0 and some Bootstrap Template",,16
+380,https://github.com/ahamedali95/BarterOnly.git,An ecommerce platform to buy or exchange items at your convenience,"reactjs,redux,react-dropzone,jwt-auth,localstorage,cors,ruby-on-rails,bcrypt,json-api,serializer,fetch-api,es6-javascript,semantic-ui-react,jsx,css",16
+381,https://github.com/topcoder20022/reaction.git,"Reaction Commerce is a reactive, open source ecommerce platform built with JavaScript, Node.js, MongoDB, Meteor, CoffeeScript, Bootstrap, and Docker.",,16
+382,https://github.com/mraduldubey/django-theatre-ticket-booking.git,Based on mD-ecommerce webapp template.,"django,theatre",15
+383,https://github.com/Affirm/Magento_Affirm.git,"{""Affirm's extension for the Magento eCommerce Platform""}",,15
+384,https://github.com/kkosiba/ecommerce-frontend.git,React+Redux frontend for eCommerce project,"react,reactjs,redux,redux-form,bootstrap,frontend,javascript",15
+385,https://github.com/jlmadurga/django-oscar-telegram-bot.git,Telegram Bot for Django-Oscar ecommerce.,,15
+386,https://github.com/leaphly/leaphly-sandbox.git,"Symfony ecommerce, showcase with Mongo ODM and ORM.",,15
+387,https://github.com/stefandoorn/google-tag-manager-plugin.git,Google Tag Manager plugin for Sylius eCommerce Platform,,15
+388,https://github.com/ashraf-kabir/travel-agency.git,Travel Management Website with PHP & mysql with full ecommerce,"php,mysql,travel-agency,travel,travel-blog,ecommerce,ecommerce-platform",15
+389,https://github.com/veryacademy/django-ecommerce-project.git,The Django-Ecommerce is an open-source project initiative and tutorial series built with Python and the Django Framework.,"django,python,pytest,selenium,ecommerce",15
+390,https://github.com/SwatiModi/e-commerce-web-scraper.git,Scraping details of products from ecommerce websites using python,"amazon,ecommerce-web-scraper,ecommerce,data-scraping,python,selenium,flipkart,alibaba",15
+391,https://github.com/gdarko/woocommerce-polylang-integration.git,Simple plugin that integrates the popular ecommerce plugin for Wordpress called Woocommerce with Polylang plugin for Wordpress,,15
+392,https://github.com/sherifabdlnaby/Valley-eCommerce-prototype.git,"An eCommerce website prototype with a layered architecture and MVC using Spring Boot v1.2, Spring Security, Hibernate, and Apache Lucene for full-text searching. for front-end: Bootstrap, Typeahead.js and Graph.js using Thymeleaf as RE.","spring-boot,spring-mvc,lucene,spring-security",15
+393,https://github.com/timothyjacque/oshop.git,"Online organic eCommerce website using Angular and Bootstrap. Includes sliding carousel, font awesome, bootstrap tabs, dark overlay of images, angular material cards, angular material tables, sorting tables, filtering items, adding items to shopping cart, real-time updates across pages, order management, product management, forms for adding new products, auth guards for admins and users, order summaries, shipping information collection, and more.","angular,bootstrap,ecommerce,firebase,datatables,typescript,angularmaterial,services,authguard,authentication,cards,carousel,productmanagement,ordermanagement",15
+394,https://github.com/NamasteProgramming/X-Store.git,An ecommerce website with nodejs,,14
+395,https://github.com/hemanshuEng/react-ecommerce.git,Ecommerce site using React,"react,ecommerce-site,context-api,javascript",14
+396,https://github.com/VirtoCommerce/vc-module-core.git,Core module containing common eCommerce domain model and base abstractions,,14
+397,https://github.com/codenamev/spree-core-seo.git,SEO enhancements to the Spree ecommerce system,,14
+398,https://github.com/melardev/FlaskApiEcommerce.git,Python Ecommerce Api application built with Flask + Flask SQlAlchemy,"flask,api,python,django,ecommerce,e-commerce,full-stack,fullstack,shopping-cart,flask-sqlalchemy,sqlalchemy,orm,orm-framework,web,crud,pagination",14
+399,https://github.com/zinmyoswe/Laravel-Ecommerce.git,"Laravel Ecommerce website built with Laravel 6, and VueJS","laravel,laravel6,laravel-ecommerce,vue,voyager,stripe,paypal,algolia,paypal-checkout",14
+400,https://github.com/neardiop/Android-app-eCommerce.git,"Ecommerce App Android Studio,Java,Firebase",,14
+401,https://github.com/T-PHP/Bootstrap-4-Ecommerce-Theme.git,Simple Ecommerce Theme for Bootstrap 4,"bootstrap4,bootstrap-4,bootstrap-theme,ecommerce-theme,bootstrap-template",14
+402,https://github.com/eirenauts/saleor-k8s.git,Deploy saleor ecommerce platform on kubernetes,,14
+403,https://github.com/melhamin/grocery_shop_flutter.git,Grocery shop eCommerce app UI built with Flutter.,"flutter,flutter-ui,flutter-examples,flutter-app,android-app,ios-app",14
+404,https://github.com/Savinvadim1312/AmazonClone.git,React Native eCommerce website based on Amazon Design,,14
+405,https://github.com/laposa/onyx.git,Web content management system and built in eCommerce,,14
+406,https://github.com/mehrdaddolatkhah/Golang-Ecommerce-backend.git,Ecommerce backend,,14
+407,https://github.com/valentindev89/Shopmost.git,"Node.js and React, Mongodb based eCommerce platform",,14
+408,https://github.com/deebov/era-ecommerce-react.git,A modern ecommerce app concept made with React.js and Redux,,14
+409,https://github.com/vespolina/VespolinaWorkflowBundle.git,WorkflowBundle for Vespolina  (Ecommerce for Symfony2),,14
+410,https://github.com/devdbrandy/restful-ecommerce.git,A simple minimalistic ecommerce REST API built with Node.js and Express.js,,14
+411,https://github.com/webkul-amit/react-ecommerce.git,localstorage app using react with ecommerce in use,,14
+412,https://github.com/markheath/durable-functions-ecommerce-sample.git,Sample Durable Functions pipeline for processing an ecommerce order,,14
+413,https://github.com/martijnvdbrug/shops.git,Multi vendor ecommerce,,14
+414,https://github.com/netgen-layouts/layouts-sylius.git,Netgen Layouts & Sylius eCommerce integration,"php,symfony,layouts,sylius",14
+415,https://github.com/sebringj/parkplacecommerce.git,"open source eCommerce B2B and B2C built with node.js, redis and mongodb",,14
+416,https://github.com/daniloab/ecommerce-op.git,ecommerce monorepo implementing openpix APIs,,14
+417,https://github.com/plainlystated/small_store.git,Generate an (HTML + JS) eCommerce site,,14
+418,https://github.com/rovetz/spree-theme-envirashop.git,Spree port of Wordpress eCommerce theme.,,14
+419,https://github.com/chec/commercejs-reactjs-vuejs-demo-store.git,"Headless eCommerce demo store using Commerce.js SDK. Built using React.js (Vue.js branch available) illustrating 100% custom storefront, cart, checkout and order confirmation views.","commercejs,react,vue,sdk,ecommerce,checkout,chec",14
+420,https://github.com/stordahl/steel.git,Steel is a tool kit for headless ecommerce utilizing Snipcart & Sanity,"steel-ecosystem,snipcart,sanity",14
+421,https://github.com/ClicShopping/ClicShopping_V3.git,"ClicShopping(tm) is an Ecommerce OpenSource and powerfull Solution e-commerce B2B / B2C / B2B-B2C. The solution is based on a modern, responsive design that will allow you to have a great website on all mobile device, desktop but also perform at speed ! Easy to install in just some clicks on a server or on your computer.","e-commerce,ecommerce,ecommerce-platform,e-commerce-platform,online-shop,online-store,b2b,b2c,ckeditor,gdpr,shopping-cart,shop,b2b-b2c,bootstrap,mariadb,catalog,payment,shipping,cart,multi-language",14
+422,https://github.com/ramms44/Nearby-Shop-E-commerce-Android-App.git,ecommerce android app,,13
+423,https://github.com/dexbarrett/laravel-ecomm.git,Ecommerce app in Laravel 4.1,,13
+424,https://github.com/lexity/platform.git,"{""Lexity's App Platform for Ecommerce""}",,13
+425,https://github.com/sadiqdon/cycommerce.git,An ecommerce application built with yii framework,,13
+426,https://github.com/dabit3/jamstack-ecommerce.git,Fork of JAMstack ECommerce for YC blog,,13
+427,https://github.com/imranrbx/l5ecom.git,Laravel 5 ecommerce Youtube for Project Based Tutorial,,13
+428,https://github.com/YeaminRaat/lara3.git,Ecommerce Website With Laravel & Vue Js,,13
+429,https://github.com/ngx-kit/alma.git,eCommerce Angular demo based on ngx-kit,,13
+430,https://github.com/antonherutomo/react-ecommerce.git,ecommerce project for CSH4A3 2019/2020,,13
+431,https://github.com/mohammadou1/nextstore.git,An eCommerce platform built with NextJS,,13
+432,https://github.com/javedbaloch4/laravel-ecommerce.git,Laravel based eCommerce application along with Admin panel,"laravel,ecommerce,admin-panel,shopping-cart",13
+433,https://github.com/feegleweb/oc-octoshoplite-plugin.git,"Simplified version of Octoshop, the eCommerce plugin for OctoberCMS",,13
+434,https://github.com/arjunyonjan/laravel-e-commerce-book-store.git,project files of laravel ecommerce book store youtube series,,13
+435,https://github.com/tortuvshin/bella.git,Laravel ecommerce,"ecommerce,laravel,angular",13
+436,https://github.com/sanketmaru/ecommerce.git,"ecommerce site using node js ( express js , mongoose )","nodejs,express,angularjs",13
+437,https://github.com/gustavomonjardim/ecommerce.git,"ECommerce application built with Gatsby, React, Tailwind, Netlify and Netlify CMS","gatsbyjs,react,tailwindcss,netlify,netlify-cms",13
+438,https://github.com/drivelous/ecmrc.git,This is the public facing code for my eCommerce portfolio project hosted at https://trillbill.herokuapp.com/,,13
+439,https://github.com/commercelayer/sanity-template-commercelayer.git,"Sanity Ecommerce starter built with Next.js, Commerce Layer, and deployed to Netlify.",,13
+440,https://github.com/stephenmoloney/saleor-helm.git,Helm charts for a kubernetes deployment of the saleor ecommerce platform ,"helm,charts,kubernetes,saleor,django,ecommerce,graphql",13
+441,https://github.com/diglin/Diglin_GoogleAnalytics.git,"Google Analytics for Magento 1 supporting both Universal Analytics and the classic, add improvements regarding ecommerce and remarketing tags","magento,magento-1,magento1,magento-module",13
+442,https://github.com/bgadrian/pseudoservice.git,"A (micro) service that generates large amounts of fake data (users, json, yaml, ecommerce ...)","golang,go,fake,faker,json,yaml,microservice",13
+443,https://github.com/codeadapter/eMusicStore_eCommerce_Website.git,"This is an eCommerce Website project developed using IntelliJ IDEA IDE with technologies like Java/J2EE Spring MVC,Servlets,JSP, Hibernate,Oracle,HTML,CSS,JavaScript,AngularJs, RESTful services.It has a Product list page,REST Cart function with AngularJS,Admin role to Add,Update and delete products and much more.",,13
+444,https://github.com/ColorlibHQ/Fashe.git,Free Shopify ecommerce theme ,"shopify,shopify-theme",12
+445,https://github.com/ColorlibHQ/tyche.git,Tyche - WooCommerce powered eCommerce theme,,12
+446,https://github.com/Vantiv/litle-sdk-for-ruby.git,A Ruby SDK for interfacing with Vantiv eCommerce payments platform,,12
+447,https://github.com/right7ctrl/flutter-ecommerce-sample.git,flutter-ecommerce-sample,"flutter,ecommerce,app,ui",12
+448,https://github.com/GirlScriptSummerOfCode/Upay.git,An ecommerce website built using modern frontend technologies,"upay,education,youth,opportunities",12
+449,https://github.com/BurdaPraha/oc_gtm_ecommerce.git,GTM ecommerce tracking,"opencart,vqmod,ecommerce,google-tag-manager,ecommerce-tracking,czech-republic",12
+450,https://github.com/zynksoftware/samples.git,"Examples of XML Feeds, Code samples for Bespoke Ecommerce integrations",asp,12
+451,https://github.com/Eonic/ProteanCMS.git,"Website Content Management, Membership & eCommerce Platform",,12
+452,https://github.com/melardev/ApiEcomMongooseExpress.git,Ecommerce API app implemented in NodeJs with Mongoose and Express,"node,nodejs,node-js,mongoose,express,npm,expressjs,fullstack,full-stack,orm,orm-framework,ecommerce,e-commerce,shopping,shopping-cart",12
+453,https://github.com/vespolina/VespolinaStoreBundle.git,Webshop frontend for Vespolina (Ecommerce for Symfony2),,12
+454,https://github.com/melardev/ApiEcomSequelizeExpress.git,Ecommerce API app implemented with Express js and Sequelize,"ecommerce,e-commerce,api,sequelize,express,expressjs,express-js,orm,orm-framework,sequelize-cli,node,nodejs,node-js,fullstack,full-stack,npm",12
+455,https://github.com/solidusio-contrib/solidus_importer.git,Solidus importer extension to migrate data from other eCommerce systems,"solidus,ruby,rails,ecommerce",12
+456,https://github.com/SayujSujeev/Drink-Order-App-UI.git,Drink order  app UI using flutter - eCommerce App for Drinks,"flutter,flutter-apps,flutterui,flutteruidesign,flutter-app,uidesign,ui,uiux",12
+457,https://github.com/JoeNg93/Loika.git,"Ecommerce/Subscription-based mobile app with React Native, GraphQL, Apollo, Prisma",,12
+458,https://github.com/sujon0825/E-Commerce-Website-Using-PHP.git,"An ecommerce web project using Object Oriented PHP, MySQL and Bootstrap",,12
+459,https://github.com/mvillarrealb/order-management-system.git,"Ecommerce demo microservice platform, a proof of concept for microservices architecture","kafka,microservices,proof-of-concept,microservices-architecture",12
+460,https://github.com/bubbleupdev/BubbleUp_Gtmdatalayer.git,Adds GTM DataLayer variables and events to Magento for Enhanced eCommerce tracking,,12
+461,https://github.com/shopbay/shopbay.org.git,Open Source Multi-Tenant Ecommerce platform for B2B and SaaS solutions.,"e-commerce-platform,php7,lamp-stack,yii1,yii2",12
+462,https://github.com/tarunyadav1/Ecommerce-store-React-Redux-Firebase-StripePayment.git,Ecommerce website build using React and Firebase with stripe as payment gateway.,,12
+463,https://github.com/tapos007/eCommerce-node-js.git,ExpressJS MongoDB NodeJS Ecommerce Development,"node-js,expressjs,ecommerce,express-js,shopping-cart",12
+464,https://github.com/shakilahmmeed/mern-commerce.git,Headless CMS solution for your next eCommerce app,,12
+465,https://github.com/SrikrushnaP/angular-ecommerce.git,Ecommerce portal where some of the user(Seller) who want to sell the product and services using this and some of the user(Buyer/End User) who needs the product they can buy from the user(Seller),,12
+466,https://github.com/jjn1056/bluechild.git,"Example site using Perl Catalyst, DBIC, Moose and related technologies.  Has some networking and ecommerce features.",,12
+467,https://github.com/moqui/PopRestStore.git,REST API for eCommerce and an in-browser eCommerce application built with Vue JS,,11
+468,https://github.com/Moneris/eCommerce-Unified-API-dotNet.git,eCommerce-Unified-API-dotNet,,11
+469,https://github.com/kaloraat/react-ecommerce-front.git,React redux ecommerce frontend,,11
+470,https://github.com/mrcflorian/ecommerce-app-template-ios.git,An ecommerce iOS app template written in Swift 3,,11
+471,https://github.com/legale/rapida.git,Rapida ecommerce CMS SimplaCMS fork,,11
+472,https://github.com/MediaSapiens/flamaster.git,ecommerce framework with flask,,11
+473,https://github.com/pujariamol/AmazoneStoreNodeJS.git,Demonstrated basic functionality of an ecommerce website using NodeJS.,,11
+474,https://github.com/commercetools/commercetools-donut.git,Store template for subscription based ecommerce business model,,11
+475,https://github.com/Zadigo/ecommerce_template.git,A portfolio ecommerce template website,,11
+476,https://github.com/yhagio/ecommerce-front.git,"ECommerce Front-End (React, Immutable, Redux, JWT)",,11
+477,https://github.com/justinkunz/react-redux-ecommerce.git,A customizable templated React Redux ecommerce site,"react,redux,mern,ecommerce,ecommerce-website,ecommerce-platform,ecommerce-store,reactjs,ecommerce-application,react-redux",11
+478,https://github.com/dev-iayush27/ECommerceAppSwiftUI.git,ECommerce App in SwiftUI,swiftui,11
+479,https://github.com/nomadcoders/nomad-store.git,eCommerce PWA Built with NextJS and GraphCMS,,11
+480,https://github.com/aws-samples/amazon-ivs-ecommerce-web-demo.git,This repository shows how you can build a compelling eCommerce experience with Amazon IVS.,"amazon-ivs,ecommerce,react,react-js,javascript,serverless,serverless-framework,aws,aws-lambda,video,live-video",11
+481,https://github.com/octoshop/core.git,Modular eCommerce plugin suite for OctoberCMS,,11
+482,https://github.com/localhoax/laravel-ecommerce-api.git,Ecommerce products API built with Laravel supporting CRUD operations with Vue.js interface,"vue,laravel,php,mysql,firebase-auth,shopping,ecommerce,vuejs,vuejs-frontend,laravel-backend-api",11
+483,https://github.com/altima-au/better-payment-magento.git,Better credit card payment form extension for Magento eCommerce,,11
+484,https://github.com/rohanray/graphql-digital-transformation.git,"A simple stack to kick-start integrating Apollo(GraphQL), Meteor and React with eCommerce applications like PrestaShop/SuiteCRM/Wordpress.",,11
+485,https://github.com/thisishaykins/PyShop.git,"PyShop is an online Python Ecommerce website built with Django, SQLite and Bootstrap. A simple and lightweight ecommerce app easily deployable anywhere anytime with modules developed upon the inbuilt django admin.","python,python3,python37,python-app,python-ecommerce,django,django-application,django-project,django-ecommerce,django-admin,django-admin-ecommerce",11
+486,https://github.com/vendrhub/vendr.git,eCommerce solution for Umbraco v8+,"ecommerce,umbraco,umbraco-v8",11
+487,https://github.com/ZonCon/Ecommerce-Morningmist-Android.git,"Native Android Application for Ecommerce (online shopping). Features - Product Catalogue Builder, Product Categories & Product Items, Secure Shopping Cart, Payment Gateway, Comprehensive pricing, availability & taxation, Shipping Locations, Customer Accounts, Exhaustive Discounting & Couponing options, Email-based invoicing, Order Management & Tracking, Push notifications",,11
+488,https://github.com/mobify/ui-kit.git,📱 Quickly and efficiently design PWAs for ecommerce brands.,"sketch-files,progressive-web-app,ui-kit",11
+489,https://github.com/LJMartinez07/Ecommerce.git,In this project i do an ecommerce for sales of cellphone,"ecommerce,php,javascript,online-shop,composer,mysql",11
+490,https://github.com/netgen-layouts/layouts-sylius-site.git,Skeleton project allowing you to bootstrap a new site based on Netgen Layouts and Sylius eCommerce,,11
+491,https://github.com/danecando/jquery.shiptime.git,Shipping Time is a plugin for your ecommerce website that displays the time until the shipping cut off. You can also configure it to show estimated delivery dates based on user location.,,11
+492,https://github.com/e-commerce-sample/ecommerce-shared-model.git,Shared common model for Ecommerce.,,10
+493,https://github.com/imrostom/codeigniter-shop.git,Simple Ecommerce Website,codeigniter-ecommerce,10
+494,https://github.com/globalpayments/rxp-ios.git,Global Payments Ecommerce iOS Library,,10
+495,https://github.com/timzprof/book-a-meal.git,Meal Booking Ecommerce Application,"ecommerce-platform,reactjs,nodejs,expressjs,full-stack,javascript,meals",10
+496,https://github.com/e-commerce-sample/ecommerce-spring-common.git,Spring common configuration for all Ecommerce services.,,10
+497,https://github.com/globalpayments/globalpayments-js.git,JavaScript library for web applications to connect to Heartland eCommerce & Global Payments eCommerce tokenization services,,10
+498,https://github.com/rakibhasansabbir/Laravel-Ecommerce-API.git,Full-featured eCommerce API ,"laravel57,rest-api,mys,passport,resource,factory,eloquent-models,ecommerce-api",10
+499,https://github.com/qTranslate-Team/woocommerce-qtranslate-x.git,"Enables multilingual framework for plugin ""WooCommerce - excelling eCommerce"".",,10
+500,https://github.com/jekyll-store/microservice.git,Payments microservice for the Jekyll-Store ecommerce solution,,10
+501,https://github.com/olympikesoft/nodejs-rest-api-shopping.git,Ecommerce Nodejs Mysql,"nodejs,web,webdevelopment,myql,ecommerce",10
+502,https://github.com/justincdotme/fooCart.git,A Laravel 5 eCommerce application with integrated Stripe payments. ,"laravel,laravel5",10
+503,https://github.com/vitebiz/eCommerceStoreIonic.git,Complete eCommerce Store With Powerful Vite biz back end ASP.net based CMS designed for eCommerce ,,10
+504,https://github.com/mariobox/flask-ecomm.git,"An eCommerce App built with Flask, Jinja, SQLite, jQuery and Bootstrap","python,flask,bootstrap,jinja,ecommerce,shopping-cart",10
+505,https://github.com/chitezh/mean-ecommerce.git,A starter eCommerce site built with MEAN - https://bhcmart.herokuapp.com/,,10
+506,https://github.com/shahmirfaisal/ecommerce-backend.git,Backend of Ecommerce App.,,10
+507,https://github.com/alexrc/ECommerce-DDD.git,"ECommerce, DDD, TDD, EF4 Code first. ",,10
+508,https://github.com/ManiruzzamanAkash/Laravel-Ecommerce-Site.git,A Complete Ecommerce Site using Laravel PHP Framework 5.6+ [Running and for tutorial],,10
+509,https://github.com/zinmyoswe/React-and-Django-Ecommerce.git,"Ecommerce website built with React Redux, Python, and Django ","django,django-rest-framework,react,redux,axios,python,django-ecommerce,shopping-cart",10
+510,https://github.com/vidli/vidli.git,Open Source Video eCommerce Platform,,10
+511,https://github.com/fadion/Raiffeisen-eCommerce.git,Klasa në PHP për autorizim dhe proçesim të pagesave për shërbimin eCommerce të Raiffeisen Bank Albania,,10
+512,https://github.com/SaiUpadhyayula/SpringAngularEcommerce-frontend.git,Frontend for ECommerce Application built with Angular 8 for the Spring Boot backend REST API - https://github.com/SaiUpadhyayula/SpringAngularEcommerce,angular,10
+513,https://github.com/ikismail/React-ShoppingCart.git,"ShoppingCart (Ecommerce) 🛒Application using MERN Stack, used redux for StateManagement, PWA and Bootstrap 🚀🔥👨\u200d💻","reactshoppingcart,shopping-cart,ecommerce,react-shopping,shopping-site,react-shopping-site,react,react-router,react-redux,redux-thunk,redux,reactstrap,progressive-web-app,pwa,typescript,bootstrap",10
+514,https://github.com/OFFLINE-GmbH/oc-snipcartshop-plugin.git,Ecommerce solution for October CMS using snipcart.com as a backend,"octobercms,e-commerce,snipcart,octobercms-plugin",10
+515,https://github.com/react-shop/elixir-ecommerce-api.git,An ecommerce API made on top of Phoenix and Elixir to be used in web/mobile applications,"elixir,api-ecommerce,ecommerce,api,phoenix,boilerplate,hacktoberfest",10
+516,https://github.com/RyanMcG/Bits-Books.git,A Flask front-end to fictional book selling eCommerce website.,,10
+517,https://github.com/prisma/prisma-ecommerce-reference.git,Prisma ecommerce reference example,,10
+518,https://github.com/meinfernbus/GoogleBundle.git,"Symfony Bundle for Google Analytics (Async Integration, Multi-Tracker Support, Default and Custom Page Views, Page View Queue, Ecommerce), Google Adwords, Google Maps (Static)","google-adwords,google-analytics,php,ecommerce,symfony-bundle,googlebundle,google,twig,google-maps,composer",10
+519,https://github.com/GraphQuill/Mock-GraphQL-API-Docker.git,Dockerized version of mock ecommerce GraphQL API,,10
+520,https://github.com/swistak/spree-ruport.git,Ruport based reporting for spree ecommerce,,10
+521,https://github.com/sanity-io/sanity-template-ecommerce-studio.git,Ecommerce studio starter for sanity.io/create,,10
+522,https://github.com/RedElastic/redelastic-commerce.git,An ecommerce API gateway based on Play and Akka Cluster for deployment to DC/OS,,10
+523,https://github.com/primeminister/CakePHP-Amazon-eCommerce-datasource.git,A cakePHP amazon eCommerce datasource to search for amazon items,,10
+524,https://github.com/ynnoj/gatsby-theme-moltin.git,🛍 Gatsby theme for building Moltin powered eCommerce websites,"gatsby,gatsby-theme,moltin",10
+525,https://github.com/hongvinhmobile/project_college_ecommerce.git,:rocket: This is project college about ecommerce using nodejs and mongodb for build backend.,"nodejs,express,mongodb,mongoose,pm2",10
+526,https://github.com/corestoreio/corestore.git,"{""eCommerce Framework written in GoLang based on Magento's database structure. Compatible to Magento 1 and 2. Repo for legal stuff""}",,10
+527,https://github.com/mageplaza/magento-2-ukrainian-language-pack.git,"Maybe Magento 2 Ukrainian Language Pack should be the first must-have thing to discover if you have an eCommerce store in Ukraine. Is it really important? The answer is absolutely yes for me. Because when you start a business in a new country, ensure that the different in the language culture is the biggest barrier. The deals is not be successful if the buyer can not understand what you are mentioning on the website.",,10
+528,https://github.com/kschroeder/Magento-Worker-Queue_POC.git,"This is the proof of concept that I created for the Imagine ECommerce 2014 talk ""Delaying Gratification: Using queues to build efficient systems"".  This is a proof of concept only.  Build awesome queue-based architectures at your own risk :-)",,10
+529,https://github.com/Dunebook/React-Ecommerce.git,ecommerce app with react,,9
+530,https://github.com/e-commerce-sample/ecommerce-inventory-service.git,Inventory backend for Ecommerce.,,9
+531,https://github.com/althaffe/cosmic-vuecommerce.git,Ecommerce app with Nuxt and Cosmic JS,,9
+532,https://github.com/overhangio/tutor-ecommerce.git,Ecommerce plugin for Tutor,,9
+533,https://github.com/globalpayments/rxp-android.git,Global Payments Ecommerce Android Library,,9
+534,https://github.com/marwenhlaoui/PhpbasicE-commerce.git,simple ecommerce website with basic php,,9
+535,https://github.com/csesumonpro/Ecommerce-Codeigniter-Template.git,Codeigniter Ecommerce Project,,9
+536,https://github.com/rakibhoossain/laravel-shop.git,Laravel 6 eCommerce project ,"laravel-framework,laravel6,bootstrap4,jquery,pdf,notifications,blog,comment-system,shop,datatable-json",9
+537,https://github.com/ecc12/docker.git,Docker repository for eCommerce Consulting,,9
+538,https://github.com/abantecart/developer_tools_extension.git,Extension to help with development for extensions for AbanteCart eCommerce solution,,9
+539,https://github.com/feliperyan/Heroku-Magento.git,TechnoMile created a sample website that demonstrates how to build customer ecommerce website with Magento.,,9
+540,https://github.com/vespolina/VespolinaCommerceBundle.git,Vespolina Ecommerce integration with Symfony2,,9
+541,https://github.com/marcusvas/nodejs-sample.git,a simple ecommerce application with nodejs  + mongodb,,9
+542,https://github.com/octocart/octocart-plugin.git,🛒 An open source eCommerce plugin for OctoberCMS.,"octocart,octobercms,php,ecommerce,ecommerce-platform",9
+543,https://github.com/dynamic/foxystripe.git,FoxyStripe is a SilverStripe ecommerce module that integrates with FoxyCart.,,9
+544,https://github.com/dreambold/Multi-Vendor-System-Laravel.git,Multi-vendor eCommerce system built with Laravel framework,,9
+545,https://github.com/jsamouh/WTFCartBundle.git,WTF : Just Cart Ecommerce Managment,,9
+546,https://github.com/Matgsan/GoCommerce.git,Simple React Native ECommerce APP,,9
+547,https://github.com/iXCart/OpenCartKit.git,A simplicity iOS kit for the OpenCart ecommerce platform,,9
+548,https://github.com/inklabs/kommerce.git,"PHP Kohana ecommerce platform (deprecated, moved to inklabs/kommerce-core)",,9
+549,https://github.com/jstnryan/jCart.git,eCommerce Shopping Cart system built on PHP,,9
+550,https://github.com/vespolina/VespolinaTaxationBundle.git,Taxation for Vespolina (Ecommerce for Symfony2),,9
+551,https://github.com/stratacard0826/Laravel-Ecommerce.git,Ecommerce website in Laravel5.2 and Angular1.5,,9
+552,https://github.com/serdarb/eCommerceDatabase.git,A sample database which covers ecommerce business flow.,,9
+553,https://github.com/Collivery/Collivery-WooCommerce.git,"MDS Collivery Shipping Module for WooCommerce, an eCommerce plugin for Wordpress.",,9
+554,https://github.com/gieart87/ci4-cicommerce.git,Simple Ecommerce Web App built with CodeIgniter 4.x,,9
+555,https://github.com/AkramBerkawy/exonstore-php-dev.git,Open Source C2C eCommerce(New & Old) Multi-Vendor and Loyalty Points Based PHP App,,9
+556,https://github.com/dbwinger/spree_serenity_theme.git,extension for serenity themeforest theme: http://themeforest.net/item/serenity-minimal-responsive-ecommerce-template/full_screen_preview/4541605,,9
+557,https://github.com/siddharth-pandey/Prodo.git,"Prodo - an eCommerce App using Angular 2, ASP.NET Web API V2, Node.js, TypeScript, Bootstrap 4, etc.",,9
+558,https://github.com/Eoxia/WPshop-1.y.z.git,"WPShop an ecommerce extension 100% free, open source and developed in France. Included free theme web design responsive","shop,ecommerce,ecommerce-website",9
+559,https://github.com/marcinstelmach/EcommerceAdmin.git,"Angular client app for ecommerce admin panel, using angular6, angular material","angular6,angular-material,bootstrap4,interceptors",9
+560,https://github.com/Marketcloud/angular-marketcloud-starter.git,An AngularJS based ecommerce application seed project using marketcloud as backend,,9
+561,https://github.com/mrizwan18/FurnitAR.git,Ecommerce Android Furniture app with an integrated AR experience. | ARCore,"android,sceneform-sdk,arcore,ecommerce",9
+562,https://github.com/dnamenon/webshop.git,Golang ecommerce site made with negroni and postgres,,9
+563,https://github.com/SaptakS/opinator.git,A plugin to do sentiment analysis of reviews in ecommerce website.,,9
+564,https://github.com/paulonteri/ecommerce.git,Online Store built with Python (Django) and JavaScript (React). Live site - ecommerce.paulonteri.com,"django,ecommerce,ecommerce-backend,djangorestframework,payments,python,email,html,css,sms,api",9
+565,https://github.com/freshcom/freshcom_web.git,"Intuitive, developer friendly and highly scalable eCommerce web API built using Elixir & Phoenix","ecommerce,elixir,elixir-phoenix,ecommerce-platform",9
+566,https://github.com/Albenis-Kerqeli/Ecommerce-Website-using-bootstrap-and-javascript.git,https://albenoo.github.io/Ecommerce-Website-using-bootstrap-and-javascript/,"javascript,css,html",9
+567,https://github.com/kkamara/go-ecommerce.git,(Live Link) (Ongoing) Extensive ecommerce site built with ability to add to cart without being logged in.,,9
+568,https://github.com/DivineOmega/laravel-extendable-basket.git,🛒 Laravel Extendable Basket provides several abstract classes that implement basic ecommerce basket functionality,"basket,ecommerce,php,php-library,laravel,laravel-package,laravel-5-package,cart,shopping-cart",9
+569,https://github.com/harrygr/Creuset.git,An ecommerce platfom built in Laravel,,9
+570,https://github.com/oya-protocol/oya-market.git,Oya is a decentralized ecommerce protocol owned by its users and run by smart contracts.,,9
+571,https://github.com/rubidine/radiant_rbiz.git,A wrapper to let RBiz eCommerce solution live inside of a Radiant installation.,,9
+572,https://github.com/Ivy-Walobwa/shop_app.git,A simple eCommerce app as I learn flutter,,9
+573,https://github.com/tokenmill/reaction-acc-text-demo.git,Integration between Reaction ECommerce and Accelerated Text to provide product descriptions for an e-shop.,"reactioncommerce,reaction,e-commerce,e-shop,nlg,natural-language-generation",9
+574,https://github.com/edroamz/ecommerce-gatsby.git," A JAMstack Ecommerce Site built with Gatsby, Stripe and Netlify Functions","gatsby,netlify,stripe-elements,netlify-functions,styled-components,react-hooks",9
+575,https://github.com/aslammamud/Online-Food-Order-Website.git,"It is a basic php based ecommerce website with Sgnup,Login,Admin and Cart Functionality.",,9
+576,https://github.com/hongvinhmobile/project_college_ec.git,:rocket: This is project college ecommerce 2021. Good luck Wanted - lambiengcode,"ecommerce,flutter-apps,flutter,flutter-ui",9
+577,https://github.com/Rajesh-Royal/developer-portfolio-blog-ecommerce.git,"Kick-off Developer portfolio, blog, eCommerce store built with Gatsby along with @material-ui, Strapi/wordpress, react-helmet. Hosted on Netlify","netlify,gatsby,material-ui,formik,portfolio,ecommerce",9
+578,https://github.com/jhumphr3y/Mithril.git,A framework for conducting ecommerce in a way that uses Bitcoin to preserve the privacy of all parties involved,,9
+579,https://github.com/practical-data-science/ecommercetools.git,"EcommerceTools is a Python data science toolkit for ecommerce, marketing science, and technical SEO analysis and modelling and was created by Matt Clarke.","ecommerce,retail,marketing,marketing-analytics,marketing-tools,seo,seotools,seo-optimization,customer,customers",9
+580,https://github.com/chunkingz/kshop.git,"{""my final year project, an ecommerce website. using php, mysql, boostrap, jquery, ajax, html. still under development. Please feel free to contribute to this work. Just a quick heads up, its not 100% complete and working, some links might be broken, haven't worked on it since i presented it at my final year defense in college. but any new modifications or suggestions are welcome. Cheers...""}","college-project,college-assignment,php,html5,boostrap,ecommerce-website,ajax,jquery,mysql,html,css3,css",9
+581,https://github.com/kevinbazira/algori-shop.git,"{""A Free Gutenberg Ready WooCommerce WordPress Theme with a clean and professional design that will be a great solution for your Modern eCommerce Shop. It's designed to help you showcase your products and sell more with just about any type of online store.""}","php,html,css,wordpress-theme,woocommerce-theme,gutenberg-compatible,gutenberg-theme,wordpress-gutenberg,gutenberg,woocommerce,wordpress",9
+582,https://github.com/dgvai/laravel-user-review.git,"This package uses a trait for a model which can be reviewable by users and give starred/point ratings and only one reply can come from admin as a support response. (like Google playstore review system). This package can be used with any projects like Ecommerce, Shop, Store, etc models",laravel-packages,9
+583,https://github.com/Devsteam-mobi/SellNow---eCommerce-app.git,iOS / Android (React Native). eCommerce app,,8
+584,https://github.com/Amilcar-Paco/shopping_app.git,Flutter simple ecommerce UI,,8
+585,https://github.com/Labs64/NetLicensing-Gateway.git,Labs64 NetLicensing / eCommerce gateway,"ecommerce,gateway,proxy,ecommerce-gateway,netlicensing,payment,licensing-as-a-service,laas,fullfillment,license,license-generator,digital-fullfillment,licensing-library,docker,ngrok,hacktoberfest,hacktoberfest2020",8
+586,https://github.com/l3dlp-sandbox/the-mall-template.git,A simple Bootstrap 4 eCommerce Template,,8
+587,https://github.com/AbsoluteWebServices/vsf-klaviyo.git,A Vue-storefront module for sending ecommerce data to Klaviyo,"klaviyo,vue-storefront",8
+588,https://github.com/ihsanberahim/mymart-made-with-flutter.git,testing flutter sdk to build ecommerce app,"flutter,android,ios",8
+589,https://github.com/pielgrzym/django-minishop.git,Simple ecommerce system built with django,,8
+590,https://github.com/Vantiv/cnp-sdk-for-php.git,PHP SDK to ease XML integrations with the Vantiv eCommerce platform,,8
+591,https://github.com/HassanAfnan/DailyShopping.git,Ecommerce Website based on Asp.net.🛒,,8
+592,https://github.com/amitkolloldey/tienda.git,Advanced Ecommerce Platform In Laravel.,,8
+593,https://github.com/anton-tymchuk/meanshop.git,Ecommerce site with MEAN stack,,8
+594,https://github.com/Gatsbylius/gatsbylius-starter.git,Fastest PWA eCommerce solution. Joins us as contributor.,,8
+595,https://github.com/howiworkdaily/scofield-project.git,Django pluggable ecommerce app,,8
+596,https://github.com/anonymart/anonymart.git,Trustless & Anonymous eCommerce,,8
+597,https://github.com/kaloraat/react-ecommerce-back.git,React Redux Ecommerce with Node and MongoDB Backend,,8
+598,https://github.com/fearlessspider/oscar-eggs-theme.git,Eggs is theme for django oscar ecommerce based on Foundation 5.x.,"css,javascript,django,django-oscar,python,foundation,oscar-eggs-theme,django-oscar-ecommerce,eggs",8
+599,https://github.com/ramanpreetSinghKhinda/ILoveMarshmallow.git,"An eCommerce app with feature like sharing product, notification sync, cool UI and lots more",,8
+600,https://github.com/sschandra/collections.git,Drag and Drop jquery collection add-on for ecommerce site.,,8
+601,https://github.com/Webschool-io/Project-Marketplace-Ecommerce.git,Projeto de criação de um martketplace ecommerce com a Stack MEAN.,,8
+602,https://github.com/ganeshmani/gmcart.git,Pet Shopping eCommerce site using React and Express,,8
+603,https://github.com/devdreamsolution/flutter-ecommerce-app.git,eCommerce app using Flutter,"dart,flutter",8
+604,https://github.com/jwulf/zeebe-ecommerce-demo.git,A Zeebe ecommerce demo,"zeebe,microservices,orchestration,workflow,ecommerce",8
+605,https://github.com/Jaysonliu9988/JL-Digital.git,MERN Stack Ecommerce App,"mern-stacks,mongodb,mongoose,express-js,reactjs,digitalocean,cdn,ssl-certificate,braintree,react-hooks,domain-name,jwt",8
+606,https://github.com/ventaframework/configuration.git,Venta eCommerce Configuration package,,8
+607,https://github.com/waleedarafa/Ecommerce-Shopping.git,"Ecommerce-Shopping is enterprise open-source extensible ecommerce architecture. With Core backend using JAVA Spring (Spring boot) REST APIs & Frontend using Bootstrap/AngularUI AngularJS fro frontend. Fully support AWS inflashstructure (EC2, Database RDS, Mail service SES, etc) to run system on the cloud inflashstructure.",,8
+608,https://github.com/cetera-labs/fastsite-cms.git,"Fastsite CMS — innovative content management and eCommerce-product, based at 10-years experience and agile development methodologies. Fastsite CMS helps to start your internet sales in 5 minutes.","cms,ecommerce,shop,website,website-builder,website-template,ecommerce-platform,ecommerce-framework,ecommerce-shopping-solution,ecommerce-application,ecommerce-store,ecommerce-website,webdevelopment,webdevelop",8
+609,https://github.com/aws-samples/amazon-ivs-ecommerce-android-demo.git,A demo Android phone application intended as an educational tool for demonstrating how Amazon IVS can be used to build a compelling customer experience for eCommerce use-cases.,"android,kotlin,aws,live-streaming,autoplay-videos,live-video,live-video-stream,amazon-ivs,android-emulator,ivs-stream,ivs-channel,live-videos,live-streams,android-phone",8
+610,https://github.com/hieuhani/vuecom.git,Vue UI components for ecommerce in Typescript,,8
+611,https://github.com/eyobofficial/ticket.git,"An ecommerce website for selling tickets for sport events, concerts and festivals.",,8
+612,https://github.com/ashwinshres/AnimatedLike.git,This is a small composable library to animate the product like in ecommerce app,,8
+613,https://github.com/chec/gatsby-source-chec.git,Chec and Commerce.js Gatsby source plugin. Fetch eCommerce data from the Chec API.,"chec,gatsby,gatsby-source,gatsby-plugin,commercejs,react",8
+614,https://github.com/Sanix-Darker/Hono.git,A Button allows your custommer to negotiate prices on articles on any ecommerce webSite,"ecommerce,ecommerce-platform,ecommerce-website,ecommerce-framework,ecommerce-shopping-solution",8
+615,https://github.com/gtm-templates-knowit-experience/ga-eec-to-ga4-ecom-converter.git,GTM Template Variable that creates either GA4 Events or GA4 Ecommerce Objects based on the Enhanced Ecommerce Object.,"google-analytics,google-tag-manager,gtm,ga4",8
+616,https://github.com/phondani0/ecommerce_store.git,"Ecommerce Store application (PWA) build with  Node.js, GraphQL, React.js, Redux, Prisma (ORM), PostgresSQL, and React-admin","nodejs,javascript,reactjs,react-admin,graphql,mongodb,prisma2,redux,apollographql,material-ui,ecommerce-store,react,postgressql,progressive-web-app,pwa,hacktoberfest",8
+617,https://github.com/molebox/gatsby-starter-sell-stuff.git,A Gatsby ecommerce starter setup with Stripe integration and Sanity for content management.,,8
+618,https://github.com/tugberkugurlu/ECommerceHelper.git,A .NET eCommerce helper library which is specific for Turkish companies.,,8
+619,https://github.com/analytics-debugger/enhanced-ecommerce-gtm-transpiler-app-web.git,Tool for transpiling Universal Analytics GTM Enhanced Ecommerce Model to APP+WEB Model,,8
+620,https://github.com/grandnode/grandnode2.git,Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB,"asp-net-core,ecommerce,shopping-cart,mongodb,nosql,csharp,marketplace,ecommerce-platform,ecommerce-application",8
+621,https://github.com/PaacMaan/avito_upload_classifier.git,"This project shows a complete computer vision pipeline by building a Deep Learning model that can predict the class of an uploaded image applied on eCommerce context, starting from the Data Collecting to the Data Modeling and finishing by Model Deployment as a web app.","deep-learning,computer-vision,classification,ecommerce,flask,tensorboard,keras",8
+622,https://github.com/Cezerin3/Store.git,"Cezerin3 is React and Node.js based eCommerce platform. React Shopping Cart. ""All In One"" App: Cezerin API + Cezerin Storefront + Cezerin Dashboard.","cezerin,cezerin2,cezerin3,react,reactjs,node,nodejs,express,mongodb,ecommerce,ecommerce-platform,shopping,shopping-cart",8
+623,https://github.com/isotope/docs.git,Manual for Isotope eCommerce,,7
+624,https://github.com/karthik07m/coredova-Sample-Ecommerce-app.git,Cordova Sample Ecommerce App,"javascript,html,jquery,cordova,cordova-application,cordova-camera,css,preloader,ecommerce,json,localstorage,cordova-android,cordova-ios,cordova-template,phonegap,phonegap-examples,phonegap-application,hybrid",7
+625,https://github.com/s-cart/core.git,Core for S-Cart ecommerce,,7
+626,https://github.com/PrestaShopCorp/paypal.git,[ARCHIVED] This repository contains old code. Development has moved to https://github.com/202-ecommerce/paypal,"prestashop-module,payment-module,obsolete",7
+627,https://github.com/dapmas/Ecommerce.git,An Ecommerce website using Django.,"html,python,django",7
+628,https://github.com/MisterRobotoArigato/eCommerce.git,Full Stack ASP.NET MVC eCommerce application,,7
+629,https://github.com/Sylius/SyliusAdminBundle.git,[READ-ONLY] Administration panel for Sylius eCommerce.,,7
+630,https://github.com/gurpreeth956/eCommerce-Database.git,eCommerce Database and Website (SQL and Python),,7
+631,https://github.com/yoshkin/laravel-ecommerce.git,Laravel based ecommerce cms,,7
+632,https://github.com/XoopsModules25x/oledrion.git,advanced eCommerce module for XOOPS,,7
+633,https://github.com/melardev/SBootApiEcomMVCHibernate.git,Ecommerce API app built with Spring Boot + Spring Data + Hibernate,"java,spring,spring-boot,mvc,spring-mvc,spring-data,hibernate,ecommerce,e-commerce,orm,orm-framework,rest,api,crud,pagination,full-stack",7
+634,https://github.com/ohid/lara-commerce.git,Lara commerce is a ecommerce application,,7
+635,https://github.com/fornve/Sum-e.com-shop.git,Open source ecommerce solution,,7
+636,https://github.com/Orkiv/react-commerce.git,ReactJS ecommerce components,,7
+637,https://github.com/jrkapciak/Udemy-build-a-django-ecommerce-web-application.git,https://www.udemy.com/python-ecommerce-build-a-django-ecommerce-web-application/learn/v4/,,7
+638,https://github.com/flavien-hugs/django-ecommerce.git,Une plateforme de ecommerce pour la vente des produits locaux,"django-ecommerce,shopping-cart,bootstrap4,python,ecommerce,stripe-api,payement-management",7
+639,https://github.com/mailup/mailup-magento.git,Magento extension to integrate MailUp with the popular ecommerce platform,,7
+640,https://github.com/qalingo/qalingo-quick-start-windows-env.git,"Qalingo : Quick start env over Windows (opensource Java eCommerce mCommerce Marketplace, sync with ERP CMS CRM) ",,7
+641,https://github.com/richardhj/contao-isotope_simple_stockmanagement.git,Simple stock management for Isotope eCommerce,"stock-management,isotope,isotope-ecommerce",7
+642,https://github.com/ratracegrad/mongomart.git,Ecommerce app Using the MongoDB driver and Express,,7
+643,https://github.com/DavidJoyceIre/Zurb-Foundation-Ecommerce-Template.git,Visual Studio Ecommerce Template (for bootstrapping your ecommerce sites and also for learning),,7
+644,https://github.com/odiseoteam/SyliusMailchimpPlugin.git,Plugin for Sylius to add Mailchimp ecommerce features,"php,symfony,sylius,sylius-plugin,plugin,ecommerce,mailchimp",7
+645,https://github.com/sagar-vasu/react-ecommerce-website.git,react eCommerce website with admin panel,,7
+646,https://github.com/freireag/compree.git,An ecommerce made by aprendendo-rails group.,,7
+647,https://github.com/wp-e-commerce/Gold-Cart.git,Gold Cart plugin for WP eCommerce,,7
+648,https://github.com/athemeart/shopstore-free-woocomerce-theme.git,ShopStore is a free responsive eCommerce WordPress theme for creating online stores and shops,"shopstore,elementor,wordpress-store,fashion,theme,woocommerce,woocommerce-theme,woocommerce-shop,woocommerce-products,wordpress,themes,wordpresstheme,wordpress-theme,wordpress-themes,wordpress-child-theme",7
+649,https://github.com/gethyn1/react-contenful-store.git,An ecommerce store built with React and the Contentful API,,7
+650,https://github.com/robertobirijnr/MERN-Stack-React-Node-Ecommerce-App.git,React Node Ecommerce with Paypal and Credit Card payments with Admin Order Management System,,7
+651,https://github.com/olympikesoft/Nodejs-Mongoose-Ecommerce.git,Create a Mongoose Ecommerce Nodejs,,7
+652,https://github.com/electroneum/electroneum-integrations-wordpress-woocommerce-BETA.git,A BETA release of an ecommerce integration for accepting ETN via wordpress and woocommerce,,7
+653,https://github.com/robclark56/lightningPay-PHP.git,eCommerce payments using PHP and Lightning (lnd),"ecommerce,payments,lnd,lightning,invoice",7
+654,https://github.com/gen-x-millenials/ecommerce-express-api.git,Api for GA WDI group ecommerce project,,7
+655,https://github.com/merlox/node-ecommerce.git,"This is an ecommerce web app build with nodejs, vanilla javascript, Html and CSS. Enjoy.",,7
+656,https://github.com/eBay/sigir-2019-ecom-challenge.git,Tools supporting the eBay SIGIR 2019 eCommerce Search Challenge: High Accuracy Recall Task.,,7
+657,https://github.com/nicolasramy/cakento.git,An eCommerce solution based on CakePHP and Bootstrap Twitter for all developers who are fed up with Magento backend,,7
+658,https://github.com/tarmogr/Prestashop-Ebay-Free.git,Ths is a public development of once free Ebay module by 202 ecommerce. Lets help people who use the free version to keep it up to date!,,7
+659,https://github.com/chivaler/ATG-Toolkit.git,IntelliJ Plugin for simplifying development of Oracle eCommerce modules (former ATG),,7
+660,https://github.com/mdemirci01/Shopping.git,"All-in-one ecommerce with n-Tiered .NET Core Backend with CQRS pattern, generic services and ASP.NET Core MVC 2+ frontend.",,7
+661,https://github.com/gabrielqs/Flowecommerce_Resultadosdigitais.git,Módulo desenvolvido pela Flow eCommerce para a integração entre o Magento e a plataforma RDStation da Resultados Digitais para criação e qualificação de leads,,7
+662,https://github.com/smartmaxdev/maxstore.git,maxstore is React and Node.js based eCommerce platform. Allows creating a Progressive Web Apps.,,7
+663,https://github.com/uzirthapa/ecommerce-biolerplate.git,An Ecommerce Boilerplate made with Vuejs And Vuetify intrgrated with Firebase and Stripe Payments,,7
+664,https://github.com/SofiaPinilla/eCommerce-Zelda.git,Mi Ecommerce de Zelda,,7
+665,https://github.com/mwshubham/OneEcom.git,Generic Ecommerce Application,,7
+666,https://github.com/VB10/ecommerce-backend.git,Ecommerce backend for flutter project.,"nodejs,express",7
+667,https://github.com/abdurraufraihan/ecomweb.git,Ecommerce front-end based on react.js,"reactjs,react-router,react-router-dom,javascript,ecommerce,ecommerce-website,react-ecommerce",7
+668,https://github.com/captn3m0/gringotts.git,Personal expenses tracker over Ecommerce applications,,7
+669,https://github.com/only-2/Ecommerce-app.git,⚡ Ecommerce app made using reactjs and nodejs,"reactjs,nodejs,sequelize,ecommerce,hacktoberfest",7
+670,https://github.com/mollyliebeskind/Olist_Ecommerce_Recommendation_Engine.git,Recommendation Engine for Ecommerce Site Olist,,7
+671,https://github.com/cartnex2015/cartnex.git,Open Source eCommerce platform on Yii framework,,7
+672,https://github.com/lemonstand/lscloud-theme-coastal.git,"A minimal, responsive eCommerce theme for LemonStand.",,7
+673,https://github.com/ahmedfathy5012/generalshopflutter.git,ecommerce app with flutter and laravel,,7
+674,https://github.com/woocommerce/woocommerce-wpec-converter.git,A converter extension to bring WP eCommerce data over to WooCommerce.,,7
+675,https://github.com/mariosknl/ProShop.git,ProShop - eCommerce website with user authentication. Created with MERN stack - MongoBd / Express / React / Node. ,,7
+676,https://github.com/codegratia/react-scrapper.git,"Final Year project, scrapping data of ecommerce stores and display in ReactJs app.","react,nodejs,cheerio,scrapping,price-comparison",7
+677,https://github.com/arabelhousseyn/comendili_Ecommerce_webShop.git,this is an Ecommerce web shop named comendilli using functional and procedural programming in php,,7
+678,https://github.com/minewhat/speedupjs.git,SpeedUp JS will enhance the performance of UI elements of your website or an eCommerce store.,"js,speed,css,ecommerce",7
+679,https://github.com/bagisto/bagisto-standard.git,A Free and Opensource laravel eCommerce framework built for all to build and scale your business.,,7
+680,https://github.com/Smit1400/Ecommerce-App.git,"This ecommerce app contains all the functionality which an ecommerce app should contain, it is made using flutter and firebase.","firebase,flutter",7
+681,https://github.com/YukiUmetsu/elixir-phoenix-ecommerce.git,"This is an ecommerce web app built with Elixir, phoenix.",,7
+682,https://github.com/himadriganguly/graphql-ecommerce-api.git,This is a sample eCommerce API using graphql and mongodb.,"graphql,graphiql,nodejs,expressjs,mongodb,mongoose,apollographql,apollo-server,apollostack-graphql-server",7
+683,https://github.com/bhardwajpankaj/Ecommerce.git,A sample Ecommerce app using MVVM and without any third party library for image downloading or data parsing,,7
+684,https://github.com/samayun/ecommerce-laravel-vue.git,Building an Single vendor ecommerce application by using Laravel  8 & Vue 2,"ecommerce,laravel,vue,ecommerce-laravel-vue,laravel-vuejs,vuejs,fullstack-ecommerce,laravel-vue-ecommerce,laravel-vue-spa,single-page-application-with-vue,single-page-application,vue-laravel,laravel-8",7
+685,https://github.com/DivineOmega/exiguous-ecommerce.git,"🛒 A super simple ecommerce library, that uses flat files and takes a very minimalistic approach.","ecommerce,basket,cart,flat-file,php-library",7
+686,https://github.com/i-lateral/silverstripe-commerce.git,"Ecommerce Module for silverstripe, allowing product catalog, shopping cart and payment integration ",,7
+687,https://github.com/JagaranMaharjan/Tech-Shop.git,"This app is related to ecommerce where you can cart, order products related to technology",,7
+688,https://github.com/CommunityCommerceFramework/Core.git,A Fork of version 1 of a well known ecommerce framework,,7
+689,https://github.com/vchircu/LongRunningProcesses.git,This repository contains a sample eCommerce product. Its purpose is to showcase several patterns that are useful when designing long running processes.,,7
+690,https://github.com/arhoy/gatsby-ecommerce-demo.git,Demo app used in this article https://aquasar.io/articles/building-an-ecommerce-site-with-gatsby-contentful-and-snipcart,,7
+691,https://github.com/abhishekpatel946/Ecommerce-Reactjs.git,"An Ecommerce application with build with Gatsby, using Contentful API & Stripe-Payment-gateway API deployed on Netlify","gatsby,gatsby-site,netlify-deployment,contentful-api,stripe-payments",7
+692,https://github.com/zepluf/plugin-riSsu.git,This module generates user friendly url(s) for ZenCart ECommerce. The module is developed by RubikIntegration.com. All bugs can be reported here on Git. Please check the wiki on our site for more information regarding the module. Note that  STABLE version is always available at http://eazyecommerce.com/platforms/zen-cart/modules/simple-seo-url,,7
+693,https://github.com/kguertin/jungle.git,A eCommerce store built with rails. An exercise where we inherited an existing code base and had to build new features and fix bugs while working with existing code structure. ,,7
+694,https://github.com/erickmbugua/Ecommerce-Website.git,"This is an complete Ecommerce Website I built. It has a product recommendation system to assist customers to make informed choices while purchasing items, an integrated PayPal payment checkout and an effective admin site to manage products on the site and customer orders.",,7
+695,https://github.com/runninguru/MySQL-eCommerce.git,A MySQL eCommerce database,"mysql-database,ecommerce-database,mysql",6
+696,https://github.com/thelia-modules/PayPal.git,Paypal module for Thelia ecommerce solution,,6
+697,https://github.com/rdhawladar/ecom_3.git,my codeIgniter ecommerce project,,6
+698,https://github.com/evilnapsis/katana.git,Sistema de Tienda en Linea (ecommerce),,6
+699,https://github.com/kanomdook/ionic4-ecommerce-component.git,ionic4-ecommerce-component,"ionic4,npm,ecommerce,ionic-components",6
+700,https://github.com/shubhi15/ecommerce-reactjs.git,Ecommerce Website using Reactjs,"react-redux,reactjs,ecommerce-platform,redux",6
+701,https://github.com/Vantiv/litle-integration-magento.git,Magento Integration for Vantiv eCommerce,,6
+702,https://github.com/leonardocintra/loja-virtual.git,Ecommerce - Django,"ecommerce,heroku,django,watson,python",6
+703,https://github.com/redecard/redecard-ecommerce.git,RedeCard Ecommerce Gateway PHP Library,,6
+704,https://github.com/tkssharma/Freelance-eCommercePortal.git,MEAN stack application for eCommerce like platform,,6
+705,https://github.com/masitashakori/nextjs-ecommerce.git,Ecommerce React,"query,fetch-data",6
+706,https://github.com/Marketcloud/ionic-marketcloud-starter.git,Ionic eCommerce starter with Marketcloud backend. ,,6
+707,https://github.com/Bit-Coin/Add-on-.git,Mozila Add on(Ecommerce Plugin),"javascript,api,jquery,input-mask,html,css",6
+708,https://github.com/anne27/eCommerce-DBMS.git,"An eCommerce portal created in Java, Swing and MySQL database.","sql,mysql,mysql-database,java,swing-gui,ecommerce,er-diagram,relational-databases",6
+709,https://github.com/moltin/swift-demo-app.git,An eCommerce example App in swift,,6
+710,https://github.com/contentbox-modules/slatwall-contentbox.git,Coldbox Module to connect Slatwall eCommerce,,6
+711,https://github.com/esitefinity/Sitefinity-Custom-Checkout.git,One Page Checkout for Sitefinity Ecommerce,,6
+712,https://github.com/maaz28/Ecommerce-React-Template.git,"{""Ecommerce template built on reactjs | it's just a classical ecommerce template | easy to build""}",,6
+713,https://github.com/starboy-jb/BShoppy.git,An ecommerce web application template which contain all the necessary feature of an Ecommerce Website.,,6
+714,https://github.com/ravimalik20/eCommerceAPI.git,REST API for eCommerce project,"ecommerce,rest-api,laravel",6
+715,https://github.com/sukowidodo/Ecommerce.git,Android Ecommerce App with own Opencart API,,6
+716,https://github.com/Niklan/drupalife_store.git,Drupalife Store - Drupal 7 distribution of eCommerce,,6
+717,https://github.com/impress-org/give-google-analytics.git,Enhanced eCommerce tracking for Give using Google Analytics,,6
+718,https://github.com/hedleyproctor/amur-lift-ecommerce-example.git,An eCommerce Lift example,,6
+719,https://github.com/rohanfaiyazkhan/svelte-ecommerce.git,Simple ecommerce product page built with Svelte,"sveltejs,svelte-v3",6
+720,https://github.com/melardev/ApiAspCoreEcommerce.git,Asp.Net Core Ecommerce Api application,"asp-net-core,asp-net,dotnet,web,api,rest,crud,pagination,entity-framework,ef-core,entity-framework-core,csharp,full-stack,fullstack,auth",6
+721,https://github.com/JVMartin/angel-products.git,An Angel CMS module for eCommerce.,,6
+722,https://github.com/virkillz/php-price-crawler.git,codeigniter based price crawler using Xpath to crawl ecommerce data.,,6
+723,https://github.com/jaydeepnasit/Ecommerce-Cart.git,A Ecommerce Shopping Cart using PHP Sessions & Ajax,"php7,add-to-cart,add-to-cart-pro,ajax,jquery-ajax,php",6
+724,https://github.com/manjurulhoque/nodejs-ecommerce-api.git,Complete Nodejs Ecommerce API,"nodejs,expressjs,mongoose,passportjs,ecommerce,api",6
+725,https://github.com/stephanstapel/OpenTrans.net.git,.net implementation of OpenTrans eCommerce data transfer standard,"ebusiness,csharp,csharp-library,order,ordering",6
+726,https://github.com/HamzaAnwar1998/EcommercsWithReactAndFirebase.git,Ecommerce Site developed using React Context and Firebase Firestore,,6
+727,https://github.com/immyjosh/DrinkShop.git,This Ecommerce App is about getting all the Drink beverages from Tea to Juice.,"android,phpmyadmin,java",6
+728,https://github.com/magamlag/lam-laravel5-shop.git,Ecommerce demo site built with help of Laravel 5,,6
+729,https://github.com/Marketcloud/node-marketcloud-starter.git,NodeJS starter for an eCommerce project based on ExpressJS and Marketcloud,"nodejs,ecommerce,expressjs,marketcloud",6
+730,https://github.com/offsecdev/PickBazar.git,"React Ecommerce Template with Next JS, GraphQL, React Hooks & REST API",,6
+731,https://github.com/helderboone/ecommerce.git,Ecommerce app with docker support,"core,ecommerce,asp,nginx,dockerize",6
+732,https://github.com/FosterCommerce/klaviyoconnect.git,A plugin for Craft CMS. Grow your ecommerce business with smarter email automations.,"craftcms,craftplugins,klaviyo,marketing",6
+733,https://github.com/mauroagr/ecommerce-php.git,Lista de Repositórios em php interessantes para desenvolvedor na área de ecommerce,,6
+734,https://github.com/vendrhub/vendr-checkout.git,"A ready made checkout flow for Vendr, the eCommerce solution for Umbraco v8+","ecommerce,umbraco,checkout,umbraco-v8",6
+735,https://github.com/ashutoshraj01/online_shopping.git,"An eCommerce website developed from scratch. Technology Used : -  PHP, MYSQL, HTML, CSS,JAVASCRIPT.","online,shopping,site,ecommerce,website",6
+736,https://github.com/oviecodes/nuxt-ecommerce-strapi-backend.git,The backend for the nuxt-ecommerce App made with strapi.,,6
+737,https://github.com/melizeche/ecomfree.git,Experimento de crear un sitio web de ecommerce desde cero,,6
+738,https://github.com/ahmad2smile/Kanayri.git,eCommerce Store API based on DDD & CQRS with Event Sourcing,"ddd,ddd-architecture,cqrs,cqrs-pattern,event-sourcing,asp-net-core,api",6
+739,https://github.com/gzomer/airsell.git,Create your own Ecommerce powered by Airtable,,6
+740,https://github.com/artemv01/ngx-storefront.git,An eCommerce application on Angular & TailwindCSS,"angular,tailwindcss,scss",6
+741,https://github.com/analogrithems/ecommerce_feeder.git,"Wordpress eCommerce Plugin to import/export products, users, orders.  Great for doing integration with ERP & OMS",,6
+742,https://github.com/denissys/vraptor-ecommerce.git,"A ecommerce project using VRaptor MVC, JPA / Hibernate, HTML5 and CSS3 of Bootstrap Project.",,6
+743,https://github.com/balitax/MiniPedia.git,Simple Ecommerce app (no checkout proccess) build with swift and inspired from Tokopedia UI/UX,,6
+744,https://github.com/Marketcloud/marketcloud-all-in-one.git,All in one open source version of your beloved ecommerce backend as a service,,6
+745,https://github.com/jimmy0328/ishopping.git,ecommerce project,,6
+746,https://github.com/Iamstanlee/jumga-marketplace.git,Ecommerce Marketplace,"payment,reactjs,tailwindcss,hooks,flutterwave",6
+747,https://github.com/Marketcloud/marketcloud-php-starter.git,A PHP eCommerce project with Marketcloud as backend,,6
+748,https://github.com/hbwebsol-rd/Ravendel.git,Ravendel a GraphQL based Headless eCommerce CMS with React Node,"react,react-native,ecommerce-solution,ecommerce,e-commerce,nodejs,apollo-client,apollo-server,graphql,material-ui,react-redux,redux,expressjs",6
+749,https://github.com/Abachouch/ecommerce-java2ee-jsf.git,Ecommerce Java j2EE web based application (JSF framework) ,"java-8,jsf,w3css,responsive,ecommerce",6
+750,https://github.com/kn-neeraj/EcommerceApp.git,An Ecommerce app prototype written in Swift following Object Calisthenics rules.,,6
+751,https://github.com/katgirl/isotope_documents.git,user friendly documents for delivery notes and invoices for Isotope eCommerce 2.X  ,,6
+752,https://github.com/ilyaran/Malina.git,Malina is a ecommerce project on Golang and PostgreSQL with MVC pattern,,6
+753,https://github.com/leonardoamaro-dev/ecommerce-betting-system.git,ecommerce-betting-system,,6
+754,https://github.com/aakaul/ecommerce.git,ecommerce backend. with nodejs,,6
+755,https://github.com/cryptoapi/Bitcoin-Payments-WP-eCommerce.git,"Free Bitcoin/Altcoins Payment Gateway Addon for WP eCommerce 3.8.10+ (or higher). Accept USD, Bitcoin, Litecoin, Dogecoin, Speedcoin, Paycoin, Darkcoin, Vertcoin, Reddcoin, Feathercoin, Vericoin, Potcoin payments in WP eCommerce. Direct Integration on your website. No Chargebacks, Global, Secure. All in automatic mode.",,6
+756,https://github.com/andrealvimc/Rocketshoes.Web.git,💸 ⚛️ FrontEnd de um Ecommerce feito em ReactJS,,6
+757,https://github.com/Henriquecesp/Ecommerce-FullStack-MERN.git,"🛒 Ecommerce application using MERN stack, front - back.",,6
+758,https://github.com/Ngahu/Django-E-commerce.git,"Building a modern eCommerce web application using Python, Django, Bootstrap, Javascript, and more.","django,python,bootstrap4,python-3-6,ecommerce,ajax,jquery,jquery-ajax,cart,mailchimp,stripe,custom-queryset,django-e-commerce,django-cart,djangoshopping-cart",6
+759,https://github.com/mav-raj/eCommerce-vanillaJS.git,eCommerce web app built with vanilla JS,,6
+760,https://github.com/shopavel/common.git,Common components for the Shopavel ecommerce package,,6
+761,https://github.com/acquia/commerce-manager-magento.git,"{""A Magento 2.x module which connects Magento eCommerce stores to Acquia's Commerce Connector Service so that site builders can easily and rapidly integrate and build out digital commerce experiences in Drupal.""}",,6
+762,https://github.com/mongodb-appeng/eCommerce-Realm.git,The backend portion of the MongoDB eCommerce reference app,,6
+763,https://github.com/notrab/chec-request.git,"Lightweight Chec eCommerce client for Node, browsers and serverless functions","ecommerce,node,fetch",6
+764,https://github.com/jrgleason/node-bullettrain.git,This is a Node.js/Expressjs based Ecommerce Framework,,6
+765,https://github.com/AaronWilliams0403/MERN-ecommerce.git,A fully functioning Guitar Ecommerce shop developed by MERN stack,,6
+766,https://github.com/Rukhsar/RukhsarCart.git,A Paypal powered PHP Ecommerce Shopping Cart built using OOP,,6
+767,https://github.com/ArthurPedroti/launchstore.git,An ecommerce based in pure javascript and pure SQL queries,,6
+768,https://github.com/janakaedirisinghe/cellmart.github.io.git,🛍️ Simple ecommerce cart application built with pure PHP,,6
+769,https://github.com/nafeeur10/Laravel8-Vue3-Ecommerce.git,Building Ecommerce Application with Laravel 8 and Vuejs 3. ,,6
+770,https://github.com/Camiloo/CamilooFramework.git,The Camiloo Framework; an open source fork of the Magento eCommerce platform with a view to making it easy to create SaaS web applications.,,6
+771,https://github.com/ankitbishtkec/generic-ecommerce-website.git,"Php code for modern eCommerce website built upon Yii framework 1.1.16( Jabong.com uses Yii), with MySQL model file for database schemas. This version can be quickly modified to be used for most applications of eCommerce. The features are described in README file.",,6
+772,https://github.com/wanndrueakk/AllStore.git,"AllStore is a premium HTML online ecommerce store template. It is easy to use, customize and fully responsive in design. Although this theme can be used for selling almost anything it is most suitable for clothing shop, fashion store, furniture ecommerce, selling electronics, gadgets and accessories. The template layout is well structured and has been designed using the modern HTML5 & CSS3 validation standards.",,6
+773,https://github.com/eymengunay/EoEcommerceBundle.git,A lightweight yet flexible ecommerce bundle (based on Sylius and Spree) that works on MongoDB.,,6
+774,https://github.com/ogbiyoyosky/Shopee.git,A Multi Tenancy Ecommerce and Escrow system Api built with Node js.,,6
+775,https://github.com/pyrat/google-product-search.git,Rake tasks for getting your ecommerce products on the google product search.,,6
+776,https://github.com/luckdev01/React-NextJS-Graphql-eCommerce.git,"Full-stack eCommerce store built with React, Next.js, Apollo Client, Express, graphQL Yoga and Prisma.",,6
+777,https://github.com/Muskan0/ecommerce_project.git,"Ecommerce website built using Django framework, html/css, javascript, sqlite3(provided by django) and Paypal API.","ecommerce-website,django",6
+778,https://github.com/audunru/enhanced-ecommerce-demo.git,A demo webshop that lets you try out the Enhanced Ecommerce features of Google Analytics,,6
+779,https://github.com/revanmd/indonesian-dataset-SA-ML.git,Repository dataset sentimen analisis dari review produk yang ada pada platform ecommerce online berbahasa Indonesia,,6
+780,https://github.com/keithbrink/segment-spark.git,An automatic Segment analytics package for Laravel Spark which will track all page views and eCommerce events in Segment.,,6
+781,https://github.com/revanthpobala/pinnacle.git,"An ecommerce website where the users can search for an item, add the item to the cart and buy it.",,6
+782,https://github.com/CaioAugustoo/wongames.git,"🕹️ Ecommerce de jogos no estilo Steam. Desenvolvido com Next.js, TypeScript, Apollo, etc. utilizando TDD. (Em desenvolvimento)","wongames,reactjs,nextjs,apollo,graphql,strapi,ecommerce,cypress,jest,react-testing-library,typescript,storybook,styled-components,ssr",6
+783,https://github.com/mageplaza/magento-2-polish-language-pack.git,"It is wise to install Magento 2 Polish Language Pack on your Magento 2 store. Why I say that? Frankly speaking, if you want to go further on the international market, the first thing you need to concern is being sociable with the people living there and the shortest way to enter is synchronizing the language. Namely as in Poland, communicating in Polish will make you more convinient in eCommerce business or traditional business as well without creating any awkwardness for the visitors.",,6
+784,https://github.com/liveecommerce/php-test.git,Live eCommerce - PHP Test,"php,jobs,live,ecommerce,liveecommerce",5
+785,https://github.com/tvast/ymple-commerce.git,"Node.js, Sails.js powered ECommerce, E-Commerce",,5
+786,https://github.com/Vantiv/litle-sdk-for-dotNet.git,Vantiv eCommerce SDK for .NET languages,,5
+787,https://github.com/turnkeylinux-apps/magento.git,Magento - Flexible eCommerce Platform,,5
+788,https://github.com/demonmind/ECommerce.git,Java simple Ecommerce Example,,5
+789,https://github.com/Alex-Zhou99/Ecommerce-website.git,Ecommerce-website,,5
+790,https://github.com/nortbotics/jekyll-ecommerce-theme.git,eCommerce on Jekyll,,5
+791,https://github.com/lsretailomni/lsmag-two.git,"LS Ecommerce - Magento, an ecommerce interface for integrating Magento with LS Central.",,5
+792,https://github.com/louieseno/ionic-v3-ecommerce-app.git,Apparel ecommerce applications (School Project),"ionic3,typescript,firebase",5
+793,https://github.com/commercelayer/static-commerce.git,Static Ecommerce Website Demo,"jamstack,static-site,ecommerce",5
+794,https://github.com/nescode/ecommerce.git,Ecommerce platform on Django Framework,,5
+795,https://github.com/vendrhub/vendr-documentation.git,"Documentation for Vendr, the eCommerce solution for Umbraco v8+","umbraco,umbraco-v8,ecommerce,documentation",5
+796,https://github.com/Qloapps/hotelcommerce.git,Hotel & Booking Reservation Ecommerce system on Prestashop,,5
+797,https://github.com/basir/node-react-ecommerce-final.git,An ECommerce Website Like Amazon,,5
+798,https://github.com/sheikhu/ecommerce.git,Ecommerce platform with Laravel 4,,5
+799,https://github.com/tcp-sensei/TheCartPress.git,eCommerce plugin for WordPress,,5
+800,https://github.com/alfredsasko/Customer-Journey-Analytics.git,Analytics for building Customer Journey Map in Ecommerce,,5
+801,https://github.com/melardev/DjangoRestShopApy.git,Python Ecommerce API application built with Rest Framework,"python,django,rest-framework,auth,crud,pagination,ecommerce,e-commerce,shop,shopping-cart",5
+802,https://github.com/meowbox/dhl-ecommerce-ruby.git,DHL eCommerce API Wrapper for Ruby,,5
+803,https://github.com/vorsurm/LaravelEcommerce.git,Complete eCommerce on Laravel,,5
+804,https://github.com/ilteriskeskin/django-ecommerce.git,Ecommerce site with Django,,5
+805,https://github.com/MustafaSaber/eCommerce_Application.git,Building an eCommerce application using springboot.,"spring-boot,spring-mvc,mockito,querydsl,selenium-java",5
+806,https://github.com/rbaral/AngularJS_Ecommerce.git,"A sample ecommerce system developed in AngularJS, MySQL, PHP using Bootstrap","angularjs,ecommerce-application,ecommerce-shopping-solution,php,mysql-database,mysql,database,ecommerce-framework,ecommerce",5
+807,https://github.com/qalingo/qalingo-solr.git,"Qalingo : B2C B2B Solr (opensource Java eCommerce mCommerce Marketplace, sync with ERP CMS CRM)",,5
+808,https://github.com/Belzee10/tech-shop.git,Ecommerce APP,"angular,laravel,ecommerce",5
+809,https://github.com/TeaCommerce/Tea-Commerce-Starter-Kit-for-Umbraco.git,Get a great start for your next Umbraco ecommerce project,,5
+810,https://github.com/spriteCloud/ecommerce-cucumber-web-test-automation-suite.git,Example of an ECommerce cucumber web test automation suite,,5
+811,https://github.com/xtalio/xtal-commerce.git,"eCommerce platform using Strongloop Loopback framework, and Node.js",,5
+812,https://github.com/PayMaya/PayMaya-Android-SDK-Sample.git,Sample mobile ecommerce app that accepts VISA and MasterCard payments via PayMaya Checkout SDK.,,5
+813,https://github.com/freecodecamp-venezuela/ecommerce-coffee.git,A collaborative ecommerce project.,,5
+814,https://github.com/contactlab/contactlab-magento-connect.git,Contactsend out-of-the-box integration module for Magento eCommerce platform,,5
+815,https://github.com/MANANPREET/Bookstore.git,"Bookstore Ecommerce Website using Spring Boot, Hibernate, MySql, Thymeleaf, Bootstrap.","spring-boot,hibernate,bootstrap,thymeleaf,spring-security,html5",5
+816,https://github.com/hanhmchau/ekalium.git,Ecommerce Blazor/ASP.NET Core with Entity Framework Core app.,"blazor,ecommerce,signalr,entity-framework-core,identity,lucene-net,sendgrid-api",5
+817,https://github.com/Akbari300/Complete-Ecommerce-Android-Application-.git,Complete Android Mobile Application Ecommerce designed and developed based on standards and advanced programming practice ,"ecommerce,android,mobile,application,ecommerce-android-application",5
+818,https://github.com/RafaelGSS/geek4geek.git,Front-end Ecommerce Geek4Geek :rocket:,,5
+819,https://github.com/haryphamdev/facebook-messenger-Ecommerce-chat-bot.git,"An Ecommerce chatbot uses Facebook Messenger Platform, building from scratch with Node.js Platform",,5
+820,https://github.com/mikkel-tschentscher/responsive-ecommerce-email-template.git,A starter-template for your ecommerce e-mail campaign layouts.,,5
+821,https://github.com/laraplug/shop.git,Laravel Ecommerce Module built on top of AsgardCMS,,5
+822,https://github.com/shshnk158/Amazon-Apparel-Recommendation-system.git,Recommend similar apparel items/products in ecommerce.,,5
+823,https://github.com/scane/SolidusAndroid.git,Android app for Solidus ecommerce platform,android-application,5
+824,https://github.com/abofficial444/Standard-Bank-Tech-Impact-Challenge.git,This solution rank 3rd place in predicting the likelihood of credit default of ecommerce clients,,5
+825,https://github.com/nicholaskajoh/fashion-ecommerce-platform-db-schema.git,DB schema for a fashion eCommerce platform.,"database,schema,ecommerce,platform,fashion",5
+826,https://github.com/ORRTIZ/ecbootstrap.git,Bootstrap based theme component for ecommerce components in/for ORRTIZ™ BMS.,"ofbiz,open-source,erp,theme-component,theme,ecommerce-theme,webshop-theme",5
+827,https://github.com/moltin/ios-swift-tutorial.git,A getting started with Swift tutorial for the Moltin iOS eCommerce SDK.,,5
+828,https://github.com/webpulser/rails-commerce.git,Ecommerce Plugin,,5
+829,https://github.com/Acquisto/acquistoShop.git,Acquisto ist ein eCommerce-Webshop-Modul für das Contao CMS. ,,5
+830,https://github.com/vishaloshnif/stock-management-system.git,"A stock management system for a retail  shops,  eCommerce,  factory outlets and similar.",,5
+831,https://github.com/widelyio/pwa-ecommerce.git,A demo eCommerce application converted into Progressive Web Application using widely ,"pwa,pwa-ecommerce,plug,html,dashboard",5
+832,https://github.com/kl3jvi/ionic5-coaching-app.git,A simple fitness/ ecommerce/ social app template all packaged into one. ,"ionic,angular,ionic4",5
+833,https://github.com/matiechaza/larashop-app.git,Ecommerce created by the Laravel Tip Community on Twitch: https://www.twitch.tv/laraveltip,,5
+834,https://github.com/ahmed-abdellatif/php-ecommerce-store.git,eCommerce-store-payments,,5
+835,https://github.com/iconicwp/woosocial.git,WooSocial - Social eCommerce for WooCommerce,,5
+836,https://github.com/askl56/Seller.git,An ecommerce gem for rails,,5
+837,https://github.com/DerShop/DerShop.git,Serverless open source ecommerce shopsystem,"ecommerce,ecommerce-platform,ecommerce-application,ecommerce-framework,reactjs,nextjs,nextjs-serverless,serverless,serverless-applications,webshop,shopping,shopping-cart,faunadb,webcomponents-framework",5
+838,https://github.com/jurgen1c/Merchant-Rails-App.git,Ecommerce for a grocery store,,5
+839,https://github.com/vasurajan/Phleepple-Ecommerce.git,"An eCommerce application consisting of Apple Products built using React, Redux, Firebase also consisting of login with Google authentication","reactjs,redux,stripe-api,firebase-auth,react-redux,sass",5
+840,https://github.com/garstud/hikashop_dump_events.git,"Plugin to help developers to debug and understand eCommerce HikaShop plugins events for Joomla (onProductBlocksDisplay, onAfterCheckoutStep ...)",,5
+841,https://github.com/nantcom/NancyBlack.git,"A website system built on top of NancyFX. Combines CMS, Ecommerce and built-in database management.",,5
+842,https://github.com/hendisantika/online-book-store.git,Ecommerce Website - Online Book Store using Angular 8 + Spring Boot MySQL Database,,5
+843,https://github.com/j-manu/isbn.git,Compare book prices across indian ecommerce stores,,5
+844,https://github.com/strbbrn/Ecommerce.git,Simple Ecommerce with Paypal Integration (PHP),"php,ecommerce,mysqli,bootstrap",5
+845,https://github.com/codekeyz/angular-shop.git,🚀 🔥 Just my own personal ecommerce shop project,"angular,shop,codekeyz,html,webapp,pwa",5
+846,https://github.com/TheCurryMan/NeighborCater.git,A micro-ecommerce for household kitchens ,,5
+847,https://github.com/cosmoscha/AndromedaPlants.git,Full stack application for plant eCommerce,,5
+848,https://github.com/workouse/iyzico-sylius.git,Iyzico payment plugin for Sylius ecommerce framework,"sylius,sylius-plugin,sylius-payment,ecommerce,iyzico",5
+849,https://github.com/patrycja-io/ilearn-milestone.git,Final Bootcamp project - eCommerce shop in Django,"ecommerce-website,purchase-products,cart-page,profile-dashboard",5
+850,https://github.com/oneuptim/ionic-shop-docs.git,Documentation for Ionic Stripe Shop - https://www.noodl.io/market/product/P201512161327199/ionic-stripe-shop-full-ecommerce-app-w-stripe-payments-and-admin,,5
+851,https://github.com/iamdeepti/online-store.git,"An Ecommerce website having all basic functionalites with paytm as payment gateway and an admin panel where you can insert , delete and modify products detail and view user query. ","payment-gateway,mysqli,paytm,ecommerce-website,php,jquery,css",5
+852,https://github.com/EstenGrove/vue-ecommerce.git,A Vue.js Ecommerce website for smartphones(WIP),"vuejs,e-commerce,vue-router,vuex,firebase",5
+853,https://github.com/fvalverdeu/api-nodejs-ecommerce-covid.git,API REST to ecommerce of products for prevention COVID-19.,,5
+854,https://github.com/poudyalanil/djangoEcommerce.git,djangoEcommerce is simple eCommerce site build with python django,,5
+855,https://github.com/kolomiytsevs/eastcott-burgess-ecommerce-store.git,"Ecommerce store developed in react, node, express, and many more",,5
+856,https://github.com/highjump0615/SimpleImageEcommerce_Admin.git,Angular web; Admin panel of Simple Image Ecommerce mobile app,"angular5,admin,firebase,angularmaterial,bootstrap4,typescript",5
+857,https://github.com/Austine3000/ZoneMart.git,An eCommerce web application built with react-redux,"react,react-native",5
+858,https://github.com/talljohnthin/react-shop.git,"React js, Redux, Redux-Thunk and Firebase eCommerce Admin App",,5
+859,https://github.com/davidcostadev/newcommerce.git,"Just more an open source Ecommerce Project, build with React","react,ssr,axios",5
+860,https://github.com/martinogden/django-store.git,A work in progress ecommerce app built with Django,,5
+861,https://github.com/andresvidoza/ecom-platform.git,"MERN eCommerce platform from scratch with React, Redux, Express & MongoDB.",,5
+862,https://github.com/PawanGulati/CuratedCart.git,A simple eCommerce shopping application @ http://curated-cart.herokuapp.com/,"nodejs,firebase,reactjs,redux,stripe-payments",5
+863,https://github.com/Tinchorocks/spree_contact_tools.git,Contact tools (Contact & Newsletter modules) for Spree Ecommerce,"spree-ecommerce,newsletter-modules,contact-form,spree-extension,ruby-on-rails,recaptcha",5
+864,https://github.com/aerth/go-selly.git,(unofficial) Go wrapper for Selly API (cryptocurrency ecommerce gateway),"ecommerce,cryptocurrency,accept-payments",5
+865,https://github.com/ajbonner/magento.git,"Scripts, snippets and modules for the Magento Ecommerce Platform.",,5
+866,https://github.com/opositatest/ReportBundle.git,Bundle to show statistics over a project ecommerce with sylius,,5
+867,https://github.com/IsaacReeder/Furnitecture-Ecommerce.git,"Furnitecture is an ecommerce application using ReactJS, GraphQL, Strapi, Stripe, Material-UI, React-Transition-Group, React-Toastify, and Gestalt the Pinterest front end library.",,5
+868,https://github.com/mazharoddin/camaleon-cms-shoppy.git,Shoppy is a modern and customizable eCommerce theme designed to increase your online store sales. Shoppy is flexible enough to suit any kind of your business.,,5
+869,https://github.com/ry5n/shoppicon.git,"Icons for ecommerce. Based on Google’s Material Design system icon spec, with some art from Google’s open source release.",,5
+870,https://github.com/abdullah-ch/ecommerce-project.git,An Ecommerce Web App made on Node JS and Express JS with MongoDB as the Database ,"mern,javascript,nodejs,expressjs,mongodb",5
+871,https://github.com/adjoaEdwin/Deliveree.git,A small ecommerce app for buying commodities built with Node and Express,"ecommerce,nodejs,mongoose,agriculture",5
+872,https://github.com/Syndicate555/Ecommerce-Store.git,"A Full-stack eCommerce store created using React, express, MongoDB and PayPal API",,5
+873,https://github.com/saurabh73/ecommerce-affiliate-api-india.git,"A collection of affiliate api for indian ecommerce sites. Supports flipkart, ebay, amazon and snapdeal",,5
+874,https://github.com/laraship/laravel-marketplace.git,a Multi Vendor Laravel eCommerce and Marketplace with Complete Features List,,5
+875,https://github.com/combine/saga.git,"Next-generation ecommerce framework built with Node.js, GraphQL and React.",,5
+876,https://github.com/stefoxp/fse-urbinoshop-csharp.git,Esercitazione Sito Web ECommerce in C# per Corso FSE su Programmazione Web,"training,education,csharp",5
+877,https://github.com/IamManchanda/crown-clothing-ecom-preact.git,"Crown Clothing: Fullstack Serverless Ecommerce App in Preact.js (& React.js), Redux (& Redux Saga) & Google Firebase",,5
+878,https://github.com/Fuglydami/comfy-sloth-ecommerce-website.git,A react ecommerce website with stripe payment and authentication/authorization features,"reactjs,stripe-api,auth0,netlify-functions",5
+879,https://github.com/ManiruzzamanAkash/EcommerceNext.git,"An Ecommerce Website with React, Redux, Redux-Thunk, Next JS, React Hook API, Ant Design",,5
+880,https://github.com/Developer-Felix/Moonlightstore-Ecommerce-Website.git,The UI new intergration for Moonlightstore.co.ke . Ecommerce website new intergration of user interface.,,5
+881,https://github.com/OdongoWaga/NextShop.git,Full Stack Ecommerce Application built with the MERN stack using Stripe to process payments deployed on Now,"react,mongodb,express,next,node,stripe-checkout,semantic-ui",5
+882,https://github.com/sagahead-io/ecommerce-blueprint.git,"Ecommerce blueprint api & frontends based on microservices architecture, tech stack: nodejs, typescript, graphql, type-graphql, fastify, auth0, pubsub, postgres",,5
+883,https://github.com/leoneloliver/T-shirt-ecommerce.git,"It is a front-end prototype for an ecommerce using techlologies such as :ReactJS, Html5, Css3, Jquery and Javascript.",,5
+884,https://github.com/arunism/Django-Ecommerce-All-You-Need-to-Know.git,"A complete django ecommerce website, containing all the features that support easy user interaction with the company.",,5
+885,https://github.com/eristoddle/peregrine.git,An ecommerce platform written in the Phalcon PHP framework for Learning Phalcon PHP published by Packt Publishing.,,5
+886,https://github.com/saeed-corals/laraship-ecommerce.git,"Laraship E-commerce is an online Laravel eCommerce platform for your store or shop, powered By Laravel 5.5  to provide a comprehensive set of features for any e-commerce platform.","laraship,bootstrap4,laravel5,e-commerce,e-commerceplatform,ecommerce,ecommerce-platform,ecommerce-shopping-solution,stripe,paypal,braintree,bank,offline-payments,shipping,shopping-cart,admin-dashboard,discount,taxes",5
+887,https://github.com/raselhasandurjoy/E-Commerce.git,"Ecommerce, also known as electronic commerce or internet commerce, refers to the buying and selling of goods or services using the internet, and the transfer of money and data to execute these transactions.","javascript,php,bootstrap,mysql-database,ecommerce,online-shop",5
+888,https://github.com/wearesuperb/recommend-magento2-module.git,"Focus on your customers and forget the tech with Recommend. We’ve developed Recommend especially for your eCommerce site on Magento, which guarantees you much simpler integration than any other personalisation software out there. Just download and install Recommend to optimise your site straight away.",,5
+889,https://github.com/robertmatthees/easy-ga.js.git,Easy to Set-up Google Analytics Tracking with Enhanced Ecommerce Transactions (EC) + Respecting Data Privacy User Choices (Do-not-track Browser Settings & Opt-out Cookies),,5
+890,https://github.com/SnehanshuS/BigBasketModel.git,"A NextGen scalable solution model to provide an effective and fast search results for large customer base of an Ecommerce website using Java/J2EE, Redis, Cassandra & Elasticsearch.",,5
+891,https://github.com/SamwitAdhikary/Ecommerce.git,It is a pure Ecommerce Template made Purely in HTML and CSS with Full Responsive Mode. It has multipage functionality and awesome looks.,"html,ecommerce-template,css,website-template",5
+892,https://github.com/Orckestra/BetterRetail.git,"{""The 'BetterRetail' Reference Application (RefApp) is a solution that contains all common components needed to build a mobile-ready ecommerce website. It works in conjunction with Orckesrtra's Experience Management to deliver the complete shopping experience.  To use the RefApp you'll need access to a running Orckestra Commerce Cloud instance.""}",,5
+893,https://github.com/amaan2398/Discounting-rate-Prediction-Model-based-on-Customer-s-Profile-for-Ecommerce-website.git,"Every customer wants the best price, on the other hand, every retailer wants the best margin with customer satisfaction and an increase in the count of a loyal customer. For that retailer try to identify the loyalty of the customer and offer a special discount to them. In the current situation, there is a lack of identifying loyal customers, measuring their loyalty and offering personalized offers on an online ecommerce platform.    In this project, the main aim is to build a machine learning model which can predict discount for ecommerce websites based on customer loyalty. ",,5
+894,https://github.com/corbinpage/shopiFi.git,"ShopiFi is an ecommerce plugin to instantly deposit funds into a DeFi protocol. Any e-commerce solution can install the plugin to allow mainstream users access to Compound, Pool Together, and Chai all via a credit card or Apple/Google Pay. To demonstrate ShopiFi, we launched an e-commerce site selling breakfast cereal, called “General Shills”, because cereal is an important part of a (re)balanced breakfast.",,5
+895,https://github.com/ShoiraTa/Busy-bean.git,"Busy bean is an eCommerce web page. In this project, I applied the best CSS HTML & bootstrap practices. The web page was built by the mobile-first approach, its responsive to mobile devices and bigger screens. ",,5
+896,https://github.com/S-codes14/smaller-sites.git,"Powerful, free and easy to use drag and drop builder for blogs, websites or ecommerce stores. Designed for everyone Developers and non Developers. You can use it to design your next website.","web-builder,website-builder,builder,builder-interface,bootstrap4,bootstrap,cms,open-source,bootstrap-builder,smaller,smallersites,smaller-sites",5
+897,https://github.com/KushalVijay/Go-cart.git,"Full fledged end to end ecommerce website with all the functionalities like Payment Gateway, E-mail Activation, SMS service, Customer care service and API integration. • Technology/Tools: Django, HTML,CSS , Paytm Payment Gateway API , MSG91 API","python,django,paytm,payment-gateway,sms-gateway,ecommerce-website",5
+898,https://github.com/jkhaui/wp-graphql-extensions.git,"Bootstrap the data source of your decoupled SPA. These extensions make popular WordPress plugins compatible with GraphQL, allowing you to leverage their backend functionality only. Particularly suitable for ecommerce and social network-based apps, or any plugin that potentially exposes a lot of data.","graphql,wordpress,wordpress-plugin,wordpress-api,wordpress-development",5
+899,https://github.com/Ulbora/Six910.git,Six-9-10 is an ecommerce platform server for building online shopping cart systems and will have a cryptocurrency payment module and others; it is written in golang and uses Dependency Injection. This is the REST services for the complete backend including admin panel and switchable templates.,"shopping-cart,golang,go,cart,shopping-cart-solution,shop,addon-applications,ecommerce,ecommerce-platform,ecommerce-shopping-solution,ecommerce-storefront,cryptocurrency,blockchain,ecom,e-commerce,ecomm,ecommerce-store,ecommerce-site,ecommerce-website,ecommerce-application",5
+900,https://github.com/myiremark/web2py-restful-openapi-crossplatform-app.git,Proof of concept two table CRUD implementation of a simple ecommerce store with shopping cart. It has a typescript react ionic cross platform app that uses an openapi/swagger client which is autogenerated from pydal and served via web2py. It uses elasticsearch for indexing and faceted search. Forms are generated from jsonschema7 via react-json-schema-form.,"typescript,openapi,openapi-specification,openapi-client,web2py,restful-api,rest-api,elasticsearch,searchkit,react,react-jsonschema-form,json-schema",5
+901,https://github.com/darkslayer92/Angular-Firebase_Portfolio.git,"Angular Bootstrap Dashboard is a web dashboard application based on Bootstrap 4 and Angular 8. All components included in this dashboard template has been developed to bring all the potential of HTML5 and Bootstrap plus a set of new features (JS and CSS) ideal for your next dashboard admin theme or admin web app project. Angular Bootstrap Dashboard can be used in any type of web applications dashboard: Single Page Application (SPA), project management system, ecommerce admin dashboard, CMS, CRM, SAAS, help desk; for personal and business purposes. Angular Bootstrap Dashboard uses ui-router for routing purposes.","angular-8,firebase-database,firebase-hosting,nodejs,html5,bootstrap4,typescript,angularfire2",5
+902,https://github.com/vituhugo/spring-ecommerce.git,spring-ecommerce,,4
+903,https://github.com/Vantiv-eCommerce/litle-sdk-for-python.git,Vantiv eCommerce SDK for Python,,4
+904,https://github.com/meskalinchik/ecom-django.git,ecommerce webapplication,,4
+905,https://github.com/manas-anarov/kungfu_shop_django.git,Django ecommerce,,4
+906,https://github.com/heroku/quick-fix.git,FIX eCommerce home page optimized for deployment workflow demos,,4
+907,https://github.com/daengwebid/ecommerce-laravel.git,ecommerce laravel 5.2,,4
+908,https://github.com/melardev/VueVuexEcommerceRestApi.git,Full stack Vue + Vuex Ecommerce application,"vue,vuejs,vue-js,ecommerce,e-commerce,nodejs,node,node-js,rest,api,shopping-cart,full-stack,vuex,state,fullstack",4
+909,https://github.com/arashdoescode/ecommerce.git,An ecommerce website,,4
+910,https://github.com/mohaiminur/Android-Ecommerce-App.git,Android-Ecommerce-App,"android-ecommerce-app,ecommerce,android-project,android-project-tutorial",4
+911,https://github.com/yasminzy/azka-bakery.git,Sample ecommerce website.,"nuxt,bootstrap,snipcart,ecommerce-website",4
+912,https://github.com/YourSole/Cart.git,Ecommerce Cart Plugin for Dancer2,,4
+913,https://github.com/Sparxxz/Recommendation-System-Collabrative-Filtering.git,Premier Experience for Loyal eCommerce Customers,"python,recommendation-engine,recommendation-system,ecommerce,loyal-ecommerce-customers,premier-experience,collabrative-filtering,e-commerce-recommendation-system,machine-learning,flask-backend,flask,knn-classifier",4
+914,https://github.com/dishvyas/fittingroom.git,Virtual Fitting Room for ecommerce websites,"vr,blender,flask,python,cv2",4
+915,https://github.com/melardev/AngularEcommerceRestApi.git,Angular Ecommerce cart application (full stack),"angular,shopping-cart,full-stack,rest,api,observables,typescript,angular-ci,node,node-js,nodejs,fullstack,ecommerce,e-commerce",4
+916,https://github.com/nebulab/multitenant_shop.git,Solidus eCommerce with multitenancy,,4
+917,https://github.com/cola-framework/cola-cloud.git,Distributed eCommerce Cloud Platform,"java,microservice,spring-cloud",4
+918,https://github.com/mhmmdgamal/ecommerce.git,Ecommerce by JSTL (J2EE),"java,jdbc,jstl,servlet,jsp,maven,ajax",4
+919,https://github.com/newtonmunene99/ionic3-uzastuff-client.git,Ionic 3 Ecommerce App,"ionic,ionic3,ionic-framework,ionic-cordova,ionic-apps,ionic-native,ecommerce,ecommerce-platform,ecommerce-application,ecommerce-store,firebase,firebase-auth,firestore",4
+920,https://github.com/jonas-colas/Ecommerce-with-Laravel-5.7-and-vuejs-2.5.git,Ecommerce with Laravel 5.7 and vuejs 2.5,,4
+921,https://github.com/Platformus/Platformus-Sample-Ecommerce.git,Platformus CMS sample ecommerce,,4
+922,https://github.com/abizit/Moltin-Angular-App.git,Angular 2 App using Moltin as the Ecommerce Backend,,4
+923,https://github.com/rakshans1/shoppcart.git,A Ecommerce website built in PHP,"php,ecommerce,mysql,shopping-cart",4
+924,https://github.com/kylelortscher/eCommerce-reactnative.git,eCommerce iOS App Made With React Native,,4
+925,https://github.com/flutter-devs/flutter_ecommerce_shoes.git,A demo UI for ecommerce shoes,,4
+926,https://github.com/qalingo/qalingo-web-classic-fo-bo.git,"Qalingo : B2C B2B Web classic Frontoffice & Backoffice (opensource Java eCommerce mCommerce Marketplace, sync with ERP CMS CRM)",,4
+927,https://github.com/robinhuy/nextjs-ecommerce-store.git,Ecommerce store written by NextJS,,4
+928,https://github.com/qalingo/qalingo-web-batch.git,"Qalingo : B2C B2B Web Batch Synchronization (opensource Java eCommerce mCommerce Marketplace, sync with ERP CMS CRM)",,4
+929,https://github.com/ThomPijnenburg/Data-Analytics-Ecommerce-Linear-Regression.git,Practicing Linear Regression machine learning in Python on an Ecommerce dataset,,4
+930,https://github.com/jit-talukdar/ecommerce.git,Ecommerce design template for Ionic 4.,,4
+931,https://github.com/karthequian/ecommerce.git,An ecommerce demo built with microservices,,4
+932,https://github.com/maximilianoalves/ecommerce-simple-automation.git,Simples estrutura de automação para ecommerce,,4
+933,https://github.com/cbajoria/ByMe.git,An eCommerce app on Xamarin.Forms,"gmail-api,facebook-api,xamarin-forms",4
+934,https://github.com/bahdcoder/udemy-course-ecommerce-templates-files.git,The basic ecommerce template for udemy course,,4
+935,https://github.com/funkybob/shoestring.git,A very simple ecommerce solution for Django,,4
+936,https://github.com/efeitoeco/efeitoeco-frontend.git,Front-end do ecommerce Efeito Eco.,,4
+937,https://github.com/Ghost173/ECommerce-Website-design.git, ECommerce Website Using HTML CSS And Bootstrap ,,4
+938,https://github.com/yezyilomo/mpay.git,Odoo application for online payment through mobile SMS based services in eCommerce.,,4
+939,https://github.com/gizmecano/opencart-2-fr.git,A French language pack for the ecommerce platform OpenCart (version 2.x),"opencart,language,translation,localization,backend,frontend,language-packs,opencart-translation",4
+940,https://github.com/201-created/bodega.git,ecommerce demo app,,4
+941,https://github.com/nathard/BookStore.git,Book Store eCommerce site in PHP/Oracle features Flash and AJAX,,4
+942,https://github.com/tutsplus/designing-an-ecommerce-portfolio.git,Source files to accompany tutorial series: Designing an eCommerce Portfolio,,4
+943,https://github.com/arunabharjun/mernStack-ecom-app.git,An ecommerce app designed & developed using MERN stack,,4
+944,https://github.com/techmahedy/Ecommerce-rest-api-development---laravel-.git,Ecommerce rest api development - laravel ,,4
+945,https://github.com/singesavant/salesmonkey.git,eCommerce backend based on ERPNext,,4
+946,https://github.com/erictam96/E-commercePHP.git,PHP backend Code for Ecommerce ,,4
+947,https://github.com/salmanxk/PHP-PDO-eCommerce-Store.git,"An eCommerce store, built purely with PHP, mySQL(PDO), HTML5 & CSS",,4
+948,https://github.com/commercetools/commercetools-payone-integration.git,Integration between commercetools eCommerce API and Payone payment service provider API.,,4
+949,https://github.com/rphlfc/EcommerceMobileApp.git,Aplicativo de ecommerce com SwiftUI no iOS 14.,,4
+950,https://github.com/Em0An/eCommerce-Courses-Task-Learn-14.git,eCommerce Courses Task Learn 14 For Language Change,,4
+951,https://github.com/dbashyal/Technooze_Tproductschedule.git,scheduling product activation and deactivation in magento ecommerce,,4
+952,https://github.com/albenK/eShop.git,an ecommerce web app built using Angular and Firebase,,4
+953,https://github.com/mouradxmt/ecomag.git,ECOMAG - an Ecommerce Magazine made by Python Django,,4
+954,https://github.com/fadion/BKT-eCommerce.git,Paketë PHP për shërbimin eCommerce të bankës BKT,,4
+955,https://github.com/clintLandrum/silverstripe-productreviews.git,Submodule for Silverstripe Shop/Ecommerce modules for product reviews.,,4
+956,https://github.com/ordercloud-api/ordercloud-dotnet-sdk.git,The official .NET SDK for the OrderCloud eCommerce platform,,4
+957,https://github.com/GauravButola/eCommerce.git,This is an eCommerce project I made in C# using ASP.NET and SQL server 2008.,,4
+958,https://github.com/Bit-Developer/game-store-aspnet.git,"An online eCommerce web store, built with ASP.NET MVC in C#.","online-store,asp-net-mvc,azure,sql-server-database,csharp",4
+959,https://github.com/Sylius/SyliusShopBundle.git,[READ-ONLY] Storefront for Sylius eCommerce.,,4
+960,https://github.com/cemutku/mern-eCommerce-app.git,Example eCommerce application developed with MERN stack.,"reactjs,redux,expressjs,ecommerce,rest-api,mongodb",4
+961,https://github.com/wp-premium/gravityplus-google-analytics-ecommerce-tracking.git,"Gravity Forms + Google Analytics Ecommerce Tracking, Git-ified. Synced manual! This repository is just a mirror of the Gravity Forms + Google Analytics Ecommerce Tracking plugin. Please do not send pull requests and issues.",,4
+962,https://github.com/GalloDaSballo/Strapi-Gatsby-Ecommerce-Backend.git,Strapi Backend Code to build an Ecommerce Application with Gatsby and Stripe https://strapi.entreprenerd.xyz/complete-strapi-course?coupon=STRAPI_ECOMMERCE,,4
+963,https://github.com/etrivinos/Wooionic-Ionic-3-App.git,Woonic - Build an eCommerce Mobile App by  Samarth Agarwal. Udemy Course https://www.udemy.com/ionic-3-apps-for-woocommerce-build-an-ecommerce-mobile-app/,,4
+964,https://github.com/saimunhossain/wp-ion-app.git,Trying to build an ecommerce app for worpress woocommerce site using Ionic framework,"ionic3,ionic-framework,android-app,ios-app,woocommerce,wordpress,ecommerce-application,paypal-rest-api,shopping-cart,mobile-app,hybrid-application,angular,typescript,open-source,opensource",4
+965,https://github.com/pfalabella/e24PaymentPipe.net.git,A .net 4.0 implementation of the e24PaymentPipe ecommerce payment gateway,,4
+966,https://github.com/shermainelim/Online-Supermarket-System-Design-Analysis.git,System Analysis and Design of Transforming a Brick & Mortar Supermarket into Comprehensive Online Ecommerce and Warehouse Management System Integration,,4
+967,https://github.com/Eoxia/WPshop.git,WPShop Simple and powerfull ECommerce plugin for WordPress,,4
+968,https://github.com/lucamug/elm-ecommerce-cart-test.git,Simple ecommerce and shopping cart written in Elm,,4
+969,https://github.com/nisarg1499/django-ecommerce-graphql.git,Ecommerce backend developed in GraphQL APIs(Graphene) in Django  ,"graphql,django,ecommerce,graphene,hacktoberfest",4
+970,https://github.com/collierscott/react-ecommerce.git,"An ecommerce application using ReactJS, Strapi, GraphQL, MongoDB, and Stripe","react,reactjs,mongodb,stripe,ecommerce,strapi",4
+971,https://github.com/santanamic/woo-cielo-boleto.git,Emita boletos usando a API Cielo eCommerce v3 no WooCommerce,,4
+972,https://github.com/storecamp/storecamp.git,ecommerce platform,ecommerce-platform,4
+973,https://github.com/supryantowp/laravel-ecommerce.git,ecommerce website,"laravel,ecommerce,php",4
+974,https://github.com/williamkoller/ecommerce-ebooks.git,Ecommerce Ebooks,"nodejs,api,rest,rest-api,nodemon,developer,heroku-deployment",4
+975,https://github.com/luismartinezs/studio-ghibli-books.git,Ecommerce template,,4
+976,https://github.com/memakeit/mmi-ecommerce.git,ecommerce module,,4
+977,https://github.com/givanz/Vvveb.git,"Powerful and easy to use software to build websites, blogs or ecommerce stores.","cms,page-builder,ecommerce-platform,php,blog-platform",4
+978,https://github.com/iammipe/ShoppingCartApp.git,eCommerce web app build in ASP.NET Core and React.js library ,,4
+979,https://github.com/hkmsadek/laravel-vue-ecommerce.git,Full professional laravel vue ecommerce web application! https://www.youtube.com/watch?v=2dLIc7dbvxI&list=PLKpfEl4N7tRqT2KiBM5OXKMpIKnwDJiN_,,4
+980,https://github.com/rpryzant/rakuten_ecommerce.git,Discovering the best parts of ecommerce product descriptions. Data courtesy of Rakuten ,,4
+981,https://github.com/Jenamehta/ecommerce.git,Ecommerce MVC JavaFX,,4
+982,https://github.com/casamaa/practica-ecommerce.git,practica de ecommerce,,4
+983,https://github.com/LowkeyCoding/Simple-nodejs-webshop.git,A simple Ecommerce website,"node-js,stripe,ecommerce,handlebars,expressjs",4
+984,https://github.com/ontoworks/ocommerce.git,eCommerce platform in RoR,,4
+985,https://github.com/raynirola/sikkim.store.git,"Multitenant, Multivendor ecommerce.","ecommere,laravel",4
+986,https://github.com/xi-spec/Wand-React-Native.git,Wand Ecommerce App,,4
+987,https://github.com/lighttt/Shop-Venue.git,Flutter Ecommerce App,,4
+988,https://github.com/MaxDaten/ecom.git,project for ecommerce lecture,,4
+989,https://github.com/aimanxyed/HeistIt.git,basic ecommerce app,,4
+990,https://github.com/aimanxyed/HeistIt.git,basic ecommerce app,,4
+991,https://github.com/dwyfrequency/backroads-gatsby.git,ecommerce site for booking tours,,4
+992,https://github.com/Mariam-Naz/dynamic-Ecommerce-Website.git,Dynamic ecommerce website with php ,"php,html,css,javascript,mysql,bootstrap4",4
+993,https://github.com/tareq89/moshla-bazar.git,A NuxtJs app ECommerce Site,"vuejs2,vuex,vuerouter,nuxtjs,express-js",4
+994,https://github.com/nebulab/solidus_client.git,Solidus eCommerce API Ruby client,"solidus,ecommerce,ruby",4
+995,https://github.com/conekta-examples/hello-conekta-python-django.git,Python Django eCommerce using Conekta.,,4
+996,https://github.com/globalmiles/ecommerce-api-specification.git,Global Miles Ecommerce API Specification,,4
+997,https://github.com/RisingStar-Web/Sorted-eCommerce-App-.git,eCommerce App using React Native,,4
+998,https://github.com/luster02/SkipForce-Ecommerce-Backend.git,Ecommerce backend with nestjs framework,"nestjs,graphql,ecommerce,postgresql",4
+999,https://github.com/Webschool-io/Project-Motion-Design-Ecommerce.git,Ideias de UX para ecommerce,,4
+1000,https://github.com/avored/documentation.git,Documantation for AvoRed Laravel Ecommerce ,hacktoberfest,4
+1001,https://github.com/imaun/behlog.git,"A simple, easy to use, powerful .NET CORE CMS & eCommerce solution for managing websites, blogs, and shops.","cms,blog-engine,content-management-system,farsi,persian,csharp,dotnet,asp-mvc,shop,dot-net-core,dotnetcore,dotnetcore3,eshop,ecommerce,website-builder,eshop-builder,ecommerce-platform,ecommerce-website,behlog,weblog",4
+1002,https://github.com/rnjn/twistDemo.git,A Twist demo project which automates an eCommerce website created using ofbiz ,,4
+1003,https://github.com/AdamOlszewskiIT/ddd-order-layers.git,DDD ecommerce layered architecture in java 11 with docker and docker-compose,"java11,docker,docker-compose,ddd,ddd-architecture,cqrs,layered-architecture,ecommerce",4
+1004,https://github.com/pratik-123/ECommerceSample.git,ECommerce sample project using API data read and CoreData local storage with Codable protocol,"mmvm,swift,coredata,codable,api,unique-constraint,nssortdescriptor,coredata-relationship",4
+1005,https://github.com/cosmicjs/angular-ecommerce-personalization.git,"Angular ecommerce website customization sample, working with headless CMS Cosmic JS",,4
+1006,https://github.com/harunurkst/django_rokomari.git,An eCommerce project developed with django for my online django course batch 04 ,,4
+1007,https://github.com/OkothPius/Masoko-Ecommerce.git,"A B2C ecommerce platform that connects farmers directly to the customers, eliminating the middleman.","django-application,django-paypal,e-commerce-project,masoko-ecommerce,django,elegant",4
+1008,https://github.com/globalmiles/ecommerce-net-sdk.git,Global Miles Ecommerce API .Net SDK,,4
+1009,https://github.com/globalmiles/ecommerce-ruby-sdk.git,Global Miles Ecommerce API Ruby SDK,,4
+1010,https://github.com/workouse/SyliusDigitalWalletPlugin.git,Digital wallet plugin for sylius ecommerce,"wallet,sylius,sylius-plugin",4
+1011,https://github.com/0shuvo0/shoppy.git,Complete ecommerce frontend made with vue js,,4
+1012,https://github.com/pocesar/angular-ecommerce-analytics.git,Google Analytics Ecommerce helper with tracking events ,,4
+1013,https://github.com/globalmiles/ecommerce-node-sdk.git,Global Miles Ecommerce API Node SDK,,4
+1014,https://github.com/globalmiles/ecommerce-java-sdk.git,Global Miles Airline Ecommerce API Java SDK,,4
+1015,https://github.com/Hreacon/CarSmash.git,An ecommerce site for a youtube channel,,4
+1016,https://github.com/jinhe2305/shopping-cart.git,ecommerce cart application built using React,,4
+1017,https://github.com/LudwigEdward/ExemploEcommerce.git,Exemplo de Ecommerce feito em flutter.,,4
+1018,https://github.com/ECOM-MySpectacle/MySpectacle.git,Projet eCommerce réalisé à Polytech Grenoble.,,4
+1019,https://github.com/retgits/acme-sunglasses.git,An eCommerce app for Akka Serverless,,4

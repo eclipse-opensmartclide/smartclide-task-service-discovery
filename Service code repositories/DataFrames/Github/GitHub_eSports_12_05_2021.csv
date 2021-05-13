@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/Contentify/Contentify.git,Contentify is an esports CMS based on the PHP framework Laravel,"cms,esports-cms,laravel,gaming-cms,esports,gaming,contentify,php,content,content-management,laravel-cms,cmf,admin,laravel-admin,website,clan,esport",190
+1,https://github.com/Firstbloodio/token.git,A Decentralized eSports Platform Based on Smart Contracts,,132
+2,https://github.com/NeoFrag/NeoFrag.git,"Your turnkey gaming website, 100% free, 100% eSport!","cms,framework,esports,esports-cms,gaming,gaming-cms,cms-framework,php7,bootstrap,mysql",88
+3,https://github.com/RCVolus/lol-pick-ban-ui.git,Web-Based UI to display the league of legends champ select in esports tournaments.,"league,league-of-legends,champ-select,pick-ban,broadcast,graphics",85
+4,https://github.com/bryanling1/Overwatch-League-Arena.git,"{""A recreation of Blizzard's Overwatch Esports Arena""}",,48
+5,https://github.com/webSPELL/webSPELL.git,DEPRECATED! webSPELL is a free Content Management System which was especially developed for the needs of esport related communities.,"webspell,php",40
+6,https://github.com/g33kidd/bracket.git,An eSports tournament framework built with Laravel,,33
+7,https://github.com/LukeAlSaba/leagueoflegends.git,A command-line interface for League of Legends Esports.,"leagueoflegends,lol,gaming,cli,riot,games,javascript,npm,nodejs,api",28
+8,https://github.com/Noelierx/GameHer.git,"Gameher is a french association aspiring to develop gender diversity in the fields of video games, esport and streaming. We want to give players the tools they need to flourish and evolve in the fields of video games, esport and streaming.","symfony,twig,symfony-cli,frontend,materializecss,javascript,esport,gender-diversity,video-games,streaming,hacktoberfest2020,hacktoberfest",27
+9,https://github.com/mrtolkien/leaguepedia_parser.git,"A parser for the Leaguepedia website, focused on gathering esports data.",,26
+10,https://github.com/sriRacha21/Rutgers-kun3.git,A Discord bot that manages the Rutgers Esports Discord and other Rutgers Discords!,,25
+11,https://github.com/GabrielGrimberg/VitonBet.git,VitonBet is an Android betting application that allows users to place bets on eSports events and to gamble on user created events. Casino mode also available to gamble and sending cash to other users available too.,"android-application,java,gambling,betting,firebase",23
+12,https://github.com/ozfortress/citadel.git,esports league framework by ozfortress.,,20
+13,https://github.com/dreamteam-gg/smart-contracts.git,"Smart contracts for the first esports and gaming recruitment and management network, DreamTeam.","smart-contracts,ethereum,ethereum-dapp",20
+14,https://github.com/manuelsc/eSportsETH.git,A decentralized eSports betting platform,"ethereum-contract,ethereum,ethereum-dapp",18
+15,https://github.com/rafaelvicio/eSports-team.git,"Trabalho de conclusão de curso do curso de Ciência da Computação. (eSports Team)Plataforma de gestão para times de Esportes Eletrônicos desenvolvida na MEAN Stack(MongoDB, Express, Angular e Node.js).","tcc,javascript,mean-stack,mean,mongodb,mongoose,express,angularjs,nodejs,esports",18
+16,https://github.com/Pupix/lol-esports-api.git,An API for the eSports side of League of Legends,,16
+17,https://github.com/philipmaymin/VantageSportsLoL.git,The open-sourced League of Legends optical tracking and advanced eSports analytics platform,,16
+18,https://github.com/BETTING-CODE/awesome-esports-sites.git,"A curated list of awesome esport betting sites – live, statistics and other resources.","esport,betting,tips,awesome-list,awesome,dota2,csgo,league-of-legends",13
+19,https://github.com/Q-Con/qcacher.git,eSports & Gaming CDN cache service,,12
+20,https://github.com/lootmarket/esport-team-logos.git,Esports Team Logos,"images,repository,esports,team-logos,thumbnails",11
+21,https://github.com/davidweatherall/League-Data-Scraping-And-Analytics.git,"Tools to scrape data from the riot API and calculate stats used for eSports betting, such as first blood %","python3,python,leagueoflegends,scrape,betting,betting-models",11
+22,https://github.com/auzom/auzom.git,Esports tournament platform by Auzom Entertainment,,10
+23,https://github.com/kevinxh/eTourney.git,An open eSports tournament hosting web app.,,8
+24,https://github.com/wooolfgang/ethlantis-dapp-frontend.git,Trustless Esports Betting Platform,"solidity,smart-contracts,ethereum,ethereum-dapp,web3js",8
+25,https://github.com/ProHiryu/api-wanplus-crawler.git,A small custom lol-esports-api of wanplus.com,"crawler,api-wanplus-crawler,lol,esports,api,game,skt,rng",8
+26,https://github.com/rbdixon/edope.git,eSports Leet Automatic Network Cheating Enhancement (ELANCE),,7
+27,https://github.com/mhughdo/m0t-trI3u-4n-9i.git,Tinder-like  web for esport lovers,,7
+28,https://github.com/sriRacha21/Rutgers-kun.git,A Discord bot that manages the Rutgers Esports Discord.,,6
+29,https://github.com/Barsnes/QuixzLaravel.git,Quixz Esports website built using Laravel,,6
+30,https://github.com/ProHiryu/esports-api-lol.git,Use the api from http://esports-api.com/docs/leagueoflegends,,6
+31,https://github.com/laurenor/Turni.git,Create interactive esports venue maps from Challonge brackets.,,6
+32,https://github.com/MarcioJrios/PGP_project.git,Projeto de um site de apostas de eSports desenvolvido na matéria de PGP,,6
+33,https://github.com/glenndehaan/esports-pwa.git,A small Progressive Web App showing you the latest stats in Esports,"pwa,javascript,esports,webpack,es6",6
+34,https://github.com/ryanthtra/lol-esports-data-analysis.git,"Analysis, insights, and modeling for various League of Legends eSports leagues for the 2018 Spring Split",,6
+35,https://github.com/celer-network/celerx-example-go-celer.git,This is an example HTML5 game that can be easily integrated with CelerX eSport Gaming SDK,,6
+36,https://github.com/Granitosaurus/ggmt.git,esport match ticker based on gosugamers.com data,,6
+37,https://github.com/XEQTIONR/dgl-site.git,DaGameLeague professional esport leagues and tournaments - webapp. ,"php,laravel-framework,laravel-backpack,vuejs2,gamer",5
+38,https://github.com/glenndehaan/esports-api.git,A public api getting you the latest stats in Esports,"php,monogdb,phalcon,esports,api,docs",5
+39,https://github.com/Austerius/Pinnacle-Scraper.git,Scrapping esport betting information from Pinacle.com using Scrapy and Selenium ,,5
+40,https://github.com/sytem/esport-templates.git,CasparCG-templates for eSports,,5
+41,https://github.com/kzl/league-analysis.git,Analysis of data from the videogame/eSport League of Legends,,5
+42,https://github.com/Online-Fighting-League/OFL-AC.git,"CSGO Server Side Anti Cheat solution. Made for esports, open to everyone. A perfect solution for you and your commuinty, with seamless integration and support.","csgo,anticheat,sourcemod-plugin",5
+43,https://github.com/SonnyRR/BESL.git,"🏆 Bulgarian eSports League. Play competitive tournaments and win prizes! My defense project for ASP.NET Core MVC @SoftUni. Built with ASP.NET Core MVC 2.2, CQRS, MediatR, Redis, SteamWebApi2, Hangfire, SignalR.","asp-net-core-mvc,mvc,csharp,csharp-code,softuni,mediatr,asp,competitive-tournaments,cqrs",5
+44,https://github.com/lawrluor/matchstats.git,A global/regional ranking system and tournament database for competitive eSport Super Smash Bros Melee.,,5
+45,https://github.com/royOST/norse-bot.git,"NorseBot is a multipurpose discord bot written in TypeScript with uses in ticket management, moderation, fun, and streamer integrations. This bot is in development for Northern Kentucky University Esports.","discord-js,discord-bot,discord,typescript,nodejs,ticket,streaming-notifications,bot,ticket-management,ticket-permissions",5
+46,https://github.com/finncyr/ECO-League-Overlay.git,LoL Spectator Overlay for eSports Cologne,,4
+47,https://github.com/YouClap/eSports.git,eSports Website,,4
+48,https://github.com/hanneserdmann/readmore-userscript.git,Fügt der deutschen eSport-Webseite zusätzliche Funktionen hinzu,,4
+49,https://github.com/Pupix/lol-esports-api-module.git,"{""A wrapper for League of Legends' eSports API""}",,4
+50,https://github.com/Litzuck/lol-spectator-overlay-client.git,A client that produces an overlay similar to that of the one used in the broadcasts of LoL Esports during 2015-2017,,4
+51,https://github.com/pacohh/esports-cli.git,A command line interface to view all esports matches and scores,,4
+52,https://github.com/brnlee/LoL-Vigil.git,An Android app that sends real-time alarm notifications for League of Legends Esports games.,,4
+53,https://github.com/justinthec/chronos-youtube-highlighter.git,Transform LoL eSports YouTube videos into highlight reels using game data.,,4
+54,https://github.com/Ziyang7/ProjectA.git,ProjectA -- an esport/sport AI predictor,"ai,ml,python,esports",4
+55,https://github.com/abolix/AURA.git,1xBet live data save for FIFA eSport,,4
+56,https://github.com/HHSProgrammingClub/smash-my-buttons.git,Le all-purpose AI Fighting Game and possible eSport if everything goes better than expected lol,,4
+57,https://github.com/Watt-Esports/wattesports.co.uk.git,The Watt Esports website: https://wattesports.co.uk,,3
+58,https://github.com/JasonMcz/white-paper.git,A Decentralized eSports Platform Based on Smart Contracts,,3
+59,https://github.com/Firstbloodio/brand-assets.git,Brand Assets | A Decentralized eSports Platform Based on Smart Contract,,3
+60,https://github.com/linkbutlerservices/pandascore-adapter.git,"A simple chainlink external adapter, allowing smart contracts to fetch esports match results.  ",,3
+61,https://github.com/celer-network/celerx-js.git,the Javascript library of CelerX eSport Gaming SDK,,3
+62,https://github.com/bad-at-names/gamer_now.git,A react app that provides a fantasy league and coaching for eSports.,,3
+63,https://github.com/diegofelix/battleroad.git,eSports Championship Platform,,3
+64,https://github.com/crownprogaming/brackette.git,Manage your eSports tournaments with ease! ,,3
+65,https://github.com/rmishra-ror/rts.git,Ruby wrapper for RTS Esports JSON APIS,,3
+66,https://github.com/Vemestael/vemestael_esport_bot.git,Telegram bot for viewing information on eSports matches,"bot,telegram-bot,esport",3
+67,https://github.com/codemaster/PAXtourny.git,Tournament Software specifically for gaming/eSports made for PAX,,3
+68,https://github.com/NishantTheProgrammer/1GamerPro.git,"This is a Laravel website an eSports platform for tournaments organizers, their participants and their fans.",,3
+69,https://github.com/NormalPlayerJSH/lol-banpick-observer.git,League of legends BAN/PICK Observing Tool looks like eSports League,"lol,leagueoflegends,esports,observer,spectator",3
+70,https://github.com/carsonhu/cea-elo.git,Project to get elo ratings of players in the Starcraft division of the Corporate Esports Association,,3
+71,https://github.com/Play2Live/blockchain.git,Play2Live is a blockchain-based streaming platform for gamers and eSports fans,"blockchain,smart-contracts,gaming,ico",3
+72,https://github.com/afex/xbmc_gomtv.git,XBMC video plugin for viewing of eSports videos hosted on GOMTV.net,,3
+73,https://github.com/mmolash/esports-scores.git,A node.js based web scraper that pulls professional esports scores from gosugamers and returns it in JSON format,,3
+74,https://github.com/JiahuiChen99/LoLChampSelector-Electron.git,"{""🎮 LoL Champ Selector is a chat bot about the world's most famous eSport game. The baseline is to help users find a new champion to play with, based on the preferred difficulty. ""}","chatbot,electron,nodejs",3
+75,https://github.com/grishrl/leagueUp.git,Wep application suite for managing an amateur hots esports league,,2
+76,https://github.com/unChaz/coachie.git,esports coaching marketplace,,2
+77,https://github.com/froonix/happytec-ghosttool.git,⛷ Java-GUI-Client for HAPPYTEC-eSports-API,java-8,2
+78,https://github.com/RheingoldRiver/river_mwclient.git,"My mwclient wrapper, with a focus on esports wiki-useful things",,2
+79,https://github.com/barwick/eSportsSoc.co.uk.git,Imperial eSports Society landing page - http://eSportsSoc.co.uk,,2
+80,https://github.com/seanpm2001/SNU_2D_eSports.git,"{""SNU 2D eSports is the electronic/digital sports center for SNU. As I (seanpm2001) don't know enough about sports, and eSports, I cannot fully develop or moderate this. This module not required for most SNU distributions. [Click/tap here to learn how to build SNU](https://gist.github.com/seanpm2001/745564a46186888e8… ""}",,2
+81,https://github.com/clanify/clanify-core.git,A system to organize eSport-Teams and Gaming-Communities.,"php,esports,gaming-communities,clanify",2
+82,https://github.com/Clemson-Esports/Clemson-Bot.git,Discord bot for the Clemson Esports Discord at https://discord.com/invite/clemson,,2
+83,https://github.com/Legionof7/TeamEthereum.git,Crowdfunded eSports Team,,2
+84,https://github.com/Yleisradio/yle-esports-ebot-api.git,Yle esports ebot api,,2
+85,https://github.com/viAtom/LEV2.git,LoL Esports Viewer 2,,2
+86,https://github.com/Albarral19/juventuseSports.git,CA Juventus eSports,,2
+87,https://github.com/matthewyu01/merge-esports-TL-Hacks.git,Informational Esports App,,2
+88,https://github.com/uoftesports/utes.git,🎮 uoft esports website,,2
+89,https://github.com/Subham-Mallick/esports-startup.git,ESports Monitoring and Betting Application,,2
+90,https://github.com/dmarket/blockchain.git,"DMarket is an NFT and in-game items platform that unlocks the multi-billion-dollar digital asset economy for game developers, players, esports clubs, brands, streamers and fans everywhere. We are creating a metaverse that connects gaming and esports, brands and their audiences, real experiences and virtual valuables. In this metaverse, you can get drops while watching streams, craft NFT memorabilia of your favorite team or brand, trade for an in-game skin, use it in the game and then exchange it for an opportunity to play a match with an esports celebrity.",,2
+91,https://github.com/chhopsky/esporks.git,"{""Replaces the word 'Esports' with 'Esporks'.""}",,2
+92,https://github.com/tomjackman/rre-spec.git,TV/esports Broadcasting Overlay for RRE,,2
+93,https://github.com/allinspiration/allin-passionbot.git,"{""[ALLIN]'s eSports Robit Waifu for HipChat""}",,2
+94,https://github.com/Excaliburns/NoleBot.git,Discord bot written for the Esports at Florida State Discord. Open for use for other collegiate Esports discords.,"jda,discord,jda-bot",2
+95,https://github.com/smokeybears/esports-api.git,The API for the Esports mobile app and website.,,2
+96,https://github.com/flavioricardo/agendaesports.git,Agenda eSports - MVP de uma agenda de esportes eletrônicos,"esports,freefire",2
+97,https://github.com/rringer/eSports.git,eSports Skillet for Palo Alto Networks PAN-OS,"skillets,paloaltonetworks",2
+98,https://github.com/A-Mira/LFT.git,eSport-based Social Network,,2
+99,https://github.com/AlexandrZagorskiy/Esport-proj.git,Esport project on OSTIS,,2
+100,https://github.com/RHartman99/stevens-esports-dashboard.git,"Dashboard for the Stevens eSports Organization, built as a final project for Web Development (CS-546).",,2
+101,https://github.com/COLARDYNIT/hwbot-issues.git,"Public issue tracker for all issues related with HWBOT, HWBOT Prime, OC-eSports, etc.",,2
+102,https://github.com/DC00/Ecalo.git,"An API and React app for viewing dates, times, and locations for major esports",,2
+103,https://github.com/rigelifland/lolesports_api.git,A python library for downloading and parsing data from the unofficial LoL Esports API,,2
+104,https://github.com/Milkshak3s/Wordpress-eSports-Suite.git,"A Wordpress plugin for eSports teams and tournament organizers, open source and open to suggestions",,2
+105,https://github.com/recursiveKirs/virtual-arena-league.git,A platform for discovering and organizing competitive eSports Tournaments for everyone.,,2
+106,https://github.com/aosousa/go-lol-esports.git,"Golang application that displays League of Legends Esports information (matches, leagues, etc.)","golang,go,cmd,gaming,lol,leagueoflegends,esports",2
+107,https://github.com/guim4dev/live-lol-api.git,Scripts project for reading live info for live League of Legends esports events,,2
+108,https://github.com/Sgawrys/EsportSource.git,A basic Django project to allow for user generated articles and discussion about esports,,2
+109,https://github.com/FragSoc/esports-bot.git,A Discord bot utilising Discord.py to provide functionality for UoY Esports game hubs,"discord-bot,discord-py",2
+110,https://github.com/timche/readmore-flat-theme.git,[DEPRECATED] A Flat Theme for the German eSports website readmore.de,deprecated,2
+111,https://github.com/gschurck/nymeria-website.git,Webiste created for Nymeria Esport association,"esport,website",2
+112,https://github.com/branden-akana/octogon-tool.git,multifunction streaming tool for esport streams,"obs-studio,streaming,tool,esports,obs,overlay,melee,smashgg,smash-bros,tournament,scoreboard-controls,scoreboard,overlays",2
+113,https://github.com/LuisdelaVega/MatchUp.git,"MatchUp is an eSports management platform and social network for gaming enthusiast and event organizers. The system aims to solve the biggest problem that event organizers face when producing an eSports event, the lack of a unified management tool.",,2
+114,https://github.com/anuragprajapat/esports.git,This is a esports app for creating teams and auctioning players and playing with their preferred mode - XBOX/PS,,2
+115,https://github.com/wwsalmon/rl-timeline.git,"""A new way to see Rocket League History"" -- Esports datavis with wiki scraping and d3. Very WIP","esports,rocket-league,d3,data-visualization,web-scraping,nlp",2
+116,https://github.com/Sumanth-Talluri/Marvel-Superwar-Tournament.git,I created this website for El Bruisers eSports for their Marvel Super War Game Tournament organized in June 2020.,"html-css,tailwindcss",2
+117,https://github.com/JoshuaKing/Scrim.git,Manages eSport Scrim teams to organise scrims and teams,,2
+118,https://github.com/JasonMcz/Tronn.git,A platform that lets eSports players  challenge the field and win rewards.  Made possible by smart contracts and oracles in the blockchain.,,2
+119,https://github.com/JoePeirson/esports_betting_model.git,"A betting model I built on esports which shows very high ROI. I made over £20,000 from using this model.",,2
+120,https://github.com/Lntnam/esport-website.git,A basic website template for any esport team (DOTA 2 in my case),,2
+121,https://github.com/Philword/overwatch-seasons.git,"Tournament web platform for esport.  Laravel 5.5, MySQL, Vue.js, Javascript, React.",,2
+122,https://github.com/etalkpro/lol-inhibitors-timers-for-spectator-mode.git,"{""lol inhibitors overlay timers for spectator mode League of Legends. We using it in own esports league. If you wanna test or buy license don't be afraid to contact us. Price for this addon is 35$ monthly.<br/>""}",,2
+123,https://github.com/olol/lolesp-cal.git,Generates iCal files for your calendar with eSport League of Legends matches taken from http://www.lolesports.com/. Check out the result here : http://olol.github.io/lolesp-cal/,,2
+124,https://github.com/nbatfai/SamuEntropy.git,Samu Entropy: ESPORT AND ARTIFICIAL INTELLIGENCE,,1
+125,https://github.com/RheingoldRiver/esports-wiki-cogs.git,RED cogs for editing esports wikis,,1
+126,https://github.com/Juiceathon/Noobvolution.git,Esports coaching web app. Proud winner of the 2018 Reactathon!,"esport,gaming",1
+127,https://github.com/jarettgross/fantasy-esports.git,Daily Fantasy eSports,,1
+128,https://github.com/bhavesh0206s/esport-conenct-mvp.git,esport-conenct-mvp,,1
+129,https://github.com/Sledro/ProLeague.git,An eSports Tournament and League Platform,,1
+130,https://github.com/BrentonPoke/ToornamentClient.git,A java api client for the esports bracket website Toornament.,,1
+131,https://github.com/KMCGamer/usc_bot.git,The Official University of South Carolina eSports Club Discord Bot.,"javascript,bot,discord",1
+132,https://github.com/PChwistek/Clairvoyance.git,An ESports Betting Platform -- project for learning Truffle and React.js,,1
+133,https://github.com/FDHSEsports/FDHSEsports.github.io.git,Esports Website for FDHS Esports,,1
+134,https://github.com/SrBeyron/Master-Of-War.git,eSports,,1
+135,https://github.com/fedexin40/eSportsMexico.git,eSports México,,1
+136,https://github.com/GhostRicity/esports-cms.git,esports-cms,,1
+137,https://github.com/Flequi96/ProyectoCursoJava.git,Página Esports,,1
+138,https://github.com/himanshup/escoreboard.git,eSports scoreboard,,1
+139,https://github.com/tesh254/emania-api.git,Esports platform ,,1
+140,https://github.com/TrevorDev/comboHype.git,Esports? We got those!,,1
+141,https://github.com/eknowles/CasparCGEsportsClient.git,eSports Client for CasparCG,,1
+142,https://github.com/Vaughan-Esports/vaughanesports-website.git,Vaughan Esports Website Repository,,1
+143,https://github.com/fogeltanz/Esports-Website.git,Madison Esports website,,1
+144,https://github.com/EnisGamingX/FlyBxmb_eSports.git,Original FlyBxmb eSports Theme,,1
+145,https://github.com/ReyPJ/GoatEsports.git,Goat Esports Website,,1
+146,https://github.com/tguyer/RisenEsports.git,Website for Risen Esports,,1
+147,https://github.com/evanwang22/daily-lcs.git,Daily Fantasy eSports,,1
+148,https://github.com/mgp/streamhighlights.git,Calendaring for viewing eSports,,1
+149,https://github.com/Yleisradio/esports-slurper.git,Esports data receiver,,1
+150,https://github.com/viAtom/LEV.git,LoL Esports Viewer,,1
+151,https://github.com/zelliott/geeg.ee.git,ESports professional network,,1
+152,https://github.com/smithsps/WeeklyPickem.git,LoL Esports Weekly Pickem,,1
+153,https://github.com/alansutherland/rumblestone.git,Redux esports voting system,,1
+154,https://github.com/anrkparker/AnarchyEsports.git,Anarchy Esports Repository,,1
+155,https://github.com/nightyyy/godq.git,GodQ eSports Web Page,,1
+156,https://github.com/halogeeni/esports-system.git,MEAN eSports platform,,1
+157,https://github.com/KeithPrinkey/World-eSports.git,Our world esports project,,1
+158,https://github.com/routerabfrage/MemberDB.git,eSports Member Database,"esports,management-system,php",1
+159,https://github.com/nutiler/league-ladder.git,Houseparty Premier Esports.,"league-of-legends,esports,houseparty,riot-api,riot-games",1
+160,https://github.com/medwards/plugin.video.eventvods.git,Kodi eSports Event VOD browser,,1
+161,https://github.com/uoftesports/uoft-esports.git,old website for uoft esports,,1
+162,https://github.com/EsportsGenie/TeamSponsorshipAgreement.git,Esports Team Sponsorship Agreement Template,,1
+163,https://github.com/RuiChen0101/eSports-Stream-Tools.git,Gui tools for eSports Stream,"esports-stream,timer,scoreboard",1
+164,https://github.com/UoB-eSports/uob-esports.github.com.git,University of Brighton eSports Website,,1
+165,https://github.com/MarcelGerber/sBinder.git,Keybinder for Nova eSports Newlife,"autohotkey,keybinder,gtasa,gtasandreas",1
+166,https://github.com/bmhs-tsa/orange-thallium-server.git,An esports credential management system,"esports,go,vault",1
+167,https://github.com/adamwrites/lanebully.git,A website for eSports news,,1
+168,https://github.com/streamr-dev/esports-dapp.git,"DApp for esports betting, using Streamr to stream data of esports matches datamined from pandascore",,1
+169,https://github.com/ngdio/qqlolapi.git,QQ LoL Esports Data API Wrapper,,1
+170,https://github.com/sarangjo/rlesports.git,"{""Rocket League's Esports scene, visualized.""}",,1
+171,https://github.com/algakovic/Zero-To-Hero.git,A recommendation system for eSports game Overwatch,"recommender-system,overwatch,data,data-science",1
+172,https://github.com/RisenEsports/RisenWebApi.git,GCP API for the Risen Esports Organization,,1
+173,https://github.com/tisttsf/d2_prediction.git,esports and sports data mining analyze predict,dota2,1
+174,https://github.com/cable729/DotnetScraper.git,Scraping the Leauge of Legends Esports APIs,,1
+175,https://github.com/sturdy-robot/esports-manager.git,Free and open source eSports Management game.,"game,esports,sports,manager-game,python,python3,pysimplegui,e-sports,e-sport",1
+176,https://github.com/Rcheng1998/PSU-Esports-Website.git,"{""Penn State University Esports Club's website""}",,1
+177,https://github.com/culv3r/statastic.git,Simulation eSports Statistical and Team Management Platform,,1
+178,https://github.com/endevrr/InifintyBot.git,A proprietary bot made for Infinity eSports,,1
+179,https://github.com/smokeybears/esports-reactNative.git,React Native App for Esports application.,,1
+180,https://github.com/Mpgaspar/black_skull_webpage.git,The best webpage of Game Arena eSports!!!,,1
+181,https://github.com/saadusufzai/Esports-Gobal-MERN-App.git,eSports Global Full Stack MERN App ,"mern-stack,rest-api,fullstack-development,netlify,heroku",1
+182,https://github.com/SneakySolutions/ggwp.git,Web Application for hosting ESports competitions.,,1
+183,https://github.com/nhcarrigan/esports-agent-bot.git,Bot for the Esports Agent Discord server,,1
+184,https://github.com/sadakatamankhan/Maverik-Gaming.git,Portfolio Website of Maverik Gaming Esports,,1
+185,https://github.com/ChallengrTeam/Challengr.git,Challengr is an Esports Tournament Platform,,1
+186,https://github.com/ziedbha/ml-game-balance.git,Using ML to understand game balance in competitive eSports,,1
+187,https://github.com/ProHiryu/oddsportal-crawler.git,crawl the history odds of lol esports matches,,1
+188,https://github.com/SilverStateEsports/SSEC-Nakamura-Theme.git,Silver State Esports Circuit Nakamura Theme for Ghost 3.x,,1
+189,https://github.com/fatel3ss/scorecast.git,A chrome extension for esports-style Twitch stream presenting,,1
+190,https://github.com/SigmaVX/O-Pine.git,All Your Favorite eSports News In One Spot,,1
+191,https://github.com/Matt-Caine/Leviathan-bot.git,Python bot for University of Plymouth Esports Society,,1
+192,https://github.com/marknach/vespa_website.git,rewrite of website for the Virginia eSports Association,,1
+193,https://github.com/hubesports/lol-esports-api-connector.git,"{""Java-wrapper for League of Legends' eSports API""}",,1
+194,https://github.com/karims-1765444/VPGames.git,A web app for an Esports platform using React-Redux,,1
+195,https://github.com/JasonMcz/white_paper.git,[White Paper] A Decentralized eSports Platform Based on Smart Contracts,,1
+196,https://github.com/arthtyagi/ESpock.git,🖖 Scores and updates of an ESports team in Rust.,,1
+197,https://github.com/adapap/Stevens-ESports.git,Stevens Institute of Technology Esports website. Currently operating under C2GS.,,1
+198,https://github.com/AsifSyeed/PurpleRiot.git,An experimental chat app for an eSports team in Bangladesh,messenger,1
+199,https://github.com/ramang22/STU-esports-discord-bot.git,Open source discord bot implementation for STU esports group,,1
+200,https://github.com/Kirbyrocket/T1-Esports-Moderation-Receipts.git,"Because apparently, the esports organization endorses hate speech and terrorism.",,1
+201,https://github.com/AlekZeng/Metrixbot.git,Discord.py Rewrite based Discord bot for Metrix Esports,,1
+202,https://github.com/Livep/TacT-Bot.git,A Discord bot for the TransacT-eSports Discord server.,,1
+203,https://github.com/J-Wass/RocketSchedule.git,Proof of concept for a Rocket League professional Esports website,,1
+204,https://github.com/wardgeene/esportsdata.git,Praticing setting up and database with esports data,,1
+205,https://github.com/shayanb/crowdsale-app.git,A Decentralized eSports Platform Based on Smart Contracts,,1
+206,https://github.com/bujustin/hextech.git,A Python framework for accessing League of Legends esports data,,1
+207,https://github.com/philipblaquiere/LoLRep.git,eSport Leagues Repository,,1
+208,https://github.com/GodePTPM/Roboto-Esport-Project.git,Roboto Esport Project,,1
+209,https://github.com/fataelislami/wararena.git,War Arena Esport Project ,,1
+210,https://github.com/ImpetusEsport/Paginaweb.git,Pagina Web Oficial Impetus Esport,,1
+211,https://github.com/PurdueCho/chickendinner.git,Esport Data Hackathon: ChickenDinner Team,,1
+212,https://github.com/lsamano/tourn-client.git,"The client-side repo for Tourn, an eSports tournament management app.",,1
+213,https://github.com/mckernant1/lol-esports-api-wrapper.git,"A wrapper around the lol esports API for the Kotlin, Java, and the JVM","league-api,kotlin-library",1
+214,https://github.com/tournamatic/tournamatic-unity-sdk.git,"{""Unity SDK for Tournamatic - Empower your eSports experience with Tournamatic's eTournaments.""}",,1
+215,https://github.com/Jyrno42/LanMan.git,"A tournament/bracket engine for leagues, developed for TTÜ eSports LAN-Party managment.",,1
+216,https://github.com/Lihao0510/GameTime.git,"An React Native application about Esports News with a lite forum,",,1
+217,https://github.com/Errorname/pandascore-graphql.git,Proof-of-Concept of a GraphQL wrapper of the PandaScore Esports API,,1
+218,https://github.com/JonathanWamsley/esports_twitch_viewers.git,Esports web scraping twitch stats for https://www.twitch.tv/jinritv,,1
+219,https://github.com/DarrenRainey/CSGO-Esports-Server.git,This is a fast and ready to go setup csgo server for esports events,,1
+220,https://github.com/mmart196/EsportsManager.git,(2014) Online Text-Based Esports Manager Simulation: Manage your own League of Legends Team ,,1
+221,https://github.com/jltsao88/Predicting_Matches_Esports.git,Business and Practical use cases for predicting matches in Esports using Machine Learning.,,1
+222,https://github.com/tedjames/void.git,"Void eSports  - Gaming community platform w/ tournament hosting, events and video streaming","react,redux,nodejs,express",1
+223,https://github.com/Cyndakwil/oef-scheduler.git,A web API built on Node.js that schedules matches for the Ontario Esports Federation Tournaments.,,1
+224,https://github.com/narcodico/salty_esports.git,A Flutter app to track League of Legends eSports games schedule,,1
+225,https://github.com/lsribeiro/esports-transfer-hub.git,A web app that lists transfers between esports organizations involving professional players,,1
+226,https://github.com/sam-cross/yeovil-college-esports.git,Single-page website for the new esports course at Yeovil College.,,1
+227,https://github.com/harlan0103/Esports-Club-CSGO-Team-MOD.git,"{"":video_game:This is a mod for steam game 'Esports Club'.""}",,1
+228,https://github.com/MartinGaiser/MMM-eSports.git,A small Calendar-Like module for displaying the upcoming eSports Matches,,1
+229,https://github.com/adamchlebek/GVES-Louie-Remaster.git,"{""Grand Valley's Esport's Discord Bot""}",,1
+230,https://github.com/Chris-Jacobs/NRGSubredditBot.git,The Subreddit Bot for /r/NRG_Esports,,1
+231,https://github.com/himanshuesp/esp.git,HTML Webpage on an esport team,,1
+232,https://github.com/jabwd/ENL-Esports.git,enl-esports.com repository ( opensource project ),,1
+233,https://github.com/rcrondeau/esports-tournament-data.git,Scrape and Analysis of Esport Tournament Data,,1
+234,https://github.com/Cyri0/MyRiotAPI.git,"DE-IK PTI - Esport tárgy, levelező",,1
+235,https://github.com/domitriusclark/gatsby-theme-esports.git,A theme dedicated to bringing a beautiful experience to every esports organizations website or up and coming content creator. ,,1
+236,https://github.com/NAM-Beyond/LOL-Predictions.git,"{""A data tool to see the statistics of people's predictions over LOL eSports match results on Leaguepedia""}",,1
+237,https://github.com/HeroicosHM/NAUDiscordVerification.git,"{""This bot manages the NAU Esports discord server verification. When a user joins, they are DM'ed a survey.""}",,1
+238,https://github.com/rochford77/ViewEsportEngine.git,Flexable Esport Engine Built on Django and Docker,,1
+239,https://github.com/Flibielt/OnBitLor.git,A project for performance measurement in esport games,,1
+240,https://github.com/KevinFroissart/histastic-bot.git,Discord Bot designed for the Hitastic esport team,,1
+241,https://github.com/FakhriSyifaurrahman/eSport-Portalindo.git,Web App tentang informasi seputar eSport di Indonesia,,1
+242,https://github.com/RuanAyram/eSports_Clicker.git,Repositorio para o meu projeto do eSports_Clicker,,1
+243,https://github.com/drouet-djimy/Agartha_website.git,Voici le site web de notre projet Agartha Esport,,1
+244,https://github.com/RisedSky/fdj-esport.git,Private Bot for the discord server fdj-esport,,1
+245,https://github.com/debbabi-nader/esports-ucl-frontend.git,"Frontend component for the ""ESports-UCL"" CAS service, described in the following blog post: https://debbabi-nader.github.io/cas-spring-angular/index.html",,1
+246,https://github.com/jhnsnc/esports-reminder.git,"Service that sends a daily reminder about upcoming League of Legends matches. Uses the RiotGames eSports API (which has limited support, so this could break at any time).",,1
+247,https://github.com/debbabi-nader/esports-ucl-backend.git,"Backend component for the ""ESports-UCL"" CAS service, described in the following blog post: https://debbabi-nader.github.io/cas-spring-angular/index.html",,1
+248,https://github.com/jullle3/all_the_bets.git,"Automatically parse and store all bet related data from a number of categories such as Esports, boxing, chess and many more. ",,1
+249,https://github.com/debbabi-nader/esports-nba-backend.git,"Backend component for the ""ESports-NBA"" CAS service, described in the following blog post: https://debbabi-nader.github.io/cas-spring-angular/index.html",,1
+250,https://github.com/jakerdou/tamu-esports-discord-bot.git,A bot I coded to send automatic tournament updates and other useful information to the Texas A&M Esports Super Smash Brothers Discord.,,1
+251,https://github.com/AlirpJ/LoLAPI_test.git,"Basic usage for using the League of Legends API! Accessing soloQ champion/player data, Esports data, and first attempts at quantitatively analyzing information","leagueoflegends,league-of-legends,riot-games-api",1
+252,https://github.com/CapstoneUNCG2020/emuLadder.git,"The application, emuLadder, is a Fantasy eSports game similar to ESPN’s Fantasy Football, Hockey, etc. Users draft real-life eSports players from games such as League of Legends and compete against other users with their drafted players. Users earn points based on their drafted players stats per game.",,1
+253,https://github.com/iuliuvisovan/preddly.git,Preddly is an online sport and esport predictions platform to enjoy with your friends.,,1
+254,https://github.com/5pyTeam/contrat-bot.git,a discord bot to manage contract of an esport organization(or other organization),,1
+255,https://github.com/gitter-badger/sc2-esport-tracker.git,Esport tracket let you track VOD and replay form SC2 match,,1
+256,https://github.com/EPSI-WORKSHOP-I5/pronostic-esportif.git,3 days school project : Bet on esport matches with your friends,,1
+257,https://github.com/jamalxo/playpal.git,Platform for eSport player to offer services to coach or play with them,"react,nodejs,business,mongodb",1
+258,https://github.com/Sokhib/livedota.git,"Sample Dota 2 eSports matches, leagues app based on MVVM, Material Components, Jetpack (ViewModel, LiveData, Room, Navigation), Coroutines, Flow, Retrofit, Gson, Timber, Glide and Dagger 2(Hilt as well). ","hilt,hilt-dependency-injection,hilt-android,viewmodel,livedata,mvvm,mvvm-architecture,dagger2,room-persistence-library,room,navigation-architecture-component,coroutines,flow,retrofit2,gson-converter,timber,glide",1
+259,https://github.com/GrantMAD/esports-Project.git,"This is a project that a friend of mine and myself started building, we decided to build this specific type of site because we love esports and would love to get involved in the scene. ",,1
+260,https://github.com/Kawaza/Discord-Bot.git,"This is the discord bot used for the Kritical Mass Esports Discord. It consists of basic functions, commands, and auto roles. Which are all used for our Discord Community.",,1
+261,https://github.com/curveballdaniel/What-s-on.git,"A simple Java Swing app which pulls/scrapes data from different sources to display the live sports schedules for Esports such as League of Legends, and sports such as Football (NFL), Hockey (NHL), Basketball (NBA), and Baseball (MLB)",,1
+262,https://github.com/yangzelong14/Real-Time-HoK-Dataset.git,"The sample dataset that contains 100 games randomly chosen from the 184,162 games in the full dataset. This dataset is used for real-time win prediction for HoK/MOBA esports.",,1
+263,https://github.com/EdShel/ESportRaise.git,"Program system for automation of esport teams trainings. Consists of Back-end, Front-end, Mobile and IoT apps",,1
+264,https://github.com/Austerius/LootBet-scraper.git,Scripts for scraping esport betting data from web site Loot.bet  using Selenium - BeautifulSoup/scrapy and css selectors  ,"beautifulsoup,selenium,scraper,python3,scrapy-spider,css-selector-parser",1
+265,https://github.com/wesleycats/030319-EsportSimulator.git,"A game where the player is required to manage its needs, fame and money to become the best esport player in the world.",,1
+266,https://github.com/eSportClubDE/website.git,"Der eSportClubDE ist ein Zusammenschluss von Spielern, die sich Gedanken darüber gemacht haben, was der deutschen eSport Community fehlt und wie man diese Probleme beseitigen kann.","esport,community,twitter",1
+267,https://github.com/joestoica/csgo_elo.git,The goal of this repository is to predict the outcomes of matches of the esport Counter-Strike: Global Offensive using a modified ELO system.,,1
+268,https://github.com/dqa611/Dota2_minigame.git,"A mini game inspired by the game DOTA2, an eSport with one of the highest competitive prize pool in the world",,1
+269,https://github.com/zeusgmingrd/Eclipse-SCRIMS.git,Hello Everyone  Papa eSports presenting   ECLIPSE SCRIMS    What we provide ?     TIER 1-  & TIER 2- n TIER 3  • Unlike every customs we will create a highly competitive scrims for underdogs teams to emerge.  • We will give underdog teams chance to competitive with big teams if they perform well.  • A friendly environment amoungs players.   For Further Information Join Discord And DM Admin If You Got Some Problem,,1
+270,https://github.com/raj-rathod/E_sports.git," This project s about hosting an online Esports tournament, where players can register for the upcoming tournament and get notified when the tournament start. Player will receive the result as the end of the tournament with the ranking and the prizes they won. This project have payment gateway for paying the participation fees and send a request for withdraw winning prize money and Also players can use wallet money as a participation fees for next tournament ","mongodb,nodejs,angular10,expressjs",1
+271,https://github.com/SiriusVisuals/Modmail.git,"This modmail bot is used for Oakland University\'s Rocket League Esports Discord. Essentially you just dm the bot and the bot then creates a new channel (with that specific users name+id) within the specified ""Modmail Tickets"" category. Staff members with permission will be able to talk in the channel as their messages will be forwarded from the channel through the modmail bot to the user who created the ticket.",,1
+272,https://github.com/makerli/Arbitrage-strategies-in-markets-of-Esport-skins.git,"Inspired by the major price spread between Esport skin markets and the methodology of quantitative trading, in this paper, we propose a set of creative arbitrage strategies in the secondary market of Esport skins. In the beginning, we obtained a mass of data from the web spider deployed in cloud servers. Qualitative and quantitative analyses were then carried out based on these data. These analyses results guided us the way to a mathematical model describing the whole market environment. In the end, the performance of strategies was evaluated with the historical price data. To our delight, the annual yield is very promising yet risk beyond the anticipation of mathematical model cannot be ignored. ",,1
+273,https://github.com/Daniel2019Creator1/META-RUNNER-Official-Trailer--NEW-Animated-Series-.git,"(LINK:  https://daniel2019creator1.github.io/META-RUNNER-Official-Trailer--NEW-Animated-Series-/)     👇 META RUNNER IS OUT NOW. WATCH IT HERE👇 https://www.youtube.com/watch?v=bmhAp...  New Episodes every Thursday 12pm PST!  In a world where video games, speedrunning & esports are everything, a cyborg girl named Tari finds herself in the crosshairs of world class Meta Runners as she discovers she has the uncanny ability to warp into video games...  Meta Runner is our new animated web series that has been in the works for over a year! Season 1 debuts on JULY 25th 2019!  (date has changed from june 2019) Follow Glitch Productions for updates and info • Twitter ➤ https://twitter.com/glitch_prod •  Instagram ➤ https://www.instagram.com/glitch_prod  Subscribe to the channel! ► http://bit.ly/2mcYfnh  For the SMG4 fans: Meta Runner Tari is from a DIFFERENT universe to SMG4 Tari! They have similar personalities/powers but are completely different people!  THE COOL PEOPLE WHO MADE THIS POSSIBLE ~CREW~ Creative Director/Compositing - Luke Lerd  Creative Director/Writing/Producer - Kevin Lerd  Art Director/Lead Animator - Matthew Peckham  Concept Artist/Generalist - Jarrad Rumble Character Artist/Rigger - Lachlan Dunbar Environmental/Technical Artist - Max Horseman Lead Music Composer - AJ DiSpirito Assistant Producer/Admin - Ellyn Barclay Layout/Color Correction - Martin Yeung Graphic Design - Joel Bobbin Marketing/Brands - The Awesome People At Click Management  ~CAST~ Theme Music Vocalist - Matthew Guerra Tari - Celeste Notley-Smith Belle Fontiere - Jessica Fallico Theo - Robyn Barry-Cotter Lucks - David J.G. Doyle Sofia - Hayley Nelson Lamar - Anthony Sardinha Masa - Brendan Barry-Cotter Female Pedestrian - Loserfruit Male Pedestrian - TheOdd1sout Announcer - Muselk  Made with Maya & the Unreal Engine  NEW SMG4 MERCH ► http://shop.smg4.com  ---------------------------------------------------------------- FOLLOW US ON SOCIAL MEDIA -- best way to get in contact with us! • Twitter ➤ https://twitter.com/smg4official • Twitter ➤ https://twitter.com/kevdevz •  Instagram ➤ https://www.instagram.com/smg4official •  Instagram ➤ https://www.instagram.com/kevdevz  --------------------------------------------------------------------  #MetaRunner #GlitchProductions #Tari Caption authors (Korean) 김우석 chester 7908 Caption authors (French) luc gambon Chōwa Hisui J.E.F.F Caption author (Spanish (Latin America)) Charriii5 Caption author (Japanese) loohhoo Caption authors (English) Stacy Sparkle FK03 Sonic Power! Elliott The Derp Galaxy Empress Category Entertainment              LINK: ",,1
+274,https://github.com/yuvi18/EZLBot.git,Discord multipurpose esports bot built with Komada,,0
+275,https://github.com/ggscores/esports-data-provider.git,Main repository of esports-data-provider.com,,0
+276,https://github.com/UWindsorEsports/LancerGaming.github.io.git,Esports Website,,0
+277,https://github.com/ssabate/odoo_esports.git,Mòdul esports alumnes 2n DAM,,0
+278,https://github.com/wheaties5588/esports-tournament-tracker.git,App to follow your favorite esports tournaments,,0
+279,https://github.com/deltarod/CS386-Group-20.git,Collegiate Esports Finder,,0
+280,https://github.com/ggtylerr/DSA-Disc-Bot.git,A Discord bot made for esports.,"discord,discord-bot,discordjs,discordjs-bot,discordjsbot,meme,bot,dsa-disc-bot,dsa,repl,uptimerobot,smashgg,smash,challonge,challonge-api,esports,commando,discordjs-commando",0
+281,https://github.com/frasermcc9/Emelbirb.git,A Discord bot for the University of Auckland Esports Club,,0
+282,https://github.com/jkasanjian/Esports-JPA-Database.git,Database application to model an Esports tournament using JPA,,0
+283,https://github.com/GauntletESport/GAU-Core.git,"The coin is created for the Gauntlet ESports community as a purchase, reward and masternode coin. ",,0
+284,https://github.com/yokeza1/Esports-Trends.git,พัฒนาเว็บข่าวสารวงการ Esports และแนะนำแนวทางอาชีพในวงการ Esports,,0
+285,https://github.com/red3moon/esports.git,esports,,0
+286,https://github.com/GraphicHipster/quantum.git,esports,,0
+287,https://github.com/amogh0503/Esports.git,Esports,,0
+288,https://github.com/rebel1804/nodecg-eec-2018-lol.git,"{""A NodeCG Graphics Bundle for the Florida Polytechnic's Esports Event Committee's League of Legends Livestream""}",,0
+289,https://github.com/Samapa/ssu-esports.git,SSU Esports | Australian Esports Organisation,,0
+290,https://github.com/josephsookim/thespikeggapi.git,"An Unofficial REST API for TheSpike.GG, a site for Valorant Pro Esports match results and news.",,0
+291,https://github.com/NinsoGG/Ninso-GG.git,Esports,,0
+292,https://github.com/tellexx/Synx-esports.git,esports company,,0
+293,https://github.com/tesh254/karena.git,Esports arena,,0
+294,https://github.com/rhnsh26/Particle7.git,esports team,,0
+295,https://github.com/yhbav/ISTM-6210-Capstone.git,Esports Portal,,0
+296,https://github.com/vishalpal12/SKY-ESPORTS.git,Sky esports ,,0
+297,https://github.com/Vanguertz/TwitchAnalytics.git,TCC-ESPORTS,,0
+298,https://github.com/meaganclass/polling.git,Esports Polling,,0
+299,https://github.com/GoodGuyKali/Java-Esports.git,Java Esports ,,0
+300,https://github.com/jwill178/studious-bassoon.git,upgraded esports,,0
+301,https://github.com/iiternity/iiternity-rep.git,eSports FTW,,0
+302,https://github.com/cristibctr/eSportsWebsite.git,eSports Website,,0
+303,https://github.com/Hunter190131/ExD-Esports.git,ExD Esports,,0
+304,https://github.com/AtahanKocc/Esports-Tournament.git,Esports-Tournament,,0
+305,https://github.com/fogeltanz/Esports-Club-Website.git,Esports website,,0
+306,https://github.com/praveennagil15821/pubg.git,esports tournamnets,,0
+307,https://github.com/rishabh-mishra-au8/Project-Esports.git,Esports App,,0
+308,https://github.com/AlteredCarbonate/azrael-esports.git,Azrael Esports,,0
+309,https://github.com/999DaZa/esbet-Red.git,eSports site,,0
+310,https://github.com/nichez/esports-app.git,esports app,,0
+311,https://github.com/Tomgys/EverythingeSports.git,eSports website,,0
+312,https://github.com/herasays/ougpeasantcup.git,Esports Project,,0
+313,https://github.com/auszie/AR_Esports_Project.git,AR Esports,,0
+314,https://github.com/brrix/team.git,Esports - Bootstrap,,0
+315,https://github.com/jwill178/ubiquitous-potato.git,Esports slides,,0
+316,https://github.com/Lolfacer20/website.git,Risen eSports,,0
+317,https://github.com/FAlurralde/TsL-Esports.git,TsL Esports,,0
+318,https://github.com/muromtsev/esorg.git, ESPORTS ORGANISATION,,0
+319,https://github.com/blinn/pureluckesports.git,PureLuck Esports,,0
+320,https://github.com/egormat/esports-arena.git,esports-arena,,0
+321,https://github.com/alt-daniel/Ziggo_Esports.git,Esports project,,0
+322,https://github.com/TwinseSports/Twins-eSports.git,Twins eSports,,0
+323,https://github.com/krphi/Dynamix.git,Dynamix eSports,,0
+324,https://github.com/rolandviper/hornbill-base-2-0.git,hornbill esports ,,0
+325,https://github.com/Sochangane/gameIN.git,eSports Platform,,0
+326,https://github.com/KullThran/Nightmares.git,eSports Club,,0
+327,https://github.com/BenRubinDC/DMV-eSports-Network.git,DMV eSports,,0
+328,https://github.com/radamanthiss/webapp_improved.git,webapp esports,,0
+329,https://github.com/eerive/rizer.git,ESports-Livetracker,,0
+330,https://github.com/blinkTheOne/Clutch-Master.git,esports era,,0
+331,https://github.com/zendostrike/neon-sky-web.git,eSports Magazine,,0
+332,https://github.com/J3rome/UdeSeSports.git,UdeS eSports,,0
+333,https://github.com/Youfka/landing.git,Esports landing page,,0
+334,https://github.com/maximiliankolb/bbs-esports.git,"{""brown bag session 'esports'""}",,0
+335,https://github.com/EzPzEsports/EZPZESPORTS.git,#1 Esports News Site,,0
+336,https://github.com/Zachle37/WWHS-Esports.git,cool wwhs esports,,0
+337,https://github.com/dderrickmatheww/southeastamateur.git,Amateur ESports league website,,0
+338,https://github.com/cdcorro/Esports.github.io.git,website for Esports Uwindsor,,0
+339,https://github.com/trevorblades/fantasy-melee.git,🌈 Fantasy esports for Melee,,0
+340,https://github.com/VortexProduction/GamerDivision.git,eSports Tournament Website,,0
+341,https://github.com/GavinHov/fantasE.git,Fantasy eSports Website ,,0
+342,https://github.com/DjKniteX/esports.git,my esports page,,0
+343,https://github.com/WyattMeehan/ISA406Website.git,Miami Esports Website,,0
+344,https://github.com/drcvrgorac/esportsracingzone.git,eSports Racing Zone website,,0
+345,https://github.com/haziqfiqri/esports-landing-page.git,esports landing page mockup,,0
+346,https://github.com/RazaShehryar/PakEsports.git,Esports Community App,,0
+347,https://github.com/MrPatrickHenry/esports-platform.git,a mvp esports platform,,0
+348,https://github.com/Hill-Boss/eSports_stats.git,for everything esports related,,0
+349,https://github.com/mayb9210/EsportsHub.git,A Platform for Esports,,0
+350,https://github.com/Matheesha-eng/devilzbot.git,Devilz eSports Manager,,0
+351,https://github.com/maxorlovsky/esports.unicon.lv.git,"UniCon eSports, branch of UniCon Latvia responsible for eSports",,0
+352,https://github.com/shadow1892/esports.git,UT Arlington eSports Webpage,,0
+353,https://github.com/stevenpetroff/ESportsleague.git,ESports league Web Application,,0
+354,https://github.com/n2o/hel-site.git,Hochschul eSports Liga,,0
+355,https://github.com/Primary-Target/Primary-Target.github.io.git,Primary Target eSports,,0
+356,https://github.com/tspeaks/Esports-Quiz.git,Esports Quiz App,,0
+357,https://github.com/oleggator/esports-backend.git,eSports Portal Backend,,0
+358,https://github.com/cviddy17/esports-capstone.git,"Esports Capstone project, Galvanize",,0
+359,https://github.com/datamonnit/mayhem.git,Esedu mayhem esports platform,,0
+360,https://github.com/faeton/codex.git,Codex for Esports teams,"esports,codex,policy,ruleset,rules",0
+361,https://github.com/pennstateesports/psu-esports-site.git,psu esports website,,0
+362,https://github.com/tbruner/surveyForm.git,Esports survey form,,0
+363,https://github.com/cmosdell/mew.git,My Esports World,,0
+364,https://github.com/joelwi35/esports.git,Esports sample project repository,,0
+365,https://github.com/michaeltodner/radixesports.git,radix esports website.,,0
+366,https://github.com/EmperorB/Esports-Admin-app.git,League side esports app,,0
+367,https://github.com/Grotzo14/velez.git,Copa Vélez eSports,,0
+368,https://github.com/FacuAraujo/logoquiz-esports-game.git,LogoQuiz esports GA,"react,reactjs,game-development,game,puzzle,puzzle-game,javascript,javascript-game,javascript-framework,framework,html,html5,html-css,html-css-javascript,html5-game,css,css3,css-grid",0
+369,https://github.com/nasmithey/eSports.git,WHS Esports bot,,0
+370,https://github.com/AnthonyChen159/Anthony-Chen---Website.git,Resume Esports Management,,0
+371,https://github.com/ImLeoB/esportsmeta.git,eSports Meta site,,0
+372,https://github.com/alissastaylor/esports-mailer.git,Weekly esports mailer,,0
+373,https://github.com/linwh203/esports.git,esports test pro,,0
+374,https://github.com/tdeason416/esports.git,Kafka stream of esports,,0
+375,https://github.com/os-digitaldesign/vhe.github.io.git,Virtual horizons esports,,0
+376,https://github.com/jhonattanbenitez/maxtigers.git,Max Tigers eSports,,0
+377,https://github.com/esports-kahoots/esports-kahoots.git,Kamerons esports kahoots app,,0
+378,https://github.com/amnsiavi/EMS.git,esports managment system,,0
+379,https://github.com/markosalinovic/erz_vue_web.git,Esports Racing Zone Website,,0
+380,https://github.com/eckels/Fremd-eSports.git,Website for Fremd eSports,,0
+381,https://github.com/benjaminha14/EsportsWebsite.git,Esports website bcp,,0
+382,https://github.com/edwin-19/esports-group.git,Esports website for group,,0
+383,https://github.com/mtanis/esports-calendar.git,Esports Calendar site,,0
+384,https://github.com/technalgamer/AtlasGaming.git,AtlasGaming Esports website,,0
+385,https://github.com/Halfwhit/Gulf.git,Minigolf meets esports.,,0
+386,https://github.com/PafBlueTrees/Miiiiska.git,We are eSports Team,,0
+387,https://github.com/infernal-esports-analytics/infernal-esports-analytics.github.io.git,Infernal eSports Analytics homepage!,,0
+388,https://github.com/podiman/DotAEsports.git,DotA Esports Stats site,,0
+389,https://github.com/akashkori098/Esports.git,Everything about Esports.,,0
+390,https://github.com/akashkori098/Esports.git,Everything about Esports.,,0
+391,https://github.com/The3eard/econ.git,eSports Contender web,,0
+392,https://github.com/domko95/arassaria.git,My eSports & Streaming Homepage,,0
+393,https://github.com/MattLeuterio/fte-website.git,Flat Earth Esports - Website,,0
+394,https://github.com/Newsh123/Xenocity-Esports-Decals.git,Decals for Xenocity Esports,,0
+395,https://github.com/teamanguish/teamanguish.github.io.git,Competitive eSports Team,,0
+396,https://github.com/domingoec02/fea.git,Finesse Esports Arena,,0
+397,https://github.com/samgdf/esports.git,Rutgers eSports website,,0
+398,https://github.com/CreatorBrian/unccesports.github.io.git,Website for UNCC Esports,,0
+399,https://github.com/MeGustav/lolesports-schedule.git,LoL Esports schedule notifications,,0
+400,https://github.com/Faelens/wpe.git,Nieuwe website WePlay Esports,,0
+401,https://github.com/sjbarrau/Hyperion.git,Esports Team Website,,0
+402,https://github.com/t-eric1019/esports.git,esportsのサイト,,0
+403,https://github.com/Bassgirl808/GameLog.git,Esports Inventory System,,0
+404,https://github.com/AlbertyLucas/mutinelab.git,Somente E-esports.,,0
+405,https://github.com/JoshArms/RewindDiscordBot.git,Rewind Esports Discord Bot,,0
+406,https://github.com/iangioffre/shlugg.com.git,Website for ShluGG eSports,,0
+407,https://github.com/rogerfranklin2/esportsMaterial.git,Material Esports app,,0
+408,https://github.com/asm-products/gamblers-gg.git,Online eSports betting,,0
+409,https://github.com/andypike/events.gg.git,ESports Events Calendar,,0
+410,https://github.com/pmolina-racowireless/es-moba-manager.git,Esports moba manager,,0
+411,https://github.com/hanveyjake/Rise_Website.git,Website for Rise Esports,,0
+412,https://github.com/Rownowaga/TheLadder.git,An analytical Esports website,,0
+413,https://github.com/TonyTheDev07/esports_hub.git,Esports hub ka bot.,,0
+414,https://github.com/Vontech/EsportsDashboard.git,Dashboard for Esports processing,,0
+415,https://github.com/aikepah/utah-esports.git,Utah eSports Website,,0
+416,https://github.com/omidbesharati/eviternity-esports-site.git,site for eviternity esports,,0
+417,https://github.com/rcijov/esports.git,PCL esports application,,0
+418,https://github.com/10810765/Programmeerproject.git,eSports Gids App,,0
+419,https://github.com/daikoaram/MyPortfolio.git,Esports News site,,0
+420,https://github.com/AshkanZirakzadeh/RIFTBOT.git,Rift Esports Bot,csharp,0
+421,https://github.com/austinchinn/prophet.git,LoL Esports prediction app,,0
+422,https://github.com/eragongaming/UMFlint-Esports.git,UMFLINT ESPORTS BOT,,0
+423,https://github.com/aless10/EsportsApp.git,Esports data application,,0
+424,https://github.com/sT0n3r/RushModNextGen.git,BF2 eSports-Mod,,0
+425,https://github.com/Hopfensaft/Draftr.git,Python Fantasy Esports helper,,0
+426,https://github.com/marcus-downing/basingstoke-esports.git,Basingstoke eSports Website,,0
+427,https://github.com/YOZTiK/eLab.git,App for esports laboratory,,0
+428,https://github.com/demo-hub/YetNotAnotherManagementGame.git,LoL Esports Management game,,0
+429,https://github.com/mhudyx/prostats.git,Non-commercial esports project,,0
+430,https://github.com/Richmond1389/Eplayers.git,Piattaforma di recruiting Esports,,0
+431,https://github.com/Zypherr/big5-website.git,Big 5 Esports Website,,0
+432,https://github.com/jaymth/lftninja.git,Esports Team Finder,,0
+433,https://github.com/eckels/Vertigo.git,Website for Vertigo eSports,,0
+434,https://github.com/0x000NULL/SSE.git,Everything Silver State Esports,,0
+435,https://github.com/eSUKA/eSUKA.github.io.git,eSports United Karlsruhe Website,,0
+436,https://github.com/agusterodin/CSGO-Stat-Analysis.git,eSports Statistical Analysis Tutorial,,0
+437,https://github.com/vxlk/FESL.git,Fantasy Esports League,,0
+438,https://github.com/guimontico/callesports.git,site call esports,,0
+439,https://github.com/anjiattri/GLeS.git,"{""Gamer's Lounge eSports""}",,0
+440,https://github.com/AlvaroFaba/Team-Inception.git,Sitio Web Equipo eSports,,0
+441,https://github.com/RobinLuongo/UEG-site.git,Uni eSports Group website,,0
+442,https://github.com/Miklesam/EsManager.git,eSports Manager simulator,,0
+443,https://github.com/viAtom/RiftWarden.git,Discord bot for esports,,0
+444,https://github.com/mikethehud/praxgg.git,Esports practice platform,,0
+445,https://github.com/alined908/calesports.git,Cal Esports Website,,0
+446,https://github.com/MNorberto/Gudomo.git,🎮 eSports Interface Help Tool,,0
+447,https://github.com/jason-jefferson/aubade-website.git,Aubade Esports Website,,0
+448,https://github.com/jonblanco/datuBaseProiektua.git,eSports management app,,0
+449,https://github.com/pinajbasutkar/RIT-esports.git,ESports website for RIT,,0
+450,https://github.com/jpggvilaca/aimtowin.git,aimtowin eSports event website,,0
+451,https://github.com/bitofu/teamcomp.git,eSports Fantasy Card Game,,0
+452,https://github.com/pinajbasutkar/RIT-esports.git,ESports website for RIT,,0
+453,https://github.com/maneshjay/evox.git,evox esports server,,0
+454,https://github.com/leanhtu188/smuesports.git,SMU eSports mobile app,,0
+455,https://github.com/Pedram26/RTS-Strategic-StatChecker.git,Visualize eSports Pros Playtime,,0
+456,https://github.com/2lives/GameSuite.git,eSports networking revolutionized,,0
+457,https://github.com/Blues-music/GAD158_RoadtoEsports.git,"GAD158, Road to Esports",,0
+458,https://github.com/NaNathan13/rbg_esports.git,Website for RBG Esports,,0
+459,https://github.com/jadolg/BayesESports.git,Bayes eSports coding exercise,,0
+460,https://github.com/RuMcClu/LoL1.git,LoL eSports Game,,0
+461,https://github.com/aardpark/esportsequity.git,esports equity github,,0
+462,https://github.com/srilankangamers/slgamers.git,esports tournament site dev,,0
+463,https://github.com/Cyb3rsh4de/Hurricane.git,Hurricane eSports Website,,0
+464,https://github.com/ritiklakhwani/bracketesports.git,Bracket Esports Official Website,,0
+465,https://github.com/drcvrgorac/erz.git,eSports Racing Zone Website,,0
+466,https://github.com/HertzGG/budfox-esports.git,BUDFOX Esports Landing Page,,0
+467,https://github.com/HyperKids/best-discord-bot.git,Brown Esports Discord Bot,,0
+468,https://github.com/bradysllvn01/SummonerArena.git,Fantasy esports website.,,0
+469,https://github.com/br4inbug/e.git,esports fan page ,,0
+470,https://github.com/Krisoraptor/voraciousesports.git,esports org Voracious,,0
+471,https://github.com/SuryaAvigma/esports.git,For ESports Project,,0
+472,https://github.com/jonaskety/champ.git,bot for esports discord,,0
+473,https://github.com/SouL03/AnimusBot.git,Bot for Animus eSports,,0
+474,https://github.com/FranciscoRoblesJr/COD.git,COD eSports related work,,0
+475,https://github.com/max-barstow/warwickesportscom.git,Warwick Esports Website,,0
+476,https://github.com/rob3n/esports-calendar.git,Calendar for esports events.,,0
+477,https://github.com/ValeryFedorenkov/esports_static.git,Static website about esports,,0
+478,https://github.com/libowen1994/motion-esports-service.git,motion-esports-service,,0
+479,https://github.com/DSMdev/eFantasy.git,COD eSports fantasy app,,0
+480,https://github.com/TeamFelons/Felons.git,A Professional eSports team.,,0
+481,https://github.com/NitBlockchain/gamerholic.git,Esports tournaments for bitcoin,,0
+482,https://github.com/timotiose/timotiose.github.io.git,Junior Esports Website,,0
+483,https://github.com/fire4912/unityesports.git,Unity eSports BD Official ,,0
+484,https://github.com/kareldecoeneKDG/esportsPlus.git,Project XL - Esports+,,0
+485,https://github.com/Parapheen/universityleague.git,website for esports collegiate league,,0
+486,https://github.com/adamsonb12/esports.git,Club Esports plain html site,,0
+487,https://github.com/liquidgaga/RiskyClicker.git,The future of esports mk2,,0
+488,https://github.com/Ranma344/Tenacity-Elo-System.git,Elo System for Tenacity eSports,,0
+489,https://github.com/Strift/WritingAssistant.git,Discord bot assisting esports writers,,0
+490,https://github.com/BrogrammerGV/GVWeb.git,Grand View University eSports Website,,0
+491,https://github.com/thimomerke/BaitMainHomepage.git,Homepage for Team BaitMain Esports,,0
+492,https://github.com/AnthonyMarc23/mecca.git,Michigan eSports Center & Competitive Arena,,0
+493,https://github.com/orangegarage/esports-at-uga.git,esports at uga website wip,,0
+494,https://github.com/leoallesch/naoscrimbot.git,Scrim Bot for NAOSHI ESPORTS,,0
+495,https://github.com/broquethomas/LoL-Companion.git,League Of Legends Esports Companion,,0
+496,https://github.com/dyl10s/GV-ESports-Louie.git,Grand Valley ESports Discord Bot,,0
+497,https://github.com/praveennagil15821/esports.git,My esports tournament management app,,0
+498,https://github.com/flothjl/esports_base.git,Your hub for eSports updates,,0
+499,https://github.com/TrikshotSteve/VOP-team.git,starting a local Esports team.,,0
+500,https://github.com/AnAvocado/eSports_API.git,eSports API for API Course,,0
+501,https://github.com/Jkl969696/eSports_Visualizations.git,2020 Top Streamers Esports Visualizations,,0
+502,https://github.com/BaseCase/electronic_sports.git,the next evolution of eSports,,0
+503,https://github.com/conoramanatullah/esports-angular.git,Angular Implementation of Esports website,,0
+504,https://github.com/UniSerj/EsportsGambling.git,Esports Gambling based on solidity,,0
+505,https://github.com/cmiller0352/chat.git,chat app for esports site,,0
+506,https://github.com/alpermithrilcetiner/overwatchbuff.git,Case study for Bayes Esports,,0
+507,https://github.com/KEE33K/Keek.git,Mighty Gaming ONE ESports Championship,,0
+508,https://github.com/mr-akashdesai/esports-daily.git,Concept for Esports News website,,0
+509,https://github.com/almeidalucas78/Site-eNews.git,Site de noticias de eSports,,0
+510,https://github.com/conoramanatullah/esports-angular.git,Angular Implementation of Esports website,,0
+511,https://github.com/UniSerj/EsportsGambling.git,Esports Gambling based on solidity,,0
+512,https://github.com/cmiller0352/chat.git,chat app for esports site,,0
+513,https://github.com/alpermithrilcetiner/overwatchbuff.git,Case study for Bayes Esports,,0
+514,https://github.com/KEE33K/Keek.git,Mighty Gaming ONE ESports Championship,,0
+515,https://github.com/abduljalil94/PakistanGamingNetwork.git,Presentation - Esports Gaming in Pakistan,,0
+516,https://github.com/BorduzRazvan/Viitorul-ESports.git,Viitorul ESports - FIFA Professional Team.,,0
+517,https://github.com/Kfeavel/cu-esports.git,Cedarville University eSports ORG website,"cedarville,cedarville-university",0
+518,https://github.com/MattLeuterio/fte-avatar-generator.git,Flat Earth Esports - Avatar Generator,,0
+519,https://github.com/JoyMart/lilGeniuses.git,LMS for local esports team,,0
+520,https://github.com/HizkiaR/PussKuy.git,Esports Tournament and Portofolio App,,0
+521,https://github.com/mckernant1/lol-predictions-bot.git,A Lol Esports Discord bot,"discord-bot,jda,league-of-legends",0
+522,https://github.com/fourjr/aurora.git,Discord Bot for Aurora eSports,,0
+523,https://github.com/SenorKey/CinnamonRoleBot.git,UNF Esports Club Discord Bot,,0
+524,https://github.com/Wirelight/agencyEsports.git,The Agency Esports launch site.,,0
+525,https://github.com/RambitanH/PussKuyy.git,Esports Tournament and Portofolio App,,0
+526,https://github.com/iLigand/iligand.github.io.git,Website for Twitch/Esports stuff,,0
+527,https://github.com/marinacrachi/brpf2019.git,Songs randomizer for eSports championship,,0
+528,https://github.com/zkxjzmswkwl/DinkedIn.git,Like LinkedIn but for esports ,,0
+529,https://github.com/AaronFrontlv/StreamSchools.git,Web sobre guias de Esports,,0
+530,https://github.com/MarkusToe/gosujobs.git,job portal for esports jobs,,0
+531,https://github.com/ceskmcfran/eSign.git,eSports face recognition to communicate,,0
+532,https://github.com/mjohar30/esports-project.git,Proyecto de esports para bedu,,0
+533,https://github.com/IsaiahFlagg/hivemindesports.git,Website for HiveMind Esports team,,0
+534,https://github.com/vadimRudman/twitch-notif.git,twitch esports notif system poc,,0
+535,https://github.com/scappa/esportsresult.git,Results application for esports events,,0
+536,https://github.com/sergeiudris/idea-of-new-esports.git,idea of a new esports,,0
+537,https://github.com/achaudary/ProjectNightOwl.git,Beta for our Esports Website,,0
+538,https://github.com/turntwogg/final-round-blog.git,Blog for Final Round Esports,"gatsby,react",0
+539,https://github.com/jacklp/officialesports.git,Xander and Jack official Esports,,0
+540,https://github.com/jacklp/officialesports.git,Xander and Jack official Esports,,0
+541,https://github.com/SchnitzelWiki/Mobile-eSports.git,Code for Mobile eSports tournaments,,0
+542,https://github.com/JellyDonitCodes/NebulaPepper.github.io.git,Nebula Pepper eSports Official Website,,0
+543,https://github.com/Youngerjesus/KlayESports.git,2020 Klaytn ESports Management Platform ,,0
+544,https://github.com/theydonthaveit/gg.thow.over.git,eSports gamification and data analysis,,0
+545,https://github.com/RyanDeLap/contender-esports.git,Contender eSports Social Media Integrations ,,0
+546,https://github.com/gitter-badger/aeq-ts3-bot.git,Aequilibritas eSports Teamspeak 3 Bot,,0
+547,https://github.com/Strift/Articles.git,Web service managing esports articles,,0
+548,https://github.com/0rcrist/BigDuckClub.git,Databases project for esports data,esports,0
+549,https://github.com/GhostGameHouse/GhostProject.git,Administracion de Torneos virtuales ESPORTS,,0
+550,https://github.com/Shagun26-Byte/python.git,official bot for galaxy esports,,0
+551,https://github.com/MattMontadaSTU/eSports_Visualizations.git,Respository for Esports Data Visualizations,,0
+552,https://github.com/Bajcon/Dota2.git,Esport,,0
+553,https://github.com/kriv00/eSports_Visualizations.git,Exploring eSports prize winnings for professional eSport teams.,,0
+554,https://github.com/Belar/eventpotion.git,Esports events and shows calendar,,0
+555,https://github.com/cc7551/sportingbucks.git,An Esports blockchain-based platform  ,,0
+556,https://github.com/Shagun26-Byte/pythonbot.git,official bot for galaxy esports,,0
+557,https://github.com/villarino20/malvinasgaming.git,Esports Team Malvinas Gaming website,,0
+558,https://github.com/kevinhaube/esports-cal.git,"{""ReactJS-based Esports Calendar (an imitation/innovation on EsportsOne's Esports Calendar service)""}",,0
+559,https://github.com/andersdahlee/bigburger.git,esport,,0
+560,https://github.com/oisinq/eSportsNews.git,"eSports News app for Udacity Android Basics course, fetching eSports stories from The Guardian",,0
+561,https://github.com/moughamir/ozy.git,Ozy Jackals eSports Team Assets,assets,0
+562,https://github.com/Erid/semi-pro.git,Application to track esports tournaments,,0
+563,https://github.com/Reflect-eSports/ReflecteSports.github.io.git,website for the reflect esports,,0
+564,https://github.com/AlexPravdy/cybersport.git,Esport ,,0
+565,https://github.com/sk20310/Esport.git,Esport,,0
+566,https://github.com/LukeToland/esportsNewsApp.git,Android application to display eSports news articles/information from multiple eSports websites,,0
+567,https://github.com/Costaico/app.git,"APP en Android desarrollada en Android Studio para el equipo de eSports ""Turia eSports""",,0
+568,https://github.com/Suijo/dcbot.git,esport,,0
+569,https://github.com/TonyTheDev07/EH-Official-1.git,Best Bot Ever.... Official Bot Of Esports Hub Copyright Esports Hub,,0
+570,https://github.com/Cristian20001/Esports-Nova.git,Bienvenidos servidor publico echo por Esports Nova siganos nuestras redes sociales Nova I eSports ,,0
+571,https://github.com/KodazZ/KodazZ.git,Esport,,0
+572,https://github.com/TagnumElite/VectorBot.git,A discord bot created for Vector eSports,"discord-py,discord-bot,python",0
+573,https://github.com/jahidadam/clutchgaming.git,Code for Houston Rockets Clutch Gaming Esports,,0
+574,https://github.com/cky-esports/cky-website.git,"{""Source code for CKY - eSports' website""}",,0
+575,https://github.com/Turupawn/AtomicBuster.git,Money matches for autonomous esports communities.,,0
+576,https://github.com/rdpolarity/ScheduleBot.git,Bot to help schedule ESports scrims,,0
+577,https://github.com/jonbonazza/esports-team-gen.git,A simple generator for esports team names,,0
+578,https://github.com/liamrathke/wpi-esports.git,Quick static site for WPI Esports signups,,0
+579,https://github.com/bingeboy/nofrendo2.git,nofrendo the best esports of union city,,0
+580,https://github.com/bsansone/IIT-eSports-Website.git,Website for Illinois Tech eSports Club,,0
+581,https://github.com/gitter-badger/aeq-esports-mobile.git,Progressive Web App for AeQ eSports.,,0
+582,https://github.com/SouL03/AccademyBot.git,A bot for Accademy of Animus eSports,,0
+583,https://github.com/SpiritEsport/Spirit-E-Sports.git,Alpha version of spirit esports website,,0
+584,https://github.com/noahcgreen/nhei-website.git,Static website for National Hillel Esports Initiative,,0
+585,https://github.com/justingarcianm/champria-front-end.git,front end for esports web site,,0
+586,https://github.com/WebDevPDX/esportServer.git,server side app for esports FE,,0
+587,https://github.com/Zhupport/Gragas-Bot.git,"Bot de memes, eSports y mucho más",,0
+588,https://github.com/WonkeeShin/lol_league_datascience.git,"{""lol esports' data science, ML, DL project""}",,0
+589,https://github.com/cchacon266/durangoesports.git,pagina oficial del clan durango esports,,0
+590,https://github.com/Mazter707/UeSG.git,Web de Upstream eSports Gaming Organization,,0
+591,https://github.com/tseitz/derangedesports.git,Source code for the DeRanged eSports website,,0
+592,https://github.com/xiongdun/iesports.git,a instristing web project for esports,,0
+593,https://github.com/uegliga/ueg.git,University eSports Germany (www.ueg-liga.de),,0
+594,https://github.com/GlobexDesignsInc/magna.gg.git,The official website for Magna eSports,,0
+595,https://github.com/Lul1aby/Bettor.git,A match betting website for esports,,0
+596,https://github.com/cky-esports/cky-uk-data.git,Data for CKY - UK eSports Organisation,,0
+597,https://github.com/chance-krug/goldenx-esports.git,Promotional website for Golden X Esports,,0
+598,https://github.com/Ayan-dot/val_notif.git,SMS notifier for Valorant esports matches,,0
+599,https://github.com/SneeryEmperor51/TwilightEsportsBotV3.git,The official discord bot for Twilight Esports.,,0
+600,https://github.com/adampdavidson/FinalProject.git,eSports betting application built on Rails,,0
+601,https://github.com/philipsdyoo/massey-tf2.git,Using Numerical Methods to Rank eSports Teams,,0
+602,https://github.com/iRaied/eSports_Teams.git,eSports Teams Authorized in KSA Data Analysis,,0
+603,https://github.com/Swoofty/RiceDiscord.git,Discord bot for Rice Esports server,,0
+604,https://github.com/JeremT8/MID-ESPORT.git,"{""MID-ESPORT | 1er site d'actualités eSport""}",,0
+605,https://github.com/NCRivera/eSports_Visualizations_Raul.git,"{""Raul's eSports Data Visualizations with changes""}",,0
+606,https://github.com/BlaBlaPer/DreamTeam.git,Data Analytics for DreamTeam eSports Gaming Platform,,0
+607,https://github.com/aaronbaggett/overwatch.git,Mixed Effects Modeling of eSports Data,,0
+608,https://github.com/psuchecki/esports-events.git,Wordpress site focusing on esports industry,,0
+609,https://github.com/JakeHoke/jakehoke.github.io.git,upcoming esports club thats being developed,,0
+610,https://github.com/Informagier/WeSports.git,A networking platform for eSports clubs.,,0
+611,https://github.com/JairHuamanBellido/Zafer-frontend.git,Comunidad para jugadores profesionales de ESports,,0
+612,https://github.com/mmuazam98/Imbibe-Esports.git,Website for IMBIBE ESPORTS - Youtube Battle,,0
+613,https://github.com/CodeNewbee/Esports-Tournament-App.git,App that helps creating esports amateur tournaments,,0
+614,https://github.com/BoxedFruits/Esports-Discord-Bot.git,Discord bot for the Esports club ,,0
+615,https://github.com/EtashRhys/EsportsGenX.com.git,"{""Esports Gaming Website for Gen X'ers""}",,0
+616,https://github.com/Jawn-Blue/Join_UWW-Esports.git,"The ""Join"" section of our Esports Website",,0
+617,https://github.com/Bagun-Esports/website-frontend.git,Frontend React application for esports org,nextjs,0
+618,https://github.com/pancake422/teamsorter.git,RL team creation project for Odyssey esports,,0
+619,https://github.com/jaredhanson11/vamble-client.git,"Client for vamble, the esports betting platform.",,0
+620,https://github.com/Tw3nty4/Radiance-Esports-Site.git,This is the Official Radiance Esports Website ,,0
+621,https://github.com/FelixPM/OSCbot.git,Discord bot for OSC esports organization,,0
+622,https://github.com/gwencrey/NorcoHS_eSports.git,All things eSports for Norco High School,,0
+623,https://github.com/anthonyredoblado/dreamplay.git,"{""ACG's first social eSports platform""}","esports,social,platoform,chat,summits,interactive",0
+624,https://github.com/FriendzoneD/Esports-SG.git,Website for esports news in sg,,0
+625,https://github.com/KeroseneTrampolines/middletongaming.club.git,"{""Middleton High School's Esports Club website.""}",,0
+626,https://github.com/leepete/Esports-Page.git,A full-stack Esports website (fun concept),,0
+627,https://github.com/samuelfelberg/WebProject001.git,Recriation of the MIBR esports team website.,,0
+628,https://github.com/RyTaus/mobamanager.git,Manage a team of esports athletes,,0
+629,https://github.com/YoussefAsh/YaLLaV2.git,Second rendition of the YaLLa Esports website,,0
+630,https://github.com/HalfPoser/cw_tournament_manager.git,Simple Tournament Manager for Clockwork Esports,,0
+631,https://github.com/Jom901/SmartcastGGonRails.git,SmartcastGG website for handling esports events,,0
+632,https://github.com/ProNibs/AscensionSite.git,Public facing repo of Ascension eSports Django,,0
+633,https://github.com/V0ldek/LeagueOfBets.git,Microservice application for LoL esports casual betting.,,0
+634,https://github.com/NNHS-CS-Club/NNHS-Esports-Club-Website.git,"{""Website for NNHS's Esports Club""}",,0
+635,https://github.com/Raionn/SportsEventsManagementSystem.git,Esports and sports event management system,,0
+636,https://github.com/NaveenPantra/card_ui_interaction.git,UI Interaction of a ESports Game Card.,,0
+637,https://github.com/mgzparanoid/final-project-week7.git,Simple application for tracking esports tournaments.,,0
+638,https://github.com/Fernando-34/Esports.git,Trabajo sobre los Esports - Fernando Calle ,,0
+639,https://github.com/mckernant1/zoe.git,League of legends esports data playground,,0
+640,https://github.com/BTCBlade/OPBets.git,AppAcademy Capstone Project - An Esports Matchbook ,,0
+641,https://github.com/crisperson/fantasy_esports.git,Fantasy eSports Ruby on Rails site,,0
+642,https://github.com/Barsnes/Quixz_eSports.git,The code for Quixz eSports homepage,"html,css,jekyll,esports",0
+643,https://github.com/homestead-esports/homestead-esports.github.io.git,HHS Esports Club 2019-2020 Website,,0
+644,https://github.com/juanpalopez/esports-academy.git,Project for an online eSports Academy,,0
+645,https://github.com/IAmConorNolan/ICE-Discord-Bot.git,A discord bot for Irish Collegiate Esports.,,0
+646,https://github.com/bsamaripa/ESTV.git,A better experience for enjoying Esports!,,0
+647,https://github.com/devMnt-eSports/wasd.git,code for an awesome esports super site,,0
+648,https://github.com/loolys/esportsplayers.git,Single page app about esports profiles,,0
+649,https://github.com/eckels/Nemesis.git,"Website for Professional eSports Organization, Nemesis",,0
+650,https://github.com/sixfour/esportsforecasts.git,Code related to Esports Forecasts website,,0
+651,https://github.com/antonybstack/CGWebsite.git,"{""building website for roommate's esports company""}",,0
+652,https://github.com/voxspero/esports-teamsite-1.git,A website for a fictional esports organization.,,0
+653,https://github.com/AidanMacMillan/fanfare.git,A fan engagement app for Esports,,0
+654,https://github.com/RheingoldRiver/mwrogue.git,MediaWiki Repository Of Gadgets Useful to Esports,,0
+655,https://github.com/JoaquinFernandez19/esports-org-page.git,Website for the esports organization named 3Shards,,0
+656,https://github.com/ae-gis/guideline-dota-esports.git,Aegis Guideline Esports for Dota2 player ,,0
+657,https://github.com/Tycharis/resource-check-in.git,Stores resource information for Esports Club events,,0
+658,https://github.com/jakehwang99/LOLest.git,League of Legends eSports Statistics Tracker,,0
+659,https://github.com/thorsty/Pepper-Documentation.git,Documentation for Pepper Esports Inc. Apps,,0
+660,https://github.com/didgogns/GrandmasterCounting.git,https://playhearthstone.com/esports/programs/grandmasters,,0
+661,https://github.com/asm-products/payperwin-landing.git,Game result monetisation for eSports streamers.,,0
+662,https://github.com/SibusisoPro/Zolaseven.git,"EKASI ESPORTS . Playing games , House Radio Show",,0
+663,https://github.com/ChristsY12Robots/Original-ESports-Day.git,"{""A Christ's School ESports Day project""}",,0
+664,https://github.com/adolfoa13/broncoesports.git,Bronco Esports Club Website 2018-2019,,0
+665,https://github.com/franciscofl12/Website-eSports-Club.git,Simple website created for an eSports Club,,0
+666,https://github.com/YoussefAsh/YaLLaV1.git,First rendition of the YaLLa Esports website,,0
+667,https://github.com/JustinSchweiger/HSA-OBS.git,Streamoverlay including OBS portable for HSA eSports,,0
+668,https://github.com/Zarnerz/EH-React.git,Official Esports History website built with React.,,0
+669,https://github.com/MaduSilva/Eplayers.git,Site esports feito em HTML e CSS ,,0
+670,https://github.com/RambitanH/PussKuy.git,Esports Event Tournament and Portofolio App,,0
+671,https://github.com/73805/skidmoreesports.git,"{""Code for Skidmore's eSports club website""}",,0
+672,https://github.com/devprez/pea.git,professional esports association : a wordpress website,,0
+673,https://github.com/liquidgaga/GhostGame.git,The past future of esports mk 1,,0
+674,https://github.com/EsportsGenie/ProjectLESPA.git,Standardising Contractual Standards for Esports Athletes,,0
+675,https://github.com/Jaenicx/AppliedWebAssignment.git,An Esports Event Player Registration Website,,0
+676,https://github.com/bryanling1/OLAE-Website.git,Ontario League of Associated Esports Website,,0
+677,https://github.com/jaredhanson11/vamble.git,"Backend for vamble, the esports betting platform",,0
+678,https://github.com/Bash-rep/discord_bot.git,discord bot for AED-esports server,,0
+679,https://github.com/ZaldivardeA/clonesesports.git,Esports web app for tournament management.,,0
+680,https://github.com/vanquish-ds/vanquish-.git,A app that combine exercise and esports,,0
+681,https://github.com/alan-ws/grounds-mvp.git,MVP for Grounds.gg - gamification of eSports,,0
+682,https://github.com/TNTCookie/autoAcceptDev.git,Autoaccept games in esports style games,,0
+683,https://github.com/troyamelotte/partyup.git,(unfinished) esports team finder using riots api.,,0
+684,https://github.com/SpiritEsport/Spirit-ESports.git,Alpha version of spirit esports website,,0
+685,https://github.com/nst1709/RIT-esports.git,Dynamic web application for RIT Esports,,0
+686,https://github.com/noecorp/payperwin.git,Game result monetisation for eSports streamers.,,0
+687,https://github.com/perezdev/eSportsNewBot.git,A news aggregation bot for eSports.,,0
+688,https://github.com/hamzac/predicting-lol-matches.git,Predicting League of Legends esports matches,,0
+689,https://github.com/hellonewday/frontend.git,VN eSports Front-end Production Code,,0
+690,https://github.com/torqie/esportscms.git,Content management System for esports teams,,0
+691,https://github.com/EZCodes/Information-Management-II.git,Information Management II CS:GO Esports database,,0
+692,https://github.com/andderan/COP4710_Project.git,COP4710 web based database application for ESPORTS,,0
+693,https://github.com/itanne99/NJITEsportsWebsite.git,Static Version of NJIT Esports Site,,0
+694,https://github.com/nhickr4pid/EsportsReactAndroidV0.6.1.4.git,React version of Esports Game Client,,0
+695,https://github.com/Gerghet/Onlab.git,Java/Spring based Esports web application,,0
+696,https://github.com/kyle-hampton/Froastheave-app.git,This is the frostheave fanstasy esports app,,0
+697,https://github.com/cwestleyj/esports-club-theme.git,Esports WordPress theme made from scratch,"esports,wordpress-theme,wordpress-plugin,wordpress-development,php,phpmyadmin,underscores-theme",0
+698,https://github.com/bluebellos/bbo-v1.0.git,Blue Bell Operating System - Exclusive for eSports,,0
+699,https://github.com/sanityOptional/constitution.git,The living and active RIT Esports Constitution,,0
+700,https://github.com/data-enabler/detocs.git,"{""Datagram's Esports Tournament Overlay Control System""}",,0
+701,https://github.com/dragondiego7/teamBuildEsports.git,tool to search player to esports ,"game,sports,e-sports,jogos,team",0
+702,https://github.com/BlueJay1086/Panorama-Esports-Website.git,Website for the Panorama Esports Org,,0
+703,https://github.com/damiapp/Major_Tactics.git,First person shooter esports team management simulator,"game,simulation",0
+704,https://github.com/Borgson/esportApp.git,eSport App,,0
+705,https://github.com/AlexBlair42/Java-eSports-Ticker.git,This is an eSports ticker that is supposed to provide real time data on the latest eSports news.,,0
+706,https://github.com/AlexisAndAnthony/eSports-Hub.git,"A web application to connect professional and casual gamers, eSports team managers and industry professionals, and eSports fans.",,0
+707,https://github.com/fabienwnklr/esport-community.git,esport-commnity,,0
+708,https://github.com/vsihvola/teamAquafi.git,Esport webiste,,0
+709,https://github.com/GradyHooker/esportskingdom.git,"Esports Kingdom contains articles, news, and views across multiple different esports games, focused on weekly recaps and tournament previews/reviews.",,0
+710,https://github.com/HannaBjorkman/UnicornAB.git,esport grupparbete,,0
+711,https://github.com/Zodiacs809/zodiacs.git,Zodiacs esport,,0
+712,https://github.com/AlexandreMonteil/TheGamerz.git,Esport Website,,0
+713,https://github.com/nXu/serpents.git,Serpents Esport,,0
+714,https://github.com/markerplace503/nnegaming.tk.git,eSport Website,,0
+715,https://github.com/Buynsanaa2154/Daze.mn.git,Mongolian esport,,0
+716,https://github.com/valconlabs/esporbet.git,Esport Betting,,0
+717,https://github.com/bayusaurus/Valiant_Esport_Native.git,Esport Website,,0
+718,https://github.com/itinformatix/gamebot.git,eSport Gaming,,0
+719,https://github.com/Jawsco/Dormitory_Esport.git,Dormitory_Esport,,0
+720,https://github.com/fade-color/esport-website.git,esport-website,,0
+721,https://github.com/MatiasSimeran/E-Picant.git,Esport web,,0
+722,https://github.com/mortenks/mortenks.github.io.git,esport blog,,0
+723,https://github.com/Gaming278MVP/tasuna.git,LPJ ESPORT,,0
+724,https://github.com/thefli0222/ECO.git,Esport COach,,0
+725,https://github.com/volt29/esport.git,esport data,,0
+726,https://github.com/CULoL/CES-PHPBB.git,PHPBB resources/theme for the Clemson eSports website.   The Clemson eSports theme is a modified Prosilver theme.,,0
+727,https://github.com/LuxClan/Official.git,Lux Clan is a New Fortnite ESports Clan that is RECRUITING Players to represent them in Professional ESports Tournaments,,0
+728,https://github.com/hite-js/hitesport.git,eSport Website,,0
+729,https://github.com/Evilaw/Legion.git,Team Esport,,0
+730,https://github.com/dikako/doc-esport.git,doc-esport,,0
+731,https://github.com/aZoG18/Easteria.git,Easteria esport,,0
+732,https://github.com/Munk801/tier.git,Web app for local esports event organizers and tournament setters. ,,0
+733,https://github.com/MAkzent/metaTV.git,Esports VOD platform with pro-player comments baked in.,,0
+734,https://github.com/TDEN93/Jan_BotV_1.git,Discord bot for managing roles and esports teams.,,0
+735,https://github.com/tchin25/tuesports-website.git,"{""Official Unofficial website for Temple University's ESports Club""}",,0
+736,https://github.com/pilg5971/F.A.E._Database.git,"F.A.E. Database for ""From Ashes eSports""",,0
+737,https://github.com/waifuxszn/survey-template.git,"eSports survey template page, created with only HTML and CSS.",,0
+738,https://github.com/hijackster99/Map-Tools-old2.git,A tool for sharing map strategy in esports,,0
+739,https://github.com/sipwarriper/alarmacdb.git,Alarma para el entrenamiento CD Badajoz eSports PC,,0
+740,https://github.com/whoisZORZ/riot-api.git,A Riot API project for DE-IK Esports course.,,0
+741,https://github.com/pablo-wannabe-dev/eSportsCoach.git,A Django Web application built for coaching eSports.,,0
+742,https://github.com/DexterzLab/3rdYear-AndroidApp.git,Prototype android app created to help esports players. ,,0
+743,https://github.com/grytech/grysports.git,Grysports is an eSports plugin for WordPress sites.,,0
+744,https://github.com/MegaGG/DeviateBot.git,Bot used to manage the Deviate Esports Discord server,,0
+745,https://github.com/rdunonos/KW-eSports-Club.git,"Creación de página web de KW, un club de eSports.",,0
+746,https://github.com/theodore-gallao/lolesports-schedule.git,A calendar for Leauge of Legends eSports events.,,0
+747,https://github.com/KovuTheHusky/modusawperandi.com.git,A website for the Modus Awperandi esports team.,website,0
+748,https://github.com/marshall-a-miller/CBW-Esports-Discord-Bot.git,The Discord Bot for the CBW Esports Club,,0
+749,https://github.com/thehemell/matchTickerWidget.git,Extension for Chrome: Displayed esports matches from cybersport.ru,,0
+750,https://github.com/casmirconsensys/nba2chain.git,Cosmos SDK eSports Fantasy league NFT game chain,,0
+751,https://github.com/thehemell/matchTickerWidget.git,Extension for Chrome: Displayed esports matches from cybersport.ru,,0
+752,https://github.com/realmohaa/MyDiscordBot.git,Discord Bot for eSports (Mohammed A. A. Abufarhana),,0
+753,https://github.com/asaifuddin18/IERP.git,Program that creates rewards program for Illini Esports discord.,,0
+754,https://github.com/Andy16823/WP-Clan-System.git,A very simple eSports clan system for wordpress,,0
+755,https://github.com/thewhitedingo/eleagues.git,website to help people create local esports leagues,,0
+756,https://github.com/DaddyThicc/Scoreboard.git,A simple and free eSports live scoring API,,0
+757,https://github.com/SmallFCraft/mysticesports.git,A Discord Bot for the Mystic Esports Gaming Organization,,0
+758,https://github.com/dtonys/webpack_react.git,"Webpack + React setup, used as foundation for esports project",,0
+759,https://github.com/FabienGreard/API-esports-moments.git,"A simple API, brings you stats about esports-moments",,0
+760,https://github.com/soopyGG/ritchie.git,A stat tracking Discord bot for RIT esports,,0
+761,https://github.com/kenmiller521/TiltedShedGameJamFeb2018.git,"February 04, 2018 @ ESports Arena in Santa Ana",,0
+762,https://github.com/kantinanm/rovnu.git,NU eSports Tournament : งานเฉลิมฉลองครบรอบ 25 ปี คณะวิศวกรรมศาสตร์ มหาวิทยาลัยนเรศวร,,0
+763,https://github.com/EmilPrusaczyk/TDALoL.git,Application of Topological Data Analysis in eSports player statistics,,0
+764,https://github.com/dickycl/pratikum_web.git,web ini berisi tentang informasi tentang ukm narotama esports,,0
+765,https://github.com/ebruckart/arena_bot.git,Discord bot for tracking meaningful rankings in competitive esports environments.,,0
+766,https://github.com/dlim28/esports-API.git,A practice API that has some basic esports data,,0
+767,https://github.com/BrentVanZant1999/CollegeClashJam.git,Esports Themed Game Made for College Clash. Made in GML,,0
+768,https://github.com/ZebTheWizard/armedgg.git,A esports roster website with YouTube/Twitch video player.,,0
+769,https://github.com/tundeblack/bayes-coding-challenge.git,BAYES Esports Solutions GmbH Front-end Engineer Coding Challenge,,0
+770,https://github.com/Khizrkshah/RiotAPItest.git,riot api testing in java for esports class,,0
+771,https://github.com/floede/cap-game.git,Brand name fitted caps with team from eSports,,0
+772,https://github.com/andrei-pascu/esports.git,"2017 - Esports, Page Transition Concept + Basic PHP database",,0
+773,https://github.com/JTomoyasu/Score-Scraper.git,"{""Get's links to articles from the Score Esports""}",,0
+774,https://github.com/jlgasparrini/esports-pride.git,Little app to earn money with esports predictions and forecasts.,,0
+775,https://github.com/lsamano/tourn-api.git,"The API for Tourn, an eSports tournament management app.",,0
+776,https://github.com/Jedimaster4559/UAHEsportsDiscordSuite.git,A Program to run the UAH Esports Discord Bots.,,0
+777,https://github.com/brettdoyle44/strymer-podcast-client.git,Strymer Podcasts is an esports and gaming podcast player,,0
+778,https://github.com/Hunr1/MapPicker_archived.git,Mobile app to help in esports admin jobs (Android Java),,0
+779,https://github.com/MLJBrackett/All-In.git,All-In is a Esports betting web application,,0
+780,https://github.com/Miguel-22004314/Projeto-Logic-Esports.git,Site dos Logic Esports https://linktr.ee/LogicEsports,,0
+781,https://github.com/kenjisano/esports.git,Content aggregator and API for eSports statistics using Kimono Labs,,0
+782,https://github.com/tassyguy/eSports-npm.git,A collection of NPM libraries for various eSports,,0
+783,https://github.com/JasherIO/lurker.git,Web crawls esports tournament sites for entrants and results.,"esports,crawler,scrapy,scraper",0
+784,https://github.com/davidcbbc/lap.git,Website for UFP eSports made for a college subject.,,0
+785,https://github.com/ZusorCode/Echo2.git,A discord bot for Elo Hell Esports Pick Up Games,discord,0
+786,https://github.com/lambdatastic/jslcs.git,Server for a public League of Legends eSports API,,0
+787,https://github.com/winstonhoseadriggins/Sports-website.git,First Static Every Website For A Professional eSports Organization Website,,0
+788,https://github.com/Harry-Kwon/cwru-discord-bot.git,A discord bot for cwru esports discord server,,0
+789,https://github.com/DominikGLL/samp-kf-traingamemode.git,Trainingsgamemode for the Korsakow Family of Nova-eSports,,0
+790,https://github.com/mikethehud/goodgame.git,GoodGame React Pattern Library for Gaming and Esports,,0
+791,https://github.com/Dual-Exhaust/Stockton-Esports-Bot.git,"{""A Discord bot for Stockton University's Esports Server""}","python,discord,bot,discord-py,python37,bots",0
+792,https://github.com/vantiernodev/SiteQru.git,Site de equipe eSports em HTML e CSS,,0
+793,https://github.com/tyqualters/lchs-railers-esports-bot.git,A Discord bot developed for the LCHS Railers eSports team!,"discord-bot,docker,discordjs,discordjs-bot,esports,discord,discord-api,discordapp,lchs,lchsrailers,sql,mysql,mysql-database,mysql-database-api,javascript,nodejs",0
+794,https://github.com/MattLeuterio/FTE-Discord.git,Flat Earth Esports (FTE) theme for discord by Matt Leuterio,,0
+795,https://github.com/chrispham45/chrispbirb.git,This is a bot for the UoA Esports server,,0
+796,https://github.com/MasteryCoding/pathway-tools.git,A set of tools to support pathway esports operations.,,0
+797,https://github.com/Cinzya/broadcast_api.git,RESTful API using Lumen for basic esports broadcast purposes,,0
+798,https://github.com/esportschain/esportstoken.git,Smart contracts for the esports token sale and ERC20 token.,,0
+799,https://github.com/DominikGLL/samp-novaesports-bankmap.git,"Bank Map for Nova-eSports, but never used.",,0
+800,https://github.com/lokinario/esports.git,Esports Data Analysis and Visualization for CMPS 184 final project,,0
+801,https://github.com/hellonewday/backend.git,VN eSports Web production code for back-end,,0
+802,https://github.com/lsycamore/esportsGUI.git,"Esports application made using python, used for educational purposes",,0
+803,https://github.com/mariocosme/Boost-ctRL-android.git, A companion android app for Rocket League Esports,,0
+804,https://github.com/JeremyPresti/FlashQ.git,Visual Novel game following an aspiring collegiate esports team,,0
+805,https://github.com/jpbullalayao/team-dubwool.git,GitHub repository for the Team Dubwool esports organization,,0
+806,https://github.com/University-of-Arizona-Esports/AZEsportsDiscordBot.git,The official repo for the EZ Esports Discord bot.,,0
+807,https://github.com/whoisZORZ/discord-chatbot.git,A Discord chatbot project for DE-IK Esports course.,,0
+808,https://github.com/dewbus/eSports_Visualizations.git,4 general visualizations on an eSports data set,,0
+809,https://github.com/PruvostMaxime/Team-Kitty.git,"{""Une parodie d'equipe de eSports (TP PopSchool)""}",,0
+810,https://github.com/kevotovar/arena-esports-mvp.git,This is the mvp for the arena esports project,,0
+811,https://github.com/enricozammitlon/EsportsHack2019.git,Our submission to the esports hackathon in Malta 2019,,0
+812,https://github.com/lvandertie/Vandertie-Esports-Analytics.git,Holding place for various projects related to esports & analytics,,0
+813,https://github.com/bryanling1/OLAE-Media.git,Ontario League of Associated Esports media generators and helper functions,,0
+814,https://github.com/LloydTao/esports-logo-generator.git,Generate logos in the style of esports franchises.,,0
+815,https://github.com/HazardHimself/NUEsportsWebsiteImages.git,A collection of 256px images for the NU Esports Website.,,0
+816,https://github.com/carlosoroli/esportsblog.git,An esports blog made by gamers to gamers,,0
+817,https://github.com/brandonnly/YRESL-Tourney-Bot.git,Tournament Bot used for the York Region Esports server,,0
+818,https://github.com/williamrice/storm-bot.git,A discord bot for Category 6 esports communtity,,0
+819,https://github.com/logancollingwood/cmps115.git,an eSports web app buit on Laravel & React,,0
+820,https://github.com/ericdan8/melee-vod-genius.git,Video analysis and discussion platform targeted at eSports VODs,,0
+821,https://github.com/AllanOcelot/imaginary-friends.git,Imaginary friends is an Esports team / player API and website.,,0
+822,https://github.com/LayteceSports/Merchandising.git,This will have the full merchandising of Laytec eSports,clothing,0
+823,https://github.com/bojanin/esportsML.git,Data science exploration on esports (League of legends & PUBG),,0
+824,https://github.com/adubov1/wpcpesports.git,A Jekyll site for the WPCP Esports program.,,0
+825,https://github.com/cris178/StatsApp.git,"{""The stats site for Highlander Gaming's esports teams. ""}","esports,react,design",0
+826,https://github.com/daniberdie/MatchMaker.git,Buscador y creador de partits en diferents esports,,0
+827,https://github.com/sherrynance/Monticello-High-School-Esports.git,Website for the Monticello High School Esports teams,,0
+828,https://github.com/Mavial/r6-costream.git,A basic webpage to better costream R6 Esports.,,0
+829,https://github.com/Pehesi97/tournamanager.git,A segunda versão do melhor gerenciador de torneios de eSports.,,0
+830,https://github.com/Roninii/esportacus-rewrite.git,"Track your favorite esports teams, players, and leagues",,0
+831,https://github.com/griffinbeels/brownesportsarcade.git,Repo for the Brown Esports Arcade machine in Faunce.  ,,0
+832,https://github.com/wyattferguson/csgo-scraper.git,Python scraper for CS:GO games from The Score eSports,"python,beautifulsoup,scraper",0
+833,https://github.com/jcole2236/Arc-Flash-Website.git,Arc Flash eSports website overhaul with additional features. ,,0
+834,https://github.com/Zacks7348/Wulfpack.git,Discord bot for the Wulfpack eSports server written in python,,0
+835,https://github.com/midblue/0-2-Club.git,👍 An esports fitbit for anyone getting started in competitive gaming.,,0
+836,https://github.com/Parapheen/student_esports_vk_parser.git,Parsing last posts from russian student esports clubs,,0
+837,https://github.com/alejo0o/E-sportsFrontend.git,Front para el proyecto esports echo con reactjs y auth0,,0
+838,https://github.com/GerritKrot/PokemonDraft.git,Tool I made for RIT ESports Pokemon Draft Stream,,0
+839,https://github.com/M4hd1BD/Kobayashi.git, A tournament management Discord bot for Esports team managers.,"discord,bot,esports,tournament-manager",0
+840,https://github.com/JEndler/csgogamble.git,A Python based cs:go eSports Prediction Program ,,0
+841,https://github.com/rutgersesports/admin-bot.git,bot that does administrative work for Rutgers Esports,,0
+842,https://github.com/gabriel0183/esportsifpb.git,ESPORTS - Desenvolvido por: Gabriel Luna e Mateus Damasceno,,0
+843,https://github.com/CMasco/Decentrabets.git,Ethereum based dApp for betting on eSports matches.,,0
+844,https://github.com/TyStark/LewisEsports.git,Open place to develop the Lewis Esports webpage.,,0
+845,https://github.com/ChillerDragon/EsportSurvey.git,A simple survey about eSports created for a school project.,,0
+846,https://github.com/FilippoVigani/Eventvods-Android.git,Android app for browsing and viewing esports events spoiler-free,,0
+847,https://github.com/kantinanm/rovnu-web.git,NU eSports Tournament : งานเฉลิมฉลองครบรอบ 25 ปี คณะวิศวกรรมศาสตร์ มหาวิทยาลัยนเรศวร,,0
+848,https://github.com/flsck/rlolesports.git,An R Interface for the League of Legends eSports API,,0
+849,https://github.com/whoisZORZ/coc-api.git,A CoC API project for DE-IK Esports course.,,0
+850,https://github.com/eckels/RebelLion.git,Website for the eSports Organization RebelLion in Europe,,0
+851,https://github.com/ImSimonG/eSports.git,eSports Website for UAlbany - Simon Gong & Anson Foong,,0
+852,https://github.com/cky-esports/cky-api.git,A RESTful API for CKY - UK eSports Organisation,,0
+853,https://github.com/bobvandolven/ROC-eSports.git,ROC-eSports web application for the ROC van Flevoland college,,0
+854,https://github.com/GliderGeek/nk-tracking.git,website for tracking esports dutch national gliding championship 2020,,0
+855,https://github.com/ortexa-cell/aenpknstanbot.git,"{""Source Code for Aliwardhana Esports Network's Chatbot""}",,0
+856,https://github.com/keangchong/scrappy-bot.git,Discord bot for use in the KSU eSports Discord server.,,0
+857,https://github.com/SouthernIndianaEsports/old-website.git,Southern Indiana Esports Association website hosted at http://siea.club,"website,php",0
+858,https://github.com/rader90/neongaming.git,A mock up website theme for gaming/esports related sites,,0
+859,https://github.com/osu-cs290-sp19/final-project-osu-esports-group.git,final-project-osu-esports-group created by GitHub Classroom,,0
+860,https://github.com/MatrixSenpai/syqen-data.git,A repository of all data harvested on LoL Esports,,0
+861,https://github.com/ShadowLugia123/lechuga-army.git,Web Oficial del equipo de eSports Lechuga Army,,0
+862,https://github.com/evgrezanov/wp-esport.git,WordPress plugin add eSports function to your site ,,0
+863,https://github.com/8theAutist/Spud-Farm-Digital-Assets.git,Digital Assets used at Spud Farm Esports Academy,,0
+864,https://github.com/GavMakesGames/gavmakesgames.github.io.git,A repo for development related files for Wolves Esports,,0
+865,https://github.com/SouL03/AccademyManager.git,A bot for Discord of Animus eSports called AccademyManager,,0
+866,https://github.com/zcjhnsn/Boost-ctRL.git,A companion iOS app for Rocket League Esports,,0
+867,https://github.com/Vilux/Akshon-Esports.git,"{""Code for Akshon Esports Pick'Em web app""}",,0
+868,https://github.com/Bjarturl/League-api.git,API for Icelandic Esports League of Legends tournament data.,,0
+869,https://github.com/mckernant1/swain.git,Command line interface to get lol-esports data in json,,0
+870,https://github.com/BYUCS452F2020/Ze-Kaiser-2.0.git,A Discord bot for the BYU CS and eSports servers,,0
+871,https://github.com/Alex-Williams01/league-system-website.git,This is a eSports League Website made for coursework.,,0
+872,https://github.com/JPGarCar/ubc-rec-esports-discord-bot.git,A Discord Bot for the UBC Recreation Intramural eSports Leagues.,,0
+873,https://github.com/DMedia-Development/WSC-eSportProfileFields.git,[WSC Plugin] Adds user profile fields for common eSports leagues.,,0
+874,https://github.com/PimVV/ESTV.git,eSport Festival TV,,0
+875,https://github.com/shindigs/esports_mafia.git,esports_mafia 1.0,,0
+876,https://github.com/gerrez/esport.git,My Esport betting project,,0
+877,https://github.com/Lanternn/Unitcom.git,gaming eSport platform,,0
+878,https://github.com/Cali93/GameGrinders.git,Personnal eSport project,,0
+879,https://github.com/djkev2b/IconeSportWeb.git,Site Web ICON eSport,,0
+880,https://github.com/LuisHsu/2015NCKU-ESport.git,2015 NCKU ESport,,0
+881,https://github.com/czarcasms/kompyutr-website.git,Kompytr esport website,,0
+882,https://github.com/fadielsayed/myesports1app.git,esport ui 9 screens,,0
+883,https://github.com/LaFeujerie/Light-ESC-Kit-Grafik.git,Structure Esport pro,,0
+884,https://github.com/dawidolejniczak/esportcrew.git,Esport News Feed- Laravel,,0
+885,https://github.com/Daztiel/ESL.git,School Project - Esport site ,,0
+886,https://github.com/Marlboroxl/Filipe-Lopes.git,Player AC esport,,0
+887,https://github.com/SoturiyArts/DynamixEsports.git,www.dynamix-esports.com,,0
+888,https://github.com/jonasfaehrmann/vaadin-league-of-legends-analyzer.git,"eSport Analyzer, Stats",,0
+889,https://github.com/ArtemLyakh/esport.git,Java esport hibernate project,,0
+890,https://github.com/PrismEvent/Esport.git,Repo du site Esport,,0
+891,https://github.com/Desmortines/Prejo_Porse_LolEsport.git,Esport stats and analysis,,0
+892,https://github.com/birnchen-interactive/Project-eSport-Backend.git,Backend for Project eSport,,0
+893,https://github.com/arkan481/EsportAcademy.git,Esport Academy Android App,,0
+894,https://github.com/jorglaguna/ETManagement.git,esport team management,,0
+895,https://github.com/Broderickfowler/esports-app.git,Esports:Sinatra-project:Flatironschool,,0
+896,https://github.com/fenixlod/EsportSchedule.git,APP for Esport events,,0
+897,https://github.com/maryzam/top-esports-tournaments.git,🎮 eSport Tournaments overview,"dataviz,d3js,esports,dota2",0
+898,https://github.com/txdultra/EsportMatchEngine.git,esport match rules,,0
+899,https://github.com/GagnantN/GagnantN.github.io.git,project_game_esport,,0
+900,https://github.com/Shovan404/EsportGear.git,Application for Esport gear,,0
+901,https://github.com/swdiscordia/Esport-project-JuleZ.git,Esport project for school ,,0
+902,https://github.com/birnchen-interactive/Project-eSport-Frontend.git,Project eSport frontend,,0
+903,https://github.com/DDoS000/UBU_eSport_Controller.git,UBU_eSport_Controller,,0
+904,https://github.com/RylixYT/RylixYT.git,Leader of HaZe eSport,,0
+905,https://github.com/RomainWeb/EsLiveScore.git,ESport Live Score Project,,0
+906,https://github.com/officialcreyo/esport-ap.git,Esport Administration Panel,,0
+907,https://github.com/rhnsh26/XTZ.git,Esport media house,,0
+908,https://github.com/bayusaurus/valiant_laravel.git,valiant esport laravel version,,0
+909,https://github.com/Yacine1998/esport.git,Projet java esport,,0
+910,https://github.com/fywlyy/ESports_platform_webapp.git,ESports_platform_webapp,,0
+911,https://github.com/DRGEsport/drgesport.github.io.git,Website for DRG Esport,,0
+912,https://github.com/LunixGames/Esport-Schedule.git,APP for esport events,,0
+913,https://github.com/schkatz/Projekt.git,Silesian Esport League,,0
+914,https://github.com/Jimmy-Hu/TaipeiTech_Esports_club_Web.git,TaipeiTech_Esports_club_Web,"web,laravel-framework",0
+915,https://github.com/Eskalol/EsportFinnmark.git,Esport Finnmark Site,,0
+916,https://github.com/Myhed/frontEsport.git,React front esport,,0
+917,https://github.com/Keindae/Swish-Gaming.git,Swish Gaming Esport Website,,0
+918,https://github.com/lucasmalherbe/lucasmalherbe.github.io.git,"{""Infographie sur l'esport""}",,0
+919,https://github.com/SUasyraaf/FlutterEsport.git,Flutter Esport UiTM,,0
+920,https://github.com/renaudbarrios/Across-Front.git,Website of Across eSport,,0
+921,https://github.com/AlexTheChan/better-esports.git,Community of esports creators who are working to continuously push esports to become the best form of entertainment in the world,,0
+922,https://github.com/moicompsci/esportsfinder.git,Find Local Esports locally in your area.  A Django project that connects to a PostgreSQL and stores data about upcoming esports events.,,0
+923,https://github.com/Zelfrost/ESport.git,ESport tournament project,,0
+924,https://github.com/omriiii/tmf.git,eSport Team Website Project,,0
+925,https://github.com/shincyls/esport.git,Esport for Daniel,,0
+926,https://github.com/fariswd/esport-league.git,Esport on demand,,0
+927,https://github.com/Lynsens/EECS341.git,Esport Database Web Interface,,0
+928,https://github.com/fpeterek/esport.git,VŠB Esport Class Solutions,,0
+929,https://github.com/OSDDQD/esport.git,Esport.uz Site,,0
+930,https://github.com/Wdb53/EDF-eSports.git,eSport team EDF homepage.,,0
+931,https://github.com/esroma-sport/esroma-sport.origin.io.git,esport roma landing page,,0
+932,https://github.com/NeilCollinsMS/Esports-Earnings.git,An analysis of what factors most heavily impact professional esports earnings. Some insights will be derivative of my 2019-2020 thesis on Esports Economics.,"esports,esports-earnings,sql,mysql,r,tableau",0
+933,https://github.com/Snizzle-jvc/Anti-esport.git,Les cucks esport en PLS,,0
+934,https://github.com/noecorp/vongg.git,VoNgg :: Official website eSport team.,,0
+935,https://github.com/anthonyleborgne/design-ESport.git,design - Esport rainbow six siege,,0
+936,https://github.com/RotorMatch/esportSeries.git,"{""Développement d'une série Esport""}",,0
+937,https://github.com/RichardDally/Alfred.git,Discord bot for ASC eSport,,0
+938,https://github.com/Shibori/Cybertooth.git,An Esport group on steam,,0
+939,https://github.com/henrik-bak/esportscalendar.git,Esport calendar for various games,,0
+940,https://github.com/Ptasi0r/coacht.git,App for manage esport team,,0
+941,https://github.com/T0mpak/zzs_esports.git,my_first_project_zzs_esports,,0
+942,https://github.com/TheFibonacciEffect/novi-website.git,Website für Novi Esport codebase,,0
+943,https://github.com/ramenwang/AI-esport.git,Practical AI project in ESPORT,,0
+944,https://github.com/xiochirinos/eSports_Visualizations.git,Visualizations of the eSport world,,0
+945,https://github.com/MitchellUngar/SLCESA.git,St.Lawrence College eSport Association,,0
+946,https://github.com/AnimaEsport/terraform.git,Infrastructure plans for Anima eSport,"terraform,terraform-aws,terraform-plans",0
+947,https://github.com/Nicolai354/Hj-rring-Esport-localhost-2.git,2 semester projekt hjørring esport,,0
+948,https://github.com/putra-inttech/joinesports.git,Ini merupakan website turnamen Esport,,0
+949,https://github.com/peteryao/esport_viewer_frontend.git,The frontend to esport viewer.,,0
+950,https://github.com/gissandrogama/vulpes.git,"Site Vulpes, time de eSport",,0
+951,https://github.com/Whalurkun/TR-esport.git,Development hub for TR-esport,,0
+952,https://github.com/stoffesvensson/EsportScore-DesktopApp.git,Desktop application for esport scores,,0
+953,https://github.com/TealeWaltho/esportWebApp.git,Online hub for esport team.,,0
+954,https://github.com/KyleKaniecki/ACE-Discord-Bot.git,"{""Ascending Esports's Discord Bot""}",,0
+955,https://github.com/lacc87/esport_beadando.git,Esport COC API ( klán weboldal ),,0
+956,https://github.com/Puppe12/eSports.git,"{""Schools eSports-course's website containing information about team combinations and scouting information on enemy teams.""}",,0
+957,https://github.com/TeamFlarox/team-flarox-bot.git,Team Flarox Bot is a custom bot for the eSports organisation Team Flarox.,,0
+958,https://github.com/FlorisSchippers/aeonofstrife.git,"{""A competitive eSports platform using React + Google's Cloud Firestore for:""}",,0
+959,https://github.com/annagc/OWL_stats.git,"{""Python Scraper to get all Overwatch League Esports matches' data from OWL API""}",,0
+960,https://github.com/joeyilluzzi/joeyilluzzi.github.io.git,Labor Rights Considerations in eSports: A Look at North American League of Legends (LCS),,0
+961,https://github.com/Triton-Network/TritonProtocol.git,XTRI: Monero based privacy digital asset focusing on eSports https://xtri.network,,0
+962,https://github.com/CharlesWDavid/Esports-Match-Outcome-Predictor.git,Web app that predicts the most likely outcome between two CSGO Esports teams,,0
+963,https://github.com/jafarrar/atlc2-qualifier.git,"{""Bundle for use with NodeCG in Amaz Productions' ATLC2 Qualifier, a Hearthstone esports event. ""}",,0
+964,https://github.com/amphy/gragas.git,a smol Python wrapper for querying League of Legends eSports data from the unofficial endpoint,,0
+965,https://github.com/itorrero98/BSU-AR-eSports-App.git,An augmented reality app created for the Boise State Varsity eSports program,,0
+966,https://github.com/brettdoyle44/the-league-backend.git,The league is a way for people to create leagues dedicated to different esports,,0
+967,https://github.com/hshar7/EGGE.GG-Backend.git,https://kauri.io/eggegg-instant-payout-esports-tournaments-for-ethd/2d6aad56cc904756bbef18332efb00fc/a,,0
+968,https://github.com/armscoffa/armscoffa.git,Hardcore esports athlete mother of 3 and have aspirations to code for new alien technology,,0
+969,https://github.com/kzlimon/deimos-players-profiler.git,"{""A platform for Deimos Force players that will represent players' realtime progress on several eSports games""}",,0
+970,https://github.com/UNIVERSAL-IT-SYSTEMS/Matches.git,MediaWiki extension to store and query for match data in esports wikis,,0
+971,https://github.com/asherdavidson/lol_esports_calendar_generator.git,Library for parsing the League of Legends eSports api and generating ical files,,0
+972,https://github.com/FabioCmps/discordBot.git,Projet utilisant discord.js pour faire un bot sur le serveur Discord des Gitan eSports.,,0
+973,https://github.com/Aaron-Landry/leaderboard.git,A match reporter/leaderboard generator for all Rutgers Esports inhouse leagues.,,0
+974,https://github.com/CostaAlejandro/TuriaeSports.git,"APP desarrollada en Android Studio para la gestión del equipo ""Turia eSports""",,0
+975,https://github.com/adubov1/WPCP-Discord-Bot.git,A multipurpose bot designed for the moderation of the Walter Payton Esports Discord server.,,0
+976,https://github.com/croudebush15/eSports.git,Base de Datos creada para una empresa de los torneos de eSports,,0
+977,https://github.com/KyuriTaima/EsportSimulator.git,"Personal project with the aim to do an Esports Simulator, the project is far from finished",,0
+978,https://github.com/MikeOfficiaI/Database-of-eSports-teams.git,"This is my database on Python which stores, adds and removes eSports teams.",,0
+979,https://github.com/tguyer/RisenControlHub.git,Desktop application to optimize the day-to-day operation of Risen Esports,,0
+980,https://github.com/jamesNWT/oldOWLManager.git,A simple sports-manager style game where you manage an Overwatch esports team. WIP.,,0
+981,https://github.com/carb0nated/UQUEsports-discord-bot.git,A discord bot for the University of Queensland Union Esports discord server.,,0
+982,https://github.com/helixiosesports/helixiosesports.github.io.git,"The website for Helixios eSports - The ""Unofficial yet Legal"" Gaming Club of IET Lucknow.",,0
+983,https://github.com/nikolajjepsen/esports-calendar.git,An esports calendar with Laravel as backend and React as frontend using Sanctum.,,0
+984,https://github.com/imransilvake/bayes-challenge.git,"A React, Hooks and Redux (RTK) based application coding challenge from Bayes Esports.","redux-toolkit,react,rest-api,hooks,bootstrap,moment",0
+985,https://github.com/LTSana/lost-empire.git,# (* DEMO *) Lost Empire is a E-Commerce website for selling ESPORTS merchandise #,"merchandise,shop,django-framework,django-application,esports,lost-empire,demo",0
+986,https://github.com/spazdrum/RABlog.git,This is a blog and website for the Rare Assassins ESports and Entertainment Organization.,,0
+987,https://github.com/Necolanch/quest.github.io.git,"{""Practice website for a friend's esports organization, Team Quest. Check out their Twitter: @TeamQuestGaming""}",,0
+988,https://github.com/NealKaviratna/TOScripts.git,Collection of scripts useful for eSports Tournament Organization and Community Management,,0
+989,https://github.com/jafarrar/hs-gang-wars.git,"Bundle for use with NodeCG in Amaz Productions\' ""Gang Wars"", a Hearthstone esports event",,0
+990,https://github.com/negate-strk/da-strike-esports-postman.git,"{""I'm the guy you message when you want to contact a strike esports staff member!""}",,0
+991,https://github.com/clin-projects/LoLwinner.git,Web-app that predicts match outcomes for eSports video game League of Legends,,0
+992,https://github.com/Mark-Prime/Team-Track.git,eSports Team Management system with a focus on Statistics and Data Science,,0
+993,https://github.com/Kyagara/sunzinho-radio.git,O bot de rádio usado pela Sunlight Esports no Discord #SUN Community.,"javascript,discord,discord-js,radio,bot",0
+994,https://github.com/SkyGamesLT/skygames.git,Tools and CMS for your eSports community. Mostly writen with CakePHP framework.,"cms,cakephp-framework,e-sports,e-tournaments",0
+995,https://github.com/stratx21/CVRE_Website.git,The website (in development) for the Collegiate Virtual Reality eSports League. Uses Bootstrapper resources ,,0
+996,https://github.com/SuperRonJon/RocketStats.git,A script that accesses an API to get Rocket League esports data,,0
+997,https://github.com/d-Nic/Draconic.git,Initial design for Draconic Esports website https://d-nic.github.io/Draconic/,,0
+998,https://github.com/Yassinos-coder/Alpha-X-Launcher.git,This launcher is made for the one and the only one Alpha X Esports Community,,0
+999,https://github.com/Bjarturl/League-Trivia-frontend.git,A trivia game for the Icelandic Esports League of Legends tournament.,,0
+1000,https://github.com/Briles/Kurouzu.git,"A C# command line utility for extracting, renaming, and scaling image assets from popular eSports Games",,0
+1001,https://github.com/anthonyAgnone/ericWpTheme.git,This is a WordPress theme created for an eSports coach and analyst.,,0
+1002,https://github.com/Standard-Esports-Company/High-School-Tournament-Tab.appspot.com.git,A simple swiss tournament app built for a High School Esports League,,0
+1003,https://github.com/juanmoreuy/juanmoreuy.github.io.git,"Pagina oficial para inscripccion a torneos de Juan More, organizacion de esports en Utuguay",,0
+1004,https://github.com/kevin-sanjaya/ascension-frontend.git,"Vue.js front-end for Ascension, a web-based application to simplify esports teams management activities.",,0
+1005,https://github.com/cheojeg/dojo_tournament_api.git,A simple API in Django Rest Framework to CRUD data of esports tournaments,,0
+1006,https://github.com/Memoriuhl/PCT-Esports-Bot.git,A discord bot used to help automate the PCT Esports Discord.,,0
+1007,https://github.com/tedmart/GameHausProject-master.git,eSports Management App for teams. Team Project made for UW-Madison CS 506,,0
+1008,https://github.com/vascofcd/link-s-battleground.git,"{""Link's Battleground aims to transparently manage a prize pool of esports tournaments using smart contracts.""}",,0
+1009,https://github.com/CapnRedB/eSports101.git,Creating a way for non-gamers to get into the spectator eSports without playing the games.,,0
+1010,https://github.com/acron0/farsight-orb.git,"{""A platform for statistical analysis of League of Legends' eSports. Built on Clojure, Om, Sente.""}",,0
+1011,https://github.com/gitter-badger/aeq-esports-manager.git,"Management tool for AeQ eSports, written with Angular 2 and Typescript.",,0
+1012,https://github.com/lauramwall/Komono-Gaming.git,"{""/LIVE URL/  The official website for esports gaming team 'Komono Gaming'.""}",,0
+1013,https://github.com/thestillheron/content-tools.git,Repo to contain scripts and small web pages for managing esports contents,,0
+1014,https://github.com/brettdoyle44/the-league-client.git,The league is a way for people to create leagues dedicated to different esports,,0
+1015,https://github.com/HyperKids/best-bedrock-api.git,Brown Esports internal API for retrieving Minecraft player UUIDs formatted for Java Edition.,,0
+1016,https://github.com/mariahcbastos/eSports_Visualizations.git, Using a data set on eSports I generated 2 visualizations using GGPlot.,,0
+1017,https://github.com/ColoradoSchoolOfMines/eSportsMatcher.git,Web app to match participants in eSports tournaments more fairly/automatically.,,0
+1018,https://github.com/KennethWangDotDev/TSMSB.git,TSMSB is a top performing eSports team for Rivals of Aether,,0
+1019,https://github.com/kuzmatech/yet-another-stream-overlay-helper.git,An application to help with the creation of OBS Streams in eSports.,,0

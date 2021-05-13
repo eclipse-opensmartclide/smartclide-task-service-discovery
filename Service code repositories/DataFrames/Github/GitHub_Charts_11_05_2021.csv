@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/d3/d3.git,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",visualization,96780
+1,https://github.com/chartjs/Chart.js.git,Simple HTML5 Charts using the <canvas> tag,"javascript,chart,html5,canvas,graph,html5-charts,hacktoberfest",53546
+2,https://github.com/apache/echarts.git,"Apache ECharts is a powerful, interactive charting and data visualization library for browser","echarts,data-visualization,charts,charting-library,visualization,apache,data-viz,canvas,svg",46338
+3,https://github.com/PhilJay/MPAndroidChart.git,"A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.","java,chart,graph,android,mpandroidchart",33293
+4,https://github.com/danielgindi/Charts.git,Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.,,24219
+5,https://github.com/recharts/recharts.git,Redefined chart library built with React and D3,"react,charting-library,recharts,d3",16299
+6,https://github.com/frappe/charts.git,"Simple, responsive, modern SVG Charts with zero dependencies","chart,javascript,svg,svg-chart,graph,zero-dependency",13865
+7,https://github.com/plotly/plotly.js.git,Open-source JavaScript charting library behind Plotly and Dash,"data-visualization,d3,webgl,plotly,charting-library,charts,visualization,plotly-dash,regl",13178
+8,https://github.com/nhn/tui.editor.git,🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.,"editor,wysiwyg,markdown,gfm,jquery,frontend,documentation,commonmark,uml,html,jquery-plugin,chart",12891
+9,https://github.com/gionkunz/chartist-js.git,Simple responsive charts,"chartist,responsive-charts,charting-library,javascript,svg",12576
+10,https://github.com/ossu/data-science.git,:bar_chart: Path to a free self-taught education in Data Science!,,11395
+11,https://github.com/antvis/G2.git,📊 A highly interactive data-driven visualization grammar for statistical charts.,"visualization,grammar,graphics,charts,graph,data-visualization,canvas,statistics,svg,interaction,data-driven",10645
+12,https://github.com/apexcharts/apexcharts.js.git,📊 Interactive JavaScript Charts built on SVG,"charts,graphs,javascript,svg,data-visualization,visualization,interactive",10270
+13,https://github.com/highcharts/highcharts.git,"Highcharts JS, the JavaScript charting framework",,10050
+14,https://github.com/kevinzhow/PNChart.git,A simple and beautiful chart lib used in Piner and CoinsMan for iOS,,9756
+15,https://github.com/c3js/c3.git,:bar_chart: A D3-based reusable chart library,"chart,d3,graphics,data-visualization,svg,graph,interactive-visualizations",9061
+16,https://github.com/antvis/F2.git,"📱📈An elegant, interactive and flexible charting library for mobile.","mobile,charts,visualization,grammar,antv,f2,html5-canvas,data-visualization,data-visualisation",7526
+17,https://github.com/adrai/flowchart.js.git,Draws simple SVG flow chart diagrams from textual representation of the diagram,"flowchart,diagram,javascript,svg",7437
+18,https://github.com/dropwizard/metrics.git,"{"":chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.""}","metrics,java,metrics-library,dropwizard-metrics",7340
+19,https://github.com/dc-js/dc.js.git,Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js,"crossfilter,visualization,charting",7217
+20,https://github.com/lecho/hellocharts-android.git,"Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations","chart,android",7167
+21,https://github.com/novus/nvd3.git,A reusable charting library written in d3.js,,7108
+22,https://github.com/timqian/chart.xkcd.git,xkcd styled chart lib,"xkcd,hand-drawn,chart,graph,svg,svg-sprite,html5-charts,html5",6791
+23,https://github.com/leeoniya/uPlot.git,"📈 A small, fast chart for time series, lines, areas, ohlc & bars","time-series,ohlc,line-chart,performance,lightweight,plotting,graphs,charts,streaming,analytics,plot,data-visualization,chart,graph,timeseries,trend-analysis",6210
+24,https://github.com/wbkd/react-flow.git,"Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams ","flowchart,nodebased,graph,typescript-library,react-library,react,typescript",6019
+25,https://github.com/flot/flot.git,Attractive JavaScript charts for jQuery,,5904
+26,https://github.com/jwilber/roughViz.git,Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.,"data-visualization,d3v5,dashboard,data-science,visualization,charting-library",5771
+27,https://github.com/ankane/chartkick.git,Create beautiful JavaScript charts with one line of Ruby,"charts,visualization,chartjs,google-charts,highcharts",5766
+28,https://github.com/NorthwoodsSoftware/GoJS.git,"JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.","html,diagram,flowchart,javascript,orgchart,layout,graph,typescript,interactive-diagrams,javascript-library,chart,visualization,data-visualization,es6,typescript-library,es6-modules,gojs",5217
+29,https://github.com/asmuth/clip.git,Create charts from the command line,"plotting,plots,chart,charts,csv,cpp17,visualization,data-visualization",5052
+30,https://github.com/nhn/tui.chart.git,🍞📊  Beautiful chart for data visualization.,"chart,data-visualization,toast-ui,visualization,simple,easy,canvas",4927
+31,https://github.com/Live-Charts/Live-Charts.git,"Simple, flexible, interactive & powerful charts, maps and gauges for .Net","chart,data-visualization,maps,wpf,winforms,uwp",4828
+32,https://github.com/naver/billboard.js.git,":bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js","chart,d3,svg,graph,data-visualizations",4800
+33,https://github.com/diogobernardino/williamchart.git,Android Library to rapidly develop attractive and insightful charts in android applications.,"charts,android-library,java,williamchart,android",4635
+34,https://github.com/xiaolin3303/wx-charts.git,微信小程序图表charts组件，Charts for WeChat small app,"chart,wechat,canvas,wechat-app",4531
+35,https://github.com/aalhour/C-Sharp-Algorithms.git,:books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#,"csharp,algorithms,data-structures,graph,graph-algorithms,tree,binary-trees,tree-algorithms,heaps,queues,sorting,sorting-algorithms,searching,searching-algorithms,hashing,hashing-algorithms",4318
+36,https://github.com/apertureless/vue-chartjs.git,📊  Vue.js wrapper for Chart.js,"vue,chart,chartjs,visualisation,vuejs,vuejs2,doughnut,pie,diagram,diagrams",4277
+37,https://github.com/AAChartModel/AAChartKit.git,"📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的跨平台数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.","chart,column-chart,line-charts,pie-chart,bubble-chart,area-chart,radar-chart,polar-chart,draw,stacked-chart,graphics,support-graphics,dynamic,webview,ios-charts,highcharts,hybrid,visualization,chart-types,charting-library",4223
+38,https://github.com/benpickles/peity.git,"Progressive <svg> pie, donut, bar and line charts","jquery,chart,jquery-plugin",4197
+39,https://github.com/reactchartjs/react-chartjs-2.git,"React wrapper for Chart.js 2.0 and 3.0, the most popular charting library 📊","react,reactjs,chart,chartjs,chartjs-2,chartjs-3,dataviz",3988
+40,https://github.com/swimlane/ngx-charts.git,:bar_chart: Declarative Charting Framework for Angular,"chart,dataviz,d3,angular,angular2,svg,angular-components,d3js,hacktoberfest",3925
+41,https://github.com/xcltapestry/XCL-Charts.git,"Android图表库(XCL-Charts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图(Circle Chart)、弧线比较图、散点图(Scatter Chart)、气泡图(Bubble Chart)、范围条形图(RangeBar Chart)等图表。其它特性还包括支持图表缩放、手势移动、点击响应、动画效果、多轴显示、图表参考线、混合图表及同数据源不同图表类型切换等。",,3836
+42,https://github.com/Jawbone/JBChartView.git,iOS-based charting library for both line and bar graphs.,,3787
+43,https://github.com/go-echarts/go-echarts.git,🎨 The adorable charts library for Golang,"charts,echarts,golang-visualization",3703
+44,https://github.com/nicolaskruchten/pivottable.git,"{""Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.""}","pivot-tables,pivot-grid,crosstab,pivot-chart",3678
+45,https://github.com/britecharts/britecharts.git,Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.,"d3,javascript,chart,data-visualization,svg,interactive-visualizations,es2015,reusable-charting-library,britecharts",3662
+46,https://github.com/tradingview/lightweight-charts.git,Financial lightweight charts built with HTML5 canvas,"financial-charting-library,charting-library,html5-charts,canvas,typescript,charting,charts",3337
+47,https://github.com/dpgaspar/Flask-AppBuilder.git,"Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/","web,flask,crud,sql,python,rest-api,rest,authentication,rbac",3310
+48,https://github.com/bannzai/SpreadsheetView.git,"Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.","spreadsheet,timetable,grid-layout,gantt-chart,schedule,ios",3245
+49,https://github.com/bitnami/charts.git,Helm Charts,"bitnami,charts,helm,kubernetes",3170
+50,https://github.com/christabor/flask_jsondash.git,:snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go.,"flask,dataviz,chart-json,d3,plotly,c3,dashboard,visualization,charts",3161
+51,https://github.com/rrag/react-stockcharts.git,Highly customizable stock charts with ReactJS and d3,,3140
+52,https://github.com/roboll/helmfile.git,Deploy Kubernetes Helm Charts,"kubernetes,helm,chart",3070
+53,https://github.com/wcharczuk/go-chart.git,go chart is a basic charting library in native golang.,"golang,chart,charting-library,drawing,svg,go",3037
+54,https://github.com/imaNNeoFighT/fl_chart.git,"A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.","flutter-widget,flutter,chart,charts,fl-chart,graph,linechart,barchart,piechart,hacktoberfest",2993
+55,https://github.com/reactjs/react-chartjs.git,common react charting components using chart.js,,2950
+56,https://github.com/spotify/chartify.git,Python library that makes it easy for data scientists to create charts.,"bokeh,visualization,python,plotting,plots,data-science",2908
+57,https://github.com/palantir/plottable.git,:bar_chart: A library of modular chart components built on D3,"chart,charting-library,typescript,chart-component,javascript,plottable,d3,plots,flexible,octo-correct-managed",2771
+58,https://github.com/fasouto/awesome-dataviz.git,:chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.,"data-visualization,visualization,chart,dataviz,visualize-data,awesome-list",2764
+59,https://github.com/charted-co/charted.git,"A charting tool that produces automatic, shareable charts from any data file",,2747
+60,https://github.com/biolab/orange3.git,🍊 :bar_chart: :bulb: Orange: Interactive data analysis,"data-mining,data-science,machine-learning,data-visualization,orange,python,scikit-learn,numpy,scipy,pandas,decision-trees,clustering,visualization,orange3,random-forest,plotting,classification,regression,visual-programming,hacktoberfest",2737
+61,https://github.com/jtblin/angular-chart.js.git,"Reactive, responsive, beautiful charts for AngularJS using Chart.js: http://jtblin.github.io/angular-chart.js",,2728
+62,https://github.com/Boris-Em/BEMSimpleLineGraph.git,Elegant Line Graphs for iOS. (Charting library),,2700
+63,https://github.com/ykfe/imove.git,"Move your mouse, generate code from flow chart","flowchart,xstate,x6,javascript,logic,lowcode",2680
+64,https://github.com/jlord/sheetsee.js.git,:eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet,,2637
+65,https://github.com/randym/axlsx.git,"{""    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.""}",,2573
+66,https://github.com/splitrb/split.git,:chart_with_upwards_trend: The Rack Based A/B testing framework,"split,redis,ab-testing,ruby,rails,rack",2491
+67,https://github.com/HumbleSoftware/Flotr2.git,Graphs and Charts for Canvas in JavaScript.,,2452
+68,https://github.com/vanila-io/wireflow.git,Wireflow - user flow chart real-time collaborative tool,"javascript,flowchart,collaboration,hacktoberfest",2377
+69,https://github.com/helm/chartmuseum.git,Host your own Helm Chart Repository,"helm,charts,kubernetes,chartmuseum",2357
+70,https://github.com/lipka/piecon.git,A tiny javascript library for generating progress pie charts in your favicon.,,2345
+71,https://github.com/i-schuetz/SwiftCharts.git,Easy to use and highly customizable charts library for iOS,"chart,swift,graph,charts,ios,graphs,plot,plots,swift-3",2262
+72,https://github.com/WillkYang/YYKline.git,iOS YYKline：Kline、Chart、Volume、Scroll、Scale、MACD、KDJ、K线图、分时图...,"kline,stock,ma,ema,boll,kdj,rsi,wr,macd",2249
+73,https://github.com/ConsoleTVs/Charts.git,⚡ Laravel Charts — Build charts using laravel. The laravel adapter for Chartisan.,"charts,interactive-charts,laravel,multi-library-chart,plot,php,chart",2239
+74,https://github.com/andredumas/techan.js.git,"A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.",,2204
+75,https://github.com/dabeng/OrgChart.git,"{""It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.""}","orgchart,org,chart,organization,tree,jquery",2179
+76,https://github.com/joewalnes/smoothie.git,Smoothie Charts: smooooooth JavaScript charts for realtime streaming data,"javascript,chart,chart-component,charting-library",2111
+77,https://github.com/Quartz/Chartbuilder.git,A front-end charting application that facilitates easy creation of simple beautiful charts,,2099
+78,https://github.com/rendro/easy-pie-chart.git,"easy pie chart is a lightweight plugin to draw simple, animated pie charts for single values",,2056
+79,https://github.com/wuxudong/react-native-charts-wrapper.git,a react native charts wrapper (support android & iOS),"react-native,chart,mpandroidchart,charts",2017
+80,https://github.com/ejwa/gitinspector.git,:bar_chart: The statistical analysis tool for git repositories,"statistical-analysis,gitinspector,analysis,statistics,timeline-analysis,git",1986
+81,https://github.com/DKirwan/calendar-heatmap.git,"{""A d3 heatmap for representing time series data similar to github's contribution chart""}","heatmap,d3,javascript,data-visualization",1971
+82,https://github.com/valor-software/ng2-charts.git,Beautiful charts for Angular based on Chart.js,,1951
+83,https://github.com/JesperLekland/react-native-svg-charts.git,📈 One library to rule all charts for React Native 📊,"react-native,react-native-charts,react-native-d3,d3,charts,svg,react-native-svg",1948
+84,https://github.com/ft-interactive/chart-doctor.git,"{""Sample files to accompany the FT's Chart Doctor column""}",,1920
+85,https://github.com/enkidevs/commit.git,:chart_with_upwards_trend: Level up your dev skills every day.,,1909
+86,https://github.com/TargetProcess/tauCharts.git,D3 based data-focused charting library. Designed with passion. Flexible.,,1891
+87,https://github.com/antvis/G2Plot.git,:dango:  An interactive and responsive charting library,"antv,visualization,graphics,g2,charts,plot,g2plot",1827
+88,https://github.com/AAChartModel/AAChartKit-Swift.git,"📈📊📱📺💻An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的跨平台数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.","chart,column-chart,bar-chart,line-chart,spline-chart,area-chart,pie,bubble-chart,graphics,ios,swift,objective-c,draw,view,model,data-visualization,data-analysis,animation,plot,graph",1818
+89,https://github.com/esbullington/react-d3.git,Modular React charts made with d3.js,,1768
+90,https://github.com/xyfeng/XYPieChart.git,A simple and animated Pie Chart for your iOS app.,,1752
+91,https://github.com/LeekHub/leek-fund.git,:chart_with_upwards_trend:  韭菜盒子——VSCode 里也可以看股票 & 基金实时数据，做最好用的投资插件 🐥,"vscode,stock,fund,leek-fund,typescript",1731
+92,https://github.com/indiespirit/react-native-chart-kit.git,"📊React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)","chart,chart-kit,react-native,expo,react-native-charts,react-native-graphs",1712
+93,https://github.com/andreaferretti/paths-js.git,Generate SVG paths for geometric shapes :bar_chart:,"svg-paths,javascript,geometric-shapes,svg,chart-library",1651
+94,https://github.com/zingchart/awesome-charting.git,"A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries","awesome-list,javascript,charts,commercial,open-source",1583
+95,https://github.com/AnyChart/AnyChart-Android.git,AnyChart Android Chart is an amazing data visualization library for easily creating interactive charts in Android apps. It runs on API 19+ (Android 4.4) and features dozens of built-in chart types.,"android-library,android-development,android-ui,android-chart,data-visualization,charts,chart,android-component,chart-component,chart-library,charting-library,charting,android-charting,android-charts,android-view,android-widget,android-widgets,android,gradle,android-studio",1579
+96,https://github.com/rodrigo-brito/gocity.git,:bar_chart: Code City metaphor for visualizing Go source code in 3D,"golang,go,react,visualization,hacktoberfest",1568
+97,https://github.com/tomauty/react-native-chart.git,"[NOT MAINTAINED] :bar_chart: Add line, area, pie, and bar charts to your React Native app","chart,javascript,react-native,svg",1566
+98,https://github.com/dotnet-ad/Microcharts.git,"Create cross-platform (Xamarin, Windows, ...) simple charts.","xamarin,skia,charts,ios,android,uwp,graphics",1538
+99,https://github.com/blackfizz/EazeGraph.git,An Android chart and graph library,,1532
+100,https://github.com/DmitryBaranovskiy/g.raphael.git,Charts for Raphaël,,1523
+101,https://github.com/chunqiuyiyu/ervy.git,Bring charts to terminal.,"data-visualization,cli,terminal,console,chart,ascii,blog",1516
+102,https://github.com/ameizi/awesome-ios-chart.git,"A curated list of awesome iOS chart libraries, including Objective-C and Swift","ios-charts,swift-charts,chart",1504
+103,https://github.com/kantord/just-dashboard.git,:bar_chart: :clipboard: Dashboards using YAML or JSON files ,"data-science,data-visualization,dashboard,data-engineering,d3,d3js,chart,data,yaml,csv,json,gist,github-gist,big-data,business-intelligence,data-driven,just-dashboard",1486
+104,https://github.com/beizhedenglong/rough-charts.git,"📈 A responsive, composable react charting library with a hand-drawn style.","data-visualization,drawing,rough-charts,hand-drawn,react-components",1471
+105,https://github.com/xswei/d3js_doc.git,D3js中文文档  D3中文 :bar_chart: :chart_with_upwards_trend: :tada:,"d3,d3js,d3v4,d3v5",1469
+106,https://github.com/helm/monocular.git,Search and discovery UI for Helm Chart repositories,"chart,helm,kubernetes,docker,charts-repositories",1458
+107,https://github.com/mhdhejazi/CoronaTracker.git,Coronavirus tracker app for iOS & macOS with maps & charts,"coronavirus,covid-19,coronavirus-tracking,coronavirus-tracker,ios,swift,macos-app,ios-app",1407
+108,https://github.com/angular-gantt/angular-gantt.git,Gantt chart component for AngularJS,"gantt,angularjs,js,component,gantt-chart,javascript",1407
+109,https://github.com/honcheng/iOSPlot.git,Chart library for iOS,,1388
+110,https://github.com/tannerlinsley/react-charts.git,"⚛️ Simple, immersive & interactive charts for React","chart,react,component,d3,react-motion",1370
+111,https://github.com/woop/awesome-quantified-self.git,":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking","lists,awesome,awesome-list,quantified-self,tracking,quantified,self,wearables,list",1369
+112,https://github.com/kevinzhow/PNChart-Swift.git,A simple and beautiful chart lib used in Piner and CoinsMan for iOS(https://github.com/kevinzhow/PNChart) Swift Implementation ,,1356
+113,https://github.com/stackrox/kube-linter.git,KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.,"static-analysis,yaml-files,helm-charts,kubernetes",1339
+114,https://github.com/lukas-vlcek/bigdesk.git,Live charts and statistics for Elasticsearch cluster.,,1332
+115,https://github.com/hughsk/disc.git,:chart_with_upwards_trend: Visualise the module tree of browserify project bundles and track down bloat.,,1327
+116,https://github.com/krispo/angular-nvd3.git,AngularJS directive for NVD3 reusable charting library (based on D3). Easily customize your charts via JSON API.,,1325
+117,https://github.com/kernc/backtesting.py.git,:mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.,"trading,trading-strategies,trading-algorithms,trading-simulator,trading-simulation,backtesting,backtesting-trading-strategies,backtesting-engine,backtesting-frameworks,investment,investing,investment-strategies,forex,forex-trading,stocks,algorithmic-trading,framework,financial-markets,zipline,hacktoberfest",1308
+118,https://github.com/pterm/pterm.git,"{""✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.""}","go,golang,golang-library,pretty-print,pretty,progressbar,pterm,beautify,tui,ansi-colors,animation,console,console-framework",1308
+119,https://github.com/HackPlan/AndroidCharts.git,An easy-to-use Android charts library with animation.,,1265
+120,https://github.com/adrianhajdin/project_corona_tracker.git,"This is a code repository for the corresponding YouTube video. In this tutorial, we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI, and much more.","react,reactjs,react-project,react-charts",1223
+121,https://github.com/gwatts/jquery.sparkline.git,A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser,,1222
+122,https://github.com/n3-charts/line-chart.git,Awesome charts for AngularJS.,,1209
+123,https://github.com/xhacker/TEAChart.git,"Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.",,1197
+124,https://github.com/monitor1394/unity-ugui-XCharts.git,A charting and data visualization library for Unity.   一款基于UGUI的数据可视化图表插件。,"unity,ugui,chart,charts,xcharts,data-visualization,graphics,charting",1195
+125,https://github.com/robinhood/spark.git,A simple Android sparkline chart view.,"android,sparkline,chart,graph",1191
+126,https://github.com/ankane/react-chartkick.git,Create beautiful JavaScript charts with one line of React,,1182
+127,https://github.com/ramnathv/rCharts.git,Interactive JS Charts from R,,1179
+128,https://github.com/WillkYang/YYStock.git,"iOS YYStock-v2.0：timeline chart, long press, pinch, full-screen，K线图...",,1175
+129,https://github.com/prometheus-community/helm-charts.git,Prometheus community Helm charts,"prometheus,helm,charts,helm-charts,kubernetes",1171
+130,https://github.com/datawrapper/datawrapper.git,"An open source data visualization platform helping everyone to create simple, correct and embeddable charts in minutes.","datawrapper,visualization,ddj,tool,mapping",1157
+131,https://github.com/kroitor/asciichart.git,"Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies","console-log,console,js,ascii,chart,plot,graph,nodejs,text-chart,ascii-chart,line-charts,browser,javascript,node-js,terminal,ansi,lines,charting,charting-library",1157
+132,https://github.com/bbc/bbplot.git,R package that helps create and export ggplot2 charts in the style used by the BBC News data team,,1152
+133,https://github.com/ankane/chartkick.js.git,Create beautiful charts with one line of JavaScript,,1135
+134,https://github.com/Cloud-CV/EvalAI.git,:cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI,"ai,machine-learning,django,angularjs,python,ai-challenges,docker,reproducible-research,reproducibility,evaluation,challenge,evalai,leaderboard,artificial-intelligence,angular7",1116
+135,https://github.com/pavelkuligin/chart.git,Create the most popular types of charts by real or random data,"sketch-plugin,sketchapp,data-visualization,chart,sketchpacks,sketch-runner-compatible",1114
+136,https://github.com/tvjsx/trading-vue-js.git,💹  Hackable charting lib for traders. You can draw literally ANYTHING on top of candlestick charts. [Not Maintained],"vue,trading,charts,crypto,visualization,reactive,overlays,candlestick-charts,algo-trading,finviz,financial-analysis,bitcoin,vuejs",1112
+137,https://github.com/MrBlenny/react-flow-chart.git,"🌊 A flexible, stateless, declarative flow chart library for react.","react,diagrams,diagram,flowchart,drag-and-drop,typescript,webpack4,styled-components",1087
+138,https://github.com/typpo/quickchart.git,Chart image and QR code web API,"chart-api,image-charts,chart-image",1079
+139,https://github.com/chinmaymk/angular-charts.git,angular directives for creating common charts using d3,,1034
+140,https://github.com/devjin0617/vue2-admin-lte.git,:bar_chart: adminLTE to vuejs v2.x converting project ,"adminlte,vue-admin-lte,vuejs,bootstrap,jquery,webpack,admin-lte-vue,vue-adminlte,adminlte-vue,vue2-admin-lte,vue2,vue2-demo",1033
+141,https://github.com/Superalgos/Superalgos.git,"Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.","open-source,crypto-trading-bots,crypto-trading-strategies,crypto-trading,bitcoin-trading-bots,bitcoin-trading,cryptocurrency-trading-bots,algorithmic-trading,free,trading,trading-strategies,trading-platform,trading-algorithms,algotrading,trading-bot,quantitative-trading,cryptocurrency,cryptocurrencies,crypto,trading-systems",1029
+142,https://github.com/recruit-mtl/Graphs.git,Light weight charts view generater for iOS. Written in Swift.,,977
+143,https://github.com/rakannimer/react-google-charts.git,"A thin, typed, React wrapper over Google Charts Visualization and Charts API.","react,google-charts,charts,react-google-charts,area-chart,bar-chart,bubble-chart,calendar-chart,candlestick-chart,column-chart,donut-chart,gantt,gantt-chart,gauge-chart,geochart,histogram,line-chart,org-chart,javascript,typescript",970
+144,https://github.com/bmarrdev/android-DecoView-charting.git,DecoView: Android arc based animated charting library,,969
+145,https://github.com/gpbl/SwiftChart.git,Line and area chart library for iOS,"chart,swift,ios,ios-lib,charting-library,area-chart,line-charts",961
+146,https://github.com/zhiyu/chartee.git,candlestick chart for ios,,960
+147,https://github.com/amcharts/amcharts4.git,The most advanced amCharts charting library for JavaScript and TypeScript apps.,"amcharts,typescript,javascript,data-visualization,charts,maps,chart,graph,svg,visualization,dataviz,charting,charting-library,data-viz",940
+148,https://github.com/d3fc/d3fc.git,A collection of components that make it easy to build interactive charts with D3,"d3,d3js,d3fc,interactive-charts,chart",931
+149,https://github.com/jupyterhub/zero-to-jupyterhub-k8s.git,Helm Chart & Documentation for deploying JupyterHub on Kubernetes,"jupyterhub,jupyter-notebook,jupyter,kubernetes,kubernetes-cluster,kubespawner,jupyterhub-deployment",922
+150,https://github.com/tfussell/xlnt.git,:bar_chart: Cross-platform user-friendly xlsx library for C++11+,"xlsx,spreadsheet,excel,cpp,c-plus-plus,api,microsoft,read,write",910
+151,https://github.com/ecomfe/echarts-liquidfill.git,Liquid Fill Chart for Apache ECharts (incubating),"echarts,liquid-fill-charts",901
+152,https://github.com/angular-google-chart/angular-google-chart.git,Google Chart Tools AngularJS Directive Module,"angularjs,google-charts,javascript",896
+153,https://github.com/neuronetio/gantt-elastic.git,"Gantt Chart  [ javascript gantt chart, gantt component, vue gantt, vue gantt chart,  responsive gantt, project manager , vue projects ]","gantt,gantt-chart,gantt-javascript,project-gantt,svg,vue,vuejs,vue-gantt,vue-gantt-chart,gantt-component,vue-gantt-component,jquery,jquery-gantt,javascript-gantt,javascript,project-management,task-manager,project,task,responsive",891
+154,https://github.com/capitalone/react-native-pathjs-charts.git,Android and iOS charts based on react-native-svg and paths-js,"charts,graphs,paths-js,react-native,ios,android,react-native-svg,cross-platform,radar-graphs,bar-graphs,pie-graphs,tree",879
+155,https://github.com/Praqma/helmsman.git,Helm Charts as Code,"helm-charts,k8s-applications,helm,k8s,helmsman,protect-namespaces,k8s-cluster,helm-charts-as-code,kubernetes,git-ops",878
+156,https://github.com/pubnub/eon.git,An open-source chart and map framework for realtime data.,"eon,eon-chart,eon-framework,eon-map,pubnub,maps,charts,realtime",877
+157,https://github.com/mecid/SwiftUICharts.git,A simple line and bar charting library that supports accessibility written using SwiftUI. ,"swiftui,chart",877
+158,https://github.com/JunyiXie/XJYChart.git,"iOS Chart. Support animation, click, scroll, area highlight.","chart-framework,animation,slide,touch",859
+159,https://github.com/Zirkfied/ZFChart.git,"A simple chart library for iOS , contains barChart, lineChart, pieChart, waveChart, radarChart, cirqueChart. Thanks for your star if you like. 一款简单好用的图表库，目前有柱状，线状，饼图，波浪，雷达，圆环等类型，喜欢的欢迎star一个...",,854
+160,https://github.com/ArthurGuibert/FSLineChart.git,A line chart library for iOS,,851
+161,https://github.com/Bloggify/github-calendar.git,:bar_chart: Embed your GitHub calendar everywhere.,hacktoberfest,829
+162,https://github.com/cheind/py-motmetrics.git,:bar_chart: Benchmark multiple object trackers (MOT) in Python,"object-tracking,object-detection,clear-mot-metrics,benchmark,metrics,tracker,mot,mot-challenge",807
+163,https://github.com/limccn/Android-Charts.git,"Open-source native Android graph/chart framework includes line chart,stick chart,candlestick chart,pie chart,spider-web chart etc. ",,806
+164,https://github.com/franciscop/drive-db.git,:bar_chart: Use Google Drive spreadsheets as a simple database,"spreadsheet,drive,google-drive,db,database,sheet",790
+165,https://github.com/asciimoo/cssplot.git,Pure CSS charts,,776
+166,https://github.com/thegrubbsian/jquery.ganttView.git,An editable jQuery Gantt chart plugin.,,764
+167,https://github.com/xalanq/cf-tool.git,":bar_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB","codeforces,golang,cross-platform,cli",749
+168,https://github.com/plotly/react-pivottable.git,"{""React-based drag'n'drop pivot table with Plotly.js charts""}","react,pivot-tables",748
+169,https://github.com/bvaisvil/zenith.git,"Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage","cpu,linux,terminal-application,process-monitor,tui,macos,disk,zenith",742
+170,https://github.com/misoproject/d3.chart.git,A framework for creating reusable charts with d3.js.,,737
+171,https://github.com/Viglino/ol-ext.git,"Cool extensions for Openlayers (ol) - animated clusters, CSS popup, Font Awesome symbol renderer, charts for statistical map (pie/bar), layer switcher, wikipedia layer, animations, canvas filters.","javascript,maps,openlayers,animation,layer-switcher,chart,ol",736
+172,https://github.com/ddanny/achartengine.git,Charting library for Android applications. Automatically exported from code.google.com/p/achartengine,,728
+173,https://github.com/Rich-Harris/pancake.git,Experimental charting library for Svelte,,727
+174,https://github.com/alexanmtz/material-sense.git,"A React Material UI template to create rich applications with wizards, charts and ranges","reactjs,material-ui,material-ui-tutorial,template,javascript,design,ui-components",726
+175,https://github.com/chartjs/awesome.git,A curated list of awesome Chart.js resources and libraries,"awesome,chartjs,resources,plugins,integrations,charts",713
+176,https://github.com/somonus/react-native-echarts.git,Echarts for react-native. The react-naitve chart.,,709
+177,https://github.com/mattetti/googlecharts.git,Ruby Google Chart API,,707
+178,https://github.com/ZhipingYang/XYChart.git,"XYChart is designed for line & bar of charts which can compare mutiple datas in form styles, and limited the range of values to show, and so on.","chart,linechart,barchart",707
+179,https://github.com/esnet/react-timeseries-charts.git,Declarative and modular timeseries charting components for React,"javascript,chart,timeseries,react,pond",702
+180,https://github.com/CSNW/d3.compose.git,"Compose complex, data-driven visualizations from reusable charts and components with d3",,702
+181,https://github.com/Seedarchangel/TuChart.git,"Tuchart is a visualization interface for the Chinese stock market. Tuchart supports candlestick charts, price charts, tick data, high-frequency data and distribution of top shareholders for individual stocks. Tuchart是一个基于pyqt和echarts的股票视觉化应用。Tuchart 支持日／月线，分笔，高频数据，前十股东分笔的视觉化","pyqt,echarts,tushare,visualization,stock-market",699
+182,https://github.com/romandanylyk/ChartView.git,An example of custom chart on Android,,697
+183,https://github.com/mher/chartkick.py.git,Create beautiful Javascript charts with minimal code,"chartjs,google-charts,highcharts,django,flask,charts,chart,python,charting-library,visualization",694
+184,https://github.com/0xfe/vexchords.git,JavaScript Chord Charts,,693
+185,https://github.com/jfree/jfreechart.git,"A 2D chart library for Java applications (JavaFX, Swing or server-side).","charts,java2d,swing,javafx,data-visualization",693
+186,https://github.com/tj/histo.git,beautiful charts in the terminal for static or streaming data,,691
+187,https://github.com/microsoft/InteractiveDataDisplay.WPF.git,"Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application. It allows to create line graphs, bubble charts, heat maps and other complex 2D plots which are very common in scientific software. Interactive Data Display for WPF integrates well with Bing Maps control to show data on a geographic map in latitude/longitude coordinates. The controls can also be operated programmatically.",,686
+188,https://github.com/ankane/vue-chartkick.git,Create beautiful JavaScript charts with one line of Vue,,680
+189,https://github.com/Boris-Em/ARCharts.git,Lovely Augmented Reality Charts for iOS - Built with ARKit,"cocapods,carthage,arkit,ios,swift,augmented-reality,charts,graphs",678
+190,https://github.com/txusballesteros/fit-chart.git,Fit Chart is an Android view similar to Google Fit wheel chart.,,675
+191,https://github.com/kis/chartify.git,📊 📈 📉 React.js plugin for building charts using CSS,"chart,charts,react,barchart,linechart,react-plugins,visualization,css-chart",673
+192,https://github.com/vdobler/chart.git,Provide basic charts in go,,672
+193,https://github.com/DHTMLX/gantt.git,GPL version of Javascript Gantt Chart,"project-management,gantt-chart,dhtmlx,javascript-gantt,ganttjs,gantt",672
+194,https://github.com/goharbor/harbor-helm.git,The helm chart to deploy Harbor,,663
+195,https://github.com/python-adaptive/adaptive.git,:chart_with_upwards_trend: Adaptive: parallel active learning of mathematical functions,"adaptive-learning,machine-learning,python,live-plots,parallel-computing,adaptive-sampling,parallel,adaptive,active-learning",657
+196,https://github.com/everettjf/AppleTrace.git,🍎Objective C Method Tracing Call Chart,"os-trace,ios,macos,appletrace,systrace,catapult,hookzz,performance,analysis",656
+197,https://github.com/zhuhuihuihui/EChart.git,"iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.",,650
+198,https://github.com/tradingview/charting-library-examples.git,"Examples of Charting Library integrations with other libraries, frameworks and data transports","tradingview,charting-library,examples,react,rails,ruby,typescript",646
+199,https://github.com/areski/python-nvd3.git,"{""Python Wrapper for NVD3 - It's time for beautiful charts""}",,644
+200,https://github.com/gonewandering/angles.git,An angular.js wrapper for Chart.js,,642
+201,https://github.com/plotly/plotly_express.git,Plotly Express - Simple syntax for complex charts. Now integrated into plotly.py!,"plotly-express,plotly,plotly-dash,jupyter,visualization,data-visualization",641
+202,https://github.com/aurbano/robinhood-node.git,:chart_with_upwards_trend: NodeJS client for Robinhood Trading :fire:,"robinhood,robinhood-api,javascript,trade,stock",635
+203,https://github.com/hrbrmstr/waffle.git,:maple_leaf: Make waffle (square pie) charts in R,"r,waffle-charts,square-pie-charts,rstats,ggplot2,datavisualization,data-visualisation,data-visualization",629
+204,https://github.com/timqi/SectorProgressView.git,a simple progress prompt or chart widget of android using circle and a sector,"android,progress,ring",629
+205,https://github.com/jsxgraph/jsxgraph.git,"JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.","geometry,mathematics,jsxgraph,javascript,data-visualization,charting",629
+206,https://github.com/replicatedhq/ship.git,A better way to deploy Kubernetes Helm charts,"kubernetes,helm,gitops,kustomize,docker,go",626
+207,https://github.com/OpenCPN/OpenCPN.git,A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation,,624
+208,https://github.com/zyphs21/HSStockChart.git,"Stock Chart  include CandleStickChart,TimeLineChart. 股票走势图，包括 K 线图，分时图，手势缩放，拖动","chart,cashapelayer,stockchart,graphics,swift4",611
+209,https://github.com/d3-node/d3-node.git,Server-side D3 for static chart/map generation ✨📊,"d3,data-visualization,node",607
+210,https://github.com/A3M4/YouTube-Report.git,:bar_chart: Generate a personal YouTube report from your Google Takeout data,"numpy,seaborn,matplotlib,wordcloud,reportlab",607
+211,https://github.com/Jpadilla1/react-native-ios-charts.git,Bringing iOS Charts to React Native,,597
+212,https://github.com/helm/chart-testing.git,CLI tool for linting and testing Helm charts,"helm,docker,testing,linting,kubernetes,golang",593
+213,https://github.com/zemirco/swift-linechart.git,Line Chart library for iOS written in Swift,"swift,chart,linechart",592
+214,https://github.com/kevinkhill/lavacharts.git,"{""Lavacharts is a graphing / charting library for PHP 5.4+ that wraps Google's Javascript Chart API.""}","php,graphing,charting-library,composer,google-charts,charts",588
+215,https://github.com/ant-design/ant-design-charts.git,A React Chart Library,,582
+216,https://github.com/unvell/ReoGrid.git,"Fast and powerful .NET spreadsheet component, support data format, freeze, outline, formula calculation, chart, script execution and etc. Compatible with Excel 2007 (.xlsx) format and working on .NET 3.5 (or client profile), WPF and Android platform.","dotnet,spreadsheet,wpf,formula,calculation,grid,grid-editor,excel,excelreader,excelwriter,xlsx,xlsxwriter,xlsxreader,reogrid",571
+217,https://github.com/gribnoysup/wunderbar.git,Simple horizontal bar chart printer for your terminal,"nodejs,cli,bar,chart,bar-chart,terminal,library",570
+218,https://github.com/chartjs/chartjs-plugin-datalabels.git,Chart.js plugin to display labels on data elements,"chartjs,plugin,label,chartjs-plugin",566
+219,https://github.com/confluentinc/cp-helm-charts.git,"The Confluent Platform Helm charts enable you to deploy Confluent Platform services on Kubernetes for development, test, and proof of concept environments.","kubernetes,statefulsets,zookeeper,apache-kafka,helm-charts,helm,kafka-connect,kafka-rest-proxy,ksql,ksql-server",563
+220,https://github.com/google/palette.js.git,"Script for generating colour palettes for use with graphs, charts and cartography.",,552
+221,https://github.com/watson-developer-cloud/personality-insights-nodejs.git,:bar_chart: Sample Nodejs Application for the IBM Watson Personality Insights Service,personality-insights,551
+222,https://github.com/toddwschneider/ballr.git,Interactive NBA and NCAA Shot Charts with R and Shiny,,549
+223,https://github.com/hashicorp/vault-helm.git,Helm chart to install Vault and other associated components.,,546
+224,https://github.com/cdwv/awesome-helm.git,Collaborative list of awesome helm charts and resources. PRs are welcome!,"kuberenetes,k8s,helm-charts,helm,awesome,awesome-list",546
+225,https://github.com/microsoft/charticulator.git,Interactive Layout-Aware Construction of Bespoke Charts,,545
+226,https://github.com/dexplo/bar_chart_race.git,Create animated bar chart races in Python with matplotlib,,545
+227,https://github.com/mateuszmarkowski/jQuery-Seat-Charts.git,jQuery Seat Charts Plugin,,543
+228,https://github.com/ArthurGuibert/FSInteractiveMap.git,"{""A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS!""}",,540
+229,https://github.com/wordplat/ikvStockChart.git,"A simple stock charting library for Android, supporting time-line, k-line, macd, kdj, rsi, boll index, and interactive gesture operation, including left and right sliding to refresh, scaling, highlighting",,537
+230,https://github.com/ReSearchITEng/kubeadm-playbook.git,"Fully fledged (HA) Kubernetes Cluster using official kubeadm, ansible and helm. Tested on RHEL/CentOS/Ubuntu with support of http_proxy, dashboard installed, ingress controller, heapster - using official helm charts","helm,ansible,playbook,kubeadm,centos,rhel,kubernetes,proxy,ingress-controller,dashboard,cluster,persistent-volume,persistent-volume-claim,multi-master",536
+231,https://github.com/taskjuggler/TaskJuggler.git,TaskJuggler - Project Management beyond Gantt chart drawing,,525
+232,https://github.com/sverweij/state-machine-cat.git,write beautiful state charts :scream_cat:,"state-machine,statechart,uml,state-diagram,scxml,hacktoberfest",523
+233,https://github.com/jxnu-liguobin/cs-summary-reflection.git,":bulb: Java、Scala、Rust、Python、Kotlin etc.「learning & notes, leetcode implementation in multiple languages. welcome to contribute」:chart_with_upwards_trend:","java,leetcode,interview,functional-programming,blog-article,scala,rust,scala-utils,notes,learning-exercise,kotlin-leetcode,cpp-leetcode,python-leetcode,rust-leetcode,java-leetcode,scala-leetcode",522
+234,https://github.com/marianogappa/chart.git,Quick & smart charting for STDIN,"charting-library,chart,graphs,chartjs",521
+235,https://github.com/anvaka/peak-map.git,Make a ridge line chart from any region on Earth,,521
+236,https://github.com/hughsk/colony.git,:chart_with_upwards_trend: In-browser network graphs representing the links between your Node.js code and its dependencies.,,518
+237,https://github.com/k8s-at-home/charts.git,Helm charts for applications you run at home,"helm,charts,kubernetes,k8s,homelab",515
+238,https://github.com/2016rshah/githubchart-api.git,:date: Embed github contributions chart as image,"github,github-api,github-extension",514
+239,https://github.com/siboehm/awesome-learn-datascience.git,:chart_with_upwards_trend: Curated list of resources to help you get started with Data Science,"data-science,machine-learning,awesome,awesome-list,lists",508
+240,https://github.com/luin/ranaly.git,📈 An easy to use chart system,"analytics,nodejs,pie-chart,realtime",503
+241,https://github.com/petabridge/NBench.git,Performance benchmarking and testing framework for .NET applications :chart_with_upwards_trend:,"benchmark,garbage-collection,dotnet,nbench,performance-test,performance",498
+242,https://github.com/chartit/django-chartit.git,A Django app to plot charts and pivot charts directly from the models. Uses HighCharts and jQuery JavaScript libraries to render the charts on the webpage.,,489
+243,https://github.com/chartjs/chartjs-chart-financial.git,Chart.js module for charting financial securities,"chart,timeseries,javascript-library,candlestick,candlestick-chart,charting-library,ohlc",488
+244,https://github.com/emn178/chartjs-plugin-labels.git,"Plugin for Chart.js to display percentage, value or label in Pie or Doughnut.",,486
+245,https://github.com/terezka/elm-charts.git,Create SVG charts in Elm.,"elm,svg,plotting",483
+246,https://github.com/jnunemaker/nunes.git,":chart_with_upwards_trend: The friendly gem that instruments everything for you, like I would if I could.",,480
+247,https://github.com/i-schuetz/PieCharts.git,Easy to use and highly customizable pie charts library for iOS,"pie-chart,graph,chart,ios,swift,swift-3",478
+248,https://github.com/rainbow-me/react-native-animated-charts.git,Set of components and helpers for building complex and beautifully animated charts,"charts,react,native,react-native,animations,reanimated2,reanimated",476
+249,https://github.com/OrleansContrib/OrleansDashboard.git,:bar_chart: An admin dashboard for Microsoft Orleans,"orleans,dashboard",475
+250,https://github.com/cutecharts/cutecharts.py.git,📉 Hand drawing style charts library for Python,"charts,python",474
+251,https://github.com/mermaid-js/mermaid-live-editor.git,"Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.","mermaid,diagrams",473
+252,https://github.com/YuLab-SMU/clusterProfiler.git,:bar_chart: statistical analysis and visualization of functional profiles for genes and gene clusters,"go,kegg,enrichment-analysis,gsea,visualization,rstats",471
+253,https://github.com/aws/eks-charts.git,Amazon EKS Helm chart repository,,470
+254,https://github.com/spotify/reactochart.git,:chart_with_upwards_trend: React chart component library :chart_with_downwards_trend:,"spotify,charting-library,react-components,react,data-visualization,charts",463
+255,https://github.com/AAChartModel/AAChartCore.git,"📈📊☕️☕️☕️An elegant modern declarative data visualization chart framework for Android. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.极其精美而又强大的 Android 数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.","charts,column-chart,bar-chart,line-chart,area-chart,radar-chart,hybrid,webview,chart,pie-chart,bubble-chart,chart-library,graphics,android,data-visualization,highcharts,animation,dynamic,hybird,android-charts",450
+256,https://github.com/terezka/line-charts.git,A library for plotting line charts in SVG. Written in all Elm.,"plotting,lines,charts,svg,elm",449
+257,https://github.com/hmaidasani/RadialChartImageGenerator.git,Radial Bar Chart Generator for Apple Watch -,,441
+258,https://github.com/mkevac/debugcharts.git,Very simple charts with some debug data for Go programs,,440
+259,https://github.com/liihuu/KLineChart.git,📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）,"kline,time-line,candlestick,tradingview,canvas,stock,chart,exchange,finance,klinechart,stockchart,technical-indicators",437
+260,https://github.com/Ceroce/CERoundProgressView.git,A progress view which shows its progress a pie-chart.,,436
+261,https://github.com/nicolaskruchten/jupyter_pivottablejs.git,"Drag’n’drop Pivot Tables and Charts for Jupyter/IPython Notebook, care of PivotTable.js","jupyter-notebook,pivot-tables,pivot-chart,interactive,data-science,data-analysis",433
+262,https://github.com/holtzy/The-Python-Graph-Gallery.git,A website displaying hundreds of charts made with Python,,432
+263,https://github.com/agiliq/django-graphos.git,Django charting made *really* easy.,,431
+264,https://github.com/cuemacro/chartpy.git,"Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more","plotting,chart,matplotlib,bokeh,plotly",431
+265,https://github.com/heavysixer/d4.git,A friendly reusable charts DSL for D3,,430
+266,https://github.com/pivotal-legacy/projectmonitor.git,Big Visible Chart CI aggregator,,428
+267,https://github.com/keon/deepstock.git,Technical experimentations to beat the stock market using deep learning :chart_with_upwards_trend:,"deep-learning,stock-market,stock,technical-experimentations",427
+268,https://github.com/bchao1/chart-race-react.git,📊 Seamless bar chart race component for React. ,"data-visualization,bar-chart-race,chart,react,react-component,ui-components,frontend",426
+269,https://github.com/winston/google_visualr.git,A Ruby Gem for the Google Visualization API. Write Ruby code. Generate Javascript. Display a Google Chart.,,425
+270,https://github.com/mariusmuntean/ChartJs.Blazor.git,Brings Chart.js charts to Blazor,"blazor,chartjs,asp-net-core,nojavascript,csharp,charts,razor,nuget",423
+271,https://github.com/alexkuz/cake-chart.git,Interactive multi-layer pie chart,,423
+272,https://github.com/gyli/PyWaffle.git,🧇 Make Waffle Charts in Python.,"python,waffle,charts,matplotlib,visualization,data-visualization,waffle-charts",422
+273,https://github.com/anaglik/ANDLineChartView.git,ANDLineChartView is easy to use view-based class for displaying animated line chart.,"chart,objective-c,ios",420
+274,https://github.com/nuwehq/nuwe-charts-ios.git,A dynamic chart library for easily creating the Nuwe Score dial chart and History Bar Chart,,418
+275,https://github.com/johnnywjy/JYRadarChart.git,an iOS open source Radar Chart implementation,"objective-c,xcode,ios,chart,cocoapods",418
+276,https://github.com/sdrdis/jquery.flowchart.git,JQuery plugin that allows you to draw a flow chart.,"flowchart,jquery,javascript,svg",418
+277,https://github.com/alexkuz/webpack-chart.git,Webpack Chart,,416
+278,https://github.com/yasuoza/YOChartImageKit.git,Chart image framework for watchOS,,416
+279,https://github.com/chartjs/chartjs-plugin-zoom.git,Zoom and pan plugin for Chart.js,"chartjs,plugin,zoom,pan",414
+280,https://github.com/wangxg2016/vue-bulma.git,轻量级高性能MVVM Admin UI框架，Charts Collaopse Modal NavMenu Pagination ProgressBar Rating Timeline Toast,,413
+281,https://github.com/piquette/finance-go.git,:bar_chart: Financial markets data library implemented in go.,"finance,financial-data,financial-markets,go-library,stock-market,stock-data,options,pandas,golang,stock-trading,cryptocurrency,data,scraper",413
+282,https://github.com/areski/django-nvd3.git,"{""Django wrapper for nvd3 - It's time for beautiful charts""}",,412
+283,https://github.com/fxcosta/laravel-chartjs.git,Simple package to facilitate and automate the use of charts in Laravel 5.x using Chartjs v2 library,"chart,laravel,chartjs,php",412
+284,https://github.com/lludo/SwiftSunburstDiagram.git,"SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.","swiftui,swift,swift-library,swift-package-manager,swift-5-1,diagram,chart,ios,macos",410
+285,https://github.com/alangrafu/radar-chart-d3.git,Simple radar chart in D3.js,,403
+286,https://github.com/amcharts/amcharts3.git,JavaScript Charts V3,,402
+287,https://github.com/traefik/traefik-helm-chart.git,Traefik v2 helm chart,"traefik-v2,traefik,helm-chart,kubernetes",402
+288,https://github.com/chartjs/chartjs-plugin-annotation.git,Annotation plugin for Chart.js,"chartjs,plugin,annotation",401
+289,https://github.com/weizhenye/vue-highcharts.git,:bar_chart: Highcharts component for Vue,"highcharts,vue,highmaps,highstock",401
+290,https://github.com/juijs/jui-ui.git,"JUI provide all kinds of UI components that are used in web pages. However, charts and grids are not included.","javascript,ui,component-library",399
+291,https://github.com/yugasun/x-chart.git,🚀 x-chart is a draggable & resizable data visualization system,"vue,echarts,resizable-data-visualization,vue-typescript-starter,scaffold,template-project",396
+292,https://github.com/gevgeny/angular2-highcharts.git,:bar_chart: :chart_with_upwards_trend: Highcharts for your Angular project,"highcharts,angular,highmaps,chart-component,charting-library,highstock,angular2-highcharts,javascript",393
+293,https://github.com/hashicorp/consul-helm.git,Helm chart to install Consul and other associated components.,,392
+294,https://github.com/cloudnativeapp/charts.git,Localized Helm charts from Helm Hub to China,"helm,kubernetes,cloudnative,app-deploy",383
+295,https://github.com/halfhp/androidplot.git,Charts and plots for Android,"java,android,androidplot,chart,graph,library,mpandroidchart,graphview",381
+296,https://github.com/hypnoglow/helm-s3.git,Helm plugin that allows to set up a chart repository in AWS S3.,"helm-plugin,helm-plugins,s3,helm,helm-registry,minio",379
+297,https://github.com/AAChartModel/AAChartCore-Kotlin.git,"📈📊⛰⛰⛰An elegant modern declarative data visualization chart framework for Android . Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.极其精美而又强大的 Android 数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.","chart,column-chart,bubble-chart,pie-chart,chart-library,kotlin,graphics,radar-chart,bar-chart,area-chart,line-chart,pyramid-chart,funnel-chart,highcharts,webview,hybrid,visualization,plot,polar-chart,stacked-chart",376
+298,https://github.com/norwoodj/helm-docs.git,A tool for automatically generating markdown documentation for helm charts,,373
+299,https://github.com/benkeen/d3pie.git,A configurable pie chart lib and generator built on d3.js,,373
+300,https://github.com/omnisci/mapd-charting.git,Dimensional charting built to work natively with crossfilter rendered using d3.js,"visualization,charting-library,mapd,crossfilter,interactive-visualization,gpu",372
+301,https://github.com/gogooing/KLineChartDemo.git,K Line Stock Chart which base on MPAndroidChart,,371
+302,https://github.com/dk8996/Gantt-Chart.git,Gantt chart library using D3.js.  ,,370
+303,https://github.com/plotly/react-chart-editor.git,Customizable React-based editor panel for Plotly charts,,368
+304,https://github.com/timbod7/haskell-chart.git,A 2D charting library for haskell,,368
+305,https://github.com/chasseurmic/TWRCharts.git,An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.,,368
+306,https://github.com/asantibanez/livewire-charts.git,Neat Livewire Charts for your Laravel projects,,366
+307,https://github.com/wangshijun/angular-echarts.git,:chart: angularjs bindings for baidu echarts,"angular-echarts,angularjs,echarts,chart",366
+308,https://github.com/devstark-com/vue-google-charts.git,Reactive Vue.js wrapper for Google Charts lib,,363
+309,https://github.com/FabDevGit/barchartrace.git,Bar chart race online editor,,363
+310,https://github.com/tower1229/Vue-Tree-Chart.git,A vue2 component to display tree chart,"tree,chart,tree-chart,vue-component",361
+311,https://github.com/wanghetommy/ichartjs.git,"ichartjs is a HTML5 canvas charting library. written in pure JavaScript, It uses the HTML5 canvas tag to bulid a variety of charting.offering interactive charts to your web site or web application. ichartjs currently supports line, area, column, bar, pie chart types.and pie and column also support 3D model.ichartjs is covered by the Apache License 2.0",,361
+312,https://github.com/GeorgeWang03/WYChart.git,A simple and elegant Chart library with rich animations.,,361
+313,https://github.com/antvis/g2-react.git,"This repo is being deprecated, check Ant Design Charts https://github.com/ant-design/ant-design-charts","react,g2,chart,antv,antvis",360
+314,https://github.com/omnibrain/svguitar.git,Create beautiful SVG guitar chord charts,"guitar,svg,javascript,typescript,chord-diagram",360
+315,https://github.com/aeyrium/bezier-chart.git,A beautiful bezier line chart widget for flutter that is highly interactive and configurable.,,360
+316,https://github.com/styd/apexcharts.rb.git,:bar_chart: Awesome charts for your ruby app powered by ApexCharts.JS.,"ruby,charts,apexcharts,heatmap-chart,radar-chart,bubble-chart,polar-charts",359
+317,https://github.com/rpng/kalibr_allan.git,IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters.,"imu,allan-variance,kalibr,calibration,imu-noise,noise-values,sensor-calibration",356
+318,https://github.com/arvkevi/kneed.git,Knee point detection in Python :chart_with_upwards_trend:,"systems,scientific-computing,data-science,data-analysis,python,knee-point,elbow-method",355
+319,https://github.com/filamentgroup/jQuery-Visualize.git,HTML5 canvas charts driven by HTML table elements,,354
+320,https://github.com/chartmuseum/helm-push.git, Helm plugin to push chart package to ChartMuseum,"helm-plugin,helm,kubernetes,chartmuseum",353
+321,https://github.com/tombenner/reports_kit.git,"Beautiful, interactive charts and tables for Ruby on Rails","charts,rails,visualization,dashboards,chart",352
+322,https://github.com/codaxy/cxjs.git,"CxJS - Advanced JavaScript UI framework for admin and dashboard applications with ready to use grid, form and chart components.","widgets,themes,charts,react,drag-and-drop,ui,form-controls,form-validation,grid-component",351
+323,https://github.com/reactivemarkets/react-financial-charts.git,Charts dedicated to finance.,"react,charts,financial,stockchart,d3,canvas",350
+324,https://github.com/theam/haskell-do.git,:pencil2: :bar_chart: - The Haskell code editor focused on interactive development.,"haskell,interactive-coding,code-editor,notebook",348
+325,https://github.com/mindok/contex.git,Charting and graphing library for Elixir,,347
+326,https://github.com/webdatavisualdev/vue-tradingview.git,"This is a tradingview chart using Vue 2, Vuex and TypeScript.","vue-cli,vue2,vuex,typescript,tradingview,tradingview-charting-library",346
+327,https://github.com/spr1ngd/UChart.git,data chart / data graph for untiy,,345
+328,https://github.com/dimitri/pgcharts.git,Turn your PostgreSQL queries into Charts,,344
+329,https://github.com/spacenation/swiftui-charts.git,:rocket: SwiftUI Charts with custom styles,"swiftui,swiftui-example,apple,swift,xcode,swift-package,swift-library,ios,macos,watchos,tvos,charts",341
+330,https://github.com/Eneco/landscaper.git,"Deprecated. Takes a set of Helm Chart references with values (a desired state), and realizes this in a Kubernetes cluster","kubernetes,helm,kubernetes-secrets,go,cli,landscape,desired-state,ci-cd",340
+331,https://github.com/astrofrog/psrecord.git,Record the CPU and memory activity of a process :chart_with_upwards_trend:,,339
+332,https://github.com/GB28181/GB28181.Solution.git,Linux/Win/Docker/kubernetes/Chart/Kustomize/GB28181/SIP/RTP/SDP/WebRTC/作为上下级域/平台级联互联,"gb28181,sip,rpc,sdp,rtsp,csharp,linux,dotnetcore,dotnet-core,gb28181-2016,netcore3,grpc,k8s,kubernetes,sipsorcery,netcore,streaming,kustomize,rtp,webrtc",338
+333,https://github.com/xqwzts/flutter_circular_chart.git,Animated radial and pie charts for Flutter,"flutter,charting,library",337
+334,https://github.com/mages/googleVis.git,Interface between R and the Google Chart Tools,,336
+335,https://github.com/sameersyd/Expenso-iOS.git,"A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics (Face & Touch ID) and MVVM Architecture.","ios,ios-app,swift,swiftui,coredata,mvvm,ios14,ui-design,expense-tracker,xcode,material-design,mvvm-architecture,sameersyd,figma,faceid,touchid,biometrics,export-csv,charts",336
+336,https://github.com/ahmetb/personal-dashboard.git,:bar_chart: Programmatically collecting and reporting various stats about myself daily,"metrics,dashboard,social,fitness",335
+337,https://github.com/jsGanttImproved/jsgantt-improved.git,Javascript Gantt: fully featured gantt chart component built entirely with JS and CSS. No images or external libs required.,"gantt,ajax,javascript,css,jsgantt",334
+338,https://github.com/txusballesteros/snake.git,Snake View is a simple and animated linear chart for Android.,,334
+339,https://github.com/dabeng/OrgChart.js.git,"{""It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.""}",,333
+340,https://github.com/RamiJ3mli/PercentageChartView.git,An Android percentage chart that displays the progress of any single given task or information.,"android,custom-view,charting-library,java",333
+341,https://github.com/trentpiercy/flutter-candlesticks.git,Elegant OHLC Candlestick and Trade Volume charts for @Flutter,"flutter,candlesticks,chart,graph,finance,financial-data",329
+342,https://github.com/sbebo/joypy.git,Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:,"data-visualization,python,matplotlib,plotting",329
+343,https://github.com/KarthikRIyer/swiftplot.git,Swift library for Data Visualization :bar_chart:,"swift,data-visualization,graph,plots",328
+344,https://github.com/janczizikow/sleek.git, :chart_with_upwards_trend: Sleek is a modern Jekyll theme focused on speed performance & SEO best practices,"jekyll,jekyll-theme,jekyll-themes,jekyll-blog",327
+345,https://github.com/nagix/chartjs-plugin-streaming.git,Chart.js plugin for live streaming data,"chartjs,plugin,live,streaming,realtime,monitoring,time-series",323
+346,https://github.com/jdbranham/grafana-diagram.git,"A Grafana plugin to visualize metrics in a diagram using flow charts, gantt charts, sequence diagrams, or class diagrams","diagram,grafana,plugin,mermaidjs,tsdb",322
+347,https://github.com/banzaicloud/banzai-charts.git,Curated list of Banzai Cloud Helm charts used by the Pipeline Platform,"kubernetes,charts",320
+348,https://github.com/thekeenant/fcharts.git,":bar_chart: [wip] Create beautiful, responsive, animated charts using a simple and intuitive API.","flutter,dart,charts,library,animated,charting-library,animation",319
+349,https://github.com/mbielanczuk/jQuery.Gantt.git,jQuery Gantt Chart,,317
+350,https://github.com/astronomer/astronomer.git,"Helm Charts for the Astronomer Platform, Apache Airflow as a Service on Kubernetes","apache-airflow,kubernetes,docker,astronomer-platform",317
+351,https://github.com/holtzy/R-graph-gallery.git,A website that displays hundreds of R charts with their code,,316
+352,https://github.com/FormidableLabs/victory-cli.git,A tool for generating charts on the command line.,,316
+353,https://github.com/peopledoc/django-chartjs.git,Django Class Based Views to generate Ajax charts js parameters.,,314
+354,https://github.com/codecentric/helm-charts.git,A curated set of Helm charts brought to you by codecentric,"helm,kubernetes,keycloak,jenkins,mailhog,charts",313
+355,https://github.com/giginet/xcprofiler.git,:chart_with_upwards_trend: CLI to profile compilation time of Swift project,,312
+356,https://github.com/carbon-design-system/carbon-charts.git,:bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript,"d3,charts,typescript,d3js,ibm,carbon-design-system,dataviz,angular,vue,react,vanilla,hacktoberfest",311
+357,https://github.com/astashov/tixi.git,Ascii charts editor,,309
+358,https://github.com/prefuse/Flare.git,"Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques. ",,309
+359,https://github.com/argoproj/argo-helm.git,ArgoProj Helm Charts,"helm-charts,argoproj",308
+360,https://github.com/openstack/openstack-helm.git,Helm charts for deploying OpenStack on Kubernetes. Mirror of code maintained at opendev.org.,,308
+361,https://github.com/cloud-ark/kubeplus.git,Kubernetes Operator to deliver Helm charts as a Service,"platform-as-code,kubernetes-operator,kubernetes-custom-resources,kubernetes-crd,declarative-application-management,kubernetes-native",303
+362,https://github.com/keshiim/ZMJGanttChart.git,"Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.","sheet,sheets,gantt-chart,gantt,ganttview,grid-layout,schedule,task-list,timeline,ios,objective-c",303
+363,https://github.com/hackingthemarkets/binance-tutorials.git,Real-Time Candlestick Charts and Crypto Trading Bot using Binance API and Websockets,,301
+364,https://github.com/Ashlar/binance-api-node.git,:chart: A complete and heavily tested wrapper with typings for the Binance API.,"binance,binance-api,cryptocurrency-exchanges,cryptocurrency",299
+365,https://github.com/xuuhan/HXCharts.git,📊 Chart for iOS 仪表盘、柱状图、圆形图、折线图、环形图,"chart,charts,ios-charts,gauge,ring,line,circle,ring-chart,line-chart,circle-chart",299
+366,https://github.com/zieckey/gochart.git,A chart plotting tool implemented by Golang and Highcharts.,"plot,golang,highcharts,excel",295
+367,https://github.com/reduxjs/redux-devtools-chart-monitor.git,A chart monitor for Redux DevTools https://www.npmjs.com/package/redux-devtools-chart-monitor,,294
+368,https://github.com/LKremer/ggpointdensity.git,:chart_with_upwards_trend: :bar_chart: Introduces geom_pointdensity(): A Cross Between a Scatter Plot and a 2D Density Plot.,"ggplot-extension,ggplot2,ggplot2-geoms,ggplot2-enhancements,scatter-plot,geom,2d-density-plot,neighboring-points,density-visualization,visualization,r,r-package,rstats,r-stats",294
+369,https://github.com/rumble-charts/rumble-charts.git,React components for building composable and flexible charts,"chart,react,visualization,svg,d3",293
+370,https://github.com/AnyChart/AnyChart.git,"AnyChart is a lightweight and robust JavaScript charting solution with great API and documentation. The chart types and unique features are numerous, the library works easily with any development stack.","javascript,datavis,data-visualization,charting-library,html5-charts,charts,dashboard,chart,chartsjs,javascript-charts,javascript-library,js-library,line-chart,bar-chart,column-chart,pie-chart,anychart",291
+371,https://github.com/guoguo12/billboard-charts.git,Python API for downloading Billboard charts.,,290
+372,https://github.com/wireservice/leather.git,Python charting for 80% of humans.,,290
+373,https://github.com/sadsfae/ansible-elk.git,:bar_chart: Ansible playbook for setting up an ELK/EFK stack and clients.,"elk,ansible,fluentd,kibana,playbook,elasticsearch,logstash,centos,rhel,efk",290
+374,https://github.com/beto-rodriguez/LiveCharts2.git,"Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere WPF, Xamarin, Avalonia, Uno (WIP), WinForms and UWP (WIP).","uno,chart,column-series,line-series,xamarin,avalonia,wpf,winforms",289
+375,https://github.com/jenkins-x/jenkins-x-platform.git,Helm umbrella repo containing the helm charts for the Jenkins-X platform on Kubernetes,,288
+376,https://github.com/padolsey/relevancy.js.git,:bar_chart: Sort/Weigh strings by relevance,,288
+377,https://github.com/GoogleWebComponents/google-chart.git,Google Charts API web components,"visualizations,google,polymer,api,webcomponents",287
+378,https://github.com/FormidableLabs/victory-chart.git,Chart Component for Victory,"react,charts,d3,data-visualization",286
+379,https://github.com/jakezatecky/d3-funnel.git,A JavaScript library for rendering funnel charts using the D3.js framework.,"javascript,chart,visualization,d3",286
+380,https://github.com/sergeylenkov/Yuba.git,"Cocoa framework for drawing graphs, charts and maps",,283
+381,https://github.com/sakrist/VBPieChart.git,🍰📈 Pie Chart iOS control with different animations to present.,"pie-chart,objective-c,animation,ios,calayer,swift",283
+382,https://github.com/sebastienwindal/FRD3DBarChart.git,Interactive iOS 3D bar chart control made with GLKit,,280
+383,https://github.com/ianunruh/monitoring.git,:chart_with_upwards_trend: Scripts to configure various monitoring services on Ubuntu 14.04,,279
+384,https://github.com/nhatminh12369/BarChart.git,"An extremely light-weight, animatable bar chart, written in Swift 5.0, XCode 10.2",,279
+385,https://github.com/TulipCharts/tulipy.git,[NOT ACTIVELY MAINTAINED] Tulipy - Financial Technical Analysis Indicator Library (Python bindings for Tulip Charts),,276
+386,https://github.com/lin-xin/vue-schart.git,:bar_chart: Vue.js wrapper for sChart.js,"vue,chart",276
+387,https://github.com/JesperLekland/react-native-svg-charts-examples.git,A collection of usage examples of react-native-svg-charts,"react-native,charts,svg,react-native-svg,d3,react-native-d3,react-native-charts",274
+388,https://github.com/vasturiano/timelines-chart.git,Timelines Chart,"timelines,swimlanes,timeline-chart,time-series,d3js,kapsule,heatmap",274
+389,https://github.com/trading-peter/chart-elements.git,Chart.js as Polymer Elements,,274
+390,https://github.com/IonicaBizau/github-stats.git,:chart_with_upwards_trend: Visualize stats about GitHub users and projects in your terminal.,hacktoberfest,271
+391,https://github.com/helm/chart-releaser.git,Hosting Helm Charts via GitHub Pages and Releases,"helm,charts,kubernetes,repository,hosting",270
+392,https://github.com/matiasmascioto/awesome-soccer-analytics.git,:soccer::chart_with_upwards_trend: A curated list of awesome resources related to Soccer Analytics.,"awesome,soccer,football,analytics,sports,sports-analytics",270
+393,https://github.com/areski/django-admin-tools-stats.git,Django-admin-tools-stats is a Django admin module that allow you to create easily charts on your dashboard based on specific models and criterias,,269
+394,https://github.com/dcf21/star-charter.git,"A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.",,268
+395,https://github.com/stonycat/ML-in-Action-Code-and-Note.git,:chart_with_upwards_trend:Machine Learning code in Python3.x.  （机器学习实战 py3代码整理）Some notes about the practices:（for reference only）,"machine-learning,python3",267
+396,https://github.com/Imaginea/uvCharts.git,Simple yet powerful JavaScript Charting library built using d3.js,,266
+397,https://github.com/pullmonkey/open_flash_chart.git,"{""The ruby on rails plugin for teethgrinder's Open Flash Chart (version 2)""}",,266
+398,https://github.com/ashleydavis/AngularJS-FlowChart.git,An example/template WebUI control for visualizing and editing flow charts,,265
+399,https://github.com/lrills/helm-unittest.git,BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.,"helm,kubernetes,unittest,testing,helm-chart,helm-plugin",265
+400,https://github.com/dsxNiubility/SXFiveScoreShow.git,"Auto generating pentagon chart with number,like EA Sports FIFA 2015.",,265
+401,https://github.com/legalnonsense/elgantt.git,A Gantt Chart (Calendar) for Org Mode ,,265
+402,https://github.com/RandomFractals/vscode-data-preview.git,"Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files","vscode,extension,csv,arrow,data,perspective,viewer,json,array,config,yaml,excel,avro,parquet",265
+403,https://github.com/devtyr/trello-burndown.git,Generate a burndown chart from trello tasks,,260
+404,https://github.com/seerline/clchart.git,"A fast, simple and cross-platform(html5  react-native weex  wechat-applet) stock chart library created using canvas.","canvas,chart,stock-chart,data-visualization,javascript,graph,webpack,html-stock-chart,cross-platform,react-native,wechat-mini-program",260
+405,https://github.com/toomuchdesign/react-minimal-pie-chart.git,🍰 Lightweight but versatile SVG pie/donut charts for React. < 2kB gzipped.,"react-components,pie-chart,recharts,svg-path,typescript",259
+406,https://github.com/chartbrew/chartbrew.git,Open-source web platform for creating charts out of different data sources (databases and APIs) 📈📊,"charts,nodejs,react,reactjs,redux,chartjs,mysql,postgresql,mongodb,api,data-visualization,analytics,hacktoberfest,mongo,dashboard,firebase,firestore,firebase-firestore",259
+407,https://github.com/chenxiaoyu3/BBStockChartView.git,"An iOS stock chart view, K-Line, volume Line",,258
+408,https://github.com/oksktank/react-native-pure-chart.git,react-native chart library that not using svg or ART but only using react native pure components.,"react-native,react-native-charts,linechart,barchart,without-drawing-library-integration",257
+409,https://github.com/IBM/charts.git,The IBM/charts repository provides helm charts for IBM and Third Party middleware.,"kubernetes,helm,helm-charts,ibm,ibm-bluemix,docker",256
+410,https://github.com/bugzin/reD3.git,Reusable D3 Charts/Components,,255
+411,https://github.com/NilStack/NKWatchChart.git,A chart library for Apple Watch based on PNChart and ios-charts.,,253
+412,https://github.com/splunk/splunk-connect-for-kubernetes.git,Helm charts associated with kubernetes plug-ins,"kubernetes,chart,splunk,helm,helm-chart",252
+413,https://github.com/caxlsx/caxlsx.git,"{""    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.""}","ruby,ruby-gem,excel-export,excelwriter",252
+414,https://github.com/hellosean1025/node-echarts.git,Generate chart by echarts in nodejs.,"echarts,node-echarts",251
+415,https://github.com/BestSwift/JSUStockChat.git,JSUStockChat is a easy way to make stock chart with Auto Layout And StoryBoard!,,251
+416,https://github.com/caohuatao/vue-super-flow.git,Flow chart component based on Vue。vue flowchart,"vue,es6-javascript,flow-chart",250
+417,https://github.com/GSI-CS-CO/chart-fx.git,A scientific charting library focused on performance optimised real-time data visualisation at 25 Hz update rates for data sets with a few 10 thousand up to 5 million data points.,"chart-fx,java,charting-libraries,javafx,data-visualisation,scientific-visualization,large-dataset,hacktoberfest",250
+418,https://github.com/TradingPal/react-native-highcharts.git,📈 Add Highcharts charts to react-native app for IOS and Android,"react-native,highcharts,javascript,charts,ios,android",249
+419,https://github.com/adriancooney/aristochart.git,Sophisticated and simplified Javascript 2D line charts.,,249
+420,https://github.com/QingWei-Li/laue.git,🖖📈 Modern charts for Vue 2.0,"charts,vuejs,pie,line,bar,area,svg,vue,chart",248
+421,https://github.com/nautilusapp/nautilus.git,A Docker Compose Charting Tool,,247
+422,https://github.com/globeandmail/chart-tool.git,A responsive charting application,"chart,d3,news,graphics",245
+423,https://github.com/dwyl/hits.git,:chart_with_upwards_trend: General purpose hits (page views) counter ,,245
+424,https://github.com/krateng/maloja.git,Self-hosted music scrobble database to create personal listening statistics and charts,"self-hosted,scrobble,music,music-library",244
+425,https://github.com/foolsong/EasyCharts.git,A simple chart lib used for iOS(Objective-c && Swift). :-),,244
+426,https://github.com/dciarletta/d3-floorplan.git,A set of layered reusable charts build on D3.js for map like interaction on local coordinate systems. ,,242
+427,https://github.com/caprica/jquery-orgchart.git,JQuery Organisation Chart Plugin,,241
+428,https://github.com/mdvacca/rn-d3-art-charts.git,Examples of charts built using D3 and ART in react-native,,241
+429,https://github.com/plotly/orca.git,Command line application for generating static images of interactive plotly charts,plotly,241
+430,https://github.com/cloudposse/build-harness.git,"🤖Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more","makefile,build,docker,docker-images,travis-ci,helm-charts,golang,dockerfile,jenkins,circleci,build-automation,build-tool,build-system,helm,codefresh,cicd",240
+431,https://github.com/pravj/Doga.git,:chart_with_upwards_trend: HTTP log monitoring console for Humans,"monitoring,console,http,log-monitor",240
+432,https://github.com/fogleman/Punchcard.git,Generate GitHub-style punchcard charts with ease.,,239
+433,https://github.com/helm/hub.git,For the distributed charts search at hub.helm.sh,"cncf,helm",238
+434,https://github.com/xaviershay/tufte-graph.git,a jQuery plugin that makes pretty bar charts,,238
+435,https://github.com/zingchart/ZingChart.git,"A declarative, efficient, and simple JavaScript library for building responsive charts","javascript,charts,no-dependencies,responsive",238
+436,https://github.com/sakitam-fdd/ol3Echarts.git,:earth_asia: :bar_chart: ol3Echarts | a openlayers extension to echarts,"echarts,openlayers,map,canvas,webgl,webpack,rollup,karma,gis,react",238
+437,https://github.com/econpy/torque.git,"A set of tools used with the Torque app for Android to store OBD2 data in MySQL, view GPS data from Torque on a map in real time using the Google Maps JavaScript API, plot OBD2 data in time series charts, and export the data to CSV or JSON.",,238
+438,https://github.com/gtnx/pandas-highcharts.git,Beautiful charting of pandas.DataFrame with Highcharts,,237
+439,https://github.com/carlcraig/tc-angular-chartjs.git,AngularJS directives for Chart.js,,236
+440,https://github.com/HanSolo/charts.git,A JavaFX library that contains different kind of charts,,236
+441,https://github.com/ricardo-bion/ggradar.git,radar charts with ggplot2,,233
+442,https://github.com/Esri/cedar.git,JavaScript Charts for ArcGIS,"visualization,web-development,esri,arcgis,javascript,chart,charts",230
+443,https://github.com/thetylerwolf/sketch-data-studio.git,Sketch plugin to generate charts and data for data tables,,230
+444,https://github.com/xqwzts/flutter_sparkline.git,Beautiful sparkline charts for Flutter,,229
+445,https://github.com/jstrace/chart.git,Ansi charts for nodejs,,228
+446,https://github.com/giocomai/ganttrify.git,Create beautiful Gantt charts with ggplot2,,228
+447,https://github.com/jchao01/TradingView-data-scraper.git,Extract price and indicator data from TradingView charts to create ML datasets,"algorithmic-trading,tradingview,data-mining,webscraping,json",228
+448,https://github.com/radekstepan/burnchart.git,GitHub Burndown Chart as a Service,"github,burndown,chart,agile",228
+449,https://github.com/bradipao/desCharts.git,Android Charting Library,,227
+450,https://github.com/bchretien/vim-profiler.git,:bar_chart: Utility script to profile (n)vim (e.g. startup times of plugins),,227
+451,https://github.com/apache/skywalking-kubernetes.git,Apache SkyWalking Kubernetes Deployment Helm Chart,"skywalking,observability,apm,distributed-tracing,service-mesh,dapper,kubernetes,helm",226
+452,https://github.com/rozierguillaume/covid-19.git,"How does COVID-19 spread around the world? Charts, data, dashboards and interpretations...",,226
+453,https://github.com/madnight/bitcoin-chart-cli.git,Bitcoin chart for the terminal as command line util,"bitcoin,cli,charts,terminal,nodejs,cryptocurrency,cryptocurrencies,cryptocurrency-graph,bitcoin-price,ethereum-price,coingraph,cryptocurrencies-graph,es7-async,functional-programming,cryptocompare-api,javascript,bitcoin-chart,coinmarketcap,technical-analysis",226
+454,https://github.com/mamboer/vue-easy-gantt.git,A simple Vue.js gantt chart plugin for presenting weekly tasks,"vue2,vuejs2,vue-easy-gantt,vue-gantt,vue-chart",225
+455,https://github.com/jsa-aerial/hanami.git,Interactive arts and charts plotting with Clojure(Script) and Vega-lite / Vega. Flower viewing 花見 (hanami),"clojure,clojurescript,vega,vega-lite,plotting,charting-library,dataviz,reagent,recom",225
+456,https://github.com/dmtrbrl/vue-trend-chart.git,Simple trend charts for Vue.js,"vue,trends,chart,vue-component,svg-chart,line-charts",224
+457,https://github.com/reaviz/reaflow.git,"🕸 React library for building workflow editors, flow charts and diagrams","reactjs,workflow,node-editor,diagrams,elkjs,react,visualizations,flowchart",224
+458,https://github.com/nhatminh12369/LineChart.git,"A light-weight line chart for iOS. Swift 5.0, XCode 10.2",,224
+459,https://github.com/igeligel/vuex-feature-scoped-structure.git,:chart_with_upwards_trend: Feature scoped Vuex modules to have a better organization of business logic code inside Vuex modules based on Large-scale Vuex application structures @3yourmind,"vuex,vue,vuejs2,vue2,large-scale,modules,blogpost,containers,container",220
+460,https://github.com/react-d3/react-d3-basic.git,"Basic d3 charts in React.js, only include: line, bar, pie, scatter, area charts.",,218
+461,https://github.com/keen/keen-dataviz.js.git,Data Visualization Charting Library,"charts,react,data-visualization,visualization,dataviz,charting-library,d3,c3",216
+462,https://github.com/hadiidbouk/ChartProgressBar-Android.git,Draw a chart with progress bar style,"android,chart,progressbar",216
+463,https://github.com/anewtypeofinterference/Optician-Sans.git,Typeface based on the historical eye charts and optotypes used by opticians world wide.,"typeface,font,opticians",215
+464,https://github.com/limccn/Cocoa-Charts.git,"Open-source iPhone/iPad graph/chart framework includes line chart,stick chart,candlestick chart,pie chart,spider-web chart etc. Based on iOS graph SDK, Using native Objective-c Codes",,214
+465,https://github.com/Hoogkamer/vue-org-chart.git,"Manage and publish your interactive organization chart (orgchart), 100% free and no install required: just copy a folder to any location","nuxt,vue,vuejs,organization,chart,javascript,vuex,orgchart,department",213
+466,https://github.com/hongyin163/react-native-chart-android.git,react native chart modules come from mpandroidchart.,,211
+467,https://github.com/vmpowerio/chartjs-node.git,Create Chart.js Charts Server-side,"chartjs-node,chartjs",208
+468,https://github.com/cryptowatch/embed.git,Client library for embedding Cryptowatch charts on a website,,208
+469,https://github.com/FlowForwarding/dynamiccharts.git,Dynamic charting for mobile devices,,207
+470,https://github.com/ilbonte/rescuetime-again.git,"{""More charts using RescueTime's API - http://ilbonte.github.io/rescuetime-again/""}",,207
+471,https://github.com/FERNman/angular-google-charts.git,A wrapper for the Google Charts library written in Angular.,"angular,google-charts,angular-google-charts,charts",206
+472,https://github.com/Fullscreen/squid.git,A Ruby library to plot charts in PDF files,"prawn,pdf,ruby,graph,chart,graphs,charts,report,gem",206
+473,https://github.com/davidpadbury/node-highcharts.git,A sample of generating client side charts on the server using node,,206
+474,https://github.com/fslaborg/FSharp.Charting.git,Charting library suitable for interactive F# scripting,,206
+475,https://github.com/IonicaBizau/github-profile-languages.git,"{"":tv: Create a nice pie chart with the user's programming languages from their GitHub profile.""}",hacktoberfest,206
+476,https://github.com/madplotlib/madplotlib.git,"{""A C++ wrapper of Qt Charts that looks, tastes and smells like matplotlib but isn't.""}",,205
+477,https://github.com/FairwindsOps/nova.git,Find outdated or deprecated Helm charts running in your cluster.,"helm,kubernetes,updates,fairwinds-official",205
+478,https://github.com/kubepack/chartify.git,📈 Generate Helm Charts from Kubernetes objects,"helm,kubernetes",204
+479,https://github.com/mzimmerm/flutter_charts.git,"Charts Library for Flutter, written in Dart with Flutter.",,204
+480,https://github.com/elastic/elastic-charts.git,:bar_chart: Elastic Charts library,"elastic,kibana,data-visualization,visualizations,charts,chart-library",203
+481,https://github.com/dsternlicht/react-dynamic-charts.git,A React library for creating animated charts visualizations based on dynamic data.,,203
+482,https://github.com/Dfenestrator/GooPyCharts.git,"A Google Charts API for Python, meant to be used as an alternative to matplotlib.",,203
+483,https://github.com/stfalcon-studio/StfalconPriceRangeBar-android.git,Android library for adding price range with chart like in airbnb with flexible customization. Made by Stfalcon,"rangebar,pricerange,rangebar-with-chart,rangebar-chart,pricerange-airbnb,price-with-chart",203
+484,https://github.com/hawx1993/wxapp-charts.git,🏹微信小程序图表charts组件,chart,202
+485,https://github.com/TimoSta/sprite.git,🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.,"zeit-now,react,monaco-editor,mermaid,chart,serverless,typescript",202
+486,https://github.com/timescale/tobs.git,tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.,"metrics,tobs-cli,observability,monitoring,kubernetes-monitoring",201
+487,https://github.com/TBXark/TKRadarChart.git,A customizable radar chart  in Swift,"swift,cocoapods,carthage,radar-chart,chart",200
+488,https://github.com/lockedata/datasauRus.git,R Package 📦 Containing the Datasaurus Dozen datasets :bar_chart:,"r,datasets,datasaurus,anscombesquartet,r-package,rstats,datasaurus-dozen,summary-statistics",200
+489,https://github.com/acharts/acharts.git,"Acharts is a javascript charts,Using Raphael as a foundation.",,198
+490,https://github.com/gitpod-io/self-hosted.git,DEPRECATED since Gitpod 0.5.0; use https://github.com/gitpod-io/gitpod/tree/master/chart and https://github.com/gitpod-io/gitpod/tree/master/install/helm,,197
+491,https://github.com/DaveSkender/Stock.Indicators.git,"{""Stock indicator technical analysis library package for .NET.  Send in historical price quotes and get back desired technical indicators. Nothing more. It can be used in any market analysis software using standard OHLCV price quotes for equities, commodities, forex, cryptocurrencies, and others. We had private trading algorithms, machine learning, and charting systems in mind when originally creating this community library.  Current indicators include: Accumulation/Distribution Line (ADL), Aroon Oscillator, Arnaud Legoux Moving Average (ALMA), Average Directional Index (ADX), Average True Range (ATR), Awesome Oscillator (AO), Balance of Power (BOP), Beta Coefficient, Bollinger Bands®, Chaikin Money Flow (CMF), Chaikin Oscillator, Chandelier Exit, Choppiness Index (CHOP), Commodity Channel Index (CCI), ConnorsRSI, Correlation Coefficient, Donchian Channels, Double Exponential Moving Average (DEMA), Elder-ray Index, Exponential Moving Average (EMA), Force Index, Fractal Chaos Bands (FCB), Gator Oscillator, Heikin-Ashi, Hull Moving Average (HMA), Ichimoku Cloud, Kaufman's Adaptive Moving Average (KAMA), KDJ Index, Keltner Channels, Momentum Oscillator, Money Flow Index (MFI), MESA Adaptive Moving Averages (MAMA), Moving Average Convergence/Divergence (MACD), Moving Average Envelopes, On-balance Volume (OBV), Parabolic SAR (stop and reverse), Percentage Volume Oscillator (PVO), Pivot Points and Rolling Pivot Points, Price Channels, Price (Comparative) Relative Strength (PRS), Price Momentum Oscillator (PMO), Rate of Change (ROC), Relative Strength Index (RSI), R-Squared (Coefficient of Determination), Simple Moving Average (SMA), Slope and Linear Regression, Smoothed Moving Average (SMMA), Standard Deviation, Stoller Average Range Channel (STARC) Bands, Stochastic Oscillator, Stochastic RSI, SuperTrend, Tillson T3 Moving Average, Triple Exponential Moving Average (TEMA), Triple EMA Oscillator (TRIX), True Strength Index (TSI), Ulcer Index, Ultimate Oscillator, Volume Simple Moving Average, Volume Weighted Average Price (VWAP), Vortex Indicator (VI), Weighted Moving Average (WMA), Williams %R, Williams Alligator, Williams Fractal, and Zig Zag.""}","stock-trading,stock-market,indicators,quantitative-finance,algorithmic-trading,historical-quotes,stock-indicators,technical-indicators,nuget,dotnet-core,forex,cryptocurrency,stock-analysis,package,technical-analysis,backtesting,equities,commodities",197
+492,https://github.com/dabeng/vue-orgchart.git,"{""It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.""}","organization,chart,orgchart,tree-view,tree-like,tree,vuejs,vue",196
+493,https://github.com/dill/emoGG.git,:chart_with_upwards_trend::heart_eyes_cat: Emoji in ggplot2 :heart_eyes_cat::chart_with_upwards_trend:,,196
+494,https://github.com/jez/git-heatmap.git,:bar_chart: Display a heatmap for oft-edited files,"git,cli,visualization",196
+495,https://github.com/haydenbbickerton/vue-charts.git,*UNSUPPORTED* Google Charts plugin for Vue.js ,,194
+496,https://github.com/kulesa/redmine_better_gantt_chart.git,Better Gantt Chart for Redmine,,194
+497,https://github.com/nagix/chartjs-plugin-colorschemes.git,Predefined color schemes for Chart.js,"chartjs,plugin,color,scheme,palette,brewer,office,tableau",194
+498,https://github.com/abynim/sketchy-pies.git,A Sketch plugin to magically convert regular circle layers into pie charts!,,193
+499,https://github.com/wilhelmklopp/simple-poll.git,:bar_chart: Create native and simple polls in Slack.,,193
+500,https://github.com/LaravelDaily/laravel-charts.git,Package to draw charts in Laravel with Chart.js,,192
+501,https://github.com/gak/pygooglechart.git,pygooglechart is a complete Python wrapper for the Google Chart API.,,192
+502,https://github.com/cyberpython/AwesomeChartJS.git,A simple JavaScript chart rendering library,,191
+503,https://github.com/bergant/finstr.git,:chart_with_upwards_trend: Financial statements in R,"financial-statements,r,xbrl",191
+504,https://github.com/FairwindsOps/reckoner.git,Declaratively install and manage multiple Helm chart releases,"helm,kubernetes,helm-chart,declarative,kubernetes-tools,operations,fairwinds-official",191
+505,https://github.com/sveinn-steinarsson/flot-downsample.git,Downsample plugin for Flot charts.,"downsample,time-series,timeseries,algorithm,javascript,flot",190
+506,https://github.com/ignoreintuition/v-chart-plugin.git,Easily bind a chart to the data stored in your Vue.js components.,"vue,d3,javascript,component,plugin,datavisualization,vuejs,vue-components,d3js,d3v4,d3-visualization,chart,graph,hacktoberfest",190
+507,https://github.com/easystats/parameters.git,"{"":bar_chart: Computation and processing of models' parameters""}","pvalues,parameters,beta,ci,confidence-intervals,r,easystats,standardize,pca,feature,fa,bootstrap,statistical-models,regression-models,feature-reduction,standardized-estimates,feature-extraction,data-reduction,robust-statistics",189
+508,https://github.com/sverweij/mscgen_js.git,text => sequence charts,"mscgen,mscgen-js,sequence-chart,sequence-diagram",188
+509,https://github.com/foolsong/EasyChartsSwift.git,A simple chart lib used for iOS(Swift && Objective-c). :-),,188
+510,https://github.com/GenFirst/nest-status-monitor.git,"Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for Nest-based node servers","nest,socket,monitoring,monitoring-page,nest-module,nodejs,nest-status-monitor",188
+511,https://github.com/Wildog/iOS-10-Steps-Widget.git,"A widget app showing step count and moved distance with beautiful chart for iOS 10, iMessage extension included.",,187
+512,https://github.com/jacobian/django-googlecharts.git,"{""A suite of Django template tags to generate charts using Google's chart API.""}",,186
+513,https://github.com/monitoringartist/grafana-xxl.git,:bar_chart: Dockerized Grafana with all preinstalled (community) plugins from grafana.net,"grafana,monitoring",186
+514,https://github.com/iBlacksus/BSChart.git,BSChart is a simple and useful chart library written on Swift,,186
+515,https://github.com/plotly/jupyterlab-chart-editor.git,"{""JupyterLab extension for Plotly's react-chart-editor""}",,185
+516,https://github.com/jzy3d/jzy3d-api.git,A Java API for 3d charts,,183
+517,https://github.com/bgrsquared/d3-react-squared.git,Lightweight event system for (d3) charts and other components for ReactJS.,,182
+518,https://github.com/bgruening/docker-galaxy-stable.git,:whale::bar_chart::books: Docker Images tracking the stable Galaxy releases.,"galaxy,galaxyproject,docker-image,science,data-science",182
+519,https://github.com/FragLand/minestat.git,:chart_with_upwards_trend: A Minecraft server status checker,"perl,php,python,java,csharp,go,golang,javascript,js,ruby,minecraft,status,checker,minecraft-server,powershell,query,poll,network-monitoring,packet,protocol",181
+520,https://github.com/fenix-hub/godot-engine.easy-charts.git,"A Godot Engine addon for plotting general purpose charts. A collection of Control, 2D and 3D Nodes to plot every chart possible.","godot-engine,charts,plot,tool,plugin,easy-charts,plot-charts,addon",178
+521,https://github.com/rafaelklaessen/react-tradingview-widget.git,React component for rendering the TradingView Advanced Real-Time Chart Widget.,"tradingview,tradingview-widget,tradingview-widget-react,react,reactjs,webpack,babel,react-component",178
+522,https://github.com/linheimx/LChart.git,Simple & useful chart for Android,"chart,android,linechart",177
+523,https://github.com/airblade/chartjs-ror.git,Simplifies using Chart.js in Rails,,177
+524,https://github.com/PawelTroka/Computator.NET.git,"{""Computator.NET is a special kind of numerical software that is fast and easy to use but not worse than others feature-wise. It's features include:  - Real and complex functions charts   - Real and complex calculator   - Real functions numerical calculations including different methods   - Over 107 Elementary functions   - Over 141 Special functions   - Over 21 Matrix functions and operations   - Scripting language with power to easy computations including matrices   - You can declare your own custom functions with scripting language""}","numerical-calculations,solve-equations,scripting-language,mathematical-expressions-evaluator,chart,elementary-functions,matrix-functions,math,mathematics,calculator,calculus,plot,special-functions,complex-functions,desktop-app,desktop-application,scientific-computing,scientific-calculator,scientific-computations,scientific-visualization",177
+525,https://github.com/R-CoderDotCom/econocharts.git,Microeconomics/macroeconomics charts in ggplot2,"ggplot-extension,ggplot2,rstats,rstats-package,microeconomic-graphs,supply-demand",176
+526,https://github.com/alvarobartt/trendet.git,:chart_with_upwards_trend: Python package for trend detection on stock time series data :chart_with_downwards_trend:,"trend-detection,stock-analysis,investing-api,investpy-python",176
+527,https://github.com/qlik-oss/picasso.js.git,A charting library streamlined for building interactive visualizations for the Qlik product suites.,"visualization,picassojs,canvas,svg,dataviz,javascript,chart,picasso",176
+528,https://github.com/ReetuBok/MIMChart-Library.git,iPhone/iPad chart library,,174
+529,https://github.com/ProtoTeam/tcharts.js.git,:chart_with_downwards_trend: Lightweight and fast terminal ASCII charts for nodejs and browser.,"terminal,chart,console,tcharts,ascii-charts,console-charts,terminal-charts,ascii",174
+530,https://github.com/jenkinsci/helm-charts.git,Jenkins community Helm charts,"helm-charts,jenkins,hacktoberfest",173
+531,https://github.com/FancyGrid/FancyGrid.git,FancyGrid - JavaScript grid library with charts integration and server communication. ,"grid,javascript,jquery,angular,chart,react,vue",172
+532,https://github.com/web2project/web2project.git,"A web-based project management system featuring gantt charts, time logging, and an extendable module system.","web2project,php,project-management,task-tracking,pmi",172
+533,https://github.com/ContainerSolutions/helm-convert.git,Convert Helm charts into Kustomize compatible package,"helm,helm-plugin,kustomize,kubernetes",172
+534,https://github.com/tj/d3-bar.git,D3 bar chart,,172
+535,https://github.com/liebke/analemma.git,Analemma is a Clojure library for generating charts and Scalable Vector Graphics (SVG),,171
+536,https://github.com/wardi/speedometer.git,Chart network TX/RX and file download rates on the console,,171
+537,https://github.com/phntxx/dashboard.git,:bar_chart: a nice and simple dashboard / landing page.,,171
+538,https://github.com/abcnews/d3-layout-narrative.git,A d3 layout for creating XKCD style narrative charts,"javascript,d3js,chart,layout-engine,narrative-charts,xkcd",169
+539,https://github.com/eternityz/RWBarChartView.git,Scrollable chart view for bar graphs.,,169
+540,https://github.com/hyfen-nl/PIVT.git,Helm charts for running and operating Hyperledger Fabric in Kubernetes. Previously hosted at https://github.com/APGGroeiFabriek/PIVT.,"kubernetes,hyperledger-fabric,blockchain,helm,hyperledger",168
+541,https://github.com/sgratzl/d3tutorial.git,📊📈 A D3 v6 tutorial - interactive bar chart and multiple coordinated views (MCV),"d3,javascript,d3v4,tutorial,d3v5,d3-js,d3js,data-join,css,html,codepen,svg,barchart,mcv,typescript,multiple-coordinated-view,d3v6",168
+542,https://github.com/juliuste/parliament-svg.git,Generate parliament charts as virtual-dom SVG,"library,election",167
+543,https://github.com/bmorelli25/interactive-bitcoin-price-chart.git,Interactive Bitcoin Price Chart - built with React,,166
+544,https://github.com/plotly/plotly-nodejs.git,"{""node.js wrapper for Plotly's Chart Studio Streaming and REST APIs""}",,166
+545,https://github.com/RomRider/apexcharts-card.git,📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant,"home-assistant,lovelace,apexcharts,iot",165
+546,https://github.com/mancj/SlimChart.git,SlimChart is a light and easy to use chart library for Android.,,164
+547,https://github.com/mountainstorm/jquery.graphviz.svg.git,jquery plugin to make graphviz svg charts responsive,,163
+548,https://github.com/rootux/angular-highcharts-directive.git,An Angular Js Directive which allows to simplify the use of Highcharts charts,,163
+549,https://github.com/ssthouse/vue-tree-chart.git,"flexible tree chart using Canvas and Svg, powered by D3.js","d3,canvas,organization-chart,svg,tree-chart,vue",162
+550,https://github.com/huww98/TimeChart.git,"An chart library specialized for large-scale time-series data, built on WebGL.","chart,webgl,webgl2",162
+551,https://github.com/meta-magic/amexio.github.io.git,"{""Amexio is a rich set of Angular 7 (170+) components powered by HTML5 & CSS3 for Responsive Design and with 80+ Material Design Themes, UI Components, Charts, Gauges, Data Point Widgets, Dashboards. Amexio is completely Open Sourced and Free. It's based on Apache 2 License. You can use it in your production grade work today at no cost or no obligation. ""}","angular,bootstrap3,bootstrap4,angular-extensions,angular5,responsive-web-design,ui,components,datatable,charts,dashboard,typescript,angular6-component,angular-material,angular4,angular6-table,react,vue",162
+552,https://github.com/dreamRs/billboarder.git,:bar_chart: R Htmlwidget for billboard.js,"r,data-visualization,htmlwidgets",161
+553,https://github.com/mtompkins/openAlgo.git,:chart: openAlgo is a public repository for various work product relavant to algorithms and the high frequency low latency electronic trading space with a bias toward market microstructure as well as exchange traded futures and options.,"exchange-traded-futures,market-microstructure,matlab,c-plus-plus,algorithm,trading,trading-algorithms,trading-strategies,algorithmic-trading",161
+554,https://github.com/marcaube/ObHighchartsBundle.git,Symfony Bundle that aims to ease the use of highcharts to display rich graph and charts in your Symfony application,,160
+555,https://github.com/coreseekdev/react-org-chart.git,"High-performance organizational chart, built in D3 & React",,160
+556,https://github.com/lalongooo/rings.git,A simple chart for Android with three indicators and one more to indicate overall summary. They get highlighted if you click on the ring or text.,"android,chart",160
+557,https://github.com/jeanboydev/Android-LineChart.git,:chart_with_upwards_trend:一个简单的折线，贝塞尔曲线图表控件，高度可扩展，支持动态显示。,"linechart,line,chart,android-linechart",159
+558,https://github.com/Aldaviva/floorplan.git,"Floorplan, seating chart, and employee directory for Blue Jeans.",,158
+559,https://github.com/jackluo/py-quantmod.git,"{""Powerful financial charting library based on R's Quantmod  |  http://py-quantmod.readthedocs.io/en/latest/""}","quantmod,ta-lib,pandas,plotly,financial-charting-library,data-visualization,python,data-science,quantitative-finance,quantitative-trading",158
+560,https://github.com/helm/chart-releaser-action.git,"A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool","kubernetes,helm,charts,ci-cd,actions,helm-repositories,github-pages",157
+561,https://github.com/osnr/cruncher.git,:chart_with_upwards_trend: Scrubbing calculator.,,157
+562,https://github.com/mattpocock/sextant.git,"A development tool to chart application flows, then implement them in code",,157
+563,https://github.com/airflow-helm/charts.git,the new home of the stable/airflow Helm chart,"helm,airflow,kubernetes",156
+564,https://github.com/astronomer/airflow-chart.git,A Helm chart to install Apache Airflow on Kubernetes,"helm-chart,airflow,apache-airflow,kubernetes",156
+565,https://github.com/kiwigrid/helm-charts.git,Helm charts for Kubernetes curated by Kiwigrid,"helm,charts,kiwigrid,kubernetes",154
+566,https://github.com/DeloitteDigitalUK/jira-agile-metrics.git,Agile metrics and charts calculated from JIRA,,154
+567,https://github.com/d-band/gantt.git,"Gantt chart library using jsx support SVG, Canvas and SSR","gantt-chart,svg,canvas,jsx,virtual-dom,ssr",154
+568,https://github.com/scala-chart/scala-chart.git,Scala Chart Library,,153
+569,https://github.com/jensechu/kanji.git,Customizable Kanji character charts that are easily printable to help practice writing.,,153
+570,https://github.com/pavanpodila/PieChart.git,Animated Pie Chart using Custom CALayer,,153
+571,https://github.com/binogure-studio/chart-gd.git,Animated charts for Godot Engine,"charts,gdscript,godot-engine,godot",152
+572,https://github.com/ra-systems/django-slick-reporting.git,Powerful and Efficient reporting engine with Charting capabilities,"report-engine,python,django,charting,analysis,easy-to-use,customisable",152
+573,https://github.com/komljen/helm-charts.git,Helm charts - Apps for Kubernetes,"kubernetes,helm,charts",151
+574,https://github.com/llazzaro/analyzer.git,:chart: Python framework for real-time financial and backtesting trading strategies,,151
+575,https://github.com/jfrog/charts.git,JFrog official Helm Charts,"helm-charts,helm,kubernetes-deployment,kubernetes",150
+576,https://github.com/vasturiano/sunburst-chart.git,A sunburst interactive chart web component for visualizing hierarchical data,"sunburst,chart,data-visualization,d3js,hierarchical-data",150
+577,https://github.com/go-playground/stats.git,":chart_with_upwards_trend: Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc...",,150
+578,https://github.com/pipefail/angular-chartjs.git,Directive set for the ChartJS library. Supports data bindings and attribute-level specification for chart specific options. The only Angular ChartJS module that supports ALL chart options as HTML5 attributes :),,149
+579,https://github.com/dingmyu/weibo_analysis.git,"The python crawler which automatically crawls the original microblogs and pictures of the specified user, analyzes the microblogs, and displays them in the form of html charts.",,147
+580,https://github.com/igeligel/vuex-namespaced-module-structure.git,:chart_with_upwards_trend: A Vue.js project powered by Vuex namespaced modules in a simple structure based on Large-scale Vuex application structures,"vuex,vue,vuejs2,vue2,large-scale,modules,blogpost",147
+581,https://github.com/krystianity/coinpusher.git,:chart_with_upwards_trend: real-time cryptocurrency chart prediction based on neuronal-networks :bowtie:,"cryptocurrency,bitstamp,ethereum,bitcoin,litecoin,neuronal-network,prediction,charts,real-time",146
+582,https://github.com/coderbydesign/chart-js-rails.git,Chart.js for Rails Asset Pipeline,,146
+583,https://github.com/impressivewebs/CSS3-Click-Chart.git,Example Code and Support Chart for new CSS Features,"css3-features,css,css3",146
+584,https://github.com/mbabineau/cloudviz.git,Makes nice graphs of Amazon CloudWatch data using Google Chart Tools,,146
+585,https://github.com/xuningjack/select_picture_module.git,"Choose custom chart component, which supports multiple specified folder pictures and supports full screen display and to delete the selected images. （自定义选图组件，支持多选指定文件夹的图片，支持全屏展示和删除已选图片）",,146
+586,https://github.com/realm/github-gantt.git,Generate Gantt Charts From Github Issues!,,145
+587,https://github.com/experience-experiments/react-easy-chart.git,[DEPRECATED] - Easy to use React Charting library,,145
+588,https://github.com/ABTSoftware/SciChart.Android.Examples.git,"Examples, Tutorials for SciChart Android: Realtime Android Chart Controls",,145
+589,https://github.com/ABTSoftware/SciChart.iOS.Examples.git,"Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library",,145
+590,https://github.com/LordDashMe/github-contribution-stats.git,Dynamically generated Github Contribution Stats. :chart_with_upwards_trend: :calendar:,"profile-readme,github-readme,github-profile-card,github-profile,generator,readme-generator",145
+591,https://github.com/ory/k8s.git,Kubernetes Helm Charts for the ORY ecosystem.,"k8s,kubernetes,helm,ory-oathkeeper,ory-hydra,ory-keto,ory-hive,cloud,charts,helm-chart,helm-charts,ory",144
+592,https://github.com/JustSteveKing/vue2-frappe.git,A Vue 2 integration using Frappe Charts,"frappe-charts,vuejs,vue2",144
+593,https://github.com/savvastj/nbashots.git,"NBA shot charts using matplotlib, seaborn, and bokeh.",,144
+594,https://github.com/helm/charts-classic.git,⚠️(OBSOLETE) Charts for Helm Classic v1,,143
+595,https://github.com/BernhardZuba/d3js-orgchart.git,D3.js Organizational chart,,143
+596,https://github.com/kinegratii/django-echarts.git,A django app for Echarts integration using pyecharts library as chart builder.,"django,echarts",143
+597,https://github.com/OpenFlutter/k_chart.git,Maybe it is the best k chart in Flutter.,"chart,flutter,flutter-plugin,klinechart",142
+598,https://github.com/fortesinformatica/fortesreport-ce.git,"The FortesReport is a powerful report generator available as a package of components for Delphi. In FortesReport, the reports are composed of bands that have specific functions in the print stream. You define groupings, sublevels and totals simply by hierarchical relationship between bands. Moreover, the FortesReport has a rich palette of components for text, charts, formulas, bar codes, filters and layout.",,141
+599,https://github.com/tj/d3-series.git,D3 line series chart used for error reporting on Apex Ping,,141
+600,https://github.com/Oteemo/charts.git,Helm chart repository,,140
+601,https://github.com/grafana/piechart-panel.git,Pie Chart Panel Plugin,,140
+602,https://github.com/antvis/F2Native.git,"📱📈An elegant, interactive and flexible native charting library for mobile.","antv,antvis,mobile,visualization,grammer,android,ios,f2,gcanvas,data-vis",140
+603,https://github.com/vdel26/tinychart.git,A simple tool to create quick exportable charts,"charts,javascript,react,reactjs,visualization,data-visualization",139
+604,https://github.com/hahnlee/ipytracer.git, :bar_chart: Algorithm Visualizer for IPython/Jupyter Notebook,"ipython-notebook,jupyter,algorithm-visualizer,python,javascript,ipython,jupyter-notebook,jupyterhub-labextension,algorithm",139
+605,https://github.com/Regaddi/Chart.StackedBar.js.git,StackedBar implementation for Chart.js,,138
+606,https://github.com/chasebgale/rocketcharts.git,Awesome open source HTML5 financial/statistical charts!,,138
+607,https://github.com/ihabunek/github-vanity.git,Write to your GitHub activity chart,,138
+608,https://github.com/kubecost/cost-analyzer-helm-chart.git,Kubecost helm chart,,137
+609,https://github.com/EnKrypt/Doppler.git,:chart_with_upwards_trend: A zero configuration remote monitoring tool designed to be better than nothing,"doppler,remote-monitoring,temperature-monitoring,zero-configuration,resource-monitor,usage-data",137
+610,https://github.com/highcharts/highcharts-export-server.git,"The exporting server allows users to send charts in SVG or JSON and let them convert and download as pdf, png, jpeg or a svg vector image.",,136
+611,https://github.com/NuCivic/react-nvd3.git,React component for NVD3 re-usable charting library,,135
+612,https://github.com/poblabs/weewx-belchertown.git,"A clean and modern weewx skin with real time streaming updates, forecast data and interactive charts. View it in action at BelchertownWeather.com","weather,weather-station,weewx,weewx-skin,skin,earthquake-data,chart,darksky-api,theme,mqtt,websockets",135
+613,https://github.com/dustinmoris/CI-BuildStats.git,"Little widget to display AppVeyor, TravisCI, CircleCI, GitHub Actions or Azure Pipelines build history charts and other SVG badges.","badge,nuget-badge,myget-badge,widget,chart,svg-widget,appveyor,buildstats,travis-ci,circleci,fsharp",135
+614,https://github.com/alcideio/skan.git,"Scan Kubernetes resource files , and helm charts for security configurations issues and best practices.","kubernetes,configuration-scan,scanning,scan-tool,devops,ci,open-policy-agent,opa,openpolicyagent,helm,kustomize,conftest,best-practice,dashboard,helm-scan,helmscan",135
+615,https://github.com/aomran/ember-cli-chart.git,A simple ember component for adding Charts,,134
+616,https://github.com/CoralineAda/seer.git,"Seer is a lightweight, semantically rich wrapper for the Google Visualization API. It allows you to easily create a visualization of data in a variety of formats, including area charts, bar charts, column charts, gauges, line charts, and pie charts.",,134
+617,https://github.com/clayrisser/react-gantt.git,A gantt chart for react,"react,gantt-chart,gantt,timeline",134
+618,https://github.com/plotly/Plotly.NET.git,.NET interface for plotly.js written in F# :chart_with_upwards_trend:,"fsharp,d3,plotly,plotlyjs,webgl,graph-library,dotnet,dotnet-core,csharp",134
+619,https://github.com/FighterLightning/ChartsUnderstandAndUsage.git,Charts框架的（柱状图、饼状图、饼状图（半圆形）、雷达图、折线图、折线填充图、散点图、K 线图（烛形图）、气泡图、组合图(混合图)的基本使用方法,,134
+620,https://github.com/vlandham/gates_bubbles.git,animated bubble charts in D3,,133
+621,https://github.com/dtolnay/colorous.git,Color schemes for charts and maps,,133
+622,https://github.com/theus/chart.css.git,A Simple CSS Chart System,,132
+623,https://github.com/operator-framework/helm-app-operator-kit.git,Tool for creating a Kubernetes Operator from a Helm Chart ,"operator,kubernetes,helm,operator-kit,chart,operator-framework",132
+624,https://github.com/chrispaulca/waterfall.git,An easy to use waterfall chart function for Python,,131
+625,https://github.com/himynameisdave/svelte-frappe-charts.git,📈 Svelte bindings for frappe-charts.,"svelte,frappe-charts,svelte-component,svg-charts,charting-library,charts",130
+626,https://github.com/jakesee/ganttchart.git,The Winforms Gantt Chart is the .NET Winforms control originally hosted on CodePlex (http://ganttchart.codeplex.com),"winforms,winforms-controls,dotnet,dotnet-framework,gantt-chart,gantt,chart",130
+627,https://github.com/GraFiddle/angular-chart.git,AngularJS directive for adjustable dynamically updating c3 charts,,129
+628,https://github.com/mcaule/d3-timeseries.git,Time series charting library based on d3.js,,129
+629,https://github.com/tj/d3-circle.git,D3 circle chart,,129
+630,https://github.com/remcoplasmeyer/flowy-vue.git,"Vue Flowy makes creating flowchart or hierarchy chart functionality an easy task. Build automation software, mind mapping tools, organisation charts, or simple programming platforms in minutes by implementing the library into your project.","vue,flowchart,hierarchy,chart,javascript,frontend,diagram,data-visualisation,draggable,drag-and-drop,quasar,quasar-framework",129
+631,https://github.com/CoderWQYao/WQCharts-iOS.git,highly customizable and easy to use chart library for iOS,,129
+632,https://github.com/BALKANGraph/OrgChartJS.git,"OrgChart JS is a simple, flexible and highly customizable organization chart plugin for presenting the structure of your organization and the relationships in an elegant way.",,129
+633,https://github.com/tehras/charts.git,Simple Android compose charts.,"android,charts,jetpack-compose,jetpack-compose-charts",128
+634,https://github.com/hrbrmstr/metricsgraphics.git,:chart_with_upwards_trend: htmlwidget interface to the MetricsGraphics.js D3 chart library,,128
+635,https://github.com/bumbeishvili/d3-organization-chart.git,Highly customizable org chart built with d3.js v5,"org,chart,d3,visualization,hierarchy,employee,company",128
+636,https://github.com/quantmind/awesome-data-science-viz.git,":boom: :chart_with_upwards_trend: A curated list of data science, analysis and visualization tools","machine-learning,algorithm,reference,awesome-list,python,javscript,nlp,resources,awesome",128
+637,https://github.com/N1ghtly/react-native-responsive-linechart.git,A customizable and responsive line or area chart for react-native,"linechart,responsive,svg,area-chart",128
+638,https://github.com/Yevgenium/lovelace-weather-card-chart.git,Custom weather card with charts,,127
+639,https://github.com/YongxinLiu/MicrobiomeStatPlot.git,Interpretation and visualization of microbiome charts,,126
+640,https://github.com/julienchastang/charts4j.git,Let the computer in the cloud build your charts,,126
+641,https://github.com/tj/d3-dot.git,D3 dot chart,,126
+642,https://github.com/piotrmurach/tty-pie.git,Draw pie charts in your terminal window,"ruby-gem,terminal,console,pie-chart,piechart,ascii-art",126
+643,https://github.com/jupyterhub/helm-chart.git,A store of Helm chart tarballs for deploying JupyterHub and BinderHub on a Kubernetes cluster,"jupyterhub,jupyter,jupyter-notebook,kubernetes,helm,helm-charts,binderhub,binder",126
+644,https://github.com/alexmonteiro/Redmine-Monitoring-Controlling.git,Redmine Plugin that works with Highcharts to show tasks on project throught Charts.,,125
+645,https://github.com/kensho-technologies/orama.git,Plug and play React charts,"react,reactjs,react-components,charts,visualization,data-visualization",125
+646,https://github.com/hrbrmstr/ggchicklet.git,🀫 Create Chicklet (Rounded Segmented Column) Charts,"r,rstats,ggplot2,chicklet",125
+647,https://github.com/kubatruhlar/JTChartView.git,JTChartView is the new lightweight and fully customizable solution to draw a chart,,125
+648,https://github.com/KubeOperator/kubeapps-plus.git,KubeApps 应用商店的定制版本，通过 Web UI 方式在 Kubernetes 集群中部署和管理基于 Helm Chart 的应用程序。,"kubeoperator,helm,kubeapps",125
+649,https://github.com/biovisualize/micropolar.git,A tiny polar charts library made with D3.js,,124
+650,https://github.com/tj/d3-line.git,D3 line chart,,124
+651,https://github.com/wangyu142857/jsplumb-example.git,Draw a flow chart with vue and jsplumb,"jsplumb,flowchart,jsplumb-flow-chart,vue,vue-cli",124
+652,https://github.com/kmandov/d3-horizon-chart.git,D3.js plug-in that draws horizon charts using canvas,,123
+653,https://github.com/jcarver989/raphy-charts.git,Charting library built on Raphael.js,,123
+654,https://github.com/jstrace/bars.git,Ascii bar charting for nodejs,,123
+655,https://github.com/generateme/cljplot.git,JVM Clojure charting library,,123
+656,https://github.com/chrispahm/chartjs-plugin-dragdata.git,Draggable data points plugin for Chart.js,"chartjs,drag,data,plugin",122
+657,https://github.com/ChimpStudios/AmCharts.git,A Native Objective C wrapper for the AmCharts charting library. http://www.amcharts.com,,122
+658,https://github.com/bootstrap-styled/bootstrap-styled.git,"Bootstrap Styled provide a chart :scroll: and common utilities for writing UI components that can be shared and maintained globally for all the :rocket: ReactJS community.  It permit an ecosystem of tools, components and variables to create standardized, sharable and highly customizable front-end modules.",,122
+659,https://github.com/google/chartjs.dart.git,Dart API for Chart.js,,121
+660,https://github.com/apgapg/pie_chart.git,Flutter Pie chart with animation ,"flutter,package,dart,chart,pie",121
+661,https://github.com/mumoshu/helm-x.git,Treat any Kustomization or K8s manifests directory as a Helm chart,,121
+662,https://github.com/hugo53/HUChart.git,A simple (but the first) semi circle chart (half pie chart) for iOS.,,120
+663,https://github.com/buren/chartkick-ex.git,Create beautiful Javascript charts with minimal code,"chartkick,elixir,hexpm,charting-library,chart",119
+664,https://github.com/zurche/plain-pie.git,A simple plain pie chart widget fully customizable,,119
+665,https://github.com/pwstegman/bci.js.git,:bar_chart: EEG signal processing and machine learning in JavaScript,"eeg,bci,javascript,machine-learning,signal-processing",119
+666,https://github.com/XD-DENG/ECharts2Shiny.git,To insert interactive charts from ECharts into R Shiny applications (在R Shiny app中插入ECharts可交互图形),"visualization,r,shiny",118
+667,https://github.com/danigargu/IDAtropy.git,"{""IDAtropy is a plugin for Hex-Ray's IDA Pro designed to generate charts of entropy and histograms using the power of idapython and matplotlib.""}",,118
+668,https://github.com/sapcc/openstack-helm.git,Helm charts for Openstack,,117
+669,https://github.com/danielgindi/ChartsRealm.git,A Realm.io module for Charts,,117
+670,https://github.com/jdarling/d3rrc.git,Reusable D3 Charts for React.js,,117
+671,https://github.com/bambash/helm-cronjobs.git,a helm chart for cronjobs in kubernetes,"kubernetes,helm",116
+672,https://github.com/bebraw/Chart.js.legend.git,**DEPRECATED** Legend plugin for Chart.js (MIT),,116
+673,https://github.com/rterp/StockChartsFX.git,JavaFx candlestick chart used to plot stock and commodity prices.,,116
+674,https://github.com/saresend/Gust.git,A small charting/visualization tool and partial vega implementation for Rust,"visualization,graph,html,rust,rust-library",116
+675,https://github.com/matthisk/django-jchart.git,📈 A Django package for plotting charts using the excellent Chart.JS library.,"django,charting-library,chart,chartjs",115
+676,https://github.com/thompsonemerson/moeda.git,:moneybag: :chart_with_upwards_trend: A foreign exchange rates and currency conversion using CLI,"rate,currency-conversion,cli,moeda,foreign-exchange-rates,exchange,currency",114
+677,https://github.com/juijs/vue-graph.git,⚡️ Vue components based on the JUI chart available in Vue.js,"vuejs,vue-components,vue-charts,svg,canvas,animation",114
+678,https://github.com/honcheng/AcornCharts-for-iOS.git,Fun way to display charts using balls that responds to device tilting ,,113
+679,https://github.com/imclem/Highcharts-export-module-asp.net.git,This module allows you to export chart on your own asp.net server.,,113
+680,https://github.com/coroo/nova-chartjs.git,"A Simple Dashboard Chart in Laravel Nova using Chart JS. Starting create your own dashboard with Chart JS Integration can save your time and help you maintain consistency across standard elements such as Bar, Stacked, Line, Area, Doughnut and Pie Chart.","chart-js,laravel-nova,laravel",113
+681,https://github.com/chaione/CHCircleGaugeView.git,A configurable chart that depicts the value of a measurement using a subtle animation.,,113
+682,https://github.com/Debdut/react-fast-charts.git,Blazing Fast Charting Library in React with loading time less than 50ms,"chart,pie-chart,line-chart,react,svg,robinhood,fast",113
+683,https://github.com/trade-manager/trade-manager.git,Trade Manager automates technical trading of candle stick charts with an interface to Interactive Brokers Trader Workstation (IB TWS) & Yahoo Finanace,,112
+684,https://github.com/coppeliaMLA/glasseye.git,An extension to markdown. Output uses a Tufte layout. D3 charts can be generated,,112
+685,https://github.com/ScientificClubofESI/LaraHack.git,Administration system for Hackathons :chart_with_upwards_trend: ! ,"hackathon,admin-dashboard,administration,checkin,hackathon-application,registration,competition",112
+686,https://github.com/KyleAMathews/react-micro-bar-chart.git,React component for micro bar-charts rendered with D3,,111
+687,https://github.com/stephan83/babar.git,CLI bar charts for node.js,,111
+688,https://github.com/statnett/vue-plotly.git,A vue wrapper for plotly.js chart library,"plotly,graph",111
+689,https://github.com/sgratzl/chartjs-chart-geo.git,Chart.js Choropleth and Bubble Maps,"chartjs,d3-geo,choropleth,bubble-chart,map,javascript,chartjs-plugin",111
+690,https://github.com/lin-xin/sChart.js.git, :bar_chart: Small & simple HTML5 charts,"canvas,charts",110
+691,https://github.com/netdata/helmchart.git,Helm chart for kubernetes deployments,,110
+692,https://github.com/Kibo/AstroChart.git,A free and open-source JavaScript library for generating SVG charts to display planets in astrology.,,110
+693,https://github.com/Cloud9Trader/TechnicalIndicators.git,Technical Indicators scripts for use in Cloud9Trader charts and trading algorithms,,110
+694,https://github.com/catboost/catboost-viewer.git,Standalone application for plotting charts with different training statistics in a browser.,"javascript,visualization,loss-functions",110
+695,https://github.com/fusioncharts/angularjs-fusioncharts.git,AngularJS Directive for FusionCharts JavaScript Charting Library (for Angular 1.x),,110
+696,https://github.com/friimaind/pi-hole-droid.git,Pi-hole Droid is an unofficial app that connects to your Pi-hole to show charts and statistics.,"pi-hole,android,android-application,android-app,raspberry-pi,raspberry,cordova,cordova-android,cordova-application",110
+697,https://github.com/carlosqsilva/pyspc.git,Statistical Process Control Charts Library for Humans,"python,spc,control-chart",109
+698,https://github.com/colinmeinke/react-svg-chart.git,Animated SVG charts for React,,109
+699,https://github.com/replicatedhq/unfork.git,Kubectl plugin to find forked Helm Charts and other K8s resources and unfork them with Kustomize,"helm,kubernetes,kustomize,helm-charts,kubectl-plugins,go,golang",109
+700,https://github.com/gaalcaras/ncm-R.git,R autocompletion for Neovim and vim 8 :memo: :bar_chart: :zap:,"neovim,r,nvim,autocomplete,rstats,vim,vim-plugin,ncm2,ncm2-plugin,snippets",109
+701,https://github.com/dumptyd/vue-css-donut-chart.git,Lightweight Vue component for drawing pure CSS donut charts,"chart,donut,css,vue,doughnut,radial-progress,progress-bar,pie-chart",108
+702,https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT.git,"A powerful 🚀 Android/iOS chart view / graph view library, binding support for Xamarin.Forms, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.",,108
+703,https://github.com/kaku2015/WeatherChartView.git,A simple line chart view of weather for android.,"weather,chart,android,weather-chart",108
+704,https://github.com/briancoyner/Core-Animation-Pie-Chart.git,"Pie Chart built using CAShapeLayers, a CADisplayLink and custom layer properties","objective-c,coreanimation,cadisplaylink,cashapelayer,catextlayer,pie-chart,cocoaconf",108
+705,https://github.com/profunktor/http4s-tracer.git,:bar_chart: End-to-end tracing system for Http4s,"http4s,middleware,reader-monad,kleisli,tracer,tracing-applications",107
+706,https://github.com/pdabrowski6/chartable.git,A lightweight and database-level Ruby library to transform any Active Record query into analytics hash ready for use with any chart library.,,107
+707,https://github.com/mattermost/mattermost-helm.git,Mattermost Helm charts for Kubernetes,"mattermost,helm-charts,kubernetes,mattermost-helm,hacktoberfest",106
+708,https://github.com/gmazzamuto/ng2-google-charts.git,Angular Google Charts module,"google-charts,charts,angular,angular8,angular9",106
+709,https://github.com/ardata-fr/mschart.git,:bar_chart: mschart: office charts from R,"ms-office-documents,r,powerpoint,word,cran,office",106
+710,https://github.com/dainkaplan/Chartreuse.git,Pie charts for iOS!,,106
+711,https://github.com/aslafy-z/helm-git.git,Helm Plugin - Install Helm Charts directly from Git repositories,"helm,helm-plugin,kubernetes",106
+712,https://github.com/SeanSobey/ChartjsNodeCanvas.git,A node renderer for Chart.js using canvas.,,106
+713,https://github.com/easystats/modelbased.git,":chart_with_upwards_trend: Estimate effects, contrasts and means based on statistical models","contrasts,marginal,means,marginal-effects,predict,estimate,easystats,r,contrast-analysis",106
+714,https://github.com/vmware-tanzu/helm-charts.git,Contains Helm charts for Kubernetes related open source tools,"helm-charts,kubernetes",105
+715,https://github.com/platonai/pulsar.git,Turn large Web sites into tables and charts using simple SQLs.,"web-scraping,web-crawler,web-mining,data-science,selenium,web-sql",105
+716,https://github.com/fidum/laravel-dashboard-chart-tile.git,Create all the charts you want for your laravel dashboard,"chart,tile,dashboard,laravel,spatie,laravel-framework",105
+717,https://github.com/tradingview/charting-library-tutorial.git,This tutorial explains step by step how to connect your data to the Charting Library,,105
+718,https://github.com/halfnelson/svelte-it-will-scale.git,"{""Generate a chart showing svelte's overhead""}",,105
+719,https://github.com/shroudedcode/devstats.git,:bar_chart: A CLI application that fetches stats from developer sites,"cli,cli-application,stats,statistics,daily-report",105
+720,https://github.com/qyvlik/Chart.qml.git,Chart.qml like Chart.js,"qml,chartjs,chart,qtquick,canvas",104
+721,https://github.com/q-m/d3.chart.sankey.git,Reusable D3 Sankey diagram using d3.Chart,"d3,chart,sankey,javascript",104
+722,https://github.com/deepakjois/gchartrb.git,Ruby wrapper around the Google Chart API,,104
+723,https://github.com/FlorentF9/DeepTemporalClustering.git,:chart_with_upwards_trend: Keras implementation of the Deep Temporal Clustering (DTC) model,"dtc,clustering,time-series,deep-learning",104
+724,https://github.com/blendle/kubecrt.git,Convert Helm charts to Kubernetes resources.,"kubernetes,helm-charts,helm-plugins",103
+725,https://github.com/britecharts/britecharts-react.git,Britecharts-react is a React wrapper for the Britecharts charting library. It allows the use of Britecharts charts within a React application.,"d3,react,javascript,chart,data-visualization,es6,interactive-visualizations,britecharts",103
+726,https://github.com/dawigr/BarChart.git,SwiftUI Bar Chart,"swiftui,chart,bar-chart,swiftui-example,swift-package,swift-library,ios,watchos,macos",103
+727,https://github.com/public-contributions/HACK.git,Draw in your Public Contributions chart on GitHub,,103
+728,https://github.com/day0market/support_resistance.git,Small package that helps to find support and resistance levels and plot them on chart,"stock-market,support-reisitance,trading-algorithms",103
+729,https://github.com/morphatic/astrologyjs.git,A NodeJs package that will provide core functionality for including astrological charts in projects.,,102
+730,https://github.com/kayak/fireant.git,Data analysis and reporting tool for quick access to custom charts and tables in Jupyter Notebooks and in the shell.,"fireant,python,query,builder,sql,mysql,postgres,oracle,vertica,aggregated,database,rdbms,business,analytics,bi,data,science,analysis,pandas,juypter",102
+731,https://github.com/unicef/react-org-chart.git,Component for displaying an org chart for a large organization. Supports lazy load and export.,"react,organizational-chart,d3,unicef,org-chart",102
+732,https://github.com/boundary/firespray.git,Blazingly fast streaming charts,,101
+733,https://github.com/plotly/dash-technical-charting.git,Powerful technical charting app/interface in pure Python,,101
+734,https://github.com/hitanshu-dhawan/FirebaseMLKit.git,:chart_with_upwards_trend: [ARTICLE] Firebase ML Kit 101 Series,"firebase,mlkit,firebase-mlkit,firebase-ml-vision",101
+735,https://github.com/ant-design/ant-design-mobile-chart.git,Ant Design Mobile Chart based on F2,,101
+736,https://github.com/ailon/amCharts-Quick-Charts.git,"Free, open source (licensed under MS-PL) charting controls for WPF & Silverlight",,101
+737,https://github.com/IonicaBizau/git-stats-importer.git,:chart_with_upwards_trend: Imports your commits from a repository into git-stats history.,hacktoberfest,101
+738,https://github.com/jaegertracing/helm-charts.git,Helm Charts for Jaeger backend,"helm-charts,jaeger-backend,kubernetes-operator,helm,jaeger,tracing",99
+739,https://github.com/JahstreetOrg/spark-on-kubernetes-helm.git,Spark on Kubernetes infrastructure Helm charts repo ,"spark,kubernetes,livy,jupyter,history-server,helm",99
+740,https://github.com/vMeijin/pySmithPlot.git,Matplotlib extension for creating Smith charts with Python,,99
+741,https://github.com/daviddalpiaz/appliedstats.git,:bar_chart: Methods of Applied Statistics Course Textbook Repository,"probability,statistics,r,textbook,applied-statistics,linear-models,bookdown",99
+742,https://github.com/westonruter/ipa-chart.git,International Phonetic Alphabet (IPA) Unicode Chart and Character Picker,,99
+743,https://github.com/PierreCapo/treeviz.git,Tree diagrams with JavaScript :evergreen_tree: :chart_with_upwards_trend:,"tree,javascript,visualization,big-data,hierarchy,family-tree,represent-tree-diagrams",99
+744,https://github.com/nexB/scancode-workbench.git,:bar_chart: ScanCode Workbench is a desktop app to review and conclude license and origin from code scans generated by ScanCode Toolkit.,"scancode,oss-compliance,software-licensing,scancode-workbench",99
+745,https://github.com/imaNNeoFighT/ArcChartView.git,Arc Chart View (Draw Creative Statistic Arc Charts),"android,customview,chartview,chart,charts,java,rating,statistics,hacktoberfest",98
+746,https://github.com/emn178/angular2-chartjs.git,Chart.js component for Angular2,,98
+747,https://github.com/mazznoer/colorgrad.git,"Go (Golang) color scales library for maps, charts, data-visualization & creative coding.","color,data-visualization,color-scales,gradient,colormap,visualization,visual-encoding",98
+748,https://github.com/dabeng/OrgChart-Webcomponents.git,"{""It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.""}",,97
+749,https://github.com/baojiweicn/susnote.git,"Susnote is a notebook which support markdown, UML and Chart.","notebook,chart,uml,markdown-editor",97
+750,https://github.com/edouardparis/lntop.git,:zap: LN terminal dashboard :bar_chart:,"bitcoin,lightning-network,lightning,tui,terminal,dashboard",97
+751,https://github.com/substack/gantt-chart.git,generate an svg gantt chart in node and the browser,,97
+752,https://github.com/khusharth/gitpedia.git,"{""A web application to  :mag:  view a github's user profile in a more simple and beautiful way. Built using React,  Chart JS  :bar_chart: , styled components  :nail_care: and more 📦 ""}","reactjs,styled-components,chartjs",97
+753,https://github.com/deliveryhero/helm-charts.git,Helm Charts ⛵ @ Delivery Hero ⭐,,96
+754,https://github.com/romsson/d3-gridding.git,grids for rapid D3 charts mockups,"d3,d3js,dataviz,infovis,grid,design,treemap,mock,d3-gridding,javascript",96
+755,https://github.com/avdaredevil/highcharts-chart.git,Polymer Element wrapper for highcharts library. Seamlessly create various types of charts from one element.,"highcharts-chart,chart-component,highcharts,polymer,graphing,visualization,webcomponents,google-polymer,bower,pie-chart,barchart,plotting,boxplot,chart,plot,graph",96
+756,https://github.com/hagen1778/fasthttploader.git,Http benchmark (kinda ab) with autoadjustment and charts based on fasthttp library,"http-benchmarking,golang",96
+757,https://github.com/dima117/Chart.Scatter.git,Scatter chart plugin for Chart.js,,95
+758,https://github.com/up42/image-similarity-measures.git,":chart_with_upwards_trend: Implementation of eight evaluation metrics to access the similarity between two images. The eight metrics are as follows: RMSE, PSNR, SSIM, ISSM, FSIM, SRE, SAM, and UIQ.","image,metrics,machine-learning,evaluation-metrics",95
+759,https://github.com/datavisyn/chartjs-chart-box-and-violin-plot.git,Chart.js Box Plot addon,"chartjs,boxplot,chart,javascript,violin-plot,charting-boxplots",94
+760,https://github.com/planet-os/cirrusjs.git,A multi-renderer charts library,,94
+761,https://github.com/nuxeo/gatling-report.git,Parse Galting simulation.log files to output CSV stats or build HTML reports with Plotly charts.,,94
+762,https://github.com/dotnet/winforms-datavisualization.git,System.Windows.Forms.DataVisualization provides basic charting for WinForms applications.,,94
+763,https://github.com/davidor/formula1-lap-charts.git,Lap chart visualization of Formula 1 races.,formula1,94
+764,https://github.com/billimek/billimek-charts.git,DEPRECATED - new home is https://github.com/k8s-at-home/charts,"helm,helm-charts,chart",93
+765,https://github.com/Martin36/react-gauge-chart.git,React component for displaying a gauge chart,,93
+766,https://github.com/microsoft/helm-web-api.git,Enabling applications in your Kubernetes cluster to programmatically install helm charts and expose them through a single public facing IP,"kubernetes,deployment,http,helm,helm-charts,tiller",93
+767,https://github.com/lwolf/stolon-chart.git,Kubernetes Helm chart to deploy HA Postgresql cluster based on Stolon,"kubernetes,postgresql,postgresql-cluster,stolon,etcd,helm-charts,ha-postgresql-cluster,cloud-native,infrastructure,chart",93
+768,https://github.com/IridiumIO/pyChart.js.git,Objective Chart.js implementation for Python and Django,"django,python,chart,pypi",93
+769,https://github.com/drone/charts.git,Helm charts for the Drone platform on Kubernetes,,92
+770,https://github.com/YongbaoWang/StockChart.git,stock chart about fenShi chart,,92
+771,https://github.com/jpederson/Accrue.js.git,"A loan and interest calculation plugin for jQuery. Create calculators that allow you to calculate interest on loans, compare multiple loans (with different interest rates), and create amortization charts.","loan,jquery,calculator,finance",92
+772,https://github.com/genular/simon-frontend.git,":chart: SIMON is powerful, flexible, open-source and easy to use machine learning knowledge discovery platform :computer:","machine-learning,automated-machine-learning,systems-biology,self-hosted,knowledge-discovery,open-science,data-science,data-visualization,automl,predictiveanalytics,ai,data-mining,simonml,feature-discovery,data-analysis,simon",92
+773,https://github.com/pablomolnar/radial-progress-chart.git,[Not Actively Maintained] Radial Progress Chart started as a weekend project. It’s written on the top of D3.js and was heavily inspired by Apple Watch Activity and D3 stub of Polar Clock.,,92
+774,https://github.com/minio/charts.git,MinIO Helm Charts,,91
+775,https://github.com/louwrentius/fio-plot.git,Create charts from FIO storage benchmark tool output ,,91
+776,https://github.com/BatuhanUsluel/Algorithmic-Support-and-Resistance.git,"Automatically identifies support and resistance lines on a stock chart using reversal points, displays candlestick chart.",,91
+777,https://github.com/internalfx/distinct-colors.git,"{""Generate a palette of visually distinct colors. It's great for charts.""}",,91
+778,https://github.com/amrrs/animated_bar_charts_in_R.git,Code to demo how to build Animated Bar Charts in R,"rstats,animation,bar-race,visualization",90
+779,https://github.com/bsouthga/d3-exploder.git,Explode d3 maps to create new charts!,,90
+780,https://github.com/koudelka/d3-message-sequence.git,Dynamic message sequence charts for d3.,,90
+781,https://github.com/ksphp/webmis-codeigniter.git,"CodeIgniter framework based on the development of multi users, multi access solutions, integration of CodeMirror, TinyMCE, Chart, Jquery and other plug-ins!",,90
+782,https://github.com/influxdata/tick-charts.git,A repository for Helm Charts for the full TICK Stack,,89
+783,https://github.com/CenterForOpenScience/helm-charts.git,Kubernetes Helm Charts for the Center for Open Science,"kubernetes,helm,osf,open-science,helm-charts",89
+784,https://github.com/fredrikloch/hugo-uno.git,"{""A responsive hugo theme with awesome font's, charts and lightbox galleries""}",,89
+785,https://github.com/metabase/embedding-reference-apps.git,Reference applications for common web frameworks showing how to embed Metabase charts,"metabase,nodejs,rails,laravel,django",89
+786,https://github.com/nihgwu/react-native-pie.git,Pie chart for React Native,"chart,pie-chart,react-native,doughnut,gauge,svg",89
+787,https://github.com/maxyou/SimpleWaveform.git,Highly customized to draw waveform or bar chart.,,89
+788,https://github.com/technosophos/common-chart.git,A base Helm chart with shared definitions,"helm,helm-charts",89
+789,https://github.com/fusioncharts/svelte-fusioncharts.git,Svelte Component for FusionCharts JavaScript Charting Library,"fusioncharts,svelte-fusioncharts,fusiontime,fusioncharts-component,fusioncharts-library,svelte,svelte-components,powercharts,fusionmaps,fusionwidgets,svelte-charts,svelte-charting-library,svelte-wrapper",89
+790,https://github.com/JosiahLeas/josiahleas.github.io.git,View multiple TradingView charts on one screen,,88
+791,https://github.com/ArielMejiaDev/larapex-charts.git,A Laravel wrapper for apex charts,"php,laravel,javascript,charts,apexcharts",88
+792,https://github.com/gruntwork-io/helm-kubernetes-services.git,Helm charts that can be used to package your applications into production ready deployments for Kubernetes. https://www.gruntwork.io,,88
+793,https://github.com/xvrdm/ggrough.git,Convert ggplot2 chart to roughjs,,88
+794,https://github.com/dreamRs/apexcharter.git,:bar_chart: R Htmlwidget for ApexCharts.js,"r,htmlwidgets,data-visualization",88
+795,https://github.com/cetic/helm-nifi.git,Helm Chart for Apache Nifi,"kubernetes,helm,charts,nifi",87
+796,https://github.com/zingchart/zingchart-react.git,Quickly create dynamic JavaScript charts with ZingChart & React.,"react,javascript,charts",87
+797,https://github.com/chunghe/React-Native-Stock-Chart.git,tutorial about building stock charts using victory-chart-native,,87
+798,https://github.com/eldada/jenkins-in-kubernetes.git,A Jenkins Docker image and helm chart for running in Kubernetes,,87
+799,https://github.com/shayne/react-native-webview-js-context.git,Utilize the JavaScript VM running inside an iOS UIWebView to exploit libraries targeting the DOM (e.g. Google Charts),,87
+800,https://github.com/tensorprob/tensorprob.git,:chart_with_upwards_trend: A probabilistic programming framework based on TensorFlow,,87
+801,https://github.com/nbremer/d3-loom.git,d3 plugin to create a loom chart layout (for d3-v4),"d3,d3-module",87
+802,https://github.com/igeligel/vuex-simple-structure.git,:chart_with_upwards_trend: A repository showcasing a simple Vuex store inside a Vue.js application based on Large-scale Vuex application structures @3yourmind,"vuex,vue,vuejs2,vue2,large-scale,simple,blogpost",87
+803,https://github.com/deliverybot/helm.git,GitHub action for deploying Helm charts.,"kubernetes,helm,action,deployment,deployment-automation",86
+804,https://github.com/y-takey/chartjs-plugin-stacked100.git,This plugin for Chart.js that makes your bar chart to 100% stacked bar chart.,"javascript,chartjs",86
+805,https://github.com/instrumenta/helm-kubeval.git,A Helm plugin for validating Charts against the Kubernetes schemas,"helm-plugin,helm,instrumenta,kubeval,kubernetes",86
+806,https://github.com/d2bjs/d2b.git,Reusable d3-based chart library.,,86
+807,https://github.com/kubepack/chart-doc-gen.git,Helm Chart Documentation Generator,,86
+808,https://github.com/ankane/vega.git,"Interactive charts for Ruby, powered by Vega and Vega-Lite",,86
+809,https://github.com/sterlingwes/RandomColor.git,"Javascript module for generating random, distinguishable, pleasing colors (ie: for chart series).","colours,javascript,series,chart,random,colors,colour",86
+810,https://github.com/bankrollhunter/lonecapital-chart.git,copy lonecapital chart,,85
+811,https://github.com/walkingtree/chartsly.git,Walking Tree Charts package based on Sencha Ext JS & Touch,,85
+812,https://github.com/peterrcook/d3-circularheat.git,A D3 circular heat chart. Good for displaying cyclic data.,,85
+813,https://github.com/mdewilde/chart.git,Java library for use with Chart.js javascript library,,85
+814,https://github.com/filhodanuvem/pizzeria.git,🍕Chart generator as a service,"chart-generator,chart,go",85
+815,https://github.com/jose-lpa/django-tracking-analyzer.git,User actions tracking and analytics for Django sites  :bar_chart:,,85
+816,https://github.com/bacongobbler/helm-whatup.git,"{""A Helm plugin to help users determine if there's an update available for their installed charts.""}",helm-plugin,85
+817,https://github.com/hakdogan/jenkins-pipeline.git,:chart_with_upwards_trend: Learn how to implement container technologies with your Jenkins CI/CD workflows to make them easier to manage in this tutorial.,"jenkins,jenkins-pipeline,docker,docker-compose,continuous-integration,continuous-delivery",85
+818,https://github.com/takuya0206/ganttchart_generator.git,Google spreadsheet add-on which allows users to create a gantt chart automatically,"google-apps-script,gantt-chart,project-management",85
+819,https://github.com/influxdata/helm-charts.git,Official Helm Chart Repository for InfluxData Applications,"helm,kubernetes,k8s,helm-charts,hacktoberfest",84
+820,https://github.com/devfake/cloudradio.git,cloudradio is a web app that plays all songs from the soundcloud charts,"soundcloud-charts,songs,soundcloud,soundcloud-api,music,music-visualizer,laravel,vue",84
+821,https://github.com/githiro/drawDoughnutChart.git,A SVG doughnut chart with animation and tooltip.,,84
+822,https://github.com/numetriclabz/numAndroidCharts.git,A Powerful Android Charting Library by https://www.numetriclabz.com/,,84
+823,https://github.com/BrandonClapp/process-editor.git,Flow chart / directed graph editor built on d3.js,,84
+824,https://github.com/willdale/SwiftUICharts.git,"A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility features built in.","swift,swiftui,ios,macos,chart,charts,graph,line-chart,bar-chart,stacked-bar-chart,multi-line-chart,filled-line-chart,grouped-bar-chart,range-bar-chart,pie-chart,doughnut-chart,tvos",84
+825,https://github.com/city41/yokul.git,An (almost) drop in replacement for Google Chart images using HTML5 canvas,,84
+826,https://github.com/Pfuster12/LiveChart.git,Android library to draw beautiful and rich line charts.,"finance,fintech,android,android-library,android-development,jitpack,charts,graphs,data-visualization,data-science,mobile,mobile-app,drawing,line-chart",83
+827,https://github.com/a-vis/spectrum.git,:chart_with_downwards_trend: Spectrum visualizer,"spectrum,audio",83
+828,https://github.com/jacky6024/flowdesigner.git,FlowDesigner is a javascript library for drawing flow chart on web.,,83
+829,https://github.com/callstack/reanimated-arc.git,"This repository contains react-native reanimated arc component. It can be used to create animated circular progress bars, donut charts etc.",,83
+830,https://github.com/etishor/Metrics.NET.FlotVisualization.git,JavaScript visualization app for Metrics.NET (https://github.com/etishor/Metrics.NET) based on the excelent charting capabilities of FlotCharts (http://www.flotcharts.org/),,83
+831,https://github.com/adessoAG/wicked-charts.git,Beautiful and interactive javascript charts for Java-based web applications.,"wicked-charts,html,java,javascript,css,charts",82
+832,https://github.com/PrazAs/react-native-charts.git,Configurable react-native charting library– (right now just bar charts).,,82
+833,https://github.com/helm/chart-testing-action.git,A GitHub Action to lint and test Helm charts,"kubernetes,helm,charts,ci-cd,actions,chart-testing,lint",82
+834,https://github.com/agonopol/gosplat.git,Easy html charts with go,,82
+835,https://github.com/93Alliance/ng-chartjs.git,A fully functional Angular2+ chart.js library.,"angular,ngx-chartjs,ng-chartjs,angular-chart",82
+836,https://github.com/raspu/RPRadarChart.git,Simple Radar Chart (or Spider Web) Generator for iOS,,82
+837,https://github.com/mattosaurus/ChartJSCore.git,Implementation of Chart.js for use with .NET Core.,,82
+838,https://github.com/hadiidbouk/ChartProgressBar-iOS.git,Draw a chart with progress bar style,"swift-3,chart,progressbar",82
+839,https://github.com/psprawka/42_Projects.git,"{""What is 42? How does curriculum look like? A manual reference for all 42 projects I've done so far (Zappy, Malloc, C++ Piscine... check out for more)! :bulb::chart_with_upwards_trend:""}","42,42born2code,42school,42projects",82
+840,https://github.com/Glavin001/ember-c3.git,":chart_with_upwards_trend: Ember addon library for C3, a D3-based reusable chart library.","chart,javascript,ember,c3,d3",81
+841,https://github.com/cderinbogaz/inpredo.git,Inpredo is a Deep Learning tool which looks into financial charts and predicts stock movements.,,81
+842,https://github.com/xavigil/PercentageChart.git,Animated chart to show a percentage value.,,81
+843,https://github.com/parkr/ping.git,":bar_chart: Your very own Google Analytics replacement, without all of the Google. Simple as pie.","go,google-analytics,privacy,pie,analytics",81
+844,https://github.com/hsuehic/vue-kit.git,"[Deprecated]A Vue.js project, base on vue-webpack template(vue 2.x and vue-router 2.x), with bulma, chart.js, font awesome, Weui. Aims to be a quick start for building demo applications or product prototypes.",,81
+845,https://github.com/F1LT3R/bitcoin-scraper.git,💲 bitcoin chart history scraper,"bitcoin,chart,data,graph,moore,logarithmic,javascript,bitcoin-scraper,json,scrapes-bitcoin-data",80
+846,https://github.com/zlx362211854/ICU-charts.git,a charts application services for 996.ICU,,80
+847,https://github.com/niloch/iplotter.git,JavaScript charting in ipython/jupyter notebooks - ,,80
+848,https://github.com/happywatch/SKTRings.git,Animated ring charts made with SpriteKit for watchOS 3. Supports bounce easing and color change effects.,,80
+849,https://github.com/Kong/charts.git,Helm chart for Kong,,79
+850,https://github.com/int128/devops-kompose.git,[DEPRECATED] DevOps tools on Kubernetes with Helm charts,"kubernetes,helm,devops,keycloak,jira,confluence,mattermost,gitlab",79
+851,https://github.com/concourse/concourse-chart.git,Helm chart to install Concourse,,79
+852,https://github.com/kurkle/chartjs-chart-matrix.git,Chart.js module for creating matrix charts,,79
+853,https://github.com/frendyxzc/Charts.git,Android Kotlin Charts base on ECharts,"android,charts,echarts,kotlin",79
+854,https://github.com/yangchaojie456/donut-chart.git,donut chart with linecap,,79
+855,https://github.com/KirillM/BarChart.git,Bar Chart Standalone Component with Animation for IOS,,79
+856,https://github.com/longjun3000/ARLineChart.git,"ARLineChart is a line chart view on iOS , written using Objective-C . There are scenarios for applications requiring dual- Y axis.",,79
+857,https://github.com/tradingview/awesome-tradingview.git,"🎉 A curated list of awesome things related to TradingView (widgets, charting library, lightweight-charts, etc)",,78
+858,https://github.com/kauffecup/react-bubble-chart.git,A React+D3 animated bubble chart,,78
+859,https://github.com/vmware-tanzu/carvel-vendir.git,"Easy way to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively","vendor,declarative,git,ytt,sync,carvel",78
+860,https://github.com/toamitkumar/motion-plot.git,Create native iOS charts using simple JSON as you are used-to with Highcharts like JS library. This library is a wrapper on top of CorePlot,,78
+861,https://github.com/kanboard/plugin-gantt.git,Gantt charts for Kanboard,"gantt,gantt-chart,kanboad,plugin",77
+862,https://github.com/CodeJjang/helm-microservices-example.git,DRY Helm Charts for Micro-Services,,77
+863,https://github.com/zhmch0329/MCChartView.git,"MCChartView is some different charts used in my project! Bar, Line, Pie, Radar, Circle and Coverage chart views.",,77
+864,https://github.com/DrChai/react-native-rheostat.git,"{""inspired by Airbnb's rheostat, a powerful slider with assorted data visualized charts""}","react-native,react-components,styled-components,slider",77
+865,https://github.com/mathisonian/hyperchart.git,charts for hyperterm,,77
+866,https://github.com/ant-design-blazor/ant-design-charts-blazor.git,"A Blazor chart library, based on G2Plot",,77
+867,https://github.com/AC-D3/AC-D3.git,Javascript Library for building Audiovisual Charts in D3,"d3,visualization,visualizations,visualize-data,data-visualization,chart,charts,bubble-chart,scatter-plot,javascript,javascript-library,data,video,multimedia,multimedia-library,youtube,youtube-api,vimeo,vimeo-api",77
+868,https://github.com/carvetighter/VBA-Code-Library.git,"A series of Visual Basic Applications (VBA) methods I wrote, mostly for Excel, to increase the speed and accuracy in working with data, charts and databases.","vba,vba-modules,vba-library,vba-excel,vba-macros",77
+869,https://github.com/dadalar/DDSpiderChart.git,Easy to use Spider (Radar) Chart library for iOS written in Swift.,"swift,swift-3,ios,chart,radar-chart,spider-chart,swift4",77
+870,https://github.com/chryb/vue-c3.git,vue-c3 is a reusable vue component for c3 charts,"vuejs,d3js,c3js,npm-package,c3-chart,vue-c3,vue-components",76
+871,https://github.com/highcharts/export-csv.git,Highcharts plugin to export chart data to CSV,,76
+872,https://github.com/timelyportfolio/rCharts_time_series.git,"{""Quick Summary of R's History of Time Series Charting""}",,76
+873,https://github.com/helmwave/helmwave.git,🌊 GitOps for @Helm Charts,"helm,deploy,deployment-automation,gitops,devops,devops-tools,kubernetes,yml,helm-release,golang,helmwave",76
+874,https://github.com/KatherineMichel/tech-and-funding-toolkit.git,:money_with_wings: :chart_with_upwards_trend: :rocket: Tech and Funding Toolkit,,76
+875,https://github.com/jfree/orson-charts.git,"A 3D chart library for Java applications (JavaFX, Swing or server-side).","javafx,3d-charts,swing,java2d,data-visualization",76
+876,https://github.com/PandaraWen/PDChart.git,"A simple and beautiful chart lib for iOS, developed in Swift2.2 - 一个简单易用的漂亮图表库，用Swift语言开发，更新至Swift2.2",,76
+877,https://github.com/Azure/helm-elasticstack.git,Kubernetes Helm Charts and Tools to run Elastic Stack(ELK) on Azure Container Service(AKS),"kubernetes,helm,helm-charts,elasticsearch,elasticsearch-cluster,azure-container-service,kibana,kibana-cluster,logstash,aks,aks-kubernetes-cluster,acs",75
+878,https://github.com/fusioncharts/react-fusioncharts-component.git,ReactJS component for FusionCharts JavaScript Charting library.,"react,reactjs,react-fusioncharts-component,react-fusioncharts,fusioncharts,javascript-charts,react-charts,interactive-charts,charts,graphs,visualization,data-visualization,dataviz,fusionmaps,fusionwidgets,js-charts,powercharts,dashboards,data-stories,timeseries",75
+879,https://github.com/vmware-tanzu/carvel-kapp-controller.git,"Kubernetes controller for installing configuration (helm charts, ytt templates, plain yaml) with kapp as described by App CRD","ytt,kapp,helm,declarative,operator,k8s,kubernetes,gitops,continious-delivery,cd,controller,carvel",75
+880,https://github.com/kutuluk/xterm-color-chart.git,XTerm 256 color chart,,75
+881,https://github.com/benlund/ascii_charts.git,"Ruby library to draw simple ASCII charts (x,y graph plots and histograms)",,75
+882,https://github.com/egoist/flowkit.git,A simple online flow chart editor.,,75
+883,https://github.com/mertceyhan/bitcoin-market-android.git,Bitcoin Market app shows you the current Bitcoin market price and price chart of different time intervals 💰,"android,kotlin,clean-architecture,mvvm,dagger-hilt,coroutines,android-jetpack-components,modern,lottie,architecture,price-chart,bitcoin-market",75
+884,https://github.com/gphat/chart-clicker.git,"Extensible, Beautiful Charts for Perl",,74
+885,https://github.com/cagricolak/CoreCharts.git,Core Charts | Basic Scrollable Chart Library for iOS,"chart,barchart,charts,swift-library,corecharts,ios,cocoapods",74
+886,https://github.com/codingberg/benchgraph.git,Visualization of Golang benchmark output using Google charts,,74
+887,https://github.com/snail-z/SwiftKline.git,A simple stock chart framework.,kine,74
+888,https://github.com/viglesiasce/helm-gcs.git,Helm plugin for using GCS as a private chart repository,"kubernetes-helm,helm-plugin",74
+889,https://github.com/dill/beyonce.git,:crown: :bee: :bar_chart: Beyoncé colour palettes for R,,74
+890,https://github.com/kazunori279/Fluent-Dashboard.git,A Google Spreadsheet designed to receive Fluentd event logs and display charts from them.,,74
+891,https://github.com/daranzolin/d3rain.git,An htmlwidget bringing D3 drip to R :sweat_drops: :sparkles: :bar_chart:,"htmlwidget,rain,drip,rstats,data-visualization",74
+892,https://github.com/NikhilBhutani/EasyDataAnalyzer.git,"{"":bar_chart: [Android-Library] Monitor network data information of your apps in android devices. NOTE : won't work from nougat and above due to security reasons.""}",,74
+893,https://github.com/Schinizer/kshootmaniasdvx.git,SDVX Charts for KShootMania,,73
+894,https://github.com/darthbatman/billboard-top-100.git,"{"":chart_with_upwards_trend: Node.js API to retrieve the top songs, albums, and artists from Billboard's charts""}","songs,music,billboard,top,charts,ranking,rank",73
+895,https://github.com/HeadTalker/uptime-robot.git,:chart_with_upwards_trend: One Pager To Monitor Uptime With The Uptime Robot API,,73
+896,https://github.com/JastAir/Android-BackgroundChart.git,Background with chart and smooth bezier lines from float array. Simple use and connect,"background,chart,charts,android,kotlin-android,kotlin,android-chart,android-charts,background-chart",73
+897,https://github.com/erlonfs/bad-robot.framework.git,":chart_with_upwards_trend: :robot: Imagine um programa de computador que, observando a movimentação dos preços de um ativo ao longo do tempo, é capaz de, sozinho, sem interferência humana, determinar a hora de comprá-lo ou vendê-lo.","metatrader,mql5,metatrader5,robot,robot-framework,trade,trading-bot,trading-strategies,trading-algorithms,trading,mql",73
+898,https://github.com/thiyangt/seer.git,:chart_with_upwards_trend: Feature-based Forecast Model Selection (FFORMS) :clock1: :clock130: :clock10: :clock1030: :clock11: :clock1130: :clock12: :clock1230: :clock2: :clock230: :clock3: :clock330: :clock4: :clock430: :clock5: :clock530: :clock6: :clock630: :clock7: :clock730: :clock8: :clock830: :clock9: :clock930:,,73
+899,https://github.com/DataDog/helm-charts.git,Helm charts for Datadog products,,72
+900,https://github.com/panosoft/node-chartist.git,SVG Charts on the server.,,72
+901,https://github.com/vkoul/Econ-Data-Science.git,Articles/ Journals and Videos related to Economics:chart_with_upwards_trend: and Data Science :bar_chart:,"economics,data-science,machine-learning,social-sciences,economist,econometrics,casual-inference",72
+902,https://github.com/klinker24/wedding-app.git,Seating chart for my wedding,,72
+903,https://github.com/microsoft/powerbi-visuals-gantt.git,"A Gantt chart is a type of bar chart which illustrates a project timeline or schedule. The Gantt Chart visual shows the Tasks, Start Dates, Durations, % Complete, and Resources for a project. The Gantt Chart visual can be used to show current schedule status using percent-complete shadings and a vertical ""TODAY"" line. The Legend may be used to group or filter tasks based upon data values.",,72
+904,https://github.com/karuppiah7890/helm-schema-gen.git,"{""So that you don't have to write values.schema.json by hand from scratch for your Helm 3 charts""}","helm-plugin,helm,golang,plugin,hacktoberfest,json-schema,helm-schema-gen,k8s,go",72
+905,https://github.com/dwyl/learn-google-analytics.git,:chart_with_upwards_trend: A quick guide to learning/using google analytics for your web app.,,72
+906,https://github.com/Przemol/seqplots.git,:chart_with_upwards_trend:SeqPlots - An interactive tool for visualizing NGS signals and sequence motif densities along genomic features using average plots and heatmaps.,,72
+907,https://github.com/adlered/Picuang.git,:pushpin: 本地存储图床，使用SpringBoot开发，RESTful前后端分离，面向用户的网络图床服务。:package: 免费用于自用、商用图床，自由修改 | :page_facing_up: 中文文档，配置简单，不依赖数据库 | :pencil: URL图片转存功能 | :chart_with_upwards_trend: 历史记录功能 | :bento: 支持选择、拖拽、粘贴上传 | :alembic: 自动生成img标签、Markdown标签 | :lock: 上传频率限制,,72
+908,https://github.com/webdetails/ccc.git,Community Chart Components,,71
+909,https://github.com/cortexproject/cortex-helm-chart.git,Helm chart for Cortex,"prometheus,helm,cortex",71
+910,https://github.com/Patchett/CryptoBuddy.git,"Android app which displays cryptocurrency prices, charts and news!","android,java,cryptocurrency,news,finance,mobile-app,mobile-development,cryptocoins,chart,bitcoin,ethereum,android-studio",71
+911,https://github.com/ryanrolds/quiche.git,Google Chart Tools: Image Chart wrapper for Node.js,,71
+912,https://github.com/carlfarterson/TAcharts.git,Apply popular TA tools and charts to candlestick data with NumPy.,"python,technical-analysis,trading,statistics,backtesting,crypto,cryptocurrency,trading-bot,algorithms,crypto-signal,candlestick-data,ohlc,ohlcv",71
+913,https://github.com/PaoloConte/smooth-line-chart.git,Smooth Line Chart sample custom view for Android,,71
+914,https://github.com/kenvies/ONE-ReactNative.git,"As a practicing project, ONE - ReactNative contains many of the features we often use, such as Axios,Fetch, Redux, Charts, etc. It is also worth learning that the project contains a complete mall module.","react,react-native,ios,android,chart,axios",71
+915,https://github.com/JulesBelveze/time-series-autoencoder.git,:chart_with_upwards_trend: Pytorch dual-attention LSTM-autoencoder for multivariate time series forecasting :chart_with_upwards_trend:,"autoencoder,lstm-autoencoder,attention-mechanisms,time-series,multivariate-timeseries,pytorch",71
+916,https://github.com/vector4wang/elasticsearch-quick.git,":mag::bar_chart:ElasticSearch的使用笔记,包括使用sdk，使用springboot+Jest、rollover索引切分和使用docker启动完成es的部署索引和搜索等","elasticsearch,java,charts,springboot,docker,jest",71
+917,https://github.com/chriseng/nestgraph.git,Create pretty charts of your Nest thermostat data,,70
+918,https://github.com/kevinbrewster/SwiftCharts.git,"Simple, Sexy Line Charts for Mac and iOS",,70
+919,https://github.com/oliviale/CSS-Progress-Pie.git,A pure CSS progress pie chart,,70
+920,https://github.com/shish/context2.git,Golang flame chart viewer,,70
+921,https://github.com/Codeinwp/visualizer.git,"WordPress Visualizer plugin is a simple, easy to use and quite powerful tool to create, manage and embed interactive charts into your WordPress posts and pages.",,70
+922,https://github.com/jamesleesaunders/d3-x3d.git,3D Data Driven Charting Library with D3 and X3D,"d3,visualization,chart,3d,x3dom,dataviz,graph,x3d",70
+923,https://github.com/uwdata/vsup.git,Code for generating Value-Suppressing Uncertainty Palettes for use in D3 charts.,,70
+924,https://github.com/pH-7/QRCode-Generator-PHP-Class.git,:rocket: QRCode PHP class (library). QR Code Generator using vCard 4.0 and the Google Chart API,"vcard,qrcode-php,qr-code,generator,php,qrcode,php-qrcode,php-qr,qrcode-generator",70
+925,https://github.com/awsmug/torro-forms.git,"Torro Forms is an extendable WordPress form builder with Drag & Drop functionality, chart evaluation and more - with WordPress look and feel.",,70
+926,https://github.com/soypat/gitaligned.git,Find out where you fall on the Open-Source Character Alignment Chart,"alignment-chart,git,open-source-community",70
+927,https://github.com/iiSeymour/sparkline-nb.git,Render sparkline style charts in pandas dataframes,"python,pandas,jupyter-notebook,sparklines",69
+928,https://github.com/ABTSoftware/SciChart.Wpf.Examples.git,"Examples, tutorials, and sandbox for SciChart WPF: High Performance Realtime Charts",,69
+929,https://github.com/tohjustin/coincharts.git,Cryptocurrency Price Chart (GDAX),"react,redux,redux-saga,d3,styled-components,now,cryptocurrency,create-react-app",69
+930,https://github.com/chartjs/chartjs-plugin-deferred.git,Chart.js plugin to defer initial chart updates,"chartjs,plugin,lazy-loading",69
+931,https://github.com/nst/MobileSignal.git,Map and chart the signal type and strength on your iOS device,,69
+932,https://github.com/fluent/helm-charts.git,Helm Charts for Fluentd and Fluent Bit,,68
+933,https://github.com/microsoft/PowerBI-visuals-sampleBarChart.git,Bar Chart Custom Visual for tutorial.,,68
+934,https://github.com/codingforentrepreneurs/Django-Chart.js.git,Learn how to integrate Chart.js with Django,"django,python,charts,json,ajax,js",68
+935,https://github.com/lensesio/kafka-helm-charts.git,In-deprecation. For Lenses please check lensesio/lenses-helm-charts. Soon Stream Reactor will also get its own Helm repository.,"kubernetes,helm,kafka,kafka-connect,prometheus,dataops",68
+936,https://github.com/tylyo/APLineChart.git,IOS Line Chart,,68
+937,https://github.com/timelyportfolio/parcoords.git,R htmlwidget for parallel-coordinates chart,,68
+938,https://github.com/cmen/CMENGoogleChartsBundle.git,This Bundle provides a Twig extension and PHP objects to display Google charts in your Symfony application.,"php,symfony,symfony-bundle,google-charts,twig-extension,bundle",68
+939,https://github.com/raynebc/editor-on-fire.git,A chart editor for various rhythm games,,68
+940,https://github.com/luweibin3118/PieChartView.git,Android实现Pie Chart（饼状图），可设置为环形图,,68
+941,https://github.com/wupeiwen/vue-g2.git,基于 Vue 和 AntV/G2 的可视化组件库 :chart_with_upwards_trend:,"vue,antv,visualization,data-visualization,vue-component,chart",68
+942,https://github.com/jcheng5/googleCharts.git,Google Charts bindings for the Shiny web framework for R,,67
+943,https://github.com/connectedcars/react-native-slide-charts.git,React Native slide charts uses d3 and react-native-gesture-handler to create interactive charts.,,67
+944,https://github.com/Flash3001/iOSCharts.Xamarin.git,"A Xamarin port by Lucas Teixeira for Charts (ios-charts) by Daniel Cohen Gindi, inspired by Philipp Jahoda",,67
+945,https://github.com/Ken-Yang/AndroidPieChart.git,generate a pie chart in Android app.,,67
+946,https://github.com/trulia/webpagetest-charts-api.git,An api of endpoints to build charts from WebPagetest results,,67
+947,https://github.com/C0nd4/OSCP-Priv-Esc.git,Mind maps / flow charts to help with privilege escalation on the OSCP. ,,67
+948,https://github.com/LayTec-AG/Plotly.Blazor.git,This library packages the well-known charting library plotly.js into a razor component that can be used in a Blazor project.,"blazor,plotly,charting-library,data-visualization,webgl,charts,visualization,dotnet,aspnet,aspnetcore,blazor-webassembly,razor,chart,plot,visual-studio,blazor-application,csharp,webassembly,dotnet-core,microsoft",67
+949,https://github.com/rimusz/charts.git,Helm Charts for Kubernetes,"helm-charts,helm,kubernetes-deployment,kubernetes,charts",66
+950,https://github.com/vue-bulma/chartjs.git,Chartjs component is based on chart.js for Vue Bulma,,66
+951,https://github.com/bergusman/tradingview-udf-binance-node.git,Sample implementation of TradingView Charting Library UDF-compatible data source for Binance exchange,"candlestick-chart,tradingview,exchange,binance,crypto,api,nodejs,express,server,ohlcv,tradingview-charting-library,charting-library,binance-exchange",66
+952,https://github.com/amranidev/laracombee.git,:bar_chart: A Recombee integration for Laravel,"recommendation-system,recommendation-engine,laravel,php,recombee",66
+953,https://github.com/narunlifescience/AlphaPlot.git,:chart_with_upwards_trend: Application for statistical analysis and data visualization which can generate different types of publication quality 2D and 3D plots with extensive visual customization.,"alpha-plot,plotting,scidavis,qcustomplot,qtchart,scientific-visualization,scientific-research,data-visualization,data-analysis,graphpad,sigmaplot,origin,qtiplot,scientific-plotting,graph,graph2d,graph3d,peak-fitting,multipeak-fitting",66
+954,https://github.com/ti-dev/Scrum-it.git,"Scrum-it is digital Scrum Board based on multi-touch and modern web technologies. It supports your Scrum Team with a board which can manage projects, team members, sprints, userstories, tasks and the burn down chart. It is written in HTML5 / CSS3, jQuery and jQuery Mobile and the backend system with Java EE, Tomcat, MySQL, Hibernate, Envers.  The virtual Scrum Board can be used on every modern web browser and also on mobile devices like Apple iPad. ** Not supported anymore **",,66
+955,https://github.com/wxIshiko/wxCharts.git,A library to create charts in wxWidgets applications,"wxwidgets,c-plus-plus,charts,wxcharts",65
+956,https://github.com/MangoTheCat/radarchart.git,Implementation of the radar chart from chart.js library,,65
+957,https://github.com/altair-viz/altair_saver.git,Altair extension for saving charts in a variety of formats.,,65
+958,https://github.com/maxday/MDRotatingPieChart.git,An iOS library to draw beautiful pie charts ,,65
+959,https://github.com/edgarordonez/d3-stencil.git,"Charts built with D3 and Stencil. Framework-agnostic, simple.","d3-stencil,d3,typescript-library,stencil,hacktoberfest",65
+960,https://github.com/fusioncharts/vue-fusioncharts.git,Vue Component for FusionCharts JavaScript Charting Library,"vue,vue-fusioncharts-component,vue-fusioncharts,fusioncharts,javascript-charts,interactive-charts,charts,visualization,data-visualization,dataviz,fusionmaps,fusionwidgets,powercharts,js-charts,dashboards,data-stories",65
+961,https://github.com/gyetvan-andras/Chart.js-ObjC-Wrapper.git,An Objective-C wrapper around Chart.js. ,,65
+962,https://github.com/dollarshaveclub/metahelm.git,Install dependency graphs of Kubernetes Helm Charts,"kubernetes,helm,helm-charts,graph-algorithms,dag,dependency-graph,dependencies",65
+963,https://github.com/annalizhaz/ChartsForSwiftBasic.git,This is guide to getting started using the Charts library in Swift. Charts is charting framework for iOS based off of a popular charting library for Android MPAndroidCharts,,65
+964,https://github.com/opskumu/helm-wrapper.git,"A Helm3 HTTP Server Wrapper by helm Go SDK, help you manage helm charts with HTTP RESTFul API","helm,kubernetes,helm3,helm-wrapper,client-go-helm",65
+965,https://github.com/Vinctor/VCharts.git,"android 图表,charts,include line,ring,bar,radar,diagram etc","chart,line,bar,ring,radar,diagram,charts,progress,android",65
+966,https://github.com/nodeshift/helm.git,Sample Helm Chart templates for packaging your Node.js application for deployment to Kubernetes,,65
+967,https://github.com/zhiiiyang/tidytuesday.git,:bar_chart: :paintbrush: Data visualization collection,"dataviz,datavisualization,rstats,tidytuesday",65
+968,https://github.com/Tantalum73/Audiograph.git,Audio-Feedback on Charts for visually impaired Users,"ios,accessibility,chart",65
+969,https://github.com/chmini-app/CHCharts-wechat.git,📈A charts component for WeChat mini-app development(一款用于微信小程序开发中的图表组件，使用者可以快速添加并集成到微信小程序开发中).,"miniapp,wechat-mini-program,charts,js,html5,wechat-app,wechat-framework,frontend",65
+970,https://github.com/watson/chart-stream.git,Chart time series data from either STDIN or programmatically from any Node.js app in real time directly in your browser,,65
+971,https://github.com/VictoriaMetrics/helm-charts.git,Helm charts for VictoriaMetrics,,64
+972,https://github.com/gillius/jfxutils.git,JavaFX Utilities - Zoom and Pan Charts and Pane Scaling,,64
+973,https://github.com/rsamec/react-pathjs-chart.git,"Charts (Pie,SmoothLine,Bar,Tree,Radar,ScatterPlot) using path-js",,64
+974,https://github.com/evonove/qnite.git,A Qt/QML charting library,,64
+975,https://github.com/ad-si/vectual.git, Open source charting library written in Elm,"chart,visualization,graph,pie-chart,tag-cloud,charting,bar-chart,line-chart,elm,elm-lang",64
+976,https://github.com/mtmacdonald/peek.git,A chart library based on D3.js,,64
+977,https://github.com/adiralashiva8/robotframework-historic.git,"{""Robotframework-historic is a free, custom html report which provides historical robotframework execution results by storing execution results info in MySQL database and generate's html reports (charts / statistics) from database using Flask.""}","robotframework,report,listener,historical-data,mysql,flask-application",64
+978,https://github.com/JimmyStudio/JLChart.git,"A simple Chart for iOS.包括走势图/饼图的一个绘图框架,美观实用.",chart,64
+979,https://github.com/sdlddr/GooFlow.git,"This is an online process designer component used to build flowcharts on the WEB side. Various flow charts, logic flow diagrams, data flow diagrams, or functional implementations of processes that need to go through the process can be designed. The excellent user experience makes the interface easy to use, no matter the driver or the user can easily use. And compatible with mainstream browsers (ie9--ie edge, chrome, firefox).","flowdesign,webflow,flowchart,process-design,process,workflow,gooflow,flowgraph,flowdiagram,javascript,vue,react",64
+980,https://github.com/yurukov/dc.leaflet.js.git,DC charts using Leaflet maps,,63
+981,https://github.com/amardaxini/rchart.git,rchart is ruby port of the slick pChart charting library ,,63
+982,https://github.com/hrbrmstr/taucharts.git,:bar_chart: An R htmlwidget interface to the TauCharts javascript library,"r,rstats,htmlwidgets,htmlwidget,charting-library,interactive-visualizations,taucharts-javascript-library,taucharts",63
+983,https://github.com/vlandham/bubble_chart_v4.git,d3v4 implementation of bubble charts. ,,62
+984,https://github.com/aloneszjl/react-native-f2chart.git,F2 charts for react-native,"react-native,chart,react-native-chart,react-native-f2",62
+985,https://github.com/martinobordin/Chart.Mvc.git,A .NET library to generate Html charts,"javascript,chart,c-sharp,charting-library,nuget",62
+986,https://github.com/apache/pulsar-helm-chart.git,Official Apache Pulsar Helm Chart,"pulsar,pubsub,messaging,streaming,queuing,event-streaming,kubernetes,helm,helm-chart",62
+987,https://github.com/ridvank/RKPieChart.git,Pie Chart written in Swift 3,"piechart,pie,table,swift3,chart,round",62
+988,https://github.com/weekdone/GoogleChartStyles.git,"Better default Google Chart styles, just copy to your project",,62
+989,https://github.com/happyflyingfish/mcnp.git,:bar_chart:复杂网络建模课程设计. The project of modeling of complex networks course.,"complex-networks,graph,simulation,hit,project,model,coreness,clustering-coefficient,attention-attack",62
+990,https://github.com/falcosecurity/charts.git,Community managed Helm charts for running Falco with Kubernetes,,61
+991,https://github.com/ohdarling/COVID-19-Charts.git,Trending and map charts for COVID-19,"covid-19,charts,visualization,coronavirus,echarts",61
+992,https://github.com/vimalavinisha/angular2-google-chart.git,Angular 2 google chart,,61
+993,https://github.com/mtcliatt/Flarts.git,Flutter Charts,"flutter,flutter-package,charting-library,dart,dart-package",61
+994,https://github.com/BestKora/ChartsView-SwiftUI.git,Charts in SwiftUI for Telegram contest,,61
+995,https://github.com/civiccc/react-simple-pie-chart.git,Simple pie chart React component,,61
+996,https://github.com/FormidableLabs/victory-pie.git,D3 pie & donut chart component for React,"react,d3,charts,data-visualization",61
+997,https://github.com/aldoborrero/k8s-usenet.git,k8s-usenet is a collection of Helm charts related to Usenet services.,"kubernetes,helm-charts,helm,usenet",61
+998,https://github.com/saleiva/sketch-charts.git,Easy and Fast fake charts for when working on Sketch.,,61
+999,https://github.com/rollacaster/hiccup-d3.git,D3-Charts written in Clojure,"hiccup,d3js,visualizations,charts",61
+1000,https://github.com/certsimple/rosetta-stone.git,"A comparison and conversion chart for command lines of modern operating systems, including Unix, Linux and Windows",,61
+1001,https://github.com/analyticalmonk/Rperform.git,:bar_chart: R package for tracking performance metrics across git versions and branches.,"r,performance-visualization,performance-testing,performance-analysis,performance-metrics,travis-ci,rstats,hacktoberfest",61
+1002,https://github.com/jondavidjohn/bubblechart.git,:chart_with_upwards_trend: BubbleChart is a JavaScript module for comparative visualization of two dimensional data.,,61
+1003,https://github.com/delabj/ggCyberPunk.git,"A ""Geom"" for creating charts with a cyberpunk aesthetic","ggplot,ggplot2,themes,cyberpunk",61
+1004,https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts.git,SVG Charts for Blazor and WebAssembly,"blazor,svg,charts,webassembly",60
+1005,https://github.com/amih/Candlestick.js.git,candlestick chart on canvas,,60
+1006,https://github.com/btbytes/pyofc2.git,Python Open Flash Chart Library,,60
+1007,https://github.com/nagix/chartjs-plugin-rough.git,"Chart.js plugin to create charts with a hand-drawn, sketchy, appearance","chartjs,plugin,roughjs,hand-drawn,sketch",60
+1008,https://github.com/sch3m4/wforensic.git,User-friendly DJango project to data interpretation and chart of messages activity from WhatsApp records.,,60
+1009,https://github.com/codebox/star-charts.git,Generate SVG star charts using Python,"astronomy,python,starchart,svg",59
+1010,https://github.com/getredash/contrib-helm-chart.git,Community maintained Redash Helm Chart,,59
+1011,https://github.com/fusioncharts/fusioncharts-jquery-plugin.git,jQuery plugin for FusionCharts JavaScript Charting Library,,59
+1012,https://github.com/genexu/react-native-pie-chart.git,Simple pie chart module for your React Native app,"react-native,pie-chart,pie,doughnut",59
+1013,https://github.com/andrewjstone/cli-chart.git,Ansi Color Bar Charts,,59
+1014,https://github.com/bright-sea/webpivottable.git,Pure Javascript Pivot table and Pivot Chart Component,,59
+1015,https://github.com/guo-yu/charts.git,a chart generator service for easy embed collections of charts in emails,,59
+1016,https://github.com/sheshbabu/react-frappe-charts.git,Lightweight React Charts ,"reactjs,react-component,react-charts,frappe-charts,charting-library,chart-library,storybook",58
+1017,https://github.com/Blinkity/metagame.git,Compute metagame bounds from matchup charts.,,58
+1018,https://github.com/houjiazong/react-chartjs2.git,React component for Chart.js,,58
+1019,https://github.com/drewbo/chartpipe.git,pipe data into charts,,58

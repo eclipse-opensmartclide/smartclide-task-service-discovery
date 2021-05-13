@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/Scifabric/pybossa.git,"{""PYBOSSA is the ultimate crowdsourcing framework (aka microtasking) to analyze or enrich data that can't be processed by machines alone.""}","crowdsourcing,pybossa,python,citizenscience,citizen,science,microtasking,opensource,knowledge,research,crowd",674
+1,https://github.com/nytlabs/hive.git,"A platform for backing crowdsourcing websites, built in golang for elasticsearch",,354
+2,https://github.com/ninuxorg/nodeshot.git,Django based tools to create crowdsourcing web apps.,,321
+3,https://github.com/crowdresearch/daemo.git,The Daemo crowdsourcing platform,"python,postgres,angular,material-design,crowdsourcing",146
+4,https://github.com/seanbell/opensurfaces.git,"{""Crowdsourcing pipeline and website for OpenSurfaces [SIG '13] and Intrinsic Images in the Wild [SIG '14]""}",,139
+5,https://github.com/benwbrum/fromthepage.git,FromThePage is a wiki-like application for crowdsourcing transcription of handwritten documents.,,133
+6,https://github.com/LibraryOfCongress/concordia.git,Crowdsourcing platform for full text transcription and tagging. https://crowd.loc.gov,"transcription,volunteers,loc,crowdsourcing,django",116
+7,https://github.com/wq/wq.db.git,"{""☁🌐 wq's db library, extending Django REST framework to support apps for geospatial field data collection, citizen science, and crowdsourcing. ""}","django,rest-api,data-collection,wq-framework,citizen-science,django-rest-framework",103
+8,https://github.com/Cosecha/redadalertas.git,A web app for crowdsourcing immigration raid data.,"react,redux,redux-saga,semantic-ui,immigration,social-justice,gplv3",95
+9,https://github.com/kort/kort.git,"Kort is a cross-platform, crowdsourcing app aimed to improve OpenStreetMap using the concept of gamification (2012-2016).",,88
+10,https://github.com/qq547276542/LabelMarker.git,A small tools for marking training set label in machine learning task.(crowdsourcing),"crowdsourcing,django,marking,machine-learning,tool",83
+11,https://github.com/propublica/transcribable.git,Drop in crowdsourcing for your Rails app. Extracted from Free the Files.,,83
+12,https://github.com/microsoft/P.808.git,"This is an open-source implementation of the ITU P.808 standard for ""Subjective evaluation of speech quality with a crowdsourcing approach"" (see https://www.itu.int/rec/T-REC-P.808/en). It uses Amazon Mechanical Turk as the crowdsourcing platform. It includes implementations for Absolute Category Rating (ACR), Degradation Category Rating (DCR), and Comparison Category Rating (CCR). ",,79
+13,https://github.com/facebookresearch/Mephisto.git,A suite of tools for managing crowdsourcing tasks from the inception through to data packaging for research use,,75
+14,https://github.com/marchowardbegins/AlgoHive.git,Crowdsourcing cryptocurrency prediction algorithms.,,74
+15,https://github.com/borismus/CrowdForge.git,Django framework for crowdsourcing complex tasks using MTurk,,60
+16,https://github.com/medtagger/MedTagger.git,A collaborative framework for annotating medical datasets using crowdsourcing.,"labeling,medical-imaging,crowdsourcing,deep-learning,data-validation,data-science",60
+17,https://github.com/CrowdTruth/CrowdTruth.git,"Version 1.0 of the CrowdTruth Framework for crowdsourcing ground truth data, for training and evaluation of cognitive computing systems. Check out also version 2.0 at https://github.com/CrowdTruth/CrowdTruth-core. Data collected with CrowdTruth methodology: http://data.crowdtruth.org/. Our papers: http://crowdtruth.org/papers/","crowdtruth-framework,crowdtruth-work-ow,quality,microtasks,javascript,evaluation",59
+18,https://github.com/JakobRogstadius/CrisisTracker.git,CrisisTracker is an open-source web platform that extracts situation awareness reports from public tweets during humanitarian disasters. It combines automated processing with crowdsourcing to quickly detect new events and bring structure to millions of  updates in real-time.,,58
+19,https://github.com/ipeirotis/Get-Another-Label.git,Quality control code for estimating the quality of the workers in crowdsourcing environments,,57
+20,https://github.com/markaspot/mark-a-spot.git,Public Civic Issue Tracking and Crowdsourcing / Mapping Platform based on Drupal 8. Open311 Server and Client Software,,47
+21,https://github.com/appirio-tech/connect-app.git,Build your next project on Connect with the power of crowdsourcing,,42
+22,https://github.com/CrowdTruth/CrowdTruth-core.git,CrowdTruth framework for crowdsourcing ground truth for training & evaluation of AI systems,"crowdsourcing,inter-annotator-agreement,human-computer-interaction,annotations,annotation-processing,ambiguity,ambiguity-resolver,natural-language-processing,python,data-science,nlp,artificial-intelligence,ai",37
+23,https://github.com/suchow/awesome-crowds.git,"A curated list of awesome resources on crowdsourcing, human computation, and online behavioral experiments.","crowdsourcing,experiments,games,prediction-markets,crowdfunding,citizen-science",35
+24,https://github.com/cs-education/classTranscribe.git,"ClassTranscribe provides accessible, searchable lecture videos with captions using automated Speech-to-text and crowdsourcing techniques. This repository represents a 2018 version. The 2019 brand new version of the code is at https://github.com/classtranscribe",,32
+25,https://github.com/dividiti/crowdsource-video-experiments-on-android.git,Crowdsourcing video experiments (such as collaborative benchmarking and optimization of DNN algorithms) using Collective Knowledge Framework across diverse Android devices provided by volunteers. Results are continuously aggregated in the open repository:,"dnn,dnn-benchmarking,dnn-tuning,dnn-optimization,collaborative-dnn-optimization,collaborative-optimization,collective-knowledge,crowd-benchmarking,crowd-tuning,openmp,opencl,cuda,android-app,android-device,mobile-devices,iot,machine-learning,data-mining,open-research,reproducible-experiments",31
+26,https://github.com/LibCrowds/libcrowds.git,The frontend for the LibCrowds crowdsourcing platform,"vuejs,crowdsourcing,microtasks,pybossa,british-library",30
+27,https://github.com/ctuning/ck-crowdtuning-platforms.git,"Meta information about platforms participating in experiment crowdsourcing using Collective Knowledge Framework (OS,CPU,GPU,GPGPU,NN...):","json-api,json-metadata,experiment-crowdsourcing,collective-knowledge,platforms-properties,crowdsourcing,reproducible-experimentation,reproducible-research,collaborative-research,open-research",30
+28,https://github.com/radumas/bikeways4everybody.git,Crowdsourcing bike routes in Boston. Making pretty maps from it.,"carto,bikeways,crowdsourcing,crowdmap,leaflet-draw,postgis",29
+29,https://github.com/ctuning/ck-crowdnode.git,"Standalone, thin and portable server to let users participate in experiment crowdsourcing using Windows devices via Collective Knowledge Framework:","collaborative-optimization,collective-knowledge,workload-automation,windows,server,crowdsourcing-experiments,json-api,adb-like-server",29
+30,https://github.com/wnyc/django-crowdsourcing.git,"Django-crowdsourcing is an MIT-licensed survey and report tool for journalists, supporting many types of survey questions and a wide variety of reporting options. A reusable Django application, it is designed to be installed easily in any Django site, including multi-site installations. Its surveys are entirely configured within the admin interface that ships with Django. While the primary focus of development is support for crowdsourcing projects, the survey tool is general purpose and can be used for a variety of applications. It is easy enough to handle simple polls with pie charts, yet powerful enough to handle complicated surveys with rich multimedia responses plotted on a map with custom icons.",,26
+31,https://github.com/CancerDataScience/CrowdsourcingDataset-Amgadetal2019.git,"Use this to download all elements of the dataset described in: Amgad M, Elfandy H, ..., Gutman DA, Cooper LAD. Structured crowdsourcing enables convolutional segmentation of histology images. Bioinformatics. 2019. doi: 10.1093/bioinformatics/btz083",,26
+32,https://github.com/squidsoup/django-crowdsourcing.git,"Django-crowdsourcing is a highly configurable survey and report tool for journalists, with a feature set that supports a wide range of useful crowdsourcing projects.",,25
+33,https://github.com/open-city/recycling.git,Crowdsourcing data about which residential buildings do not have recycling in Chicago,,24
+34,https://github.com/dssg/ushine-learning.git,An API that uses machine learning to help the Ushahidi nonprofit do smarter crisis crowdsourcing.,,24
+35,https://github.com/ctuning/crowdsource-experiments-using-android-devices.git,Android application to participate in experiment crowdsourcing (such as workload crowd-benchmarking and crowd-tuning) using Collective Knowledge Framework and open repositories of knowledge: ,"crowdsource-experiments,open-research,collaborative-research,reproducible-research,mobile-devices,android-application,collaborative-benchmarking,performance-benchmarking,performance-tuning,automation,crowd-tuning,knowledge-sharing",24
+36,https://github.com/Ajapaik/ajapaik-web.git,"Crowdsourcing of data for historic imagery (geotagging, face tagging, rephotography)",,23
+37,https://github.com/workmachine/crowd-sh.git,MapReduce for Crowdsourcing Workflow on Mechanical Turk Using Airtable,,23
+38,https://github.com/sdfb/sdfb.git,A crowdsourcing website reassembling the social network of early modern Britain,,23
+39,https://github.com/kluther/Pipeline.git,"Free, open-source software for crowdsourcing creative projects",,22
+40,https://github.com/rekrei/rekrei.git,Platform for crowdsourcing the digital recreation of lost heritage,"heritage,photogrammetry",21
+41,https://github.com/LibCrowds/libcrowds-viewer.git,A Vue component for crowdsourcing Web Annotations.,"vuejs,iiif,crowdsourcing",21
+42,https://github.com/RefugeRestrooms/refugerestrooms-ios.git,"[DECOMMISSIONED] iOS app for Refuge Restrooms, crowdsourcing safe restrooms for the trans community","refuge,safe-restrooms,refuge-restrooms,lgbt,trans,transgender,ios-app,objective-c",20
+43,https://github.com/carteiro/ceps.git,Crowdsourcing Database para Códigos Postais Brasileiros,"brazil,cep,correios,zipcode,json",19
+44,https://github.com/wboykinm/hoodsproj.git,Crowdsourcing Neighborhood Boundaries,,17
+45,https://github.com/hack4impact-upenn/Kiva.git,Kiva Crowdsourcing Project,,17
+46,https://github.com/Rhapsod/software-crowdsourcing-papers.git,A list of publications on the use of crowdsourcing in software engineering,,17
+47,https://github.com/nextgis/nextgiscrowd.git,Web-based crowdsourcing tool to collect and edit spatial data,,17
+48,https://github.com/ipeirotis/Troia-Server.git,Quality Control API for Crowdsourcing Applications,,16
+49,https://github.com/nathanathan/Language.git,A crowdsourcing approach to natural language programming,,16
+50,https://github.com/simonw/cryptozoology.git,Crowdsourcing a directory of cryptids and their range maps.,"cryptozoology,cryptids",16
+51,https://github.com/GaryJones/genesis-child-theme-index.git,Crowdsourcing an index of all available Genesis child themes.,,16
+52,https://github.com/everypolitician/gender-balance.git,Crowdsourcing platform for gathering gender information about politicians to improve the data in EveryPolitician,,16
+53,https://github.com/beeldengeluid/waisda.git,Crowdsourcing video annotation software,,15
+54,https://github.com/OfficeDev/microsoft-teams-apps-crowdsourcer.git,QnA bot that works on the concept of crowdsourcing information in teams,,15
+55,https://github.com/openknowledgebe/W4P.git,W4P is an easy-to-configure crowdsourcing platform,,15
+56,https://github.com/rodrigoberriel/streetview-crosswalk-classification.git,Automatic Large-Scale Data Acquisition via Crowdsourcing for Crosswalk Classification: A Deep Learning Approach,"deep-learning,streetview,crosswalk",14
+57,https://github.com/okfn/yourtopia.git,Web app for crowdsourcing preferences about index weighting such as the Human Development Index. Powers the YourTopia site - Global Development beyond GDP.,,14
+58,https://github.com/TraceyLauriault/COMS2200A.git,COMS2200A Big Data Society - Crowdsourcing,,14
+59,https://github.com/PRImA-Research-Lab/prima-gwt-lib.git,Library with user interface elements and client-server communication classes based on Google Web Toolkit (GWT) that can be used for crowdsourcing applications.,,14
+60,https://github.com/mitmedialab/ajl.ai.git,A web application for crowdsourcing image annotations.,,13
+61,https://github.com/nouvelingenieur/Refresh.git,"{""Plateforme de crowdsourcing pour l'enseignement supérieur""}",,13
+62,https://github.com/laroyo/watsonc.git,Watson-Crowdsourcing,,13
+63,https://github.com/Toloka/crowd-kit.git,Python libraries for crowdsourcing,"data-science,data-mining,yandex,python3,crowd,toloka,toloka-crowdsourcing,labeling,annotation,aggregations",13
+64,https://github.com/nypl-spacetime/brick-by-brick.git,Simple JSON API for small crowdsourcing apps,,13
+65,https://github.com/bmcbride/request-assistance.git,"A simple, responsive web application for crowdsourcing requests for assistance.",,12
+66,https://github.com/esa/jupiter_tour.git,A javascript crowdsourcing experiment to prove you can fly a spacecraft through planetary systems,,12
+67,https://github.com/sparkica/crowdsourcing.git,An extension for OpenRefine for creating jobs and uploading data to CrowdFlower crowdsourcing service ,,12
+68,https://github.com/scify/Crowdsourcing-Platform.git,Laravel web application for Crowdsourcing projects and Questionnaires,"laravel,laravel-framework,web,webpack,web-application,web-app,laravel-mix,laravel-application,javascript,bootstrap4,bootstrap-4,adminlte3,adminlte-template,adminlte,bootstrap,laravel7,laravel7-bootstrap4,laravel7x",11
+69,https://github.com/radhikasethi2011/awesome-business-ideas.git,Crowdsourcing the ideas for trends and verbs to create unique business ideas,,11
+70,https://github.com/ColumbusCollaboratory/MITRE_NIST.git,"A Crowdsourcing Exchange for mapping various sources of security vulnerabilities, exposures, threats, and controls data",,11
+71,https://github.com/namwkim/bubbleview.git,BubbleView: an interface for crowdsourcing image importance maps and tracking visual attention,,11
+72,https://github.com/gvanhorn38/crowdsourcing.git,Crowdsourcing tools to construct datasets.,,10
+73,https://github.com/barrelo89/IEEE-Internet-of-Things-Journal.git,"Small Profits and Quick Returns: An Incentive Mechanism Design for Crowdsourcing under Continuous Platform Competition,","mechanism-design,auction,munkres",10
+74,https://github.com/ui-libraries/DIYHistory-transcribe.git,A crowdsourcing manuscript transcription platform built with Omeka,,10
+75,https://github.com/ethanp/crowdsourcing.git,machine learning algorithms to reduce crowdsourcing costs,,10
+76,https://github.com/SDESC/SpatialCrowdsourcing.git,paper list of spatial crowdsourcing,,9
+77,https://github.com/FlorianPusse/Lingoturk.git,Creating crowdsourcing based experiments made easy,,9
+78,https://github.com/tmacwill/crowdcl.git,A framework for crowdsourcing GPU-based computational problems.,,9
+79,https://github.com/themoonsheep/moonsheep.git,"Moonsheep digitizes huge, messy paper and PDF archives through crowdsourcing and cutting edge technology.",,9
+80,https://github.com/UKPLab/emnlp2017-cmapsum-corpus.git,"Accompanying code for our EMNLP 2017 publication ""Bringing Structure into Summaries: Crowdsourcing a Benchmark Corpus of Concept Maps""",,9
+81,https://github.com/salsowelim/tawseem.git,NLP crowdsourcing platform for word-level annotations,"nlp,word-segmentation,crowdsourcing,golang,postagging,annotation-tool",9
+82,https://github.com/brianckeegan/INFO-3501-5501.git,"Syllabus for ""Peer Production and Crowdsourcing"" course.",,9
+83,https://github.com/hamstar/legislat0r.git,An open source system for crowdsourcing creation and analysis of legislature,,9
+84,https://github.com/publiclab/mapmill.git,A Hot-or-Not styled crowdsourcing engine for sorting raw map imagery,,8
+85,https://github.com/mozilla/m-response.git,Crowdsourcing Mozilla responses to Google Play Store reviews,,8
+86,https://github.com/crowdresearch/daemo-api-client.git,Python API Client for Daemo Crowdsourcing Platform,"python,websockets,client-sdk",8
+87,https://github.com/julianmichael/qasrl.git,Tools for working with QA-SRL data and annotating it with crowdsourcing.,,8
+88,https://github.com/spring-epfl/MCSAuditing.git,Evaluation code for mobile crowdsourcing privacy (paper: On (The Lack Of) Location Privacy in Crowdsourcing Applications -- USENIX Security 2019),,8
+89,https://github.com/alex-konovalov/gnu.git,Crowdsourcing project for the database of numbers of isomorphism types of finite groups,,8
+90,https://github.com/stripstarter/stripstarter.git,Social Crowdsourcing,,8
+91,https://github.com/lenaschimmel/aufschreiStat.git,"Spezielle Software, um eine statistische Auswertung der #aufschrei-Tweets per Crowdsourcing zu ermöglichen.",,8
+92,https://github.com/awatson1978/payment-crowdsourcing.git,Meteor package to drop in a crowdsourcing payment page using Stripe.,,8
+93,https://github.com/moreeyesplz/meep_scanner.git,Integrate this action into your repository to start crowdsourcing feedback for your commits!,"moreeyesplz,github-actions",8
+94,https://github.com/Ev4ngelos/Atmos-iOS.git,Atmos iOS is an open source project for crowdsourcing user and sensor generated data about the weather on iOS devices.,"mobile-app,ios-swift,crowdsourcing,weather-data",8
+95,https://github.com/danlassiter/Submiterator.git,"{""Python script to streamline the process of posting external HITs to Amazon's Mechanical Turk crowdsourcing website.""}",,7
+96,https://github.com/orchidproject/active-crowd-toolkit.git,ActiveCrowdToolkit: Benchmarking tools for crowdsourcing research,,7
+97,https://github.com/Lewis-Ho/Subwayz.git,A crowdsourcing web application to retrieve subway status and further prediction,,7
+98,https://github.com/refugeetech/platform.git,"The platform connects tech projects, public and private initiatives, problems, crowdsourcing of   problems and crowdsourcing of ideas to solve problems, resources (cash, products & services, etc)   and their respective sponsors, volunteers.",,7
+99,https://github.com/TsinghuaDatabaseGroup/Crowd-topk.git,"crowdsourcing operators, systems, and inference for cost, quality, and latency optimiations",,7
+100,https://github.com/codeforamerica/aedmapper.git,crowdsourcing defibrillator locations,,7
+101,https://github.com/socialnews/app.git,Distributed link aggregator for crowdsourcing the news,,7
+102,https://github.com/charleslipku/TIPRDC.git,TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations,,7
+103,https://github.com/skasberger/crowd-bib.git,php website for crowdsourcing of bibliographic data in various scientific fields.,,7
+104,https://github.com/crowdsourcing-class/crowdsourcing-class.github.io.git,Crowdsourcing and Human Computation (UPenn NETS 213),,6
+105,https://github.com/ubriela/geocrowd-priv-dynamic.git,Dynamic Private Crowdsourcing,,6
+106,https://github.com/CodeandoMexico/centro-de-apertura-de-datos.git,Crowdsourcing the opening of public data,,6
+107,https://github.com/bounswe/culturage-bounswe2017group11.git,"Culturage - Crowdsourcing project for ""Cultural Heritages""","cultural-heritage,bogazici-university,software-engineering",6
+108,https://github.com/jmiramant/staance.git,"Crowdsourcing Political Influence. Built with Eadon Jacobs, Josh Miramant, Lloyd Taylor and Shiv Kumar",,6
+109,https://github.com/CancerDataScience/NuCLS.git,"NuCLS: A scalable crowdsourcing, deep learning approach and dataset for nucleus classification, localization and segmentation",,6
+110,https://github.com/turkeyes/codecharts.git,Crowdsourcing human attention via a self-report codecharts methodology.,,6
+111,https://github.com/uiuc-sst/mcasr.git,Mismatched Crowdsourcing Automatic Speech Recognition,,6
+112,https://github.com/YaleDHLab/ensemble-at-yale.git,Crowdsourcing the transcription of Yale playbills - http://bit.ly/ensemble-at-yale,"web-app,crowdsourcing",6
+113,https://github.com/streetlives/streetlivesnyc.git,[DEPRECATED] A map based crowdsourcing site providing information for and from the homeless population of New York City http://streetlives.nyc,,6
+114,https://github.com/nimoffline/loonarium.git,Crowdsourcing analysis of Youtube MVs with time-annotated videos,,6
+115,https://github.com/volontariat/volontari.at.git,Open source crowdsourcing platform based on Ruby gem voluntary.,,6
+116,https://github.com/BUAA-BDA/SpatialCrowdsourcing-GOMA.git,GOMA is a two-sided online task assignment problem in Spatial Crowdsourcing.,"spatial-crowdsourcing,online-matching,spatial",6
+117,https://github.com/wq/wq.create.git,wq.create: Project scaffolding tools for creating a new crowdsourcing or citizen science application with the wq framework.,"django,django-project-template,wq-framework,offline,cra-template,create-react-app,rollup-plugin,rollup",6
+118,https://github.com/maryamkhidir/freelancer-bl.git,"Freelancer-bl is a crowdsourcing marketplace website, which allows potential employers to post jobs that freelancers can then bid to complete. It was inspired by Freelancer.com. Developed with Laravel and Bootstrap. You can clone and modify it for your next project. A live preview is available at",,6
+119,https://github.com/svc/social-venture-commons.git,Social Venture Commons is an open-source micro-messaging Rails application aimed at accellerating fulfillment of organizational needs by crowdsourcing the efforts.,,6
+120,https://github.com/genomicsengland/panelapp.git,"Genomics England PanelApp - A crowdsourcing tool to allow gene panels to be shared, downloaded, viewed and evaluated by the Scientific Community","python,django",6
+121,https://github.com/ThinerZQ/CrowdSourcingWithWWF.git,a crowdsourcing platform besed on state machine workflow of window workflow fundation(使用微软的状态机工作流实现的众包平台),,6
+122,https://github.com/Classlocus/ClassLocus.git,"This application will simply and quickly show users where their classroom is on campus. Through crowdsourcing, users will help each other out with tips about classrooms and buildings - where to find them and what to expect.",,6
+123,https://github.com/TsinghuaDatabaseGroup/CrowdTI.git,A truth inference tool in crowdsourcing,,5
+124,https://github.com/topcoderinc/va-online-memorial.git,Repo for http://crowdsourcing.topcoder.com/VA-Online-Memorial,"topcoder,veterans",5
+125,https://github.com/MaastrichtU-IDS/crowdED.git,🤖 Guideline for designing optimal crowdsourcing experiments,"crowdsourcing,optimization,python,shiny",5
+126,https://github.com/ruofeidu/USketch.git,USketch: A crowdsourcing tool for SketchyScenes,"usketch,sketch",5
+127,https://github.com/volontariat/voluntary.git,Crowdsourcing management system for Ruby on Rails which powers Volontari.at.,,5
+128,https://github.com/daguar/cheap-beer-price-index.git,Crowdsourcing price/brand data for the cheapest beer option at bars,,5
+129,https://github.com/cbdb-project/crowdsource-webapp.git,Crowdsourcing System for Association Data 社會關係數據眾包系統,"cbdb,cbdb-data,docker-container,crowdsourcing",5
+130,https://github.com/UCI-Libraries/Ming-Titles-Dictionary.git,Crowdsourcing English translations of unusual government office titles from the Chinese Ming dynasty,,5
+131,https://github.com/CrowdCafe/crowdcafe.git,CrowdCafe - Mobile Crowdsourcing Platform ,,5
+132,https://github.com/codeforeurope/TagCheckScore.git,Crowdsourcing application for tagging images,,5
+133,https://github.com/NCBI-Hackathons/Metadata_categorization.git,A crowdsourcing/expert curation platform for metadata categorization.,,5
+134,https://github.com/surfriderfoundationeurope/LabelCV.git,"LabelCV is a service used to build a labeled image dataset via crowdsourcing. Researchers, companies and datascientists can use LabelCV to spinup a website where people can tag an existing image dataset or contribute to this dataset by uploading images.",,5
+135,https://github.com/OriShapira/LitePyramids.git,"Method for evaluating system summaries manually, via crowdsourcing, using a summarization dataset that includes reference summaries.",,5
+136,https://github.com/digitalepidemiologylab/crowdbreaks-paper.git,"Material related to paper ""Crowdbreaks: Tracking Health Trends using Public Social Media Data and Crowdsourcing""",,5
+137,https://github.com/cap-ntu/iTCM-Datasets.git,"These datasets are collected for the GBIC project to conduct research about indoor human thermal comfort. The GBIC research project proposes to develop online thermal comfort models via a deep-learning approach and apply them to behavioral studies to drive “greener, smarter and healthier buildings” in the tropics (e.g., Singapore). Leveraging privacy-preserving data analytics over information acquired from smartphone crowdsourcing and in-situ wearables measurements, the project plans to develop and validate an integrative, economical and scalable thermal comfort management system.","thermal-comfort,hvac,pmv",5
+138,https://github.com/AI-Collaboratory/Scribe.git,A crowdsourcing platform for transcribing scanned documents.,"crowdsourcing,ruby-on-rails,archive,transcribe,mongodb",4
+139,https://github.com/Tibia-WindBot/WindBot-Docs.git,Public repository to help with crowdsourcing the WindBot documentation.,,4
+140,https://github.com/iisharvard/platemate.git,PlateMate: crowdsourcing nutritional analyses from food photographs,,4
+141,https://github.com/whathood/whathood.git,WhatHood is a neighborhood border crowdsourcing web application,,4
+142,https://github.com/XLab-Tongji/crowdsourcing-front.git,the frontend for the crowdsourcing web project,,4
+143,https://github.com/sparkica/CrowdFlowerClient.git,A simple client for Crowdflower crowdsourcing service,,4
+144,https://github.com/akhahaha/burn-android.git,Comeback crowdsourcing app,,4
+145,https://github.com/engageis/crowdsourcing-conference.git,Website of Crowdsourcing Conference 2012,,4
+146,https://github.com/sdfb/sdfb_spring2014IS.git,"This repository contains code to visualize a social network with a simple spreadsheet database, an early version of our crowdsourcing website reassembling the social network of early modern Britain.",,4
+147,https://github.com/97amarnathk/FRG-Crowdsourcing.git,"A crowdsourcing platform built with PyBossa and Flask as a part of Eklavya Summer Internship, IIT Bombay",,4
+148,https://github.com/PanosChristopoulos/Jekiri.git,Crowdsourcing Application using Google Location Data,,4
+149,https://github.com/harryio/TaskHive.git,Open and distributed p2p crowdsourcing internet marketplace,,4
+150,https://github.com/danmcquillan/sccs.git,"social media, crowdsourcing & citizen sensing (IS52035A, IS53038A)",,4
+151,https://github.com/sig-gis/mapcha.git,"{""SIG's Image Analysis Crowdsourcing Platform""}",,4
+152,https://github.com/tcha-tcho/free_kunigo.git,"{""a opensource crowdsourcing tool. 'Kunigo' means 'Aliance' in Esperanto.""}",,4
+153,https://github.com/sdmunozsierra/DrivingSensorData.git,"{""Android Application for Crowdsourcing Road Topology using Smartphone's Sensors""}","sensors,android,research-project,big-data,crowdsourcing",4
+154,https://github.com/aekpalakorn/crowdsourced-label-aggregator.git,Estimating true labels from multiple workers in crowdsourcing tasks,,4
+155,https://github.com/SionHu/Fairvision.git,Use crowdsourcing to detect bias in visual datasets,,4
+156,https://github.com/KevinRoitero/crowdsourcingTruthfulness.git,"repository for the papers: ""Crowdsourcing Truthfulness: The Impact of Judgment Scale and Assessor Bias"" and ""Can The Crowd Identify Misinformation Objectively? The Effects of Judgment Scale and Assessor\'s Background""",,4
+157,https://github.com/adradr/Consensys-Bootcamp-Final-Project-researchDAO.git,researchDAO is a platform for crowdsourcing and coordinating research of all kind,"dao,solidity,ethereum,consensys,consensys-academy,research,researchdao",4
+158,https://github.com/johnjosephhorton/Hagglebot.git,A GAE program for negotiating about payment rates in a paid crowdsourcing setting,,4
+159,https://github.com/regardscitoyens/consultation_an.git,"{""Site du crowdsourcing de la consultation sur l'égalité femme/homme""}",,4
+160,https://github.com/geotagx/geotagx-pybossa-archive.git,Open-source crowdsourcing (microtasking) platform with a focus on volunteer contribution and making it super-easy to create a crowd-sourcing app.,,4
+161,https://github.com/ESA-PhiLab/buried-archaeology.git,Task generating and task run processing scripts as well as task presenter HTMLs for the Buried Archaeology crowdsourcing project hosted on PyBossa.,"buried-structures,archaeological-structures,rescue-archaeology,archaeology,crowdsourcing,esa",4
+162,https://github.com/leodc/repubikla.git,"Tool that with a crowdsourcing strategy seeks to generate and centralize data of non-motorized urban mobility, the aim is to complement official information and offer a diagnosis of the citizen perception of public space.",,4
+163,https://github.com/ahmed-hazem-refaie/django_Crowd-Funding-web-app.git,"Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people, typically via the Internet. Crowdfunding is a form of crowdsourcing and alternative finance. In 2015, over US$34 billion was raised worldwide by crowdfunding. (From Wikipedia) The aim of the project: Create a web platform for starting fundraise projects in Egypt. The web app should include the following features: 1 - Authentication System: - Registration: - First name - Last name - Email - Password - Confirm password - Mobile phone [validated against Egyptian phone numbers] - Profile Picture - Activation Email after registration - Once the user register he should receive an email with the activation link. The user shouldn’t be able to login without activation. The activation link should expire after 24 hours.  - Login - The user should be able to login after activation using his email and password - Bonus: Allow users to login with facebook account - Forgot Password (Bonus) - The user should have an option to reset his password if he forgot it to receive a password reset link to his email  - User Profile, The user can view his profile which: - He can view his profile - He can view his projects - He can view his donations - He can edit all his data except for the email - He can have extra optional info other than the info he added while registration (Birthdate, facebook profile, country) - User can delete his account (Note that there must be a confirmation message before deleting) - Bonus: User must enter his password to delete his account  2 - Projects: - The user can create a project fund raise campaign which contains: - Title - Details - Category (from list of categories added previously by admins) - Multiple pictures - Total target (i.e 250000 EGP) - Multiple Tags - Set start/end time for the campaign - Users can view any project and donate to the total target - Users can add comments on the projects - Bonus: Comments can have replies - Users can report inappropriate projects - Users can report inappropriate comments - Users can rate the projects - Project creator can cancel the project if the donations are less than 25% of the target - Project page should show the overall average rating of the project - Project page should show the project pictures in a slider  - Project page should show 4 other similar projects based on project tags 3 - Homepage should contains the following: - A slider to show the highest five rated running projects to encourage users to donate - List of the latest 5 projects - List of latest 5 featured projects (which are selected by the admin) - A list of the categories. User can open each category to view its projects - Search bar that enables users to search projects by title or tag",,4
+164,https://github.com/kaixiong/bersih-pemantau.git,Bersih Pemantau crowdsourcing site,,3
+165,https://github.com/ubriela/geocrowd.git,A Server-Assigned Spatial Crowdsourcing Framework,,3
+166,https://github.com/ubriela/geocrowd-priv.git,A framework for protecting worker location privacy in spatial crowdsourcing,,3
+167,https://github.com/sdubinsky/fencing-database.git,Website for crowdsourcing a fencing stats database,,3
+168,https://github.com/ubriela/geocrowd-priv-demo.git,Private Spatial Crowdsourcing Demo,,3
+169,https://github.com/wazho/Tree-of-Savior-Chinese-Translation-Voting.git,MMORPG Tree of Savior - Chinese translation crowdsourcing system.,,3
+170,https://github.com/David-Jackson/RoadQuality.git,An Android app to make roads better by crowdsourcing road quality.,,3
+171,https://github.com/justin-cotarla/CaptionThis.git,An online crowdsourcing caption platform.,,3
+172,https://github.com/transifex/transifex-old-core.git,"Translation workflow & crowdsourcing for agile teams. Older, open-source codebase of Transifex.com",,3
+173,https://github.com/cjld/ANNO-server.git,An online crowdsourcing annotation tool for large scale image segmentation.,,3
+174,https://github.com/turkeyes/bubbleview.git,Crowdsourcing human attention using a cursor-based moving-window methodology.,,3
+175,https://github.com/Interque/interque.git,interque is a resource for crowdsourcing technical interview questions,,3
+176,https://github.com/Open-Speech-EkStep/crowdsource-dataplatform.git,This will hold the crowdsourcing platform to be used to store voice data from various speakers which will act as input dataset for speech-to-text pipeline,,3
+177,https://github.com/KevinLu/htn2020.git,Crowdsourcing platform for datasets. Request data from the community and contribute to open source data!,,3
+178,https://github.com/ails-lab/crowdheritage.git,Crowdheritage is an open crowdsourcing platform fot the enrichment of cultural heritage metadata.,,3
+179,https://github.com/sohanvichare/SwiftAssist.git,Crowdsourcing emergency response to save lives when 911 cannot get there fast enough.,,3
+180,https://github.com/chgrl/mapillRy.git,An R interface to Mapillary.com - a service for crowdsourcing street level photos,,3
+181,https://github.com/ishaanjav/BirdWatch.git,A better tracking of endangered bird species using machine learning and crowdsourcing.,"computer-vision,machine-learning,android,android-application,webapp,bird-species,endangered-species,birdwatch,firebase",3
+182,https://github.com/markng/camfin.git,Campaign Finance Crowdsourcing,,3
+183,https://github.com/TarekAwwad/CrowdED.git,Crowdsourcing Evaluation Dataset,,3
+184,https://github.com/karthikb351/notonzomato.in.git,Crowdsourcing street food!,,3
+185,https://github.com/ProjectTwentyFive/task-sourcing.git,Taskr - Crowdsourcing Tasks Made Simple,"crowdsourcing,tasksourcing,php,laravel,sql,postgresql",3
+186,https://github.com/geogeeks-au/maps-for-lost-towns.git,Georeferencing historic maps through crowdsourcing,,3
+187,https://github.com/julianmichael/spacro.git,Single-Page Applications for Crowdsourcing,,3
+188,https://github.com/DAC-2014-Equipe-3/sujet-2.git,Crowdsourcing application for scholar projets,,3
+189,https://github.com/RadicalImaging/crowdquant.git,A stripped down viewer for crowdsourcing measurements ,,3
+190,https://github.com/CollaboRateMgmt/CollaboRate.git,A crowdsourcing process and software tool.,"crowdsourcing,software-engineering,project-management,visual-programming",3
+191,https://github.com/XLab-Tongji/crowdsourcing-mart-api.git,the crowdsourcing mart server api project.,,3
+192,https://github.com/veniversum/crowdify.git,🎧Music from everyone. Crowdsourcing Spotify playlists.,"spotify,playlist",3
+193,https://github.com/WilhelmWillie/auxq.git,A service for crowdsourcing the aux cord ,,3
+194,https://github.com/soulintzis/Google-maps-Location-Takeout-Visualizer.git,Crowdsourcing application using Google Timeline Data,"web-development,javascript,html-css,ejs-express,nodejs",3
+195,https://github.com/BUAA-BDA/SpatialCrowdsourcing-Survey.git,The paper list of our survey on spatial crowdsourcing,"spatial-crowdsourcing,spatial",3
+196,https://github.com/CSBP-CPSE/JARCID.git,Monitoring tool for the Crowdsourcing with OpenStreetMap project,,3
+197,https://github.com/linux-ram/Evaluate-Crowd-Participant.git,Evaluating Crowdsourcing Participants in the Absence of Ground-Truth,,3
+198,https://github.com/xinranxiao/AskMeteor.git,Crowdsourcing answers to questions one. piece. at. a. time.,,3
+199,https://github.com/yooli23/LEGOEval.git,A toolkit for dialogue system evaluation via crowdsourcing,,3
+200,https://github.com/melissayu/DeliveryPlease.git,Android application project for CS160: App for crowdsourcing restaurant delivery,,3
+201,https://github.com/lunaroyster/urgency-sort.git,A system for crowdsourcing urgent requests from keralarescue.in,,3
+202,https://github.com/Kongwtf/crowdball.git,A simple crowdsourcing game built with HTML5 and XMPP,,3
+203,https://github.com/DionWu/crowder.git,Crowdsourcing Marketing Campaigns from everyday individuals with social media,,3
+204,https://github.com/dwh-outsite/artpiece.git,🖼 Crowdsourcing and crowdfunding an LGBT+ art piece in Delft,,3
+205,https://github.com/esalazar/WAMITurk.git,WAMITurk is a combination of different technologies used to enhance speech recognition training through crowdsourcing.,,3
+206,https://github.com/FreeUKGen/FromCursiveToDatabase.git,"An open-source suite of tools for manipulating facsimiles, crowdsourcing transcription and searching transcripts",,3
+207,https://github.com/RoundPegs9/vote-the-internet-chrome-extension.git,Crowdsourcing trust on the internet by voting on the content of ANY website.,"decentralized-applications,nodejs,chrome-extension,javascript,mongodb,hacktoberfest,hacktoberfest2020",3
+208,https://github.com/Ukuli-Data/Ukuli-Tulevaisuus-Site.git,"Crowdsourcing open source website about our possible future scenarios. Data feeds, visualizations and analysis.","crowdsourcing,data-science,social-network,laravel,python,r,react,data-visualization,datascience,social-sciences,social-networks,discussion-forum,open-source,php7,data-mining,content-management",3
+209,https://github.com/thecraftman/Outreachy.git,Project Tracker for Outreachy 2020:  Crowdsourcing Translation for @chaoss Diversity & Inclusion Badging. ,"outreachy,chaoss,project-tracker,outreachy-2020,i18n,translation",3
+210,https://github.com/bcsaldias/yes-no-crowdsourcing.git,A Full Probabilistic Model for Yes/No Type Crowdsourcing in Multi-Class Classification,,3
+211,https://github.com/maribelacosta/crowdsourcing-tutorial.git,Tutorial that introduces the most popular approaches to microtask crowdsourcing for Semantic Web problems.,,3
+212,https://github.com/qiusihang/vcrowd.git,VirtualCrowd: A Web-based Crowdsourcing DEVS (Discrete EVent System) Simulation Platform,,3
+213,https://github.com/uw-hai/guru.git,Reinforcement learning agent that maximizes crowdsourcing quality by teaching and testing,,3
+214,https://github.com/syrnick/portable-task-interface.git,Portable task interface provides a generic task framework for crowdsourcing. The task can be independent of the crowdsourcing platform and allows any platform to run existing tasks in a blast. ,,3
+215,https://github.com/Guppster/HackingCancer.git,:cancer: Game design project utilizing the power of crowdsourcing to improve cancer research. Made for HackWestern in 36 Hours,,3
+216,https://github.com/x-risk/x-risk.git,The Existential Risk Research Assessment (TERRA) application uses crowdsourcing and machine learning to help produce an open-access bibliography of publications about existential risk and global catastrophic risk.,,3
+217,https://github.com/sarbabi/SolveIt.git,"SolveIt is a crowdsourcing game developed in D3.js, which employs wisdom of the crowd to solve NP-hard location allocation problems. The study published in Springer Computing 2019.","crowdsourcing,game-development,d3js",3
+218,https://github.com/RajkumarPadilam/CrowdSourcing_QuestionAnsweringSystem.git,"Its a CrowdSourcing based Question and Answering Android Application that uses Data mining techniques to segregate Users. It has features like Map based Location Service, Notifications to Users, Gallery based Image Taxonomy , etc",,3
+219,https://github.com/SlashRoot/django-crowdsourcing.git,"Django-crowdsourcing is an MIT-licensed survey and report tool for journalists, supporting many types of survey questions and a wide variety of reporting options. A reusable Django application, it is designed to be installed easily in any Django site, including multi-site installations. Its surveys are entirely configured within the admin interface that ships with Django.  While the primary focus of development is support for crowdsourcing projects, the survey tool is general purpose and can be used for a variety of applications. It is easy enough to handle simple polls with pie charts, yet powerful enough to handle complicated surveys with rich multimedia responses plotted on a map with custom icons. ",,3
+220,https://github.com/soulmachine/crowdcrawler.git,Crawling Data with Crowdsourcing,,2
+221,https://github.com/MAPC/massbuilds-legacy.git,Crowdsourcing authoritative info on recent & ongoing developments in Massachusetts.,,2
+222,https://github.com/datea/datea-webapp.git,"Web client for Datea, a crowdsourcing and civic engagement platform.",,2
+223,https://github.com/cestastanford/crowdsourcing.git,Web files for the Crowdsourcing project,,2
+224,https://github.com/mpgallage/Sinhala-WordNet-CSS.git,This is the Sinhala wordnet crowdsourcing system.,,2
+225,https://github.com/occamLab/eye-helper-cv.git,Prototyping computer vision/crowdsourcing features for an assistive technology project ,,2
+226,https://github.com/shivtools/OpenTrckr.git,OpenTrckr - crowdsourcing live data on the Zika Virus to help governments and their citizens.,,2
+227,https://github.com/SkyTruth/pybossa_tools.git,Crowdsourcing tools based on PyBossa,,2
+228,https://github.com/ThinerZQ/CrowdSourcing.git,a crowdsourcing application based on business object oriented workflow engine. the best crowdsourcing platform.(一个基于面向业务对象的众包平台),,2
+229,https://github.com/ubriela/geocrowd-complex.git,Maximum Complex Task Assignment in Spatial Crowdsourcing,,2
+230,https://github.com/nicolas17/kuona.git,Kuona - Crowdsourcing web app for HOT,,2
+231,https://github.com/ernestoho/consamables.git,A social networking application for crowdsourcing food-related delivery orders and group outings.,,2
+232,https://github.com/hkumar1993/Guardian-Angel.git,Crowdsourcing community outreach. Use your phone to reach out to those who need the help,"social-impact,nodejs,graphql,mongodb,react-native,apollo,expo",2
+233,https://github.com/STIPCommonsLab/ccsinventory.git,"Crowdsourcing and citizen science inventory, by Commons Lab",,2
+234,https://github.com/maqqbu/MMSR.git,The code for NeurIPS 2020 paper: Adversarial Crowdsourcing Through Robust Rank-One Matrix Completion.,,2
+235,https://github.com/kev5/dVote.git,Decentralized voting and crowdsourcing application using Ethereum and Node.js :ballot_box_with_check:💲,,2
+236,https://github.com/alternaDev/crazyPI.git,Crowdsourcing Pi,,2
+237,https://github.com/WillForan/metaImage.git,crowdsourcing events,,2
+238,https://github.com/organisciak/crowdy.git,Crowdsourcing platform,,2
+239,https://github.com/rainble/crowd_server.git,crowdsourcing server ,,2
+240,https://github.com/douglas-watson/crowdcalls.git,Crowdsourcing hotlines,,2
+241,https://github.com/qinzhewudao/Youma.git,Youma Crowdsourcing website,,2
+242,https://github.com/salmafg/beehive-server.git,A crowdsourcing annotation platform.,,2
+243,https://github.com/tamarasaurus/latemate.git,crowdsourcing for GTFS data,,2
+244,https://github.com/clarabayarri/crowd.git,Generic crowdsourcing platform,,2
+245,https://github.com/AlgoHive/AlgoHive-Nexus.git,Crowdsourcing cryptocurrency prediction algorithms.,,2
+246,https://github.com/larsmagne/csid.git,Crowdsourcing Is Dead,,2
+247,https://github.com/JustSnow/news_portal.git,crowdsourcing news portal,,2
+248,https://github.com/david-gay/2340.git,Group project: Crowdsourcing freshwater,,2
+249,https://github.com/mfuery/communitycache.git,CommunityCache - Crowdsourcing disaster relief,,2
+250,https://github.com/qiusihang/ticktalkturk.git,TickTalkTurk: Conversational Crowdsourcing Made Easy,,2
+251,https://github.com/mtopping/Guess-Weather.git,Mobile app for crowdsourcing weather,,2
+252,https://github.com/Agile-Puppers/Clean-Water.git,Clean Water Crowdsourcing JavaFX application,,2
+253,https://github.com/CopenhagenCityArchives/Kildetaster.git,Frontend for crowdsourcing archival material,,2
+254,https://github.com/linkedjazz/linked-jazz-prototype-52nd.git,A prototype test crowdsourcing tool,,2
+255,https://github.com/idearun/TechPin.git,"TechPin is simply an Open sourced, Crowdsourced, Non-profit project. The Main Goal of TechPin is to promote and share startups and products in global market, with a crowdsourcing solution.","django,python",2
+256,https://github.com/AmrARaouf/beehive-webapp.git,Beehive | A crowdsourcing annotation platform.,"angular2,angular-cli,javascript,typescript",2
+257,https://github.com/crowdhorn/horngame.git,Crowdsourcing of Horn clause abduction,,2
+258,https://github.com/fela/prosncons.git,crowdsourcing pros and cons on controversial issues,,2
+259,https://github.com/Scifabric/project-realtimeresults.git,Real time crowdsourcing image pattern recognition.,"pybossa,realtime,webhook",2
+260,https://github.com/lysdexia/messhaul.git,Simple service for crowdsourcing pickup and delivery.,,2
+261,https://github.com/CrowdsourcingGeek/CrowdBenchmark.git,BATC2 - benchmarking aggregation techniques in crowdsourcing environment,,2
+262,https://github.com/volontariat/voluntary_text_creation.git,Volontari.at crowdsourcing product text creation,,2
+263,https://github.com/MaastrichtU-IDS/crowdsourcing-workshop.git,Slides for the Workshop on Crowdsourcing,,2
+264,https://github.com/volontariat/voluntary_translation.git,Translation product for crowdsourcing plattform gem voluntary,,2
+265,https://github.com/sunziping2016/crowdsourcing-platform-server.git,Sever Side for Our Crowdsourcing Platform,,2
+266,https://github.com/mershack/graphunit.git,GraphUnit-Evaluating interactive visualizations using crowdsourcing. ,,2
+267,https://github.com/drewstone/truecoin.git,Peer-prediction mechanisms for crowdsourcing information,,2
+268,https://github.com/BUAA-BDA/SpatialCrowdsourcing-LTC.git,Latency-oriented Task Completion via Spatial Crowdsourcing,"spatial-crowdsourcing,task-assignment,latency-control",2
+269,https://github.com/InovaUFRPE/Cerana.git,O projeto Cerana é um sistema multiplataforma para consulta através de perguntas ou pesquisa numa base de dados organizada em um sistema baseado no crowdsourcing.,,2
+270,https://github.com/crowd-tools/CrowdClick.git,Backend of affordable solution that combines traffic and quantitative data to the advertiser through a crowdsourcing click to view reward model,,2
+271,https://github.com/trifectalabs/roadquality.git,Crowdsourcing road quality and traffic safety data for cyclists.,"scala,cycling,strava,crowdsourcing,slick,slick-pg,play-framework,elm-lang,elm-css,road-quality",2
+272,https://github.com/alex952/CrowdTransEval.git,A toolkit for evaluating machine translation systems using crowdsourcing,,2
+273,https://github.com/CrowdCafe/CrowdKitchen.git,System to manage crowdsourcing tasks via UI or API,,2
+274,https://github.com/zozas/topcoder.git,Crowdsourcing in Software Development: Empirical Support for Configuring Contests,,2
+275,https://github.com/scottnakada/MissingKids.git,Missing Kids Network - Crowdsourcing the search for Missing Children,,2
+276,https://github.com/stheakanath/Crowdify.git,Crowdsourcing Spotify playlists for house parties using P2P mobile networks. ,,2
+277,https://github.com/rupakg/traffictweet.git,Twitter App for Crowdsourcing Traffic and Disaster Information,,2
+278,https://github.com/fernandesi2244/CrowdCS.git,A Fun and Engaging Crowdsourcing App for Learning Programming Languages,"crowdsourcing,android,learning,online-database,android-studio,back4app",2
+279,https://github.com/BUAA-BDA/SpatialCrowdsourcing-MWATP.git,Multi-Worker-Aware Task Planning in Real-Time Spatial Crowdsourcing,"spatial-crowdsourcing,task-assignment,spatial",2
+280,https://github.com/saiteja-talluri/Fake-News-Detection-using-CrowdSourcing.git,Web App for crowdsourcing the verification of spurious news articles.,"database-management,database-design,ajax,js,sql,crowdsourcing,fake-news",2
+281,https://github.com/gaarangoa/ARGminer.git,Curation of Antibiotic Resistance Genes by using crowdsourcing,"antibiotic-resistance,crowdsourcing,database",2
+282,https://github.com/turkeyes/zoommaps.git,Crowdsourcing human attention via the pinch zoom mobile device gesture.,,2
+283,https://github.com/galamorake/Rute-Map.git,A crowdsourcing site for public transport routes in Botswana. ,,2
+284,https://github.com/yob/subjct.git,A sinatra app for crowdsourcing links between BIC and BISAC subjects,,2
+285,https://github.com/jeffreyshen19/TranscribePA.git,An extensible platform for rapidly transcribing historical documents using machine-learning and crowdsourcing. ,"digital-humanities,libraries,transcribing-handwritten-documents,transcription",2
+286,https://github.com/DGFF-Harmonyhack/Frontend-React-Native.git,Mobile app for anonymous local help requests. Crowdsourcing witnesses and evidence collection.,"evidence,local,map,react,rails,safety,recording",2
+287,https://github.com/danjac/rentalerts.git,An idea for crowdsourcing apartment search. Written in Python and Django.,,2
+288,https://github.com/ZC-Wei/slua-mobile.git,Android application for “Dynamic Worker Selection for Mobile Spatial Crowdsourcing Leveraging Location-based Social Networks”.,,2
+289,https://github.com/RohlederCPH/Master-Thesis-Crowdfinding.git,"Crowdfinding, Localization, Android, Crowdsourcing, Pervasive Computing, Bluetooth Low Energy, BLE, RSSI, Network-assisted location",,2
+290,https://github.com/jatorre/flushtopiwi.git,A crowdsourcing project to know where private swimming pools are in Spain,,2
+291,https://github.com/TrentoCrowdAI/crowdhub-api.git,CrowdHub sits on top of major crowdsourcing platforms to intelligently assists customers in performing classification tasks.,"crowdsourcing,crowdsourcing-experiments,crowdsourcing-platforms",2
+292,https://github.com/jmorg/synapse.git,A low data crowdsourcing app to share information in the wake of a disaster,,2
+293,https://github.com/st1064870/city-lens.git,"{""Crowdsourcing application aggregating users' voluntareely shared activity data exported from Google, into heatmaps and graphs.""}",,2
+294,https://github.com/uzh/PPLib.git,PPLib People Programming LIBrary: Easily find the best Crowdsourcing process for your application,,2
+295,https://github.com/anup-a/Vidyakosh.git,A Nodejs based webapp built on expressjs for crowdsourcing data of Institute courses.,,2
+296,https://github.com/saracope/citsci-toolkit-styleguide.git,Style guide for the federal crowdsourcing and citizen science innovation toolkit.,,2
+297,https://github.com/heathd/twentyfiveten.git,A hacky experiment to support the 25/10 crowdsourcing liberating structure online,liberatingstructures,2
+298,https://github.com/samhinsh/Rise-App.git,"{""A mobile platform crowdsourcing peoples' perspectives to craft visual histories of prominent events.""}",,2
+299,https://github.com/jLukeC/PReTweet.git,an app that uses crowdsourcing to determine how audiences will react to specific tweets,,2
+300,https://github.com/justrdk/redadas-de-obama.git,A web app for crowdsourcing immigration raid info so undocumented people can avoid them.,,2
+301,https://github.com/jLukeC/PReTweet.git,an app that uses crowdsourcing to determine how audiences will react to specific tweets,,2
+302,https://github.com/volontariat/voluntary_proposition.git,Product for crowdsourcing plattform engine voluntary about proposition development process with delegated voting system (Liquid Democracy),,2
+303,https://github.com/GSA/Crowdsource-Testing-Federal-Crowdsourcing-and-Citizen-Science-Toolkit_8-2015.git,Artifacts from the 8/2015 Federal Crowdsourcing and Citizen Science Toolkit Crowdsource Compatibility Test-cycle,,2
+304,https://github.com/idigbio-citsci-hackathon/CrowdConsensus.git,Tool for reaching consensus on crowdsourced transcriptions and to minimize the number of workers needed by crowdsourcing tasks,,2
+305,https://github.com/roadkilltaiwan/CrowdsourcingDataHandle.git,The repo is used to pool the source codes for handling the crowdsourcing data from Roadkill interest group on Facebook. ,,2
+306,https://github.com/jbrekle/jbrekle-master-thesis.git,Leveraging the Crowdsourcing of Lexical Resources for Bootstrapping a Linguistic Data Cloud. Flexible RDF data extraction from Wiktionary.,,2
+307,https://github.com/ChineseYjh/RAF-DB-baselines.git,Codes without DATA for Paper: Reliable Crowdsourcing and Deep Locality-Preserving Learning for Expression Recognition in the Wild,,2
+308,https://github.com/tomfong/fyp-trackify-overview.git,"CSE Final Year Project - ""Dementia Patients Anti-Wandering System using Mobile Crowdsourcing"", namely Trackify, of HKUST in 2019-2020.","dementia-patients,ibeacon",2
+309,https://github.com/volontariat/voluntary_music_metadata_enrichment.git,Music metadata enrichment product for crowdsourcing engine voluntary. Also adds a discography data model sync system to every Rails app.,,2
+310,https://github.com/2dshapesstructure/2dshapesstructure.github.io.git,"On this web page, we present the 2D Shape Structure database, a public, user-generated dataset of 2D shape decompositions into a hierarchy of shape parts with geometric relationships retained. It is the outcome of a large-scale user study obtained by crowdsourcing, involving over 1200 shapes in 70 shape classes, and 2861 participants. ",,2
+311,https://github.com/johnsonsirv/famous-poet.git,"A crowdsourcing MVP to store collections of poems and songs from poets across several languages, helping to transfer oral traditions and immortalizing eventful memories.","mvp,sprint-challenge",2
+312,https://github.com/aburnap/JMD2015-When-Crowdsourcing-Fails.git,Code repository for replicating 2015 ASME Journal of Mechanical Design Paper - When Crowdsourcing Fails: A Study of Expertise on Crowdsourced Design Evaluation,,2
+313,https://github.com/ZC-Wei/od3n.git,"On-Demand Dynamic Delivery Network (OD3N) is a platform that aim to providing a flexible, effective, intelligent, low-cost same-city delivery service. With crowdsourcing, OD3N try to find out an affordable delivery solution for small and medium business and provide a good delivery experience for public.",,2
+314,https://github.com/cacois/learntonode.git,"LearnToNode: The Repo is the live development of the Node.js web app behind learntonode.com. The site learntonode.com will be dedicated to crowdsourcing and sharing high-quality tutorials, examples, and learning resources for aspiring Node.js developers. The development of the learntonode.com web app will be used to develop thorough tutorials on web development with Node.js.",,2
+315,https://github.com/cartologic/cartoview_geo_observation.git,"Users can submit new reports, review existing reports, and comment and vote on reports or observations submitted by other users. They can track the status of problems or observations they have reported.  Field observations and mobile data collection, whether by professional monitoring staff or by volunteers in e.g. citizen science and mobile crowdsourcing projects. Field observations app is also useful as a platform for building a variety of mobile-first websites and CRUD applications.Allows users to submit problems or observations.  The application has been optimized for smartphones but is responsively designed to be used on smartphones, tablets, and desktop computers.","cartoview,observation",2
+316,https://github.com/turnkeylinux-apps/ushahidi.git,Ushahidi - Crowdsourcing Crisis Information,,1
+317,https://github.com/avwave/taskhive.git,Open and distributed p2p crowdsourcing internet marketplace in Java,,1
+318,https://github.com/cicadas-2014/percolator.git,"Crowdsourcing problem solving, coffeeshop style",,1
+319,https://github.com/ubriela/geocrowd-dp.git,Protecting location privacy of workers and requesters in spatial crowdsourcing,,1
+320,https://github.com/RiceNBean/shufflebug.git,A crowdsourcing music playlist building app for events and public spaces.,,1
+321,https://github.com/acdh-oeaw/wugsy.git,Crowdsourcing language data,,1
+322,https://github.com/uw-biomedical-ml/segmentations.git,Crowdsourcing web interface to distribute imaging segmentation tasks,"segmentations,crowdsourcing,image-analysis,html5-canvas,html5",1
+323,https://github.com/Abbe98/bildplats.git,Georeferencing historical images with crowdsourcing. ,"k-samsok,raa-collection,soch",1
+324,https://github.com/dair-iitd/octopus.git,Octopus: Cost-Quality-Time Optimization in Crowdsourcing,,1
+325,https://github.com/thsneumann/fahrkartentool.git,Crowdsourcing-Tool for the historical tickets collection of the German Museum of Technology (Deutsches Technikmuseum),,1
+326,https://github.com/github-vet/bots.git,"{""Bots for running analysis on GitHub's public Go repositories and crowdsourcing their classification.""}","go,range-loop-capture,static-analysis,crowd-sourcing,github-api",1
+327,https://github.com/cakefm/crowd_task_manager.git,"A system to create, schedule and distribute crowdsourcing tasks",,1
+328,https://github.com/basbeu/theSofties.git,"It is an Android application that revolves around facilitating helping out other people. This is done by crowdsourcing the principle if I help you, you owe me.",,1
+329,https://github.com/fida1989/forest-watch.git,An Android App to monitor deforestation and other natural/man-made events that are harming forests via crowdsourcing. (MobioApp Limited),,1
+330,https://github.com/even-eeek/crowdsourcing-python.git,crowdsourcing python,,1
+331,https://github.com/alexandr-s/django-crowd.git,crowdsourcing demo,,1
+332,https://github.com/jaredscheib/tagasauris.git,Crowdsourcing Platform,,1
+333,https://github.com/EricHamby/taylorapp.git,CrowdSourcing Groceries And More,,1
+334,https://github.com/zhenghuihu2019/TopCoder-Data-Management.git,"TopCoder, Crowdsourcing, Data",,1
+335,https://github.com/matt-jh/remnants.git,Crowdsourcing the remnants report,,1
+336,https://github.com/NicWickman/Sozu.git,Decentralized on-chain crowdsourcing.,,1
+337,https://github.com/kumekay/kune.git,Simple crowdsourcing news engine ,,1
+338,https://github.com/kronion/Pickup.git,Crowdsourcing your errands,,1
+339,https://github.com/brzonsea/Crowdsource-project.git,CS492 Crowdsourcing Group Project ,,1
+340,https://github.com/rainble/crowdsourcing_client.git,crowdsourcing android client,,1
+341,https://github.com/anhmiuhv/crowdsourcing-on-ethereum.git,Simple Ethereum Crowdsourcing contract ,"ethereum,solidity,blockchain,crowdsource",1
+342,https://github.com/asm-products/autank.git,Crowdsourcing operating expenses,,1
+343,https://github.com/tnunamak/art-we-all.git,An art-crowdsourcing experiment,,1
+344,https://github.com/nka11/alternative-crowding.git, crowdsourcing alternative energy solutions,,1
+345,https://github.com/roselynemakena/narrow.git,A crowdsourcing plateform,,1
+346,https://github.com/MuckRock/whitewash.git,A prototype crowdsourcing application,,1
+347,https://github.com/tohach/crowdbook.git,crowdsourcing book landing,,1
+348,https://github.com/nikolozka/Move.Project.git,Crowdsourcing Running App,,1
+349,https://github.com/corollari/tarkasti.git,Crowdsourcing fact-checking,"dapp,ethereum,fact-checking,twitter-bot",1
+350,https://github.com/mtaptich/govlab30.git,Crowdsourcing climate change solutions,,1
+351,https://github.com/Parkinglot/parkinglot.git,Freed - Crowdsourcing parking,,1
+352,https://github.com/MichalBryxi/casosberne.cz.git,Crowdsourcing time-lapse videos.,,1
+353,https://github.com/mrcoven94/scholarfund.git,Crowdsourcing scholarship generation,,1
+354,https://github.com/renisalcedo/H23-PennAppsXVI.git,Crowdsourcing Emergency Data,,1
+355,https://github.com/saeedizadi/Sal_AD.git,Saliency Aggregation Using CrowdSourcing Techniqes,,1
+356,https://github.com/danielchawla/urban_crowdsourcing.git,MVP of urban crowdsourcing platform,,1
+357,https://github.com/LemonaInc/Zorcely.git,A crowdsourcing platform front end,,1
+358,https://github.com/Mortimerp9/CondoSol.git,a local issue crowdsourcing platform,,1
+359,https://github.com/ConnorChristie/diagnosis-colony.git,Crowdsourcing Time & Funds for Research,,1
+360,https://github.com/tkirchgessner/cs.git,Crowdsourcing app first run-through,,1
+361,https://github.com/aankita1/SpeakAhead.git,Crowdsourcing User Responses on MTurk,,1
+362,https://github.com/caretcaret/doodlearn.git,Crowdsourcing animated drawings for education.,,1
+363,https://github.com/bijilap/CollabParking-CSPServer.git,Crowdsourcing part of CollabParking project,,1
+364,https://github.com/CSIR2011/csir2011.github.com.git,Crowdsourcing for Information Retrieval 2011,,1
+365,https://github.com/JSsquare/AlertsMall.git,aFoodie.Me :: Crowdsourcing Food Reviews,,1
+366,https://github.com/sandbox/melaknowma.git,small crowdsourcing melanoma diagnosis app,,1
+367,https://github.com/codenameyau/weather-flux.git,Crowdsourcing real-time weather updates,,1
+368,https://github.com/abenrob/CrowdMapApp.git,Backlift-powered geo-crowdsourcing app,,1
+369,https://github.com/eeezyy/CompanyTrends.git,Crowdsourcing application which crawls Yahoo! Finance News articles and creates task to the mock crowdsourcing platform.,,1
+370,https://github.com/nqvhung/multiagg.github.io.git,Multi-Label Answer Aggregation for Crowdsourcing,,1
+371,https://github.com/lang-uk/vulyk-ner.git,"NER tagging plugin for Vulyk, crowdsourcing framework",,1
+372,https://github.com/stevenc81/beamitfast.git,[Archived] Same-day delivery with crowdsourcing,,1
+373,https://github.com/giginet/LeDA.git,Level Design Assistant System via Crowdsourcing,,1
+374,https://github.com/liua13/OpenStreets.git,Crowdsourcing platform to post issues on map,,1
+375,https://github.com/BigRedT/crowdsource.git,Graphical Models and EM for Crowdsourcing,,1
+376,https://github.com/v-ramachandran/athena-crowd.git,Crowdsourcing interaction scripts for the Athena project.,,1
+377,https://github.com/amydoesntlai/amnesia.git,Crowdsourcing mnemonic devices to remember vocabulary.,,1
+378,https://github.com/rastermanden/happymap.git,Crowdsourcing the happiness of the world,,1
+379,https://github.com/stefanodecillis/TIW_peaks_validation_platform.git,CrowdSourcing Platform for mountain peaks - Web App ,,1
+380,https://github.com/AlexanderPease/email-waze.git,"{""Crowdsourcing the internet's white pages""}",,1
+381,https://github.com/kateflood/bikewithus.git,Crowdsourcing the best bike routes around town,,1
+382,https://github.com/jesand/crowds.git,Crowdsourcing tools and algorithms in golang.,,1
+383,https://github.com/josh-works/block_value.git,Crowdsourcing Parking data (and other things),,1
+384,https://github.com/mispy/redballoon.git,Distributed crowdsourcing recruitment for Helix Nanotechnologies,,1
+385,https://github.com/XLab-Tongji/crowdsourcing-mart-front.git,the crowdsourcing mart front end project.,,1
+386,https://github.com/lilannie/StudyShare.git,Web App for Crowdsourcing Educational Material,,1
+387,https://github.com/empatwi/crowdsourcing-api.git,API back-end da plataforma de Crowdsourcing,"python,flask-restful,pymongo,mongodb",1
+388,https://github.com/octolabs/capitalbikeshare-web.git,Capital Bikeshare new stations location crowdsourcing,,1
+389,https://github.com/bxm156/BioCrowd.git,A Hierarchal Crowdsourcing Platform for Metabolic Networks,,1
+390,https://github.com/Ekula/uSquam_backend.git,The back-end of our crowdsourcing platform,,1
+391,https://github.com/genagl/shmapper.git,"The shMapper plugin allows you to create simple crowdsourcing maps on OpenStreet Maps with an option of feedback messages form. This plugin gives you an alternative to current online map services such as Yandex.Maps, Google Maps etc which don’t provide the option for users to add new objects.","wordpress-plugin,openstreetmap,yandex-maps,wordpress,leaflet,leafletjs,osm",1
+392,https://github.com/aslawson/Teller.git,The automated teller human.  Crowdsourcing the ATM.,,1
+393,https://github.com/nherment/lesa-recover.git,Disaster management SMS crowdsourcing web application,,1
+394,https://github.com/ztl8702/CrowdSource.git,Crowdsourcing coordination and state management tool,"crowdsource,aspnet-core,orleans",1
+395,https://github.com/volontariat/voluntary_recruiting.git,Recruiting plugin for crowdsourcing management system voluntary,,1
+396,https://github.com/dollygupta/CrowdSourcing.git,Traffic management for emergency vehicles using crowdsourcing,,1
+397,https://github.com/richtermondt/inithub-web.git,Django-based web application for crowdsourcing innovation,,1
+398,https://github.com/brianjhaller/spotifyShare.git,React Native application for crowdsourcing a playlist,,1
+399,https://github.com/LucDoh/CrowdRank.git,Crowdsourcing product recommendations using NLP and Reddit.,,1
+400,https://github.com/linyifei-6/DCrowd.git,A Trusted CrowdSourcing Systerm Based 0n BlockChain,,1
+401,https://github.com/MediaComem/smapshot-api.git,API behind the crowdsourcing platform smapshot,,1
+402,https://github.com/mayhewsw/crowdsourcing.git,Crowdsourcing project for IE598 Graphical Models ,,1
+403,https://github.com/vanxining/RecSys.git,A recommendation system for software crowdsourcing platforms.,"recsys,crowdsourcing-platforms",1
+404,https://github.com/AlessandroChecco/ModOp.git,Javascript tool to help crowdsourcing form design,,1
+405,https://github.com/alexberger01/CrowdsourcingTemplate.git,website template for all crowdsourcing projects,,1
+406,https://github.com/Rideshare/rideshare20.git,Crowdsourcing vanpools and carpools. Connect.Commute.Conserve,,1
+407,https://github.com/octolabs/circulator-planning.git,Crowdsourcing DC Circulator future growth plan,,1
+408,https://github.com/Historypin/metadatacrowdsourcing.git,documentation and code for metadata crowdsourcing projects,,1
+409,https://github.com/j2abro/crowdsec.git,Experiment in crowdsourcing security risk within organizations,,1
+410,https://github.com/BryceTsui/CrowdSourcingPlatform.git,Team Work of Course - CrowdSourcing Platform,,1
+411,https://github.com/hughhan1/HopSA.git,Event crowdsourcing platform built using MEAN stack.,,1
+412,https://github.com/ahmetkizilay/boycott-api.git,a RESTful API for crowdsourcing boycotted venues,,1
+413,https://github.com/bioops/CrowdNodNet.git,Crowdsourcing nodulation gene network in Lotus japonicus,,1
+414,https://github.com/janetyc/writingfeedback.git,a crowdsourcing project for collecting writing feedback,,1
+415,https://github.com/EmilyKJamison/Crowdsourcing.git,Projects related to NLP annotation via crowdsourcing.,,1
+416,https://github.com/elexis-eu/CrossTheWord.git,Crowdsourcing Module part 2 (Crossword app) ,,1
+417,https://github.com/ryjo1026/footprints.git,A PWA for crowdsourcing path obstructions,,1
+418,https://github.com/phouse512/crowdsource-refactor.git,A crowdsourcing prototype built in Python and Flask ,,1
+419,https://github.com/gmathiou/shuttler.git,iOS app for crowdsourcing shuttle buses arrival time ,,1
+420,https://github.com/shanselman/Hanselminutes-Images.git,Images from the Hanselminutes Podcast. Crowdsourcing to complete.,,1
+421,https://github.com/adamantivm/railwatch.git,Detect train schedule delays through computer vision and crowdsourcing,,1
+422,https://github.com/OTT21C/OTT21C-Platforms.git,Develop Crowdsourcing Platforms for Open Thoughts Transformation in 21st Century.,,1
+423,https://github.com/volontariat/volontariat_example.git,Example application using the crowdsourcing platform engine gem voluntary,,1
+424,https://github.com/jshiohaha/hacktech-2020.git,This is my hacktech 2020 project — Crowdsourcing against COVID-19,,1
+425,https://github.com/utkarshm1999/Jagruk_Corona.git,A crowdsourcing platform for reporting COVID-19 lockdown violations,,1
+426,https://github.com/melodyma/artfully.git,A conceptual public art crowdsourcing website made in Rails,,1
+427,https://github.com/MusicConnectionMachine/dictionaries.git,Dictionaries of synonyms and ignored words curated via crowdsourcing,,1
+428,https://github.com/heolin123/funcrowd-dataset.git,A collection of 6 datasets annotated using crowdsourcing,,1
+429,https://github.com/xk-chen/Online-Aggregation-for-Crowdsourcing-Regression.git,Experimental codes for the algorithm Online Aggregation for Crowdsourcing Regression,,1
+430,https://github.com/solitaryreaper/CrowdPrinting.git,Our project for HackMadison 2014 - Crowdsourcing 3-D Printing.,,1
+431,https://github.com/dglittle/parallel-iterative.git,simulated experiments on parallel versus iterative crowdsourcing workflows,,1
+432,https://github.com/gnasamx/CrowdSF.git,A decentralize application for crowdsourcing and crowdfunding using ethereum blockchain,"ethereum,solidity,crowdsourcing,crowsourcing,react",1
+433,https://github.com/nicholasalanbrown/openlaw.git,A platform for crowdsourcing effective and representative laws.,"react,law,javascript,civic-tech",1
+434,https://github.com/Ekula/uSquam_pipeline.git,The task pipelining part of our crowdsourcing platform,,1
+435,https://github.com/sballesteros/nyctbike.git,crowdsourcing NYC Bike sharing system (formerly http://www.nyctbike.com),,1
+436,https://github.com/PedalPatrol/PedalPatrol.git,Mobile application for crowdsourcing the retrieval of stolen bikes.,,1
+437,https://github.com/brahmaneya/WorkerEvaluationGeneral.git,Finding confidence intervals for crowdsourcing worker error rates.,,1
+438,https://github.com/SuLab/crowdflower_relation_verification.git,Verification of EU-ADR drug-disease relationships using crowdsourcing.,,1
+439,https://github.com/volontariat/voluntary_survey.git,DRAFT: plugin for crowdsourcing management system voluntary about surveys.,,1
+440,https://github.com/BathHacked/wheelmap-stats.git,Progress bar & project page for crowdsourcing accessibility info in Bath,"bath,wheelmap,wheelmap-stats,php,accessibility",1
+441,https://github.com/akeshavan/vue-firebase-game.git,boilerplate for a crowdsourcing app w/ vuejs and firebase,,1
+442,https://github.com/qiusihang/cslobby.git,A simple online chat lobby (created for CrowdSourcing research),,1
+443,https://github.com/Paul-da-silva/CensorCheap.git,control censorship of the internet around the world with crowdsourcing,,1
+444,https://github.com/tenac1337/CrowdViz.git,Crowdsourcing vision for the blind platform built for mobile applications,,1
+445,https://github.com/juancamilo87/queue_estimation.git,Android app to use crowdsourcing to estimate queues in restaurants,,1
+446,https://github.com/doncigalo/briberyNoMore.git,Crowdsourcing Application Designed To Tackle Bribery in Nigeria,,1
+447,https://github.com/TobiasWooldridge/UniBuddyWalker.git,Crowdsourcing GPS coordinates (and more!) for university rooms,,1
+448,https://github.com/theochino/Article78againstNYDFS.git,Site for Crowdsourcing to mount an Article 78 against NYDFS,,1
+449,https://github.com/IARHeritages/CSvalidate.git,Crowdsourcing template to validate the content of webpages ,,1
+450,https://github.com/notadilnaqvi/color-classifier.git,Crowdsourcing training data for a machine learning project,,1
+451,https://github.com/vishalshubham/Audiovisual-Censorship.git,Audiovisual(e.g YouTube videos) censorship with Crowdsourcing,,1
+452,https://github.com/dchart/HomoDemocraticoSapiens.git,HomoDemocraticoSapiens is a future project in developpement of crowdsourcing.,,1
+453,https://github.com/gparuthi/CrowdMessageGeneration.git,This is a crowdsourcing application for generating high quality messages.,,1
+454,https://github.com/penelope-nguyen/ground-zero.git,hackathon project. website for crowdsourcing emergency relief. django + materialize.css,,1
+455,https://github.com/vaibhavdarji/vue-busstop-crowdsourcing.git,Bus-stop crowdsourcing web application using Vue JS,,1
+456,https://github.com/Huppdo/SpotifyControl.git,Allows for public crowdsourcing of music to play on Spotify,,1
+457,https://github.com/frank87/KiesWijzer.git,Crowdsourcing the questions to make a difficult decision.,,1
+458,https://github.com/bgshih/cocotext-amt.git,COCO-Text V2 Amazon Mechanical Turk (AMT) Crowdsourcing.,,1
+459,https://github.com/EducationalTestingService/nn-compound-sentiment.git,Sentiment Lexicon for Noun Noun Compounds Generated via Crowdsourcing.,"sentiment,lexicon,nouns",1
+460,https://github.com/janmtl/flaskenberg.git,A Python Flask app for crowdsourcing data annotation,,1
+461,https://github.com/AndreiBarsan/crowd.git,Improved crowdsourcing vote aggregation using document similarity and machine learning.,,1
+462,https://github.com/IARHeritages/videotagging.git,Crowdsourcing application to ag video content relevant to IARH ,,1
+463,https://github.com/FarnazKara/AttackFrameWorkMaliciousCrowdSourcing.git,Evaluate truth inference methods in crowdsourcing under data poisoning attack,simulation,1
+464,https://github.com/nishanttotla/crowdprover.git,"Crowdprover is a crowdsourcing platform for program verification using crowdsourcing. The frontend mainly uses jQuery, among other frameworks. The backend is built in Python using Google App Engine.",,1
+465,https://github.com/hyzhak/buses.git,Worldwide schedule of all buses based on crowdsourcing (4sq). In MVP stage.,,1
+466,https://github.com/yujie0505/crowdNER.git,Using outlier detection and entity recognition to improve a crowdsourcing biocuration system,"biomedical,crowdsourcing,named-entity-recognition,socket-io",1
+467,https://github.com/masaun/crowdsourcing-portal-for-art.git,This is a dApp that crowdsourcing portal for art for new wildcards,"solidity,truffle,web3js,react",1
+468,https://github.com/calista-ai/crowdsourcing-app.git,A Web Application to collect data from pairwise image comparisons via crowdsourcing,"web-app,pairwise-comparisons,data-collection,data-gathering,image-evaluation,dataset,dataset-creation,crowdsourcing,mern-stack,react,node,express,mongodb,docker,nginx,mongo-express,calista,calista-ai,website-aesthetics",1
+469,https://github.com/CAHealthData/social-services.git,Gathering feedback on the feasibility of crowdsourcing social services data in California,,1
+470,https://github.com/dswatson/CrowdsourcedScience.git,Data and code for research on crowdsourcing in the natural sciences,,1
+471,https://github.com/LARC-CMU-SMU/dph19-glycemic-impact.git,Estimating Glycemic Impact of Cooking Recipes via Online Crowdsourcing and Machine Learning (DPH’ 19),,1
+472,https://github.com/vineetsethia/Ruban_India.git,"This repository contains everything related to Ruban_India project developed in InOut 2.0 hackathon by team Geek_Developers consists of members Vineet Sethia, Lucky Srivastava & Arvind Iyer  to  Connect Rural & Urban People of India. Ruban India a web & android based crowdsourcing & e-marketplace platform for connecting rural & urban people of India.",,1
+473,https://github.com/shabeermothi/reNew.git,"Discuss about latest happenings in technology, bring in-sane people closer and crowdsourcing",,1
+474,https://github.com/blakeney/cleanweb_box_server.git,Django application for Boston Cleanweb Hackathon electric box location crowdsourcing project.,,1
+475,https://github.com/skishchampi/AapniSociety.git,"Android application for crowdsourcing and geotagging community resources like maids, cooks, grocery stores, laundry places etc",,1
+476,https://github.com/leroyzhf/CrowdSourcing.git,the first crowdsourcing project for collecting brilliant business ideas and engaging co-creation,,1
+477,https://github.com/LUCOSA/CrowdNotes.git,Lecture notes and e-books Crowdsourcing mobile application for Laikipia University students.,,1
+478,https://github.com/t00lmaker/starbus-v2.git,Uma plataforma de crowdsourcing para usuário de transporte público de Teresina.,,1
+479,https://github.com/volontariat/voluntary_classified_advertisement.git,Product about classified_advertising for crowdsourcing engine voluntary used e.g. by http://Volontari.at ,,1
+480,https://github.com/volontariat/voluntary_classified_advertisement.git,Product about classified_advertising for crowdsourcing engine voluntary used e.g. by http://Volontari.at ,,1
+481,https://github.com/hyylc/Online-task-Assignment-TBF.git,Differentially Private Online Task Assignment in Spatial Crowdsourcing: A Tree-based Approach,,1
+482,https://github.com/DasAllFolks/CrowdCure.git,Crowdsourcing platform for tracking the spread of contagious diseases (or other epidemic phenomena) in real time.,,1
+483,https://github.com/tjmasterson/Kindr_Project.git,Crowdsourcing quality control to establish a strain standardization in the cannabis industry,,1
+484,https://github.com/flash3780/blueturtlelabs.org.git,"Repositofy for the blueturtlelabs website, a space for crowdsourcing open stirling engine development.",,1
+485,https://github.com/galaxyeye/warps-nutch.git,"Web crawler based on Apache Nutch, with crowdsourcing support and ajax support",,1
+486,https://github.com/kapelner/breaking_monotony.git,"Code and supplementary materials for the publication ""Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets""",,1
+487,https://github.com/MaastrichtU-IDS/CedMD.git,Conducting different crowdsourcing experiments for annotating lung nodules using point of interest annotation,,1
+488,https://github.com/IshmaelLab/pretoria-rhok-icm.git,Repository dedicated to the continuing of the Pretoria RHoK challange on crowdsourcing service delivery related incidents,,1
+489,https://github.com/Alaska47/Xplore.git,Android app that lets users share and view popular events going around them using crowdsourcing.,,1
+490,https://github.com/davidfof13/fypMedicalImagingProject.git,A repository  for the final year project on crowdsourcing user annotations for medical Image analysis,,1
+491,https://github.com/irff/facilicare.git,"{""A crowdsourcing platform for reporting and organizing public facility in Indonesia's cities.""}",,1
+492,https://github.com/s1033356/Weather-Map.git,Efficient Crowdsourcing-Based Framework for On-Road Weather Detection Using Voting Strategy,,1
+493,https://github.com/maryampashmi/Data-Procurement-Repository.git,This web application present two way to extracting data 1. automatic way 2- through crowdsourcing,,1
+494,https://github.com/ubriela/BDR.git,Effectively Crowdsourcing the Acquisition and Analysis of Visual Data for Disaster Response,,1
+495,https://github.com/tekemperor/consensus.git,The open-source engine behind the popular crowdsourcing community consensus garden.,,1
+496,https://github.com/BusFinders/FindMyBus.git,An Application to Track Bus Location in Real-time using CROWDSOURCING.,,1
+497,https://github.com/hci-unimelb/crowdcog.git,CrowdCog: A Cognitive Skill based System for Heterogeneous Task Assignment and Recommendation in Crowdsourcing,"crowdsourcing,cognitive-skills,task-assignment",1
+498,https://github.com/CrowdCafe/CrowdBox.git,CrowdBox - crowdsourcing application for managing images by crowd in your dropbox folder,,1
+499,https://github.com/ipince/bitstarter.git,"{""Dummy crowdsourcing site used for Coursera's Startup Engineering class, offered through Stanford on June 2013.""}",,1
+500,https://github.com/notfall/android-notfall.git,Crowdsourcing Emergency Response and Care. 2nd Place Overall at MinneHack 2017,,1
+501,https://github.com/bureado/ccsirt.git,"Crowdsourced CSIRT, focused on phishing crowdsourcing. Backend in Perl, frontend for Drupal.",,1
+502,https://github.com/dongkwan-kim/dike.git,"[KAIST CS492, Crowdsourcing and Social Computing] May the justice w/ you.",,1
+503,https://github.com/Mihirmathur/gitcured.git,A web application for crowdsourcing patients questions and concerns regarding diseases.,,1
+504,https://github.com/dortheimer/aperire.git,crowdsourcing mobile application to rank ideas to create policy sets using network analysis,,1
+505,https://github.com/shriyanka/daemo-forum.git,Daemo Forum : Forum for open governance operations of Daemo : the crowdsourcing platform (https://daemo.stanford.edu),,1
+506,https://github.com/masonsbro/musicgen.git,Generate iteratively better music using genetic algorithms with the goal of rediscovering music theory through crowdsourcing.,,1
+507,https://github.com/alvarosanmartin/Open-Innovation---Crowdsourcing.git,"Open Innovation & Crowdsourcing books, articles, videos and companies that are making the difference",,1
+508,https://github.com/odednoam/FreeDB-fix-enc.git,"{""Utilities for fixing CD entries' charset in freedb.org using combination of algorithms and crowdsourcing""}",,1
+509,https://github.com/lilylisy/scis20BayesDGC.git,"{""source code and data sample of the scis20 'Crowdsourcing Aggregation with Deep Bayesian Learning' paper""}",,1
+510,https://github.com/remidomingues/Tweets-Linker.git,Crowdsourcing website designed for the building of a tweets corpus including reliable metadata,,1
+511,https://github.com/Mihirmathur/gitcured.git,A web application for crowdsourcing patients questions and concerns regarding diseases.,,1
+512,https://github.com/dortheimer/aperire.git,crowdsourcing mobile application to rank ideas to create policy sets using network analysis,,1
+513,https://github.com/NUDelta/FeedMe.git,"Adapting TapShare for crowdsourcing free food around campus, using central feed of food contributions",,1
+514,https://github.com/volontariat/voluntary-ember_js.git,Ember.js support for crowdsourcing management system gem http://Voluntary.Software,,1
+515,https://github.com/qianqianxu010/CVPR19-Deep-Robust-Subjective-Visual-Property-Prediction-in-Crowdsourcing.git,"{""PyTorch implementation for the paper 'Deep Robust Subjective Visual Property Prediction in Crowdsourcing'""}",,1
+516,https://github.com/luongvuongnguyen/OurMovieSimilarity.git,OurMovieSimilarity (OMS) is the crowdsourcing platform for collecting the cognitive similarity from users,,1
+517,https://github.com/sammyers/pizza.git,A web application for crowdsourcing pizza orders. Sidelined due to Venmo pulling API support.,,1
+518,https://github.com/volontariat/voluntary_scholarship.git,Scholarship plugin for crowdsourcing management system Voluntary.Software inspired by http://Teams.RailsGirlsSummerOfCode.org/,,1
+519,https://github.com/yjin990/HCOMP2017_Leveraging_Side_Info_Improve_Label_Quality_Control_Crowdsourcing.git,HCOMP2017 Leveraging Side Info to Improve Label Quality Control in Crowdsourcing,,1
+520,https://github.com/volontariat/voluntary_ranking.git,Ranking plugin for crowdsourcing management system gem voluntary about a mashup of abandoned GetAmen.com and http://Versus.com,,1
+521,https://github.com/derekmma/crowdsourcing-platform-demo.git,A crowdsourcing platform for real-time homework Q&A and bid for appointments based on Java EE,"polymer,javaee,webcomponents,app-layout,azure,webapp,crowdsourcing,java-web-app,html,dom,ajax",1
+522,https://github.com/buhiroshi0205/Pop-Backend.git,A group-based crowdsourcing notification system. Never miss out on an impromptu event again! Built at CMU TartanHacks 2019.,,1
+523,https://github.com/Naereen/Je-suis-pour-ces-idees-Ai-je-tort-Aidez-moi-.git,Je suis pour ces idées ! Ai-je tort ? Aidez-moi ! Une autre expérience de crowdsourcing social en 2021 !,"social,crowdsourcing,open-human,open-source,lilian-besson,naereen,2021,ideas,francais",1
+524,https://github.com/gtouya/AP-MAGIS-VGI.git,"{""Dépôt contenant le site web de l'Action Prospective Crowdsourcing et Information géographique volontaire du GDR MAGIS""}",,1
+525,https://github.com/jpgard/budget-optimal-task-allocation-crowdsourcing.git,"A Python implementation and experimental analysis of Karger, Oh, and Shah (2014): *Budget-Optimal Task Allocation for Reliable Crowdsourcing Systems*.",,1
+526,https://github.com/JChiyah/crwiz.git,"CRWIZ: A framework for collecting real-time Wizard of Oz dialogues through Crowdsourcing for collaborative, complex tasks",,1
+527,https://github.com/MicroMappers/Pybossa.git,"{""Open-source crowdsourcing (microtasking) platform that is customized for MicroMappers based on Pybossa's open source project.""}",,1
+528,https://github.com/colenocks/cycle_of_benefits.git,A waste management crowdsourcing platform of environmentally related projects publicly available for interested persons to work on and gain rewards,,1
+529,https://github.com/shaantamchawla/Safeguard.git,An easy way to keep people informed of security threats in their area through crowdsourcing data. Built at hackBCA III.,,1
+530,https://github.com/codefornola/big-easy-budget-game.git,The Big Easy Budget Game web app -- a public budget education and crowdsourcing tool for the New Orleans city budget.,"mongodb,php,laravel,docker,public-budget,city,new-orleans,civic-tech",1
+531,https://github.com/tcvdijk/building-sleuth.git,Smart crowdsourcing workflow system for extracting building footprints: smart user interface for data entry and algorithmic data integration.,,1
+532,https://github.com/Naereen/Je-suis-contre-ces-idees-Ai-je-tort-Aidez-moi-.git,Je suis pour ces idées ! Ai-je tort ? Aidez-moi ! Une autre expérience de crowdsourcing social en 2021 !,,1
+533,https://github.com/thomasbrueggemann/the-internet-of-energy.git,"🔌 Thinking about crowdsourcing the production, distribution and organisation of what we now call the Internet of Energy",,1
+534,https://github.com/luongvuongnguyen/OurPlaces.git,OurPlaces is a cross-cultural crowdsourcing platform where people from different cultures can share their spatial experiences.,,1
+535,https://github.com/volontariat/voluntary_brainstorming.git,Draft: plugin for crowdsourcing management system voluntary about brainstorming of ideas and their pros / cons with voting.,,1
+536,https://github.com/circuituncle/SmartPPM.git,Code for our project SmartPPM: Automated Crowdsourcing Based Smart Helmet Design for Efficient Potholes and Pollution Monitoring,,1
+537,https://github.com/RaymondDashWu/ai4crowdsourcing-wildfire-hackathon.git,A crowdsourcing app intended to allow users to be able to detect and report wildfires while incorporating machine learning,,1
+538,https://github.com/volontariat/voluntary_competition.git,Competition product about round-robin & elimination tournament management with promotion / relegation and betting game for crowdsourcing engine voluntary,,1
+539,https://github.com/VIDA-NYU/minesafe.git,Minesafe is a Crowdsourcing information system for people in rural areas of countries affected by antipersonnel mines,,1
+540,https://github.com/Kmayankkr/FreelocWifiLocalisation.git,"Implementation of FreeLoc - a calibration-free crowdsourced indoor localization algorithm. It uses specially formatted WiFi fingerprints, which are collected by crowdsourcing, to predict indoor locations. Please refer to http://wons09.cs.ucla.edu/publication/download/761/freeloc.pdf for more details.",,1
+541,https://github.com/lingdot/CrowdComputing.git,"source code and datasets about a series projects on crowdsourcing, crowd intelligence and relevant applications under the umbrella of crowd computing at Beihang University","crowd-intelligence,crowd-computing,crowdsourcing",1
+542,https://github.com/ElizabethSchafle/Access.git,Access is an android app that uses crowdsourcing to rate buildings and other locations based on their accessibility to those with mobility impairments.,,1
+543,https://github.com/nmaisonneuve/mechanicalmap.git," Renamed microapp.io . Javascript + Cloud infrastructure toolkit to easily build + clone crowdsourcing projects via mobile phones (personal / experimental project,  http://microapp.io)",,1
+544,https://github.com/zz-xx/be-mcqs-site.git, A small and simple temporary site made in Flask that was used for crowdsourcing and providing organized access to question banks.,,1
+545,https://github.com/microsoft/rural-crowdsourcing-toolkit.git,This repository provides code for a crowdsourcing platform that is specifically designed to be inclusive of users from low-resource communities.,,1
+546,https://github.com/volontariat/voluntary_feedback.git,"Draft: plugin for crowdsourcing management system voluntary where users can post feedback like commentable and voteable questions, problems, praise and ideas to a project.",,1
+547,https://github.com/HabSDK/HabSDK.git,"A crowdsourcing design tool, allowing millions of global users to compete and collaborate to come up with the space habitation environment",,1
+548,https://github.com/volontariat/volontariat.git,"Volunteer recruiting module for crowdsourcing gem voluntary not to mistake it for volontari.at repository, which is an app using voluntary gem with modules",,1
+549,https://github.com/shihd1/iPescadores.git,Mobile game that utilizes crowdsourcing techniques and artificial intelligence to produce an updating map of the varying degrees of pollution in Penghu.,,1
+550,https://github.com/mkosmala/KargerAlgorithm.git,Performs the algorithm described in Karger Oh and Shah Budget-Optimal Task Allocation for Reliable Crowdsourcing Systesms on Snapshot Serengeti data,,1
+551,https://github.com/SurabhiAmit/Phishing_detection_plugin.git,"My team at Georgia tech built a mozilla plugin""SureFire"" to detect if a website is a phishing site using machine learning techniques, crowdsourcing and virusTotal APIs. ",,1
+552,https://github.com/zeratul0522/CrowdsourcingPhaseDivision.git,This project includes test code for our CSCW2018 paper，which mainly focused on spatial crowdsourcing with consideration to location access permission and offline service permission.,,1
+553,https://github.com/kimkdanny/CloudNet.git,Crowdsourcing contact application that sends and receives contacts to/from the Parse Cloud Service and allows search queries of friends through numbers,,1
+554,https://github.com/controversies-of-science/react-worldviewer-app.git,(WIP) => { The Controversies of Science App. Currently includes controversy search and a swiping interface for structuring the crowdsourcing of information on controversies. },,1
+555,https://github.com/volontariat/translation_client.git,Ruby on Rails engine for multi-tenant translation in-place or backend with option to fork or request crowdsourcing platforms like Volontari.at,,1
+556,https://github.com/lrcry/ExpertMind.git,ExpertMind is a project for identifying how to get experts from the Internet by crowdsourcing the ideas and show them in a mindmap.,,1
+557,https://github.com/kaapstorm/trc_me.git,"{""trc.me is a tool for crowdsourcing the geolocation of objects. Or, in English, it's a tool for tracking your stuff.""}",,1
+558,https://github.com/TalUsvyatsky/dog-detective.git,"{""With Dog Detective, you can find and pet all the dogs in your neighborhood. By crowdsourcing the locations of nearby dogs, Dog Detective makes sure that you'll never miss a good dog ever again.""}",,1
+559,https://github.com/theashwin/epidemic-monitor.git,Epidemic Monitor is an application for crowdsourcing epidemic data and using prior trends to predict the spread of the disease in current time and in future cases using historical data trained using state of the art Neural Network.,"android-application,smart-india-hackathon,google-maps-api,mongodb-atlas-cloud,hackathon",1
+560,https://github.com/danachermesh/inCituAR_App.git,"{""inCitu\xa0democratizes urban development by incentivizing community participation through immersive experiences. Our AR-platform layers planning proposals on top of the built environment, including visualizing their potential impact on their surrounding while crowdsourcing residents' feedback.\xa0""}",,1
+561,https://github.com/cmoa/teenie-week-of-play.git,"Documents a one week intensive focussed on scripting and testing experimental code to document the limitations and capabilities of machine learning, text parsing, and crowdsourcing technologies on making a meaningful contribution to the archival metadata of the Teenie Harris collection.","ner,archives,metadata,library-of-congress,nlp-machine-learning",1
+562,https://github.com/tessify-org/CORE.git,"Tessify Core is a free, open-source social crowdsourcing system (SCS) written in PHP. It uses Laravel as a PHP web framework, following the model–view–controller (MVC) architectural pattern.",,1
+563,https://github.com/volontariat/voluntary_software_evaluation.git,"Draft: plugin for crowdsourcing management system voluntary about brainstorming of different software for a purpose and option to request software, also an open source variant of http://Ruby-Toolbox.com",,1
+564,https://github.com/tomerovadia/WhatWeKnow.git,"What We Know is a fully-responsive interface for crowdsourcing breaking news. As a situation develops, What We Know is a dashboard that collects, centralizes and ranks the best information out there.",,1
+565,https://github.com/mze3e/startupswarm.git,"In collaboration with IE Singapore and our partners, we are crowdsourcing genuine interest from startups in Singapore who wants to access overseas markets and networks by attending events and conference overseas. Collectively apply for the subsidies available for startups through The Market Access Incubation Programme.",,1
+566,https://github.com/Barrytech/SPSOSPSG.git,Team 18 group project starting week 5. This project is on creating a platform for student to work with their peers on idea they are passionated about. This is a chance for student to work on something beyond their classwork assignments. This platform is for crowdsourcing.,,1
+567,https://github.com/SimonJanevski/Unicef-Crowdsourcing-Map.git,"{""iOS Application that uses crowdsourcing and Firebase to provide a way for users with disabilities to report difficulties that they are experiencing throughout the day. Started as a project for Macedonia but I don't see any problem for using it anywhere else.""}","firebase,google-maps,realtime,cocoapods,swift-3",1
+568,https://github.com/mengs/ChineseOpera.git,"Project - 1C Interactive Art and Computational Design, Spring 2013. A processing coded interface with FaceOSC, version 1.0 .  Sichuan Opera is famous for changing face. This application propose an interesting interaction that enables everyone change their faces like an professional opera actor. The QR code in the left bottom links to a crowdsourcing knowledge tank that you can learn about or contribute the knowledge about one specific role in the opera.",,1
+569,https://github.com/jaypatelh/flashteams-foundry.git,"Foundry is an interactive, real-time Javascript interface that allows flash teams to be assembled by anyone and tracked in real time. A flash team is a ""startup"" assembled for just an afternoon/day to build something eg. a full-blown 3d animation film, or an entire mobile app. With Foundry, members of a flash team can seamlessly collaborate with other members, handing off assets, discussing questions and sharing important updates. Real time expert crowdsourcing at its best.",,1
+570,https://github.com/YasCoMa/dscrank.git,"This is an implementation of the method DSCrank for selecting and ranking semantic datasets from catalogues, executing mapping of their data items, delivering this associations to be voted by a crowd (part implemented for web: http://ypublish.info/crowdsourcing-validation/, but configured in the app) and as a final result it does the integration and generates a new version of the source dataset to be interlinked.","data,interlinking,semantic-web",1
+571,https://github.com/KeithYue/Crowdsourcing_in_QA_Sytem.git,"Crowdsourcing is the practice of obtaining needed services, ideas, or content by soliciting contributions from a large group of people, and especially from an online community, rather than from traditional employees or suppliers. Nowa- days, lots of people begain to post their ideas and viewpoints on SNS platforms such as Twitter, Facebook or Sina Weibo. Such information can be collected to identify what is users are good at. Analysising this data on SNS platform can help recognize which expert the user would be on question and answer systems. In a result, the system could provide more accurate people when a user ask a question.",,1
+572,https://github.com/tanujbohra/POWER--A-crowdsourcing-and-freelancing-portal.git,"POWER is a platform in which individuals or organisations obtain goods and services, including ideas and finances from a large group of users. We have provided an online portal named POWER (Promotion of women empowerment and rights) for such a crowdsourcing platform for the Indian government especially for women. - We have used Aadhar/PAN verification for accepting only legitimate users on our website. - To connect all parts of the Indian community we have incorporated multilinguality and IVR features for people in rural parts. - We have used natural language processing and image processing algorithms of Machine Learning to find offensive projects posted or offensive comments posted. - We have also used Artifical Intelligence algorithms to detect fraud detection in transaction process by all users.",,1
+573,https://github.com/Phirat-Passi/Synapse-AI-IoT-CGM-Continuous-Glucose-Monitory-System.git,"Synapse AI presents a high intensity, human-centric design and implementation of a CGM (Continuous Glucose Monitor) system for mobile crowdsourcing disease research and care. This CGM utilizes Internet of Things (IoT) capabilities for monitoring patients remotely and, thus, warning them about potentially perilous situations. The proposed CGM system makes use of Smartphone camera sensors to collect blood glucose concentration values from remote patients and then sends them either to a remote cloud server (where algorithm is stored, here the data is processed to produce a prognosis using previously stored values) to store information and execute rule based decisions (e.g., to warn a doctor when the patient’s blood glucose level is above or below a specific threshold) or to distributed fog computing nodes (e.g. Raspberry Pi). Fog Computing transfers the cloud computational and communication capabilities close to the sensor nodes in order to minimize latency, to distribute computational and storage resources, to enhance mobility and location awareness, and to ease network scalability while providing connectivity among devices in different physical environments. Moreover, in order to exchange reliable, trustworthy and cybersecure data with different potential stakeholders (e.g., patients, medical scientists, doctors and caretakers) of the healthcare ecosystem, the system includes the deployment of a decentralized storage system that receives, processes and stores the collected data in remote cloud server which is essentially a front-end that provides a web interface to remote users in order to allow them to access the stored information in a user-friendly way. This server also runs a back-end service that is responsible for sending notifications to remote users through SMS or instant messaging services.",,1
+574,https://github.com/rahulbot/CMS.631-s15-Favorite-Restaurants.git,Data crowdsourcing homework for MIT Data Storytelling Studio course,,0
+575,https://github.com/someshdube/Crowdsourcing.git,Use crowdsourcing to detect bias in visual datasets,,0
+576,https://github.com/CrowdFoto/CrowdFoto.git,CrowdSourcing image editing application,,0
+577,https://github.com/QROWD/crowd-voc.git,Ontology for describing Crowdsourcing tasks and experiments,,0
+578,https://github.com/Lucky-Sevens/Flickstarter.git,Crowdfunding and crowdsourcing platform for independent filmmakers,,0
+579,https://github.com/nyc-fiery-skippers-2017/MadameRougesAPI.git,back end for crowdsourcing recipe website for Madame Rouges restaurant,,0
+580,https://github.com/Dcooper15/Viva_Lingua.git,VivaLingua is a language crowdsourcing app that was created to help revitalization efforts of endangered languages.,,0
+581,https://github.com/lamat92/co_construisons.git,POC crowdsourcing platform FR ,,0
+582,https://github.com/ahguerilla/movements.git,Crowdsourcing human rights,,0
+583,https://github.com/SSAD28/QA-Application.git,Crowdsourcing Question and Answer Web Application,,0
+584,https://github.com/tony-ou/QoE_experiments_3.git,Crowdsourcing pipeline for video QoE experiments,,0
+585,https://github.com/JukeParty/Juke.git,Juke is an application for crowdsourcing playlists for parties.,,0
+586,https://github.com/MAPC/massbuilds.git,Crowdsourcing authoritative info on recent & ongoing developments in Massachusetts.,,0
+587,https://github.com/CrowdRescueHQ/crowd-govt-framework.git,Operationalize CrowdSourcing for Emergency Management - FEMA Hackathon Oct 21,,0
+588,https://github.com/javierarce/streetlives.git,A map based crowdsourcing site providing information for and from the homeless population of New York City,,0
+589,https://github.com/GSA/Crowdsource-Testing-DHS.gov_9_2016.git,Artifacts from the 9/2016 Federal Crowdsourcing and DHS.gov Crowdsource Compatibility Test-Cycle,,0
+590,https://github.com/anam123/Project-LazyPizza.git,LazyPizza is an application which enables crowdsourcing of food delivery within IIIT Delhi,"crowdsourcing,android,iiit-delhi,ui-design,ux,firebase-database",0
+591,https://github.com/CreativeConch/turnout.git,The self recycling crowdsourcing approach to help youth find events in the Delaware area.,"website,web-application,web-design",0
+592,https://github.com/mikemerin/LearnRate.git,"{""Expansion to Flatiron's Learn.co system to add crowdsourcing of lessons and a callforhelp system""}",,0
+593,https://github.com/kipgparker/Garner-python.git,A library containing all you need to easily integrate with the Garner data crowdsourcing system,"data,crowdsourcing,experiments,machine-learning",0
+594,https://github.com/Monduiz/CrowdiD2.git,New version of iD for the Crowdsourcing project with Statistics Canada,,0
+595,https://github.com/guptajay/iNTUition-v7.0.git,"VaccineTogether is an AI-enabled solution for predicting vaccine side-effects before a dose and global data crowdsourcing to perform analytics, all without compromising user privacy & anonymity.","federated-learning,sap,sapui5,keras,sap-cloud-platform,javascript,python",0
+596,https://github.com/WanAhmadAiman/Python.git,CrowdSourcing,,0
+597,https://github.com/ChulaniKarandana/Gamifield.git,Crowdsourcing,,0
+598,https://github.com/NLW-paulm/Welsh-Tribunal-annotations.git,Annotations created during the crowdsourcing project to identify information in the Cardiganshire War Tribunals. The only surviving tribunals from WW1,,0
+599,https://github.com/singhvishal240891/manirikhi.git,crowdsourcing,,0
+600,https://github.com/hidykong/peakDetection.git,crowdsourcing,,0
+601,https://github.com/MrFidz/Phyton.git,Crowdsourcing,,0
+602,https://github.com/ariwaranosai/nozomi.git,crowdsourcing,,0
+603,https://github.com/SiddharthSham/QuestionBank-Hackathon.git,A website that attempts to create a platform for crowdsourcing questions and provide tools for quickly creating question papers.,"html,css,js,website,flask,python,crowdsourcing-questions",0
+604,https://github.com/txt5220/IST402.git,Crowdsourcing,,0
+605,https://github.com/Aboubacar2012/SwiftRiver.git,Crowdsourcing,,0
+606,https://github.com/suisseworks/crowdsourcing.git,CrowdSourcing,,0
+607,https://github.com/MudduLatha/Ase_CrowdSourcingppt.git,CrowdSourcing,,0
+608,https://github.com/anirbandasgupta/envcrowd.git,crowdsourcing,,0
+609,https://github.com/ChulaniKarandana/GamifieldPlatform.git,Crowdsourcing,,0
+610,https://github.com/mashenka1985/Crowdsourcing.git,Crowdsourcing ,,0
+611,https://github.com/JKord/CSP.git,Crowdsourcing platform,,0
+612,https://github.com/HANYUYuzu/CrowdSourcing.git,C2C CrowdSourcing,,0
+613,https://github.com/ruthkaveke/tunajibu.git,Crowdsourcing Answers,,0
+614,https://github.com/happyxiaoxu/jobspace.git,crowdsourcing project,,0
+615,https://github.com/ktippetts/crowdsource.git,Crowdsourcing framework,,0
+616,https://github.com/shintaamato/crowdsourcing.git,crowdsourcing alogrithm,,0
+617,https://github.com/nypublicradio/crowdsourcing.git,crowdsourcing microservice,,0
+618,https://github.com/ishansrivastava90/crowdsourced-machine-translation.git,Crowdsourcing Translation,,0
+619,https://github.com/smokeybot7/covid_help.git,Crowdsourcing Prototype,,0
+620,https://github.com/h2oloopan/dc.git,Dynamic Crowdsourcing,,0
+621,https://github.com/oalonso/Book.git,Crowdsourcing book,,0
+622,https://github.com/crowdtools/crowdtools.github.io.git,Crowdsourcing tools,,0
+623,https://github.com/Ranjodh-Sandhu/fundd.git,Crowdsourcing Loans,,0
+624,https://github.com/Jasonscor/csp.git,CrowdSourcing Platform,,0
+625,https://github.com/digideskio/Thesis.git,Intelligent Crowdsourcing,,0
+626,https://github.com/alexrpagan/expertsrc.git,Hierarchical crowdsourcing,,0
+627,https://github.com/kinghoul/crowdsourcing-FiscoBcos.git,crowdsourcing-FiscoBcos,,0
+628,https://github.com/Wfxxx-BJTU/BJTUCrowdSourcing.git,Project CrowdSourcing,,0
+629,https://github.com/MowAlon/ask-the-audience.git,Crowdsourcing opinions,,0
+630,https://github.com/chenhajaj/crowd.git,crowdsourcing platform,,0
+631,https://github.com/ckanica/homeice.git,Crowdsourcing experiment,,0
+632,https://github.com/yush-huang/gamification.git,Gamification & Crowdsourcing,,0
+633,https://github.com/laszer25/askaway.git,Crowdsourcing information,,0
+634,https://github.com/pukonu/xtramiles.git,Crowdsourcing application,,0
+635,https://github.com/Cat408/Pearson.git,Pearson Crowdsourcing,,0
+636,https://github.com/superlollo/BDLAB_p4c.git,Crowdsourcing Project,,0
+637,https://github.com/ShuoShuoZ/Crowdsourcing-environment.git,Crowdsourcing environment,,0
+638,https://github.com/arnaudcoj/presentation-crowdsourcing.git,Présentation Crowdsourcing,,0
+639,https://github.com/city2011/MDCTP.git,Crowdsourcing Problem,,0
+640,https://github.com/bcsaldias/project-starlight.git,Crowdsourcing project,,0
+641,https://github.com/ssshah0624/ATMEverywhere.git,Crowdsourcing ATMs,,0
+642,https://github.com/epoz/vetrommeling.git,Crowdsourcing connector,,0
+643,https://github.com/wangQB6/CC.git,Crowdsourcing Computing,,0
+644,https://github.com/yu-suzuki/crowdSimulation.git,crowdsourcing simulation,,0
+645,https://github.com/veleritas/crowdsourcing.git,Crowdsourcing experiments.,,0
+646,https://github.com/bxm156/pycrowd.git,Python Crowdsourcing,,0
+647,https://github.com/haoshuji/ACA.git,Active Crowdsourcing for Annotation,,0
+648,https://github.com/JPinlac/WhatsOnTap.git,Taplist crowdsourcing app.,,0
+649,https://github.com/alexmeis/family.git,Crowdsourcing Family Engagement,,0
+650,https://github.com/nisesen/MassDeck.git,Crowdsourcing music playlists,,0
+651,https://github.com/ledrui/goodnews.git,Crowdsourcing of good news,,0
+652,https://github.com/wchang28/crowdsourcing-api-server.git,Crowdsourcing API Server,,0
+653,https://github.com/JGlass19/CrowdSource-Burger.git,CrowdSourcing Final Project,,0
+654,https://github.com/louishe/Ipp.git,Crowdsourcing project initiation,,0
+655,https://github.com/aidanbeale/Open-Element.git,crowdsourcing weather data,,0
+656,https://github.com/vrann/crowdy.git,Crowdsourcing Platform for GitHub,,0
+657,https://github.com/amitmals/Kickstarter-Data-Analysis.git,Excel: Crowdsourcing trend analysis,,0
+658,https://github.com/JoseDominic/heresanidea.git,Idea crowdsourcing website,,0
+659,https://github.com/p2foundation/firstparcel.git,A crowdsourcing delivery platform,,0
+660,https://github.com/slmohan/QC_CS.git,Quality Control in Crowdsourcing,,0
+661,https://github.com/mingo/Arion.git,CROWDSOURCING DELIVERIES. DONE EASY,,0
+662,https://github.com/mkoons/denverAnthro.git,Base code for crowdsourcing,,0
+663,https://github.com/tokenstarter/whitepaper.git,Crowdsourcing for whitepaper,,0
+664,https://github.com/jeanbaptistebeck/solusourcing.git,Le Crowdsourcing chez Solucom !,,0
+665,https://github.com/kstoumpos/web-ceid.git,crowdsourcing platform (university project),,0
+666,https://github.com/translatege/crowdsourcing.git,Translate.ge Crowdsourcing Portal,,0
+667,https://github.com/shahakshat609/Freeelancer.git,Freelancer Prototype... Crowdsourcing marketplace..,,0
+668,https://github.com/mc2259/Petsent.git,Pet crowdsourcing and gamification,,0
+669,https://github.com/rsinha/crowdprover.git,Crowdsourcing program verification,,0
+670,https://github.com/PinkKitten/WeDesign.git,Crowdsourcing Fashion Designs,,0
+671,https://github.com/osmottawa/CrowdiD.git,iD for Crowdsourcing buildings,,0
+672,https://github.com/gbayomi/multicrowd.git,multimodal crowdsourcing platform,,0
+673,https://github.com/bengitles/final_project.git,Crowdsourcing Final Project,,0
+674,https://github.com/SalomeCx/TuyaTag.git,Android Crowdsourcing Application,,0
+675,https://github.com/YuanHaoReginald/Babel.git,Translation crowdsourcing platform.,,0
+676,https://github.com/menisy/Wright.git,just some crowdsourcing!,,0
+677,https://github.com/jacobhall/Project-Ewok.git,Location based crowdsourcing,,0
+678,https://github.com/lulu2080/crowdsourcing-demo.git,crowdsourcing demo project,,0
+679,https://github.com/nsnell1/JplConnect.git,JPL Crowdsourcing project,,0
+680,https://github.com/timakin/tobitate.git,"Crowdsourcing platform named ""tobitate""",,0
+681,https://github.com/diankuai/dian-cs.git,Crowdsourcing for diankuai,,0
+682,https://github.com/NikosCho/GetItFixed.git,Web-based crowdsourcing application,,0
+683,https://github.com/crowdcrawler/TwitterCrawler.git,Crawling Twitter with Crowdsourcing,,0
+684,https://github.com/dorisjlee/segmentation.git,crowdsourcing segmentation analysis code,,0
+685,https://github.com/raul-arrabales/machismo.git,Crowdsourcing Male Chauvinism Dataset ,,0
+686,https://github.com/nemesiscodex/security-map.git,Security crowdsourcing map (WIP),,0
+687,https://github.com/CarYanG/Crowdsourcing.git,Crowdsourcing Quality Control ,,0
+688,https://github.com/uw-hai/crowd-data.git,Wrappers for crowdsourcing datasets,,0
+689,https://github.com/chaitanyamittal/calsource.git,Crowdsourcing Berkeley talent.,,0
+690,https://github.com/RheaChatterjee/TCM2340.git,Clean Water Crowdsourcing App ,,0
+691,https://github.com/bqevin/jamii-platform.git,everything about crowdsourcing infomation,,0
+692,https://github.com/vishnukumarnekkanti/DisRes.git,Crowdsourcing crisis information,,0
+693,https://github.com/rudzaytsev/CNews.git,Crowdsourcing news portal,,0
+694,https://github.com/mosaic01/yizhangmen.git,Service crowdsourcing platform,,0
+695,https://github.com/pmandera/vocab-crowd.git,Vocabulary crowdsourcing project,,0
+696,https://github.com/ATeletubby/MSC-experiment.git,experiment about mobile crowdsourcing,,0
+697,https://github.com/cboonnag/meenai-bot.git,Meenai bot for crowdsourcing,,0
+698,https://github.com/JKNCC/Solveze.git,Solveze Integrated Crowdsourcing Platform,,0
+699,https://github.com/thunderboltsid/jBudget.git,Crowdsourcing university budgets,,0
+700,https://github.com/willchang/Team-Omni.git,Car Crowdsourcing webapp,,0
+701,https://github.com/wchang28/cwds-samples.git,Crowdsourcing API Extensions Samples,,0
+702,https://github.com/Candicess/CrowdIQ.git,a crowdsourcing platform,,0
+703,https://github.com/arjunmanathanath/icare.git,Health crowdsourcing platform,,0
+704,https://github.com/KruskalLin/SECIII.git,Crowdsourcing tags frontend,,0
+705,https://github.com/isaacflage/basic-fitness-app.git,Basic crowdsourcing fitness app,,0
+706,https://github.com/wombat78/acte.git,Automatic Crowdsourcing Transcriber Engine,,0
+707,https://github.com/fthzkrtn/bss.git,Bus Stop Crowdsourcing Application,,0
+708,https://github.com/xupeilong/CrowDev.git,Crowdsourcing Developent Platform,,0
+709,https://github.com/wchang28/crowdsourcing-api.git,Crowdsourcing API and Server,,0
+710,https://github.com/pavelk2/imagerender.git,Image Render For Crowdsourcing,,0
+711,https://github.com/zoeyirkast/metahex.git,Decentralized Crowdsourcing Metadata ,,0
+712,https://github.com/Turgibot/Ruppin.git,CrowdSourcing and Collective Intelligence ,,0
+713,https://github.com/jpriniski/CrowdsourcingExperiments.git,Repo for crowdsourcing experiments,,0
+714,https://github.com/juhojuho/PaperGalaxy.git,[CS492: Crowdsourcing] Course Project,,0
+715,https://github.com/floppystick6/Sparkfun-BeatBag.git,Crowdsourcing an algorithm ,,0
+716,https://github.com/jcolag/ComicRight.git,Prototype for crowdsourcing website,,0
+717,https://github.com/idilhaq/twitter_crowdsourcing_odz.git,Crowdsourcing data menggunakan Twitter,,0
+718,https://github.com/zeroyingz/crowdsourcing-notes.git,take notes about crowdsourcing,,0
+719,https://github.com/nickmcintyre/tamug-seminar.git,Crowdsourcing seminar code,,0
+720,https://github.com/jcolag/ComicRight.git,Prototype for crowdsourcing website,,0
+721,https://github.com/floppystick6/Sparkfun-BeatBag.git,Crowdsourcing an algorithm ,,0
+722,https://github.com/nickmcintyre/tamug-seminar.git,Crowdsourcing seminar code,,0
+723,https://github.com/zeroyingz/crowdsourcing-notes.git,take notes about crowdsourcing,,0
+724,https://github.com/kerdahl/crowdsource-color.git,Crowdsourcing identifying colors,,0
+725,https://github.com/avisochek/tumor_classification.git,"crowdsourcing of tumor classification,",,0
+726,https://github.com/m-asghari/SCFramework.git,Framework for Spatial Crowdsourcing,,0
+727,https://github.com/sunzy301/remote-sensing-label.git,Remote sensing crowdsourcing label,,0
+728,https://github.com/Russell-Ford/hotpot.git,Music dj crowdsourcing app,,0
+729,https://github.com/slopsang/GradientProj.git,Crowdsourcing Parking Finder,,0
+730,https://github.com/tabeklintang/csdi.github.io.git,crowdsourcing spatial data infrastructure,,0
+731,https://github.com/xxRanger/ContractCrowdsourcing.git,crowdsourcing on smart contract,,0
+732,https://github.com/digiblitz/menschForce.git,A Decentralized Crowdsourcing Marketplace,,0
+733,https://github.com/sekaranglila/projectTA.git,TA Project - Crowdsourcing,,0
+734,https://github.com/bengitles/info-extraction.git,Crowdsourcing Homework #6,,0
+735,https://github.com/nasa-petal/data-collection-and-prep.git,"Starting with a list of URLs of papers that can be used for crowdsourcing, create a CSV file with the URL, DOI of the paper, Title, Abstract, and if the paper is open access",,0
+736,https://github.com/hadrianpaulo/Cura.git,An Android Drug Crowdsourcing Application,,0
+737,https://github.com/heolin123/funcrowd.git,WIP: opensource crowdsourcing engine backend,,0
+738,https://github.com/sbolel/crowdlearn-angular.git,Social Computing & Crowdsourcing - Hackathon 3,,0
+739,https://github.com/jessicanovia/fyp-buscrowdsourcing.git,final year project on crowdsourcing,,0
+740,https://github.com/simonacampo/evaluation-platform.git,community evalutions of crowdsourcing platforms,,0
+741,https://github.com/marcellonovaes/crowdsub.git,Crowdsourcing system for video subtitling,,0
+742,https://github.com/alexwestco/mmamatchups.git,A crowdsourcing mma matchups website,,0
+743,https://github.com/lacinoire/project-spacebar.git,Crowdsourcing a bar via gamification,,0
+744,https://github.com/prakashved/crowdsource-internal.git,Codes for the CrowdSourcing project,,0
+745,https://github.com/yati-sagade/good-samaritans.git,An app for crowdsourcing goodness.,,0
+746,https://github.com/edpaget/crowd-demo.git,Crowdsourcing Demo in Clojure/ClojureScript,,0
+747,https://github.com/fagray/grfy.git,Crowdsourcing platform for all dreamers.,,0
+748,https://github.com/mgknair/Webahn.git,Crowdsourcing platform for public transportation.,,0
+749,https://github.com/ubriela/irain-web.git,Weather crowdsourcing project web application ,,0
+750,https://github.com/lsu-emdm/cats.git,Crowdsourcing Automatic Transcription of Songs,,0
+751,https://github.com/lomotech/ayeaye-web.git,ayeaye - crowdsourcing untuk elak saman.,,0
+752,https://github.com/ofirgott/Toplate.git,Workshop in data-centered crowdsourcing,"crowdsourcing,android-application,tau",0
+753,https://github.com/afreen786/Speak-Up.git,Android application related to crowdsourcing,,0
+754,https://github.com/jamesurquhart/wardleyvoting.git,App for crowdsourcing Wardley evolutions,,0
+755,https://github.com/musuudi/mujulizi.git,Election Monitoring | Human Rights | Crowdsourcing,,0
+756,https://github.com/Rickyuu/CSD.git,A demo project for crowdsourcing.,,0
+757,https://github.com/melisoner2006/colorsourcing.git,Crowdsourcing client for naming colors,,0
+758,https://github.com/saltyspinoza/cookbooks.git,Crowdsourcing Community Cookbooks from India,,0
+759,https://github.com/smrandhawa/Karamad.git,a voice-based crowdsourcing marketplace,,0
+760,https://github.com/sohinithota/BiasResearch.git,Research project based around crowdsourcing. ,,0
+761,https://github.com/jiwon85/NewsApp.git,Human Crowdsourcing and Computation project,,0
+762,https://github.com/ahakanergun/busstop-donation.git,Bus-stop crowdsourcing web application,,0
+763,https://github.com/qblone/crowdsourcing-ipv6.git,Crowdsourcing tools for IPv6 study,,0
+764,https://github.com/Soumya2901roy/covidwarriors.git,Covid Resources in India- crowdsourcing,,0
+765,https://github.com/Thankalv/easytv_crowdsourcing.git,Crowdsourcing project - Docker deployment repo,nodejs,0
+766,https://github.com/SoloTechno/SoloWaterAndroid.git,Clean Water Crowdsourcing App (Android),,0
+767,https://github.com/conordowling/MechanicalTweet.git,Crowdsourcing for twitter data labelling.,,0
+768,https://github.com/InternityFoundation/WESHARE_2009.git,We Share - Crowdsourcing of Medicine,,0
+769,https://github.com/Mpak1996/Crowdsourcing-Web-App.git,CrowdSourcing Application CEID Web Development,"spring-tool-suite,web-application,crowdsourcing,java-maven,javascript-framework",0
+770,https://github.com/linsemathew/Chowsource.git,Restaurant menu generated through crowdsourcing.,,0
+771,https://github.com/pomelofrost/olympicfts.git,Crowdsourcing Frame-by-Frame Animation,,0
+772,https://github.com/jbragg/juggler.git,Parallel Task Routing for Crowdsourcing,,0
+773,https://github.com/dusandjovanovic/mapper.git,Android location-based crowdsourcing application.,,0
+774,https://github.com/ayswaryarkurup/task-aggregation.git,task aggregation in crowdsourcing systems,,0
+775,https://github.com/janetchapman/Crowd2map.git,Crowdsourcing maps in rural Tanzania,,0
+776,https://github.com/ubriela/phd-thesis.git,Location privacy in spatial crowdsourcing,,0
+777,https://github.com/hiryou/mturktutor.git,Exercises on MTurk and Crowdsourcing,"crowdsourcing,nltk",0
+778,https://github.com/aurobindoc/TrainSimulator.git,Predict Tain Location using Crowdsourcing,,0
+779,https://github.com/MicroPasts/projectData.git,Data from the Crowdsourcing activities,,0
+780,https://github.com/thesoorae/IndieMomo.git,Crowdsourcing orders for food entrepreneurs,,0
+781,https://github.com/nesl/TruthDiscovery.git,Truth discovery in crowdsourcing applications,,0
+782,https://github.com/jrmgarcia/pasabay_app.git,An Errand Crowdsourcing Mobile Application,,0
+783,https://github.com/fwhalee/crowdinside.git,generate network with crowdsourcing data,,0
+784,https://github.com/nypublicradio/crowdsourcing-client.git,ember client to crowdsourcing microservice,,0
+785,https://github.com/Savinda/chaching-light.git,Crowdsourcing version of ChaChing App,,0
+786,https://github.com/ArthurBonsu/SOLARBAY.git,The solar project for crowdsourcing,,0
+787,https://github.com/kaxevgg/fakeout-react.git,CrowdSourcing Truth in Social Media,,0
+788,https://github.com/ristau/Jumpstart.git,landing page for crowdsourcing website,,0
+789,https://github.com/elielsonms/crowbus.git,Crowdsourcing solution for bus informations,,0
+790,https://github.com/RomanVassilenko/hello-world.git,Crowdsourcing for stolen car return,,0
+791,https://github.com/mskeerthi/TeleICU.git,Tele ICU project from CrowdSourcing,,0
+792,https://github.com/sgilman/undesign-the-redline.git,Undesign the Redline crowdsourcing app,,0
+793,https://github.com/ayswaryarkurup/task-recommendation.git,task recommendation in crowdsourcing systems,,0
+794,https://github.com/sysuworkflower/CrowdSourcing.git,a crowdsourcing application based on business object oriented workflow engine. the best crowdsourcing platform.,,0
+795,https://github.com/bnhe/ManyMindsMining.git,A crowdsourcing site prototype that implements the Find-Fix-Verify crowdsourcing algorithm,,0
+796,https://github.com/escueladebits/TagAttack.git,A collections crowdsourcing game for the British Library Labs Crowdsourcing Game Jam 2015,,0
+797,https://github.com/StanfordHCI/rsvp.git,Embracing Error to Enable Rapid Crowdsourcing,,0
+798,https://github.com/ubriela/weathercrowdsourcingviz.git,Visualization Toolbox for Hyperlocal Spatial Crowdsourcing,,0
+799,https://github.com/karelklein/CleanWaterSourcing.git,Application for crowdsourcing clean water sources.,,0
+800,https://github.com/Anasauce/JustUs.git,React Application for Crowdsourcing Community Resources,,0
+801,https://github.com/dillontitcomb/fundl8er.git,Angular week 4 exercise: crowdsourcing website,,0
+802,https://github.com/ayswaryarkurup/Workload-generator.git,A workload data generator for crowdsourcing systems,,0
+803,https://github.com/LucySuddenly/trans-friendly-medical-providers-frontend.git,Frontend of crowdsourcing website for trans people ,,0
+804,https://github.com/wang12d/Crowdsourcing.git,A private-preserving crowdsourcing based on blockchain,,0
+805,https://github.com/alexberger01/CrowdsourcingWebsite.git,website template for all crowdsourcing projects,,0
+806,https://github.com/crowdworkshopamivetami/lastSeenRepoForTests.git,Repository for lastSeen App. Crowdsourcing workshop TAU.,,0
+807,https://github.com/kalys/sapat.git,City problems crowdsourcing system in Elixir/Phoenix,,0
+808,https://github.com/xiaotengliu/The-survey.git,A survey：mobile crowdsourcing in smart cities,,0
+809,https://github.com/electeic/H-ope-.git,our attempt at an crowdsourcing donations app,,0
+810,https://github.com/AntoBrandi/Master-Thesis.git,Crowdsourcing platforms in heterogeneous IoT Systems,,0
+811,https://github.com/manirikhi/crowdsourcing.git,crowdsourcing application using java and angular.js,"java,angularjs,crowdsourcing,html,css3,javascript",0
+812,https://github.com/sahil9001/covid19nitrr_web.git,Admin panel for a crowdsourcing application,,0
+813,https://github.com/kanojikajino/instance_privacy.git,"Code for ""Instance-privacy preserving crowdsourcing""",,0
+814,https://github.com/amazingandyyy/crowdsourcing-anything.git,Crowdsourcing from your user for anything,,0
+815,https://github.com/Crowd4SDG/crowdnalysis.git,Library to help analyze crowdsourcing results,,0
+816,https://github.com/steflyx/crowdsourcing.git,A crowdsourcing app for detecting claims,,0
+817,https://github.com/xinxiaozhe12345/Deeplearning.git,A crowdsourcing platform for image processing,,0
+818,https://github.com/NUDelta/sccs.git,NU Social Computing and Crowdsourcing Course,,0
+819,https://github.com/qoharu/vidukasi.git,Vidukasi - Portal Crowdsourcing Video Pembelajaran Formal,,0
+820,https://github.com/matinjugou/crowdsourcing-platform-server.git,Sever Side for Our Crowdsourcing Platform,,0
+821,https://github.com/kiang/ParkPoi.git,crowdsourcing to maintain parks data in Tainan,,0
+822,https://github.com/Ekula/uSquam_frontend.git,The front-end of our crowdsourcing platform,,0
+823,https://github.com/mertymcgraw/Citizen-Scientist.git,A crowdsourcing platform for environment data collection,,0
+824,https://github.com/alxrod/Surplus.git,A mobile charity crowdsourcing app for TeenHacksLI,,0
+825,https://github.com/bertassi/netcrowd.git,A NetLogo micro-task crowdsourcing platform simulator.,,0
+826,https://github.com/xinxiaozhe12345/ImageTagging.git,A crowdsourcing platform for image processing,,0
+827,https://github.com/solid-af/crowdreview.git,A website for crowdsourcing github code reviews.,,0
+828,https://github.com/vrann/crowdsourcing.git,Simple Crowdsourcing platform based on GitHub,,0
+829,https://github.com/Sirius207/crowdsourcing-papernote.git,Summaries and notes on Crowdsourcing research papers,"crowdsourcing,spatial-crowdsourcing",0
+830,https://github.com/jads1788/quickstarter.git,Crowdsourcing company: data analysis and recommendations.,,0
+831,https://github.com/cavacH/crowdStrength.git,Online Crowdsourcing Platform Supporting Customized Tasks,,0
+832,https://github.com/ahb108/japanrice.git,Crowdsourcing application for Japanese rice datasets,,0
+833,https://github.com/nathanandersen/OnForte.git,"A cross-platform, crowdsourcing music playlist application.",,0
+834,https://github.com/legua25/project-rhea.git,Thesis project - Timetable construction based on crowdsourcing,,0
+835,https://github.com/Shikkic/GitPaid.me.git,Chrome extension for crowdsourcing GitHub issue solutions,,0
+836,https://github.com/cscw-class/trab2-crowdsourcing-manha.git,trab2-crowdsourcing-manha created by GitHub Classroom,,0
+837,https://github.com/timothylou/AroundTown.git,an event crowdsourcing and notification app,,0
+838,https://github.com/pieper/crowdquant.git,A stripped down viewer for crowdsourcing measurements ,,0
+839,https://github.com/LordZamy/Moana.git,CS 2340 Water Crowdsourcing Project Repo.,,0
+840,https://github.com/Legobox-co/CampusLocate.git,crowdsourcing and verifying locations around you.,,0
+841,https://github.com/GeodanDemo/gmiddag_dash.git,Demonstration of crowdsourcing app with geolocated pictures,,0
+842,https://github.com/Sohaib90/Sparkle-Crowd-.git,Crowdsourcing for children (Human Computer Interaction Project),,0
+843,https://github.com/wang12d/Go-Crowdsourcing-Dapp.git,A go ethereum based crowdsourcing application,,0
+844,https://github.com/martnga/techjobs.ke.git,Crowdsourcing available jobs in a location,,0
+845,https://github.com/khanalasim/earthquakeMapAndroid.git,Android app for crowdsourcing earthquake responses,,0
+846,https://github.com/ahb108/JapanAirTemp.git,Crowdsourcing app for Japanese historical meteorological data.,,0
+847,https://github.com/ui-libraries/hawkeyeslides.git,Crowdsourcing metadata for Hawkeye athletic slides,,0
+848,https://github.com/Huygaa/essence.csp.git,Crowdsourcing Platform on OmegaWiki & WordNet alignments,,0
+849,https://github.com/MistralOcean/CrowdVR360.git,Google Expeditions/360° image/Crowdsourcing/Cardboard/VR,,0
+850,https://github.com/MediWait/MediWait.git,The crowdsourcing app for medical wait lines,"crowdsourcing,medical,waitlist",0
+851,https://github.com/tirkarp/crowdBit.git,Data crowdsourcing with partial automatic verification,,0
+852,https://github.com/tattle-made/tattle-android.git,Android App for Crowdsourcing Whatsapp Posts,,0
+853,https://github.com/pccisme/Interactive-Web-Pages-For-Image-Labeling-Scene.git,Course: INF 385T Crowdsourcing CPU Vision,"crowdsourcing,html,css,javascript,computervision",0
+854,https://github.com/uw-hai/MicroTalk.git,Repo for MicroArgument Crowdsourcing Web Tool,,0
+855,https://github.com/lanj/MDX-CrowdParking.git,Parking application that uses crowdsourcing data ,,0
+856,https://github.com/banuays/PRIME-CSAnim.git,PRIME project code for a crowdsourcing experiment,"javascript,bpmn-io",0
+857,https://github.com/girishjeyakumar/WhenBus.git,Real time crowdsourcing app for MTC,,0
+858,https://github.com/JoeLayne/coviewed_annotation_app.git,"{""Project COVIEWED's claim crowdsourcing application""}",,0
+859,https://github.com/ajasniew/crowdsource.git,simple app to provide information about crowdsourcing,,0
+860,https://github.com/v-ramachandran/crowd-flow-poc.git,Proof of Concept for a Crowdsourcing Workflow.,,0
+861,https://github.com/Pirri123/Crowdsourcing.git,Crowdsourcing proyect for Web Development class,,0
+862,https://github.com/davidtranno1/ptspc.git,Probabilistic Travelling Salesman Problem with Crowdsourcing,,0
+863,https://github.com/felis/BMC-configs.git,Boulder Medical Crowdsourcing Slicer Configuration Repository,,0
+864,https://github.com/TheCrowfatherr/foodstock.git,Food products crowdsourcing serverless web application.,,0
+865,https://github.com/LiPingjiang/Pixel-Galary.git,Minimalism + Crowdsourcing + Color learning + Newest Library,,0
+866,https://github.com/EugeneZolotukhin/GroceryRadiationApp.git,Grocery Radiation Survey Crowdsourcing Application for Japan,,0
+867,https://github.com/thomasfl/boligprisindeks.git,Crowdsourcing forecasts for real estate prices,,0
+868,https://github.com/thomsedavi/davenotes-app.git,A tool for crowdsourcing student notes,,0
+869,https://github.com/FrankYang0529/IDLE.git,A Crowdsourcing System for 2017 CIKM Demonstrations,,0
+870,https://github.com/rosieswj/NewTab.git,Chrome NewTab project crowdsourcing FB privacy settings,,0
+871,https://github.com/hilalh/realworld-fullstack-js.git,📦 Containerized MERN app for crowdsourcing info,,0
+872,https://github.com/suhan1996/NYUSHerLifeGuide.git,Crowdsourcing of life advices for NYUSH kids,,0
+873,https://github.com/wangQB6/QCSM.git,Statistical Model for QA dataset Crowdsourcing,,0
+874,https://github.com/ShadKip/AfyaChanga.git,Crowdsourcing mobile platform for health care needs,,0
+875,https://github.com/Creative-Licence-Digital/kick-ed.git,Content CrowdSourcing for the Ed platform,,0
+876,https://github.com/papermartine/frickscription.git,Crowdsourcing project for an art museum.,,0
+877,https://github.com/hardikpanchal26/Crowdsourcing.git,Enabling crowdsourcing concept to deliver retailer services,,0
+878,https://github.com/LiPingjiang/Pixel-Galary.git,Minimalism + Crowdsourcing + Color learning + Newest Library,,0
+879,https://github.com/thomasfl/boligprisindeks.git,Crowdsourcing forecasts for real estate prices,,0
+880,https://github.com/EugeneZolotukhin/GroceryRadiationApp.git,Grocery Radiation Survey Crowdsourcing Application for Japan,,0
+881,https://github.com/thomsedavi/davenotes-app.git,A tool for crowdsourcing student notes,,0
+882,https://github.com/FrankYang0529/IDLE.git,A Crowdsourcing System for 2017 CIKM Demonstrations,,0
+883,https://github.com/Geeklog-GSoC/Crowdsourcing-Translations.git,GSoC 2013: Benjamin Talic / Crowdsourcing Translations Plugin,,0
+884,https://github.com/Evgeneus/scope-based-classification-algorithm.git,Crowdsourcing Paper Screening in Systematic Literature Reviews,,0
+885,https://github.com/Faisal-Alfaifi/arasense.git,crowdsourcing ground truth for data mining,,0
+886,https://github.com/ecodistrict/CrowdsourcingModule.git,The Ruby on Rails crowdsourcing module.,,0
+887,https://github.com/pablomorales92/VGPCR.git,Variational Gaussian Processes for Crowdsourcing problems,,0
+888,https://github.com/DCroSSLab/dcross-telegram-bot.git,DCroSS Crowdsourcing Bot for Telegram Messaging Platform,,0
+889,https://github.com/sdleitch/document-tagger.git,A Sinatra scaffold for crowdsourcing document tagging.,,0
+890,https://github.com/maral/DameMatiku.git,Crowdsourcing platform for localized educational videos,,0
+891,https://github.com/MicroPasts/NFPA-SetleyNews2.git,Crowdsourcing app for German POW newsletters,,0
+892,https://github.com/emileaben/openipmap.git,OpenIPMap is an IP geolocation crowdsourcing effort,,0
+893,https://github.com/houcembenmahfoudh/gerec.git,Dynamic mobile network simulator for crowdsourcing,,0
+894,https://github.com/tjblonsk/wedding-playlist-maker.git,Crowdsourcing tool for creating wedding playlists,,0
+895,https://github.com/punkrockio/oclub.git,Club to work together and crowdsourcing.,,0
+896,https://github.com/Chococoin/Crowdsourcing.git,A wepapp for help our Crowdsourcing Project.,,0
+897,https://github.com/Rhohen/HD12-Taskslist.git,A crowdsourcing application made with angular,,0
+898,https://github.com/DeFilippis/crowdsource_main.git,Main webpage for the Epistemic Crowdsourcing Contest,,0
+899,https://github.com/pccisme/Image_Annotation_Mobile_Application.git,Course: INF 385T Crowdsourcing CPU Vision,"react-native,mobile-app,annotation-tool",0
+900,https://github.com/Model-Marketplace/data-api.git,Backend for crowdsourcing data collection platform,,0
+901,https://github.com/beruti/Project2.git,Cabin Collective - Crowdsourcing Collective Build Projects,,0
+902,https://github.com/nrsantamaria/gamergoals.git,A crowdsourcing app for video games.,,0
+903,https://github.com/funkymonk3y/questizzle.git,A tool for crowdsourcing questions and assessments.,,0
+904,https://github.com/Maelhann/ExplOre.git,Crowdsourcing ore exploration - - Barrick innovate 2017 [Hackathon],"android-application,crowdsourcing,minerals,gold",0
+905,https://github.com/Model-Marketplace/data-client.git,Frontend for crowdsourcing data collection platform,,0
+906,https://github.com/tom-wr/infinity-tag.git,Prototype for a museum interactive crowdsourcing system,,0
+907,https://github.com/SrutiG/SRAT-website.git,Clean water crowdsourcing website for CS 2340,,0
+908,https://github.com/bradbrock/ml-tracker.git,An app for crowdsourcing store inventory.,,0
+909,https://github.com/heng2j/Deep_Images_Hub.git,Crowdsourcing Labeled Images on User Demands,,0
+910,https://github.com/pccisme/Interactive-Web-Pages-For-Image-Labeling-Object.git,Course: INF 385T Crowdsourcing CPU Vision,"crowdsourcing,html,css,javascript,computervision",0
+911,https://github.com/OOsiriSS/Crowdsourcing-Tags-System.git,"A Crowdsourcing Tags System (Java, Web, MySQL)",,0
+912,https://github.com/AlessandroChecco/Hcomp2019.git,Repeatability and Reproducibility of Crowdsourcing results,,0
+913,https://github.com/trajkd/MindEmpathy-wp.git,MindEmpathy - A collaborative crowdsourcing platform with Wordpress,,0
+914,https://github.com/empatwi/crowdsourcing.git,Front-end da plataforma de Crowdsourcing,"javascript,reactjs",0
+915,https://github.com/agjunior/presentation-crowdsourcing.git,Presentation on crowdsourcing and co-creation ,,0
+916,https://github.com/GlobePH/Quapp.git,Crowdsourcing tool for government services client feedback,,0
+917,https://github.com/JoSommer/crowdgenerator.git,Wordpress Plugin for social crowdsourcing and organizing,,0
+918,https://github.com/Anasauce/JustUs-1.git,React Application for Crowdsourcing Community Resources,,0
+919,https://github.com/iHEARu-PLAY/iHEARu-PLAY.git,iHEARu-PLAY - the intelligent gamified crowdsourcing platform,,0
+920,https://github.com/dtseng123/derrick-cazard-foundation-crowdfund-.-.git,Derrick Cazard Foundation New Site with Crowdsourcing,,0
+921,https://github.com/ViralTexts/VT-Genre-Automaton.git,A Viral Texts Project Crowdsourcing App,,0
+922,https://github.com/jbieliauskas/youtube-summaries.git,Crowdsourcing solution for summarizing youtube videos.,"youtube,crowdsourcing",0
+923,https://github.com/LucySuddenly/trans-friendly-medical-providers-backend.git,Frontend of crowdsourcing website for trans people ,,0
+924,https://github.com/pathumego/koombi.org.git,An open source crowdfunding and crowdsourcing platform.,,0
+925,https://github.com/maribelacosta/microtask_ontology.git,Specification of the ontology of  Microtask Crowdsourcing,,0
+926,https://github.com/dilmanous/Neuropia.git,Crowdsourcing Game for Neuronal Morphometric Analysis,,0
+927,https://github.com/kixlab/Narrative-Sequence-Analysis.git,Crowdsourcing application for narrative sequence analysis,,0
+928,https://github.com/kmwamasali/fertifund.git,A Crowdsourcing Application Build In React,,0
+929,https://github.com/Amena99/CharityProject.git,TimeLender facilitates crowdsourcing for community volunteering events.,,0
+930,https://github.com/trajkd/MindMates-wp.git,A collaborative crowdsourcing network for schools,"hackathon,school-project,school-education,education,schools,students,teachers,parents,teaching,peer-to-peer,network,collaboration,remote-work,homework-assignments,homework,crowdsourcing,elearning",0
+931,https://github.com/lbarberiscanoni/CrowdElo.git,Crowdsourcing with the Elo Rating System,,0
+932,https://github.com/sayidatul-sufur/INF206-2021-DY2-Amanah.com.git,proyek RPL mengenai Crowdsourcing Acara Desa,,0
+933,https://github.com/luisdaniel/crowdsourcing_org_scraper.git,Scraper to get a list of Crowdsourcing organizations from the site crowdsourcing.org,,0
+934,https://github.com/kixlab/cs492-fall-2016.git,Course Website and Resources for CS492 (Crowdsourcing) in Fall 2016,,0
+935,https://github.com/Huabster/Booked.git,Mobile Application for an online library system through crowdsourcing,,0
+936,https://github.com/jacobs269/CHUG-FM-Data.git,Crowdsourced HUG-FM data from a crowdsourcing experiment,,0
+937,https://github.com/vasilchenkob/Langscape-entry.git,A crowdsourcing tool to be used for language data collection,,0
+938,https://github.com/barbumadalina/be-parked.git,Crowdsourcing mobile application for identifying free curbside parking spaces.,,0
+939,https://github.com/PhilSmith26/Statscannabis.git,R program to analyze the Statscannabis crowdsourcing database,,0
+940,https://github.com/mpestana/ContaskApp.git,Prototyping a context-aware task distribution for crowdsourcing issues,,0
+941,https://github.com/Ajapaik/ajapaik-people.git,prototype for a crowdsourcing face tagging web application using IIIF,,0
+942,https://github.com/vidriloco/LokiApp.git,A prototype app for vehicle location crowdsourcing and discovery,,0
+943,https://github.com/hcutler/nets213-finalproj.git,Final group project for NETS 213 (Crowdsourcing / Human Computation),,0
+944,https://github.com/lalitagarwal/Crowdsouced-System-for-Detecting-Multi-lingual-Plagiarism.git,A crowdsourcing system to identify plagiarized documents across languages.,,0
+945,https://github.com/ashpriom/Reemot.git,A crowdsourcing platform for remote contractors and freelancers.,,0
+946,https://github.com/andyfoster/justice-fund.git,Our designs for the justice fund crowdsourcing site,,0
+947,https://github.com/PoornimaSuresh/LiveReview.git,Android application for location-based crowdsourcing of information.,,0
+948,https://github.com/rplaughlin/ivan-ai.git,Web based artificial intelligence service using crowdsourcing to get information.,,0
+949,https://github.com/tongning/crowdtunes.git,"An automatic music generation site utilizing crowdsourcing, created for HackUMBC",,0
+950,https://github.com/alexlopashev/crowdsink.git,Yet another attempt of delivering crowdsourcing idea to the world,,0
+951,https://github.com/FMena14/MixtureofGroups.git,Mixture of Groups for Learning in Crowdsourcing Scenarios,,0
+952,https://github.com/vladislavneon/ya-toloka-course.git,Solutions for crowdsourcing data collection using Yandex.Toloka course,,0
+953,https://github.com/austriker27/HaloClubPlaylistMaker.git,Official Woodinville Halo Club LAN party playlist maker via crowdsourcing,,0
+954,https://github.com/emilyxia/User-data-aggregation.git,User data aggregation for StallCatchers.com Crowdsourcing Initiative,,0
+955,https://github.com/CopenhagenCityArchives/apacs-stats-frontend.git,Stats from the crowdsourcing projects at Copenhagen City Archives,,0
+956,https://github.com/alianos-/minimumAnswers.git,Estimate the minimum amount of answers needed for crowdsourcing systems.,,0
+957,https://github.com/rburhum/amigocloud-crowdsourcing-sample.git,Example of how to do crowdsourcing application in AmigoCloud,,0
+958,https://github.com/crowdsourcing-cybersecurity/streamgraphs.git,Crowdsourcing Cybersecurity: Cyber Attack Detection using Social Media,,0
+959,https://github.com/DariahBE/OmekaS-demo.git,A proof of concept for crowdsourcing using Omeka S,,0
+960,https://github.com/DariahBE/OmekaS-demo.git,A proof of concept for crowdsourcing using Omeka S,,0
+961,https://github.com/ovalb/CrowdsourcingUnimi.git,Crowdsourcing Database project 2018. Universitá degli studi di Milano.,,0
+962,https://github.com/qiusihang/csbot.git,CHI 2020 - Improving Worker Engagement Through Conversational Microtask Crowdsourcing,,0
+963,https://github.com/eliaslawrence/livreiro.git,Crowdsourcing application called Livreiro for the context of audiobook production.,"ionic,android,audiobook,tts",0
+964,https://github.com/VarvarigosG/Web-Development-App.git,Crowdsourcing System for Recording and Exploiting User Activity Data,,0
+965,https://github.com/MariusCC/django-crowdsourcing.git,Automatically exported from code.google.com/p/django-crowdsourcing,,0
+966,https://github.com/jasonweibel/LetsSolveIt.git,"Crowdsourcing solution created in .net framework, angular, and typescript.",,0
+967,https://github.com/Sentilyzer/web-frontend.git,Laravel 5 application for Sentilyzer project administration and crowdsourcing,,0
+968,https://github.com/Logicae/weather-it.git,React/Redux weather crowdsourcing application with Rails API.,,0
+969,https://github.com/NamithaNinan/CMPE295-initialWebsiteDraft.git,Basic template of website for SEVA-crowdsourcing medical assistance,,0
+970,https://github.com/haensl/ask-the-crowd.com.git,Home of curious surveys aka crowdsourcing knowledge generation portal.,,0
+971,https://github.com/jkleiber/Wildfire-Detector.git,Senior Capstone Project - Crowdsourcing the detection of wildfires,"php,kotlin,bluetooth-low-energy,android",0
+972,https://github.com/dculibrk/pathgame.git,Web-game-based crowdsourcing of Travelling Saleperson Problem (TSP) solutions,,0
+973,https://github.com/ccj5351/crowdsourcing.git,Pairwise Ranking Aggregation by Non-interactive Crowdsourcing with Budget Constraints,,0
+974,https://github.com/mjhershfield/crowd-catalog.git,Crowdsourcing coronavirus safety information using Google Maps APIs,,0
+975,https://github.com/emory-irlab/crowdsourcing_answers.git,HTML forms for our mturk answer rating and crowdsourcing experiments,,0
+976,https://github.com/puik/postcarding.git,Postcarding – java application for crowdsourcing metadata for old postcards,,0
+977,https://github.com/slnz/prymv.git,Crowdsourcing the task of praying to individuals everywhere,,0
+978,https://github.com/ramitarora/crowdcams.git,Crowdcams - A Video Surveillance Crowdsourcing Platform [Now Decommissioned],,0
+979,https://github.com/Dewb/pendulum.git,Simulator / programming tool / crowdsourcing platform for LED pendulum array sculpture,,0
+980,https://github.com/IARHeritages/CScontribute-validate.git,Crowdsourcing application to contribute potentially relevant links and validate them,,0
+981,https://github.com/rachelzhang31/Snapper.git,An iPhone app for crowdsourcing fish observations. (in progress),,0
+982,https://github.com/Outfittr/outfittr-survey.git,Website used for crowdsourcing training and testing data.,,0
+983,https://github.com/valency007/Innovations-in-IT-Crowdsourcing.git,A Report on Critical Comparison of Innovations in Crowdsourcing Technologies,,0
+984,https://github.com/sespiros/Reportr.git,"A location based, crowdsourcing reporting system written in PHP.",,0
+985,https://github.com/arpita-biswas/Game-Theory.git,Exploring around applications of game theory in crowdsourcing,,0
+986,https://github.com/filipkenkov/Data-Treasure-Hunting.git,crowdsourcing technique for discovering keywords for open data,,0
+987,https://github.com/metiscus/foody.git,An aborted attempt at a crowdsourcing food price website.,,0
+988,https://github.com/music-ant/service_wishing-well.git,An approach of crowdsourcing based on donates and Feature Requests,,0
+989,https://github.com/joshingmachine/rekwester.git,Crowdsourcing song requests with the Twitter and Spotify platforms.,,0
+990,https://github.com/9gix/golib.git,"{""It's a side dish,.... Just for Fun,.. (Crowdsourcing Library)""}",,0
+991,https://github.com/Sabirat/aa-crowdsource.git,Crowdsourcing platform for global self-updating AA meeting list,,0
+992,https://github.com/bianjiang/crowd.git,A crowdsourcing site for assessing online health information,,0
+993,https://github.com/heolin123/funcrowd-frontend.git,WIP: Default frontend created for the crowdsourcing engine funcrowd,,0
+994,https://github.com/HiKelly/crowdsourcing-blockchain.git,A crowdsourcing application built using ethereum blockchain and next.js,,0
+995,https://github.com/JasonXJ/crowdsim.git,A flexible framework for crowdsourcing tasks management and results simulation,,0
+996,https://github.com/pkenrick/crowdcode.git,Crowdsourcing website to source developer coding time for new projects,,0
+997,https://github.com/mananwason/propel.git,Goal ideation crowdsourcing app build using watson for Bluemix hackathon,,0
+998,https://github.com/kaikkeus/crowdsourcing-funding-voting.git,Crowdsourcing-funding-voting application supported by public administration,,0
+999,https://github.com/jacksonchen/disasters_app_backend.git,Backend for a disaster data crowdsourcing app. PennApps Fall 2017.,,0
+1000,https://github.com/duyng404/Rhythmic-Unicorn.git,Building a music suggestion database through gamified crowdsourcing,,0
+1001,https://github.com/SuLab/crowd_cid_relex.git,Crowdsourcing extraction of chemical-induced disease relations from free text.,,0
+1002,https://github.com/seanmurakami/event-space.git,A web application to assist with organizing/crowdsourcing events.,,0
+1003,https://github.com/pablomorales92/RFFVFF-GPCR.git,Random and Variational Fourier Features for GP in crowdsourcing problems,,0
+1004,https://github.com/jbragg/crowd-gating.git,Gating instructions and adaptive testing for crowdsourcing requesters ,,0
+1005,https://github.com/Quinncuatro/service-relief-new-haven.git,Crowdsourcing local aid available during the COVID-19 pandemic.,,0
+1006,https://github.com/alberto-santini/ptspc-instances.git,Instances for the Probabilistic Travelling Salesman Problem with Crowdsourcing,,0
+1007,https://github.com/beatsbybre/playersponsor.marketing.git,Angular 11 Single Page Web Application For Payment Processing & Crowdsourcing,,0
+1008,https://github.com/MaryP111/Javengers.git,Implementation of a fully functioning web crowdsourcing platform.,,0
+1009,https://github.com/arrayrey/INF206-2021-DY2-Amanah.com.git,proyek MK RPL berkaitan dengan Crowdsourcing Acara Desa,,0
+1010,https://github.com/jurairat/LogicCrowd.git,LogicCrowd - a declarative programming language for mobile crowdsourcing,,0
+1011,https://github.com/MicroPasts/PetrieDiaries1884.git,"{""Pybossa crowdsourcing app to transcribe Flinders Petrie's Diaries""}",,0
+1012,https://github.com/smulloni/django-crowdsourcing.git,Automatically exported from code.google.com/p/django-crowdsourcing,,0
+1013,https://github.com/KaijuanXing/FashionGeeks_image-labeling.git,Crowdsourcing Computer Vision Course Project-Image Labeling web development,,0
+1014,https://github.com/valdanchev/Automated_Replications_Literature.git,"Automated Replications: Scalable, Rapid, and Updating — Crowdsourcing of Literature",,0
+1015,https://github.com/TheShadyBunch/clean-water-mapping.git,CS 2340: Objects and Design Android App - Clean Water Crowdsourcing,,0
+1016,https://github.com/canlang/PDR-labeling.git,"with Huawei, crowdsourcing date labeling with PDR tracking",,0
+1017,https://github.com/stutivish/image-attention.git,code for implementing crowdsourcing mturk task for image attention data ,,0
+1018,https://github.com/gjia25/GitNotes.git,Big Red Hacks 2018 - Web app for crowdsourcing notes,,0
+1019,https://github.com/mariiamelnikova/LoveThyNeighbor.git,Community app to connect neighbors for crowdsourcing etc.,,0
