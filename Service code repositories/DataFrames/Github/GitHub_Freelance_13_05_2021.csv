@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/engineerapart/TheRemoteFreelancer.git,"Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!","freelancer,freelance-talent,jobs,upwork,remote-work",6345
+0,https://github.com/bytefury/crater.git,Free & Open Source Invoice App for Freelancers & Small Businesses,"invoices,php,laravel,javascript,vue,payment,laravel-framework",3884
+0,https://github.com/Dolibarr/dolibarr.git,"{""Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...).It's opensource software (wrote with PHP language) designed for small and medium companies, foundation and freelances. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.""}","erp,crm,accounting,quotations,invoicing,stocks,agenda,human-resource-managment,php,mysql,postgresql,suppliers,orders,proposal,sales,purchase,invoice,stock,hacktoberfest,invoices",2466
+0,https://github.com/kevinpapst/kimai2.git,"Kimai v2 is a web-based multiuser time-tracking application. Free for everyone: freelancers, agencies, companies, organizations - all can track their times, generate invoices and more. SaaS version available at https://www.kimai.cloud","timetracker,timetracking,symfony4,doctrine,twig,adminlte,kimai,symfony-application,time-tracker,time-tracking,invoice,symfony,php,php7,multilanguage,user-management,self-hosted,freelancers,invoicing",1273
+0,https://github.com/frappe/books.git,Free Desktop book-keeping software for small-businesses and freelancers.,"accounting,open-source,javascript,electron,frappe,vuejs,book-keeping,double-entry-accounting,frappejs,offline",1167
+0,https://github.com/jeromelachaud/freelancer-theme.git,Jekyll theme based on Freelancer Start Bootstrap theme,"jekyll,jekyll-theme",1158
+0,https://github.com/sam-hosseini/freelancing-in-finland.git,The ultimate resource for transitioning to freelancing for software developers 👩\u200d💻🇫🇮,"freelancing,finland,software-developer",1061
+0,https://github.com/ashedryden/freelance-contract.git,My freelance/contractor contract. You can read more about it here: http://ashedryden.com/blog/contract,,834
+0,https://github.com/kaizensoze/remote-freelance-jobs.git,A list of remote freelance jobs.,,486
+0,https://github.com/etnbrd/awesome-freelance-fr.git,:sunglasses: Curated list of awesome tools to build your freelance career (in france),,364
+0,https://github.com/Librelancer/Librelancer.git,A re-implementation of Freelancer,"freelancer,c-sharp,opengl,game,linux,engine,clone,mit-license",311
+0,https://github.com/nafiesl/free-pmo.git,"Project management software for freelancers or agencies, built with Laravel.","tdd-workflow,project-management,pmo,testing,freelancer,laravel,hacktoberfest",285
+0,https://github.com/hql287/awesome-free-services.git,Awesome free online services for startups and freelancers!,"free,free-software,freelance",272
+0,https://github.com/madisvain/upcount.git,Invoicing for freelancers & small businesses,"invoicing,electron,cross-platform,offline-first,react,hacktoberfest",247
+0,https://github.com/georgemandis/remote-working-list.git,A list of job boards and websites for nomadic workers seeking freelance work,"list,remote-work,jobs,jobsearch,digital-nomads",242
+0,https://github.com/llSourcell/AI_Freelancing.git,"This is the code for ""How to Do Freelance AI Programming"" By Siraj Raval on Youtube",,240
+0,https://github.com/jackmorgan/the-plain-contract.git,"The Plain Contract is a crowsourced, open source freelance contract template, written in plain language.","freelancer,freelance,contract,template,document,microsoft-word,google-docs,plain-english,customizable,editable,designer,developer,legal,legal-documents,legal-texts,legal-templates,legal-writing,legalese,contracting,contractor",215
+0,https://github.com/brihernandez/FreelancerFlightExample.git,Spaceship flight in a similar style to Freelancer,,212
+0,https://github.com/kromitgmbh/titra.git,titra - modern open source project time tracking for freelancers and small teams,"open-source,meteorjs,javascript,node-js,docker,wekan,mongodb-database,time-keeping,time-tracking",199
+0,https://github.com/mokuappio/serverless-invoices.git,Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.,"serverless-invoices,moku,invocing,invoice-generator,invoice-maker,invoicing-software,vue",182
+0,https://github.com/apsantos-dev/modelo-de-contrato.git,Modelo de contrato de prestação de serviços [ Desenvolvedor Freelancer ]. ,,150
+0,https://github.com/nabati/freelancing-in-sweden.git,The ultimate resource for becoming a freelancer in Sweden 🇸🇪 👨\u200d💻,,144
+0,https://github.com/LaravelDaily/Larancer-QuickAdminPanel.git,Laravel 5.5 system for freelancers to manage their clients/projects/income - generated with QuickAdmin,,130
+0,https://github.com/aneraojunior/modelo-contrato-freelancer.git,Modelo de contrato para Freelancers,"modelo-contrato,contrato,contratos,freelance,freelancer",108
+0,https://github.com/he4rtlabs/he4rtlabs-challenges-01.git,Calculadora de freelance,,93
+0,https://github.com/StartBootstrap/freelancer-jekyll.git,A Jekyll version of the Freelancer theme by Start Bootstrap,"bootstrap,html,bootstrap4,bootstrap-4,bootstrap-theme,bootstrap-template,open-source,free",84
+0,https://github.com/neeilya/upwork-jobs-feed-tracker.git,Convenient way to track new jobs for Upwork freelancers.,"upwork,chrome-extension,vuejs,freelance",75
+0,https://github.com/bjacquemet/personal-web.git,Hugo Template for Freelancer Portfolio and Blog,,74
+0,https://github.com/zkrige/freelancer_contract.git,Template freelance developer contract,"freelance,contract,south-africa",74
+0,https://github.com/popcorn-nantes/popcorn-nantes.git,🐘Code source du site Popcorn Nantes 🍿: la plateforme pour trouver un·e développeur·e freelance à Nantes sans intermédiaire et sans frais,"freelance,nantes,nuxt",72
+0,https://github.com/digitalcraftsman/hugo-freelancer-theme.git,"{""Port of Startbootstrap's Freelancer theme to Hugo""}",,71
+0,https://github.com/luckyshot/CRMx.git,"CRMx is a super-flexible micro-CRM system for personal, freelance and small businesses. It can be customized very quickly for Customer Relationship Management, Lead Management System, Project Management, To-Do List or any other usage due to its flexibility in customization and scalable code. CRMx allows unlimited users to work in the same or different environments very flexibly. CRMx works through a RESTful API which allows third-party services and other software to interact neatly. CRMx also has a User Access Control system (UAC) to define permissions for each user and have maximum control over the organization.","php,crm,crm-online,crm-system,mysql-database,productivity,sales,business,freelance,bootstrap",70
+0,https://github.com/rogerluan/JobList.git,"A list of worldwide (and also Brazilian-specific) websites to find and apply for remote jobs, both freelancing and full-time.",,69
+0,https://github.com/reddavis/freelancer-tools.git,List of useful tools for freelancers,"freelance,freelancers",68
+0,https://github.com/LaravelDaily/QuickAdminPanel-Freelancer-CRM.git,Laravel 6 demo project for freelancers to manage their projects and income. Generated with https://2019.quickadminpanel.com,,67
+0,https://github.com/wmandai/freelancer-office.git,Web based Project Management tool for freelancers,,62
+0,https://github.com/Brainsware/sealas.git,Encrypted accounting for freelancers,,53
+0,https://github.com/ChristopherDosin/gavn.git,Invoice System for Freelancers as a Single Page Application built with AdonisJs and Vue.js,"adonisjs,vuejs,vue-router,vuex,nodejs,javascript,ant-design",52
+0,https://github.com/robinsones/Data-Science-Freelancers.git,"An analysis of 93,000+ data science freelancers",,51
+0,https://github.com/m0g/zeithub.git,"Open source time tracking, invoicing & expenses management for freelancers",,51
+0,https://github.com/porimol/freelancer-notes.git, Freelancer notes is an open source web application,,50
+0,https://github.com/jeroenvheel/MyClientBase.git,"MyClientBase is a simple, intuitive, free and open source web based invoice management system developed with freelancers in mind.",,46
+0,https://github.com/agriya/getlancerv3-bidding.git,"Getlancer Bidding, part of Getlancer Suite (Bidding, Quote, Jobs, Portfolio) is an open source service marketplace script that is capable to run sites similar to Freelancer clones like Upwork, Guru","angularjs,freelancer,rest,bidding,freelance-platform,marketplace,agriya-getlancer-suite,freelancer-clone,upwork-clone,guru-clone,self-hosted",46
+0,https://github.com/properapp/whatwhen.git,An app I wrote for freelancers to help with managing project timelines.,,45
+0,https://github.com/rposborne/gitwakatime.git,Correlate and know how much time you spend on each commit... each branch.  The holy grail of timekeeping for freelancers,,45
+0,https://github.com/m-elewa/freelancers-market.git,Laravel Project to help freelance websites clients and freelancers to find each other.,"laravel,open-source,php,bootstrap,redis,phpunit,javascript,eloquent,freelance-platform,freelancers",44
+0,https://github.com/angular-material-extensions/freelancer-theme.git,Open Source Angular Material Theme as SPA for freelancers based on Start Bootstrap Theme,"angular,material-design,startbootstrap,theme,freelancers,single-page-app,demo",44
+0,https://github.com/lassediercks/list-of-tech-freelancers-in-germany.git, A non curated list of tech freelancers in germany,,39
+0,https://github.com/nekofar/awesome-freelancers.git,This repository is a place to collect a list of Iranian freelancers with expertise in different areas.,"awesome,awesome-list,iran,persian,freelancers,farsi",39
+0,https://github.com/theunraveler/Contract.git,My plain-language freelance contract (in Markdown).,,38
+0,https://github.com/openNuke/toolset.git,"{""Collection of common tools for Nuke. For freelancers working at vendors that dont have theses normal 'extras'.""}",,35
+0,https://github.com/frntn/pki-manager.git,IT Freelancers : Manage small PKI for multiple projects (or clients) with 2 bash scripts,"certificate,pki,x509,pkcs12,openssl,wrapper",34
+0,https://github.com/HackerYou/freelancing.git,Resources for the full-time freelancers in the HackerYou community.,,32
+0,https://github.com/PhantomInsights/forhirehelper.git,A Python desktop application that makes the use of freelancing subreddits easier and faster.,"reddit-crawler,sqlite3,python3,wxpython4",30
+0,https://github.com/AyeCode/invoicing.git,Invoicing is a lightweight Invoicing and Payments system for WordPress. It can be used by freelancers to manage their Invoices or by 3rd party Themes and Plugins as their payment system. GeoDirectory currently uses Invoicing as its payment system ,"wordpress,wordpress-plugin,accounting,invoicing",30
+0,https://github.com/scottlyttle/Web-Dev-Contract.git,"Sample agreement for fixed price web development work. This is intended for people operating as freelancers. Based on the popular contract by Dan Wong with a focus on web development and inclusion of sections about ecommerce, hacking, revisions and website launch.",,30
+0,https://github.com/eviltnan/freeturn.git,Freelance mission control,"python,django,cms,wagtail,portfolio,crm,invoice,heroku",29
+0,https://github.com/skeeto/binitools.git,Bini file translator for the game Freelancer,,29
+0,https://github.com/zero-to-mastery/time-collector.git,"This projects counts the time need on each project we do as freelancers or hobbyists, so we better know in the future how to estimate time for projects.",hacktoberfest,25
+0,https://github.com/prahladyeri/listoffreelancingvideos.git,Curated List of Videos about Freelancing,"freelance,freelancer,upwork,work-from-home,youtube-video,freelance-career,fiverr,motivation,entrepreneurs",25
+0,https://github.com/SodingMy/awesome-freelance-malaysia.git,A curated list of awesome freelancers from Malaysia!!,,24
+0,https://github.com/johnsonjason/RudiAC.git,"A client-sided anti-cheat developed during a freelance project to ""plug-in"" to a proprietary client for a private server. Includes memory integrity checks, thread execution restrictions, hook detection, memory honeypots, and more.","windows,anticheat,security,x86,cpp,reverse-engineering",24
+0,https://github.com/OpenGenus/Get.Work.Done.git,The revolutionary and happy way of freelancing. Start today!,"freelancing,crowdsourcing,opengenus",23
+0,https://github.com/TanayParikh/Moneta.git,Moneta - Financial Management for Freelancers,"uwp,csharp,finance,bookkeeping,freelance,freelancer,accounting,accounting-software",22
+0,https://github.com/AjayKadoula/Laravel_Educational_Management_Application.git,"I have developed a school management system web application on laravel for one of my freelancing clients. It has four different authentication panels. In this application have an admin panel, a student panel, a teacher panel and a parents panel as per client requirement. These make school management work easy and fast.",,22
+0,https://github.com/onebeat/FusionInvoice.git,"FusionInvoice is built for freelancers and small businesses who need a simple, yet powerful self-hosted web based invoicing system.",,21
+0,https://github.com/themejack/pine.git,"Pine is free minimalist WordPress portfolio theme created for people who want to show their work on simple and creative way. Pine is made for a freelancers, designers or smaller agencies who are looking for elegant, professional and minimal look.","wordpress,theme,pine,wordpress-theme",21
+0,https://github.com/bigprof-software/online-invoicing-system.git,"Easy and lean invoicing for small businesses, consultants and freelancers, created using AppGini","webapp,invoicing,small-business,php,mysql,mariadb,consultant,freelancer,billing,sales",20
+0,https://github.com/philfree/ofuz.git,"Ofuz Is a platform for Freelancers to manage contacts, tasks, project and invoicing",,20
+0,https://github.com/hirusi/freelancing-in-india-handbook.git,A simple and comprehensive guide to start making sense of the legal framework for Indian freelancers.,"legal,freelancing,india,guide,handbook,how-to,export",20
+0,https://github.com/DiscoveryGC/FLHook.git,FLHook for Discovery Freelancer,,19
+0,https://github.com/maddox/freelancer.git,For your freelancing yo!,,19
+0,https://github.com/freelancer/freelancer-sdk-android.git,The Freelancer sdk aims to make using the the Freelancer.com API as easy as possible.,"android,library,sdk,api,freelancer,freelancer-sdk",19
+0,https://github.com/NicolasPCouts/FlappyBirdClone-UnityGame.git,Flappy Bird mobile game that i have made on unity for a freelance,"game,game-development,game-engine,game-2d,unity,unity2d,unity3d,unity-2d-game,android,android-game,android-game-app,flappy-bird,flappybird,flappy-bird-game,flappy-bird-clone,flappybird-style-game,open-source,opensource",18
+0,https://github.com/dwyl/interview-prep.git,:8ball: A collection of tips for interviews - for those who are looking for freelance gigs or employment,,18
+0,https://github.com/ShaifArfan/AMYs-Portfolio.git,This project is for HTML & CSS practice. AMY is a fictional character. She is a freelance web designer. We made this nice portfolio for her with mainly HTML & CSS. Though we used few lines of js but the main purpose of this project is to practice HTML & CSS,"html-css-javascript,html-css,portfolio,portfolio-website,webcifar",18
+0,https://github.com/spbooks/freelancer1.git,The Principles of Successful Freelancing,,17
+0,https://github.com/christianbundy/best-freelance-contract.git,The best freelance contract.,,17
+0,https://github.com/jgaa/f-crm.git,Customer Relations Management for Freelancers and Individual Contractors.,"customer-relationship-management,crm,sales,qt5-gui,qt5,cpp14",17
+0,https://github.com/philmander/versatile.git,My personal/freelancing site implemented with Preact ,,17
+0,https://github.com/komljen/fbih-freelancers.git,Sve sto trebate znati ukoliko ste Freelancer u FBIH,,17
+0,https://github.com/bounswe/bounswe2018group10.git,Freelancer | Platform for freelancers and clients to do business,,16
+0,https://github.com/silentroach/workbreeze.git,Realtime freelance offers,,16
+0,https://github.com/Rafat97/Artista.git,A platform for selling or displaying art contents and hiring freelance artists.,,16
+0,https://github.com/golubeff/harumambu.ru.git,freelance aggregator,,15
+0,https://github.com/tech256/jobs.git,North Alabama: Who is Hiring? Who Wants to Be Hired? Freelancer? Seeking Freelancer?,,15
+0,https://github.com/StarfallProjects/tech-writer-toolkit.git,Resources for consultant and freelance tech writers,,15
+0,https://github.com/emilyxxie/magnetic_field.git,Animated interactive magnetic field created for a freelance project.,,15
+0,https://github.com/dwyl/UK-HMRC-FAQs.git,"{"":money_with_wings: An incomplete guide on what you need to know about the HMRC if you're a freelancer in the UK""}",,15
+0,https://github.com/devlom/grav-theme-hola.git,"Hola is a modern and stylish vCard website template. Designed to be a resume, vCard, portfolio template, it’s the perfect template for creative designers, developers, freelancers, photographer or any creative profession. It is fully responsive and retina/hi-dpi ready. It will look great on any devices from desktop to mobile phones. It has blog page templates, working contact form, stylish portfolio section and other features you will only find on premium templates. Built with clean and organized code, this template is also very easy to customize.",,15
+0,https://github.com/kmbn/sunny-crm.git,A multi-user web-based CRM for freelancers with an emphasis on flow and momentum,"flask,python,crm,bootstrap",14
+0,https://github.com/CamilleHbp/awesome-42-freelance-42paris.git,Awesome list for the 42paris campus freelances. Aggregates the best tips and tools for french freelancers.,,14
+0,https://github.com/orangopus/dynamix-toolbox.git,"A self-hosted sandbox for creators, freelancers, designers & you.",,14
+0,https://github.com/digiwage/digiwage.git,Decentralized Freelancing on Blockchain,"quark,cryptocurrency,proof-of-stake,masternodes,freelance-platform,pos,peer-to-peer,governance,blockchain",13
+0,https://github.com/byte-foundry/inyo.git,Smart Project Manager for Freelancer,"react,apollo,smart-assistant,graphql,freelance",13
+0,https://github.com/himanshuc3/LiveTable.git,Realtime Timetable scheduling. Could be used by freelancers :),,13
+0,https://github.com/responsiv/pyrolancer-plugin.git,Digital services and freelance marketplace for remote and online workers.,,13
+0,https://github.com/mathjazz/invoice.git,"Self-hosted invoicing system for freelancers and small businesses, forked from FusionInvoice 1.3.4",,13
+0,https://github.com/Terracoding/TerraTracker.git,Open source time tracking for companies and freelance.,,13
+0,https://github.com/ddemaree/sylar.git,Killer time tracking for freelancers and other superheroes,,13
+0,https://github.com/Donkie/WorkClocker.git,"{""A tool for freelancers that lets you find out what you've actually done the past hour""}","freelance,time,clock,work,tracker,windows",13
+0,https://github.com/krushn/freelance_project_manager.git,"freelance project management built using yii2. all amount for hourly will be calculated automatically, you can save password of client and add notes to refer it later, will add more future in next versions",,13
+0,https://github.com/sglessard/SGLFLTSBundle.git,Symfony2 FLTSBundle : a Freelancer timesheet and billing application,,12
+0,https://github.com/dominicfallows/digital-project-development-contract-agency-or-company-to-freelancer.git,"Example contract for use by Creative, Digital and Marketing Agencies (or any company for that matter) to use when contracting a Freelance Web Developer on digital projects.","digital,project,contract,freelancer,freelance,agency,development,legal,legal-texts,creative-commons",12
+0,https://github.com/tirthajyoti-ghosh/freelance-job-scraper.git,"This is a freelance job scraper built using Ruby by following OOP. It takes keywords from the user input, scrapes 3 job sites and exports them to 3 separate CSV files.",,12
+0,https://github.com/sysgears/grain-theme-freelancer.git,Grain Bootstrap Theme Freelancer,,11
+0,https://github.com/ondoheer/freelancer-theme-pelican.git,Freelancer Theme for Pelican,,11
+0,https://github.com/learnable-content/project-management-for-freelancer-developers.git,Handouts for course Project Management for Freelance Developers,,11
+0,https://github.com/adriantombu/the-greaaat-gatsby.git,"The website of the Greaaat freelance collective, running with Gatsby",,11
+0,https://github.com/uxbyjoao/handshake.git,A minimalist one-page generator for freelancers.,,11
+0,https://github.com/ryepdx/bitcoin-arbitrage-ui.git,A simple Flask-based GUI for changing the config.json in bitcoin-arbitrage. Writing this for a freelance client who is allowing me to open source everything.,,11
+0,https://github.com/stoopkid1/freelance-project-manager.git,"web based project task manager for freelance developers to help organize their projects, and give clients access to report & request features",,11
+0,https://github.com/vatri/freelancer-platform.git,A quickstart Java Spring project for freelance websites development.,"java,spring,javaspring,springframework,spring-boot,mysql,thymeleaf,bootstrap,hibernate,hibernate-orm",10
+0,https://github.com/portlandcodeschool/frontend-freelancer.git,course materials for the Front End Freelancer class,,10
+0,https://github.com/sheharyarn/freelancer-leaderboard.git,Displays Freelancer Scavenger 2014 Leaderboard,,10
+0,https://github.com/popcorn-nantes/popcorn-machine.git,"🍿La machine à Popcorn permet est un package NPM qui permet de créer un annuaire de dev freelances ""Popcorn"", tel que celui de Popcorn Nantes.",,10
+0,https://github.com/joelataylor/freelance-trackr.git,The new emberjs version of freelance trackr!,,10
+0,https://github.com/pratikfarkase94/Touch-Screen-based-fully-Digital-Instrument-cluster-Using-Raspberry-Pi-3-and-CPP-QT-QML.git,"{""This is a freelance project developed by me when i got a chance to work with a very early startup as a freelancer . Those guy were developing a two wheeler electric sports bike! This is a fully Digital touch screen based vehicle instrument cluster. Features of the cluster involves a circular gauge based design, Turn indicators, fuel meter, RPM meter and engine temperature. I'll explain everything, right from the start!""}",,10
+0,https://github.com/d4nyll/lancer.git,A collection of legal documents detailed for freelance web developers,,10
+0,https://github.com/imjeff/Birch.git,"Birch (白桦) is a minimal and masonry style WordPress theme with responsive layout which is most suitable for freelancers, photographers, studios, bloggers, collectors, personal portfolios etc.","wordpress,wordpress-theme,responsive-layout,masonry-grid,minimal-theme",10
+0,https://github.com/davidhayden/Freelancer.git,"Freelancer is an Orchard Core CMS Theme based on a Start Bootstrap template. It includes a portfolio, about, and contact us form.","orchardcore,orchard,orchardcms,orchard-cms,orchard-theme",10
+0,https://github.com/cherryyingzizhang/TiO.git,"TiO is an AirBnB like android app demo developed from a hackathon. I developed it with another Android developer, a backend, and a UI designer at a Japanese hackathon. This app helps freelance creators and developers find free office space from companies.",,10
+0,https://github.com/rotorkunstkultur/rtrledger.git, hledger system for chaotic German freelancers based on the SKR04 chart of accounts by DATEV bearing in mind the GoBD principles,,10
+0,https://github.com/Devalopers/Devalopers.git,"Devalopers is an online platform (backend here) that allows Tech Companies in Globally and especially in MENA to post jobs and projects while Developers, UX/Graphic designers, AI/ML, Tech Project managers and Tech product managers to find Remote Jobs and Freelancing projects.","devalopers-backend,mongodb,jobs,projects,freelancing,expressjs,jest,mongodb-database",10
+0,https://github.com/joelving/Khronos.git,"Time reporting for consultants, contractors & freelancers",,9
+0,https://github.com/rrrupom/website-freelance-marketplace.git,"A simple project of a website of freelance marketplace using HTML, CSS, bootstrap, php and Mysql.","html,css,bootstrap,php,mysql",9
+0,https://github.com/peterpeterparker/daviddalbusco.com.git,"Freelance Web Developer - Web, Progressive Web Apps and Mobile - Project management - UX and IT consulting","freelancer,progressive-web-app,project-management,ux-consulting,it-consulting,webdevelopment,web,mobile,programming,front-end-development",9
+0,https://github.com/shime/freelance-hackademy.git,🎓  Free initiative for teaching people how to become Ruby/Rails freelancer from scratch.,"ruby,rails,freelance,freelancer,freelancing,remote,education,educational",9
+0,https://github.com/Friendly0Fire/FLHook.git,A Server Improvement for Freelancer.,,8
+0,https://github.com/tgenaitay/wechat-developers.git,"Community project - Directory of developers who code WeChat apps (freelance, full time opportunities)","wechat,minapp,miniprogram,miniprograms,weixin",8
+0,https://github.com/adambard/Freelance-Website.git,The homepage I use for my freelance work,,8
+0,https://github.com/DomGries/FreelancerModStudio.git,Freelancer modding IDE with a powerful 3D system editor,"c-sharp,freelancer,3d,level-editor,ide,wpf,winforms,helix-toolkit",8
+0,https://github.com/sofadesign/vincent-helye.com.git,"Vincent Hélye, freelance graphic designer, website.",,8
+0,https://github.com/johnmartin/remote.git,A roll-your-own remote job board aggregator (specifically made for freelance developers / designers),,8
+0,https://github.com/railslauncher/startup.git,Single page bootstrap website for freelancers and company,,8
+0,https://github.com/tsny/ProjectLonestar.git,A spiritual successor to Freelancer. Developed in Unity (moved from Unreal). Scanning your cargo hold... You will comply.,"game,unity,space,freelancer,itch,starcitizen,microsoft,successor,sequel",8
+0,https://github.com/adrienjoly/freelance-directory-client.git,"📇 Web app to find the right freelancer from your contacts, and keep their skills / availability / preferences up to date.","google-contacts,web-client,vanilla-javascript,contact-management,static-web-app",8
+0,https://github.com/fradevhq/freelancers.git,Frankfurt Developers Freelancers,,7
+0,https://github.com/ReinProject/causeway.git,Server for the Rein decentralized freelance market,,7
+0,https://github.com/leplay/calculator.git,An estimated cost calculator for freelancers.,,7
+0,https://github.com/bounswe/bounswe2018group5.git,Karpuz 🍉 - Freshest freelance job platform ever,,7
+0,https://github.com/leadex/job-monitor.git,Freelance/Upwork/Guru Job Monitor,,7
+0,https://github.com/hratx47-gigl/Gigl-Website.git,"Gigl is a platform that connects clients to local freelancers such as photographers, bartenders, artists, and entertainers",,7
+0,https://github.com/cosmicjs/angular-company-website.git,Simple yet flexible website for a company or freelancer.  Build with Angular and Cosmic JS.,,7
+0,https://github.com/jgaa/whid.git,What Have I Done - Time Tracker for Freelancers and Individual Contractors,"time-tracker,time-management,qt5-gui,c-plus-plus,cpp14",7
+0,https://github.com/elaconf/freelancers.git,A directory of Ela community members that freelance to join and reference 💜 💻,,7
+0,https://github.com/recieire/JobsCalc.git,Freelance Jobs Calculator,,7
+0,https://github.com/Vaibhavpratapsingh22/Courses.git,"Course for understanding GitHub, Data Structures, Algorithms, Software Engineering, DBMS, Computer-Networks, Scrum, Adobe-Illustrator, LinkedIn and Freelance from scratch.","github,data-structures,algorithms,challenges,agile-development,scrum-agile,dbms,software-engineering,hacktoberfest,illustrator,linkedin,scrum,adobe-illustrator",7
+0,https://github.com/Mesmoudi13/Freelance-services-Web-App.git,This project is a React JS web application with the freelance-services theme such as Freelancer and Fiverr.,,7
+0,https://github.com/SE-GUC/Access-denied.git,Lirten Hub the next step towards innovation in the freelancing field,,7
+0,https://github.com/Dimas4/Python-Social-Network.git,"This is my freelance project. Social network! I created using Django, Channels 2",,7
+0,https://github.com/BesrourMS/hold.git,"Hold is a free Pico CMS Theme perfect for freelancers, creatives, web designer and developers alike to showcase their experience in an elegant way.",,7
+0,https://github.com/neotheicebird/jobless.git,A scrapy spider which crawls through job listings in various freelance job search sites and pushes feeds on to a static page. All jobs of my kind at one place.,,7
+0,https://github.com/NEU-Skunkworks/C19_Website.git,C19  Freelancer Website,,6
+0,https://github.com/ababaian/bioFreelancers.git,Freelance bioinformaticians directory,,6
+0,https://github.com/SteveBarnett/Contract.git,Template contract for freelance work,,6
+0,https://github.com/AndrewAskins/how-to-freelance.git,A talk on how to freelance,,6
+0,https://github.com/jacoweb/freelanceTheme.git,Freelance OctoberCMS Theme,,6
+0,https://github.com/julesforrest/Invoice.git,Generate invoices for freelance or contract work,,6
+0,https://github.com/Aristokrates/Freelancer-aggregator.git,Aggregates date from different freelancer sites,,6
+0,https://github.com/jmba/karban.git,A simple PHP and MySQL accounting and project management system for freelancers and small businesses,,6
+0,https://github.com/Acvarium/TasClock.git,"Android task manager for freelancers and other people, who wants to manage own time.",,6
+0,https://github.com/foundersandcoders/freelance-website.git,A website for the Founders & Coders freelance agency,,6
+0,https://github.com/khayyamsaleem/Client-Connect.git,Client Connect: a platform that connects clients with nearby freelancers,"react,nextjs,express,redis,mongodb,mongoose,semantic-ui-react,nodemon,socket-io,yarn,winston-logger",6
+0,https://github.com/michballard/fhellow.git,A social networking site for freelance professionals.  Final project at Makers Academy.,,6
+0,https://github.com/sayanee/freelance.git,freelance agreements and contract,,6
+0,https://github.com/ashish-r/Job_Portal_Mean_Stack_Website.git,"MEAN Stack Website -Freelancer- Add Remove Job Website based on MEAN Stack (MongoDb, Express JS, Angular JS, Node JS)","angularjs,nodejs,expressjs,mongodb,job-portal,web-application",6
+0,https://github.com/mattpolito/breadbox.git,Simple invoicing system catered to freelancers,,6
+0,https://github.com/codingdojoangola/cda-app.git,"A App CDA terá como principal objetivo demostrar habilidades e competências individuais e coletivas dos membros do CDA para potencial empregadores, contratadores de freelancers e a sociedade em geral. ",,6
+0,https://github.com/maryamkhidir/freelancer-bl.git,"Freelancer-bl is a crowdsourcing marketplace website, which allows potential employers to post jobs that freelancers can then bid to complete. It was inspired by Freelancer.com. Developed with Laravel and Bootstrap. You can clone and modify it for your next project. A live preview is available at",,6
+0,https://github.com/YunoHost-Apps/kimai2_ynh.git,"Kimai v2 is a Symfony4 based Timetracker: multi-user application for time-tracking using the AdminLTE theme. Can be used by Freelancers, Agencies and Companies to track employee working-times and generate invoices. https://www.kimai.org/","kimai2,yunohost,yunohost-apps",6
+0,https://github.com/freelancer-tw/awesome-freelancer-taiwan.git,Freelancer resource in Taiwan. 自在工作者在台灣的資源。,,6
+0,https://github.com/Gurk91/FiboniaApp.git,An iOS app in Swift 5 to help connect freelance tutors to college students willing to hire them (tutor option currently only for UC Berkeley students),,6
+0,https://github.com/SaiGonSoftware/Freelancer.git,Freelancer website using Laravel Framework,"php,laravel-framework,social,mysql,laravel5,freelancer",5
+0,https://github.com/Lazrius/DSLauncher.git,"A game launcher for the Freelancer modification, Discovery Freelancer",,5
+0,https://github.com/netsyde/decrybe.git,P2P Freelance Exchange built on Waves,"js,wavesplatform,waves,nodejs,react,web3,smart-contracts,dapp,freelance-exchanges",5
+0,https://github.com/jyyblue1987/upwork-opensource.git,Open source for freelancer job site such as upwork.,,5
+0,https://github.com/asm-products/lancrapp.git,Modern Freelance Marketplace in Rails,,5
+0,https://github.com/bounswe/bounswe2018group2.git,A Freelancer project; Workhub,,5
+0,https://github.com/itJunky/parselancer.git,Send alerts for new job on freelance sites,"bot,send,alerts,for,new,freelance,jobs",5
+0,https://github.com/arikel/openlancer.git,A free open source panda3D based Freelancer clone project,,5
+0,https://github.com/davidmasse/freelancer-rates.git,Drivers of freelancer success on Upwork.com,"data-science,regression,classification,unsupervised-learning,k-modes,clustering,python3,freelance,upwork",5
+0,https://github.com/taijased/letai-spa.git,Freelance Tattelecom ,,5
+0,https://github.com/stmoerman/freelance-kickstart.git,Freelancing Tools & Tips,,5
+0,https://github.com/CharuniKaushalya/Freelancing-Frontend.git,Distributed Freelancing Platform based on blockchain technology,,5
+0,https://github.com/kantegory/naive-freelance.git,Naive freelance portal. Django REST + Vue + PostgreSQL,,5
+0,https://github.com/Ichiru/GL-Lancer.git,An OpenGL clone of Freelancer written in C#,,5
+0,https://github.com/aaye-dev/aaye.git,invoicing and nominal accounting for freelancers of the indian demographic,,5
+0,https://github.com/hgoebl/it-profile-generator.git,"Profile (aka. CV, Resume) generator for IT freelancers (multi-format, multi-language)",,5
+0,https://github.com/RafaelGoulartB/developer-portifolio-website.git,Prsonal Portifolio Website for freelancer developers - With English and Portuguese Version,"nodejs,portifolio,developer-portifolio,javascri,express,es6",5
+0,https://github.com/ABHINAV112/GitLance.git,:globe_with_meridians: Online platform for freelancers and clients to upload and solve coding related jobs,"reactjs,react-re,firebase,docker,aws,apis,expressjs,fetch",5
+0,https://github.com/priyamshah112/HireChain.git,A platform to place jobs and work on those from anywhere in the world. (Freelancing) [DotSlash 2.0],"ethereum,blockchain,decentralized-applications,dapp,solidity,reactjs,ipfs,metamask",5
+0,https://github.com/gauravkoradiya/Online-Freelancing-System.git,This is an online freelancing system is developed in order to showcase the functionality of freelancing system. As a part of the project it is a complete end to end web application which includes basic essential features and functionalities with documentation given.,"webapplication,online-freelancer,mini-project",5
+0,https://github.com/alitursucular/alitursucular.github.io.git,"I am a Front End Engineer and a contractor in London, UK. I am operating under my limited company, Pinecone Software Limited. I currently provide contract, freelance and project-based web services.","portfolio,reactjs,html-css-javascript,markdown,website",5
+0,https://github.com/swati1024/torrents.git,"Skip to content   Search… All gists Back to GitHub Sign in Sign up Instantly share code, notes, and snippets.  @giansalex giansalex/torrent-courses-download-list.md forked from M-Younus/torrent courses download-list Last active 2 days ago 15188  Code Revisions 15 Stars 151 Forks 88 <script src=""https://gist.github.com/giansalex/4cd3631e94433bbbd71bf07aedb33a7b.js""></script>     torrent-courses-download-list.md Torrent Courses List Download  http://kickass.to/infiniteskills-learning-jquery-mobile-working-files-t7967156.html http://kickass.to/lynda-bootstrap-3-advanced-web-development-2013-eng-t8167587.html http://kickass.to/lynda-css-advanced-typographic-techniques-t7928210.html http://kickass.to/lynda-html5-projects-interactive-charts-2013-eng-t8167670.html http://kickass.to/vtc-html5-css3-responsive-web-design-course-t7922533.html http://kickass.to/10gen-m101js-mongodb-for-node-js-developers-2013-eng-t8165205.html http://kickass.to/cbt-nuggets-amazon-web-services-aws-foundations-t7839734.html http://kickass.to/cbt-nuggets-apache-hadoop-t8027965.html http://kickass.to/cbt-nuggets-backtrack-and-kali-linux-t7677281.html http://kickass.to/cbt-nuggets-ccda-desgn-640-864-t8300917.html http://kickass.to/cbt-nuggets-ccna-wireless-iuwne-640-722-t8300389.html http://kickass.to/cbt-nuggets-cisco-ccna-labs-cisco-for-the-real-world-bonus-t6154766.html http://kickass.to/cbt-nuggets-cisco-ccnp-security-firewall-v2-0-642-618-azazredhat-t6955696.html http://kickass.to/cbt-nuggets-cisco-ccnp-security-secure-642-637-azazredhat-t6955710.html http://kickass.to/cbt-nuggets-comptia-network-videos-2010-gurufuel-t4648514.html http://kickass.to/cbt-nuggets-definitive-guide-to-working-with-gns3-by-keith-bar-t8301349.html http://kickass.to/cbt-nuggets-ec-council-certified-ethical-hacker-v7-0-t6801120.html http://kickass.to/cbt-nuggets-exam-walkthrough-cisco-icnd1ccent-100-101-t8516719.html http://kickass.to/cbt-nuggets-exam-walkthrough-cisco-icnd2ccna-200-101-t8524803.html http://kickass.to/cbt-nuggets-linux-in-the-real-world-with-shawn-powers-t7718107.html http://kickass.to/cbt-nuggets-linux-series-video-tutorial-t485320.html http://kickass.to/cbt-nuggets-lpi-linux-lpic-1-101-and-comptia-linux-t8031864.html http://kickass.to/cbt-nuggets-lpi-linux-lpic-1-102-and-comptia-linux-t8031871.html http://kickass.to/cbt-nuggets-mastering-vmware-view-5-and-preparing-for-the-vcp510-dt-exam-t8301829.html http://kickass.to/cbt-nuggets-vmware-virtualization-vcp-vsphere-5-t8300512.html http://kickass.to/cbt-nuggets-wireshark-with-keith-barker-t8040855.html http://kickass.to/comptia-network-n10-005-collection-t8319928.html http://kickass.to/developing-in-html5-with-javascript-and-css3-jump-start-t8277565.html http://kickass.to/eli-the-computer-guy-linux-t8647714.html http://kickass.to/foundations-of-programming-test-driven-development-t7522376.html http://kickass.to/infiniteskills-advanced-html5-programming-t7463355.html http://kickass.to/infiniteskills-cisco-ccna-certification-bundle-2013-t7645010.html http://kickass.to/infiniteskills-css3-transformations-and-animations-t7930047.html http://kickass.to/infiniteskills-learning-javascript-programming-t7625039.html http://kickass.to/infiniteskills-learning-python-programming-t7107001.html http://kickass.to/infiniteskills-learning-regular-expressions-t8028765.html http://kickass.to/infiniteskills-learning-whitehat-hacking-and-penetration-testing-t8303725.html http://kickass.to/infiniteskills-microsoft-windows-server-2012-certification-training-exam-70-410-t7379360.html http://kickass.to/infiniteskills-php-security-t8046511.html http://kickass.to/learning-vmware-esxi-and-vsphere-5-1-administration-training-t8030885.html http://kickass.to/linuxcbt-basic-security-edition-d3x-t7650913.html http://kickass.to/linuxcbt-config-mgmt-edition-d3x-t7650929.html http://kickass.to/linuxcbthttpdxil-edition-d3x-t7653897.html http://kickass.to/linuxcbt-vbox-edition-d3x-t7653916.html http://kickass.to/linuxcbt-webscan-edition-d3x-t7653922.html http://kickass.to/linuxcbt-winpython-edition-d3x-t7653942.html http://kickass.to/linuxcbt-xenvm-edition-d3x-t7653948.html http://kickass.to/lynda-com-foundations-of-programming-code-efficiency-t8604312.html http://kickass.to/lynda-com-foundations-of-programming-databases-t8596357.html http://kickass.to/lynda-com-foundations-of-programming-design-patterns-t8692867.html http://kickass.to/lynda-com-foundations-of-programming-fundamentals-t7600288.html http://kickass.to/lynda-com-foundations-of-programming-web-services-including-exercise-files-torrenters-t7797117.html http://kickass.to/lynda-com-ruby-on-rails-4-essential-training-dec-2013-t8438392.html http://kickass.to/lynda-foundations-of-programming-refactoring-code-t7524343.html http://kickass.to/lynda-foundations-of-programming-software-quality-assurance-sum1-here-silverrg-t8043799.html http://kickass.to/lynda-javascript-events-t7893809.html http://kickass.to/lynda-leading-with-emotional-intelligence-t8157240.html http://kickass.to/lynda-management-tips-t8154761.html http://kickass.to/mysql-database-tutorials-by-bucky-thenewboston-org-1-33-t8224550.html http://kickass.to/packtpub-advanced-penetration-testing-for-highly-secured-environments-t8300620.html http://kickass.to/pluralsight-mysql-query-optimization-and-performance-tuning-with-pinal-dave-t8553369.html http://kickass.to/pluralsight-relational-database-design-t8551479.html http://kickass.to/ruby-tutorial-bucky-totally-for-beginner-t8699509.html http://kickass.to/trainsignal-vmware-vcloud-director-5-1-essentials-t7495660.html http://kickass.to/trainsignal-vmware-vsphere-optimize-and-scale-vcap5-dca-t7495659.html http://kickass.to/trainsignal-vmware-workstation-9-for-the-it-admin-t7495658.html http://kickass.to/tutsplus-advanced-command-line-techniques-t7632228.html http://kickass.to/tutsplus-advanced-javascript-fundamentals-t6739742.html http://kickass.to/tutsplus-agile-design-patterns-2012-t6992118.html http://kickass.to/tutsplus-cleaner-code-with-coffeescript-t6741625.html http://kickass.to/tutsplus-detecting-code-smells-t8128341.html http://kickass.to/tutsplus-firebug-white-to-black-belt-v413hav-t7154501.html http://kickass.to/tutsplus-foundational-flask-creating-your-own-static-blog-generator-t8356996.html http://kickass.to/tutsplus-freelance-bootcamp-t6832678.html http://kickass.to/tutsplus-premium-e-book-mega-pack-v413hav-t7178526.html http://kickass.to/tutsplus-pro-workflow-for-web-designers-t6854268.html http://kickass.to/tutsplus-riding-ruby-on-rails-t6728201.html http://kickass.to/tutsplus-sql-essentials-t6746851.html http://kickass.to/tutsplus-tools-of-the-modern-web-developer-t8107617.html http://kickass.to/tutsplus-video-fundamentals-t6752217.html http://kickass.to/ine-ccna-wireless-640-722-iuwne-t8301376.html http://kickass.to/learn-metasploit-t8174472.html http://kickass.to/lynda-ruby-on-rails-essential-training-t7630711.html http://kickass.to/lynda-up-and-running-with-python-2013-eng-t8167709.html http://kickass.to/build-flat-responsive-website-from-scratch-complete-course-t8604527.html http://kickass.to/canvas-essentials-t8550909.html http://kickass.to/cbt-nuggets-70-331-microsoft-sharepoint-server-2013-x264-mkv-encod3r-t8595423.html http://kickass.to/cbt-nuggets-98-365-windows-server-admin-fundamentals-encod3r-t8613009.html http://kickass.to/cbt-nuggets-ccie-combo-pack-t271107.html http://kickass.to/cbt-nuggets-ccna-certification-videos-material-2010-gurufu-t4648321.html http://kickass.to/cbt-nuggets-juniper-networks-certified-specialist-security-jncis-sec-jn0-332-t8028083.html http://kickass.to/cehv7-cbt-nuggets-instructor-slides-tools-video-tools-study-guide-rar-t8705752.html http://kickass.to/cisco-ccna-initial-router-and-switch-configuration-t8648377.html http://kickass.to/cisco-ccna-security-aaa-and-ip-security-t8648378.html http://kickass.to/cisco-ccna-security-introduction-to-network-security-t8648381.html http://kickass.to/cisco-ccna-voice-configuration-and-advanced-features-t8648387.html http://kickass.to/cisco-ccna-voice-voice-overview-and-lab-setup-t8648386.html http://kickass.to/cisco-press-ccna-security-640-554-official-cert-guide-videos-t8648384.html http://kickass.to/coursera-neural-networks-and-machine-learning-geoffrey-hinton-university-of-toronto-t8568642.html http://kickass.to/eli-the-computer-guy-hacking-t8647661.html http://kickass.to/ine-ccie-data-center-storage-t8029396.html http://kickass.to/infinite-skills-learning-cloud-computing-with-amazon-web-services-2013-eng-t8703045.html http://kickass.to/infiniteskills-learning-tcp-ip-t8303739.html http://kickass.to/lynda-bootstrap-3-new-features-and-migration-t7958409.html http://kickass.to/lynda-bootstrap-adding-interactivity-to-your-site-t7519306.html http://kickass.to/lynda-com-jquery-ui-widgets-t8172743.html http://kickass.to/lynda-essential-training-t8157222.html http://kickass.to/lynda-foundation-incorporating-sass-and-compass-t7953037.html http://kickass.to/lynda-html5-projects-advanced-to-do-list-t7855578.html http://kickass.to/lynda-html5-projects-creating-a-responsive-presentation-2013-eng-t8167660.html http://kickass.to/lynda-online-presentations-with-reveal-js-2013-eng-t8167575.html http://kickass.to/lynda-teacher-tips-t8157202.html http://kickass.to/lynda-up-and-running-with-angularjs-t7982840.html http://kickass.to/lynda-up-and-running-with-bootstrap-3-t8011198.html http://kickass.to/lynda-up-and-running-with-cakephp-t7963854.html http://kickass.to/lynda-up-and-running-with-google-apps-script-t7917458.html http://kickass.to/lynda-up-and-running-with-php-codeigniter-t7849968.html http://kickass.to/lynda-web-semantics-t7899223.html http://kickass.to/lynda-wordpress-essential-training-2013-tutorial-t8270624.html http://kickass.to/pluralsight-aws-developer-fundamentals-2013-eng-t8703013.html http://kickass.to/pluralsight-bootstrap-3-t8214168.html http://kickass.to/pluralsight-cisco-ccie-routing-and-switching-implement-bgp-t8648391.html http://kickass.to/pluralsight-cisco-ccna-advanced-ethernet-and-file-management-t8051456.html http://kickass.to/pluralsight-cisco-ccna-security-firewalls-and-vpns-t8648393.html http://kickass.to/pluralsight-cisco-ccna-wan-technologies-learn-wide-area-network-wan-technologies-and-configuration-t7882351.html http://kickass.to/pluralsight-javascript-from-scratch-t7612372.html http://kickass.to/pluralsight-sublime-text-3-from-scratch-2013-eng-t8153034.html http://kickass.to/ten-ton-wordpress-mastery-video-t8452016.html http://kickass.to/trainsignal-microsoft-network-monitoring-t8028791.html http://kickass.to/tuts-plus-2013-bdd-in-rails-psiclone-t8474590.html http://kickass.to/tutsplus-advanced-css3-animations-t7791566.html http://kickass.to/tutsplus-an-introduction-to-node-js-t6744596.html http://kickass.to/tutsplus-better-statistics-with-google-charts-t7983386.html http://kickass.to/tutsplus-bootstrap-for-web-design-t8210956.html http://kickass.to/tutsplus-com-advanced-ui-techniques-2013-t7072722.html http://kickass.to/tutsplus-com-build-a-cms-in-codeigniter-2013-t7072644.html http://kickass.to/tutsplus-com-learning-mongodb-2013-t7072653.html http://kickass.to/tutsplus-computer-networks-distilled-v413hav-t7630795.html http://kickass.to/tutsplus-css-3d-essentials-t8027191.html http://kickass.to/tutsplus-css-noob-to-ninja-v413hav-t7475010.html http://kickass.to/tutsplus-css-tips-and-tricks-t8292119.html http://kickass.to/tutsplus-css3-essentials-t6608214.html http://kickass.to/tutsplus-css3-typography-techniques-t7882076.html http://kickass.to/tutsplus-design-patterns-in-ruby-t8354740.html http://kickass.to/tutsplus-fundamentals-of-design-t6645691.html http://kickass.to/tutsplus-fundamentals-of-print-design-t6667261.html http://kickass.to/tutsplus-fundamentals-of-ux-design-t6710443.html http://kickass.to/tutsplus-html-kickstart-essentials-t7969388.html http://kickass.to/tutsplus-html-tips-and-tricks-t8224648.html http://kickass.to/tutsplus-introduction-to-web-typography-t6662386.html http://kickass.to/tutsplus-javascript-fundamentals-101-t6738976.html http://kickass.to/tutsplus-jquery-ui-101-the-essentials-2013-eng-t8165125.html http://kickass.to/tutsplus-jquery-ui-101-the-essentials-t7791579.html http://kickass.to/tutsplus-jquery-ui-201-beyond-the-basics-t7791583.html http://kickass.to/tutsplus-jquery-ui-301-the-widget-factory-2013-eng-t8165109.html http://kickass.to/tutsplus-jquery-ui-301-the-widget-factory-working-files-2013-eng-t8180547.html http://kickass.to/tutsplus-laravel-essentials-t6722386.html http://kickass.to/tutsplus-logo-design-fundamentals-with-gary-simon-swatiate-t7867377.html http://kickass.to/tutsplus-mastering-corporate-design-v413hav-t7586047.html http://kickass.to/tutsplus-mastering-flat-design-v413hav-t7781777.html http://kickass.to/tutsplus-mastering-retro-web-design-v413hav-t7343186.html http://kickass.to/tutsplus-object-oriented-javascript-t6863065.html http://kickass.to/tutsplus-perfect-workflow-in-sublime-text-2-t6794850.html http://kickass.to/tutsplus-php-fundamentals-t6671312.html http://kickass.to/tutsplus-php-security-pitfalls-t7835091.html http://kickass.to/tutsplus-relational-databases-t8023530.html http://kickass.to/tutsplus-responsive-web-design-for-beginners-v413hav-t7385876.html http://kickass.to/tutsplus-responsive-web-design-techniques-t8103476.html http://kickass.to/tutsplus-responsive-web-design-with-foundation-t8103477.html http://kickass.to/tutsplus-simple-development-with-jquery-mobile-t6735499.html http://kickass.to/tutsplus-solid-design-patterns-t8208974.html http://kickass.to/tutsplus-test-driven-php-in-action-t6851704.html http://kickass.to/tutsplus-testing-tricks-for-php-and-laravel-developers-t7844807.html http://kickass.to/tutsplus-web-form-design-and-development-t8020800.html http://kickass.to/tutsplus-wordpress-plugin-development-essentials-t6615050.html http://kickass.to/udemy-build-an-instantly-updating-dynamic-website-with-jquery-ajax-t8415746.html http://kickass.to/udemy-psd-to-html5-css3-hand-code-a-beautiful-website-in-4-hours-t7740752.html http://kickass.to/video2brain-drupal-power-workshop-t6811365.html http://kickass.to/video2brain-exploring-css-positioning-t6683727.html http://kickass.to/video2brain-getting-started-with-joomla-t6600909.html http://kickass.to/video2brain-html5-for-beginners-learn-by-video-t6686185.html http://kickass.to/video2brain-html5-power-workshop-t6689166.html http://kickass.to/video2brain-php-5-3-advanced-web-application-programming-t6681560.html http://kickass.to/vtc-mysql-5-development-part-1-of-2-t7502575.html http://kickass.to/vtc-mysql-5-development-part-2-of-2-t7502576.html  https://thepiratebay.se/torrent/6113010/Linux_CBT_Scripting_BASH__PERL__PYTHON__PHP https://thepiratebay.se/torrent/7667241/CBT.Nuggets.Python.Programming.Python.Language-PLATO https://thepiratebay.se/torrent/8608894/InfiniteSkills_-_Web_Programming_With_Python https://thepiratebay.se/torrent/7838122/Lynda.com_-_Python_3_Essential_Training https://thepiratebay.se/torrent/7837732/python_book_collection https://thepiratebay.se/torrent/9549614/Pluralsight.com_-_Python_Fundamentals https://thepiratebay.se/torrent/5134755/LiveLessons.Python.Fundamentals.DVDR-HELL https://thepiratebay.se/torrent/7112525/The_New_Boston_-_Python_Programming_Tutorials http://kickass.to/lynda-up-and-running-with-python-2013-eng-t8167709.html  http://www.seedpeer.me/details/5730405/CBT-Nuggets---COMPTIA-SECURITY-SY0-201-WITH-SY0-301,-JK0-018-UPDATES.html http://www.seedpeer.me/details/6411686/CBT.Nuggets----IPv6.html http://www.seedpeer.me/details/6421814/CBT-Nuggets---Ubuntu.html http://www.seedpeer.me/details/6107414/LinuxCBT.Awk.Sed.Edition.html http://www.seedpeer.me/details/6107522/LinuxCBT-BASH-II-Edition-d3x.html http://www.seedpeer.me/details/4799869/LinuxCBT---Berkeley-Packet-Filters-BPF-Edition.html http://www.seedpeer.me/details/6881816/LinuxCBT--HTTPD-Edition.html http://www.seedpeer.me/details/6559038/LinuxCBT-Key-Files-edition.html http://www.seedpeer.me/details/6107600/LinuxCBT.MemCacheD.Edition-d3x.html http://www.seedpeer.me/details/5870507/LinuxCBT-Monitoring-Edition-feat-Nagios.html http://www.seedpeer.me/details/6107677/LinuxCBT-NIDS-Edition-d3x.html http://www.seedpeer.me/details/5925487/LinuxCBT-OpenLDAP-Edition.html http://www.seedpeer.me/details/6107558/LinuxCBT.OpenPGP.Edition-d3x.html http://www.seedpeer.me/details/6107692/LinuxCBT-OpenSSHv2-Edition-d3x.html http://www.seedpeer.me/details/6107699/LinuxCBT-PDNS-Edition-d3x.html http://www.seedpeer.me/details/2595080/LinuxCBT-Proxy-Edition-Feat-Squid-AG-torrent-[twistedtorrents2-com].html http://www.seedpeer.me/details/6110590/LinuxCBT-Samba-Edition-d3x.html http://www.seedpeer.me/details/6110595/LinuxCBT-SELinux-Edition-d3x.html http://www.seedpeer.me/details/4799871/LinuxCBT---SFTP-Edition.html http://www.seedpeer.me/details/6110602/LinuxCBT-SQLite-Edition-d3x.html http://www.seedpeer.me/details/5408265/LinuxCBT---Ubuntu-12.04-LTS.html http://www.seedpeer.me/details/4799857/LinuxCBT---UnixCBT-BSD8x-Edition-FreeBSD-8.2.html http://www.seedpeer.me/details/6110504/LinuxCBT.WinPerl.Edition-d3x.html http://www.seedpeer.me/details/6562861/Lynda-com---CMS-Fundamentals.html http://www.seedpeer.me/details/5247098/Lynda.com---Creating-an-Effective-Resume.html http://www.seedpeer.me/details/4989808/Lynda.com---CSS-with-LESS-and-SASS.html http://www.seedpeer.me/details/5340566/Lynda.com---Fundamentals-of-Software-Version-Control-Nov.-2012.html http://www.seedpeer.me/details/5569955/Lynda.com-GMail-For-Power-Users-V413HAV.html http://www.seedpeer.me/details/4631148/Lynda.com-Invaluable-Becoming-a-Leading-Authority.html http://www.seedpeer.me/details/4631108/Lynda.com-Invaluable-Building-Professional-Connections.html http://www.seedpeer.me/details/4623697/Lynda.com---Managing-a-Hosted-Website.html http://www.seedpeer.me/details/5236946/Lynda.com---PayPal-Essential-Training.html http://www.seedpeer.me/details/4596519/Lynda.com---PostgreSQL-9-With-PHP-Essential-Training-iRONiSO.html http://www.seedpeer.me/details/5016023/Lynda.com---Ruby-Essential-Training-with-Kevin-Skoglund.html http://www.seedpeer.me/details/4931186/Lynda.com---Using-Regular-Expressions.html http://www.seedpeer.me/details/6675342/Lynda---Git-Essential-Training.html http://www.seedpeer.me/details/6698556/Lynda---Leading-Change.html http://www.seedpeer.me/details/6973932/PluralSight-Refactoring-Fundamentals.html http://www.seedpeer.me/details/6661700/Tutsplus---Building-Ribbit-in-Rails.html http://www.seedpeer.me/details/6101172/Tutsplus---Cross-Platform-Browser-Testing-V413HAV.html http://www.seedpeer.me/details/5266314/TutsPlus---Git-Essentials.html http://www.seedpeer.me/details/4848412/TutsPlus---How-to-Be-a-Terminal-Pro.html http://www.seedpeer.me/details/4848374/TutsPlus---How-To-Customize-Your-Terminal.html http://www.seedpeer.me/details/4848299/TutsPlus---Maintainable-CSS-With-Sass-and-Compass.html http://www.seedpeer.me/details/4856068/TutsPlus---Regular-Expressions---Up-and-Running.html http://www.seedpeer.me/details/4816386/TutsPlus---The-Fundamentals-of-Ruby.html http://www.seedpeer.me/details/4848281/TutsPlus---The-Ultimate-Guide-for-Learning-Mootools.html http://www.seedpeer.me/details/4935147/CBT-Nuggets---Intermediate-to-Advanced-Linux-Series.html http://www.seedpeer.me/details/6251428/CBT-Nuggets---IPv6gidbcn.html http://www.seedpeer.me/details/5124174/CBT-Nuggets---LINUX-SERIES.html http://www.seedpeer.me/details/2891954/LinuxCBT-Deb5x-Edition-DVD-YUM.html http://www.seedpeer.me/details/4799921/LinuxCBT---Enterprise-Linux-4-Edition.html http://www.seedpeer.me/details/6290791/LinuxCBT-Network-Intrusion-Detection-System.html http://www.seedpeer.me/details/6107569/LinuxCBT.PackCapAnal.Edition-d3x.html http://www.seedpeer.me/details/6107588/LinuxCBT.PAM.Edition-d3x.html http://www.seedpeer.me/details/6110616/LinuxCBT-Win-Awk-Sed-Edition-d3x.html http://www.seedpeer.me/details/6666824/Packtpub-BackTrack-5-Wireless-Penetration-Testing-[Video].html http://www.seedpeer.me/details/6668649/Packtpub-Getting-started-with-Apache-Solr-Search-Server-[Video].html http://www.seedpeer.me/details/6668652/Packtpub-Getting-Started-with-Citrix-XenApp-6.5-[Video].html http://www.seedpeer.me/details/6668669/Packtpub-Kali-Linux---Backtrack-Evolved-Assuring-Security-by-Penetration-Testing.html http://www.seedpeer.me/details/6415199/Pluralsight-com-Installing-and-Configuring-Apache-Web-Server-iNKiSO.html http://www.seedpeer.me/details/6271468/Pluralsight---MySQL-Indexing-for-Performance-2013.html http://www.seedpeer.me/details/6228283/Pluralsight---Web-Performance-Course.html http://www.seedpeer.me/details/6376899/TutsPlus---Documentation-in-Ruby.html http://www.seedpeer.me/details/5661723/CBT-Nuggets-&acirc;%EF%BF%BD%EF%BF%BD-Cisco-CCENT-CCNA-ICND1-100-101.html http://www.seedpeer.me/details/5825975/CBT-Nuggets-CCNA-200-101-mp4.html http://www.seedpeer.me/details/5513622/CBT-Nuggets---Cisco-CCNA-Security-640-554.html http://www.seedpeer.me/details/5890097/CBT-Nuggets---Citrix-XenApp-6.5.html http://www.seedpeer.me/details/6187994/CBT-Nuggets----CompTIA-A-220-801-&amp;-220-802-Update-2012-iso.html http://www.seedpeer.me/details/6353101/CBT-Nuggets---CompTIA-Security.rar.html http://www.seedpeer.me/details/5243830/CBT-Nuggets---Oracle-Certified-Professional-1Z0-053-OCP.html http://www.seedpeer.me/details/4935122/CBT-Nuggets---Oracle-Database-11g-DBA-1-1Z0-052.html http://www.seedpeer.me/details/7222524/CBT.Nuggets----Oracle.Database.11G.DBA.1Z0-053-EnCod3r.html http://www.seedpeer.me/details/4935128/CBT-Nuggets---Oracle-Database-11g-SQL-Fundamentals-1-1Z0-051.html http://www.seedpeer.me/details/5863952/CBTNuggets-VMware-View-5.iso.html http://www.seedpeer.me/details/6199576/CBT-Nuggets---Web-Development.html http://www.seedpeer.me/details/4825729/LinuxCBT---CentOS6x-Edition.html http://www.seedpeer.me/details/1520287/linuxCBT---DBMS-mysql-5-Training.html http://www.seedpeer.me/details/4799864/LinuxCBT---Deb6x-Edition.html http://www.seedpeer.me/details/4799881/LinuxCBT---Debian-Edition.html http://www.seedpeer.me/details/1548037/LINUXCBT-FEAT-SUSE-10-ENTERPRISE-EDITION-JGTiSO[www.thepeerhub.com].html http://www.seedpeer.me/details/6107551/LinuxCBT-KornShell-Edition-d3x.html http://www.seedpeer.me/details/4261635/Linuxcbt-Redhat-6-Enterprise-Tutorials.html http://www.seedpeer.me/details/1662106/LinuxCBT---RHEL5.html http://www.seedpeer.me/details/6110601/LinuxCBT-SLES-10-Edition-d3x.html http://www.seedpeer.me/details/4799923/LinuxCBT---SLES-11-Edition-SUSE-11-Enterprise.html http://www.seedpeer.me/details/6964916/Lynda---ASP.NET-MVC-4-Essential-Training.html http://www.seedpeer.me/details/7253647/Lynda---Building-Facebook-Applications-with-PHP-and-MySQL.html http://www.seedpeer.me/details/5552857/Lynda.com---Applied-Responsive-Design-Mar,-2013.html http://www.seedpeer.me/details/4657790/Lynda.com-Building-Facebook-Applications-with-HTML-and-JavaScript.html http://www.seedpeer.me/details/4986911/Lynda.com---C&amp;C-Essential-Training.html http://www.seedpeer.me/details/4504272/Lynda.com-Choosing-Using-Web-Fonts.html http://www.seedpeer.me/details/6554622/Lynda.com---Designing-Resume.html http://www.seedpeer.me/details/5332552/Lynda.com---Drupal-7-Advanced-Training---TestOrToast.html http://www.seedpeer.me/details/7051972/Lynda.com---Drupal-7--Creating-and-Editing-Custom-Themes---with-Chaz-Chumley[Isaac-9].html http://www.seedpeer.me/details/5565633/Lynda.com---JavaScript-and-JSON-Mar,-2013.html http://www.seedpeer.me/details/6664728/Lynda.com-JavaScript-for-Web-Designers[2013].html http://www.seedpeer.me/details/6664733/Lynda.com-Node.js-Essential-Training[2013].html http://www.seedpeer.me/details/4591597/Lynda.com---Practical-and-Effective-JavaScript.html http://www.seedpeer.me/details/5256920/Lynda.com-Responsive-Design-with-Joomla--Exercice-Files.html http://www.seedpeer.me/details/5374680/Lynda.com---Simplified-Drupal-Sites-with-Drush---TestOrToast.html http://www.seedpeer.me/details/4795822/Lynda.com---Unix-for-Mac-OS-X-Users.html http://www.seedpeer.me/details/6716808/[Lynda.com]-Up-and-Running-with-Amazon-Web-Services-[2013,-ENG].html http://www.seedpeer.me/details/4593746/Lynda.com-Web-Form-Design-Best-Practices.html http://www.seedpeer.me/details/4850397/Lynda---Create-Your-First-Online-Store-with-Drupal-Commerce.html http://www.seedpeer.me/details/4850389/Lynda---Drupal-7-:-Essential-Training.html http://www.seedpeer.me/details/4850540/Lynda---Drupal-7-New-Features.html http://www.seedpeer.me/details/4850393/Lynda---Drupal-7-:-Reporting-and-Visualizing-Data.html http://www.seedpeer.me/details/5996422/Lynda---Up-and-Running-with-Backbone.js.html http://www.seedpeer.me/details/6971211/Lynda---Up-and-Running-with-CakePHP.html http://www.seedpeer.me/details/6666828/Packtpub-Beginning-Yii-[Video].html http://www.seedpeer.me/details/6666832/Packtpub-Building-a-Website-with-Drupal-[Video].html http://www.seedpeer.me/details/6668107/Packtpub-Drupal-7-Module-Development-[Video].html http://www.seedpeer.me/details/6668679/Packtpub-Learning-Joomla-3-Extension-Development-[Video].html http://www.seedpeer.me/details/7101071/Pluralsight---AngularJS-Fundamentals-[OGNADROL].html http://www.seedpeer.me/details/7268422/[Pluralsight]-AWS-Developer-Fundamentals-[2013,-ENG].html http://www.seedpeer.me/details/6695354/Pluralsight---Beginning-HTML5-Game-Development-With-Quintus.html http://www.seedpeer.me/details/6370939/Pluralsight---Cisco-CCNA-WAN-Technologies---Learn-wide-area-network-WAN-technologies-and-configuration.html http://www.seedpeer.me/details/6383616/Pluralsight-Introduction-to-Spring-MVC2013.html http://www.seedpeer.me/details/6228297/Pluralsight---Introduction-to-the-Facebook-Graph-API.html http://www.seedpeer.me/details/6294391/Pluralsight---Optimizing-and-Managing-Distributed-Systems-on-AWS-2013.html http://www.seedpeer.me/details/6698563/[Pluralsight]-Sublime-Text-3-From-Scratch-[2013,-ENG].html http://www.seedpeer.me/details/5056370/Tutsplus---Advanced-Backbone-Patterns-and-Techniques-2012.html http://www.seedpeer.me/details/7233352/Tutsplus---Become-a-Professional-JavaScript-Developer-Basics.html http://www.seedpeer.me/details/4848277/TutsPlus---Build-Web-Apps-in-Node-and-Express.html http://www.seedpeer.me/details/5683153/Tutsplus---Catch-Up-with-Ruby-on-Rails-4.html http://www.seedpeer.me/details/4918947/TutsPlus---CodeIgniter-Essentials.html http://www.seedpeer.me/details/5069781/TutsPlus---Connected-to-the-Backbone.html http://www.seedpeer.me/details/5513056/Tutsplus---Designing-Professional-Resumes.html http://www.seedpeer.me/details/5706815/Tutsplus-Easier-JavaScript-Apps-with-AngularJS.html http://www.seedpeer.me/details/6462415/TutsPlus---Easier-JavaScript-with-TypeScript.html http://www.seedpeer.me/details/5868293/TutsPlus---Getting-Started-With-Windows-8-Development-Using-HTML,-CSS-&amp;-JavaScript-V413HAV.html http://www.seedpeer.me/details/6150521/TutsPlus-HTML5-Video-Essentials-PRODEV.html http://www.seedpeer.me/details/4841911/TutsPlus---JavaScript-Testing-With-Jasmine.html http://www.seedpeer.me/details/6593486/TutsPlus---Less-is-More.html http://www.seedpeer.me/details/6571637/TutsPlus---Modern-Testing-in-PHP-with-Codeception.html http://www.seedpeer.me/details/6095651/Tutsplus---Parallax-Scrolling-for-Web-Design.html http://www.seedpeer.me/details/6574591/TutsPlus---Say-Yo-to-Yeoman.html http://www.seedpeer.me/details/4811335/Tutsplus---Test-Driven-Development-in-Ruby.html http://www.seedpeer.me/details/6268980/TutsPlus-Test-Driven-Development-With-CoffeeScript-and-Jasmine.html http://www.seedpeer.me/details/6185755/TutsPlus---The-MVC-Mindser-Jeffery-Way---ICARUS.html http://www.seedpeer.me/details/5024493/TutsPlus---Venture-Into-Vim.html http://www.seedpeer.me/details/6286416/Tutsplus---Vim-for-Advanced-Users.html http://www.seedpeer.me/details/6585031/Tutsplus---WordPress-Hackers-Guide-to-the-Galaxy.html http://www.seedpeer.me/details/4848477/TutsPlus---Writing-Modular-JavaScript.html  @giansalex Owner Author giansalex commented on 26 Feb 2018 •  SOLID http://www.allitebooks.com/beginning-solid-principles-and-design-patterns-for-asp-net-developers/  @giansalex Owner Author giansalex commented on 7 Mar 2018 Udemy: AWS Arquitecto de Soluciones Certificado Asociado  https://mega.co.nz/#!ZzhGWSAL!wuthFca0SdJBjmaP5lFX0QF6PeMsrdclKFXlZL1Rsi4 Pass: gratismas.org  @giansalex Owner Author giansalex commented on 7 Mar 2018 Go lang Complete https://www.freetutorials.us/wp-content/uploads/2017/11/FreeTutorials.Us-Udemy-go-the-complete-developers-guide.torrent  @GCPBigData GCPBigData commented on 15 Jul 2018 go books https://drive.google.com/open?id=1d6OsFAn8kpHCXtw0bcoYuyHqrAdGZva0  @freisrael freisrael commented on 14 Aug 2018 giansalex thanks for sharing. I am looking for learning phython with Joe Marini. It would be great if you post it.  @FirstBoy1 FirstBoy1 commented on 25 May 2019 Can anyone provide this book ""Getting started with Spring Framework: covers Spring 5"" by "" J Sharma (Author), Ashish Sarin "". Thanks in advance  @okreka okreka commented on 31 May 2019 Can anyone provide ""Windows Presentation Foundation Masterclass"" course from Udemy. Thanks in advance  @singhaltanvi singhaltanvi commented on 8 Aug 2019 can anyone provide \'sedimentology and petroleum geology\' course from Udemy. Thanks in advance.  @kumarsreenivas051 kumarsreenivas051 commented on 9 Sep 2019 Can anyone provide ""Programming languages A,B and C"" course from Coursera. Thanks in advance.  @BrunoMoreno BrunoMoreno commented on 11 Sep 2019 The link for the torrents in piratebay, now is .org to the correct url.  @sany2k8 sany2k8 commented on 24 Sep 2019 Can anyone add this The Complete Hands-On Course to Master Apache Airflow  @pharaoh1 pharaoh1 commented on 30 Sep 2019 can you pls add this course to your list https://www.udemy.com/course/advanced-python3/  @SushantDhote936 SushantDhote936 commented on 1 Oct 2019 Can you add Plural Sight CISSP  @allayGerald allayGerald commented on 1 Oct 2019 open directive for lynda courses: https://drive.google.com/drive/folders/1zQan1cq1ZnqXmueRF5IqKoOtpFxl6Y4G  @ezekielskottarathil ezekielskottarathil commented on 3 Oct 2019 can anyone provide \'sedimentology and petroleum geology\' course from Udemy. Thanks in advance.  ""wrong place boy""  @pulkitd2699 pulkitd2699 commented on 8 Oct 2019 Does anyone has a link for \'Cyber security: Python and web applications\' course? Thanks  @mohanrajrc mohanrajrc commented on 19 Oct 2019 •  Can anyone provide torrent file for Mastering React By Mosh Hamedani. Thanks https://codewithmosh.com/p/mastering-react  @evilprince2009 evilprince2009 commented on 27 Oct 2019 Can you please add these two below ? https://codewithmosh.com/p/the-ultimate-java-mastery-series https://codewithmosh.com/p/data-structures-algorithms-part-2  @nunusandio nunusandio commented on 30 Oct 2019 Can anyone post torrent file for ASP.NET Authentication: The Big Picture https://app.pluralsight.com/library/courses/aspdotnet-authentication-big-picture/table-of-contents  @EslamElmadny EslamElmadny commented on 9 Dec 2019 Can you please add these two below ? https://codewithmosh.com/p/the-ultimate-java-mastery-series https://codewithmosh.com/p/data-structures-algorithms-part-2  any luck ?  @Genius-K-SL Genius-K-SL commented on 14 Dec 2019 hay brother! do you have html5 game development with javascript course ?  @Genius-K-SL Genius-K-SL commented on 14 Dec 2019 This link is not working brother! http://www.seedpeer.me/details/4657790/Lynda.com-Building-Facebook-Applications-with-HTML-and-JavaScript.html  @smithtuka smithtuka commented on 20 Dec 2019 Can you please add these two below ? https://codewithmosh.com/p/the-ultimate-java-mastery-series https://codewithmosh.com/p/data-structures-algorithms-part-2  any luck ?  Has this come through by any chances?  @AbdOoSaed AbdOoSaed commented on 22 Dec 2019 Can you please add these two below ? https://codewithmosh.com/p/the-ultimate-java-mastery-series https://codewithmosh.com/p/data-structures-algorithms-part-2  any luck ?  Has this come through by any chances?  fff  @EslamElmadny EslamElmadny commented on 23 Dec 2019 •  Can you please add these two below ? https://codewithmosh.com/p/the-ultimate-java-mastery-series https://codewithmosh.com/p/data-structures-algorithms-part-2  any luck ?  Has this come through by any chances?  fff data-structures-algorithms-part-2 https://drive.google.com/open?id=1oYYdPp4MVVk7ZzZL6rLepFe33IjXtkqj  @jedi2610 jedi2610 commented on 27 Dec 2019 Can anyone provide me with Code with Mosh\'s Ultimate Java Mastery Series link? plis  @InnocentZaib InnocentZaib commented on 31 Dec 2019 Please provide the link of codewithmosh The ultimate data structures and algorithms Bundle the link is given below. Please give me the torrnet file or link to download https://codewithmosh.com/p/data-structures-algorithms  @edward-teixeira edward-teixeira commented on 1 Jan 2020 Please provide the link of codewithmosh The ultimate data structures and algorithms Bundle the link is given below. Please give me the torrnet file or link to download https://codewithmosh.com/p/data-structures-algorithms  Yea i\'m looking for it too  @kaneyxx kaneyxx commented on 1 Jan Can you please add these two below ? https://codewithmosh.com/p/the-ultimate-java-mastery-series https://codewithmosh.com/p/data-structures-algorithms-part-2  any luck ?  Has this come through by any chances?  fff data-structures-algorithms-part-2 https://drive.google.com/open?id=1oYYdPp4MVVk7ZzZL6rLepFe33IjXtkqj  could you please share the part-1 & part-3?  @edward-teixeira edward-teixeira commented on 2 Jan Can you please add these two below ? https://codewithmosh.com/p/the-ultimate-java-mastery-series https://codewithmosh.com/p/data-structures-algorithms-part-2  any luck ?  Has this come through by any chances?  fff data-structures-algorithms-part-2 https://drive.google.com/open?id=1oYYdPp4MVVk7ZzZL6rLepFe33IjXtkqj  Can you share part 1 and 3?  @ravisharmaa ravisharmaa commented on 7 Jan Please add this . https://www.letsbuildthatapp.com/course/AppStore-JSON-APIs  @WaleedAlrashed WaleedAlrashed commented on 13 Jan This one kindly. https://www.udemy.com/course/flutter-build-a-complex-android-and-ios-apps-using-firestore/  @Sopheakmorm Sopheakmorm commented on 19 Jan Anyone have this course: https://www.udemy.com/course/mcsa-web-application-practice-test70-480-70-483-70-486  @EslamElmadny EslamElmadny commented on 19 Jan Anyone have this course: https://www.udemy.com/course/mcsa-web-application-practice-test70-480-70-483-70-486  +1  @EslamElmadny EslamElmadny commented on 20 Jan Can you please add these two below ? https://codewithmosh.com/p/the-ultimate-java-mastery-series https://codewithmosh.com/p/data-structures-algorithms-part-2  any luck ?  Has this come through by any chances?  fff data-structures-algorithms-part-2 https://drive.google.com/open?id=1oYYdPp4MVVk7ZzZL6rLepFe33IjXtkqj  Can you share part 1 and 3?  https://vminhsang.name.vn/category/it-courses/codewithmosh/ this link includes almost all mosh courses  @mohanrajrc mohanrajrc commented on 22 Jan Can you please add these two below ? https://codewithmosh.com/p/the-ultimate-java-mastery-series https://codewithmosh.com/p/data-structures-algorithms-part-2  any luck ?  Has this come through by any chances?  fff data-structures-algorithms-part-2 https://drive.google.com/open?id=1oYYdPp4MVVk7ZzZL6rLepFe33IjXtkqj  Can you share part 1 and 3?  https://vminhsang.name.vn/category/it-courses/codewithmosh/ this link includes almost all mosh courses  Yes. Java mastery and Data Structures 1, 2, 3 are available in this site. free download.  @shihab122 shihab122 commented on 22 Jan Please give me the torrnet file or link to download The Ultimate Design Patterns  @EslamElmadny EslamElmadny commented on 22 Jan •  Please give me the torrnet file or link to download The Ultimate Design Patterns  Waiting for it also :D  @K-wachira K-wachira commented on 23 Jan Can you please add these two below ? https://codewithmosh.com/p/the-ultimate-java-mastery-series https://codewithmosh.com/p/data-structures-algorithms-part-2  any luck ?  Has this come through by any chances?  fff data-structures-algorithms-part-2 https://drive.google.com/open?id=1oYYdPp4MVVk7ZzZL6rLepFe33IjXtkqj  Can you share part 1 and 3?  https://vminhsang.name.vn/category/it-courses/codewithmosh/ this link includes almost all mosh courses  Yes. Java mastery and Data Structures 1, 2, 3 are available in this site. free download.  You are a saviour .. Altho i feel bad i cant really buy the course... its really good  @msdyn95 msdyn95 commented 25 days ago •  Please give me the torrent file or link to download https://codewithmosh.com/p/design-patterns https://coursedownloader.net/code-with-mosh-the-ultimate-design-patterns-part-1/ https://coursedownloader.net/code-with-mosh-the-ultimate-design-patterns-part-2/  @K-wachira K-wachira commented 23 days ago This one kindly. https://www.udemy.com/course/flutter-build-a-complex-android-and-ios-apps-using-firestore/  Hey did you find this one?  @edward-teixeira edward-teixeira commented 22 days ago Please give me the torrent file or link to download https://codewithmosh.com/p/design-patterns https://coursedownloader.net/code-with-mosh-the-ultimate-design-patterns-part-1/ https://coursedownloader.net/code-with-mosh-the-ultimate-design-patterns-part-2/  Did you find those?  @msdyn95 msdyn95 commented 21 days ago Please give me the torrent file or link to download https://codewithmosh.com/p/design-patterns https://coursedownloader.net/code-with-mosh-the-ultimate-design-patterns-part-1/ https://coursedownloader.net/code-with-mosh-the-ultimate-design-patterns-part-2/  Did you find those?  unfortunately not.  @edward-teixeira edward-teixeira commented 20 days ago Please give me the torrent file or link to download https://codewithmosh.com/p/design-patterns https://coursedownloader.net/code-with-mosh-the-ultimate-design-patterns-part-1/ https://coursedownloader.net/code-with-mosh-the-ultimate-design-patterns-part-2/  Did you find those?  unfortunately not.  Found it !  https://vminhsang.name.vn/category/it-courses/codewithmosh/  @ZainA14 ZainA14 commented 16 days ago •  Can someone please link me to this mosh course for torrent or direct download link https://codewithmosh.com/p/the-ultimate-full-stack-net-developer-bundle  @khushiigupta khushiigupta commented 9 days ago Can any one please provide me link for jenkins so that I can learn as al as possible   to join this conversation on GitHub. Already have an account? Sign in to comment © 2020 GitHub, Inc. Terms Privacy Security Status Help Contact GitHub Pricing API Training Blog About",,5
+0,https://github.com/EmurgoHK/emurgolance.git,Problem: freelancers cannot track their hours,,4
+0,https://github.com/codingdojoangola/portaldev.git,Plataforma de vagas e contratação de freelancers em Angola,,4
+0,https://github.com/wolframite/fusioninvoice.git,Self hosted invoicing for freelancers and small businesses,,4
+0,https://github.com/Jeider/freelancer_nomad_legacy.git,Freelancer mod The Nomad Legacy (required FL installation),,4
+0,https://github.com/asm-products/parliva.git,"Platforms for freelancers to sell their services per session or per hour, via video calls.",,4
+0,https://github.com/anthonykgross/anthonykgrossfr.git,Personal website - Blog / Event / Freelancer / Developer,"website,event,symfony,docker,codefresh,docker-compose,freelancer,blog",4
+0,https://github.com/mohamedgeemi/DPPD-Dental-Clinic-Management-System.git,"(FREELANCING WORK) A management system for the department of pediatric and preventive dentistry faculty                                                                           of dentistry, Ain Shams University, Using C# entity framework and SQL server database ",,4
+0,https://github.com/FWolfe/PyFL.git,"{""The Python Freelancer Toolkit - A python API for parsing and modifying data files from Microsoft's game Freelancer ""}","freelancer,python",4
+0,https://github.com/Benouzef/SledgeHammer.git,React Native app for Freelancers (Timesheets and Invoices),"freelancer,android",4
+0,https://github.com/cfrv99/stepProjectsCourse.git,Freelancer WebApplication,,4
+0,https://github.com/merisahakyan/FreelancingPlatform.git,Freelancing platform for hiring freelancers and finding remote work.,,4
+0,https://github.com/pesobitph/pesobit-source.git,"Pesobit is a low-inflation Proof-of-Stake coin that was created to be used by Filipinos in Remittance, Freelancing, Marketplace and many more.",,4
+0,https://github.com/cimm/missioncontrol.git,Time tracker for freelancers,,4
+0,https://github.com/RZZT/taskhive-core.git,"decentralized, p2p freelancer marketplace",,4
+0,https://github.com/magarem/startbootstrap-freelancer-rails.git,startbootstrap-freelancer-rails,,4
+0,https://github.com/italyremote/servizi-utili.git,servizi utili per il freelancer,"freelance,freelancer,freelance-work,resources,tools,services",4
+0,https://github.com/minhsieh/freelancer-office.git,A dashboard system for freelancer.,,4
+0,https://github.com/MicrosoftDocs/OfficeDocs-M365FreelanceToolkit.git,Microsoft 365 Freelance Toolkit documentation,"mvldocs,noncore,officedocs",4
+0,https://github.com/eivindml/mist-proposal.git,👨🏼\u200d💻 LaTeX proposal template for freelancers.,"latex,latex-template,proposal,freelancer,template",4
+0,https://github.com/autoclick/notifier-for-freelancer.git,"{""Brings new Freelancer project notifications to Chrome - You'll never miss any project from Freelancer.com""}",,4
+0,https://github.com/andreyppv/project-management-system-codeigniter.git,"Company Project Management System by Codeigniter, integrated paypal payment, freelancer management",,4
+0,https://github.com/amnonkhen/google-patents-scraper.git,A simple scraper for the Google patents website I wrote as a freelance project,,4
+0,https://github.com/KanchanaThiliniAbeyrathna/Freelancing-Backend.git,Back-end part of Distributed Freelancing Platform,,4
+0,https://github.com/hmans/awesome-freelancing-germany.git,Nützliche Ressourcen für Freelancer in Deutschland.,,4
+0,https://github.com/freelance-info/contrats.git,Modèles de contrats pour freelances informatiques,,4
+0,https://github.com/imgiseverything/BeanCounter.git,Simple PHP-based invoicing app for freelancers,,4
+0,https://github.com/OrchardSkills/OrchardSkills.OrchardCore.TheFreelancerTheme.git,The Freelancer Theme for Orchard Core CMS,,4
+0,https://github.com/nkpznkpz/hiring-hero.git,"Nextzy : We Are Hiring ! (Fulltime, Freelance, Intern)",,4
+0,https://github.com/JayeshPadhiar/Freelance.git,Java Based Desktop Application for Freelancing,"java,swing,freelance,freelancing,freelance-work,swing-gui",4
+0,https://github.com/bartop-io/bartop.git,Web framework for hobbyist and freelance bartenders 🍸,,4
+0,https://github.com/DevilJack/covid-19-parser.git,project from freelance - covid-19 parser,,4
+0,https://github.com/sleggat/TallyHo.git,A time tracker for the uncomplicated freelancer.,"time-tracker,php,freelancing,flat-file,yaml,timetracking,simplebydesign,portability,hourly-rates,self-hosted,freelance,timesheet,designers,bulma",4
+0,https://github.com/ElusiveSpirit/django-dev-protector.git,Django app that protects freelance developers,,4
+0,https://github.com/lightblueseas/freelancerdocs.git,Files for time report and invoice of freelance tasks.,,4
+0,https://github.com/iww/freelancejournalistsunion.org.git,Industrial Workers of the World ✩ Freelance Journalists Union,iu450,4
+0,https://github.com/wooolfgang/the-gig-atlas.git,The next generation gig platform that empowers freelancers,"reactjs,nodejs,graphql,apollo,apollo-client,nextjs,github-actions,react,react-hooks,prisma,docker-compose",4
+0,https://github.com/PHClement/Beam-Invoice.git,Open Source Invoicing App for Freelancers & Auto-entrepreneur. 💲📑,"beam,invoice,freelance,auto-entrepreneur,webpack,freelancers,invoicing",4
+0,https://github.com/drwrchrds/freelancer.git,:love_letter: - freelance project management app - Rails / Backbone,,4
+0,https://github.com/DPLYR-dev/basic-crm.git,A really basic CRM for entrepreneurs and freelancers,"crm,crm-platform,crm-system,simple,basic,nodejs,handlebars",4
+0,https://github.com/Sockstah/Space-Shooter-Example.git,An example project for a Freelancer-like space shooter,"godot,gdscript",4
+0,https://github.com/senior-php-developer/Dropbox.php.git,"Web based file sharing service. Developed for freelance project. Supports file-uploading and sharing between users. TODO: rewrite uploading, add drag-n-drop.",,4
+0,https://github.com/eigenfunk/freelance-recruiting-de.git,"A curated, yet incomplete, list of freelancer recruitment & placement websites in Germany.","freelance,recruiting,dach,germany",4
+0,https://github.com/RefugeesWork/organization.git,Refugeeswork.com is a mobile friendly app for newcomers to find freelance work,,4
+0,https://github.com/alexf-a/Freelance-Contract-Killer.git,Custom version of the amazing open-source Contract Killer for freelancers by Stuff & Non-Sense,,4
+0,https://github.com/prahladyeri/PyPomodoro.git,A small python script for freelancers to track time using the time-tested Pomodoro technique,,4
+0,https://github.com/AlejandroPascoli/Template-Joomla-Freelance.git,Template Joomla Freelance versión 1.0.1 (beta) for Joomla 3.x,,4
+0,https://github.com/bkclerke/Freelancer.git,modified start bootstrap freelance template converted to Umbraco with razor partial views,,4
+0,https://github.com/Cooya/Facebook-Marketplace-Client.git,Automated client for posting ads on the Facebook Marketplace (freelance mission),"facebook,marketplace,puppeteer",4
+0,https://github.com/foridulislam21/E-Commerce-App.git,This project mainly done by me under my supervisor Neil Cummings who is a Professional freelance software developer at Udemy.,"angular-10,asp-net-core-webapi,swagger-ui,scss",4
+0,https://github.com/ebabel-games/ebabel-games.git,Freelance React.js and Node.js Developer in Amsterdam - Contact Thomas Amar on +31 (0)6 21 80 98 99,,4
+0,https://github.com/WilliamMayor/WDTK.git,"{""The (Freelance?) Web Developer's Tool Kit (WDTK). A flexible bundle of tools and services for web developers with many projects, or many tasks.""}",,4
+0,https://github.com/1stvamp/oneversion.git,"{""A git repo for my little bits and pieces which don't warrant their own project, tagged with OneVersion (a reference to my 1v/One Version Software freelance trading name).""}",,4
+0,https://github.com/Deepa-Tilwani/PHP-MajorProject-FinalYear-FreelancingWebsite.git,This is a website which I had created during my final year project submission. Where user or freelancers registers themselves to search or request needed jobs of their interest. And any project or job can also be added by the companies who are looking for respective candidates who can willingly complete the projects provided.,,4
+0,https://github.com/devlom/grav-skeleton-hola.git,"Skeleton package for Hola. Hola is a modern and stylish vCard website template. Designed to be a resume, vCard, portfolio template, it’s the perfect template for creative designers, developers, freelancers, photographer or any creative profession. It is fully responsive and retina/hi-dpi ready. It will look great on any devices from desktop to mobile phones. It has blog page templates, working contact form, stylish portfolio section and other features you will only find on premium templates. Built with clean and organized code, this template is also very easy to customize.",,4
+0,https://github.com/anshulahuja98/freelancing-solutions.git,A freelancing platform,"freelancer,freelancing,django,webapp,software-engineering,course-project",3
+0,https://github.com/MarioSilvaTask4IT/Task4IT-Freelancing-Marketplace-Script-API.git,"Freelancing Marketplace API Powered by Laravel, NGINX and Pusher. ",,3
+0,https://github.com/cpanican/cd-marketplace.git,👨\u200d💻 A marketplace for freelance developers,,3
+0,https://github.com/williamjmorenor/contratos_freelance.git,Presentación sobre contrato para freelance.,,3
+0,https://github.com/pushpinderpalsingh/GigMe.git,"A find app for freelance gigs, internships and jobs","twitterapi,swiftui",3
+0,https://github.com/destino92/freelance.git,Freelance marketplace web application for digital services. Built with ruby on rails and advanced UI/UX,,3
+0,https://github.com/andrewwoods/freelance-manager.git,WordPress plugin for freelancers who manage client sites - a companion project to freelance-client,,3
+0,https://github.com/andrewwoods/freelance-client.git,WordPress plugin for freelance client sites - companion project to freelance-manager,,3
+0,https://github.com/EmurgoHK/emurgobot.git,problem: freelancers cannot self-assign or add labels to repositories without write permissions,,3
+0,https://github.com/ju5td0m7m1nd/Cryptolancer.git,A blockchain based platform for freelancer.,,3
+0,https://github.com/bitter-avalanche/Pandemic.git,Pandemic is a schema for Clockwork under development by Songbird and some other freelance helpers.,"clockwork,cw,pandemic,zombie,survival-game",3
+0,https://github.com/j-schreiber/partner-billing.git,Billing functionality for Salesforce consulting partners or anyone working as a freelancer,,3
+0,https://github.com/popcorn-morbihan/popcorn-morbihan.git,"🍿Popcorn-Morbihan : la plateforme pour trouver un·e développeur·e freelance dans le Morbihan, sans intermédiaire et sans frais !",,3
+0,https://github.com/dealbisac/freelancer-clone.git,The Freelancer Clone made using the React JS and Firebase.,"react,freelancer,mini,reactjs,clone,firebase,firebase-auth",3
+0,https://github.com/systimanx-itsol/finpay.git,Simplified invoice for freelances and small business users based on laravel - vue.JS,"invoice,freelances,laravel,vue",3
+0,https://github.com/OllyDorvelus/ulance-django.git,Freelance marketplace,,3
+0,https://github.com/PedroMartinsCap/freelance-calculator.git,Freelance calculator,"html5,css3,javascript",3
+0,https://github.com/TheCodedSelf/Color-Game.git,iOS freelance project,,3
+0,https://github.com/icebox827/denis-lafontant.git,Denis Lafontant Freelancer Website,,3
+0,https://github.com/tellijo/horofree.git,Parking meter for freelancers,elm,3
+0,https://github.com/Astro2020-lovely/freelancer-feed-assistant.git,freelancer-feed-assistant,,3
+0,https://github.com/hbolte/ionic-freelance.git,Template for freelancer,,3
+0,https://github.com/grayfalls/default-contract.git,Default freelance contract,"consulting,contracting,contracts,freelance,plain-english",3
+0,https://github.com/HeeL/fruehlance.git,freelance jobs aggregator,,3
+0,https://github.com/djberube/rtime.git,Ruby time tracker for freelancers,,3
+0,https://github.com/rumeau/zf2freelance-organizer.git,Freelance organizer app for developers,,3
+0,https://github.com/krsarmiento/freelance.git,Freelance Web Page and Application,,3
+0,https://github.com/clauda/nerdsfree.git,Reune desenvolvedores freelancers de Natal,,3
+0,https://github.com/avs123a/yii2-freelance-marketplace1.git,Yii2 simple freelancer marketplace example,,3
+0,https://github.com/AlbertQueiroz/Freela.git,Freelance app for iOS Developers,,3
+0,https://github.com/thedgbrt/dgbrt.fr.git,This is the complete code for my freelancing business website. The site is built using jekyll.,,3
+0,https://github.com/Trackear/trackear.git,Trackear is a simple web application for freelancers to track work and generate invoices.,,3
+0,https://github.com/donmango/contratos.git,Tratemos de hacer una buena plantilla para contratos para web developers / freelancers de México :),,3
+0,https://github.com/Hash-It-Out/HireChain.git,An open platform for job openings and acceptance in various tech and non-tech fields. (Freelancing),"solidity,ethereum,reactjs,ipfs,decentralized-applications,blockchain,hackathon-2019,dotslash2,nodejs,expressjs,mongodb",3
+0,https://github.com/dimohamdy/Freelance-iOS-ApplicationSignature.git,add your development signature to freelance app ,,3
+0,https://github.com/joshreisner/tasks.git,Task management & invoicing system for freelancers,,3
+0,https://github.com/christaclark/Freelancing.git,Presentation on Becoming a Freelance Developer/ Designer,,3
+0,https://github.com/dadahaha2020/Gitcoin-Community-Contribution.git,Freelance contribution and management for Gitcoin Community,,3
+0,https://github.com/asijoumi/malt_flutter_clone.git,A clone of Malt Freelance application,,3
+0,https://github.com/deriegle/rails_starter_project.git,Rails API Starter for personal & freelance projects,,3
+0,https://github.com/Riley-Brown/gatsby-online-food-orders.git,Freelance work building online food ordering site,,3
+0,https://github.com/The-Bug-Slayers/CryptLance-pytorch.git,A Decentralized Freelance Marketplace built using Blockchain,,3
+0,https://github.com/NandoKstroNet/freelancers.git,Small register of freelancers with laravel,,3
+0,https://github.com/metamatik/djangolance.git,Un annuaire des freelances djangoïstes francophones,,3
+0,https://github.com/BenHagel/ShaliekDemo.git,demo website for some freelance work,,3
+0,https://github.com/Radek-Szczepanik/learn-me.git,"Modular web application for foreign language tutors (with a possibility to be extended for other freelance jobs) to manage students, classes, payments, as well as provide some blog post articles, and advertise various freelance services.",,3
+0,https://github.com/serranoarevalo/nomad-jobs.git,"A platform built to help remote freelancers find a job online and entrepreneur find a reliable, certified freelancer.",,3
+0,https://github.com/eduardovpessoa/mesa-livre.git,Teste Android para participar da equipe de Freelancers da Vibbra.,,3
+0,https://github.com/danijar/invoicepad.git,"Freelancer solution covering time tracking, invoice generation and archiving",,3
+0,https://github.com/ProgramadorLivre/issue-tracker.git,A simple and elegant issue tracker for freelancers,,3
+0,https://github.com/Chandu-4444/WAD-Project.git,A Freelancing and Learning Website (Under Development) for WAD,"html5,css3,css-flexbox,scss-framework,bootstrap4,google-fonts,python3,django,sass,wad,ase,responsive-web-design",3
+0,https://github.com/FreelAngola/GokSide-freelangola.git,plataforma para gerência e organização de freelancers angolanos,,3
+0,https://github.com/hardbap/hobo_codes.git,A place to suggest Hobo codes for your fellow freelancers,,3
+0,https://github.com/MaryamAlMansour/CodeIn.git,"CodeIn, a platform for coders to network and freelance. ",,3
+0,https://github.com/thorie7912/microlancer.git,Microlancer.io | Microtask freelancing powered by Bitcoin + Lightning Network,,3
+0,https://github.com/Nirgalz/easy-billing.git,Easy billing software for freelancers made using electron and neDB,"billing,app,freelancers",3
+0,https://github.com/Cooya/Social-Network-Scraper.git,"CLI tool for scraping Instagram, Youtube & Facebook (freelance mission)","instagram,youtube,youtube-api,facebook,scraping",3
+0,https://github.com/timmatheson/freelance.git,A simple Freelance project managment tool built on rails,,3
+0,https://github.com/biqqles/flint.git,A parser and API for Freelancer and its formats,"freelancer,library",3
+0,https://github.com/scott2449/Freelancer.git,Example of how to connect (via oauth) to Freelancer APIs,,3
+0,https://github.com/theAlexPatin/theAlexPatin.github.io.git,My personal freelance portfolio site (built in Vue.js),"personal-website,portfolio,alex-patin,vue,freelance",3
+0,https://github.com/golkhandani/nest_boilerplate.git,Just A personal Boilerplate for my freelance jobs.,,3
+0,https://github.com/danmclaren92/freelance-marketplace-app.git,AngularJS links the Front-end with Firebase for a cloud-hosted database. Web App where users can Register/Login then make posts as well as search others postings. http://danmclaren92.github.io/freelance-marketplace-app/#/,,3
+0,https://github.com/fredneutron/Babatunde-Adelabu.git,A portfolio for a freelance software developer named Babatunde Fred Adelabu,"laravel,vuejs,php72,js,portfolio",3
+0,https://github.com/webdev1001/awesome_tasks.git,"A Rails-app for managing projects, tasks, used time, communication, invoicing and much more for freelancers.",,3
+0,https://github.com/jonaswouters/goclerk.git,A simple web app for small businesses and freelancers to help with all the grunt work,,3
+0,https://github.com/jperilla/FreelanceHub.git,"Web Application for searching for Freelance Work in C#, .NET, Google Search API.",,3
+0,https://github.com/doschott/evolvetoken.git,"Incentivize freelancers, remote employees, and independent professionals to work together and share resources and ideas","coworking-space,coworking,collaboration,community,remote-employees,independent-professionals,incentivize-freelancers,social-good,ethereum,digitize-coworking-behavior,hyperledger,blockchain,open-source",3
+0,https://github.com/pointbazaar/octofinsights.git,"you can use it to manage Leads and Sales as a freelancer, in a rudimentary way","sales,leads,expenses,mysql",3
+0,https://github.com/poshboytl/westsource.git,"{""It's a CMS only focus on  showing your startup, freelancing team and work.""}",,3
+0,https://github.com/Cooya/Dental-Website-Scraper.git,Simple web scraper allowing to collect items from commercial website selling dental equipment (freelance mission),"megadental,henryschein,promodentaire,dental,scraper,crawler",3
+0,https://github.com/cha87de/easycom.git,A web-based assistant for freelancers - for time recording and invoicing.,"invoice,assistant,time-tracker,invoicing,freelancer,invoice-pdf",3
+0,https://github.com/SeasonFour/Mtindo.git,An android application that helps freelancer in the beauty industry connect with their clients,,3
+0,https://github.com/7Shift/Orbit.git,Support page for a professional theme for creative agencies and freelancers Orbit,,3
+0,https://github.com/cjroth/instacontract.git,App for generating freelance software contracts by dragging and dropping clauses.,,3
+0,https://github.com/HardeepAsrani/latte.git,"Latte is a one-page parallax WordPress theme for developers, designers & freelancers, to showcase their profile.",,3
+0,https://github.com/lweslen/JobsCalc.git,O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer.,"maratonadiscover,rocketseat,nodejs,backend,discover,jobscalc",3
+0,https://github.com/TheKiddos/faith.git,F.A.I.T.H. is a freelancers website for Syria created as a graduation project for Tishreen University,"university,university-project,freelancer,website,java,spring,spring-boot,maven,tishreen-university,freelancers-website,graduation,srs,selenium,bdd,cucumber",3
+0,https://github.com/Rohit19060/Nursing-Provider-System.git,PHP Application for Freelance Nurse. Here you can register and hire someone or get hired by someone.,"php,mysql,crud,freelance-platform,hospital-management,nursing-provider,nursing-freelancers,xampp,css,html,database,king-technologies",3
+0,https://github.com/Linda-Ikechukwu/Web-Development-Tools.git,"An organized list of useful online free web development tools for freelancing, personal projects and maybe more ...","webtools,plugins,freetooldev,developer-tools,devtools",3
+0,https://github.com/mclintprojects/Alansa.git,A collection of handy classes I use in my freelance projects now easily accessible in one place.,,3
+0,https://github.com/lokeshsinghi/HandyMan.git,"An android application that provides an all-in-one platform for customers to hire service providers, from carpenters to technicians and beauticians. HandyMan also provides service providers opportunities to freelance with customers.",,3
+0,https://github.com/warrenchu/UofT_Hacks_2021.git,"This was the UofTHacks 2021 Group Project. Winner of RBC\'s challenge: ""In the economy of freelance work, what solution can help students strategically save towards an emergency fund without being overwhelmed?""",,3
+0,https://github.com/Henriquecesp/HenriqueCesp.git,"Desenvolvedor front-end & designer UI, de Foz do Iguaçu, Brazil. Atualmente trabalhando como freelancer, criando soluções para empresas e compartilhando conhecimento com a comunidade de desenvolvedores!","cespdev,nextjs,react,graphql,apollo-client,typescript",3
+0,https://github.com/magnetic-lab/magla.git,"A free SQL-powered data pipeline for animation and visual-effects freelancers and studios, with an emphasis on dynamically generated `opentimelineio` timelines.","vfx-pipeline,opentimelineio,sqlalchemy,postgresql,python",3
+0,https://github.com/phoopee3/contract.git,This is the contract template I use in my freelance projects. It has been cobbled together from various sources which I no longer have the links to.,,3
+0,https://github.com/anouar99pac/homeworker-billing.git,Une application pour les Freelancers français qui veulent savoir combien ça coûte un intervenant avec les différents cas de paiements possibles.,,3
+0,https://github.com/shivam141296/Simple-freelancing-website.git,"Freelancing website where you can work(employee) as well as as hire people(employer) made using php,javascript,html,css,xampp server(database)","html,css,php,xampp-server",3
+0,https://github.com/hacktheme/Dana.git,"Dana is a minimal, creative Multipurpose PSD Template. Comes with 12+ Home pages, Dana fits for a range of business & corporation like portfolio, ICO landing page, cryptocurrency, fashion store, one page, photographer, media agency, web studios, designers, freelancers, entrepreneurs, marketing, artistic agencies, corporate, creative business, etc",,3
+0,https://github.com/meetmangukiya/bth-py.git,"{""Supposed to be like upwork time tracker i.e. a time tracking application for your freelance projects that are not on upwork but when you'd like to produce some proof for your employer.""}",,3
+0,https://github.com/yoosuf/tilldesk.git,"{""The tilldesk is ideal for freelancers and businesses who want an easy way to manage, create and send their invoices. It's great for anyone who has a service or product to sell.""}","invoice,invoices,invoice-pdf,invoice-generator,invoice-management,invoice-template,billing,billing-application,billing-api,billingsystem",3
+0,https://github.com/Zenahr/waterfall-project-managment-suite.git,This is a suite of documents and templates which are frequently used in corporate software development projects. Ideal for freelance developers and those who aspire to become allrounder developers.,,3
+0,https://github.com/IsurangaPerera/FLAN.git,"Web platform which allows employers to hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting and legal services.",,3
+0,https://github.com/sheng-liu/sojourner.git,"Statistical analysis of single molecule trajectories. (NB: The Sojourner.Pro featuring machine learning analysis is in the making, sign up on sojourner website for release: also, I am open for freelancing till the end of the pandemic, checkout the website for details). ","single-molecules,single-molecule-imaging,single-particle-analisys,biophysics",3
+0,https://github.com/amiovro/freelancing-marketplace.git,"This is for learning purpose. It is a simple Freelancing marketplace website for only one type of jobs, which is web developing or software developing. It is created using Python and Django Framework. I have also used scraping. And it was done by Beautiful Soup 4. Check out the project live...","python,django,html",3
+0,https://github.com/bigkitttty/cstore.git,"{""cstore is Powerful multipurpose WooCommerce WordPress Theme. cStore is the perfect free theme for e-commerce shop. cstore is responsive mobile optimized and using bootstrap framework. to show awesome icons on site it's using FontAwesome icons. cstore is Search Engine Optimized (SEO) friendly. Theme is developed to be used for any business, corporate, companies, or freelancers to create an awesome online presence. cstore is highly recommended for business, informative, agencies, travel, design, art, personal, restaurant, construction, health, digital agency, bloggers, corporate business, freelancers, portfolio, product showcase, and any other creative e-commerce websites. Even with all the Powerful features the theme is optimized for fast performance and security.Theme includes customizable homepage, awesome slider, social links, latest products, latest blog section and other Advance section. Theme Provide 3 page Template (Home Page , Full Width, Left Sidebar) to select layout. cstore is perfect suitable for clothing, electronics, mobile and almost any type of store website. cstore is good for eCommerce solution and compatible with contact form 7, JetPack, WPML, Elementor page builder""}",,3
+0,https://github.com/azraf/freelancing-market.git,Freelance Marketplace Script with PHP,"php,blade-template,eloquent-orm,freelance-platform,php71",2
+0,https://github.com/ababa026/netpal.git,A freelancing app on campus,,2
+0,https://github.com/biqqles/wingman.git,A companion for Discovery Freelancer,"freelancer,app,pyqt",2
+0,https://github.com/AudunVN/Navmap.git,Browser-based system map viewer for the Freelancer mod Discovery.,,2
+0,https://github.com/EnsembleLab/snipe.git,Freelance Platform,freelance-platform,2
+0,https://github.com/mahady-manana/platform-app-job-bidding.git,Client-Freelancer Partnership - Jobs Search - Posting jobs,,2
+0,https://github.com/anomalylabs/starter-theme.git,The starter theme is a basic HTML5 Bootstrap theme based on the Freelance Theme from http://startbootstrap.com/template-overviews/freelancer/,,2
+0,https://github.com/gaurangkumar/codework.git,PHP Freelancer website,"php,freelancer,code,work,job",2
+0,https://github.com/serapath/serapath.github.io.git,My Freelancer Website,,2
+0,https://github.com/GreanBeetle/west-oaks.git,Freelance website revision project. ,,2
+0,https://github.com/sakura57/core2.git,Freelancer Core2.0 SDK,,2
+0,https://github.com/vProjects/freelancer_script.git,this is a freelancer script,,2
+0,https://github.com/Daniyal-Javani/Multi-Level-Marketing-For-Freelancers-By-Laravel.git,A Multi level marketing manager for freelancers powered by Laravel,,2
+0,https://github.com/airavata-courses/Architects.git,"This repo is a microservice project, 9to5IT, a freelancing portal. ",,2
+0,https://github.com/FreelanceMe/FreelanceMe.git,Made by Freelancers for Freelancers. Get your creative project on track with FreelanceMe Project Management,,2
+0,https://github.com/Sounmay/RCFlutterApp.git,A Food delivery application created using Flutter and Firebase as part of a freelance app design project for Rourkela Club.,"hacktoberfest,hacktoberfest2020,hacktoberfest-accepted",2
+0,https://github.com/dotundefined/tax-calculator.git,Taxes calculation for freelancers in FBiH,"freelancer,freelancers,bih,porezi,taxes",2
+0,https://github.com/yaroslav-v/grav-skeleton-freelancer-site.git,Freelancer Theme Skeleton for Grav CMS,,2
+0,https://github.com/Blockrazor/deeplance.git,problem: freelancer hours are not tracked,,2
+0,https://github.com/Moswag/Personal-Developer-Management-App.git,A freelancer projects and proposal management app,,2
+0,https://github.com/templates-desarrollo-web-mobile/freelancer-angular.git,Plantilla Start Bootstrap - Freelancer adaptada a una web app Angular ,"bootstrap,angular8,angular9,angular,typescript,youtube,mugan86,anartz-mugika,anartz,mugika",2
+0,https://github.com/mmeidyfachreza/Sistem-Informasi-Nilai-Siswa.git,Freelance 4 - Sistem Informasi yang dapat melakukan penginputan nilai per semester dan dapat dicetak menjadi raport,"sistem-informasi-sekolah,raport,sistem-informasi",2
+0,https://github.com/netodomingos/New-Man-Style-Barber-Shop.git,Freelancer Development ,,2
+0,https://github.com/appendonlylog/freelance0x.git,"Freelance, distributed",,2
+0,https://github.com/victoraidiapp/gbr_for_ios.git,Freelance project,,2
+0,https://github.com/gcrodrigues/PapoTabu.git,Freelance Project,,2
+0,https://github.com/even311379/scoresheet_parser.git,freelancer job,,2
+0,https://github.com/CarsonBoavida/freelancer.git, Sistema freelancer  ,,2
+0,https://github.com/bhawanaprasain/Saakar.git,Freelancing site,,2
+0,https://github.com/datafile4/q03.git,Freelance Dashboard,,2
+0,https://github.com/flowlep/kactus.git,Freelance tools,,2
+0,https://github.com/davidauza-engineer/Ruby-on-Rails-Freelance-App-Documents-Microservice.git,https://freelance-camp-documents-da.herokuapp.com/freelance_documents,,2
+0,https://github.com/avevlad/FlHelper.git,Freelance project notification,,2
+0,https://github.com/Davidthecoolsmartguy/Invoice-Calculator.git,Invoice Freelance calculator,,2
+0,https://github.com/neilp666/payyola---reward-your-freelancer.git,Reward Your Freelancer Today,,2
+0,https://github.com/ampersandlabs/freelance.git,Ampersand Labs Freelance App,,2
+0,https://github.com/gnpedroso/gnpedroso.github.io.git,Wine Not freelancing project.,,2
+0,https://github.com/moorebrett0/Freelance.git,Freelance clone project,,2
+0,https://github.com/mskeen/freelancer.git,Freelancer Command Centre,,2
+0,https://github.com/piotrpsz/Timelancer.git,Time organizer for freelancers,"golang,go,gtk3,tools,organizer,time-tracker,freelancer",2
+0,https://github.com/VadimDez/freelance.git,Web platform for freelance,,2
+0,https://github.com/marcusellison/whlist.git,Freelance Jobs List,,2
+0,https://github.com/jjmalvaez/flamingo.git,Flamingo - Agency & Freelance Portfolio ,,2
+0,https://github.com/transformerjnm/visionary_websites.git,freelance website company,,2
+0,https://github.com/Ovi1/LSPB-jombri.git,Jombri freelance module ,,2
+0,https://github.com/cheribhai/fig.git,Freelancer in Germany,,2
+0,https://github.com/ALPHA-GPTK/HustleHub.git,A Freelancing Website.,,2
+0,https://github.com/intercaetera/manhattan.git,Freelancer system prototyping tool,,2
+0,https://github.com/cgc-dan/cgc-designers.git,Camgirl.Cloud Freelance Program,,2
+0,https://github.com/ReinProject/kivy-rein.git,Mobile app using the kivy framework for the Rein decentralized freelance market,,2
+0,https://github.com/TheXardas/sfs.git,Simple Freelance System (OOP-less),,2
+0,https://github.com/Coquinha-Coffee/super-duck.git,Uma aplicação para programadores freelancer,,2
+0,https://github.com/james-jin-0903/portfolio-v1.0.git,Freelance Web Developer portfolio website,,2
+0,https://github.com/erickgnavar/proma.git,Simple freelancing project management tool,"hacktoberfest,hacktoberfest2020",2
+0,https://github.com/davidmigloz/go-dentist-android.git,Freelance dentist management Android app,,2
+0,https://github.com/HmsChumsai/scraper.git,scraper apps for freelancer contest,,2
+0,https://github.com/Fankserver/node-flhook.git,Freelancer Hook framework for node,,2
+0,https://github.com/jfilipe-dev/jobber-web.git,A web application for finding freelancers and provomer services as a freelancer.,,2
+0,https://github.com/Osednaca/fiverrjobs.git,Some example code from Fiverr Freelance Jobs,,2
+0,https://github.com/SilentAssassin82/maxCMPExporter.git,Freelancer CMP Exporter for 3ds max,,2
+0,https://github.com/JaxonNarramore/audio2go.git,Freelance website built for Audio 2 Go.,react,2
+0,https://github.com/leblanck/leblanck.github.io.git, 👨\u200d💻 Personal website for freelance dev work,portfolio,2
+0,https://github.com/jthanlopes/SysGAP.git,"Sistema gerenciador de agências, produtoras e freelancers.",,2
+0,https://github.com/CharuniKaushalya/Distributed-Freelancing-Platform.git,Distributed Freelancing Platform based on blockchain technology,,2
+0,https://github.com/mattmcclean/nova-zmq-freelance.git,The OpenStack Nova RPC ZeroMQ Freelance driver,,2
+0,https://github.com/CrafterSama/4geeks_work.git,Trabajo para 4 Geeks de Modo Freelance,,2
+0,https://github.com/Meid-KH/ParticlesFreelancer.git,Freelancer landing page template with particles,,2
+0,https://github.com/JakobJK/soloPipe.git,An small application for the freelance modeler,,2
+0,https://github.com/roberto0arruda/tlo-teste.git,teste para freelancer full-stack na TLO,,2
+0,https://github.com/ElanGroup/freelance-navigator.git,Project for searching jobs on freelance sites.,,2
+0,https://github.com/CharlieSparker/elm-freelancer.git,Elm bindings for the Freelancer API,,2
+0,https://github.com/StefanMarx/bill.git,"{""creating bill PDF's for freelancers""}",,2
+0,https://github.com/kylejohnston/flow14.git,"Source for my freelance portfolio, flow14.com",,2
+0,https://github.com/James91/moneta.git,Invoice / Account for IT Freelances/Consultants ,,2
+0,https://github.com/GuiPassoskt/Sistema-Gerenciador-freelancer.git,Sistema para gerenciamento de projetos freelancer,,2
+0,https://github.com/matenia/Client-Lounge.git,a client lounge app for freelancers,,2
+0,https://github.com/codecasm/freelance-registration-template.git,Registration page template for Freelance Registration,,2
+0,https://github.com/minmesina/Billing-System.git,Billing system for freelancers and small companies.,"codeigniter,bootstrap,jquery,mysql,ajax",2
+0,https://github.com/mkumail1/PropertyWebsite.git,Property Website for a Freelance Client,"property,realestate,agency",2
+0,https://github.com/RecurVoice/freelancerapi.git,REST API for Freelancer Office [Codecanyon],,2
+0,https://github.com/cooltey/CodeJob.git,A PTT article gather for freelancers,,2
+0,https://github.com/Siddharth1698/Quick-Jobs--Freelancers-Customers.git,Quick Jobs is a local freelancing application. The app is used mainly by two category of users. A hiring user and a freelancing user. A hirer can do freelancing and a freelancer can hire whenever he please.,,2
+0,https://github.com/GigHuntr/gighuntr.git,A tool for finding jobs or freelance gigs by searching various job boards using a custom Google search.,,2
+0,https://github.com/bounswe/bounswe2018group8.git,This main objective of this project is providing an environment for clients and freelancers to collaborate in a single platform.   ,university-project,2
+0,https://github.com/AnthonyNahas/my-page.git,Personal Freelance Page built with Angular and Material Design based on startboostrap (cloned from @angular-material-extensions/freelance-theme),,2
+0,https://github.com/dipen2512/WebsiteDevelopment.git,Freelance work to create a website for a client.,,2
+0,https://github.com/alitavakol/taskscape.git,Project management made attractive —for teams and freelancers,"ruby-on-rails,project-management,task-management,webapp,backbonejs,coffeescript",2
+0,https://github.com/seyhunak/WP-Freelance.git,Wordpress widget adds freelance status information box to your sidebar,,2
+0,https://github.com/coenond/freelance-hours-api.git,Laravel Lumen API for the Freelance Hours App,,2
+0,https://github.com/itenium-be/site-freelance-jobs.git,UI to update Jekyll site with freelance jobs,,2
+0,https://github.com/ugrupp/21sieben.git,"21sieben: Jekyll onepager for Urs Grupp, freelance web developer",,2
+0,https://github.com/Traveless/FU-Factions-MKII.git,FU Factions mod for Freelancers union Arma 3 group.,"arma3,mod,modding,units,factions,vehicles,badcode",2
+0,https://github.com/Nathan-G1/masterlance.git,MasterLance is a freelancing online hub designed for Ethiopia.,"microservices,javascript,loopback,vuejs,grpc",2
+0,https://github.com/gsogol/Freelance-ZeroMq.git,Shows a freelance pattern from the ZeroMq Guide,,2
+0,https://github.com/calebrotich/Freelancers-hub.git,Links clients and freelancers to promote skill utilisation,,2
+0,https://github.com/kartik0406/MirrorCraft.git,Freelance website to get and upload images for free,,2
+0,https://github.com/MarsXstudios/marsxstudios.github.io.git,This is my freelancing website where i sell my packages,,2
+0,https://github.com/nickollascoelho/modelo-de-contrato.git,Modelo de contrato de prestação de serviços [ Desenvolvedor Freelancer ].,,2
+0,https://github.com/furkeen/CRM-Freelancer.git,"It is CRM for Freelancers. Projects, Customers, Transactions etc.",,2
+0,https://github.com/maevanapcontact/MaevaNguyenAnhPhuong_6_02012021.git,Accessible website to display work of freelance photographers,,2
+0,https://github.com/Timrael/freelance.git,The application intended for co-working between freelancers and employers.,,2
+0,https://github.com/kevinyjiang/cpa-automate.git,Automate Columbia Photo Association freelance job-handling workflow,,2
+0,https://github.com/alariva/panel.git,A lite CRM for freelancers built on Laravel 5.3,,2
+0,https://github.com/Manfrinmm/inovacao-treiname.git,Freelance project on a platform for NR courses (Regulatory Norms),,2
+0,https://github.com/mattmcclean/nova-freelance-0mq.git,Implementation of the Nova RPC using the ZeroMQ Freelance Pattern,,2
+0,https://github.com/Manfrinmm/inovacao-treiname.git,Freelance project on a platform for NR courses (Regulatory Norms),,2
+0,https://github.com/kRen0/freelance.ru-userscript.git,Юзерскрипт для облегчения работы с сайтом freelance.ru,,2
+0,https://github.com/MHM5000/Freelancers.git,Everything that Freelancers should do or think about.,,2
+0,https://github.com/mrenty/invoices.git,A React app to generate invoices for freelancers,,2
+0,https://github.com/biozahard/freelance-remote-job-work.git,"Listing of web-resources with remote job, freelance remote work.",,2
+0,https://github.com/netodomingos/dinaejunior.git,Web page Freelancer para a dupla Dina e Junior,,2
+0,https://github.com/IGDA-LocSIG/louandu.git,Groupware and online project management tools for freelance translators,,2
+0,https://github.com/TobiasWeiseX/Bini.git,small lib to edit bini files in the game freelancer,,2
+0,https://github.com/Astro2020-lovely/Freelancer_Marketplace.git,Powerful Freelance Marketplace with ability to change the users,,2
+0,https://github.com/cristark/html-css-bootstrap-freelancer.git,"{""Replica template responsive Freelancer tramite l'utilizzo di Bootstrap 3""}",,2
+0,https://github.com/zhongeric/mhacks12.git,"Cytrus - Networking for software freelancers. Easily find freelance developers and designers that share your passion and skills. Find the perfect co-founder, or the next A-team.",,2
+0,https://github.com/clebermatheus/FreelancerPortfolio.git,Neste Repositório encontra todos os projetos que desenvolvi envolvendo o site freelancer,,2
+0,https://github.com/eoanodea/React-Client-Management-Dashboard.git,A client management dashboard built using MERN stack for freelance web developers.,"reactjs,mern-stack,nodejs,browserrouter,sass",2
+0,https://github.com/meokisama/agencies.git,A high quality portfolio template for digital agencies and freelancers based on Bootstrap,"bootstrap,agency,portfolio,modern,portfolio-website",2
+0,https://github.com/alecrobins/Freelance.git,A collection of my freelance work over the past 3 years. ,,2
+0,https://github.com/nerevu/kazeeki.git,"The webapp that helps freelance developers and designers find, price, and win projects.","app,chaplin,coffeescript",2
+0,https://github.com/MdSamsuzzohaShayon/Web-Linux-Essential-Docs.git,"web, Linux, docker, database, hosting, domain, Kubernetes, freelancing, web design, API, security, gaming, payment, seo",,2
+0,https://github.com/kesavSaiVikash/To-Do.git,"{""It's a FreeLance project for a Client (To-DO app)""}",,2
+0,https://github.com/mrocha98/trampoz-ui.git,Plataforma para anúncio de trabalhos freelance (Front-End c/ VueJS 3),"vue,vuejs,typescript,vueprime,primefaces,vuex,fatec-sjc",2
+0,https://github.com/gauravmak/awesome-freelancing.git,A curated list of resources to help you on your freelancing journey.,"awesome,awesome-list,freelancing",2
+0,https://github.com/kantmanijangid/web-design-.git,"website design, website development , web hosting , domain registration, webpage designing, freelance web designer",,2
+0,https://github.com/Andrewnetwork/FreelancePunchCard.git,"A prototype for a freelance time management software. ( CSS, HTML, PHP, SQL, JavaScript, JQuery )",,2
+0,https://github.com/jessespurlin/darcydubose.git,"Freelance website I created for Darcy DuBose, a digital illustrator and artist based in Austin, TX",,2
+0,https://github.com/jslirola/freelance-jobs.git,Are you a freelancer? Check the newest jobs of your area from the most known websites.,,2
+0,https://github.com/AppBakerZ/HotelManagement.git,This is a small project for freelancer client using BackboneJs and Parse.com,,2
+0,https://github.com/jodfedlet/Freelancer_Sites.git,Repository containing sites for those who want to work as a freelancer,,2
+0,https://github.com/fujaru/lasku.git,"Web-based invoicing system for freelancers and small businesses, inspired by FusionInvoice.",,2
+0,https://github.com/slauger/homeoffice.git,A list of my hardware for my daily business in my homeoffice as IT Freelancer.,,2
+0,https://github.com/VoltampMedia/project_status.git,A quick Project Status Page for Freelance Web Designers and Developers,,2
+0,https://github.com/monochroumme/isto-nuxtjs.git,A freelance project for Ukrainian company ISTO. Wrote the Front-End from scratch on Nuxt.js,,2
+0,https://github.com/SijmenHuizenga/freelancer-challenge.git,Solution to the Freelancer challenge by CodeStar powered by Ordina as part of JFall 2020,,2
+0,https://github.com/aquario-crypto/Awesome_Digital_Nomad.git,"A curated repository on being a digital nomad, freelancing, and remote jobs ✅  𝚋𝚢 𝚋𝚝𝟹𝚐𝚕","nomad,nomad-jobs,digital-nomads,jobs,freelancing,awesome,awesome-list",2
+0,https://github.com/slaxor/invoicer.rails.git,a rails app to handle my freelance jobs and generate an invoice eventually,,2
+0,https://github.com/IngageNetworks/GhostWriter.git,A Windows Phone 7.5 Vertical App for Freelance Social Writers,,2
+0,https://github.com/savio591/n_tecnologias-frontend.git,[Freelance Project] - N Tecnologias -  Plataforma de gerenciamento de dados  e metricas dos clientes,,2
+0,https://github.com/VitorTakara/11art.git,Time especializado freelancer que abrange todas as áreas de arte e web,,2
+0,https://github.com/bysidby/OECD-Insurance-Statistics.git,The major official insurance statistics for all OECD countries. Freelance project by Alexey Malashenko.,,2
+0,https://github.com/Echobob/MCFreelancer.git,"This is a freelancer listing for developers, server managers, web developers for the multiplayer games.",,2
+0,https://github.com/freelancing-solutions/freelancing-profile.git,"My freelance profile coded with Python, Flask, Flask_restful, Jinja2 Templates, Javascript, HandleBars",,2
+0,https://github.com/rezaulk/HireFire.git,"It is an Online Freelancing Site like As Fiverr. It is based on Html,PHP,JavaScript .",,2
+0,https://github.com/ideaguy3d/heroku-app.git,A  real estate website freelance job I built for a local business,,2
+0,https://github.com/TheBrotherFromASouthernMother/TitleStore-Project.git,"{""Freelance project to automate the process of transferring automobile titles for Rudy Hernandez's business""}",,2
+0,https://github.com/thinkhuman/whatsmyrate.git,A tool for calculating your real-world freelance web development/design rate.,,2
+0,https://github.com/techromantic/agency10b-portal-meteor.git,A creative agency freelancer portal that allows an agency to send out mass updates on available assignments. It also allows freelancers to bid on those projects anonymously and chat with headquartersl ,,2
+0,https://github.com/lcsondes/flsubs.git,"A tool to add subtitles to some games using Direct3D 8 and DirectSound, geared towards Freelancer by Digital Anvil.",,2
+0,https://github.com/swproposal-software/software-proposal.git,SW Proposal is professional tool for creating software project proposals and CRM for software development companies and freelancers ,,2
+0,https://github.com/Anshul-GH/freelance_projects.git,This repository contains the various freelance projects that I have worked on - picked up from upwork or other facets.,"hackoctoberfest,hacktoberfest2020",2
+0,https://github.com/reetesh11/text_classification.git,"Classify facebook posts accordingly to its content. The posts are generally related to job, freelancer, intern etc.",,2
+0,https://github.com/seb86/Hire-Me-Status-Widget.git,Easily display if you are available for hire using this widget. Useful for freelance developers like me.,"wordpress-plugin,widget,wordpress-widget",2
+0,https://github.com/thesagarsehgal/FreelancingIIITS.git,A Django based fully responsive Web Portal for freelancers to work on projects according to their skills and earn money. ,,2
+0,https://github.com/chrisbradshaw/work-genie.git,"Work Genie is a peer to peer marketplace for online freelancer services, built using the Python web framework Django",,2
+0,https://github.com/WaterMemor/Estate-agency-page.git,"Code of my freelance work. I created the design for the real estate agency. And made with HTML, CSS, jQuerry.",,2
+0,https://github.com/hezahran/hezahran.github.io.git,"Personal website of Hashem Zahran, a freelance UX & UI Developer based in the beautiful mediterranean city of Alexandria, Egypt.",,2
+0,https://github.com/Nathan-Andrade/jobsCalc.git,"Jobs Calc é uma claculadora que ajuda o desenvolvedor freelancer, a calcular o valor a se cobrar por um projeto","maratonadiscover,maratona-discover,jobscalc,javascript,html5,css3,nodejs,nodemon,express",2
+0,https://github.com/yussan/express-mongodb-boilerplate.git,"i created this repo to make easy and fast to start new project from freelance or others, builded using NodeJS + ExpressJS + MongoDB with Ecma Script 6.","nodejs,expressjs,mongodb,es6,babel",2
+0,https://github.com/manuelro/Devs-Costa-Rica.git,Un listado de desarrolladores Web (y de otras áreas) costarricenses quienes tienen disponibilidad para contribuir con proyectos a manera de freelance o full-time.,,2
+0,https://github.com/jokopriyono/Freelan.git,This project just for learning how to implement UI/UX from Sutaryo awesome design https://dribbble.com/shots/9069919-Find-Freelance-App,,2
+0,https://github.com/corbin737/block-work.git,Best use of POA @ ETHSanFrancisco 2018. Block Work is a website and mobile app backed by a smart contract that facilitates decentralized coordination of freelance work.,,2
+0,https://github.com/thebakerdev/forti.git,A minimalist One-Page template built with TailwindCSS. The template is best suited for freelancers or small agencies to showcase their work and services.,,2
+0,https://github.com/wafarifki/Peleriso-LandingPage.git,"Bekerja bisa darimana saja, termasuk dirumah. Di website ini, anda dapat dengan mudah mencari pekerjaan terkhusus buat freelance. Design By Steven Johannes",,2
+0,https://github.com/wafarifki/Peleriso-LandingPage.git,"Bekerja bisa darimana saja, termasuk dirumah. Di website ini, anda dapat dengan mudah mencari pekerjaan terkhusus buat freelance. Design By Steven Johannes",,2
+0,https://github.com/thebakerdev/forti.git,A minimalist One-Page template built with TailwindCSS. The template is best suited for freelancers or small agencies to showcase their work and services.,,2
+0,https://github.com/eBangali/elegant.git,"Elegant is a digital assets eCommerce Website that sell creative assets for Freelancers, Agencies, Graphic Designers, Illustrators, Photo Editor, Web Designer.",,2
+0,https://github.com/amalskr/Temper.git,"The Temper concept is a job search tool for freelancers. Using this sample app, freelancers can view and filters jobs to their likings. The design relies heavily on card based components that represent the specific job and its (upcoming) shifts, client / job rating, number of applications and open positions.","android,mvvm-architecture,material-components,rxandroid,glideimageloader",2
+0,https://github.com/PROLOSI/PROLOSI-ICO.git,"A decentralized automated execution system that trades across the crypto-token exchanges for freelance worker and business, shielding users from counterparty risk and reducing the cost of trading. By pooling the liquidity of cryptocurrencies, we are building the financial system of the freelance web pages.",,2
+0,https://github.com/Ojsholly/traceworker.git,"A freelancing platform (Web and Mobile Api Endpoints) where users can hire workers for specific tasks and pay them after completion of the task. Also, there is availability for workers to receive training students. Built with laravel 8",,2
+0,https://github.com/codeslingers/codeslingers.github.io.git,"Google AdSense, Google Search Console, Facebook Pages, Facebook Campaigns, Arduino IoT & API, sistemas e consultoria IBM Cognos SDK BI BUS, PHP & BootStrap quick sites, Digital (SEO, Inbond Marketing, API, APP, Squad Team folder: Freelance Hording)",,2
+0,https://github.com/Matteo181202/EcommerceSite.git,"{""Progetto in sviluppo. Il progetto consiste in un area amministrative di un E-commerce incentrato sull'arredamento. Il progetto non è ideato a scopo ludico ma è stata richiesto come prova d'ordine da un team di freelancer.""}","javascript,python,python3,django,django-rest-framework,scss,css,sass,sqllite",2
+0,https://github.com/xsetra/servis-takip-v2.git,"Freelance çalışma. Sisteme, bir operatör tarafından servis çağrısı eklenir. Servis çağrısının randevu tarihi vardır. Tamamlayan teknik eleman kayıt altına alınır. Bölgesel olarak tüm servis çağrıları listelenebilir. Tamamlanan, bakılan ve tekrar bakılacak servis çağrıları listelenebilir. Borçlu eklenebilir ve ödeme alınabilir.",,2
+0,https://github.com/imamuddinwp/Fiverr-Portfolio.git,"{""Hi, it's me! Imam Uddin, professional freelancer from Bangladesh. Here is the Fiverr portfolio of mine. https://www.fiverr.com/creative_imam . Thanx for coming here! Cheers! Imam Uddin""}",,2
+0,https://github.com/kanegovaert/kanegovaert.github.io.git,"A website in which you can find information about me including (My story, My links to social media including my Twitter, Github, Instagram, and my Freelancing account on Fiverr, you can also find my skills on there!)",,2
+0,https://github.com/MarvinMugendi/ChapaKaziApp.git,An app for Local use whereby users can source freelancers to do their tasks for a fee. It offers Mpesa Integration using Safaricom Daraja API and a Chat feature.,,2
+0,https://github.com/affan00733/BlockRoll-blockchain-payroll-system.git,"BlockRoll is a Blockchain-based payroll system where we have integrated Virtual Tokens called Rupee Tokens whose value is equal to rupees which can be traded between employers, freelancers, and normal users.We have integrated with Matic Testnet.",,2
+0,https://github.com/eventhoryzon/Stonekart-A-Cross-Platform-Ecommerce-Solution..git,"Stone companies and freelance stonemasons sell their products directly to the consumer that is the offline in-store method. Stonekart provides the solution for buying these exclusive products in a few clicks. The aim of this hybrid application built on Angular(frontend) is to provide a multivendor e-commerce functionality and help to offer interfaces to two kinds of users, i.e., A buyer and a stonemason/stone Seller company. The use of the ionic framework that includes Apache Cordova makes it easy to access native functionalities on each platform. See publication Demonstration #Demofest - (Research Project)","ionic3,angular4,typescript,html5,css3,rest-api,https,promises,node-js,expressjs,mongodb,mongoose,mlab,heroku,multer-storage,authy,twilio-sms-api,validation-library",2
+0,https://github.com/utsukushiihime/dreamteam.git,"Node.js, GraphQL, MySQL, Apollo, Next.js, React.js App for finding team members for a specific project. The app will allow developers, writers, designers, and other freelancers and/or professionals to join the platform, invite and accept invites to join a team and participate in different projects to earn money.","nodejs,mysql,reactjs,next,apollo-client,graphql",2
+0,https://github.com/Mrarslanusuf/Wordpress-Business-website.git,This is a professional Business website created using wordpress. This webiste is created on Localhost so you can easily download this webiste and use it in your commercial project or any freelance market. If you like my work give me star.,,2
+0,https://github.com/wish-team/wishwork-cli.git,"{""This CLI ships with the main React and Storybook configuration files you'll need to get up and running fast. There are standards for front-end development that has been initialized by Wish Work team for products which is developed by freelancers and developers.""}","react,storybook,cli",2
+0,https://github.com/AryanShrivastava/get_fit_by_mk.git,"This Project is a health and fitness app , developed on flutter platform . This app was given by startup ""Get fit by Mk"" as a project. And my own freelancing platform ""Comet tech developer"" which is directly run and managed by me completed the project with all functionality and graphics .",,2
+0,https://github.com/Niloykhans/Animation-Website.git,"This is a Creative Modern Animated One Page Template is a perfect template for freelancer,Individual, photographer,web designer/developer. Responsive based on Bootstrap. This is one page single portfolio page including all section to built a beautiful website. All files and code has been well organized and nicely commented for easy to customize.","html5,css3,jquery,bootstrap4",2
+0,https://github.com/Sweawm/Freelance-Flight-Project.git,"A open source Unity Package allowing anyone to import a robust and well developed example of an arcade flight game utilising a control scheme similar to Freelancer(2003), including quality 3D assets in addition to detailed script documentation to give newcomers a good insight into Unity development practices and how the various components of the package work together.","unity3d,unity",2
+0,https://github.com/rodyDevos/crowdservice.git,"Online job posting and freelance app 1. Search potential customers and bidders nearby from Map 2. Create a Job, Bid and award 3. Ask/Answer questions after bid job 4. Message between customer and provider 5. Escrow money to merchant account when awarding job and release money after job completed 6. Disput system 7. Facebook Login",,2
+0,https://github.com/peturingi/Calendarium.git,"{""Calendarium shows the total hours spend on events entered added to macOS's built-in Calendar app. The idea is to enable users to use the Calendar app (therefor CalDAV [RFC 4791]), a simple app which most users already know how to use, to log hours worked on different projects. An example use case is one in which a freelancer wishes to track how many hours he has spend working on projects for different clients.""}","caldav,caldav-client,worklog,timeclock,macos,mac,punchcard,punch-in,punch-out,swift,xcode,osx",2
+0,https://github.com/BlondelSeumo/Ultimate-Project-Manager.git,"Ultimate Project Manager is a multipurpose software and it is suitable for different types of organizations, freelancers and individual users. It’s fast and easy to use UI save time. Anyone can use it without any coding knowledge. You can use it to manage projects, clients, invoices, support tickets, estimates, team management and many other purposes. It includes all essential tools to manage your business and stay organized. Install it with a few clicks.",,2
+0,https://github.com/being-samrat/pending-payment.git,"Repository useful for Freelancers when his/ her client delays the payment on committed date. It takes start date and number of days remaining as the inputs and fades the website as the days moves towards expiry day. On last day, entire website will display just a white screen. Put the pending-payment.js file in your application assets folder or wherever you keep js files and then include this file in <head></head> tag of webpage as, <script src=""path to file.../pending-payment.js""></script>  Note: Inspired by not-paid.js and developed for fun",,2
+0,https://github.com/Acylone08/Alcyone.git,"I am a hard working, loyal and dedicated fellow with a passion for literature. For about 7 years, I worked as a freelancer, through platforms like Elance (later UP Work), where I wrote a variety of materials, ranging from quantum physics college papers to romantic novels. I am one of the early adopters of Bitcoin and I have followed the crypto industry for almost a decade. Recently, I have decided to get out of anonymity and I started collaborating with cryptocurrency based platforms such as Coin Info News, where I write reviews about Blockchain projects that are currently undergoing ICO. I also started my own blog, where I cover multiple topics: interviews, reviews, tutorials, trading analysis, Founder at Blockchain & Cryptocurrency Development Hub and Founder at Academia Luminis, ghost writer, Market Speculator, invested in neuralink and other technologies aiding health, qualified mechatronics engineer apprentice.",,2
+0,https://github.com/damextradingcompany/damex.git,"Damex Trading Company is a Private Equity & Joint Venture Investment finance company that focuses on investing in any lucrative business proposal brought forward by any investment partner. We are currently looking to invest in any project funding, large scale Real Estate, Business Finance, Mining, Oil and gas, Hotels.  We handle clients with a plan of reviews and risk controls. Through private equity, our company creates a cooperative investment strategy wherever our mission is single-minded. We focus on providing trade funding, a custom-made recommendation for investment finance. We focus on providing freelance analysis and investment recommendations for our shopper portfolios. Our clients rely on us to navigate the range of financial Investments they seek to meet.  Our company dedicates to providing exceptional investment management services by customizing money advice. Also disciplined management to capture opportunity while minimizing risk and personalized investment strategies. Hence we base by providing an aim with a perspective. Also personalized designing, and complicated investment finance to individual investors and families.  Name:    Robert Bukenda Tel:     (256) 706290451 Fax:     (256) 414290658 Address: Plot 26-28, Masese, Industrial Road, Jinja Uganda Email:   info@damextradingcompany.com Web:     damextradingcompany.com",,2
+0,https://github.com/jaggederest/codedoor.git,Marketplace for freelance open source programmers,,1
+0,https://github.com/ryangoh/Jobby.git,A freelance project marketplace,,1
+0,https://github.com/rclement/romain-clement.net.git,Freelance Software Engineer,"nuxtjs,vuejs,bulma,freelancer,typescript,jest,pgp",1
+0,https://github.com/Guicortiz/watzz.git,Freelance WATZZ home page,,1
+0,https://github.com/rinodung/freelancerKit.git,This is freelancer management with codeigniter 1.x Framework,,1
+0,https://github.com/blockrockettech/gigs-token.git,The Platform for Blockchain Freelancers,"blockchain,marketing",1
+0,https://github.com/vinitshahdeo/coaching-website.git,Freelance Work - Website for a CBSE Coaching named SINGH TUTORIAL,"html,css,javascript,bootstrap,website,educational-institutions",1
+0,https://github.com/tupical/jobBoard.git,Job board for freelance,,1
+0,https://github.com/TransOnlineWeb/writer-Management.git,a freelancing management system,,1
+0,https://github.com/rohitagarwal0910/LancerSquare.git,A simple freelancing platform running on Ethereum (Ropsten) blockchain,"blockchain,mern-stack,solidity",1
+0,https://github.com/SteveBarnett/Client-Questionnaire.git,Template questionnaire for freelance work,,1
+0,https://github.com/Lesterpig/invoice.git,An express invoice editor for freelancers 🤑 - Mirror repository,invoicing,1
+0,https://github.com/SmartSoft-Nic/site-freelances-v1.0.git,Repositorio Oficial de freelances-nicaragua.,,1
+0,https://github.com/biqqles/flair.git,A novel client-side hook for Freelancer,"freelancer,library",1
+0,https://github.com/pyaf/instaget.git,A freelance project based on Instagram APIs,"instagram,instagram-api,freelancer,django,javascript",1
+0,https://github.com/MistrKraus/SmartContractsTesting.git,Freelancers-like web application providing text correction and payment with Ethereum,,1
+0,https://github.com/didil/meetadev.git,Meet A Dev - Tinder for Freelance Developers/Client Matching,,1
+0,https://github.com/dblazeski96/craft-lance-web.git,Location & Service based peer-to-peer freelance platform,,1
+0,https://github.com/regalstreak/delance.git,A decentralised freelancing platform written in Vue and ethereum ,"web3,freelancing,vuejs,dapp,solidity",1
+0,https://github.com/7157/Japa.git,Freelance ,,1
+0,https://github.com/Criscobar1/001-Zamora.git,Freelance,,1
+0,https://github.com/Dennis0095/convertPDF.git,freelance,,1
+0,https://github.com/torngkab/jobscyber.git,freelance,,1
+0,https://github.com/JuTartarini/freelancer.git,Freelancer,,1
+0,https://github.com/suijk/suijk.git,freelancer,,1
+0,https://github.com/yacinepes/freelance.git,freelance ,,1
+0,https://github.com/glebpigulevsky/t-t.git,freelance,,1
+0,https://github.com/mirize/morningmagic.git,freelance,,1
+0,https://github.com/freelancescout/scout.git,freelance,,1
+0,https://github.com/prywatny/adam888.git,freelancer,,1
+0,https://github.com/VictorAbdon/D-G-Per.git,Proyecto freelance,,1
+0,https://github.com/rajeshjaiswal/Suchedesigner.git,Freelancing Website,,1
+0,https://github.com/prabhat2718/Freelancer.git,freelancer site,,1
+0,https://github.com/karthikarun172/Project_Raise_Tycoon.git,Freelance Platform,,1
+0,https://github.com/mindstuck/godlance.git,Freelance birge,,1
+0,https://github.com/Akash-Gher/PKSA.git,freelance platform,"freelance-platform,freelance-projects,freelancer",1
+0,https://github.com/jgreenwayread/freelance.git,Freelance site,,1
+0,https://github.com/harvey-young/Harveys-website.git,Freelance website,,1
+0,https://github.com/shamimfahad/laravel-freelance.git,Freelancing marketplace,"laravel,vue,mysql,bootstrap,stripe,pusher",1
+0,https://github.com/kenntrezek/freelancers.git,CTC freelancers,,1
+0,https://github.com/marongiu/html-css-bootstrap-freelancer.git,Bootstrap Freelancer,,1
+0,https://github.com/Khairulazwan/freelanceweb.git,Freelance website,,1
+0,https://github.com/rmnkarkey/Freelance-Project.git,Freelance Project,,1
+0,https://github.com/adampoh/python-tensorflow-example-freelancer-0329-2018.git,Freelancer project,,1
+0,https://github.com/Srinivasan10694/SBSS.git,My freelancing,,1
+0,https://github.com/slaveofthecode/testFreelance.git,Test freelance,,1
+0,https://github.com/EduardoDuarte/ShowCalendarGoogle.git,Scotth Freelancer,,1
+0,https://github.com/Nimgoble/ClassroomBookCheckout.git,Freelance work,,1
+0,https://github.com/bhaumik/freelancers-guide.git,Freelancers Guide,,1
+0,https://github.com/Hirandil/brocante.git,Freelance project,,1
+0,https://github.com/D-baez96/proyecto-jonny-montana-2.git,proyecto freelance,,1
+0,https://github.com/SpookyPinkyTux/lanc2-stuff.git,freelancing projects,,1
+0,https://github.com/himanshuchandra/infinityshark.git,freelance site,,1
+0,https://github.com/genlinux/Freelance.git,Freelance works,,1
+0,https://github.com/turph/cityPass.git,turphdesigns freelance,,1
+0,https://github.com/FirojUddinA/cssforms.git,freelancer project,,1
+0,https://github.com/mohammed-elkrnshawy/SVAGO.git,Freelance Project,,1
+0,https://github.com/andreacapntd/html-css-bootstrap-freelancer.git,bootstrap freelance,,1
+0,https://github.com/Vidhan/jsCarousel.git,FreeLance project,,1
+0,https://github.com/MattFish1/FreelanceProject.git,Freelance project ,,1
+0,https://github.com/NewETown/freelance.git,Freelance work,,1
+0,https://github.com/TevLar0202/G-Freelance.git,Felix Freelance,,1
+0,https://github.com/himanshuagarwal77225/BookMySkills.git,Freelancing App,,1
+0,https://github.com/mrc535s/Freelance.git,Freelance Projects,,1
+0,https://github.com/ehopperdietzel/Google-Drive-Node-App.git,Freelancer Projects,,1
+0,https://github.com/mmeidyfachreza/e-Borang.git,Freelance 1,,1
+0,https://github.com/fsc-romano/fsc-romano.github.io.git,Portfolio Freelance,,1
+0,https://github.com/Ramblurr/outskirtslab.git,freelance portfolio,,1
+0,https://github.com/RizelBobb/SodaQueriesPage.git,freelance website,,1
+0,https://github.com/surenvithanage/appointment.git,Freelancing project,,1
+0,https://github.com/kactetus/fl-work.git,freelance_agregator,,1
+0,https://github.com/willisjtc/freelanceit.git,freelance website,,1
+0,https://github.com/sarithagireesh/Freelance.git,freelancing projects,,1
+0,https://github.com/StephHiyagon/freelancer.git,Website Freelancer,,1
+0,https://github.com/yoo30/freelance.git,site freelance,,1
+0,https://github.com/UmairKhalid786/property_site.git,Freelance project ,,1
+0,https://github.com/priyaresilient/Webonise.git,Freelance project,,1
+0,https://github.com/rafayfarooq92/DB-Project.git,Freelancing Website,,1
+0,https://github.com/fadzril/freelovr.git,Freelancer List,,1
+0,https://github.com/MohammadALSalamat/Freelance-Website.git,Freelance-Website,,1
+0,https://github.com/acord-robotics/aplus.git,freelancing site,,1
+0,https://github.com/Livingstone17/decagonproject.git,Freelance website,,1
+0,https://github.com/farah-zaidi/svn-freelance.git,Freelance projects,,1
+0,https://github.com/MrChebik/BetOnline.git,Freelance project.,"java,selenium-java",1
+0,https://github.com/albertfromsd/scallops-ecommerce.git,[ Scallops ] A freelance project for an e-Commerce site; developed by Scallops,,1
+0,https://github.com/gzmask/bitcoins-to-work.git,a pure P2P post/accept system to trade bitcoins for freelancing types of work,,1
+0,https://github.com/christaclark/FreelanceATX.git,"{""Marketing website and example for Austin Coding Academy's freelance, web design course""}",,1
+0,https://github.com/SiddhanthM8055/Freelancer.git,A website to hire freelancers or earn money freelancing,,1
+0,https://github.com/vincenttran/solarconvert.git,Freelance Solar Convert Website,,1
+0,https://github.com/elhmarouan/JeFreelance.git,Freelancing JEE Application,,1
+0,https://github.com/jhrasco/TVShowList.git,Application Exam for Freelancer,,1
+0,https://github.com/churris43/personal-website-HTML.git,Freelancing website in html,,1
+0,https://github.com/extraHassan/covoiturage.git,a freelance project. ,,1
+0,https://github.com/bpw8dd/Contract-Platform.git,Freelance Developer Marketplace ,,1
+0,https://github.com/jeseias/jmcd.git,Meu site de freelancer,,1
+0,https://github.com/rlucioda/freejob.git,Register Freelancer Jobs,,1
+0,https://github.com/IainWhite/freelance-web-developer.online.git,Freelance Web Developer Online,"freelance,web-development,scrum,iain-white,white-internet,project-management",1
+0,https://github.com/utrack/FLSAM.git,Freelancer Server Account Manager,,1
+0,https://github.com/ss0802/Onus.git,Freelance Web Designers & Developers,,1
+0,https://github.com/adamstelle/OiivoyApp.git,Financial management for freelancers,,1
+0,https://github.com/r2b2/prestashop.git,prestashop freelance work,,1
+0,https://github.com/yesusvera/CODETEC.git,Projetos freelancers da CodeTec,,1
+0,https://github.com/sheikhsalman08/MoldurExpress.git,(PHP) Freelancing Project 25,,1
+0,https://github.com/AdityaVJ/freelance-developer.git,Freelance developer project,"androiddevchallenge,android,kotlin,web",1
+0,https://github.com/codeBull-camelCaseOnly/FreelancerHub.git,A Freelancing Management System. ,,1
+0,https://github.com/akashgiricse/hire-freelancer.git,Hire freelancer online,,1
+0,https://github.com/juancancela/pce.git,[FREELANCE PROJECT] - PCE services,,1
+0,https://github.com/vamsikk7/iCircle.git,Freelance News Network.,,1
+0,https://github.com/asm-products/open-database-and-api-with-freelancers.git,Find freelancers free,,1
+0,https://github.com/Kickassbadboy/Programmer-Enthusiast-.git,Creation of FreeLancing Website .,,1
+0,https://github.com/Evans05/Freelancer.git,A freelance Dashbord,,1
+0,https://github.com/morshed6000/morshed.git,I am a freelancer ,,1
+0,https://github.com/jspw/MedEasy.git,A Freelancing Project,"flutter,flutter-app,php,api,dart,notification-service",1
+0,https://github.com/aidangarza/aidangarza.git,My personal freelance website,,1
+0,https://github.com/Eliah-Lakhin/olgapo.github.io.git,"{""Freelance Photographer's Website""}",,1
+0,https://github.com/silviacec/Codevores.git,web freelancers hub,,1
+0,https://github.com/VolodymyrPerun/hitven-shop-master.git,hitven shop freelance project,,1
+0,https://github.com/tyom29/ServiceProvider.git,Freelance Task (via Upwork),,1
+0,https://github.com/simplimism/simplimism-.git,"Poetry, Freelancer, Article, Blogging ",,1
+0,https://github.com/FreelanceBoost/classement.freelanceboost.fr.git,Classement des freelances francophones,,1
+0,https://github.com/juancancela/sudamericahousetv.git,[FREELANCE PROJECT] - SudamericaHouseTV website,,1
+0,https://github.com/gdrocell/Jobsteria.git,Freelancer website clone,,1
+0,https://github.com/rrohitmaheshwari/CMPE273Lab2Freelancer.git,CMPE273 Lab2 Freelancer,,1
+0,https://github.com/gdemir/freelance-project.git,:free: freelance projeleri,,1
+0,https://github.com/asgal/freelance.git,project for freelance,,1
+0,https://github.com/gaani/gaani.git,a freelance journalis,,1
+0,https://github.com/cosmicblend/cosmicblend.git,Main freelancing website,,1
+0,https://github.com/ItsRab/Dot-Monster.git,My portfolio / freelance site,,1
+0,https://github.com/Max-Makhrov/personal-projects.git,my job as freelancer,,1
+0,https://github.com/robgmerrill/portfolio_rob.git,Freelance Web Designer Portfolio,,1
+0,https://github.com/ZainChaudhary/NustWORKS.git,"{""NUST' Freelancing Hub""}",,1
+0,https://github.com/EduApps-CDG/freelance.git,My freelancer website,,1
+0,https://github.com/freelance-dashboard/web-ui.git,Freelance dashboard Web UI,,1
+0,https://github.com/rishikesh1410/upwork.git,Freelance Project Management System,,1
+0,https://github.com/adisonespinoza/Freelancer.git,Proyecto de pagina freelancer,,1
+0,https://github.com/mmtukut/MMT.git,MMT Freelancer Test,,1
+0,https://github.com/X-Viktor/fl-study.git,Freelance platform for students.,,1
+0,https://github.com/rchayka/FreeCity.git,Off-line freelancers.,,1
+0,https://github.com/NazarK/timedesk.git,freelance time counter,,1
+0,https://github.com/JHWait/WPElectrical.git,WPElectrical Services - Freelance Jobbie,,1
+0,https://github.com/mondo989/SyncnSave.git,Freelance client project,,1
+0,https://github.com/lamhotsimamora/lamhotsimamora.github.io.git, I am @ freelance !,"github,hello-world,html5,javascript,garuda-javascript",1
+0,https://github.com/AnandBoreda/Amfyre.git,A freelance project - ,,1
+0,https://github.com/CodeWithSouma/complete-responsive-portfollio.github.io.git,Nice cv for freelancer ,,1
+0,https://github.com/ppi/freelance.git,Freelance Website Repo,,1
+0,https://github.com/mngateorg/MNG.git,MNG freelancers coin,,1
+0,https://github.com/pfwd/freelance-resources.git,A resource for freelancers,,1
+0,https://github.com/ArturVargas/Finanz.git,Asesor Financiero para freelancers,,1
+0,https://github.com/JorgeRA0175/prueba.git,Pagina Web freelance,,1
+0,https://github.com/zuwaanali/Ali.git,Freelance Digital Marketer,,1
+0,https://github.com/sihamza/Freelancini-Backend.git,Backend for Freelancing platform ,,1
+0,https://github.com/gdemir/freelance-project.git,:free: freelance projeleri,,1
+0,https://github.com/MarinaWagih/erp-system.git,freelancing erp-sytem,,1
+0,https://github.com/goappycodes/google-api.git,Google API Freelancer project,,1
+0,https://github.com/saharAP/freelancing.git,Decentralized freelancing platform,"truffle,solidity,smart-contracts,security",1
+0,https://github.com/hannochka/freelancing.git,Projects from freelance requests,,1
+0,https://github.com/NazarK/timedesk.git,freelance time counter,,1
+0,https://github.com/rchayka/FreeCity.git,Off-line freelancers.,,1
+0,https://github.com/mondo989/SyncnSave.git,Freelance client project,,1
+0,https://github.com/JHWait/WPElectrical.git,WPElectrical Services - Freelance Jobbie,,1
+0,https://github.com/lamhotsimamora/lamhotsimamora.github.io.git, I am @ freelance !,"github,hello-world,html5,javascript,garuda-javascript",1
+0,https://github.com/AnandBoreda/Amfyre.git,A freelance project - ,,1
+0,https://github.com/CodeWithSouma/complete-responsive-portfollio.github.io.git,Nice cv for freelancer ,,1
+0,https://github.com/sumovska/freelance.git,my freelance projects,,1
+0,https://github.com/boojaka/freelance.git,my freelance projects,,1
+0,https://github.com/Wyrebender/portfolio-freelancer.git,Portfolio Freelancer Bootstrap Theme,,1
+0,https://github.com/iktac/IKTAC.git,Freelance Website Designing,,1
+0,https://github.com/DiptoSarkarr/Freelancer-Website.git,Special website for freelancer.,,1
+0,https://github.com/ClarkHodges/freelance.git,Freelance work goes here. ,,1
+0,https://github.com/vincenttran/surplusenergymanager.git,Freelance Surplus Energy Website,,1
+0,https://github.com/d4m1r/qaengineer.git,Freelance QA Engineer,,1
+0,https://github.com/snsmith83/Project_A.git,Freelance website project,,1
+0,https://github.com/b0c1/freelancer4r.git,Freelancer API for ruby,,1
+0,https://github.com/mishraujjwal/freelancerNepal.git,about freelancing site,,1
+0,https://github.com/BestWebTech/creativefreelanceprofessionals.git,creative freelance professionals,,1
+0,https://github.com/tayler-ramsay/tayler.co.git,Freelance Design Developer ,,1
+0,https://github.com/EdDevs2503/portafolio.git,Portafolio personal como freelance,,1
+0,https://github.com/LukeXF/Minetract.git,Freelancing made easy.,,1
+0,https://github.com/bacourosp/neoFreelance.git,A marketplace for freelances ,,1
+0,https://github.com/neilp666/myrewardsapp.git,Rewards App for freelancers,,1
+0,https://github.com/ekkapob/hoorayjob_bak.git,Hooray job - Freelancer Community,,1
+0,https://github.com/mawriam254/suavity-store.git,freelance 8 October 2019.,,1
+0,https://github.com/mz33kobe/portfolio.git,My full freelancing Portfolio!!,,1
+0,https://github.com/Chucky22Mendoza/loginlock.git,MY FREELANCE PORTFOLIO,,1
+0,https://github.com/brucek/periodic-download.git,App for freelancer tests,,1
+0,https://github.com/departmentofmisinformation/freelance.git,freelance project tracking ,,1
+0,https://github.com/loureirorg/freelancer-4.git,Scrapper for freelancer,,1
+0,https://github.com/brandontricci/freelancer.git,freelancer theme bootstrap,,1
+0,https://github.com/mayankk4/kuliza-proximity-marketing.git,Freelance Project for Kuliza,,1
+0,https://github.com/k0sh/freelance.git,My Freelance Projects,,1
+0,https://github.com/chogyi/bosa-entrepreneur-chogyi.git,entrepreneurship as freelancer,,1
+0,https://github.com/omercnbz/Freelancer-HTML5-Template.git,Freelancer HTML5 Template,,1
+0,https://github.com/GitCodeDestroyer/flance.com.git,Flance - free freelancing website.,,1
+0,https://github.com/rebeccameunier/Becci-artsy-scribe.git,Freelance Artist and Writer,,1
+0,https://github.com/imarkwick/czzt.git,Freelancer work portfolio/website,,1
+0,https://github.com/player1s/ProjectSeraph.git,simplified freelance site checks,,1
+0,https://github.com/hrak99/Data-Science.git,Freelancing & Kaggle Competition Work,,1
+0,https://github.com/dreamteam1948/Swift-for-Beginners.git,Swift Coding Freelance,,1
+0,https://github.com/foulow/ITQJ.git,is a freelance platform,,1
+0,https://github.com/RecursiveCat/vk-freelance.git,Python Vk freelance,,1
+0,https://github.com/Elallam/Web_dev.git,web project for freelancing,,1
+0,https://github.com/chrisdra/Pagina_Freelancer.git,Creacion de pagina Freelancer,,1
+0,https://github.com/gduck/Project1.git,A freelancer website,,1
+0,https://github.com/agonzalezc42/adyweb.git,Portal de proyectos freelance,,1
+0,https://github.com/panstav/panembassy.git,My freelancing homepage,,1
+0,https://github.com/carterh062/FreelanceWork.git,Some freelance work,,1
+0,https://github.com/amiri/Lamborghini-Web.git,Tolga Onuk freelance,,1
+0,https://github.com/jrob00/we-are-contrast.git,Freelance Marketing Site,,1
+0,https://github.com/bigbeno37/bigbeno37.github.io.git,My freelancing website,,1
+0,https://github.com/FreelanceComputing/FreelanceComputing.github.io.git,Freelance Computing Support,,1
+0,https://github.com/ckonda/Pair.git,Freelance College Service Connect,,1
+0,https://github.com/reviart/koperasiX.git,My freelance project,,1
+0,https://github.com/SantoshKetaraju/DreamWalker.git,Portfolio/personal/freelancing website,,1
+0,https://github.com/stevenwanderski/accounted.git,Open source freelance accounting app,,1
+0,https://github.com/mkdizajn/testfreelancer.git,test freelancer jekyll theme generator,,1
+0,https://github.com/abelosorio/squire.git,Management system for freelance workers,,1
+0,https://github.com/reddavis/Proposal-Template.git,Template for my freelancing proposal,,1
+0,https://github.com/AmineLAHRIM/Boostifly.git,Wordpress Website for Portfolio Freelancer,,1
+0,https://github.com/214boy/Freelance.git,College Project for freelancing website,,1
+0,https://github.com/enjoy2000/translation-freelancer-board.git,Freelancer Board for Translation Jobs,,1
+0,https://github.com/cvanidev/cvanidev.github.io.git,Freelance Web Designer and Developer,,1
+0,https://github.com/danielscott/freelanceprm.git,Freelance Project and Relationship Management,,1
+0,https://github.com/nscenterid/freelancebi.git,simple site freelance banyak impian,"hacktoberfest,hacktoberfest2020,hacktoberfest-accepted",1
+0,https://github.com/CallumDev/flplusplus.git,flplusplus client plugin for Freelancer,,1
+0,https://github.com/dotdesign/FreshDesign.git,Freelance / User Interface / Web / Graphic,,1
+0,https://github.com/mikezebin/freelancer.git,freelancer for web app tutorial,,1
+0,https://github.com/Jvbelikov/china_freelance.git,freelance website for international business,,1
+0,https://github.com/dat-vikash/fuwt-archetype.git,template for freelancers java stack,,1
+0,https://github.com/motyim/f-ersystem.git,Freelance Project for ER System,,1
+0,https://github.com/techguybiswa/fge-tool.git,Freelance gig for coral blockchain,,1
+0,https://github.com/Hendi-arch/freelance-app.git,Freelance App made with flutter.,,1
+0,https://github.com/1KasteR/freelancer_user_fields.git,PHP Fusion Freelancer User Fields,,1
+0,https://github.com/EugeneFenko/drjuliaspractice.com.git,First freelance project on GitHub,,1
+0,https://github.com/Brionnaw/websites.git,My freelance web developer webpage ,,1
+0,https://github.com/vfa-taypvs/2019_DriverNote.git,Freelance Project _ Mobile Application _ DriverNote,,1
+0,https://github.com/Caculuz-cinks/Merge-me.git,A flutter Freelance Application UI,,1
+0,https://github.com/3A5/Freelancer-Project.git,Projet freelancer du PI-DEV,,1
+0,https://github.com/lcamargof/hospital-manager.git,"Hospital manager, university project (freelance)",,1
+0,https://github.com/vladm123/e-guitar.git,e-guitar | freelance progress tracker,,1
+0,https://github.com/juankql/plugin-frp.git,Plugin for freelance application control,,1
+0,https://github.com/masTechDeveloper/React-App.git,Freelancing Bootcamp | 1st React App ,,1
+0,https://github.com/TheKing-coder68/Freelancing-Portfolio-Website.git,My freelancing\xa0and portfolio website,,1
+0,https://github.com/gvn182/ciap2.git,"Ciap, freelance consulta lista médica",,1
+0,https://github.com/yannsonnboys/do4me.git,Marketplace for Data Science Freelance,,1
+0,https://github.com/lcamargof/hospital-manager.git,"Hospital manager, university project (freelance)",,1
+0,https://github.com/3A5/Freelancer-Project.git,Projet freelancer du PI-DEV,,1
+0,https://github.com/vladm123/e-guitar.git,e-guitar | freelance progress tracker,,1
+0,https://github.com/juankql/plugin-frp.git,Plugin for freelance application control,,1
+0,https://github.com/masTechDeveloper/React-App.git,Freelancing Bootcamp | 1st React App ,,1
+0,https://github.com/TheKing-coder68/Freelancing-Portfolio-Website.git,My freelancing\xa0and portfolio website,,1
+0,https://github.com/JacobCramer/debt-calculator-sample.git,Freelancing Sample - Debt Repayment Calculator,,1
+0,https://github.com/brentvatne/YouAreF.git,React Native App - Freelancing project,,1
+0,https://github.com/NirajBasnyat/Job-Portal.git,A Simple Freelance Job Site !,,1
+0,https://github.com/andrelara2002/Calculo-de-Orcamento-HTML.git,Calculo de orçamento para freelances,,1
+0,https://github.com/gvn182/ciap2.git,"Ciap, freelance consulta lista médica",,1
+0,https://github.com/yannsonnboys/do4me.git,Marketplace for Data Science Freelance,,1
+0,https://github.com/5minds/fe_fakes.git,"Freelancer Event ""Shims and Fakes""",,1
+0,https://github.com/NikolaKadiev/NeedleHR.git,Tool for searching approved freelancers ,,1
+0,https://github.com/kasantosh/freelance-dev.git,Freelancing web design and development,,1
+0,https://github.com/Abdullahkiet/Bootcamp-2020.git,Freelancing and Remote Work Bootcamp ,,1
+0,https://github.com/hachacha/hour_tracker.git,keeps track of freelancing hours,,1
+0,https://github.com/steffiau/Lancer.git,Project management app for freelancers,,1
+0,https://github.com/AKingDebased/bizingo.git,a bingo card freelance project,,1
+0,https://github.com/Zuushi/mtj-repo.git,school project for freelance platform,,1
+0,https://github.com/kboomr/sthink.git,Ruby on Rails : freelancing marketplace,,1
+0,https://github.com/rafaelseara/myFirstGitHubPage.git,first site for freelancer work,,1
+0,https://github.com/willi-spb/VInformate.git,Task manager for Freelance Designers,,1
+0,https://github.com/heckerio/referral-system.git,A freelancing project in Fiverr,,1
+0,https://github.com/csiltanen/GVDesign.git,Repo for Freelance Frontend Work,,1
+0,https://github.com/flipflopapp/FlipFlop-Website.git,Freelance portfolio at FlipFlopApp @ Naval ,,1
+0,https://github.com/mjeaton/rateCalc.git,A consultant / freelancer rate calculator,,1
+0,https://github.com/tiagoit/inovais-engenharia.git,Freelancing | Website for engineering company.,,1
+0,https://github.com/mohammed-elkrnshawy/NewShop.git,Freelance Project .... C# Window Application ,,1
+0,https://github.com/devbinesh/freelance.git,All freelance project is here,,1
+0,https://github.com/Jwdahmd89/freelancer.git,Freelancer project for Ask One,,1
+0,https://github.com/mccallbliss/freelance.git,work from different freelance developments,,1
+0,https://github.com/strivem/Free-Lance-Dev.git,Repo for my freelance developement!,,1
+0,https://github.com/michalsvec/FGDPS.git,Freelance Graphics Designer Portfolio Site,,1
+0,https://github.com/p-rusnak/goFreelance.git,Freelancing website in node.js,,1
+0,https://github.com/ahmedfaheem/Glazzy-Theme.git,Free Responsive  Design  For Freelancers,,1
+0,https://github.com/ZaynJarvis/Pshift-Wildcard.git,WildCard project - freelancing platform prototype,,1
+0,https://github.com/derzierau/freilanz.git,WIP: freilanz - CLI Freelancing Suite,,1
+0,https://github.com/bitQ2019/freelancer.git,freelance for a remote developer,,1
+0,https://github.com/sheikhhamza012/rankmi_excel_review.git,freelance gem with rails engine,,1
+0,https://github.com/DiegoJavierConchilloWagner/porLosPelos.git,Desarrollo Freelance para Andrea Sasso,,1
+0,https://github.com/louishoang/micro-jobs.git,A simple app to help small business and invidual find nearby freelancers to work on call or running errands,,1
+0,https://github.com/skillpark/skillpark-v3.git,Freelancers Websites where Jobs are Posted and are completed by freelancers users online. (like fiverr),,1
+0,https://github.com/BrazenArts/Brazen-Arts.git,Freelance Art and Computer Graphics and Photography,,1
+0,https://github.com/woakes070048/softral-system.git,Softral - A Marketplace for freelancer and employee,,1
+0,https://github.com/anandharshan/CrossOver.git,Assignment Done for Cross Over - FreeLancing,,1
+0,https://github.com/Cooya/EmailDatabase.git,Manage and check email possibilities (freelance mission),,1
+0,https://github.com/jsperezg/insitu.git,Invoicing application for freelancers and small companies,"invoicing-application,invoicing-software,opensource,web",1
+0,https://github.com/augustinmerle/timesheets.git,Timesheet app to perform Freelance way,,1
+0,https://github.com/tabita-barbosa/ferretti.git,Site freelance do fotógrafo Guilherme Ferretti.,,1
+0,https://github.com/MANIMARAN-M/rsml.git,RSML. This is my freelancing project,,1
+0,https://github.com/JakeLardinois/DoorCountyAA.git,Freelance work done for local nonprofit,,1
+0,https://github.com/NicoGill/SiteFreelance.git,Site personnel - Nicolas GILLIUM développeur freelance,,1
+0,https://github.com/orion-solutions/smfwebsite.git,Official Webpage Repository for SM Freelancing,,1
+0,https://github.com/hkedia321/cooltech.git,A freelance website for cool tech,,1
+0,https://github.com/vaibhavnayel/Data-Mining-Project.git,Mining contact data from freelance artist websites,,1
+0,https://github.com/jbogoeski/laravel-marketplace.git,Basic online freelance marketplace laravel 7,,1
+0,https://github.com/JaxonNarramore/avpro.git,Freelance website built for AV Pros.,react,1
+0,https://github.com/mstdv/freelanceoffice.git,Sistema para una oficina virtual de freelance,,1
+0,https://github.com/zakallen/oppidan.git,Freelance site developed for Oppidan Spirits,,1
+0,https://github.com/JakeLardinois/DoorCountyAA.git,Freelance work done for local nonprofit,,1
+0,https://github.com/NicoGill/SiteFreelance.git,Site personnel - Nicolas GILLIUM développeur freelance,,1
+0,https://github.com/hkedia321/cooltech.git,A freelance website for cool tech,,1
+0,https://github.com/orion-solutions/smfwebsite.git,Official Webpage Repository for SM Freelancing,,1
+0,https://github.com/vaibhavnayel/Data-Mining-Project.git,Mining contact data from freelance artist websites,,1
+0,https://github.com/jbogoeski/laravel-marketplace.git,Basic online freelance marketplace laravel 7,,1
+0,https://github.com/JaxonNarramore/avpro.git,Freelance website built for AV Pros.,react,1
+0,https://github.com/brkrishna/freelance.git,Utilties developed as part of freelancing initiaties,,1
+0,https://github.com/kenhowardpdx/simplicatedweb.git,Freelance Web Designer Website using Jekyll,,1
+0,https://github.com/Esssport/solarNRJ.git,Freelance job for SolarNRJ. Created from scratch.,,1
+0,https://github.com/LimaJonas/Template-React.git,Template para Freelancer básico usando React,,1
+0,https://github.com/Asiberus/Freelance-Template.git,Bunch of templates usefull for every freelancer,,1
+0,https://github.com/neilp666/Rewards-App.git,Rewards App for freelancers - Beta version ,,1
+0,https://github.com/didorothy/Consulting.git,Tool to manage freelance consulting info.,,1
+0,https://github.com/usefulsomebody/DevSearch.git,A freelance Service platform for Web Developers,,1
+0,https://github.com/zibbizor/DSIcon.git,A .3db icon generator for Freelancer,,1
+0,https://github.com/ugsgwy163/awesome-freelancer-china.git,All love freelancer job in China.,,1
+0,https://github.com/Symonss/writers.git,this is a site for freelancing,,1
+0,https://github.com/endo1phin/notes.git,Freelance learning https://zqiu.gitbook.io/notes/,,1
+0,https://github.com/pioto/freelancer.git,Freelancer billing system (INFSCI 2710 Project),,1
+0,https://github.com/kamamikaza/MLVMobile.git,My Freelance Mobile MLM on Mobile,,1
+0,https://github.com/AnuragAgrawal11/freelancingWork.git,work done during freelancing (2009-2014),,1
+0,https://github.com/Ianssmith/kicode.git,Website for freelance web/mobile development,,1
+0,https://github.com/asm-products/invoicerio-web.git,Simple invoicing for freelancers and small businesses.,,1
+0,https://github.com/Danni1/Translation-Services.git,"Freelancer, translations from Bulgarian into English",,1
+0,https://github.com/pjay79/mywebsite.git,Freelance Frontend Developer Portfolio site: Praveen Jayarajan,"html,css,javascript",1
+0,https://github.com/KanchanaThiliniAbeyrathna/Blockchain-Frontend.git,Front-end part of distributed freelancing system,,1
+0,https://github.com/prasannadeshappriya/HairB2B.git,A platform for freelancers and job owners.,,1
+0,https://github.com/RDPerera/EXL-Exchange.git,Freelancing Platform To Sri Lankan University Undergraduates.,,1
+0,https://github.com/Abidjaweed/PIAIC-BootCamp2020.git,Freelancing and Remote Work Bootcamp by PIAIC,,1
+0,https://github.com/MahmoudHeshamMohamed97/I-Move.git,Freelancing Project still working on it.,,1
+0,https://github.com/rithienatan/freelas-and-others-stuffs.git, Target repository for freelance jobs and stuff.,"freelance-jobs,startup,udemy,codenation-aceleradev,html",1
+0,https://github.com/biqqles/aurora.git,"A dark, minimalistic, modular theme for Freelancer",freelancer,1
+0,https://github.com/Rechnungspilot/rechnungspilot.git,"ERP für Freelancer, Gründer und Kleinunternehmer","invoicing,crm,erp",1
+0,https://github.com/Danni1/Translation-Services.git,"Freelancer, translations from Bulgarian into English",,1
+0,https://github.com/asm-products/invoicerio-web.git,Simple invoicing for freelancers and small businesses.,,1
+0,https://github.com/pjay79/mywebsite.git,Freelance Frontend Developer Portfolio site: Praveen Jayarajan,"html,css,javascript",1
+0,https://github.com/KanchanaThiliniAbeyrathna/Blockchain-Frontend.git,Front-end part of distributed freelancing system,,1
+0,https://github.com/prasannadeshappriya/HairB2B.git,A platform for freelancers and job owners.,,1
+0,https://github.com/RDPerera/EXL-Exchange.git,Freelancing Platform To Sri Lankan University Undergraduates.,,1
+0,https://github.com/Abidjaweed/PIAIC-BootCamp2020.git,Freelancing and Remote Work Bootcamp by PIAIC,,1
+0,https://github.com/piro0919/kk-web.git,"{""Freelance front-end programmer piro's website.""}",,1
+0,https://github.com/philipheines-centaur/odesk-freelancer.git,Method to manage/communicate with freelancers.,,1
+0,https://github.com/marielakas/Freelanca.git,A WPF application for managing freelancer projects.,,1
+0,https://github.com/haroldport/freelancers.git,Tesis de Gestión de Portfolio para Freelancers,,1
+0,https://github.com/pablojimeno/funnelhq.git,Open Source Rails app for freelancers,,1
+0,https://github.com/RyanHecht/FreelanceSignShop.git,Sign Shop for Freelance project with ArcaniaPVP,,1
+0,https://github.com/samcorin/heytask.git,Discover freelance talent for your everyday needs.,,1
+0,https://github.com/popcorn-nantes/freeleads.git,Get freelance work leads from Twitter,,1
+0,https://github.com/1-sw/InstaParser.git,This is one of my freelance pojects,,1
+0,https://github.com/dliu12/christopherE_portfolio.git,Freelance Project - Portfolio for Christopher E.,,1
+0,https://github.com/JaxonNarramore/A-Z-Landscaping.git,Freelance website built for A-Z Landscaping.,react,1
+0,https://github.com/shved90/Freelance.git,Freelance stuff for PPH and the like,,1
+0,https://github.com/codyscapes/fit-to-print.git,Sample website built for freelance client,,1
+0,https://github.com/bdjett/logical-pixels.git,Website for freelance design and development,,1
+0,https://github.com/Esssport/megavo.git,freelance job for Megavo Workforce company.,,1
+0,https://github.com/adrianomr/adriano-rodrigues-wp-theme.git,Wordpress theme based in bootstrap Freelancer,,1
+0,https://github.com/ivqonsanada/phive.git,A kind of freelancing website for College.,,1
+0,https://github.com/shadowRR/organize-me.git,A weekly kanban board organizer for freelancers. ,,1
+0,https://github.com/marciliorsilva/workfast.git,Projeto acadêmico voltado para trabalhos freelance.,,1
+0,https://github.com/biqqles/aurora.git,"A dark, minimalistic, modular theme for Freelancer",freelancer,1
+0,https://github.com/Rechnungspilot/rechnungspilot.git,"ERP für Freelancer, Gründer und Kleinunternehmer","invoicing,crm,erp",1
+0,https://github.com/rowanv/chi_collector.git,A python aggregator for freelance data jobs. ,,1
+0,https://github.com/colepeters/hyperwebs.git,A website for my freelance design practice,"internet,website,hyperlinks",1
+0,https://github.com/waasnipun/worky.git,Freelancing App build using flutter and nodejs,,1
+0,https://github.com/Phomint/Autonomous-WebService.git,Project to freelancer using Django Rest Framework,"django,django-rest,web-service,python,fatec-ourinhos",1
+0,https://github.com/JS-goose/long-state-breaks.git,Freelance project for a card breaking company,,1
+0,https://github.com/kalbhor/Bulletin.git,CRUD backend for a freelance app,backend,1
+0,https://github.com/Varulv1997/ignited.git,"Ignited, Inc. Freelancing job portal static page.",,1
+0,https://github.com/julioarandadev/ecommerce-security.git,e-commerce freelance security mysql proyect ,,1
+0,https://github.com/julian4u0/jscol_proyecto.git,Proyecto de pagina freelance con node/mongo,,1
+0,https://github.com/pelujr100/PeluJr.git,A freelance writer and crypto aficionado,,1
+0,https://github.com/CaioSilveiraTelles/E-commerce-Brownie.git,Trabalho Freelance para uma loja local ,,1
+0,https://github.com/mukul0930/Mukul-sharma.git,I am digital marketing expert (Freelancer),,1
+0,https://github.com/stefanspinu/temegratis.git,An marketplace/freelance website for students,,1
+0,https://github.com/nunosans/nuno-coelho-santos-avilability-calendar.git,Source code for my freelance availability calendar,,1
+0,https://github.com/arstropica/freelance.git,Freelance Responsive Child Theme for ArsTropica,,1
+0,https://github.com/parkerhart/fromer.git,"Backbone JS, Rails App -- Freelancer CRM ",,1
+0,https://github.com/pyraman/Freelances.git,This repo is used for freelance only,,1
+0,https://github.com/danilat/gbills.git,A simple billing system for freelancers,,1
+0,https://github.com/VictorAlagwu/JobSite.git,A Simple Job Site like freelancer,,1
+0,https://github.com/Asebodi/kognitif.id.git,Repo untuk bisnis freelance web development Kognitif,,1
+0,https://github.com/marmarquez/trabajo_python-pic.git,Código gui - pyhton para trabajo freelance,,1
+0,https://github.com/aaronnech/freelancelegal.git,Legal docs for freelance webdev stuff,,1
+0,https://github.com/utrack/FLAccountDB.git,Player account database implementation for Freelancer,,1
+0,https://github.com/ratul-devR/Freeelance-Portfolio-Project.git,This is a Freelance web design project.,,1
+0,https://github.com/lbburnsy/remoteRecruit.git,A freelance job market full stack application.,,1
+0,https://github.com/cnexus/ScaleReader.git,Freelance software developed for Reaction Retail LLC.,,1
+0,https://github.com/nicodee/freelanceafrica.git,Online platform for freelancers from Africa,,1
+0,https://github.com/elixirprogrammer/lancer.git,Freelancer Clone With Elixir and Phoenix Framework,"elixir,elixir-lang,elixir-phoenix,elixir-programming-language,phoenix-framework",1
+0,https://github.com/JS-goose/Cody-Adams-Site.git,A freelance project for a local charity,,1
+0,https://github.com/paulleadbeater1987/paulleadbeater.com.git,"Minimalist personal portfolio website, advertising freelance work.",,1
+0,https://github.com/SnehilSinha/Easylance-Final.git,DBMS project based on freelancer hiring system,,1
+0,https://github.com/IainWhite/WhiteInternet.git,White Internet - Freelance Web Developer Iain White,"web,development",1
+0,https://github.com/sawepeter/Kazi.git,freelancing project on finding recruitment jobs,,1
+0,https://github.com/Vrindagupta6828/Freelancer-contents.git,The 111 contents present in freelancing are:,,1
+0,https://github.com/evanrolfe/portfolio_site.git,Static site for my freelance portfolio,,1
+0,https://github.com/troygnichols/zark-billing.git,Simple invoicing for my freelance projects,,1
+0,https://github.com/ShepardZhao/TgLnk.git,This is a freelancer IOS work,,1
+0,https://github.com/hadnazzar/BootstrapFreelancer_ReactComponent.git,Bootstrap Freelancer theme build on React Component ,,1
+0,https://github.com/developer-ocansey/ise.git,a freelance project for nigeria artisans,,1
+0,https://github.com/ajvidal91/carmellas-market.git,"{""Freelance project I'm working on""}",,1
+0,https://github.com/Yiannistaos/yiannistaos.com.git,Yiannis Christodoulou | Freelance Full-stack Web Developer,,1
+0,https://github.com/taijased/service-medical.git,Freelance service project for medical professionals,"vue,vuex,api,api-client",1
+0,https://github.com/simkeyur/HomePage.git,"{""Keyur's new homepage using freelancer theme""}",,1
+0,https://github.com/nicalygray/oldgoatphotography.git,freelance website project for seattle based photographer,,1
+0,https://github.com/scarpakz/isds.git,Freelance Portfolio Site - Information System Developers,,1
+0,https://github.com/chakroun-med/MOHAMED-CHAKROUN.git,"A Full StackDeveloper, Indie Maker, and Freelancer.",,1
+0,https://github.com/SofiaNAQ/calculadora-freelancer.git,Calculadora freelancer usando JS e HTML.,,1
+0,https://github.com/bootstrapthemesco/freelancer-guide-portfolio-simple-one-page-bootstrap-template.git,"Freelancer is a creative and modern Web Template suitable for photographers, freelancers and creative agencies and Studios",,1
+0,https://github.com/webitproff/Freelance-base-build-free.git,Сборка фриланс биржи на Cotonti (БАЗОВАЯ). сайт по сборке http://freelance-script.abuyfile.com/free-scrip-freelance-site/,,1
+0,https://github.com/aflashyrhetoric/aflashyrhetoric-site.git,(Oudated) freelancing website & personal portfolio. Built with Jekyll & Github Pages.,,1
+0,https://github.com/medicor/medicor.github.io.git,"Jekyll/Freelancer playground, to be pushed to by StackEdit",,1
+0,https://github.com/marnen/duckbill.git,Open-source invoicing and time tracking for freelancers,,1
+0,https://github.com/kakarukeys/PyLancer.git,A freelancer job board for sg python community,,1
+0,https://github.com/hannesbe/freelance-cockpit-3-language.git,Much improved  (Dutch) language files for Freelance Cockpit 3,,1
+0,https://github.com/lenilsonjr/OpportunityBoard.git,🖥 Match freelancers and companies with people seeking their services,,1
+0,https://github.com/simajune/simajune.github.io.git,Jekyll theme based on Freelancer Start Bootstrap theme,,1
+0,https://github.com/hafiz6512/payninja.git,freelance developer + remote team management payment automation - PayNinja,,1
+0,https://github.com/key-stroke/Coder.git,Social Media / Freelance Hiring network for coders made in Laravel,,1
+0,https://github.com/key-stroke/Coder.git,Social Media / Freelance Hiring network for coders made in Laravel,,1
+0,https://github.com/tonylomax/PayMe.git,Personal project repo for a freelancer payment web app,,1
+0,https://github.com/henzelius/Henzelius-Designditing.git,"{""Hello! I'm an Graphic Designer & Photo Editor Freelancer :)""}",,1
+0,https://github.com/David-gbenga/A-Self-Created-Home-Page.git,A freelance homepage created in less than an hour. ,,1
+0,https://github.com/tedclass/FreeLancers4-FYP-Filled.git,Final Version of my fyp freelancer web app,,1
+0,https://github.com/rashidmanhas/COJ.git,Hire a freelancer on carryonjob.com with less taxes now.,,1
+0,https://github.com/stevoboi/Omniscient-Media.git,Browser based game development and freelance web design,,1
+0,https://github.com/issamYahiaoui/Amartil.git,A Freelance Project  ( Commercial Ads Listing directory ) app,,1
+0,https://github.com/franky47/freelancer.git,Freelance calculator progressive web app made with React,"freelance,calculator,progressive-web-app,react",1
+0,https://github.com/heyitsvajid/Crowdsourcing_Marketplace_SpringBoot.git,CMPE273 Lab3 : Freelancer using Spring Boot and React JS,,1
+0,https://github.com/joshpitzalis/clienttree.git,Helps freelancers find clients by word of mouth,,1
+0,https://github.com/JokotolaIfe/jayrick.git,"A freelance website designed using html, css and JS",,1
+0,https://github.com/saqib22/Peer-to-Peer_ChatApp.git,My freelance project implementing a decentralized Chat application in python.,,1
+0,https://github.com/cremirdevio/cremir.git,🏭 My personal freelancing portfolio website project. Build with Laravel & Livewie.,,1
+0,https://github.com/tvanesse/insane.git,A light accounting software for freelancers and dummies,,1
+0,https://github.com/imryan/sheetz.git,An app to rent out college dorm rooms. Freelance project.,,1
+0,https://github.com/joshboyan/designcoin.git,Blockchain Dapp built on Ethereum for freelance creative work.,,1
+0,https://github.com/VirtuAllTech/VirtuAllTech.com-Freelancer.git,Repository for Freelancer theme version of the site,,1
+0,https://github.com/Temybroder/Workstack.git,Another Freelance App with referral system and Paystack Payment integration,,1
+0,https://github.com/naqviO7/Freelancing-Tasks.git,You can find my freelancing tasks in this repo,,1
+0,https://github.com/anishgkanchan/WordSmith.git,A web app to connect consumers and freelance content creators,,1
+0,https://github.com/anand1692/Benjamins.git,Android app to connect students and freelancers to event organizers,,1
+0,https://github.com/mrwweb/wp-freelancer.git,WordPress plugin for freelancers who manage client sites,,1
+0,https://github.com/99Desk/Find-Top-Programmers-with-99Desk.com.git,"OutSource your project to Freelancers, IT companies and Programmers",,1
+0,https://github.com/iashraf/SimpleAccounts.git,Simple accounting app for freelancers. Save your invoices and expenses.,,1
+0,https://github.com/zalecodez/TimberPanelSite.git,"Freelance Project. Website for Timber Company. HTML, Javascript, Bootstrap. ",,1
+0,https://github.com/iamryanmoreno/Scripts.git,These are built in scripts for my freelance work,,1
+0,https://github.com/george-theocharis/workit.git,A Customer Management App for the low-mid freelancers.,,1
+0,https://github.com/F0rty-Tw0/DaneWhisper.git,a Freelance Static Site made with HTML/CSS and JavaScript,,1
+0,https://github.com/caiocichetti/tcc-findjobs-web.git,Projeto TCC - FindJobs Uma plataforma para freelancer encontrarem projetos - 2BTI,"php7,html5,css3,bootstrap4",1
+0,https://github.com/caiocichetti/tcc-findjobs-web.git,Projeto TCC - FindJobs Uma plataforma para freelancer encontrarem projetos - 2BTI,"php7,html5,css3,bootstrap4",1
+0,https://github.com/SimranAnand1/AdhunikDesigners.git,This is a freelancer full stack project developed by GudiVaraprasad,,1
+0,https://github.com/evilnick/py-freeagentcentral.git,API for the www.freeagentcentral.com freelancers website,,1
+0,https://github.com/chriscomeau/Portfolio.git,Chris Comeau - Portfolio - iOS/macOS Freelance Developer (Swift/Objective-C),"objective-c,portfolio,skyriser-media,swift,personal-portfolio",1
+0,https://github.com/ateebahmed/rental-car-android.git,A freelance project for Rental Car Tracking Application on Android,,1
+0,https://github.com/s-duffey/portfolio_website.git,"{""Portfolio website for Sierra Duffey's photography and freelancing services. ""}",,1
+0,https://github.com/freddycheungh/Nonagon.git,"During my spare time, if I am not freelancing.",,1
+0,https://github.com/cc15000/asset_archive.git,This is a prototype for a recent freelance project,,1
+0,https://github.com/danteata/freelancer-rails.git,Ruby on Rails support for the Freelancer Ruby gem,,1
+0,https://github.com/tufail/Freelance-web-services.git,design dream offers freelance web design services in india,,1
+0,https://github.com/mikeymaio/me-lance.git,"An app for freelancers to manage clients, projects, and invoicing",,1
+0,https://github.com/ScorpionResponse/freelancefinder.git,A Django site to aggregate and evaluate freelance job postings,,1
+0,https://github.com/tommyblue/rubyfatt2.git,RubyFatt manages customers and invoices for freelance developers,,1
+0,https://github.com/jonaskuske/helmerskuske.team.git,🤝🏻 Landing page for Helmers & Kuske freelance web design,,1
+0,https://github.com/EvgeniyaKomaltilova/romashka-rat.git,Freelance project: web-site for pet rat nursery.,,1
+0,https://github.com/Apoc70/MCT-Kalkulationsvorlage.git,Kalulationsvorlage für Freelance-Trainer zur Kostenplanung von Schulungen.,"mct,kalkulation,freelancer",1
+0,https://github.com/NiuanLucas/Sistema_Web_LAP_Museu_UFRJ.git,Projeto Freelancer para o Laboratório de Arqueobotânica UFRJ,,1
+0,https://github.com/freelancing-solutions/freelancing-solutions.git,Freelancing Solutions is a github repository owned by Justice Ndou.,,1
+0,https://github.com/drwrchrds/Dunzo.git,Personal rails project - tool for tracking / invoicing freelance projects,,1
+0,https://github.com/ajay-001/AkankshaTemplate.git,A template for a website I created as a freelancer,,1
+0,https://github.com/jstoone/freelance-bill.git,A little service for billing freelance projects through Stripe.,,1
+0,https://github.com/egogarcia/egogarcia.github.io.git,Eric Garcia Ordoñez - Senior Software Developer - Lead Programmer -Freelance Developer,,1
+0,https://github.com/MrPowers/rails-startbootstrap-freelancer.git,Rails implementation of the Start Bootstrap Freelancer theme,,1
+0,https://github.com/PeterIttner/TimeRecording.git,Time/Work-Tracking for freelancers or single individuals,,1
+0,https://github.com/SB98/Freelancing.git,Web Application for freelancing created using C# in .net framework.,,1
+0,https://github.com/Shukret/Freelance.git,It is a repository with my freelance`s works,,1
+0,https://github.com/ThiagoFragata/JobsCalc.git, Aplicação de estimativa de cálculo para projetos freelancer.,,1
+0,https://github.com/hquadrat/H2TaskTracker.git,Simple web-based task tracking tool for freelancers,,1
+0,https://github.com/networkerror/freelancer_beautifier.git,Resources to make the Freelancer game more beautiful,,1
+0,https://github.com/KelvinNjihia/kelvinnjihia.github.io.git,A Freelancer personal page template. Get it now ;),,1

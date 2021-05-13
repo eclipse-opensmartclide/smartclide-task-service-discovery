@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/cooplab/popgen-notes.git,Population genetics notes,,452
+0,https://github.com/popgenmethods/lecture_notes.git,Lecture Notes on Computational and Mathematical Population Genetics,,148
+0,https://github.com/mfumagalli/ngsTools.git,Programs to analyse NGS data for population genetics purposes,,119
+0,https://github.com/broadinstitute/ABC-Enhancer-Gene-Prediction.git,"Cell type specific enhancer-gene predictions using ABC model (Fulco, Nasser et al, Nature Genetics 2019)",,81
+0,https://github.com/MesserLab/SLiM.git,"SLiM is a genetically explicit forward simulation software package for population genetics and evolutionary biology.  It is highly flexible, with a built-in scripting language, and has a cross-platform graphical modeling environment called SLiMgui.",slim,79
+0,https://github.com/ForestryMC/Binnie.git,"Minecraft addons for the Forestry mod. Extra Bees, Extra Trees, Genetics, and more.","minecraft,minecraft-mod,forestry,minecraft-forge-mod",65
+0,https://github.com/grunwaldlab/Population_Genetics_in_R.git,A primer for computational tools to analyze genetics of populations in R,,59
+0,https://github.com/labsquare/cutevariant.git,A standalone and free application to explore genetics variations from VCF file,"genetics,variant-call-format,vcf,gui,pyside2,python3",55
+0,https://github.com/rivas-lab/covid19.git,"As a part of COVID-19 Host Genetics Initiative, we perform the following set of analyses to better understand the genetic basis of COVID-19 susceptibility and severity.","coronavirus,covid-19,genetics,abo-blood,uk-biobank,hla,polygenic-risk-scores,blood-group,sars-cov-2",41
+0,https://github.com/tatumdmortimer/popgen-stats.git,Scripts to calculate population genetics statistics,,38
+0,https://github.com/andrewkern/popGenMachineLearningExamples.git,simple examples of using supervised machine learning for population genetics inference,,35
+0,https://github.com/imgag/megSAP.git,a Medical Genetics Sequence Analysis Pipeline,,34
+0,https://github.com/cran/WGCNA.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  WGCNA\xa0—\xa0Weighted\xa0Correlation\xa0Network\xa0Analysis.\xa0Homepage:\xa0http://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/  ,,34
+0,https://github.com/NachoSoto/swift-genetics.git,First attempt at Genetics Programming (in Swift),,34
+0,https://github.com/silastittes/shiny_popgen.git,Shiny apps for teaching Population Genetics,,33
+0,https://github.com/pystatgen/sgkit.git,Statistical genetics toolkit,"genetics,statistical-genetics,gwas,pydata,statgen,popgen",29
+0,https://github.com/ekfchan/evachan.org-Rscripts.git,Handy genetics-related R scripts,,26
+0,https://github.com/tomclegg/get-evidence.git,"Genotype + Environment = Trait Evidence (GET-E) Database: help the Personal Genome Project, the clinical genetics community, and, the general public interpret individual genomes.",,26
+0,https://github.com/vinuesa/get_phylomarkers.git,"A pipeline to select optimal markers for microbial phylogenomics, population genetics and genomic taxonomy","phylogenomics,population-genetics,phylogenomics-pipeline,species-trees,markers,genomics,pipeline,phylogenetics,phylogenetic-trees,codon-alignment,maximum-likelihood,orthologues,species-delimitation,microbiology,core-genome,perl,r,bash,clock-hypothesis,recombination",25
+0,https://github.com/TheUnderTaker11/GeneticsReborn.git,A remake of the loved Advanced Genetics mod from 1.7.10,,23
+0,https://github.com/BoPeng/simuPOP.git,A general-purpose forward-time population genetics simulation environment.,,21
+0,https://github.com/biom262/cmm262-2020.git,Quantitative Methods in Genetics and Genomics Course 2020,,20
+0,https://github.com/arvkevi/ezancestry.git,Visualize your personal genetics data,"genomics,genomics-visualization,personal-genomics,streamlit,data-visualization,dimensionality-reduction,ancestry,genotypes",19
+0,https://github.com/eriqande/sisg_mcmc_course.git,Lecture notes for Eric Anderson and Matthew Stephens SISG course on MCMC for Statistical Genetics,,19
+0,https://github.com/tiagoantao/genomics-notebooks.git,IPython notebooks to teach Genomics and Population Genetics,,19
+0,https://github.com/kundajelab/training_camp.git,Genetics training camp,,18
+0,https://github.com/emmanuelparadis/pegas.git,Population and Evolutionary Genetics Analysis System,,18
+0,https://github.com/NESCent/r-popgen-hackathon.git,"Population Genetics Hackathon, to be held at NESCent on March 16-20, 2015",,18
+0,https://github.com/vector-engineering/covidcg.git,A COVID-19 CoV Genetics (CG) browser to inform therapeutics development,covid-19,17
+0,https://github.com/paubellot/DL-Biobank.git,"Can deep learning improve genomic prediction of complex human traits? by Pau Bellot, Gustavo de los Campos, Miguel Pérez-Enciso, Genetics","deep-learning,genomic-prediction",17
+0,https://github.com/kkeenan02/diveRsity.git,"diveRsity: A comprehensive, general purpose population genetics analysis package.",,17
+0,https://github.com/Computational-Intelligence-Fall18/Genetics.git,"Genetics (Initialization, Selection, Crossover, Mutation)","computational-intelligence,python,genetics,mutation,crossover,selection,heuristics,mutations,pseudo-random,population,chromosome",16
+0,https://github.com/mfumagalli/ngsPopGen.git,Population genetics analyses from NGS data,,16
+0,https://github.com/joonanlab/BSMS205_2020Spring.git,BSMS205 Genetics,,15
+0,https://github.com/harrisonlab/popgen.git,Population genetics analyses,,15
+0,https://github.com/tobyjohnson/gtx.git,Genetics ToolboX R package,,14
+0,https://github.com/opentargets/genetics-finemapping.git,Fine-mapping pipeline for Open Targets Genetics,,14
+0,https://github.com/kelleyharris/Inferring-demography-from-IBS.git,A python framework for inferring demography from tracts of identity by state as reported in PLoS Genetics by Harris and Nielsen (2013),,14
+0,https://github.com/NESCent/popgenInfo.git,Vignettes for Population Genetics in R,,13
+0,https://github.com/argriffing/eigensoft.git,principal components population genetics analysis on linux,,13
+0,https://github.com/UMCUGenetics/NextflowModules.git,UMCU Genetics Nextflow modules,,13
+0,https://github.com/opentargets/genetics-app.git,Open Targets Genetics UI,"react,front-end",13
+0,https://github.com/heykeetae/AwesomeImagingGenetics.git,A comprehensive repository for datasets and papers in Imaging Genetics.,,13
+0,https://github.com/bcm-uga/TESS3_encho_sen.git,TESS3 is a fast and efficient program for estimating spatial population structure based on geographically constrained non-negative matrix factorization and population genetics.,,13
+0,https://github.com/felipealbrecht/Genoogle.git,"Genoogle is a software for fast similar DNA sequence searching. It is a full functional similar genetics searching tool, having a text mode interface with simple scripting language, web interface, and web service interface. Genoogle is fast, easy and completely free. More info at https://www.evernote.com/pub/felipealbrecht/genoogle and http://arxiv.org/abs/1507.02987",,13
+0,https://github.com/Flavia95/VGpop.git,Population genetics analysis on VG,"odgi,graphs,gfa",12
+0,https://github.com/mfumagalli/Copenhagen.git,Analysis of genotyping and next-generation sequencing data in medical and population genetics,,12
+0,https://github.com/sinarueeger/statistical-genetics-resources.git,"Resources (software, data, research article) in the field of statistical genetics","resources,statistical-genetics,guides",12
+0,https://github.com/dyerlab/applied_population_genetics.git,A textbook on population genetics,,11
+0,https://github.com/Tom-Jenkins/utility_scripts.git,Scripts for population genetics analysis,,11
+0,https://github.com/dnhkng/Polymerase-Chain-Reactor.git,Open Source PCR machine for DIY Recombinant Genetics,,11
+0,https://github.com/rubenjgarcia/genetical.git,An implementation of Genetics Algorithms for Node JS,,11
+0,https://github.com/opendnd/genetica.git,This is a tool for using a simplified genetics system to generate inheritable traits for DnD characters.,"dnd,dnd5e,dnd-tools,dnd-characters,chromosome,dna,inheritable-traits,simplified-genetics,trait,roll,dnd-npc-generator,dungeons-and-dragons,dungeon-master,dm-tools",11
+0,https://github.com/BioJulia/PopGen.jl.git,Population Genetics in Julia,"genetics,genomics,snps,microsatellites,fst,structure,popgen",10
+0,https://github.com/GRONINGEN-MICROBIOME-CENTRE/Groningen-Microbiome.git,"Microbiome Projects from the Department of Genetics and Department of Gastroenterology and Hepatology , University Medical Centre Groningen ",,10
+0,https://github.com/robjohnnoble/demon_model.git,"A deme-based, spatially explicit model of intra-tumour population genetics",,10
+0,https://github.com/wenyun/spa.git,a tool for analysis of spatial structure in genetics data,,10
+0,https://github.com/OSGA-OPAR/quant-genetics-webinars.git,"Quantitative Genetics Tools for Mapping Trait Variation to Mechanisms, Therapeutics, and Interventions - Webinar Series",,10
+0,https://github.com/lehner-lab/DMS2structure.git,"Scripts for ""Determining protein structures using deep mutagenesis"", Schmiedel & Lehner, Nature Genetics, 2019",,10
+0,https://github.com/jeffhsu3/genda.git,genda a genetics library in pandas,,10
+0,https://github.com/rivas-lab/biomarkers.git,Genetics of blood and urine biomarkers in the UK Biobank,"alanine-aminotransferase,alt-ast,creatinine,egfr,gwas,genetics,ldl,cholesterol,triglycerides,ggt,albumin,glucose,hba1c,lpa,testosterone,shbg,igf1,bilirubin,biomarkers,polygenic-risk-scores",10
+0,https://github.com/100ideas/rainbowreader.git,"Bacteria Color Analysis app for Tech Museum ""e.Pixels"" Genetics Exhibit Prototype",,10
+0,https://github.com/devillemereuil/QGglmm.git,"Compute various quantitative genetics parameters from a Generalised Linear Mixed Model (GLMM) estimates. Especially, it yields the observed phenotypic mean, phenotypic variance and additive genetic variance.",,10
+0,https://github.com/ngcrawford/pypgen.git,A population genetics module written in Python,,9
+0,https://github.com/nodes777/flower-game-phaser3.git,"A flower genetics game with Phaser 3, React, Redux",,9
+0,https://github.com/Shicheng-Guo/AnnotationDatabase.git,"annotation database for human genetics, genomics and epigenomics",,9
+0,https://github.com/maximz/genetools.git,python genetics/genomics utilities,,9
+0,https://github.com/matthewmain/kiss_the_sky.git,"A totally unique evolution-based video game. At its heart is a programmatic replica of Mendelian genetics, and the gameplay is derived from real-time Darwinian selection. You can either compete to breed a tall flower or let ambient mode play out for hours, or days, or weeks.",,9
+0,https://github.com/opentargets/genetics.git,Issue tracker for Open Targets Genetics,tracker,8
+0,https://github.com/genepi/cloudflow.git,"Cloudflow is a MapReduce and Spark pipeline framework to simplify the pipeline creation in biomedical research, especially in the field of Genetics. ",,8
+0,https://github.com/bcm-uga/SSMPG2017.git,Repository for the Data challenge about Software and Statistical Methods for Population Genetics (SSMPG 2017),,7
+0,https://github.com/nopaixx/TensorFlow-GeneticsAlgo.git,Optimize layers weigth with Genetics Algorithms,,7
+0,https://github.com/AradAshrafi/graphsearchalgorithms_geneticalgorithm_hillclimbing.git,Implement Algorithms For Graph Search (like A*) & Local Search (like hill climbing algorithms) & Genetics,"graph-search,tree-search,algorithm,genetic-algorithm,dfs,bfs,idfs,uniform-cost-search,best-first-search,depth-limit-search,hill-climbing,simulated-annealing",7
+0,https://github.com/mkpankov/typogenetics.git,"{""Typogenetics—short for “Typographical genetics” from Douglas R. Hofstadter's “Godel, Escher, Bach: Eternal Golden Braid”""}","escher,bach,hofstadter-godel,python,typogenetics-short,typographical-genetics",7
+0,https://github.com/BioJulia/PopGen.jl_archive.git,Population Genetics functions in Julia.,,7
+0,https://github.com/OchoaLab/genio.git,Statistical GENetics Input/Output Functions,,7
+0,https://github.com/ngs-docs/2018-ggg201b.git,"Class resources for Intro to Genetics and Genomics 201b at UC Davis, 2018 version",,7
+0,https://github.com/xiey1/GWAS_project.git,Final project for Quantitative Genomics and Genetics course ,,7
+0,https://github.com/DL42/ParallelPopGen.git,This is a package of APIs for performing population genetics simulations and analyses in parallel on the GPU.,"cuda,gpu,popgen,evolution,simulation",7
+0,https://github.com/lem-usp/EvolQG.git,Tools for Evolutionary Quantitative Genetics ,,6
+0,https://github.com/cellgeni/notebooks.git,Cellular Genetics Informatics Notebooks,notebooks,6
+0,https://github.com/jesuino/genetics-algorithm-tests.git,Testing genetics algorithms in Java using Jenetics,,6
+0,https://github.com/opentargets/genetics-colocalisation.git,Colocalisation pipeline for Open Targets Genetics,,6
+0,https://github.com/opentargets/genetics-v2d-data.git,Variant to disease dataset workflows for Open Targets Genetics,,6
+0,https://github.com/fierval/BioInfo.git,Some genetics related Rosalind problems,,6
+0,https://github.com/NESCent/popgen-docker.git,Dockerfile(s) for population genetics,"r,docker,population-genetics",6
+0,https://github.com/jessicawleigh/popart.git,General purpose population genetics software,,6
+0,https://github.com/folkehelseinstituttet/mobagen.git,Documentation for MoBa Genetics data release,,6
+0,https://github.com/quantumgenetics/quantumgenetics.git,Qiskit Camp - Hackaton Europe 2019 - Quantum Genetics,,6
+0,https://github.com/aeandre/BIS15L_Project_Group11.git,Genetics and Genomics Project for Bis 15L,,6
+0,https://github.com/jfcalvo/Genetica.git,Genetica is a library to create and use Genetics Algorithms with Ruby.,,6
+0,https://github.com/atcg/clustOpt.git,Scripts for the optimization of RADseq clustering thresholds in population genetics,,6
+0,https://github.com/szymon6927/bio-gen-calc.git,"The Gene-Calc is a constantly developed tool dedicated for calculations related to biological sciences, especially focused in field of genetics.",,6
+0,https://github.com/matthewmain/EvolveJS.git,"EvolveJS is a robust genetics library modeled on Mendelian inheritance and Darwinian selection. When implemented into any self-replicating JavaScript object instance, the library can be used to produce descendant instances whose quantifiable variables are handled as heritable genes. Sequential replication iterations are then subject to the laws of Mendelian inheritance, gene mutation, and, when Darwinian environmental selection pressures are applied, in time, evolution.",,6
+0,https://github.com/BioPP/bpp-popgen.git,Bio++ Population Genetics Library,,5
+0,https://github.com/opentargets/genetics-api.git,Open Targets Genetics GraphQL API,"api,graphql,sangria,slick",5
+0,https://github.com/harmslab/notebooks-nonlinear-high-order-epistasis.git,"Jupyter notebooks for Genetics paper, ""Detecting high-order epistasis in nonlinear genotype-phenotype maps""","epistasis,high-order-epistasis,statistics,genetics,jupyter-notebooks,genotype-phenotype-maps",5
+0,https://github.com/broadinstitute/dig-diabetes-portal.git,Diabetes portal for the Medical Population Genetics department at the Broad Institute,,5
+0,https://github.com/richardanaya/gago.git,A genetics algorithm library with speciation written in Go,,5
+0,https://github.com/greenelab/model-free-data.git,Case-control genetics datasets evolved to be epistatic,"biodata-mining,simulation,epistasis,snps,genetics,dataset,moore-lab,open-data,supplement,notebook",5
+0,https://github.com/proccaserra/rose2018ng-notebook.git,a repository for notebooks associated with Rose targeted metabolite profiling analysis (nature genetics 2018),,5
+0,https://github.com/timflutre/quantgen.git,My repo for code useful in quantitative genetics and miscellaneous scripts.,"genetics,genomics",5
+0,https://github.com/Treast/genome.js.git,Genetics algorithms done right,,5
+0,https://github.com/Becheler/quetzal.git,Population genetics simulation in spatially explicit environments,"genetics,ecology-modelling,coalescence,approximate-bayesian-computation,simulation-modeling,c-plus-plus",5
+0,https://github.com/bodkan/spannr.git,Population Genetics Simulations Spanning Time *and* Space,"population-genetics,popgen,rstats,spatial-statistics,simulations",5
+0,https://github.com/opentargets/genetics-backend.git,"QC, spin VMs, load data into DBs, create LUTs and other fun backend stuff we need to do to spin https://genetics.opentargets.org",,5
+0,https://github.com/RickardSandberg/Reinius_et_al_Nature_Genetics_2016.git,Repository code used for allele-specific gene expression analyses using single-cell RNA-seq data in Reinius/Mold et al. Nature Genetics 2016,,5
+0,https://github.com/alexcritschristoph/soil_popgen.git,Reproducible scripts and notebooks for 2019 paper on population genetics in metagenomes,,5
+0,https://github.com/cgoliver/RNA-Popgen-Notebook.git,Jupyter notebook for RNA evolutionary algorithm and subsequent population genetics and BioPython tools.,"population-genetics,jupyter-notebook,biopython,rna-evolutionary-algorithm,rna",5
+0,https://github.com/akdemirlab/MutationalDistribution.git,"Set of scripts utilized in Akdemir et al., Nat Genetics Oct. 5 2020.",,5
+0,https://github.com/JoshuaRogan/genetics.git,A population genetics simulator that allows students to explore the effects and interactions of several evolutionary forces.,,5
+0,https://github.com/covid19-hg/covid19_sequencing.git,"As part of the COVID-19 Host Genetics Global initative, this repo serves to corroborate sample scripts for sequencing QC. ",,5
+0,https://github.com/tanyaphung/popgen_tools.git,This repository contains scripts that are often used in population genetics analyses (generating the site frequency spectrum or calculating genetic diversity),,5
+0,https://github.com/statgenetics/statgen-courses.git,Tutorials for statistical genetics short courses,,4
+0,https://github.com/churchill-lab/sysgen2015.git,Short Course on Systems Genetics 2015,,4
+0,https://github.com/minorninth/pedigree.git,Software to generate genetics pedigrees,,4
+0,https://github.com/chfi/purescript-genetics-browser.git,Purescript-based genome and genetics browser,,4
+0,https://github.com/lucaferretti/npstat.git,Population genetics tests and estimators for pooled NGS data,,4
+0,https://github.com/homoluden/fukami.git,Fukami Game Draft - just a draft of a game with genetics,,4
+0,https://github.com/opentargets/genetics-v2g-data.git,Workflows to generate cis-regulatory datasets used for variant-to-gene (V2G) assignment in Open Targets Genetics,,4
+0,https://github.com/nlsy-links/NlsyLinks.git,Utilities and kinship information for behavior genetics and developmental research using the National Longitudinal Survey of Youth (NLSY),"nlsy,r-package,kinship-information,behavior-genetics,national-longitudinal-survey",4
+0,https://github.com/LuisAraujo/Evolution-Image-with-Algorithm-Genetic.git,This project replicates imageswith algorithm genetics using circles,"javascript,genetic-algorithm,canvas",4
+0,https://github.com/fomightez/yeastmine.git,using YeastMine (populated by SGD and powered by InterMine) to mine yeast Saccharomyces cerevisiae genetics data,python,4
+0,https://github.com/rwtema/Zoology.git,Animal genetics and breeding,,4
+0,https://github.com/HectorPulido/Three-Genetics-Algorithm-Using-Unity.git,Those are three Genetics Algorithm using unity,"genetic-algorithm,unity,ai,csharp,gamedev",4
+0,https://github.com/covid19-hg/README.git,COVID-19 Host Genetics Initiative - analysis readme,,4
+0,https://github.com/CshlSiepelLab/super-enhancer-code.git,"Code for Nature Genetics correspondance, ""Is a super-enhancer greater than the sum of its parts?"" (2016).",,4
+0,https://github.com/REGOVAR/Sandbox.git,User-friendly integrated variant analysis platform for large scale genetics,,4
+0,https://github.com/uiucanh/tetris.git,Implementing an agent for Tetris (GB) using genetics algorithm,,4
+0,https://github.com/opentargets/genetics-sumstat-data.git,Workflows for processing summary statistics files for Open Targets Genetics,,4
+0,https://github.com/diogomeyer/popgen_teaching.git,Scripts for illustrating basic concepts of population genetics,,4
+0,https://github.com/mnavascues/ABCRFtutorial.git,A Beginners Guide to Approximate Bayesian Computation in Population Genetics,,4
+0,https://github.com/xiaolei-lab/IPAG.git,IPAG: Integrated Platform for Analyzes on Genetics and Genomics 🥳,,4
+0,https://github.com/kbroman/phyloQTLpaper.git,Source for the paper Broman et al. (2012) Mapping quantitative trait loci onto a phylogenetic tree. Genetics 192:267-279,,4
+0,https://github.com/stephenslab/count-clustering.git,"Code and data reproducing results from our PLOS Genetics paper ""Visualizing the structure of RNA-seq expression data using grade of membership models""",,4
+0,https://github.com/LLNL/mappgene.git,Massively Parallel and Portable Genomic Sequence Analysis (Mappgene) is a sequencing analysis workflow for high performance computing. It incorporates novel technologies to simplify and accelerate genetics research.,,4
+0,https://github.com/pcarbo/bmapathway.git,"MATLAB source code to accompany the PLoS Genetics paper, ""Integrated enrichment analysis of variants and pathways in genome-wide association studies indicates central role for IL-2 signaling genes in type 1 diabetes, and cytokine signaling genes in Crohn\'s disease"".",,4
+0,https://github.com/cmbi/metadome.git, MetaDome is aimed at professionals in the (bio-)medical field of human genetics who wish to visualize the position of their mutation of interest in the context of general population-based genetic variation and provide detailed information of pathogenic variants found across homologous domain positions. ,"genes,genetics,proteins,protein-domains,genetic-tolerance,domain-homology,pathogenicity,pathogenic-variants,variant-annotations,variant-interpretation,gene-annotation,protein-annotation",4
+0,https://github.com/mhinsch/msums.git,population genetics summary statistics,,3
+0,https://github.com/orenlivne/ober.git,"Ober Lab - Department of Human Genetics, University of Chicago",,3
+0,https://github.com/zhuochenbioinfo/PopGen.git,Small scripts for population genetics analysis,"population-genomics,population-genetics,bioinformatics,genomics,fasta-sequence,vcf,eigenstart-geno,treemix",3
+0,https://github.com/churchill-lab/sysgen2016.git,Short Course on Systems Genetics 2015,,3
+0,https://github.com/camult/easyGEN.git,A suite of packages for quantitative genetics analysis and more!,"blupf90,dmu,genetics",3
+0,https://github.com/cellgeni/cellatac.git,Sanger Cellular Genetics single-cell ATAC-seq pipeline.,,3
+0,https://github.com/Schiffels-Popgen/popgen_course.git,A course with Jupyter Notebooks for Computational Population Genetics,,3
+0,https://github.com/sekelsta/horse-colors.git,"A Minecraft mod adding realistic colors of horses, with accurate genetics.",,3
+0,https://github.com/saralpulit/Afib-Stroke-Overlap.git,Code and calls to software that accompanies manuscript on the overlap of atrial fibrillation genetics and cardioembolic stroke,,3
+0,https://github.com/jdfrens/yags.git,Yet Another Genetics Simulator,,3
+0,https://github.com/andrewkern/bio399.git,Bio399- Computational Genetics,,3
+0,https://github.com/stschiff/compPopGenWorkshop2019_docs.git,"Repository with documentation file of our Jan 22-24 workshop on Computational Population Genetics in Jena, Germany.",,3
+0,https://github.com/DavidQuigley/QuantitativeGenetics.git,Software for genetics and genomics,,3
+0,https://github.com/CristianAbrante/GeneticsJsKnapsack.git,Graphic interface for testing genetics.js framework in the client using React,"knapsack-problem,knapsack-solver,genetic-algorithm,evolutionary-algorithms,webapp,react",3
+0,https://github.com/ANHIG/sq2.git,Repository for code used in the PLOS Genetics paper on HLA variation,,3
+0,https://github.com/victor-kayan/Geneall.git,🧬 App for teaching and learning genetics,"genetics,education,glossary,study,react-native,react,javascript,styled-components,mobile",3
+0,https://github.com/schlather/miraculix.git,Algebraic and Statistical Functions for Genetics,,3
+0,https://github.com/milospjanic/IntegrativeFunctionalGenomics.git,"Collection of scripts used in Miller and Pjanic et al, 2016, Nature Communications and Kim and Pjanic et al, 2017, Plos Genetics.",,3
+0,https://github.com/LuminousPath/Robonomics.git,A microbial genetics styled simulation of a closed economic system.,,3
+0,https://github.com/clararehmann/quantgen.git,code based on Quantitative Genetics (Caballero A. 2020),,3
+0,https://github.com/jesusgomez545/Genetic-Algorithm---Plants-vs-Zombies-Simulator.git,Plants vs Zombies simulator by using Genetics Algorithm,,3
+0,https://github.com/stdupas/GraphPOP.git,Graph theory estimates of population genetics differentiation in heterogenous landscape,,3
+0,https://github.com/tanyaphung/popgen_scripts.git,Useful programs and scripts in bioinformatics and population genetics,,3
+0,https://github.com/anatman/bloodtype.git,"a simple simulation of the genetics of the a-b-o blood type system, written in shoes. not science, just shoes experimentation.",,3
+0,https://github.com/USCmec/Conti_NatGen_2020.git,"Example JAM code from the Conti, Darst et al., Nature Genetics 2021 publication ",,3
+0,https://github.com/ndharia-broad/peddep.git,"Code for Dharia NV, et al. A First-Generation Pediatric Cancer Dependency Map. Nature Genetics 2021.",,3
+0,https://github.com/ammodramus/mope.git,Infer the dynamics of mitochondrial heteroplasmy during different life stages using population genetics and phylogenetics,"mitochondria,mitochondrial-variants,heteroplasmy,demographic-changes",3
+0,https://github.com/fomightez/methods_in_yeast_genetics.git,a collection of Jupyter notebooks for doing calculations related to Methods in Yeast Genetics book,"jupyter,python,matplotlib",3
+0,https://github.com/cancerdatasci/ceres-manuscript.git,"Analysis code for CERES manuscript (Meyers, Bryan, et al. Nature Genetics. 2017)",,3
+0,https://github.com/manjunath5496/Genetics-Books.git,"""The laws of genetics apply even if you refuse to learn them."" ― Allison Plowden",,3
+0,https://github.com/aertslab/MendelCraft.git,"The MendelCraft mod, introducing Mendelian genetics to the chickens of Minecraft!",,3
+0,https://github.com/parkingvarsson/AspenPopulationGenomics.git,"Scripts for Wang et al. (2016) ""Natural Selection and Recombination Rate Variation Shape Nucleotide Polymorphism Across the Genomes of Three Related Populus Species""  Genetics 202, 1185-1200.  http://doi.org/10.1534/genetics.115.183152",,3
+0,https://github.com/anunciado/ICE1047-Gafes.git,A tool that use Genetic Algorithm for FEature Selection for UFRN ICE class ICE1047: Foundations of Genetics and Evolution.,,3
+0,https://github.com/zjf19870628/Nature_Cancer_2020.git,"Custom code for Nature Cancer 2020 ""Mutational and functional genetics mapping of chemotherapy resistance mechanisms in relapsed acute lymphoblastic leukemia""",,3
+0,https://github.com/jfy133/Tidy_PopGen_PCA_Plotting.git,A small R notebook describing how plot common (aDNA) population genetics PCAs using R and the tidyverse. ,"ancient-dna,population-genetics,archaeogenetics,palaeogenetics,pca,visualisation,r,ggplot2,tidyverse",3
+0,https://github.com/chr1swallace/finemap-psa.git,"simple fine mapping script in R used as the basis for analyses in Bowes et. al  (2015), Dense genotyping of immune-related susceptibility loci reveals new insights into the genetics of psoriatic arthritis.",,3
+0,https://github.com/Jezza/ElementalSciences.git,"DISCONTINUED: A mod using forge, designed to give you access to genetics of the players, and other various science-y stuff",,3
+0,https://github.com/kbroman/preCCProbPaper.git,Source for paper \tBroman KW (2012) Genotype probabilities at intermediate generations in the construction of recombinant inbred lines. Genetics 190:403-412,,3
+0,https://github.com/echelon/Drosophila-Lab.git,"(WIP) Python-based learning tool for the study of Genetics. Aimed at replacing the paywalled/proprietary ""Virtual FlyLab"" owned by California State University and publisher Benjamin Cummings. Code under AGPL3 license.",,3
+0,https://github.com/thomasblankers/popgen.git,"{""A collection of scripts I wrote when doing population genetics: calculate GC content, perform the McDonald-Kreitman test, calculate Tajima's D, convert VCF files to FASTA files using a reference genome""}",,3
+0,https://github.com/koryk/java_dann.git,dANN is an Artificial Intelligence and Artificial Genetics library targeted at employing conventional techniques as well as acting as a platform for research & development of novel techniques. As new techniques are developed and proven to be effective they will be integrated into the core library.,,3
+0,https://github.com/yinpeng1988/StatGene.git,Statistical genetics,,2
+0,https://github.com/IgnacioBecerra/GenoMatch.git,Tinder... but with genetics in play.,,2
+0,https://github.com/gwcbi/haphpipe.git,NGS viral assembly and population genetics,,2
+0,https://github.com/UMCUGenetics/SmallTools.git,Small tools for genetics research,"tools,genetics,python",2
+0,https://github.com/lu78/biopython---popgen.git,Population Genetics module for biopython.,,2
+0,https://github.com/MorrellLAB/PopGenTheory.git,Informal discussion group centered on population genetics and evolutionary genetics theory.,,2
+0,https://github.com/z0on/AFS-analysis-with-moments.git,Standalone python scripts to do pairwise AFS analysis for population differentiation using Moments (http://www.genetics.org/content/early/2017/05/08/genetics.117.200493),,2
+0,https://github.com/GTPB/PGDH19.git,PGDH19 - Population Genetics Demographic History: model-based approaches,,2
+0,https://github.com/dennishazelett/hgg_2020.git,"Course materials for the Human Genetics and Genomics bioinformatics course, Spring 2020",,2
+0,https://github.com/DworkinLab/BIO4E03_PopulationGenetics.git,R scripts and tutorials for the BIO4E03 population genetics class at McMaster University,,2
+0,https://github.com/UMCUGenetics/CWL-CommandLineTools.git,UMCU Genetics CWL CommandLineTools,,2
+0,https://github.com/fyoon27/genetifex.git,A genetics oriented platformer,,2
+0,https://github.com/megbowman/Custom-Repeat-Library.git,Code for the Custom Repeat Library protocol as described: http://weatherby.genetics.utah.edu/MAKER/wiki/index.php/Repeat_Library_Construction-Advanced,,2
+0,https://github.com/msuqg/msuqg.github.io.git,MSU Quantitative Genetics Page,,2
+0,https://github.com/tyrmi/PGU.git,Population Genetics Utilities,,2
+0,https://github.com/jennguyen1/filter_vcf.git,Statistical Genetics Data Analysis,"python,statistical-genetics",2
+0,https://github.com/tamuri/swmutsel.git,"Implementation of the site-wise mutation-selection model (swMutSel) described in Tamuri et al. Genetics. (2012, 2014)",,2
+0,https://github.com/GSGGB/GSGGB.git,Web Development Repository for the Global Society for Genetics and Genome Biology,"web-development,club-website,university-of-toronto",2
+0,https://github.com/tkchafin/DENdriscape.git,Code for riverscape genetics - examining patterns of genetic differentiation in dendritic networks,"genetic-distances,stream-distances,pairwise-distances,stream-networks,fitted-distances,stream-trees,genetic-algorithm,circuitscape",2
+0,https://github.com/mailund/genetics-book.git,Popular science population genetics book,,2
+0,https://github.com/LCozzoli/genScanner.git,A scanner for playRust plants seeds genetics,,2
+0,https://github.com/chenqumi/LepMAP3.git,scripts for a Genetics Map software,,2
+0,https://github.com/gitMarcH/visPIG.git,visPIG - VISual Plotting Interface for Genetics,,2
+0,https://github.com/Mikulas/PoleBalance.git,Pole Balance Problem solved with Genetics Algorithm,,2
+0,https://github.com/spflanagan/popgen.git,Analyzing RAD seq population genetics data,,2
+0,https://github.com/Sung-Bong-Kang/hGMNet.git,hGMNet : host Genetics and Microbe interaction Networks ,"microbiome,host-genotype,gene-environment-interactions,interaction-nets,phewas,pipline,network-analysis",2
+0,https://github.com/hexinteractive/hexozoa.git,simulation of small creatures with hexcode genetics ,,2
+0,https://github.com/poldrack/GOBS.git,analyses of Genetics of Brain Structure (GOBS) dataset,,2
+0,https://github.com/domino-joyce/finch-practical.git,quantitative genetics practical for evolutionary biology and developing R skills,,2
+0,https://github.com/rdinnager/slimr.git,Run and Analyse SLiM Population Genetics Forward Simulations from R. ,,2
+0,https://github.com/nheinbaugh/PopulationGenetics.git,A fun little project to play with genetics modelling,,2
+0,https://github.com/gudusanjiao/popgen2021.git,For BIOL Advanced Molecular Population Genetics course preparation,,2
+0,https://github.com/domino-joyce/finch-practical.git,quantitative genetics practical for evolutionary biology and developing R skills,,2
+0,https://github.com/rdinnager/slimr.git,Run and Analyse SLiM Population Genetics Forward Simulations from R. ,,2
+0,https://github.com/rystanley/Collaborative_R_Stuff.git,Sharing code for papers at BIO genetics group,,2
+0,https://github.com/SternLabTAU/FITS.git,Flexible inference of population genetics parameters from time-series data,,2
+0,https://github.com/joerivandervelde/phdthesis_published.git,"My PhD thesis ""Translational software infrastructure for medical genetics"".",,2
+0,https://github.com/seancorfield/cat-genetics.git,Utilities to help calculate TICA-specific color cat genetics etc,,2
+0,https://github.com/auton1/dog_recomb.git,"Data associated with Auton et al., PLOS Genetics, 2013",,2
+0,https://github.com/timvg80/PyDataLondon2016.git,Presentation and simulation trials on Schizophrenia Genetics and machine learning,,2
+0,https://github.com/evlynpless/MOSQLAND.git,Spatial data code for Aedes aegypti landscape genetics,,2
+0,https://github.com/benjaminhgood/coarse_coal.git,"Companion software for Good et al, PLoS Genetics (2013)",,2
+0,https://github.com/bioinformed/glu-genetics.git,Automatically exported from code.google.com/p/glu-genetics,,2
+0,https://github.com/Schraiber/hardyweinberg.git,"Code associated with Schraiber et al (2012), Genetics",,2
+0,https://github.com/opentargets/genetics-variant-annotation.git,Workflow to produce variant index annotation for Open Targets Genetics,,2
+0,https://github.com/dschrempf/popgen-cpp-programs.git,A collection of C and C++ programs and simulations related to population genetics and/or methods that could be used in population genetics.,"population-genetics,simulation,cpp",2
+0,https://github.com/ikstewa/Genetics.git,Genetics video game  http://users.csc.calpoly.edu/~zwood/teaching/csc476/final08/GeneticsWeb/,,2
+0,https://github.com/rosyaraur/plantbreeding-.git,plantbreeding: R Software package for analysis and visualization of data from plant breeding and genetics experiments.,,2
+0,https://github.com/flag0010/Genetics-Virtual-Seminars.git,A running list of virtual seminar opportunities in Genetics and related fields,,2
+0,https://github.com/DGarciaMedina/Geenomes.git,20/10 - 21/10 sudo hackathon for genetics data analysis on Melanoma RPKMs,,2
+0,https://github.com/YiZhang-lab/H2Aub_H3K27me3_preimplantation_dynamics.git,"HMM Domain called and additional code used in the Chen et, Nature Genetics, 2021 paper",,2
+0,https://github.com/uiuc-cgm/dnamage.git,Routines modified from http://labs.genetics.ucla.edu/horvath/dnamage/ to calculate dna methylation age,,2
+0,https://github.com/Amitai5/Backprop-VS-Genetics.git,"The GitHub Repository For The Research Paper ""Supervised Data in Backpropagation and Genetics Learning Algorithms""","research-project,learning-algorithm,machine-learning-algorithms,backpropagation,genetics",2
+0,https://github.com/morota/UFV2019.git,"Quantitative Genetics Short Course at UFV in Brazil - November 18-26, 2019",,2
+0,https://github.com/TylerLafayette/bioquiz.git,An interactive multiplayer quiz web app. Originally created for genetics unit in Biology.,,2
+0,https://github.com/mariowise/crewscheduling.git,A solution with Genetics Algorithms to Crew Scheduling Problem with Trains,,2
+0,https://github.com/tkchafin/ConsGen2018.git,Repository for the Spring 2018 course in Conservation Genetics (BIOL-5174) at the University of Arkansas,,2
+0,https://github.com/Avsecz/DL-genomics-exercise.git,Jupyter notebooks for the system genetics lecture exercise 11 thought at TUM,,2
+0,https://github.com/jlevy44/JoshuaTree.git,"Using pairwise synteny for high throughput genomics, multiple sequence alignment, population genetics, and phylogeny",,2
+0,https://github.com/LEEClab/Landscape_genetics_GoldenLionTamarins.git,Code and data for analysis of landscape genetics of Golden Lion Tamarins (Leontopithecus rosalia),"landscape-genetics,golden-lion-tamarins,landscape-ecology,landscape-connectivity,biological-dispersal",2
+0,https://github.com/Dantistnfs/telegram-genetic-bot.git,Telegram bot who helps you with your minor problems in genetics lab,,2
+0,https://github.com/huangkang1987/polygene.git,A versatile software to perform many population genetics analyses for polyploids,,2
+0,https://github.com/manjunath5496/List-of-biochemists.git,"""The laws of genetics apply even if you refuse to learn them.""― Allison Plowden",,2
+0,https://github.com/NH89/Morphogenesis.git,"A morphogenesis simulator (in progress) , with soft-matter elasticity, diffusion of heat/chemicals/morphogens, epi-genetics and particle automata behaviour.",,2
+0,https://github.com/OchoaLab/kinshipsymbols.git,"LaTeX package with math symbols for statistical genetics models, particularly kinship coefficients, including options like colors and notation simplifications",,2
+0,https://github.com/NDAR/asd-jre-public.git,NGS Whole Exome pipeline used to generate data in Nature Genetics http://dx.doi.org/doi:10.1038/ng.3303,,2
+0,https://github.com/cran/forensic.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  forensic\xa0—\xa0Statistical\xa0Methods\xa0in\xa0Forensic\xa0Genetics  ,,2
+0,https://github.com/stevemussmann/file_converters.git,A collection of file format converters to prepare input for several popular phylogenetic and population genetics software packages.,,2
+0,https://github.com/cran/dynamicTreeCut.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  dynamicTreeCut\xa0—\xa0Methods\xa0for\xa0Detection\xa0of\xa0Clusters\xa0in\xa0Hierarchical\xa0Clustering\xa0Dendrograms.\xa0Homepage:\xa0http://www.genetics.ucla.edu/labs/horvath/CoexpressionNetwork/BranchCutting/  ,,2
+0,https://github.com/manjunath5496/Top-4-Genetics-Papers.git,"""I do not believe we can blame genetics for adultery, homosexuality, dishonesty and other character flaws."" ― Jerry Falwell",,2
+0,https://github.com/mimocha/ga-logic-circuit.git,Generation of logical circuit with genetics algorithm and cellular automata. Dissertation project for BEng Innovative Systems Engineering at Nippon Institute of Technology.,"fpga,cplusplus,genetic-algorithm,cellular-automaton,verilog-hdl",2
+0,https://github.com/susjoh/GENETICS_2015_185553.git,"Code for manuscript ""Conserved Genetic Architecture Underlying Individual Recombination Rate Variation in a Wild Population of Soay Sheep (Ovis aries)"" http://www.genetics.org/content/203/1/583",,2
+0,https://github.com/Lauren-Blake/Human_Variation_and_Disease_TA.git,"Materials created when I TA-ed for the Human Genetics course ""Human Variation and Disease"" at the University of Chicago, Spring Quarter, 2016",,2
+0,https://github.com/cran/XMRF.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  XMRF\xa0—\xa0Markov\xa0Random\xa0Fields\xa0for\xa0High-Throughput\xa0Genetics\xa0Data.\xa0Homepage:\xa0http://www.liuzlab.org/XMRF/  ,,2
+0,https://github.com/kr-colab/im_clam.git,package for exact calculation of the joint site frequency spectrum under Isolation with Migration models as described in Kern and Hey (2017) http://www.genetics.org/content/207/1/241,,2
+0,https://github.com/nikhil-srao/Genetic-algorithm-for-process-scheduling.git,"Genetic Algorithm uses the concept of genetics to provide an optimal solution to the problem of process scheduling. Using the concept of chromosomes, parent selection, crossovers, mutation and replacement we find the best solution in the population",,2
+0,https://github.com/cran/Haplin.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  Haplin\xa0—\xa0Analyzing\xa0Case-Parent\xa0Triad\xa0and/or\xa0Case-Control\xa0Data\xa0with\xa0SNP\xa0Haplotypes.\xa0Homepage:\xa0https://folk.uib.no/gjessing/genetics/software/haplin/  ,,2
+0,https://github.com/flaviostutz/candle-analyser.git,"{""This project uses stock candle figure analysis in order to determine when to buy or sell stocks on the Market. It comes with a simulator and a genetics algorithms tool in order to define the best approach for a particular stock. No, I didn't get rich with that!""}",,2
+0,https://github.com/SebastianTroy/Evolving-Plants-2.0.git,"An update to my last evolving plants simulation, this one is uses simple character defined genetics to build a fixed shape plant, with a small simple set of instructions, allowing the ability to easily create your own genetic masterpieces. The lighting is improved to allow plants to monopolise specific colour ranges and is still much quicker allowing for vast side scrolling simulations and personalised regions of shade, The interface now uses my new TComponents and TCode libraries, making the background processes smoother and more responsive than ever.",,2
+0,https://github.com/BuildForSDGCohort2/Team-117-Group-A-Frontend.git,Frontend development of Genetics and Blood Sampling Webapp,genetics-and-blood-sampling,1
+0,https://github.com/rohanLuigi/JuliaGenBook.git,Introduction to Julia for Statistical Genetics,,1
+0,https://github.com/pgtunifesp/Pgt_genetica.git,Análises do grupo Psychiatric Genetics Team (UNIFESP) ,,1
+0,https://github.com/ComputationalEcologyLab/CDPOP.git,A landscape genetics simulator,,1
+0,https://github.com/limix/limix-plot.git,Plotting library for genetics.,,1
+0,https://github.com/andysouth/resistance.git,insecticide resistance population genetics model as an R package,,1
+0,https://github.com/ImperialCollegeLondon/MitoNetworksGenetics.git,Exploring mitochondrial genetics and network dynamics,,1
+0,https://github.com/beboche/u2.git,"USHVaM2: integrated genetics database system for deafness and blindness team in the Laboratory of Molecular Genetics, Montpellier University Hospital",,1
+0,https://github.com/pablocarderam/opqua.git,Epidemiological modeling framework for pathogen population genetics and evolution.,,1
+0,https://github.com/tatumdmortimer/mtbDrugResistance.git,The population genetics of drug resistance in Mycobacterium tuberculosis,,1
+0,https://github.com/dchebotarov/gemma-gwas-scripts.git,A collection of scripts to aid mixed linear model based GWAS with GEMMA (https://github.com/genetics-statistics/GEMMA),,1
+0,https://github.com/Chromozorz/geneTools.git,genetics utils,,1
+0,https://github.com/PhenoImageShare/PhenoImageShare.git,"Phenotype Image Share project  -  European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Heriot-Watt University Edinburgh, Medical Research Council, Human Genetics Unit Edinburgh",,1
+0,https://github.com/lw157/PopulationGenetics.git,Population genetics,,1
+0,https://github.com/neocruiser/thesis2014.git,Statistical genetics,,1
+0,https://github.com/NovembreLab/intro_genotype_proportions_workshop.git,Intro to RStudio and basic population genetics based on inspecting genotype proportions ,"teaching-materials,workshop",1
+0,https://github.com/jpvert/2018_DS3_tutorial.git,Tutorial on machine learning for genetics given at the DS3@Polytechnique summer school,,1
+0,https://github.com/uyedaj/EQG2017.git,"Materials for bayou tutorial at the Evolutionary Quantitative Genetics Workshop at Friday Harbor, June 2017",,1
+0,https://github.com/churchill-lab/MouseGen2016.git,21st Century Mouse Genetics,,1
+0,https://github.com/jchudb93/GeneExpressionBiClustering.git,Biclustering project on genetics,,1
+0,https://github.com/mikaell/chromograph.git,Genetics graphing tool,,1
+0,https://github.com/Dragon1320/gen_scripts.git,genetics python scripts,,1
+0,https://github.com/cran/qgen.git,Quantitative Genetics using R,,1
+0,https://github.com/jeantristanb/analyse_vcf.git,Comparison of genetics data ,,1
+0,https://github.com/pdimens/PopGenSims.jl.git,Create population genetics simulations,"genetics,breeding,simulation,popgen,crosses,mating",1
+0,https://github.com/mejian1/mejian1.github.io.git,Molecular biology and genetics,,1
+0,https://github.com/Hoborific/Genetics_19w03c_fabric.git,Genetics for minecraft,,1
+0,https://github.com/aarondmills/ReptileTracker.git,Reptile Genetics Tracking Application,,1
+0,https://github.com/mayaahmed/genetics2.git,Genetics with assign option,,1
+0,https://github.com/cgcardona/audiofile_genetics_lab.git,AudioFile Genetics Lab,,1
+0,https://github.com/teiResa/robogenes.git,🤖 nothing but robo-genetics 💉 ,"personal-website,noob-dev",1
+0,https://github.com/BioSeq/Genetics-of-Race-Analysis.git,BioSeq Genetics of Race Analysis,,1
+0,https://github.com/Nehal-Bhautoo/Genetics-Algorithm.git,Genetics Algorithm develop in Java,"java-8,genetic-algorithms",1
+0,https://github.com/ElRakabawi/mendross-web.git,Mendelian genetics punnett square calculator.,"mendelian-genetics,inheritance,perl-dancer,bioinformatics",1
+0,https://github.com/blueravenlabs/eqdb.git,Equine genetics and breeding database.,,1
+0,https://github.com/RobotApocalypseCommittee/Genootics.git,A Genetics mod for minecraft,"minecraft,modding,forge-mod,genetics-mod",1
+0,https://github.com/suqingdong/medlineplus.git,Genetics Home Reference from MedlinePlus,"medlineplus,ghr,genetics-home-reference",1
+0,https://github.com/JoelQ/mendel.git,A simulation of Medelian Genetics,,1
+0,https://github.com/david-dd-amar/cGAUGE.git,Causal Graphical Analysis Using GEnetics,,1
+0,https://github.com/RicoValdezio/RoR2-GeneticsArtifact.git,Artifact of Genetics for RoR2,,1
+0,https://github.com/matthew-ackerman/Evolution_7.git,A general population genetics simulator.,,1
+0,https://github.com/akshika47/Human-Genetics-Module-OpenMRS.git,Human Genetics Module for OpenMRS,,1
+0,https://github.com/jvazquez2/BIOS781.git,Polygenic Risk Scores - Statistical Genetics ,,1
+0,https://github.com/tiagoantao/metis-web.git,Population genetics on the web,"javascript,population-genetics,simulation,teaching,genomics,genetics",1
+0,https://github.com/jeromekelleher/spg-chapter.git,Chapter for Statistical Population Genetics,,1
+0,https://github.com/michellechsu/Appliedgeneticsanalysis.git,Bioinformatics - statistical training in genetics ,,1
+0,https://github.com/mcanouil/eggla.git,Early Growth Genetics Longitudinal Analysis,"r-stats,r-package,growth-curves,longitudinal-analysis,r",1
+0,https://github.com/jjudson28/GEN_462_2019.git,Repository for GEN462: Evolutionary Genetics,,1
+0,https://github.com/felixfan/GenTools.git,Genetics and Genomics Analysis Tools,,1
+0,https://github.com/afrazsalim/Genetics-Algorithms.git,Repository for Genetics algorithms project,,1
+0,https://github.com/jinghuazhao/GDCT.git,Genetics Dissection of Complex Traits,"glmm,polygenic-models,complex-traits",1
+0,https://github.com/alfredlotho/Bioinformatics.git,Java: Bioinformatics/Genetics related algorithms,,1
+0,https://github.com/cran/genetics.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  genetics\xa0—\xa0Population\xa0Genetics  ,,1
+0,https://github.com/rhjvedder/EpiC_MAKI_RSV.git,repository for the graduation internship at the UMCG Genetics department Research Group GRIAC systems Genetics,,1
+0,https://github.com/cran/hypred.git,Simulation of genomic data in applied genetics,,1
+0,https://github.com/septiandrd/SG_GA.git,Simple genetics algorithm implementation for TSP problem,genetic-algorithm,1
+0,https://github.com/Nochtal/GeneticAbominations.git,Algorithm testing through mini genetics based game.,,1
+0,https://github.com/alundiak/gen-and-gen.git,Genealogy and Genetics related projects sandbox,,1
+0,https://github.com/rystanley/PopGenR.git,A primer on population genetics in R,,1
+0,https://github.com/brandixi3/hgu.git,OpenMRS module for Human Genetics Unit ,,1
+0,https://github.com/jamesware/denovolyzerManuscript.git,current protocols in human genetics manuscript,,1
+0,https://github.com/v-a-s-a/variational_methods.git,Experiments with variational methods in statistical genetics.,,1
+0,https://github.com/gadolby/pg-origins.git,population genetics and the origin of life,,1
+0,https://github.com/nicholasjclark/STRUCTURE.popgen.git,Population genetics using STRUCTURE assignment probabilities,,1
+0,https://github.com/Treast/genetics-algorithms-image-generation.git,A image generation using genetics algorithm,,1
+0,https://github.com/ctkremer/P_repens.git,Population genetics analysis of Protea repens,,1
+0,https://github.com/lemoment/letshwit.git,A homework scheduler based on evolutionary genetics.,"letsschedit,time,scheduling,genetic-algorithm,evolutionary-algorithms",1
+0,https://github.com/jbcoe/LibCppPopGen.git,C++ Library for Population Genetics Simulations,,1
+0,https://github.com/0x0is1/glimmer.git,glimmer - genetics information gathering CLI tool.,"bioinformatics,command-line-tool,microbiology,virology,bioinformatics-analysis,research-and-development,research-companion",1
+0,https://github.com/SuphanatIs/DNA-Processor-JAVA.git,Java Classes for Use with Computational Genetics,,1
+0,https://github.com/KristinHenry/BioInformatics.git,Various projects in genetics and bioinformatics,,1
+0,https://github.com/stkterry/lex-cells.git,A sim/game of genetics and evolution,"javascript,matterjs,react,simulation,game,experimental",1
+0,https://github.com/maizeatlas/agb.git,Accrete Genetics and Breeding: Open Source Software for Managing the Workflow and Resources in Plant Genetics and Breeding Labs,,1
+0,https://github.com/scottstensland/cat-food-nation.git,synthesize sound using genetics and an evolutionary computation approach,,1
+0,https://github.com/SheenYo/MAGNET.git,MApping the Genetics of neuropsychological traits to the molecular NETwork ,,1
+0,https://github.com/kchennen/biomarkers.git,Genetics of blood and urine biomarkers in the UK Biobank,,1
+0,https://github.com/matthewmoscou/TSLsummerschool2017.git,A tutorial on genetics and visualization with ggplot2,,1
+0,https://github.com/papaemmelab/bolton_NG_CH.git,"Code and Data for Bolton et al., Nature Genetics 2020",,1
+0,https://github.com/ManchouMods/Darwin.git,Darwin is a Minecraft mod to add genetics in Minecraft. ,,1
+0,https://github.com/jyanglab/agro931-project.git,A demo project for class AGRO/ASCI-931: population genetics,"teaching,popgen,quantgen,research",1
+0,https://github.com/ngs-docs/2019-ggg201b.git,"Intro to Genetics and Genomics at UC Davis, 2019 version",,1
+0,https://github.com/alip990/GA.git,Implemention of Genetics algo using sus and roulet wheel selection ,,1
+0,https://github.com/diazale/umap_review.git,A review of the use of UMAP in population genetics,,1
+0,https://github.com/biodataprog/2017_programming-intro.git,Genetics 220-2017 - Computational Analysis of High Throughput Biological Data,"python3,programming,teaching,teaching-materials,bioinformatics",1
+0,https://github.com/ilariabonavita/ncca_r.git,Nonparametric canonical correlation analysis in R with applications in genetics ,,1
+0,https://github.com/xin-huang/PopGenTools.git,A collection for available tools in population genetics,"population-genetics,population-genomics",1
+0,https://github.com/castedo/EPI511.git,Extras for Harvard Class EPI511: Advanced Population & Medical Genetics,,1
+0,https://github.com/bjcochrane/TeachingPopGen.git,Some basic functions for an introductory population genetics class.,,1
+0,https://github.com/mmjulkowska/mmjulkowska.github.io.git,roots - forward genetics - big data analysis - r coding,,1
+0,https://github.com/kamyh/pa-inphinity.git,HesSO MSE Pa on Machine Learning and Genetics.,,1
+0,https://github.com/hanbin973/kimura_crow.git,Solution to An Introduction to Population Genetics Theory,,1
+0,https://github.com/Arentios/Genetics.git,Tool suite for gene sequencing and other genetics related applications,,1
+0,https://github.com/hccampos/fish-simulation.git,2D simulation of fish with boid simulation and simple genetics.,,1
+0,https://github.com/dhibar/OHBMImagingGenetics2015.git,Materials for the OHBM Imaging Genetics Education Course,,1
+0,https://github.com/Mikulas/PoleBalanceGPU.git,Pole Balance Problem solved with Genetics Algorithm and GPU parallelization,,1
+0,https://github.com/mmhudaya/ga-number-function-js.git,Example of Genetics Algorithm for AI lesson task completion,,1
+0,https://github.com/drosboro/drosophila.git,A simple genetics simulation based on Drosophila melanogaster.,,1
+0,https://github.com/FerRacimo/CopenhagenTutorial.git,Tutorial of population genetics for Copenhagen 2019 course students,,1
+0,https://github.com/bhofmei/inherit-logic.git,Inherit Logic: Set of computer stimulates to understand genetics,,1
+0,https://github.com/jpluta26/BRADtools.git,Biomedical Research and Development (BRAD) tools for genetics analysis,,1
+0,https://github.com/sdtemple/statgen.git,Ad hoc custom functions and notebooks for statistical genetics,,1
+0,https://github.com/filippo-fonseca/genetics_algorithm.git,🧬 An algorithm that explores the realm of genetics.,,1
+0,https://github.com/tmoertel/Gimli.git,Gimli is an interpreter for the Genetics Information Manipulation Language,,1
+0,https://github.com/eruditor/glife.git,"{""WebGL2 Cellular automata (Conway's Game of Life) with genetics""}",,1
+0,https://github.com/pamag/pmgEnsembl.git,my personalized Ensembl API for my perl-medical-genetics modules,,1
+0,https://github.com/dcyoung/MultinomialRegression.git,Multinomial Regression for Wide Datasets sourced from Cancer Genetics,,1
+0,https://github.com/bcl-lab/Genetic-Report-Viewer.git,An app for genetics and clinical data visualization,,1
+0,https://github.com/morosanmihail/BalanceSpecs.git,Visual interface for automated game balance using Sharp Genetics,,1
+0,https://github.com/wtsi-hgi/hgi-registry.git,Human Genetics Programme project and team group registry API,"gdpr,ldap,registry,api,rest",1
+0,https://github.com/alexisdimanche/AD.REU2019.git,Systems genetics analysis of sex differences in metabolic phenotypes,,1
+0,https://github.com/dennishazelett/recombulator.git,Calculate recombination frequencies and plan for crosses in Drosophila Genetics,"genetics,drosophila,recombination",1
+0,https://github.com/michikrug/Genesis.git,a PHP based browsergame set in the world of genetics,,1
+0,https://github.com/kirangilvaz/gene-data.git,Algorithms and software for the analysis of massive genetics datasets,,1
+0,https://github.com/tharris/cgc-website.git,Website and ordering system for the Caenorhabditis Genetics Center,,1
+0,https://github.com/neyhartj/qgshiny.git,A Shiny App for teaching introductory quantitative genetics,,1
+0,https://github.com/m-murphy/moire.git,MOI and Allele Frequency Recovery from Noisy Polyallelic Genetics Data,"genomics,malaria,mcmc",1
+0,https://github.com/clemente-lab/mmeds-meta.git,A database for storing and analyzing genetics data,"python,sql-database,database,microbiome,microbiome-analysis,microbiome-data",1
+0,https://github.com/lgo/sonorian-sim.git,"World generation and simulation of economies, civilizations, and genetics",,1
+0,https://github.com/jknightlab/Abu-Dhabi.git,Abu Dhabi population genetics and T2D/metformin RNAseq,,1
+0,https://github.com/eastgenomics/Genetics_Ark.git,Django source code for Genetics Ark and associated apps,,1
+0,https://github.com/simjoly/pofad.git,Program that computes genetics distance from SNP data,,1
+0,https://github.com/pdlla/animalclub.git,general purpose genetics + procedural 3d animal generation library,,1
+0,https://github.com/evolutionarygeneticsR/evolutionarygeneticsR.github.io.git,"Webpage for Evolutionary Genetics: Concepts, Analysis and Practice",,1
+0,https://github.com/RVA-ALT-Lab/coga.git,Collaborative Studies on the Genetics of Alcoholism theme,,1
+0,https://github.com/p-j-r/stepping_stone.git,Stepping Stone model is used in genetics (population models). ,"markov-chain,model,computational-physics,stepping-stone,python",1
+0,https://github.com/oconnorgroup/GLADdb.git,Source code and pipelines for the Genetics of Latin American Diversity (GLAD) database,,1
+0,https://github.com/GiannosLouloudis/PopulationGeneticsGroup6.git,"Group project for the course Population Genetics in University of Copenhagen, year 2021.",,1
+0,https://github.com/concord-consortium/biologica.js.git,A genetics library for creating and breeding organisms with genotypes and phenotypes,,1
+0,https://github.com/rebeccajohnson88/socgenetics_helperfunctions.git,Miscellaneous R functions for processing genetics-related df for use in plink and other programs,,1
+0,https://github.com/J35P312/array_db2vcf_db.git,script used for converting the clinical genetics array db to vcf file,,1
+0,https://github.com/statsun78/kogo.git,2018 KOGO statistical genetics workshop  (6. Multi-omics Data Analysis by Hokeun Sun),,1
+0,https://github.com/Neato-Nick/mllR.git,"R package to wrap many common population genetics analyses into pipelines, beginning from raw VCF file",,1
+0,https://github.com/KiraVill/genomicSimulation.git,An R package that runs stochastic simulations of genetics of plant breeding schemes,,1
+0,https://github.com/howderek/genes.howderek.com.git,My genetics - both the raw ancestry dump and the promethease report,,1
+0,https://github.com/EricArcher/ebvSim.git,GEO-BON Genetics Working Group simulation based evaluations of Essential Biodiversity Variables (EBVs) ,,1
+0,https://github.com/R-Evolution-Simulator/r-evolution-simulator.github.io.git,(R)Evolution Simulator: using Python to understand the secrets of genetics.,"genetics,evolution-simulation,evolution-simulator,natural-selection,hardy-weinberg-equilibrium,genetic-drift,mendelian-genetics",1
+0,https://github.com/BaderLab/BreastCancer_PathwayAnalysis.git,BreastCancer Pathway Analysis performed for Nature/Nature Genetics paper 2017 (for ERNeg and Overall breast cancer),,1
+0,https://github.com/PietroD/tSNE_population_genetics.git,How is tSNE algorithm working compared to PCA with population genetics data?,,1
+0,https://github.com/vahuynh/GENIE3_sysgen.git,Extension of the GENIE3 method for the inference of gene regulatory networks from systems genetics data.,,1
+0,https://github.com/ikstewa/ShadowMapDemo.git,OpenGL demo application implementing shadow mapping algorthim used in the Genetics video game,,1
+0,https://github.com/Nolapete/newgenetics-python.git,"{""New version of genetics calculator logic written by nephew Michael Barre'""}",,1
+0,https://github.com/MetisGenetics/maven-saml2-auth.git,SAML2 Authentication Library for Single-Sign-On with the Genetics Maven web application,,1
+0,https://github.com/AEStapleton/association_datatype_readme.git,An explanation of the data structure and format for association and prediction analysis in genetics.,,1
+0,https://github.com/marcjwilliams1/neutral-tumour-evolution-werner-2018.git,Jupyter notebook to generate figures in Werner et al 2018 Nature Genetics,,1
+0,https://github.com/cancervariants/vrs_cyto.git,GA4GH-VRS analysis and export of the Atlas of Genetics and Cytogenetics in Oncology and Haematology,,1
+0,https://github.com/hasanissa25/GeneticsAlgorithm.git,"Genetics Algorithm, with tailoring towards solving a person-task assignment problem.",,1
+0,https://github.com/renanosf/angular-shortest-path.git,Find the shortest path between points from google maps using genetics algorithm,,1
+0,https://github.com/ABRG-Models/AttractorScaffolding.git,"Evolution, genetics and the Baldwin effect explored by means of a Boolean network model",,1
+0,https://github.com/pasted/targeted_sequencing_pipeline.git,Targeted sequencing pipeline for the Royal Devon & Exeter Molecular Genetics lab. ,"bioinformatics-pipeline,bioinformatics",1
+0,https://github.com/faircloth-lab/2011-fairclothetal-systbiol-uce.git,[Unsupported] Code used in Faircloth et al. Ultraconserved Elements Anchor Genetics Markers,,1
+0,https://github.com/kbroman/Talk_JAXsysgen.git,QTL lectures and lab for annual Jackson Lab Short Course on Systems Genetics,,1
+0,https://github.com/davidgresham/biostatistics-and-human-genetics.git,Text book for Biostatistics and Human Genetics taught by David Gresham at New York University ,,1
+0,https://github.com/lufuhao/popgentransformer.git,A perl script for format conversion into the direct input of multiple population genetics softwares,,1
+0,https://github.com/uhkniazi/BRC_SupernumeraryTooth_Gui_PID_19.git,RNA-Seq data from mice to understanding the genetics of supernumerary tooth formation.,,1
+0,https://github.com/Danis102/Serpeloni_et_al_2019_Frontiers_in_Genetics.git,Updated scripts that was originally published in Serpeloni et al. 2019 (Frontiers in Genetics vol 10).,,1
+0,https://github.com/ipdgc/Automate-with-Python.git,"“Automate the boring stuff with Python” for Population Genetics, IPDGC Hackathon",,1
+0,https://github.com/SamStudio8/Mountain.git,A work in progress collection of simple but possibly useful genetics tools.,,1
+0,https://github.com/haruyuki/Genotype-Calculator.git,A program to get the genetics of a dog on Furry Paws,,1
+0,https://github.com/atgu/NeuroGAP.git,Primary repository for efforts and analyses of the Neuropsychiatric Genetics in African Populations,,1
+0,https://github.com/molpopgen/newgene.git,The simulation code used in doi:10.1534/genetics.107.074948,,1
+0,https://github.com/gminevich/cloudmap.git,"CloudMap: A Cloud-Based Pipeline for Analysis of Mutant Genome Sequences. Genetics, 2012",,1
+0,https://github.com/cgd/drake-genetics.git,An educational web application for exploring genetics using the fictional drake genome.,,1
+0,https://github.com/dnil/etiologica.git,Pipelines and decision support tools for Massively Parallel Human Medical Genetics,,1
+0,https://github.com/XeniaMLopes/ProjectBioinfoCourse2016.git,Final project for the course Practical Bioinformatics for Biologists - Population Genetics (Microssatellites),,1
+0,https://github.com/spyrostheodoridis/gonospy.git,"A collection of functions for filtering, transforming and summarizing high-throughput genomic data in population genetics",,1
+0,https://github.com/DreadBoy/dandelifeon.git,Using genetics algorithms to find optimal starting position for modified Game of life,,1
+0,https://github.com/OSGA-OPAR/OPARProject_docs.git,"documents related to the NIDA Center of Excellence on Omics, Systems Genetics, and the Addictome",,1
+0,https://github.com/sxg661/Flower.git,Unity project - Tool for determining flower genetics in Animal Crossing New Horizons.,,1
+0,https://github.com/RodrigoGM/mousegenomics.git,"Scripts for setting up genetics and genomics workstations without root privilages, running analysis pipelines, etc...",,1
+0,https://github.com/graymicrolab/Bacterial_Genetics_Course_Packet.git,Course packets for Bacterial Genetics and Physiology. Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.,,1
+0,https://github.com/cran/EcoGenetics.git,":exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  EcoGenetics\xa0—\xa0Management\xa0and\xa0Exploratory\xa0Analysis\xa0of\xa0Spatial\xa0Data\xa0in\xa0Landscape\xa0Genetics.\xa0Homepage:\xa0https://github.com/cran/EcoGenetics,\xa0https://leandroroser.github.io/EcoGenetics-Tutorial  ",,1
+0,https://github.com/jalabrecque/MRchecks.git,R functions to check for age-varying genetics associations and the degree to which this could bias Mendelian randomization estimates. ,,1
+0,https://github.com/eyalbenda/worm_sceQTL.git,"Data and code for manuscript ""whole-organism mapping of the genetics of gene expression at cellular resolution""",,1
+0,https://github.com/rplantbreeding/rplantbreed.github.io.git,R for Plant Breeding is open source resource to lear the Plant Breeding and Genetics related data analysis and visualizations,,1
+0,https://github.com/Bella2347/Git-exjobb.git,"Git repository for my degree project in Molecular Biotechnology Engineering at the Department of Ecology and Genetics, evolutionary biology.",,1
+0,https://github.com/daphmarts/genetics_explainers.git,"A repository for public outreach efforts around genetics research. Includes GWAS FAQs, popular media articles, blog posts, etc.",,1
+0,https://github.com/dyerlab/ITSATALG.git,"A repository for data and scripts associated with the manuscript ""Is there such a thing as landscape genetics?""",,1
+0,https://github.com/NProfileAnalysisComputationalTool/npact.git,"N-Profile Analysis Computational Tool - Univeristy of Florida Department of Molecular Genetics and Microbiology - Luciano Brocchieri, Ph.D.",,1
+0,https://github.com/barrettotte/ProcJam-2018.git,"{""ProcJam 2018 Entry. Simulate basic population genetics on fake creatures' DNA. Concepts of mutation, crossover, fitness distribution covered.""}","genetics,genetic-programming,gamejam,unity,simulation,procedural-generation,procjam",1
+0,https://github.com/rmccoy7541/aneuploidy_analysis.git,"Analysis code accompanying the paper ""Evidence of selection against complex mitotic-origin aneuploidy during preimplantation development."" PLoS Genetics.",,1
+0,https://github.com/leaxp/primer-genomics.git,A reproduction of the primer tutorial in deep learning genomics proposed in Nature Genetics (2018)  in Pytorch.,"genomics,deep-learning,dna-sequences,pytorch,tutorial-code,omics-data",1
+0,https://github.com/cran/popgen.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  popgen\xa0—\xa0Statistical\xa0and\xa0Population\xa0Genetics.\xa0Homepage:\xa0http://www.stats.ox.ac.uk/~marchini/software.html  ,,1
+0,https://github.com/netbiolab/BarleyNet.git,BarleyNet is a co-functional gene network with a companion web server for network-assisted systems genetics analysis of cultivated barley.,,1
+0,https://github.com/NikolayOskolkov/GenomicsNewClothes.git,Here I discuss common pitfalls in Genetics research due to the high-dimensional nature of genetic variation data that suffers from the Curse of Dimensionality,,1
+0,https://github.com/cran/geoRglm.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  geoRglm\xa0—\xa0Generalised\xa0Linear\xa0Spatial\xa0Models.\xa0Homepage:\xa0http://genetics.ghpc.au.dk/ofch/geoRglm.html  ,,1
+0,https://github.com/AnalemaTechnologies/CacaoShares.git,"Token based on a tangible fixed assets, Cacao Trees in Sur del Lago Venezuela. Real time traceability for Cacao Trees and genetics",,1
+0,https://github.com/lyh970817/TNG-Bootcamp.git,"{""Materials for my statistics bootcamp sessions in the TNG group at Social Genetics and Developmental Psychiatry (SGDP) Centre, King's College London""}",,1
+0,https://github.com/sethbilliau/genetics.git,"An R Shiny\xa0app exploring population genetics through a series of interactive simulations, inspired by my summer work at University of Oxford with Dr. Andrew Berry.\xa0",,1
+0,https://github.com/cran/randomGLM.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  randomGLM\xa0—\xa0Random\xa0General\xa0Linear\xa0Model\xa0Prediction.\xa0Homepage:\xa0http://www.genetics.ucla.edu/labs/horvath/CoexpressionNetwork/  ,,1
+0,https://github.com/rikowijayanto/metaheuristic_GA.git,Genetics Algorithm is the one of the algorithms for optimization using heuristic approach. This projects is to optimize of wood waste on cutting process.,,1
+0,https://github.com/M-Osky/Genetics_popgen.git,"Various unix and perl scripts to deal with genetics data: prepare submission files, extract results, and so. Check their ""help"" to see usage",,1
+0,https://github.com/mgaynor1/mgaynor1.github.io.git,Research website for a Ph.D. student in the Soltis Lab at the University of Florida. My general research interest is polyploidy evolution and population genetics. ,personal-website,1
+0,https://github.com/birchtree2/Highschool-Genetics-Helper.git,"Help to calculate genetics problems in high school 高中生物遗传学计算器,计算表现型、基因型比例",,1
+0,https://github.com/PycnopodiaD/Pleurozium_schreberi_annotated_genome_files.git,"Pederson ERA, Warshan D, Rasmussen U. 2019. Genome sequencing of Pleurozium schreberi: the assembled and annotated draft genome of a pleurocarpous feather moss. G3: Genes Genomes Genetics",,1
+0,https://github.com/XLEvolutionist/gillespie.git,A set of R markdown scripts to that go through the problems and major points of Gillespie Population Genetics A Concise Guide,,1
+0,https://github.com/andrusiak/s2.git,"Generalized order parameter calculation from molecular dynamics. Algorythm was proposed by Dubyna Volodymyr, Institute of Molecular Biology and Genetics, Kyiv, Ukraine",,1
+0,https://github.com/cran/adwave.git,:exclamation:\xa0This\xa0is\xa0a\xa0read-only\xa0mirror\xa0of\xa0the\xa0CRAN\xa0R\xa0package\xa0repository.  adwave\xa0—\xa0Wavelet\xa0Analysis\xa0of\xa0Genomic\xa0Data\xa0from\xa0Admixed\xa0Populations.\xa0Homepage:\xa0https://doi.org/10.1534/genetics.115.176842  ,,1
+0,https://github.com/csjalbert/LynnCanalPostseason.git,"**Deprecated** This repository holds all scripts associated with analyzing sockeye salmon mixtures from Lynn Canal, D115 commercial samples as part of our postseason genetics project from 2018 forward. Specifically, it houses our MAGMA (Mark, Age, Genotype, Mixture Analysis) pipeline.",,1
+0,https://github.com/kew24/proj-Westra-data202.git,"{""Walking through the analysis and a figure from a Nature Genetics article, replicating the lab's findings that mutations in genes are enriched based on specific exposures. || Data 202 Final Project, Fall 2020.""}",,1
+0,https://github.com/bobymathew/Multivariate-INLA.git,Multivariate INLA contains R code for the Integrated nested Laplace approximation inference (INLA) of multivariate mixed model presented in Mathew et al. (2016; Theoretical and Applied Genetics):: https://link.springer.com/article/10.1007%2Fs00122-015-2622-x,,1
+0,https://github.com/Pokecube-Development/Pokecube-Revival.git,"This Contains Pokecube Adventures and Pokecube Compat.  Adventures provides advanced genetics blocks, trainers, and some additional related worldgen.  Compat provides advanced mod support for a variety of different mods.",,1
+0,https://github.com/AWMurrayLab/FluctuationTest_GregLang.git,"These are the MATLAB scripts used for analysis of the fluctuation tests used to measure the mutation rate of S. cerevisiae as described in Lang and Murray, Genetics 2008",,1
+0,https://github.com/SebastianTroy/Evolving-Plants.git,"This program simulates plants competing for light. They reproduce a-sexually, and have mutable genetics. There are a number options allowing the observer to interact with the simulation, and individual plants.",,1
+0,https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live.git,"""The science of genetics is in a transition period, becoming an exact science just as the chemistry in the times of Lavoisier, who made the balance an indispensable implement in chemical research."" ― Wilhelm Johannsen",,1
+0,https://github.com/edutars/EduardoTarazona_LDGH.git,Eduardo Tarazona-Santos is a Professor of Human Genetics and Computational Biology at the Federal University of Minas Gerais in Brazil and Scientific Director of Mosaico Translational Genomics. Our code is in https://github.com/ldgh,"population-genomics,computational-biology,biological-anthropology",1
+0,https://github.com/Steven-N-Hart/NVM.git,"This repository contains all the code and data to regenerate results from our Genetics In Medicine Paper: ""Comprehensive annotation of BRCA1 and BRCA2 missense variants by functionally validated sequence-based computational prediction models""",,1
+0,https://github.com/InstituteforDiseaseModeling/GWSpatialGenetics.git,The Institute of Disease Modeling interdisciplinary collaboration with Elizabeth Thiele (Vassar) and James Cotton (Wellcome Sanger Institute) to maximize the value of epidemiological and genetics data to understand Guinea worm transmission in Chad. ,,1
+0,https://github.com/sumedha-12/intrusion.git,The project was aimed at implementing a fuzzy genetics-based learning algorithm and discuss its usage to detect intrusion in a computer network. fuzzy if-then rules were generated and optimized using genetic algorithms. Implemented in Java and uses the KDD’99 benchmark dataset.,,1
+0,https://github.com/jakshat2/Decrypting-Subsitution-Ciphers-using-Genetic-Algorithms.git,This program can possibly decrypt substitution ciphers. The encipher.cpp enciphers a plain text with a random key. The decrypting_substitution_ciphers.cpp possibly decrypts the cipher text using genetics algorithm. A traing text file needs to be provided to this.,,1
+0,https://github.com/SmaragdaT/GenEpi.git,"Package for calculating response to genetic selection for lower susceptibility and/or infectivity following standard quantitative genetics theory assuming polygenic genetic variation, and then simulating epidemics on the selected populations following a stochastic SIR (Susceptible, Infected, Recovered) epidemiological model, to evaluate the change in epidemic severity and risk due to selection over generations.",,1
+0,https://github.com/jacqueslagnel/ParaStructure.git,parastructure is a perl script collection to run the population genetics software STRUCTURE from Pritchard et al. 2000 (http://pritch.bsd.uchicago.edu/structure.html ) in parallel on a cluster (beowulf type). Each run of K (the number of populations) is executed separately on each CPU of the cluster trough queue system based on PBS. A summary statistics table and distruct figures (Noah Rosenberg: http://www.stanford.edu/group/rosenberglab/distruct.html ) are built at the end of the run. A patch for the structure (ran.c) is also provided in order to correct the generation of the seed number.,,1
+0,https://github.com/hlbao/bioinformatics.git,"For this project, we are doing some bioinformatics (specifically genetics). we wrote functions involved with turning a DNA sequence into an amino acid sequence (protein). ""main.cpp"": This file uses the function declarations in ""bio.h"" to convert a DNA sequence to an amino acid sequence. ""bio.h"": This is the header file for ""bio.cpp"" and it has declarations and explanations for the implementation file. ""bio.cpp"": do the main stuff. If you want more background about the material covered in this project, I recommend watching this video: https://www.youtube.com/watch?v=oefAI2x2CQM",,1
+0,https://github.com/Bichitrananda/Performance-evaluation-of-Machine-learning-algorithms-in-Biomedical-Document-Classification.git,"Document classification is a prevalent task in Natural Language Processing (NLP) with a broad range of applications in the biomedical domain. In biomedical engineering categorization of biomedical literature into predefined categories becomes a cumbersome task. Hence, building an automatic document classifier using Machine Learning (ML) algorithms for the biomedical databases emerges as a significant task among the scientific community. In addition, empirical evaluation of these state-of-the-art classifiers for biomedical document categorization also becomes a thrust area of research. Hence, this paper examines the deployment of the various forefront ML algorithms in automatic classification of benchmark biomedical datasets like Bio Creative Corpus III, Farm-Ads, and TREC 2006 genetics Track. Finally, the performance measures of the ML classifiers have been evaluated through standard classification metrics like accuracy, precision, recall, and f1-measure.",,1
+0,https://github.com/srmuniversity121/B.Tech.-in-Bioinformatics.git,"B.Tech. in Bioinformatics is a 4 year full time degree course.   It is an interdisciplinary field that combines Computer Science, Mathematics, Statistics and Engineering to analyze and understand Biological Data. Bioinformatics use mathematical and statistical techniques for in silico analyses of biological queries.  Bioinformatics is the study of biological gene disease used in the fields of genetics and genomic as a specific analysis pipeline. Human Genome Project can be considered as the best examples of Bioinformatics. The field of bioinformatics is experiencing an explosive growth by the Human Genome Project and by rapid advances in DNA sequencing technology. With the completion of sequencing of human genome and  various plants, animals and microbes’ genomes, bioinformatics is taking up the challenges of the post-genomic era.   Bioinformatics is a fast growing era in life sciences.",,1
+0,https://github.com/Decentricity/degenics-public.git,Decentralized Genetics Project,,0
+0,https://github.com/IsoldevR/R_session_PopGen.git,Population genetics in R,,0
+0,https://github.com/SBU-BMI/pathomics_analysis.git,Joint pathological and genetics analysis,,0
+0,https://github.com/openeyes/Genetics.git,Genetics module,,0
+0,https://github.com/katieb314/Salmon-Project.git,Population genetics using microsatellites for different salmonid species,"genetics,microsatellites,salmon,genomics,canada",0
+0,https://github.com/sanogenetics/sano-fsd-test.git,Sano Genetics Full Stack Engineer Test,,0
+0,https://github.com/allenday/gcp-popgen.git,Population Genetics on Google Cloud Platform,,0
+0,https://github.com/IID-DTH/GPA-package.git,Genetics Polymorphisms Assignments,,0
+0,https://github.com/NCIOCPL/glossary-api.git,"API for Dictionary of Cancer Terms, Dictionary of Genetics Terms, and other Glossary documents.",,0
+0,https://github.com/uyedaj/EQG2014.git,Nimbios Evolutionary Quantitative Genetics Tutorial,,0
+0,https://github.com/ilri/adgg_v2.git,A dashboard for the Africa Dairy Genetics Gains (ADGG) project,,0
+0,https://github.com/bixcop18/module5_quantitative_genetics.git,"Module 5 of the 2018 Bioinformatics CoP at Beca, on quantitative genetics, genotyping-by-sequencing, genome-wide association studies and genomic selection",,0
+0,https://github.com/youngpadawans/geneticexplorer.git,A repository for interns at ArcherDX to learn about genetics and software development. ,,0
+0,https://github.com/ryneches/ulakes.git,"Population genetics of cichlid fish in lakes Victoria, Kivu and Mweru",,0
+0,https://github.com/dbrazel/cotwins-analyses.git,"Analyses of the CoTwins study, using digital phenotyping to examine the genetics of substance use",,0
+0,https://github.com/kholsinger/PopGen-Shiny.git,R Shiny apps that I use to illustrate some principles of population genetics,,0
+0,https://github.com/MorrellLAB/Journals.git,"Recent finds in journals covering genetics, genomics, and evolutionary biology.",,0
+0,https://github.com/rramadeu/statgen-esalq.git,The web page of the Statistical Genetics Lab (ESALQ/USP),,0
+0,https://github.com/jmonlong/HGSS_Rworkshops.git,R workshops given to the Human Genetics students of McGill.,,0
+0,https://github.com/kbroman/Talk_SGN2017.git,"Talk on ""Genetics analysis of high-throughput phenotypes""",,0
+0,https://github.com/kuzobuta/hic_paper_NG_2019.git,"Processed data set of Miura et al., Nature Genetics, 2019","bioinformatics,hi-c,contact-matrices,repli-seq,3d-genome,genomics",0
+0,https://github.com/gerstung-lab/clonex.git,Efficient Wright-Fisher simulations for intra-tumour population genetics,,0
+0,https://github.com/frichote/replop.git,Phd project: a set of tools for population genetics,,0
+0,https://github.com/rhubb/SISG2020.git,UW Summer Institute in Statistical Genetics Module 5,,0
+0,https://github.com/BuildForSDGCohort2/Team-117-Group-A-Backend.git,Backend development of Genetics and Blood sampling webapp,,0
+0,https://github.com/kbroman/GSATemplate.git,"LaTeX templates for Genetics and G3 manuscripts, from Overleaf",,0
+0,https://github.com/WorldPremier/week12d5.git,genetics,,0
+0,https://github.com/indibear/Genetics.git,Genetics,,0
+0,https://github.com/mtaylor-semo/283.git,Genetics,,0
+0,https://github.com/kresko/Genetics.git,Genetics,,0
+0,https://github.com/carlittoo7/genetics.git,Genetics,,0
+0,https://github.com/kindlychung/genetics.git,genetics,,0
+0,https://github.com/xulong82/Genetics.git,Genetics,,0
+0,https://github.com/smchale/hello-world.git,genetics,,0
+0,https://github.com/Metalhead33/genetic_code.git,Genetics,,0
+0,https://github.com/mayaahmed/genetics.git,Genetics,,0
+0,https://github.com/katehammitt/katehammitt.git,genetics,,0
+0,https://github.com/stringtheorv/bio211.git,Genetics,,0
+0,https://github.com/Huangyizhong/Huang.git,genetics,,0
+0,https://github.com/nerdcommander/probgen.git,"probability with genetics, genetics with probability",,0
+0,https://github.com/chengsongzhu/Protein_Array_analysis.git,Script on statistical genetics and quantitative genetics ,,0
+0,https://github.com/qinyiyan/Haplotype-Assembly.git,computational genetics,,0
+0,https://github.com/crocojim18/gene-zoo.git,Weird Genetics,,0
+0,https://github.com/petritn/Genomics.git,Genetics Research,,0
+0,https://github.com/mlstiburek/Computer-code-realized-heritability.git,Genetics 2018,,0
+0,https://github.com/NyteToast/XenosGenetics-Project.git,Genetics Game,,0
+0,https://github.com/biology-examples/pop_gen.git,population genetics,,0
+0,https://github.com/zmishra/CS-CM124.git,Computational Genetics,,0
+0,https://github.com/galeanog/galeanog.git,Forest genetics,,0
+0,https://github.com/michielbakker/Code.git,genetics code,,0
+0,https://github.com/timoman7/GeneticHTML.git,Punnet Genetics,,0
+0,https://github.com/lxting12345/ForensicGeneticsTools.git,forensic genetics ,,0
+0,https://github.com/gita-codaio/probably_genetic.git,probably_genetics,,0
+0,https://github.com/saylordotorg/course_bio305.git,BIO305: Genetics,,0
+0,https://github.com/onemartian/Simple_DNA.git,Genetics Simulation,,0
+0,https://github.com/ivan-osipov/Experiments-and-Researches.git,"Genetics, PathSearch ...",,0
+0,https://github.com/8504231732Yes/Yesbol.git,Genetics project ,,0
+0,https://github.com/chaupmcs/plant_genetics_visualization.git,Visualize genetics,,0
+0,https://github.com/lilywinne/628Project3.git,Systems genetics,,0
+0,https://github.com/ydchoi/geneticsfall2015.git,Fall2015 Genetics,,0
+0,https://github.com/thomasgregory9340/Bioinformatics.git,Genetics research,,0
+0,https://github.com/bradleyholloway/ProBendingBattle.git,Genetics Experiment,,0
+0,https://github.com/bschukin/gene2.git,genetics experiments,,0
+0,https://github.com/ricyoung/genetics.git,Genetics NoteBooks,,0
+0,https://github.com/kiaravega/Bridge_UP-STEM-.git,Molecular genetics ,,0
+0,https://github.com/Atillakul/dr8.git,Genetics Doctor,,0
+0,https://github.com/mojaravscki/ml_genetics.git,ml_genetics,,0
+0,https://github.com/kiaravega/Bridge_UP_STEM_MolGen.git,Molecular Genetics,,0
+0,https://github.com/trippalamb/Engenetics.git,Genetics Engine,,0
+0,https://github.com/Mindsway-phy/Master_thesis.git,Statistical Genetics,,0
+0,https://github.com/aixaperez/genetics-final.git,Genetics Final,,0
+0,https://github.com/SinaC/Genetics.git,Genetics algorithms,,0
+0,https://github.com/liunana5277/hello-world.git,Imaging genetics,,0
+0,https://github.com/moonmedtwo/TSP-GA.git,Genetics Algorithms,,0
+0,https://github.com/jiaxin-ustc/StatGene.git,Statistical genetics,,0
+0,https://github.com/msamet1/TRD.git,TRD genetics,,0
+0,https://github.com/notestaff/cosi.git," Population genetics simulator supporting selection, exact/approximate simulation, variable genetic maps, gene conversion.",,0
+0,https://github.com/bwestsdsc/Wellderly.git,Genetics Research Project to Analyze the Genome of Advanced Aged Subjects ,,0
+0,https://github.com/chazgoo/Shantou-2018.git,Syllabus and materials for the Summer 2018 algal genetics course held at University of Shantou,,0
+0,https://github.com/kentwait/pgeg.git,Tools for studying population genetics and evolutionary genetics,,0
+0,https://github.com/xgdong/pipelines-on-genomic-analysis.git,Some pipelines on population genetics and evolutionary genetics,,0
+0,https://github.com/ocisse/Pneumocystis_population_genomics.git,Pneumocystis population genetics,,0
+0,https://github.com/HeavyHat/SurvivalGame.git,Simple Genetics Test,,0
+0,https://github.com/katebee/Mote.git,Genetics in JavaScript,,0
+0,https://github.com/think2ice/bsg.git,Bioinformatics and Statistical Genetics ,,0
+0,https://github.com/zoezhaophd/BTRY6830.git,Quantitative Genomics and Genetics,,0
+0,https://github.com/belboo/brinagen.git,"{""Sabrina's genetics tools""}",,0
+0,https://github.com/Eustrain/Genetics-correlation.git,Estimation of genetics corelations,,0
+0,https://github.com/hsuallan/genetics-algorithm.git,genetics algorithm practice,,0
+0,https://github.com/brainhack-school2020/fibers-fMRI-BHS2020.git,"fibernavigator, nilearn, genetics",,0
+0,https://github.com/squirrelfriend/MNAmod.git,Binary genetics for Minecraft,,0
+0,https://github.com/enricoferrero/GCMap.git,Genetics Connectivity Map,,0
+0,https://github.com/KaiAragaki/MBG.git,Molecular Biology and Genetics,,0
+0,https://github.com/buddha2490/BERGGenetics.git,Query the genetics data,,0
+0,https://github.com/MarsicoFL/FOGSA.git,Forensic Genetics Simulation Analysis,,0
+0,https://github.com/pietrobarbiero/dbgen.git,Database for genetics,,0
+0,https://github.com/hinderling/PopGen.git,Projects in population genetics,,0
+0,https://github.com/Jmaxwellsdemon/Animal-Crossing-Flowers.git,Flower genetics calculator,,0
+0,https://github.com/avitkus/GenSim.git,A Mendelian Genetics Simulator,,0
+0,https://github.com/Razellion/Genetics-Algorithm.git,Genetics Algorithm for Searching,,0
+0,https://github.com/sequencecentral/gene-utils.git,Tools for Genetics,,0
+0,https://github.com/has9h/bioinformatics.git,Getting Started with Genetics,,0
+0,https://github.com/polmonroig/genetic_brushes.git,Painting images with genetics,,0
+0,https://github.com/bycarol/Addiction-Genetics.git,Absolute Beginners  in genetics,,0
+0,https://github.com/adrcort/hgc.git,The Hackathon Genetics Club,,0
+0,https://github.com/RagusaAutomation/genetics.git,Repo for genetics branch,,0
+0,https://github.com/LancasterTM/imaging_genetics.git,PST508_practical_imaging_genetics,,0
+0,https://github.com/regggev/Genetics.git,Genetics Python work,,0
+0,https://github.com/clomeli99/Gene-App.git,Eductational app for genetics,,0
+0,https://github.com/nevillejackson/atavistic-sheep.git,genetics of atavism,,0
+0,https://github.com/alissaseverson/training_camp.git,genetics boot camp 2016,,0
+0,https://github.com/green-striped-gecko/lgfun.git,Landscape genetics support functions,,0
+0,https://github.com/gurugenetics/gurugenetics.github.io.git,Guruman Genetics website,,0
+0,https://github.com/johandh2o/statgen.git,Statistical Genetics Final Project,,0
+0,https://github.com/Rauno56/popgen.git,Population genetics HW calculations,,0
+0,https://github.com/jesseHFG/jesseHFG.github.io.git,Hi Fidelity Genetics Website,,0
+0,https://github.com/tiagoantao/metis.git,Population Genetics in JavaScript,"javascript,population-genetics,statistics",0
+0,https://github.com/gianlucatruda/genetics.git,Personal genetics code.,,0
+0,https://github.com/cmjcmj25/musical-palm-tree.git,Applied Computational Genetics,,0
+0,https://github.com/UOBiology/UOBiology.github.io.git,Population Genetics Simulator,,0
+0,https://github.com/EthanHolleman/GGG-201D-proposal.git,Population genetics mock proposal,,0
+0,https://github.com/ijwilson/GenTL.git,Genetics Template Library,,0
+0,https://github.com/dongzhuoer/pgmcs.git,Population Genetics Simulation,r-package,0
+0,https://github.com/Chemopune/statingene.git,statistics in genetics,,0
+0,https://github.com/frnptr1/BSG.git,Bioinformatics and Statistical Genetics,,0
+0,https://github.com/mrinalmanu/population_genetics_2019.git,Population genetics module homeworks.,,0
+0,https://github.com/basilboli/sophiagenetics.git,sophia genetics home assignment,,0
+0,https://github.com/micha-silver/popgen-gis.git,Population Genetics and GIS,,0
+0,https://github.com/JasonYang96/Haplotype-Phasing.git,CS CM124 Computational Genetics,,0
+0,https://github.com/justinlubin/hendel.git,Mendelian Genetics in Haskell,"mendelian-genetics,genetics",0
+0,https://github.com/augusto-garcia/QuantitativeGenetics.git,Slides - Quantitative Genetics course,,0
+0,https://github.com/Matu2083/MultipleMergers-PopulationGrowth.git,Genetics-CoalescentProcessesWithSkewedOffspringDistributionsAndNon-EquilibriumDemography-Code,,0
+0,https://github.com/hendersonmpa/study-notes.git,Biochemical Genetics study notes,,0
+0,https://github.com/OlatzTropical/OlatzTropical.git,Genetics and Nutrition researcher,,0
+0,https://github.com/dikshitkaushal/Movement_with_genes.git,Genetics_Algorithm_with_unity,,0
+0,https://github.com/scothampel/rust-genetics.git,Rust genetics helper,,0
+0,https://github.com/DyerlabTeaching/PopulationGenetics.git,BIOL 516: Population Genetics,,0
+0,https://github.com/andreymaznyak/genetic-algorihtms-framework.git,framework for genetics algorihtms,,0
+0,https://github.com/onelastbeer/dna-evolve.git,Simple genetics algorithm project.,,0
+0,https://github.com/pbremer/popgensim.git,Population genetics simulator,,0
+0,https://github.com/Kunoros/Brick-Breaking-Genetics.git,Bricks-Breaking-Genetics,,0
+0,https://github.com/mars0i/popgen.git,Miscellaneous population genetics experiments,,0
+0,https://github.com/pierreTklein/Genetics.git,side genetics project ,,0
+0,https://github.com/kalpa-subbaiah/Monte-Carlo-Genetics-Algorithm.git,Monte Carlo-Genetics Algorithm,,0
+0,https://github.com/yangjl/quantgen.git,plant quantitative genetics,,0
+0,https://github.com/morota/journalclub3.git,Statistical Genetics Journal Club,,0
+0,https://github.com/ds-connectors/Data88-Genetics_and_Genomics-SP20.git,Genetics and Genomics Connector,,0
+0,https://github.com/mlstiburek/Dataset-European-larch.git,Frontiers in Genetics 2020,,0
+0,https://github.com/ahmedmoustafa/popgen.git,Population Genetics Notebooks,,0
+0,https://github.com/ComputationalEcologyLab/CDFISH.git,A riverscape genetics program,,0
+0,https://github.com/DyerlabTeaching/Genetics.git,BIOL 310: Genetics,,0
+0,https://github.com/lilyrunhappy/anthro-genetics.git,anthro genetics assignments,,0
+0,https://github.com/Deuterostome/Snake_Genetics.git,For Garter Snake Genetics,,0
+0,https://github.com/deniskovalenko/upc-bioinformatics.git,Homeworks for statistic genetics,"bioinformatics,genetics,statistical-genetics",0
+0,https://github.com/magicDGS/popgenlib.git,Population Genetics Java Library,,0
+0,https://github.com/Hoborific/Genetics_Fabric.git,Genetics mod for Fabric,,0
+0,https://github.com/biogylo/BAGEMO.git,Genetics module for python.,,0
+0,https://github.com/LorenaDerezanin/projects.git,Genomics/genetics projects,,0
+0,https://github.com/snhjdv/asso.git,association study of genetics,,0
+0,https://github.com/osuocw/molgen-5700-systems-of-genetic-analysis.git,Systems of Genetics Analysis,,0
+0,https://github.com/haze/genetics.git,silly genetics testing,,0
+0,https://github.com/shinov42/Genetic.git,"{""genetics' heuristical algorithm""}",,0
+0,https://github.com/srwyatt42/ggg201D.git,Population and Quantitative Genetics,,0
+0,https://github.com/hippoviva/Galapagosfinch.git,Ecosystem system genetics simulator,,0
+0,https://github.com/guoweisiwin/gumpy.git,Genetics with Numpy,,0
+0,https://github.com/charygao/AdvGen.git,Advanced Genetics IPython Notebooks,,0
+0,https://github.com/wammonj/genetics.git,Using genetics data,,0
+0,https://github.com/The-Bioinformatics-Group/skeletonema_pop_gen.git,skeletonema marinoi population genetics,,0
+0,https://github.com/TEDSproject/BGi.git,The Behavioral Genetics index,,0
+0,https://github.com/endorphin-endogenous/omegaverse.git,for omegaverse genetics project,,0
+0,https://github.com/JakubBrojacz/Unity-Future-game.git,Machile learning genetics algoritm,,0
+0,https://github.com/rqtl/qtl2browse.git,Genetics genome browser,,0
+0,https://github.com/rjiniego-mozym/animalgenetics-schedulers.git,Schedulers for Animal Genetics,,0
+0,https://github.com/pglpm/genobayes.git,probability calculus + genetics + sleep,,0
+0,https://github.com/melbintgen/statgen-journal-club.git,Statistical Genetics journal club,,0
+0,https://github.com/mhtoyoda/mhtoyoda.github.io.git,Site Singular Genetics,,0
+0,https://github.com/emilyholt/genetic_tutorial.git,Tutorial for CS & Genetics,,0
+0,https://github.com/Prasanna0602/NLP_Problem_DNA_Sequencing.git,Molecular genetics - Biotechnology (Domain),,0
+0,https://github.com/mmachire/bios2.git,for comp genetics,,0
+0,https://github.com/mbugaric/genetic-algorithm-predavanja.git,fuzzy neural genetics,,0
+0,https://github.com/misbahulard/word-matchGA.git,Word Matching Genetics Algorithm,,0
+0,https://github.com/tiagoantao/metis-sim.git,A population genetics simulator,"population-genetics,javascript,simulation,scientific-computing,science",0
+0,https://github.com/NCIOCPL/genprof-api.git,Genetics Professional Search API,ocpl-microservice,0
+0,https://github.com/DestinyCraft/Genetic_Tools.git,Tools for genetics.,,0
+0,https://github.com/IID-DT/GPA.git,Genetics Polymorphisms Assignments,,0
+0,https://github.com/shamshad-pau/Biostatistics.git,Plant Breeding and Genetics,,0
+0,https://github.com/abondrn/genetics.git,Experiments in computational genetics,,0
+0,https://github.com/RicardoYib/genassist.git,Rust Farming Genetics Assistant,,0
+0,https://github.com/dcolinmorgan/sophia_test.git,test for Sophia Genetics,"ngs,fastq,paired-end-sequencing",0
+0,https://github.com/VincentFrouin/igutils.git,Imaging-genetics utilus,,0
+0,https://github.com/marcdubybroad/MyGeneticsAndroid.git,Genetics research Android application,,0
+0,https://github.com/sinanshi/gftools.git,Genetics file manipulation tools,,0
+0,https://github.com/mikheyev/wam-lecture-oist.git,Quantitative genetics Skill Pill,,0
+0,https://github.com/BenLohrer/SORCS2old.git,SORCS2 Genetics Project,,0
+0,https://github.com/willerickson/willerickson.github.io.git,A website for genetics,,0
+0,https://github.com/amonks/jinni.git,"unconventional genetics, aggressively metaprogrammed!",,0
+0,https://github.com/gerardocorn/GP_homework.git,Homeworks of Populations Genetics,,0
+0,https://github.com/michellechsu/Statistical-Genetics.git,BS 858 Statistical Genetics,,0
+0,https://github.com/maximka777/genetic-algorithms.git,Genetics algorythm on Go,university,0
+0,https://github.com/Ji-Hye-Won/jhwon.git,for imaging_genetics,,0
+0,https://github.com/KamranBehzad/KamGenetics2020.git,Genetics Lib 2020,,0
+0,https://github.com/adriangeerre/popgen.github.io.git,Population Genetics course.,"population,population-structure,demography,selection,admixture,gwas,heritability,bioinformatics",0
+0,https://github.com/cdnutter/cpsc481-scikitgenetic.git,Sci-Kit Genetics Discussion,,0
+0,https://github.com/FrederickVonBarenbach/sims.git,Orbital Simulation and Genetics,,0
+0,https://github.com/benoitclem/GANN.git,Genetics Applied to Neural Network,,0
+0,https://github.com/elveskevtar/HelixMod.git,A Minecraft Mod for Genetics,,0
+0,https://github.com/Daniel-J-Schmidt/genrich.git,Sampling Statistics for Population Genetics,,0
+0,https://github.com/lvclark/quant_gen.git,R functions for quantitative genetics,,0
+0,https://github.com/dangitsdaaaaang/improved-genetics.git,"{""Crimson9's Improved Genetics Mod""}",,0
+0,https://github.com/BaronKoy/MSc_Genetics_of_Human_Disease.git,MSc Genetics of human disease,,0
+0,https://github.com/iliefadz/manhattanplotstutorial.git,Taken from Getting Genetics Done,,0
+0,https://github.com/danieldb18/Cannanetics.git,Cannanetics - study of cannabis genetics,,0
+0,https://github.com/xiaoran831213/simgen.git,Simulation tools for statistical genetics.,,0
+0,https://github.com/airosado/Bio-Fundamentals-Labs.git,"Ecology, Quantitative Bio, Genetics, Physiology",,0
+0,https://github.com/KlausVigo/popgenSim.git, Simulations in population genetics models,,0
+0,https://github.com/andst513/Steve.git,Private independent/Researcher/Analyst/Genetics ,,0
+0,https://github.com/mulinge/biodiversity-Genetics.git,Analysis of biodivesity and genetics,,0
+0,https://github.com/Shyrokoa/FunctionAproximation.git,Genetics algorithm for function approximation,,0
+0,https://github.com/sam217pa/simbook.git,Simulation Methods in Population Genetics,,0
+0,https://github.com/rcristofari/ConservationGenetics.git,Teaching material for conservation genetics,,0
+0,https://github.com/mastoffel/scent.git,seal scent and genetics project,,0
+0,https://github.com/danielmehnert/genetics.git,Stuff related to genetics / bioinformatics,,0
+0,https://github.com/ucsb-cs8/nih-genetics-data.git,Getting Genetics Data From NIH,,0
+0,https://github.com/seantibor/jupyter-organisms.git,Genetics Simulation using Jupyter Notebooks,,0
+0,https://github.com/nerdyturtle1201/Plant-Genetics.git,Plant Genetics mod for Minecraft,,0
+0,https://github.com/flabbergasted/GeneticProgramming.git,Small genetics based hobby project,,0
+0,https://github.com/thomcz/genetic-bot.git,Test project using genetics bots,"kotlin,genetic-algorithm,bot",0
+0,https://github.com/ellieearmstrong/ANGSDcommands-.git,ANGSD commands for population genetics,,0
+0,https://github.com/JCDetwiler/gene-expression.git,Cranial Genetics - CS 4884 Team,,0
+0,https://github.com/Gbemisola123/genetics.git,this is for a genetics,,0
+0,https://github.com/sshmendez/Genetics.git,General Purpose Java Genetics Library,,0
+0,https://github.com/Banshee1221/h3agwas-glugenetics.git,Dockerfile for glu genetics tool,,0
+0,https://github.com/Ad115/Genetics-UNAM.git,Code for genetics final project,,0
+0,https://github.com/NinetyLight/GA-CNN.git,CNN with Genetics Algorithm Optimization,,0
+0,https://github.com/islam-Ellithy/KnapSackWithGeneticsAlgorithms.git,Genetics Algorithms solve knapsack problem,,0
+0,https://github.com/mrsparklesaur/genetics_bash.git,functions for streamlining population genetics,,0
+0,https://github.com/truths/GPPG.git,General Purpose Population Genetics library,,0
+0,https://github.com/shyamsg/allWolf.git,Greenland wolf and dog genetics,,0
+0,https://github.com/FixyNeko/Neural_IA.git,"Neural IA, genetics algorithm, exemple",,0
+0,https://github.com/iPhoring/DataScience.git,Genetics and ML Related Artifacts,,0
+0,https://github.com/karaesmen/StatisticalGenetics.git,Statistical Genetics class at OSU,,0
+0,https://github.com/JLucka/kotki.git,MISK Project about Cat Genetics,,0
+0,https://github.com/tygiacalone/CM124.git,UCLA CS CM124 Computational Genetics,,0
+0,https://github.com/ediezben/dgparse.git,Desktop Genetics Public Parser Library,,0
+0,https://github.com/fredjaya/upe-squelchers.git,Population genetics of Uperoleia frogs,,0
+0,https://github.com/ahsenko/pisi.git,BSc- Molecular Biology and Genetics,,0
+0,https://github.com/stajichlab/A_fumigatus_popgen.git,Population genetics for A.fumigatus,,0
+0,https://github.com/SBU-BMI/pathomics_analysis_restore.git,Joint pathological and genetics analysis,,0
+0,https://github.com/rasanderson/BIO8068_gene_expression.git,Coping with messy genetics data,,0
+0,https://github.com/ShanEllis/capstone-genetics-domain.git,DSC180 Capstone Materials: Genetics Domain ,,0
+0,https://github.com/Faridmurzone/genetics.git,genetics and epigenetics study repo,,0
+0,https://github.com/mmhdonkers/genetics.git,"ICCP project 4, Genetics algorithm",,0
+0,https://github.com/douglasgscofield/popgen.git,Tools for population genetics analysis.,,0
+0,https://github.com/sophie0916/QMHG.git,Quantitative Methods in Human Genetics,"r,rstudio,biology,statistics,biostatistics,genetics",0
+0,https://github.com/amaiacc/GeneticsPlanumTemporaleAsymmetry.git,Genetics of planum temporale asymmetry,,0
+0,https://github.com/jwiggi18/gengen_syllabus.git,Interactive syllabus for general genetics,,0
+0,https://github.com/alanrogers/pgen.git,"Population genetics group, Sprint 2021",,0
+0,https://github.com/cfljam/pyrat_genetics.git,R genetics tools for Jupyter ,,0
+0,https://github.com/rodoyle/dgparse.git,Desktop Genetics Public Parser Library,,0
+0,https://github.com/Karloid/Gen.git,Play with naive genetics algorithms,,0
+0,https://github.com/yanlinlin82/Population-Genetics-Notes.git,Notes of learning population genetics,,0
+0,https://github.com/yawana1/QGTA.git,Quantitative Genetics Trial Analysis Pipeline,,0
+0,https://github.com/haniyehnasseri/textDecode.git,text decoding using genetics algorithms,,0
+0,https://github.com/Aerin13/PopGenExercises.git,Worked exercises from population genetics.,,0
+0,https://github.com/jenniferhyu/pop-gen.git,population genetics/bioinformatics-related things,,0
+0,https://github.com/mandel01/consensus-sequences.git,Molecular Biology and Genetics exercise,,0
+0,https://github.com/ebtesam-rashid/EbtesamAbdelShafy.git,"PhD; Cytology,Histology and Genetics",,0
+0,https://github.com/morota/ESALQ2019.git,Quantitative Genetics and Genomics Workshop,,0
+0,https://github.com/DavidSadowsky/CGG.git,Clone Genetics Generator for Rust,,0
+0,https://github.com/waltermoreira/bio-tools.git,Some dockerized tools for genetics,,0
+0,https://github.com/farazkey6/Euterpe.git,Genetics + ANFIS to Unity Engine,,0
+0,https://github.com/jayflora/GdP-material.git,data for population genetics tutorial,,0
+0,https://github.com/morota/ESALQ2018.git,Quantitative Genetics and Genomics Workshop,,0
+0,https://github.com/MaraRMinano/Landscape_Analyses.git,Landscape analyses Genetics and phenotype,,0
+0,https://github.com/eribean/BeeGen.git,Python Module for Behavior Genetics,,0
+0,https://github.com/EgonFerri/statisticalgenetics.git,Various project about statistical genetics,,0
+0,https://github.com/xiaoran831213/ustgen.git,U-statistical Test for genetics,,0
+0,https://github.com/ksimons221/CS-176-HMM.git,Hidden Markov Model for genetics ,,0
+0,https://github.com/iliefadz/differentialpathways.git,Taken from Getting Genetics Done,,0
+0,https://github.com/anproulx/project-psy6983.git,"fMRI, connectivity, machine learning, genetics",,0
+0,https://github.com/huddlej/populations.git,Python module for population genetics,,0
+0,https://github.com/nficca/genetics.git,Experimenting with a genetics algorithm,,0
+0,https://github.com/Pfern/PGDH.git,Population Genetics and Demographic History,,0
+0,https://github.com/TraceWright/CPP_Genetics.git,Experimental Architecture for Genetics Application,,0
+0,https://github.com/GwenBischoff/popGenSimu.git,Web application for population genetics,,0
+0,https://github.com/xijiang/ABG.jl.git,Algorithms for Breeding and Genetics,,0
+0,https://github.com/ThomKaar/generational-genotype-simulator.git,simulate simple genetics across generations,,0
+0,https://github.com/CarlosMoraMartinez/FrogLab_2.git,A genetics simulator. Educational app to learn genetics using a tropical frog as a model organism.,,0
+0,https://github.com/vmilkev/qgenlib.git,This ibrary is a conscollection of classes related to computational statistical genetics (quantitative genetics).,,0
+0,https://github.com/davefol/rust-genomics.git,"A genomics library for rust focusing on individual genetics, population genetics, and SNPs","rust,genomics,genetics",0
+0,https://github.com/WKBae/Life-Simulator.git,Simulation of ecosystem with genetics algorithm,,0
+0,https://github.com/calebjmatthews/NewSummer.git,A plant genetics game for web browsers,,0
+0,https://github.com/twizumyo45/cm124project.git,"{""Roger's cm124 (Computational Genetics) final project""}",,0
+0,https://github.com/JuliaGenetics/Genetics.jl.git,Genetics algorithms for the Julia programming language,,0
+0,https://github.com/prp-e/geneticLogic.git,implementation of boolean functions using genetics algorithm.,,0
+0,https://github.com/senanu/driftsim.git,Population genetics simulation incorporating drift and selection,,0
+0,https://github.com/dyerlab/GeneticStudio.git,Population genetics software that does not suck,,0
+0,https://github.com/rbpisupati/quantitativeOmics.git,"A toolkit for genomics, quantitative genetics",,0
+0,https://github.com/EdaEhler/bioutils_python.git,python scripts for population genetics/bioinformatics analysis,,0
+0,https://github.com/anhmiuhv/randomnesscs4341.git,"hill climbing, genetics and simulated annealing algorithms",,0
+0,https://github.com/rdecamp/AN551-Final-Project.git,My final population genetics study for AN551. ,,0
+0,https://github.com/elhumble/shiny_snps.git,  💫✏️Teaching resource for population genetics with SNPs,,0
+0,https://github.com/MareikeJaniak/Mammal_ADH_IV.git,comparative genetics of mammalian alcohol dehydrogenase IV,,0
+0,https://github.com/XiongLi2016/L0L2_image_genetics.git,A L0-based model for image genetics,,0
+0,https://github.com/Junkdnalab/hugego.git,"Human Genetics and Genomics course, Bioinformatics curriculum",,0
+0,https://github.com/MrKriss/popGen.git,Prototyping Population Genetics Tools in Python,,0
+0,https://github.com/fanying2015/GWAS_2017.git,PBSB 5021 Quantitative Genomics and Genetics ,,0
+0,https://github.com/bomeara/EQG.git,"{""Arnold & Felsenstein's Evolutionary Quantitative Genetics course""}",,0
+0,https://github.com/EdaEhler/bioutils_python.git,python scripts for population genetics/bioinformatics analysis,,0
+0,https://github.com/rbpisupati/quantitativeOmics.git,"A toolkit for genomics, quantitative genetics",,0
+0,https://github.com/senanu/driftsim.git,Population genetics simulation incorporating drift and selection,,0
+0,https://github.com/rdecamp/AN551-Final-Project.git,My final population genetics study for AN551. ,,0
+0,https://github.com/elhumble/shiny_snps.git,  💫✏️Teaching resource for population genetics with SNPs,,0
+0,https://github.com/XiongLi2016/L0L2_image_genetics.git,A L0-based model for image genetics,,0
+0,https://github.com/MareikeJaniak/Mammal_ADH_IV.git,comparative genetics of mammalian alcohol dehydrogenase IV,,0
+0,https://github.com/Junkdnalab/hugego.git,"Human Genetics and Genomics course, Bioinformatics curriculum",,0
+0,https://github.com/Sspinner/popGen.git,Simple Python Models for Population Genetics,,0
+0,https://github.com/coleoguy/popgensim.git,R package: Population genetics simulation for teaching,,0
+0,https://github.com/SSICreative83/Biology.git,"Molecualr Biology,Cell Molecualr,Human Genetics,Biochemistry",,0
+0,https://github.com/opentargets/genetics-landing-page.git,Placeholder landing page for the Genetics portal,,0
+0,https://github.com/jeffreyblanchard/EvolutionaryGenomicsPy.git,Python Labs for Evolutionary Genetics 2018 ,,0
+0,https://github.com/ijwilson/ShinyPopulationGenetics.git,Shiny applications for teaching population genetics,,0
+0,https://github.com/algaebrown/tsne-popgen.git,Embed population genetics data using t-sne,,0
+0,https://github.com/Jiahao0310/Genetics_Algorithm_for_Soft_Robot_Evolutionary.git,Genetics Algorithm for Soft Robot Evolutionary  ,,0
+0,https://github.com/sunad30/Genetics.git,Applications of Linear Algebra in Genetics,,0
+0,https://github.com/twissell-/genetics.git,A collection of genetics algorithms exercises.,,0
+0,https://github.com/mathgenome/InfoTheoryGenetics.git,R applications for infomation theory in genetics,,0
+0,https://github.com/ramiflam/xmatchge.git,Xmatch-genetics suit of tools repository,,0
+0,https://github.com/bjcochrane/PopGenWithR.git,Collaboration Version of Population Genetics Text Book,,0
+0,https://github.com/timflutre/jia-jannink_genetics_2012.git,"Code from Jia and Jannink (Genetics, 2012)",,0
+0,https://github.com/liameabbott/statgen-utils.git,Utility scripts for typical statistical genetics tasks.,,0
+0,https://github.com/yongjun-li/biosim.git,a bunch of functions in quantitative genetics.,,0
+0,https://github.com/derik-cg/genpop.git,r files for simulations in population genetics,,0
+0,https://github.com/arose13/YorkU-PopulationGenetics.git,Assignments and other Randoms for population genetics,,0
+0,https://github.com/ECGen/ComGenR.git,Tools for community genetics analyses using R. ,,0
+0,https://github.com/mhalagan/mhcpop.git,Population genetics scripts for the MHC,,0
+0,https://github.com/theandyb/smaug-smake.git,Reproduce smaug-genetics analysis using snakemake,,0
+0,https://github.com/amigo2/gupo.git,"Genetics Application from Universidad Pablo Olavide, Seville.",,0
+0,https://github.com/yongjun-li/biosim.git,a bunch of functions in quantitative genetics.,,0
+0,https://github.com/timflutre/jia-jannink_genetics_2012.git,"Code from Jia and Jannink (Genetics, 2012)",,0
+0,https://github.com/bjcochrane/PopGenWithR.git,Collaboration Version of Population Genetics Text Book,,0
+0,https://github.com/ramiflam/xmatchge.git,Xmatch-genetics suit of tools repository,,0
+0,https://github.com/twissell-/genetics.git,A collection of genetics algorithms exercises.,,0
+0,https://github.com/mathgenome/InfoTheoryGenetics.git,R applications for infomation theory in genetics,,0
+0,https://github.com/gabriel-araujjo/genoma-game.git,"Genoma game, quiz board game about genetics",,0
+0,https://github.com/byandell/PlantSysGen.git,Thailand Plant Systems Genetics Workshop 2017,,0
+0,https://github.com/joelalejandro/genocog.git,A game for cognotive neuroscience + genetics research.,,0
+0,https://github.com/conda-forge/r-genetics-feedstock.git,A conda-smithy repository for r-genetics.,,0
+0,https://github.com/abeltran1804/populationGenetics.git,To model a population genetics lab,,0
+0,https://github.com/SeanMitchell1994/CS307_SP2018.git,Mendelian Genetics Simulation for UAH CS307 SP2018,,0
+0,https://github.com/P0ntiff/wellspring-genetics.git,Static website developed for Wellspring Genetics,,0
+0,https://github.com/mapsm/cuantitativa.git,Course of quantitative genetics and ecology,,0
+0,https://github.com/encryption4genetics/HEGP.git,Source code for published article in Genetics,,0
+0,https://github.com/ckastall/population_genetics_class.git,Code and material for teaching population genetics,,0
+0,https://github.com/jessiepelosi/fernpopgen.git,Fern Population Genetics Meta Analysis and Review ,,0
+0,https://github.com/javadtavakoli/TSP_GA.git,Traveling saleman problem with genetics algorithm,,0
+0,https://github.com/aaannndddyyy/libgenes.git,Genetics simulation for artificial life simulations,,0
+0,https://github.com/xflicsu/iGEG.git,Integrated analysis of genetics and epigenetics information.,,0
+0,https://github.com/gitpan/Genetics.git,Read-only release history for Genetics,,0
+0,https://github.com/grunwaldlab/poppr-shiny.git,A shiny app for population genetics.,,0
+0,https://github.com/Neol-d2022/OpenSim-GA.git,Genetics Algorithm for routing in OpenSim,,0
+0,https://github.com/HoogleyBoogley/hexadecimal-heredity-coding-string.git,Digital genetics simulation based on hexadecimal,,0
+0,https://github.com/stigpaulsberg/Genome-4.git,My repo for my genetics class.,,0
+0,https://github.com/andremrsantos/htspop.git,High-Troughput Sequecing Population Genetics Statistic Functions,,0
+0,https://github.com/nibscbioinformatics/humgen.git,Standard Pipeline for Human Genetics Analyses,,0
+0,https://github.com/jfbrumley/Emarm-Genetics.git,Repository for Etheostoma marmorpinnum population genetics study,,0
+0,https://github.com/HuffordLab/Biol462.git,Course Repository for Biology 462: Evolutionary Genetics,,0
+0,https://github.com/Compliance-Mods/genetics.git,Official Genetics Reborn Faithful Resource Pack,"genetics,1-7-10,1-12-2",0
+0,https://github.com/arose13/YorkU-PopulationGenetics.git,Assignments and other Randoms for population genetics,,0
+0,https://github.com/derik-cg/genpop.git,r files for simulations in population genetics,,0
+0,https://github.com/ECGen/ComGenR.git,Tools for community genetics analyses using R. ,,0
+0,https://github.com/mhalagan/mhcpop.git,Population genetics scripts for the MHC,,0
+0,https://github.com/theandyb/smaug-smake.git,Reproduce smaug-genetics analysis using snakemake,,0
+0,https://github.com/amigo2/gupo.git,"Genetics Application from Universidad Pablo Olavide, Seville.",,0
+0,https://github.com/umollu/status-crops.git,Farm Status Effect Crops with Genetics™,,0
+0,https://github.com/hakyimlab/cancer-genetics-genomics.git,Course in cancer genetics and genomics,,0
+0,https://github.com/agepere/Draw-my-graph.git,Coloring a custom graph with genetics algorithm,,0
+0,https://github.com/amkusmec/QGenTools.git,Efficient implementations of common quantitative genetics calculations,,0
+0,https://github.com/palm86/typogenetics.git,"{""Hofstadter's typographical genetics in Elixir""}",,0
+0,https://github.com/Razellion/GA-DT.git,Genetics Algorithm Decision Tree (GA for Learning),,0
+0,https://github.com/Jeremy37/otg.git,Miscellaneous scripts used with OT genetics,,0
+0,https://github.com/statgen-esalq/StatGenESALQ_App.git,Shiny App for Statistical Genetics analysis.,,0
+0,https://github.com/iamkknot/rapwithga.git,Redundancy Allocation Problem With Genetics Algorithm,,0
+0,https://github.com/ASankaran/GeneticsProjectSite.git,Repository for Bio Honors Genetics Project,,0
+0,https://github.com/timflutre/hypred.git,Simulation of Genomic Data in Applied Genetics,,0
+0,https://github.com/grunwaldlab/popgen_review_examples.git,Examples for population genetics review manuscript,,0
+0,https://github.com/asulovar/1000G_Selection_Candidates.git,"Sulovari et al., Human Genetics (2017)",,0
+0,https://github.com/jamesjcai/PGEToolbox.git,PGEToolbox: Matlab toolbox for population genetics,"population-genetics,matlab,polymorphism,evolution,toolbox",0
+0,https://github.com/arlinkeo/pd_scn.git,Genetics within structural covariance networks of PD,,0
+0,https://github.com/brijeshpanara24/Flappy-Bird.git,Flabby bird solution using genetics hybridization.,,0
+0,https://github.com/sjspielman/evolfoRces.git,Simulate population genetics simulations for the classroom,"r,class,shinyapp",0
+0,https://github.com/citlimpens/Statistical-genetics-MS.git,Statistical genetics Master course Assignments and exercises,,0
+0,https://github.com/david-goad/paspalum-hybridization.git,scripts used in paspalum population genetics paper,,0
+0,https://github.com/Brain-Imaging-Genetics/img-gen-phen-simulations.git,"Simulations for Open, Reproducible Imaging Genetics Neuroscience ","simulations,neuroimaging-analysis,bioinformatics",0
+0,https://github.com/saona-raimundo/coalescence.git,Coalescent processes simualtion used in population genetics.,,0
+0,https://github.com/3than0ls/genotypic.git,A Mendelian genetics offspring genotype calculator,,0
+0,https://github.com/damianbourne/BIOL830_Tutorial.git,Tutorial for BIOL830 Population and Ecological Genetics ,,0
+0,https://github.com/anchamber/genetics-api.git,API Definitions for the genetics servers,,0
+0,https://github.com/jamesjcai/PGEToolbox.git,PGEToolbox: Matlab toolbox for population genetics,"population-genetics,matlab,polymorphism,evolution,toolbox",0
+0,https://github.com/grunwaldlab/popgen_review_examples.git,Examples for population genetics review manuscript,,0
+0,https://github.com/asulovar/1000G_Selection_Candidates.git,"Sulovari et al., Human Genetics (2017)",,0
+0,https://github.com/sjspielman/evolfoRces.git,Simulate population genetics simulations for the classroom,"r,class,shinyapp",0
+0,https://github.com/brijeshpanara24/Flappy-Bird.git,Flabby bird solution using genetics hybridization.,,0
+0,https://github.com/arlinkeo/pd_scn.git,Genetics within structural covariance networks of PD,,0
+0,https://github.com/saona-raimundo/coalescence.git,Coalescent processes simualtion used in population genetics.,,0
+0,https://github.com/david-goad/paspalum-hybridization.git,scripts used in paspalum population genetics paper,,0
+0,https://github.com/Brain-Imaging-Genetics/img-gen-phen-simulations.git,"Simulations for Open, Reproducible Imaging Genetics Neuroscience ","simulations,neuroimaging-analysis,bioinformatics",0
+0,https://github.com/citlimpens/Statistical-genetics-MS.git,Statistical genetics Master course Assignments and exercises,,0
+0,https://github.com/3than0ls/genotypic.git,A Mendelian genetics offspring genotype calculator,,0
+0,https://github.com/damianbourne/BIOL830_Tutorial.git,Tutorial for BIOL830 Population and Ecological Genetics ,,0
+0,https://github.com/anchamber/genetics-api.git,API Definitions for the genetics servers,,0
+0,https://github.com/Jeroen-Matthijssens/geneticstest.git,An attempt to a simple genetics simulation.,,0
+0,https://github.com/xiaoran831213/sage.git,Study of Addiction: Genetics and Environment (SAGE),,0
+0,https://github.com/byandell/thailand.git,Thailand Plant Systems Genetics Workshop 2017,,0
+0,https://github.com/adamStawarek/Studies.Algorithms.Genetics.git,Generation of fibonacci sequence using genetics algroithm,,0
+0,https://github.com/QTL-rocks/CardGame.git,playing a card game with quantitative genetics,,0
+0,https://github.com/park-brian/genetics.git,Introduction to Probability and Statistics in Genetics,,0
+0,https://github.com/achubaty/popgen.git,interactive population genetics models in R,,0
+0,https://github.com/charlotte-ngs/QgenDemoSwa.git,Demo Shiny Web App in Quantitative Genetics,,0
+0,https://github.com/mfriscia7/CS124.git,Project from UCLA CS124 (Computational Genetics),,0
+0,https://github.com/maratsarbasov/MendellianGenetics.git,"{""Simulating Mendel's genetics. Written in Haskell.""}",,0
+0,https://github.com/rcorty/TSG.git,talk for the Triangle Statistical Genetics meeting,,0
+0,https://github.com/genostats/GPop.git,Population Genetics Analysis including mating analysis,,0
+0,https://github.com/frankji/Neural-Nets.git,Neural Nets on Neuroimaging and Genetics,,0
+0,https://github.com/kaybenn21/7-Life-Science.git,Exploring for a genetics project for students,,0
+0,https://github.com/augusto-garcia/QuantGen-Intro.git,Introduction to Quantitative Genetics (Lych-Walsh book),,0
+0,https://github.com/jrober84/population_genetics.git,population genetics analysis tools and scripts,,0
+0,https://github.com/JayZX535/wildcraft.git,Advanced animals and genetics in Minecraft,,0
+0,https://github.com/nibscbioinformatics/humgen.git,Standard Pipeline for Human Genetics Analyses,,0
+0,https://github.com/jfbrumley/Emarm-Genetics.git,Repository for Etheostoma marmorpinnum population genetics study,,0
+0,https://github.com/HuffordLab/Biol462.git,Course Repository for Biology 462: Evolutionary Genetics,,0
+0,https://github.com/Compliance-Mods/genetics.git,Official Genetics Reborn Faithful Resource Pack,"genetics,1-7-10,1-12-2",0
+0,https://github.com/vasiliosz/clingen-shared.git,Shared code snippets for Clinical Genetics,,0
+0,https://github.com/druvus/SWGA-perl.git,Perl scripts from Leichty & Brisson Genetics paper,,0
+0,https://github.com/AhmedMajied/knapsack.git,solving Knapsack problem with Genetics Algorithms,,0
+0,https://github.com/TonyDeStefano/A-Legacy-Genetics.git,Custom Template for A Legacy Genetics,,0
+0,https://github.com/asperlea/GenotypeImputation.git,Final Project for CS M224: Computational Genetics,,0
+0,https://github.com/fboehm/imgc2018poster.git,materials for International Mammalian Genetics Conference 2018,,0
+0,https://github.com/rafal-k4/TextFinder.git,Finding target text using genetics algorithm,,0
+0,https://github.com/MaxLynx/GenSeq-Frontend.git,Project on genetics - front-end client part,,0
+0,https://github.com/jmpmulter/coolon-pipeline.git,Repository for Coolon lab genetics project pipeline,,0
+0,https://github.com/tehlinger/pedogene.git,An educational Elm app to teach genetics.,,0
+0,https://github.com/IsThisNameUsed/traveling-salesman-problem.git,Traveling salesman problem resolved with genetics algorithm,,0
+0,https://github.com/sohng-zhao/samples.git,Samples database designed for viral genetics studies,,0
+0,https://github.com/flaxmans/fffits.git,fast forward-in-time population genetics simulator,,0
+0,https://github.com/Wolflab/AFLPs.git,Processing AFLP data for population genetics analysis,,0
+0,https://github.com/parlar/calls2xls.git,Perl scripts for the genetics clinic,,0
+0,https://github.com/adamsonj/haploid.git,A Numerical Library for Haploid Genetics,,0
+0,https://github.com/tiagoantao/metis-stats.git,A JavaScript library for Population Genetics,,0
+0,https://github.com/GregaVrbancic/genetics-algorithm-or.git,Genetics Algorithm project for Operational Research course,,0
+0,https://github.com/p1981thompson/candice_genetics.git,phenotypes scores for candice genetics analysis,,0
+0,https://github.com/jlgarciasanchez/genetic-rbs.git,genetics algorithms using a rule based system.,,0
+0,https://github.com/Alakuloinen/vermarium.git,A simple visual biology/genetics/ecosystems model,,0
+0,https://github.com/jacobtennessen/GOPOPS.git,Genetics of Pools of Population Sequences,,0
+0,https://github.com/biogk/inducible-defense.git,A mathematical model of population genetics,,0
+0,https://github.com/lucasnell/quantgenCR.git,Quantitative genetics for consumer-resource model,,0
+0,https://github.com/phazel/genetics.git,Playing. Domain modelling fun with genetics concepts.,,0
+0,https://github.com/Ahmedibrahim66/AI-Genetics-Project.git,AI project/genetics for projects-examiners distribution ,,0
+0,https://github.com/St3451/Population_Genetics.git,Final project of Population Genetics course.,,0
+0,https://github.com/shuliu-uva/imaging_genetics_analysis.git,Code for imaging genetics in UK biobank,,0
+0,https://github.com/krzysztof-magosa/antibody.git,Genetics algorithms library for Python 3.x,"genetics,dna,chromosome,library",0
+0,https://github.com/SystemsGeneticsSG/systems-genetics.git,Home page of the systems genetics group,,0
+0,https://github.com/wased89/KerbalGenetics.git,Kerbal Genetics in training for the Kerbolympics,,0
+0,https://github.com/Sunken-City/2013-Blob-Deluxe.git,An attempt at genetics and Unity 2D,,0
+0,https://github.com/hihixuyang/GeneticsTrees.git,Evolving decision trees with genetics algorithms,,0
+0,https://github.com/Funkyojo/myExampleRepo.git,For Stanford DB/ Genetics training camp 2016,,0
+0,https://github.com/mccannj9/PopPyGen.git,Just some tools for learning population genetics,,0
+0,https://github.com/msincsinc/evolve.git,"Fun expirementation with evolution, genetics and equilibrium",,0
+0,https://github.com/yudizhangzyd/ISU-StatGen.git,Website for Statistical Genetics Group at ISU,,0
+0,https://github.com/maxholloway/corona-EGO.git,"Research on coronavirus Evolution, Genetics, and Origin.",,0
+0,https://github.com/shreya-kulkarni/Bioinformatics.git,Interface for computational tools in genetics,,0
+0,https://github.com/bmodi/svarbnetics.git,A JavaScript library for genetics modelling,,0
+0,https://github.com/opentargets/genetics-pubs.git,Analysis code for Open Targets Genetics publications,,0
+0,https://github.com/kbolton-lab/bolton_NG_CH.git,Code for Kelly Bolton Nature Genetics Paper,,0
+0,https://github.com/R-Computing-Lab/BGMisc.git,Contains many functions useful for behavior genetics,package,0
+0,https://github.com/audoushka/AUD.git,Statistical Genetics and Genomics applied to ain,,0
+0,https://github.com/JellePiepenbrock/genetics-ml.git,Repository for papers about Genetics (including related and subfields) and the application of machine learning techniques within genetics,,0
+0,https://github.com/RonakSumbaly/Genotype-Imputation.git,Statistical inference of unobserved genotypes - CM224 Computational Genetics Project,,0
+0,https://github.com/codefromabove/GeneticImage.git,[WIP] Swfit adaptation of http://chriscummins.cc/s/genetics/,,0
+0,https://github.com/JasonJWilliamsNY/tagc2016.git,CyVerse Demo for The Allied Genetics Conference 2016,,0
+0,https://github.com/thousandroses/geneticsdiy.git,Genetics DIY project in python/aws/docker/deploit,,0
+0,https://github.com/AkhilendraGadde/neuralevoflappybird.git,NeuroEvolution Flappy Bird game based on Genetics Algorithm,,0
+0,https://github.com/sudorook/ecev-356.git,Projects and problem sets for Principles of Population Genetics I.,,0
+0,https://github.com/WarrenDavidAnderson/genomeAnalysis.git,Basic analysis methods for genetics and genomics data analysis,,0
+0,https://github.com/HashCode01/Rosalind_BioInf.git,Code Solutions for Genetics Algorithms and problems listed on Rosalind,,0
+0,https://github.com/A-Magdy7/KnapSack.git,A solution of the Knap-Sack Problem using Genetics Algorithm.,,0
+0,https://github.com/sam0per/MAR105_bioinformatics.git,First year undergraduate course on genetics and phylogeny in Rstudio,,0
+0,https://github.com/tmajaria/dockerfiles.git,"Various docker files, some genetics-focused, some not.",,0
+0,https://github.com/wjdavis90/Partridge_project.git,"Species tree inference, divergence time estimates, demographics, and population genetics",,0
+0,https://github.com/SheepGenetics/sheepgenetics-api-demo.git,Demonstration files for the Sheep Genetics RESTful API,,0
+0,https://github.com/mdjbru-R-packages/spipR.git,R interface to the Spip software for population genetics simulations,,0
+0,https://github.com/christianparobek/pfCongo.git,Looking for interesting genetics among Pf isolates from Congo,,0
+0,https://github.com/ShawnClake/phpAlgorithms.git,"Advanced PHP algorithms including AI, Machine Learning, Genetics, and Modularity",,0
+0,https://github.com/DanilaFe/genetics.git,"{""Github Pages for a genetics simulation's web version.""}",,0
+0,https://github.com/rkapr/GENE689_603.git,Repository for Course Genetics 689 - 603: Genome Assembly,,0
+0,https://github.com/jyanglab/JYang-Lab-tutorial.git,J. Yang Lab tutorial for quantitative genetics and statistical genomics,"lab,tutorial",0
+0,https://github.com/Kalirad/Snowball-in-pops.git,A individual-based model to study the genetics of speciation.,,0
+0,https://github.com/perezja/Commingling.git,Computational genetics project/presentation for M21-621 @ Washington University,,0
+0,https://github.com/invertdna/KellyLabProtocols.git,Protocols for genetics work in the Kelly Lab,,0
+0,https://github.com/GenomicEpidemiology-Lab/Statistical-Genetics-Code.git,Some codes frequently used for statistical genetics analysis,,0
+0,https://github.com/connor-j-jordan/popgen_scripts.git,A collection of shell scripts for population genetics pipelines.,,0
+0,https://github.com/MrKriss/popGen-lib.git,Common library of useful stuff for population genetics analysis.,,0
+0,https://github.com/squirrelfriend/MinecraftNucleicAcid.git,A modification for minecraft that adds custom genetics.,,0
+0,https://github.com/tgbates/gafhmod.git,"Genetics, Aging, Family, and Health Mod for Rome: Total War",,0
+0,https://github.com/LNYApps/GeneticsAndEvolution.git,Android app for genetics and evolution problem calculations,,0
+0,https://github.com/andrewparkermorgan/genodb.git,R interface to UNC Systems Genetics genotype databases,,0
+0,https://github.com/fog-bank/biocs.git,Evolutionary genetics library for .NET 5 with C#,"bioinformatics,dotnet-library",0
+0,https://github.com/andrewparkermorgan/mouser.git,Colour schemes and constants related to mouse genetics,,0
+0,https://github.com/deengames-prototypes/cataclysm.git,ASCII open-source monster-collecting roguelike with genetics,,0
+0,https://github.com/aidanwardman/Evonetics.git,A multiplayer Evolution and Genetics based combat game.,,0
+0,https://github.com/Fastbrew/Nidus-java.git,"Nidus is a simple game, inspired by genetics.",,0
+0,https://github.com/robinsonduffy/alien_dna.git,A game involving Mendelian genetics (how fun is that!!!!!!!),,0
+0,https://github.com/ddavis3739/population-genetics-sample-graphs.git,R code for visualizing species data from population genetics work,,0
+0,https://github.com/marcduby/GeneticsChromatinPredictService.git,REST service for genetics chromatin accessibility Pytorch models,,0
+0,https://github.com/SKholkin/EGA.git,Evolutionary-Genetics-Algorithms repository solving TSP(Travelling Salesman Problem),,0
+0,https://github.com/liangyy/covid19-wicd-genetics.git,What I can do with covid-19 genetics?,,0
+0,https://github.com/ARTonkin/MallardGenetics.git,Statistical consulting for research on mallard duck genetics.,,0
+0,https://github.com/JesseGarcia562/PopGenUE4.git,Utilizing interactive real time 3D technology to study population genetics.,,0
+0,https://github.com/JesseGarcia562/PopGenUE4.git,Utilizing interactive real time 3D technology to study population genetics.,,0
+0,https://github.com/jdidion/geneticsFormats.git,R functions for working with different genetics formats. (beta),,0
+0,https://github.com/adriacabeza/ProjectPRO2.git,Pràctica de PRO2 curs 2016-2017. Experiments genètics al laboratori.,,0
+0,https://github.com/RachelCox25/CodeOn.git,CodeOn - teaching kids about genetics and how to code,,0
+0,https://github.com/ksamuk/tidypop.git,An optimistic vision of population genetics in the tidyverse,,0
+0,https://github.com/solimy/BioloSnake.git,C++ snake implementation coupling my MLP implementation and basic genetics,,0
+0,https://github.com/douglasyao/CS124.git,Final project for Computer Science 124 (Spring 2016) Computational Genetics,,0
+0,https://github.com/dksfoster/Cancer-Genetics.git,GitHub repository for AWS CodeStar Python web service cancer-genetics.,,0
+0,https://github.com/vosslab/genetics-problems.git,Python Scripts for Generating Genetics Homework/Quiz problems,"blood-types,hla-genotype,abo-blood-group,blackboard,genetics,generating-genetics-homework,inheritance,mendelian-genetics,quiz,homework-problem",0
+0,https://github.com/gianmarcomigno/Item-nonresponse.git,Studying the non-responders behaviour by using genetics,,0
+0,https://github.com/thehyve/otg_gql_api.git,Python scripts to query the OpenTargets Genetics graphql API,,0
+0,https://github.com/gwcbi/PopGen.git,Resources and possible homeworks for a Population Genetics course,,0
+0,https://github.com/cellgeni/imaging-experiments-tracker.git,A service for tracking imaging experiments in Cellular Genetics Programme,,0
+0,https://github.com/sahwa/hellenthal-group.git,website for the Hellenthal group at UCL Genetics Institute,,0
+0,https://github.com/darigovresearch/Wikipedia-Glossary-of-Genetics-Flashcards.git,Repository containing Anki Flashcards & source code to revise Genetics terms,,0
+0,https://github.com/QNeural/r_Learning.git,Learning and working through r to apply to genetics,,0
+0,https://github.com/summer4096/genome.git,Some basic pseudo-genetics for a new project of mine,,0
+0,https://github.com/opokue/Spectral_DCM.git,Code for Spectral DCM: Relating brain Connectivity to Genetics,,0
+0,https://github.com/SGBC/anigalaxy.git,Developing a local Galaxy implementation for Animal science and genetics,,0
+0,https://github.com/MarkRWhite/RustCrossbreeder.git,A plant genetics crossbreeder for the online game Rust,,0
+0,https://github.com/kojipet/genebank.git,"{""a place to store your koji's genetics""}",,0
+0,https://github.com/vgnick/EEB5300.git,Files for collaborative project on northern sandlance population genetics,,0
+0,https://github.com/rapturous/popgenutils.git,Utilities for population genetics analyses related to the DFCP,,0
+0,https://github.com/personjerry/genomancer.git,A randomly generated RPG with genetics/diet growth,,0
+0,https://github.com/matthewkling/genescape.git,An R package for manipulating landscape genetics datasets,,0
+0,https://github.com/morota/HUJI2019.git,Bridging the Gap: From Phenomics to Functional Genetics Workshop ,,0
+0,https://github.com/dynadiv/trainings-TS.git,MANIPULATION OF NGS DATA FOR GENOMIC AND POPULATION GENETICS ANALYSES,,0
+0,https://github.com/Reiningecho90/Py-Genetics.git,A project focused on helping visualize genetics and DNA,,0
+0,https://github.com/jphruska/pine_oak_central_america.git,population genetics and demography of Central American pine oak communities,,0
+0,https://github.com/mxd1288/FunHe_Genomics.git,Repository for fundulus heteroclitus genetics scripts and data.,,0
