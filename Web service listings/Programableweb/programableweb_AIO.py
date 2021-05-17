@@ -23,6 +23,7 @@ import concurrent.futures
 import requests
 import requests_random_user_agent
 from bs4 import BeautifulSoup
+import threading
 
 # List url processing
 
@@ -105,19 +106,21 @@ class ProgWeb:
             #urls_splited = list(filter(None, urls_splited))
 
             tasks = []
-
-            for split in range(len(urls_splited)):
-                with concurrent.futures.ThreadPoolExecutor(numWorkers) as executor:
-                    tasks.append(executor.submit(
-                        ProgWeb._download_list, urls_splited[split]))
+            
+            with concurrent.futures.ThreadPoolExecutor(len(urls_splited)) as executor:
+                for split in range(len(urls_splited)):
                     print("task launched")
-            # Union
-            for result in tasks:
-                df_temp = df_temp.append(result.result())
+                    tasks.append(executor.submit(ProgWeb._download_list, urls_splited[split]))
+                        
+                # Union
+                for result in tasks:
+                    df_temp = df_temp.append(result.result())
 
             # Export the metacsv for handle updates
             print("List " + listName + " generated at: ", str(FILES_PATH))
 
+            df_temp = df_temp.reset_index(drop=True)
+            
             df_temp.to_csv(str(FILES_PATH) + '/' + listName + '_' +
                            datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
 
@@ -135,14 +138,15 @@ class ProgWeb:
         :param batchName: str
         :return DataFrame:
         """
-
+        print("_download_meta_url")
         df_temp = df_temp.reset_index(drop=True)
 
         for i in range(len(df_temp)):
             
             meta_url = df_temp['Meta_Url'][i]
             
-            time.sleep(1) # sleep random?
+            
+            time.sleep(1) # sleep random?    
             rq = requests.get(meta_url)
 
             while rq.status_code == 429:  # Too many rq
@@ -397,8 +401,7 @@ class ProgWeb:
         """
     
         df_temp = pd.DataFrame()
-        tasks = []
-
+       
         # Split dataframe
         dt_splited = np.array_split(df, numSplits)  # max workers
 
@@ -407,18 +410,20 @@ class ProgWeb:
 
         # Batch folder to store the splits
         Utils.create_relative_folder(batchName)
-
-        for split in range(len(dt_splited)):           
-           
-            with concurrent.futures.ThreadPoolExecutor(len(dt_splited)) as executor:
-                # Download splited dataframes with jobs
-                tasks.append(executor.submit(
-                    ProgWeb._download_meta_url, dt_splited[split], batchName))
+        
+        print(len(dt_splited))
+        
+        tasks = []
+        
+        with concurrent.futures.ThreadPoolExecutor(len(dt_splited)) as executor:
+            # Download splited dataframes with jobs
+            for split in range(len(dt_splited)):   
                 print("task launched")
-                
-        # Union
-        for result in tasks:
-            df_temp = df_temp.append(result.result())
+                tasks.append(executor.submit(ProgWeb._download_meta_url, dt_splited[split], batchName))
+
+            # Union
+            for result in tasks:
+                df_temp = df_temp.append(result.result())
 
         df_temp = df_temp.reset_index(drop=True)
 
@@ -543,6 +548,7 @@ def download_data(dataType, url, numPages, numWorkers, listName, batchName, forc
         df_temp['Company'] = ""
         df_temp['App Type'] = ""
 
+    print("download_meta_url")
     df_temp = ProgWeb.download_meta_url(
         df_temp, numWorkers, dataType, batchName)
 
@@ -590,26 +596,29 @@ TODO?: handle 429 with proxys?
 
 """
 
-print("\nCODE")
-df_frame = download_data(CODE_TYPE, CODE_URL, 6, 6,
-                         CODE_LIST, CODE_BATCH, False)
-# time.sleep(3600)  # 1h
-
-# print("\nSDK")
-# df_frame = download_data(CODE_TYPE, CODE_URL, CODE_PAGES, 5,
-#                          CODE_LIST, CODE_BATCH, False)
-# time.sleep(3600)  # 1h
-
-# print("\nLIB")
-# df_frame = download_data(LIB_TYPE, LIB_URL, LIB_PAGES, 5,
-#                          LIB_LIST, LIB_BATCH, False)
-# time.sleep(3600)  # 1h
-
 # print("\nFRAME")
-# df_frame = download_data(FRAME_TYPE, FRAME_URL, FRAME_PAGES, 5,
+# df_frame = download_data(FRAME_TYPE, FRAME_URL, FRAME_PAGES, 20,
 #                          FRAME_LIST, FRAME_BATCH, False)
 # time.sleep(3600)  # 1h
 
+# print("\nLIB")
+# df_frame = download_data(LIB_TYPE, LIB_URL, LIB_PAGES, 20,
+#                          LIB_LIST, LIB_BATCH, False)
+# time.sleep(3600)  # 1h
+
+# print("\nSDK")
+# df_frame = download_data(SDK_TYPE, SDK_URL, SDK_PAGES, 20,
+#                          SDK_LIST, SDK_BATCH, True)
+# time.sleep(3600)  # 1h
+
 # print("\nMASH")
-# df_frame = download_data(MASH_TYPE, MASH_URL, MASH_PAGES, 5,
+# df_frame = download_data(MASH_TYPE, MASH_URL, MASH_PAGES, 20,
 #                          MASH_LIST, MASH_BATCH, False)
+# time.sleep(3600) 
+
+# print("\nCODE")
+# df_frame = download_data(CODE_TYPE, CODE_URL, CODE_PAGES, 20,
+#                          CODE_LIST, CODE_BATCH, False)
+
+# print("\nFin")
+
