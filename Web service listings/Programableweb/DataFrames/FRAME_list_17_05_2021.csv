@@ -1,0 +1,556 @@
+,Description,Published,Meta_Url
+0,"Spring is a powerful open source, loosely coupled, light weight, java based application framework...",02.19.2021,https://www.programmableweb.com/framework/spring-framework
+1,ComposerJS is a framework for building client and server RESTful application programming interfaces...,06.04.2020,https://www.programmableweb.com/framework/composerjs-framework
+2,"The Hanami Ruby Framework is a minimal, extremely fast, and lightweight framework for...",03.05.2020,https://www.programmableweb.com/framework/hanami
+3,The Laravel PHP Framework in version 7 has been released. New features include: 03.05.2020,,https://www.programmableweb.com/framework/laravel
+4,Kivy Python enables cross-platform OpenGL ES 2 functionalities in multi touch applications. The...,01.23.2020,https://www.programmableweb.com/framework/kivy-python-framework
+5,"The FastAPI Python Framework builds APIs. With the key features, developers could develop faster,...",05.10.2019,https://www.programmableweb.com/framework/fastapi-python-framework
+6,"Jose Framework means Javascript Object Signing and Encryption. With the API, developers can...",05.02.2019,https://www.programmableweb.com/framework/jose-javascript-framework
+7,"The Ravel Node.js Framework assists in application development. It provides architecture, API...",05.02.2019,https://www.programmableweb.com/framework/ravel-nodejs-framework
+8,"AMP is a JavaScript web component framework to create user-first; websites, stories, ads and emails...",05.02.2019,https://www.programmableweb.com/framework/google-amp-javascript-framework
+9,"The Planaria Framework allows you to build a server-less application, and run a specialized...",03.25.2019,https://www.programmableweb.com/framework/planaria-javascript-framework
+10,The Yabeda Ruby Framework is a Ruby instrumentation framework that makes it easier for developers...,03.15.2019,https://www.programmableweb.com/framework/yabeda-ruby-framework
+11,"Chancla.io - Hyper Agile API Development Platform With Chancla.io, software developers may rapidly...",02.07.2019,https://www.programmableweb.com/framework/chanclaio-java-framework
+12,Hapi.js is a configuration-centric framework that allows developers to reuse application logic in a...,01.08.2019,https://www.programmableweb.com/framework/hapijs
+13,The Astera Centerprise .NET Framework assists in data integration for business applications....,01.08.2019,https://www.programmableweb.com/framework/astera-centerprise-net-framework
+14,Webix Jet is a micro framework for Webix UI-based single-page applications that work with big...,12.13.2018,https://www.programmableweb.com/framework/webix-jet
+15,The dotConnect ADO.NET Data Providers Framework offers a data connectivity service designed to...,11.27.2018,https://www.programmableweb.com/framework/dotconnect-adonet-data-providers-framework
+16,The ThinkGeo .NET Framework allows developers to build their own .NET mapping applications for...,10.17.2018,https://www.programmableweb.com/framework/thinkgeo-net-framework
+17,"The Ghost Division OSINT Python Framework performs various techniques on Companies, People, Phone...",09.24.2018,https://www.programmableweb.com/framework/ghost-division-osint-python-framework
+18,Facebook React 360 JavaScript Framework allows you to create interactive browser-based 360˚...,08.27.2018,https://www.programmableweb.com/framework/facebook-react-360-javascript-framework
+19,The CFPB Capital CoffeeScript Framework provides a CoffeScript interface for the Consumer Financial...,08.27.2018,https://www.programmableweb.com/framework/cfpb-capital-coffeescript-framework
+20,"The RadiJS JavaScript Framework is a high-speed, minimal application development interface. The...",08.27.2018,https://www.programmableweb.com/framework/radijs-javascript-framework
+21,The LabStack Echo Go Framework provides a high-performance golang platform. The framework supports...,08.27.2018,https://www.programmableweb.com/framework/labstack-echo-go-framework
+22,The Pure CSS Framework features a modular CSS minimal interface for web applications. Its modules...,08.27.2018,https://www.programmableweb.com/framework/pure-css-framework
+23,The Apache Weex VueJS Framework is a platform for constructing cross-platform user interfaces for...,08.27.2018,https://www.programmableweb.com/framework/apache-weex-javascript-framework
+24,The Ulkit JavaScript Framework provides lightweight and modular front-end interface for...,08.27.2018,https://www.programmableweb.com/framework/ulkit-javascript-framework
+25,Magic Software's Magic xpa Web Application Framework allows you to easily create apps with...,08.27.2018,https://www.programmableweb.com/framework/magic-xpa-web-application-framework
+26,"This chatbot creating framework provided by Amio reacts to Webhooks, and can be customized with NLP...",08.01.2018,https://www.programmableweb.com/framework/amioio-chatbot-builder-javascript-framework
+27,"The Just-API Node.js Framework serves as an API tester. It supports REST, GraphQL, and HTTP-based...",08.01.2018,https://www.programmableweb.com/framework/just-api-nodejs-framework
+28,The Jovo Node.js Framework assists in building cross-platform Voice Apps for Amazon Alexa and...,08.01.2018,https://www.programmableweb.com/framework/jovo-nodejs-framework
+29,"NativeScript, by Progress Software, allows you to build cross-platform, native iOS and Android apps...",08.01.2018,https://www.programmableweb.com/framework/nativescript
+30,"The SpriteJS Framework allows creating sprites for animation and video games. Tested on WebKit,...",08.01.2018,https://www.programmableweb.com/framework/spritejs-framework
+31,"The ZURB Foundation JS Framework aims to design responsive websites, applications, and emails. It...",08.01.2018,https://www.programmableweb.com/framework/zurb-foundation-js-framework
+32,"The Bootstrap JS Framework helps to build responsive mobile sites, thinking in scalable CSS format...",08.01.2018,https://www.programmableweb.com/framework/bootstrap-js-framework
+33,The Aegis Go Framework is a serverless Golang deploy tool and framework for AWS Lambda. See...,08.01.2018,https://www.programmableweb.com/framework/aegis-go-framework
+34,Graphcool is an open-source backend development framework to develop and deploy production-ready...,08.01.2018,https://www.programmableweb.com/framework/graphcool
+35,"The Baliba PHP Framework uses arrays, aiming to simplify API documentation writing. Instructions...",08.01.2018,https://www.programmableweb.com/framework/baliba-php-framework
+36,The Orienteer Java Framework is an open source business application platform with flexible and...,08.01.2018,https://www.programmableweb.com/framework/orienteer-java-framework
+37,"The Fanout.io Python Framework is a hybrid reverse proxy and message broker, pushing data to...",08.01.2018,https://www.programmableweb.com/framework/fanoutio-python-framework
+38,The gSOAP C++ Framework is a toolkit of portable C and C++ software to develop XML Web services...,08.01.2018,https://www.programmableweb.com/framework/gsoap-c-framework
+39,iOS Framework and Android Library to send logs to the Bugfender cloud storage with a single API...,06.08.2018,https://www.programmableweb.com/framework/bugfender-android-framework
+40,The Jersey Framework aims to simplify RESTful services and client developments. With Jersey...,05.07.2018,https://www.programmableweb.com/framework/jersey-java-framework
+41,The WavesDevKit JavaScript Framework supports interaction with the Waves Platform. Use the...,05.07.2018,https://www.programmableweb.com/framework/wavesdevkit-javascript-framework
+42,The ASP.Net Boilerplate Framework assists to develop web application targeting localization...,05.07.2018,https://www.programmableweb.com/framework/aspnet-boilerplate-framework
+43,"The i18next Framework written in JavaScript provides internationalization, localization, and...",05.07.2018,https://www.programmableweb.com/framework/i18next-javascript
+44,A-Frame Virtual Reality JavaScript Framework allows you to build virtual reality (VR) experiences....,05.07.2018,https://www.programmableweb.com/framework/frame-javascript-virtual-reality-framework
+45,"The Sibers PHP Framework helps to create API projects, allowing developers to design data models,...",05.07.2018,https://www.programmableweb.com/framework/sibers-php-framework
+46,The Uber LumaGL JavaScript Framework is a browser-based data visualization solution. Its lumaGL-...,05.07.2018,https://www.programmableweb.com/framework/uber-lumagl-javascript-framework
+47,The MUI Material Design CSS Framework is a lightweight builder platform that prescribes to Google’s...,05.07.2018,https://www.programmableweb.com/framework/mui-material-design-css-framework
+48,The Grd Flexbox CSS Framework by Shogo Sensui allows you to create CSS applications using Flexbox.,05.07.2018,https://www.programmableweb.com/framework/grd-flexbox-css-framework-shogo-sensui
+49,The lightweight Mobi Mobile CSS Framework provides a flexible platform for building web...,05.07.2018,https://www.programmableweb.com/framework/mobi-mobile-css-framework
+0,The Milligram CSS Framework supports the development of design applications. Its design simplifies...,05.07.2018,https://www.programmableweb.com/framework/milligram-css-framework
+1,The Spectre CSS Framework by Yan Zhu provides a simple platform for implementing CSS design...,05.07.2018,https://www.programmableweb.com/framework/spectre-css-framework-yan-zhu
+2,The Strapi NodeJS Content Management Framework simplifies the development of powerful CMS APIs. The...,05.07.2018,https://www.programmableweb.com/framework/strapi-content-management-nodejs-framework
+3,The Intercellular Cell JavaScript Framework is self-constructing web application. It is powered by...,05.07.2018,https://www.programmableweb.com/framework/intercellular-cell-javascript-framework
+4,The Nozzle React-Static JavaScript Framework allows you to construct applications using the React...,05.07.2018,https://www.programmableweb.com/framework/nozzle-react-static-javascript-framework
+5,"Use the Yoctol Bottender JavaScript Framework to develop cross-platform bots for Slack, Messenger,...",05.07.2018,https://www.programmableweb.com/framework/yoctol-bottender-javascript-framework
+6,"The Recon-ng Python Framework provides independent modules, database interaction, built in...",05.01.2018,https://www.programmableweb.com/framework/recon-ng-python-framework
+7,Socket.io is a NodeJS realtime framework server. Socket.IO is composed of two parts: a server that...,01.18.2018,https://www.programmableweb.com/framework/socket.io
+8,The Sunrise Shop Framework Java Sample Code by Commercetools provides a live demo to demonstrate...,01.18.2018,https://www.programmableweb.com/framework/sunrise-shop-framework-java-sample-code-commercetools
+9,The Betfair Cougar Java Framework by Betfair simplifies the development of network exposed service...,01.18.2018,https://www.programmableweb.com/framework/betfair-cougar-java-framework-betfair
+10,The Squarespace CSS Dossier Framework by Squarespace is a template for grid-style blogs. The...,01.18.2018,https://www.programmableweb.com/framework/squarespace-css-dossier-framework-squarespace
+11,Marley enables RESTful web services and applications. Marley consists of a simple Rack application...,01.18.2018,https://www.programmableweb.com/framework/herb-daily-marley-ruby-framework-herb-daily
+12,The BloodMagic Objective-C Framework by Railsware provides a platform for creating custom property...,01.18.2018,https://www.programmableweb.com/framework/bloodmagic-objective-c-framework-railsware
+13,The Javalin Java Framework serves the lightweight REST API. A getting started guide is available at...,01.18.2018,https://www.programmableweb.com/framework/javalin-java-framework
+14,The Javalin Kotlin Framework serves the lightweight REST API. An example is available at https://...,01.18.2018,https://www.programmableweb.com/framework/javalin-kotlin-framework
+15,Fastify is a fast and low overhead web framework for NodeJS. The Fastify NodeJS Framework provides...,01.18.2018,https://www.programmableweb.com/framework/fastify-nodejs-framework
+16,The Zeit JavaScript NextJS Framework is designed for server-rendered React apps. Setup requires npm...,01.18.2018,https://www.programmableweb.com/framework/zeit-javascript-nextjs-framework
+17,The Bulma CSS Framework by Jeremy Thomas is a CSS application development platform that is based on...,01.18.2018,https://www.programmableweb.com/framework/bulma-css-framework-jeremy-thomas
+18,The Tailwind CSS Framework is a utility-first platform for rapid UI development.,01.18.2018,https://www.programmableweb.com/framework/tailwind-css-framework
+19,The ZfrPusher PHP Zend Framework by Zfr is a module that is anchored on the ZfrPusher. The...,01.18.2018,https://www.programmableweb.com/framework/zfrpusher-zend-php-framework-zfr
+20,Alexia enables the creation of Amazon Echo skills using NodeJS. This framework handles Amazon Echo...,01.18.2018,https://www.programmableweb.com/framework/accenture-alexia-nodejs-framework-accenture
+21,"ReSTbasis is a REST web development framework based on W3C standards, and MVC architectural...",01.18.2018,https://www.programmableweb.com/framework/restbasis
+22,Ramaze offers a modular web application framework that features an MVC pattern out of the box. Ruby...,01.18.2018,https://www.programmableweb.com/framework/ramaze-ruby-framework-ramaze
+23,Volt offers a framework for building data rich web applications where Ruby code runs on both the...,01.18.2018,https://www.programmableweb.com/framework/volt-ruby-framework-volt
+24,Pakyow offers a progressive platform for building web applications with several features such as...,01.18.2018,https://www.programmableweb.com/framework/pakyow-ruby-framework-pakyow
+25,Trailblazer is a business logic framework with an object-oriented architecture. Trailblazer is a...,01.18.2018,https://www.programmableweb.com/framework/trailblazer-ruby-framework-trailblazer
+26,The Squarespace CSS Endeavor Framework by Squarespace features a hover-activated index gallery....,01.18.2018,https://www.programmableweb.com/framework/squarespace-css-endeavor-framework-squarespace
+27,The Squarespace CSS Doncab Framework by Squarespace provides unique gallery layouts for projects....,01.18.2018,https://www.programmableweb.com/framework/squarespace-css-doncab-framework-squarespace
+28,The Squarespace CSS Wright Framework by Squarespace is a multi-purpose template framework for...,01.18.2018,https://www.programmableweb.com/framework/squarespace-css-wright-framework-squarespace
+29,"The Squarespace CSS Bureau Framework by Squarespace features grid-based, magazine-style blog. Some...",01.18.2018,https://www.programmableweb.com/framework/squarespace-css-bureau-framework-squarespace
+30,The Atlassian Connect Spring Boot Java Framework by Atlassian allows developers to create Atlassian...,01.18.2018,https://www.programmableweb.com/framework/atlassian-connect-spring-boot-java-framework-atlassian
+31,The Atlassian Connect Express NodeJS Framework by Atlassian provides developers the tools for...,01.18.2018,https://www.programmableweb.com/framework/atlassian-connect-express-nodejs-framework-atlassian
+32,The ofxNDI C++ Framework by Lynn Jarvis is an addon that facilitates the conveyance of images over...,01.18.2018,https://www.programmableweb.com/framework/newtek-ofxndi-c-framework-lynn-jarvis
+33,The Phoenix Framework in Elixir language allows the creation of interactive experiences across...,06.16.2017,https://www.programmableweb.com/framework/phoenix
+34,The Meteor JavaScript Framework by Meteor helps to develop web and mobile applications. It uses a...,06.16.2017,https://www.programmableweb.com/framework/meteor-javascript-framework-meteor
+35,This is a Scala Backtesting and Live Trading Framework built on top of Akka/Spray. The framework...,06.16.2017,https://www.programmableweb.com/framework/oanda-rest-scala-framework-michael-silbermann
+36,"Rack provides a minimal, modular, and adaptable interface for developing web applications in Ruby....",06.16.2017,https://www.programmableweb.com/framework/rack-ruby-framework-rack
+37,"The Vue.JS JavaScript Framework by Vue.JS builds user interfaces on the web. According to the Vue,...",06.16.2017,https://www.programmableweb.com/framework/vuejs-javascript-framework-vuejs
+38,The Backbone.JS JavaScript Framework by Backbone provides structure to web apps by offering models...,06.16.2017,https://www.programmableweb.com/framework/backbonejs-javascript-framework-backbone
+39,The Sunrise Shop Framework iOS Sample Code by Commercetools presents how to use the Sunrise...,06.16.2017,https://www.programmableweb.com/framework/sunrise-shop-framework-ios-sample-code-commercetools
+40,The Wave PHP Framework by Wave helps in building applications. It is a micro-framework built...,06.16.2017,https://www.programmableweb.com/framework/wave-php-framework-wave
+41,The Silex PHP Framework by SensioLabs is a micro-framework for building applications that aims to...,06.16.2017,https://www.programmableweb.com/framework/silex-php-framework-sensiolabs
+42,The Kanary Kotlin Framework by Kanary helps in building applications that feature RESTful APIs. It...,06.16.2017,https://www.programmableweb.com/framework/kanary-kotlin-framework-kanary
+43,The Lumen PHP Framework by Laravel is a micro-framework for building the web that can be upgraded...,06.16.2017,https://www.programmableweb.com/framework/lumen-php-framework-laravel
+44,The Limonade PHP Framework by Limonade is a micro-framework that assists in web development and...,06.16.2017,https://www.programmableweb.com/framework/limonade-php-framework-limonade
+45,The CodeIgniter PHP Framework by CodeIgniter helps to develop web applications. It supports...,06.16.2017,https://www.programmableweb.com/framework/codeigniter-php-framework-codeigniter
+46,The Ember JavaScript Framework by Ember assists in developing applications with user interactions....,06.16.2017,https://www.programmableweb.com/framework/ember-javascript-framework-ember
+47,"SocketCluster is an open source, real time Node.js framework that is optimized to run and autoscale...",06.16.2017,https://www.programmableweb.com/framework/socketcluster-nodejs-framework-socketcluster
+48,"The Mocha.JS JavaScript Framework by Mocha.JS helps developers to create applications, providing...",06.16.2017,https://www.programmableweb.com/framework/mochajs-javascript-framework-mochajs
+49,The Sails.JS JavaScript Framework by Sails.JS is a model view controller in real time that assists...,06.16.2017,https://www.programmableweb.com/framework/sailsjs-javascript-framework-sailsjs
+0,Vapor is a web framework and server for Swift. It works on macOS and Ubuntu and provides a...,03.08.2017,https://www.programmableweb.com/framework/vapor
+1,The API Platform PHP Framework allows developers to create API-first projects. The framework can...,03.01.2017,https://www.programmableweb.com/framework/api-platform-php-framework
+2,This NodeJS Framework is a module to build a bridge form BLE sensors and the Parrot CLOUD. It...,03.01.2017,https://www.programmableweb.com/framework/flower-power-nodejs-framework-parrot
+3,"The Sunrise PHP Framework by commercetools is a resource to access eCommerce tools via API,...",03.01.2017,https://www.programmableweb.com/framework/sunrise-php-framework-commercetools
+4,The Sunrise Data Java Framework by commercetools assists developers in implementing eCommerce tools...,03.01.2017,https://www.programmableweb.com/framework/sunrise-data-java-framework-commercetools
+5,The Sunrise Theme Java Framework by commercetools can implement eCommerce tools by interacting with...,03.01.2017,https://www.programmableweb.com/framework/sunrise-theme-java-framework-commercetools
+6,"The Sunrise Starter Project Java Framework by commercetools can access eCommerce tools via API,...",03.01.2017,https://www.programmableweb.com/framework/sunrise-starter-project-java-framework-commercetools
+7,The PhantomJS Framework allows to write scripts without the need to use a browser. Along with an...,03.01.2017,https://www.programmableweb.com/framework/phantomjs-framework
+8,"The CasperJS Framework allows navigating, scripting, and testing PhantomJS and SlimerJS, both...",03.01.2017,https://www.programmableweb.com/framework/casperjs-framework
+9,The SlimerJS Framework is available for download as a browser that developers can script. It...,03.01.2017,https://www.programmableweb.com/framework/slimerjs-framework
+10,"The Serverless Framework in Node.js language, assists in the development of applications that can...",03.01.2017,https://www.programmableweb.com/framework/serverless-framework
+11,The Beego HTTP Framework aims to speed up the creation of Go applications. Developers can build...,03.01.2017,https://www.programmableweb.com/framework/beego-framework
+12,"The Mockito Framework tests Java units. Developers can declare dependencies on the library,...",03.01.2017,https://www.programmableweb.com/framework/mockito-framework
+13,The Guzzle PHP Framework offers all the tools necessary for building RESTful web service clients....,03.01.2017,https://www.programmableweb.com/framework/guzzle-php-framework
+14,The Yawp Java Web Framework in REST architecture aims to provide productivity and scalability to...,03.01.2017,https://www.programmableweb.com/framework/yawp-java-web-framework
+15,The WorkShare Ruby Framework by WorkShare helps developers to integrate file sharing features into...,03.01.2017,https://www.programmableweb.com/framework/workshare-ruby-framework-workshare
+16,Siesta is a framework for writing REST clients for iOS 8+ and macOS / OS X 10.11+. It provides a...,03.01.2017,https://www.programmableweb.com/framework/siesta-framework-swift-and-objective-c
+17,Enyo is a JavaScript framework for building native-quality HTML5 apps. It can be used to develop...,03.01.2017,https://www.programmableweb.com/framework/enyo-javascript-framework
+18,Ruby on Rails Framework is a web framework that allows developers to construct database-supported...,03.01.2017,https://www.programmableweb.com/framework/ruby-rails-framework-rails
+19,Limoncello PHP framework is available for download and installation from Packagist. Additional...,03.01.2017,https://www.programmableweb.com/framework/limoncello-php-framework
+20,jQuery is a JavaScript framework that aims to simplify web design. It can be used in multiple...,03.01.2017,https://www.programmableweb.com/framework/jquery-javascript-framework-jquery-foundation
+21,Bootbox is a JavaScript Framework for creating programmatic dialog boxes using Bootstrap modals. It...,03.01.2017,https://www.programmableweb.com/framework/bootbox-javascript-framework-nick-payne
+22,Blueprint is a CSS framework that aims to provide web developers with a way to minimize design work...,03.01.2017,https://www.programmableweb.com/framework/blueprint-css-framework-blueprint
+23,Garage is a Ruby on Rails framework that allows developers to add RESTful hypermedia APIs to their...,03.01.2017,https://www.programmableweb.com/framework/garage-rails-framework-cookpad
+24,The Apache Mesos JavaScript Framework by Tobilg provides a JavaScript language platform for...,03.01.2017,https://www.programmableweb.com/framework/apache-mesos-javascript-framework-tobilg
+25,Hapi.js is a configuration-centric framework that allows developers to reuse application logic in a...,10.31.2016,https://www.programmableweb.com/framework/hapijs-nodejs-framework
+26,The Kitura Framework by IBM allows developers to build applications on Bluemix with the aim to...,10.31.2016,https://www.programmableweb.com/framework/kitura
+27,The Strapi Node.js Framework by Strapi helps developers to build back end applications and services...,10.31.2016,https://www.programmableweb.com/framework/strapi-node.js-framework-strapi
+28,The Nette PHP Framework simplifies the development of PHP websites. It fortifies the security of...,10.31.2016,https://www.programmableweb.com/framework/nette-php-framework-nette-foundation
+29,Cistern is a Ruby-based framework that was extracted from Fog. It is designed to help users build...,06.30.2016,https://www.programmableweb.com/framework/cistern-ruby-framework-josh-lane
+30,"The DeviantART Cocoa Framework by Sam Shull authenticates and uploads content to Stash, DeviantART...",06.30.2016,https://www.programmableweb.com/framework/deviantart-cocoa-framework-sam-shull
+31,Eve is a Python framework that allows developers to build and deploy fully-featured RESTful web...,06.28.2016,https://www.programmableweb.com/framework/python-eve-framework
+32,The Comic Vine Ruby SDK by Patrick Sharp interacts with the API to access comic database...,06.22.2016,https://www.programmableweb.com/framework/comic-vine-ruby-sdk-patrick-sharp
+33,"The Gbone JavaScript framework written on top of Backbone, intended for building mobile JavaScript...",06.22.2016,https://www.programmableweb.com/framework/gbone-javascript-framework-gobhi-theivendran
+34,The Vertabrae JavaScript framework's goal is to add overall structure to Backbone.js...,06.22.2016,https://www.programmableweb.com/framework/vertebrae-javascript-framework-bill-heaton
+35,The Backbone Faux Serve is a framework that intended for mocking up server-side persistence /...,06.22.2016,https://www.programmableweb.com/framework/backbone-faux-server-javascript-framework-alex-lambiris
+36,Recognize.IM Objective-C SDK by Alessio Bassio interacts with the API to access image recognition...,06.20.2016,https://www.programmableweb.com/framework/recognize.im-objective-c-sdk-alessio-bassio
+37,The CloudCMS JavaScript SDK by CloudCMS integrates content management features via API. It offers...,06.20.2016,https://www.programmableweb.com/framework/cloudcms-javascript-sdk-cloudcms
+38,Electron is a framework that helps developers write cross-platform desktop applications using...,06.13.2016,https://www.programmableweb.com/framework/electron-framework
+39,"The Luca framework intends to be a component architecture framework based on Backbone.js, which...",06.13.2016,https://www.programmableweb.com/framework/luca-javascript-framework-jonathan-soeder
+40,"The LazyBone framework, written in JavaScript, intends to provide a platform to write simple lisp...",06.13.2016,https://www.programmableweb.com/framework/lazy-bone-javescript-framework-break-yang
+41,"BroadStreet framework aims to provide developers with an HTML5, Backbone.js and JQuery Control Set...",06.13.2016,https://www.programmableweb.com/framework/broad-street-javascript-framework-kris-range
+42,The Cerebral framework/library is meant to extend the base functionality of Backbone.js and...,06.13.2016,https://www.programmableweb.com/framework/cerebral-javascript-framework-j%C3%B8rn-andre-tangen
+43,The Chalice JavaScript Framework intends to be a smaller framework that works on top of...,06.13.2016,https://www.programmableweb.com/framework/chalice-javascript-framework-shane
+44,The Capsule JavaScript frameworks aims to be an experimental web framework for Node.js that intends...,06.13.2016,https://www.programmableweb.com/framework/capsule-javascript-framework-henrik-joreteg
+45,"The Tres JavaScript frameworks aims to offer an implementation of a Backbone.js pattern, with the...",06.13.2016,https://www.programmableweb.com/framework/tres-javascript-framework-julio-ceasar
+46,Singool intends to be a lightweight JavaScript framework for developing single-page web...,06.13.2016,https://www.programmableweb.com/framework/singool.js-javascript-framework-fahad-ibnay-heylaal
+47,The Crossref Python SDK by Scott Chamberlain communicates with the API to access reference search...,06.07.2016,https://www.programmableweb.com/framework/crossref-python-sdk-scott-chamberlain
+48,"The Scoop.it PHP framework by zenria can access the API to integrate content features into emails,...",05.31.2016,https://www.programmableweb.com/framework/scoop.it-php-framework-zenria
+49,The Scoop.it Java Framework by Vincent Demay interacts with the API to integrate content features...,05.31.2016,https://www.programmableweb.com/framework/scoop.it-java-framework-vincent-demay
+0,The Scoop.it iOS Framework by Vincent Demay can access the API to integrate content features into...,05.31.2016,https://www.programmableweb.com/framework/scoop.it-ios-framework-vincent-demay
+1,Feathers is a framework that enables real-time applications and REST APIs using JavaScript or...,05.24.2016,https://www.programmableweb.com/framework/feathers-node.js-framework-feathers-contributors
+2,The Base PHP SDK by Base integrates customer relationship features into applications. Usage...,05.23.2016,https://www.programmableweb.com/framework/base-php-sdk-base
+3,Hug is a Python Framework created by Timothy Edmund Crosley that is designed to make developing...,05.20.2016,https://www.programmableweb.com/framework/hug-python-framework-timothy-edmund-crosley
+4,The Pin Payments C# SDK by Pin Payments allows API communication to integrate credit card features...,05.17.2016,https://www.programmableweb.com/framework/pin-payments-c-sdk-pin-payments
+5,"Cocos2d-x Scala framework intends to offera suite of open-source, cross-platform, game-development...",05.17.2016,https://www.programmableweb.com/framework/cocos2d-scala-framework-cocos2d
+6,The Cocos2d-Pure Swift Objective-C Framework is a free and open source 2D game development...,05.17.2016,https://www.programmableweb.com/framework/cocos2d-pure-swift-objective-c-framework-cocos2d
+7,"Blue Trip is a CSS framework that intends to offer web developers a 24 column grid layout, printing...",05.17.2016,https://www.programmableweb.com/framework/blue-trip-css-framework-mike-crittenden
+8,"Bootstrap is a Framework for developing web projects with HTML, CSS, and JavaScript. Bootstrap can...",05.17.2016,https://www.programmableweb.com/framework/bootstrap-javascript-framework-mark-otto-and-jacob
+9,The Broilerplate CSS framework's goal is to bring a lighter version of the Blueprint CSS...,05.17.2016,https://www.programmableweb.com/framework/broilerplate-css-framework-broilerplate
+10,"Emastic is a CSS Framework that aims to offer various features to enhance CSS grids, and develop a...",05.17.2016,https://www.programmableweb.com/framework/emastic-css-framework-emastic
+11,"Cocos2d is a Python framework for building 2D games, demos, and other graphical/interactive...",05.17.2016,https://www.programmableweb.com/framework/cocos2d-python-framework-cocos2d
+12,Baseline is a CSS framework that intends to offer a platform for developing a website with a focus...,05.17.2016,https://www.programmableweb.com/framework/baseline-css-framework-baseline
+13,"The FakeItEasy .Net Framework by FakeItEasy allows developers to create fake objects, mocks, stubs...",05.03.2016,https://www.programmableweb.com/framework/fakeiteasy-.net-framework-fakeiteasy
+14,Apache Hadoop aims to be a framework for running applications on a large cluster of commodity...,04.11.2016,https://www.programmableweb.com/framework/apache-hadoop-java-framework-apache
+15,Scoobi is a Scala framework library that intends to facilitate the productive building of Hadoop...,04.11.2016,https://www.programmableweb.com/framework/scoobi-scala-framework-nicta
+16,ScalaBlitz is a scala framework that intends to provide efficient sequential and data-parallel...,04.11.2016,https://www.programmableweb.com/framework/scalablitz-scala-framework-scalablitz
+17,The ScalaMaster framework aims to provide aicrobenchmarking and performance regression testing...,04.11.2016,https://www.programmableweb.com/framework/scalameter-scala-framework-scalameter
+18,"BlueOak Server Node.js Framework by BlueOak is swagger-matic, that is, it maximizes the value of...",04.11.2016,https://www.programmableweb.com/framework/blueoak-server-node.js-framework-blueoak
+19,"Cocos2D-XNA is a 2D/3D game development framework, written specifically for XNA. The framework...",04.11.2016,https://www.programmableweb.com/framework/cocos2d-xna-java-framework-cocos2d-xna
+20,The Less Framework is a CSS grid system that aims to assist developers with designing adaptive web...,04.01.2016,https://www.programmableweb.com/framework/less-css-framework-joni-korpi
+21,The Ice Cream CSS framework intends to offer developers a basic grid layout with predefined classes...,04.01.2016,https://www.programmableweb.com/framework/ice-cream-css-framework-zied-hosni
+22,Formee is a CSS framework that presents developers with stylized HTML and CSS for most forms on web...,04.01.2016,https://www.programmableweb.com/framework/formee-css-framework-bernard-de-luna
+23,The 52 CSS framework intends to provide a grid system for HTML5 form validation and update to...,04.01.2016,https://www.programmableweb.com/framework/52-framework-css-framework-angel-grablev
+24,"The 1kb Grid aims to be a tool that offers a CSS grid system, loosely based on 960 Grid system (of...",04.01.2016,https://www.programmableweb.com/framework/1kb-css-framework-grady-kuhnline
+0,"The 960 Grid System aims to offer rapid prototyping, and integration into a production environment...",04.01.2016,https://www.programmableweb.com/framework/960-grid-system-css-framework-960-grid-system
+1,The Concise CSS framework is written in SASS with PostCSS plugins. It aims to be a lighter option...,04.01.2016,https://www.programmableweb.com/framework/concise-css-framework-concise
+2,Xitrum aims to be an async and clustered Scala web framework and HTTP(S) server that is a fusion on...,03.28.2016,https://www.programmableweb.com/framework/xitrum-scala-framework-xitrum
+3,Unfiltered is a Scala framework that aims to provide servicing HTTP requests in Scala. It intends...,03.28.2016,https://www.programmableweb.com/framework/unfiltered-scala-framework-unfiltered
+4,Spray is an open-source Scala framework that aims to provide a toolkit for building REST/HTTP-based...,03.28.2016,https://www.programmableweb.com/framework/spray-scala-framework-spray
+5,"Socko an open source, lightweight and embeddable Scala framework that intends to offer web servers...",03.28.2016,https://www.programmableweb.com/framework/socko-scala-framework-vibul
+6,Skinny is a full-stack Scala framework built on Skinny Micro. The framework's intended concept...,03.28.2016,https://www.programmableweb.com/framework/skinny-scala-framework-skinny
+7,The total.js framework aims to be a web application framework for creating web sites and web...,03.28.2016,https://www.programmableweb.com/framework/total-node.js-framework-totaljs
+8,Tesla is a MVC style framework that aims to offer a framework that is built on top of Node.js and...,03.28.2016,https://www.programmableweb.com/framework/telsajs-node.js-framework-tesla.js
+9,Riot is a JavaScript framework that intends to provide custom tags to modern browsers with virtual...,03.28.2016,https://www.programmableweb.com/framework/riot-javascript-framework-riot
+10,Hypo aims to be a dependency Injection for JavaScript by using a xml configuration file that...,03.28.2016,https://www.programmableweb.com/framework/hypo-javascript-framework-ryan-lynch
+11,Chibi intends to be a micro JavaScript framework that offers lighter CSS coding for web...,03.28.2016,https://www.programmableweb.com/framework/chibi-javascript-framework-kyle-barrow
+12,The Riloadr framework intends to provide a cross-browser framework that offers an independent and...,03.28.2016,https://www.programmableweb.com/framework/riloadr-javascript-framework-t%C3%BAbal-mart%C3%ADn
+13,"The TinyView JavaScript framework aims to offer developers tools to use the ""V"" in MVC....",03.28.2016,https://www.programmableweb.com/framework/tinyview-javascript-framework-narendra-sisodiya
+14,Mag intends to be a semantic data binding framework that uses normal HTML as a template and a...,03.28.2016,https://www.programmableweb.com/framework/mag-javascript-framework-magnumjs
+15,The PowerVR Framework aims to be a cross-platform and cross-API framework that acts as a scaffold...,03.15.2016,https://www.programmableweb.com/framework/powervr-javascript-framework-imagination
+16,Vert.x is a tool-kit framework that aims to provide reactive web applications on the JVM. It has a...,03.15.2016,https://www.programmableweb.com/framework/vert.x-groovy-framework-vert.x
+17,Cucumber aims to provide a platform to build various types of software. The framework features...,03.15.2016,https://www.programmableweb.com/framework/cucumber-java-framework-cucumber
+18,Kryo aims to be an object graph serialization framework for Java. The goals of the project are...,03.15.2016,https://www.programmableweb.com/framework/kyro-java-framework-esoteric-software
+19,Connexion is a framework on top of Flask that aims to provide to handle a REST API requests based...,03.15.2016,https://www.programmableweb.com/framework/connexion-python-framework-zalando
+20,Spark Framework aims to be a simple and lightweight Java web framework built for rapid development...,03.15.2016,https://www.programmableweb.com/framework/spark-java-framework-spark
+21,"The Dropwizard framework aims to provide the development of ops-friendly, high-performance, RESTful...",03.15.2016,https://www.programmableweb.com/framework/dropwizard-java-framework-dropwizard
+22,The Netty framework's goal is to provide a NIO client server framework which enables quick...,03.10.2016,https://www.programmableweb.com/framework/netty-java-framework-netty-project
+23,Vert.x is a tool-kit framework that aims to provide reactive web applications on the JVM. It has a...,03.10.2016,https://www.programmableweb.com/framework/vert.x-ruby-framework-vert.x
+24,Vert.x is a tool-kit framework that aims to provide reactive web applications on the JVM. It has a...,03.10.2016,https://www.programmableweb.com/framework/vert.x-javascript-framework-vert.x
+0,The Derive4j framework's goal is to provide a Java 8 annotation processor and framework for...,03.10.2016,https://www.programmableweb.com/framework/derive4j-java-framework-derive4j
+1,The Checker Framework aims to enhance Java’s type system to make it more powerful and useful. This...,03.10.2016,https://www.programmableweb.com/framework/checker-java-framework-checker
+2,The Axon framework's goal is focused on creating a java application based on the CQRS...,03.10.2016,https://www.programmableweb.com/framework/axon-java-framework-axon
+3,Vert.x is a tool-kit framework that aims to provide reactive web applications on the JVM. It has a...,03.10.2016,https://www.programmableweb.com/framework/vert.x-java-framework-vert.x
+4,HK2 is a light-weight and dynamic dependency injection framework. Some of the things that can be...,03.10.2016,https://www.programmableweb.com/framework/hk2-java-framework-oracle
+5,The Guice framework intends to alleviate the need for factories in Java code. The frameworks still...,03.10.2016,https://www.programmableweb.com/framework/guice-java-framework-google
+6,The Dagger 2 framework intends to provide a compile-time evolution approach to dependency injection...,03.10.2016,https://www.programmableweb.com/framework/dagger-2-javascript-framework-google
+7,Apache DeltaSpike is framework library that intends to provide a collection of portable CDI...,03.10.2016,https://www.programmableweb.com/framework/deltaspike-java-framework-apache
+8,Singularity is a web application that aims to provide a platform for running and scheduling Apache...,03.10.2016,https://www.programmableweb.com/framework/singularity-java-framework-hubspot
+9,Apache Aurora is a framework that aims to provide a service scheduler that runs on top of Apache...,03.10.2016,https://www.programmableweb.com/framework/aurora-java-framework-apache
+10,Orika is a Java Bean mapping framework that aims to recursively copies data from one object to...,03.10.2016,https://www.programmableweb.com/framework/orika-java-framework-orika-mapper
+11,Hibernate is an open source Java ORM framework that aims to provide data query and retrieval...,03.10.2016,https://www.programmableweb.com/framework/hibernate-javascript-framework-mallikarjun-sannapyati
+12,Spring framework is an open source application framework that intends to provide key features such...,03.10.2016,https://www.programmableweb.com/framework/spring-java-framework-amaresh-agasimundina
+13,The goal of the Tryton Python Framework is to provide functionalities for a complete application...,03.10.2016,https://www.programmableweb.com/framework/tryton-python-framework-tryton
+14,Pychievements is a framework that aims to create and track achievements within a Python application...,03.10.2016,https://www.programmableweb.com/framework/pychievements-python-framework-packet-perception
+15,3DModelComposer JavaScript Framework by PS WebDev allows developers to create galleries of...,03.10.2016,https://www.programmableweb.com/framework/3dmodelcomposer-javascript-framework-ps-webdev
+16,Reactive is a Scala framework that offers a library framework for reactive web routing and web UIs...,03.10.2016,https://www.programmableweb.com/framework/reactive-scala-framework-nafg
+17,Finantra is a production use as Twitter’s HTTP framework written that intends to offer feature and...,03.10.2016,https://www.programmableweb.com/framework/finatra-scala-framework-twitter
+18,The Colossus framework intends to offer a lightweight Scala framework for building applications in...,03.10.2016,https://www.programmableweb.com/framework/colossus-scala-framework-tumblr
+19,Chaos aims to provide developers with a lightweight framework for writing REST services in Scala...,03.10.2016,https://www.programmableweb.com/framework/chaos-scala-framework-mesosphere
+20,Chai is a JavaScript framework that intends to offer a BDD / TDD assertion framework library for ...,03.10.2016,https://www.programmableweb.com/framework/chai-javascript-framework-chai.js
+21,Pluma is an open source C++ framework that aims to provide support for plug-in management.,02.23.2016,https://www.programmableweb.com/framework/pluma-c-framework-gil-costa
+22,The OWASP Mantra PHP framework aims to be a security framework that intends to have a collection of...,02.23.2016,https://www.programmableweb.com/framework/mantra-php-framework-mantra
+23,WebSploit is a MITM Framework that aims to provide a security testing platform. The PHP based...,02.23.2016,https://www.programmableweb.com/framework/websloit-php-framework-fardin-allahverdinazhand
+24,Pomegranate framework intends to provide a library of code written in PHP and Javascript to help...,02.23.2016,https://www.programmableweb.com/framework/pomegranate-php-framework-mehran-ziadloo
+0,The Hcon Security Framework is written in Java and aims to provide a semi-automated secutiry...,02.23.2016,https://www.programmableweb.com/framework/hcon-security-java-framework-hcon
+1,WHOA is a complete O-O MVC component and event-driven web application framework currently written...,02.12.2016,https://www.programmableweb.com/framework/whoa-php-framework-dradis
+2,Neuroph is lightweight Java neural network framework that aims to provide a way to develop common...,02.12.2016,https://www.programmableweb.com/framework/neuroph-java-framework-sourceforge
+3,PureMVC is a lightweight framework that offers developers a tool to create applications based upon...,02.12.2016,https://www.programmableweb.com/framework/puremvc-java-framework-puremvc
+4,Logback is a Java framework that intends to offer a generic architecture that is divided into three...,02.12.2016,https://www.programmableweb.com/framework/logback-java-framework-quality-open-software
+5,The Java-Object-Diff framework is a Java library that intends to find differences between Java...,02.12.2016,https://www.programmableweb.com/framework/java-object-diff-framework-daniel-bechler
+6,Prerender is a Java Framework that aims to use a java filter that prerenders a javascript rendered...,02.10.2016,https://www.programmableweb.com/framework/prerender-java-framework-prerender
+7,ibGDX is a cross-platform Java game development framework based on OpenGL (ES) that works on...,02.10.2016,https://www.programmableweb.com/framework/libgdx-java-framework-libgdx
+8,The Restlet Java framework allows for routing and filtering for their client and server Java API....,02.10.2016,https://www.programmableweb.com/framework/restlet-java-framework-restlet
+9,"The Vaadin Framework, written in Java, intends to allow for the building of single page web apps...",02.10.2016,https://www.programmableweb.com/framework/vaadin-java-framework-vaadin
+10,Pivotal Software offers developers a production-grade applications and services. The Java framework...,02.10.2016,https://www.programmableweb.com/framework/spring-boot-java-framework-spring
+11,"PrimeFaces is a lightweight Java framework that offers developers one jar, and no configuration or...",02.10.2016,https://www.programmableweb.com/framework/primefaces-java-framework-primetek
+12,Pippo is an open source (Apache License) micro web framework written in Java that intends to offer...,02.10.2016,https://www.programmableweb.com/framework/pippo-java-framework-decebal-suiu
+13,"Apache Wicket, a Java and componet based web application framework, offers proper mark-up/logic...",02.10.2016,https://www.programmableweb.com/framework/wicket-7-java-framework-apache
+14,Apache Tapestry aims to offer a component-oriented framework for creating highly scalable web...,02.10.2016,https://www.programmableweb.com/framework/apache-tapestry-java-framework-apache-tapestry
+15,JADE (Java Agent DEvelopment Framework) is a software Framework that intends to offer the...,02.10.2016,https://www.programmableweb.com/framework/jade-java-framework-jade
+16,The Truth Framework by Google aims to offer developers an assertion/proposition framework...,02.10.2016,https://www.programmableweb.com/framework/truth-java-framework-google
+17,Spock is a testing and specification framework for Java and Groovy applications. It aims to offer...,02.10.2016,https://www.programmableweb.com/framework/spock-java-framework-spock
+18,Selenium aims to offer browswer automation. The framework intends to automate web applications for...,02.10.2016,https://www.programmableweb.com/framework/selenium-java-framework-selenium
+19,JUnit is a JavaScript framework that allows developers to write repeatable tests. It is an instance...,02.10.2016,https://www.programmableweb.com/framework/junit-javascript-framework-junit
+20,Panda3D intends to provide a game engine framework for 3D rendering and game development for Python...,02.01.2016,https://www.programmableweb.com/framework/panada3d-java-framework-panda3d
+21,"The Python unit testing framework aims to a Python language version of JUnit, by Kent Beck and...",01.25.2016,https://www.programmableweb.com/framework/pyunit-python-framework-python
+22,The GPU iOS Framework by Brad Larson is a BSD-licensed iOS framework that lets developers apply GPU...,01.21.2016,https://www.programmableweb.com/framework/gpu-ios-framework-brad-larson
+23,"The DPark framework is written in Python and aims to be like frameworks such as Spark, MapReduce(R...",01.12.2016,https://www.programmableweb.com/framework/dpark-python-framework-douban
+24,The Robot Framework aims to be a generic open source test automation framework for acceptance...,01.12.2016,https://www.programmableweb.com/framework/robot-python-framework-robot-framework
+0,The Contexts Python Framework aims to be a 'Context-Specification'-style test framework...,01.12.2016,https://www.programmableweb.com/framework/context-python-framework-benjamin-hodgson
+1,Scalatra is a web micro-framework written in Scala. It intends to combine the power of the JVM with...,01.03.2016,https://www.programmableweb.com/framework/scalatra-scala-framework-scalatra
+2,"The Play framework offers developers a lightweight, stateless, web-friendly architecture. Built on...",01.03.2016,https://www.programmableweb.com/framework/play-scala-framework-play
+3,Jogger is a Java a micro-web framework that intends to provide a way of creating web applications...,01.03.2016,https://www.programmableweb.com/framework/jogger-java-framework-elibom
+4,SweetScala is a framework written in Scala that offers developers a web application framework to...,01.03.2016,https://www.programmableweb.com/framework/sweet-scala-framework-sweetscala
+5,The Lift framework aims to provide secure development platforms for developers. The framework...,01.03.2016,https://www.programmableweb.com/framework/lift-python-framework-lift
+6,Mocha aims to be a feature-rich JavaScript test framework that runs on Node.js and browsers. The...,01.01.2016,https://www.programmableweb.com/framework/mocha-node.js-framework-mochajs
+7,"Ezel aims to provide a boilerplate for Backbone projects that share code server/client, render...",12.27.2015,https://www.programmableweb.com/framework/ezel-node.js-framework-artsy
+8,"Sequelize is a Node.js/io.js ORM that aims to be suited for Postgres, MySQL, MariaDB, SQLite and...",12.27.2015,https://www.programmableweb.com/framework/sequelize-node.js-framework-sequelize
+9,"Tower is a Node.js framework that offers small components for building apps, manipulating data, and...",12.27.2015,https://www.programmableweb.com/framework/tower-node.js-framework-tower
+10,"Wintersmith is a simple yet flexible static site generator. It takes contents (markdown, less,...",12.27.2015,https://www.programmableweb.com/framework/wintersmith.js-node.js-framework-johan-nordberg
+11,Sixpack is a Node.js framework that offers an A/B testing across multiple programming languages....,12.27.2015,https://www.programmableweb.com/framework/sixpack-node.js-framework-seatgeek
+12,Frisby is a REST API testing framework that intends to be built on node.js and Jasmine that...,12.27.2015,https://www.programmableweb.com/framework/frisby.js-node.js-framework-vance-lucas
+13,The Wheels Node.js Framework aims to offer an object-oriented web framework that is written in...,12.27.2015,https://www.programmableweb.com/framework/wheels-node.js-framework-stanislav
+14,The AXT framework intends to provide an extendable javascript framework for working both in Node.js...,12.27.2015,https://www.programmableweb.com/framework/axt-node.js-framework-gabriel-reiser
+15,Meryl aims to be a minimalist web framework for Node.js platforms that offers modication and...,12.27.2015,https://www.programmableweb.com/framework/meryl-node.js-framework-kadirpekel
+16,Omni.js is written in Node.js and offers a Backbone.js framework for real-time app development. The...,12.27.2015,https://www.programmableweb.com/framework/omni-node.js-framework-kevin-bedi
+17,Itty is a Python framework that aims to provide a micro-framework that is influenced by Sinatra....,12.27.2015,https://www.programmableweb.com/framework/itty-python-framework-daniel-lindsley
+18,"Flask is a Python microframework that aims to be based on Werkzeug, Jinja 2.",12.27.2015,https://www.programmableweb.com/framework/flask-python-framework-armin-ronacher
+19,Cyclone provides developers with a web server framework for Python that implements the Tornado API...,12.27.2015,https://www.programmableweb.com/framework/cyclone.io-python-framework-alexandre-fiori
+20,CherryPy allows for the building of web applications in a manner similar to building other object-...,12.27.2015,https://www.programmableweb.com/framework/cherrypy-python-framework-cherrypy
+21,Bottle intends to offer developers a lightweight WSGI micro web-framework for Python. The...,12.27.2015,https://www.programmableweb.com/framework/bottle-python-framework-marcel-hellkamp
+22,Bobo aims to be a light-weight framework for creating WSGI web applications. It intends to offer...,12.27.2015,https://www.programmableweb.com/framework/bobo-python-framework-zope-foundation
+23,Polpetta is a script that aims to be able to initialize a node.js server in any folder you want and...,12.27.2015,https://www.programmableweb.com/framework/polpetta-node.js-framework-andrea-giammarchi
+24,"Nombo is an Open Source Node.js framework that allows for the building of highly scalable, rich...",12.27.2015,https://www.programmableweb.com/framework/nombo-node.js-framework-jonathan-gros-dubois
+0,"Protos is a Web Application Framework for Node.js that runs on Linux, FreeBSD & OSX.",12.27.2015,https://www.programmableweb.com/framework/protos-node.js-framework-derdesign
+1,Impress is a Node.js framework that intends to offer developers an application server for Node.js....,12.27.2015,https://www.programmableweb.com/framework/impress-node.js-framework-timur-shemsedinov
+2,Seki is a Node.js framework that aims to operate as a Web server. The framework intends to build...,12.27.2015,https://www.programmableweb.com/framework/seki-node.js-framework-danny-ayers
+3,Rapid Rest is a Node.js framework that intends to offer developers a minimal overhead Node.js REST...,12.27.2015,https://www.programmableweb.com/framework/rapid-rest-node.js-framework-jason-rudland
+4,"The Spludo Node.js Framework aims to be a high performance, evented, server side, prototype based,...",12.27.2015,https://www.programmableweb.com/framework/spludo-node.js-framework-dracoblue
+5,Webjs is a JavaScript framework that uses Node.js as a means to offer developers websites' and...,12.27.2015,https://www.programmableweb.com/framework/web-node.js-framework-will-wen-gunn
+6,"Bone.io allows for the building of real time HTML5 apps using web sockets to deliver ""hot...",12.27.2015,https://www.programmableweb.com/framework/bone-node.js-framework-brad-carleton
+7,"Pintura aims to be a cross-platform, server side JavaScript based REST architecture web framework...",12.27.2015,https://www.programmableweb.com/framework/pintura-node.js-framework-kris-zyp
+8,Fortune is a Node.js framework the aims to offer an application system for Node.js & web...,12.27.2015,https://www.programmableweb.com/framework/fortune-node.js-framework-fortune
+9,"Flatiron is a Node.js framework that intends to offer a built collection of decoupled, unobtrusive...",12.27.2015,https://www.programmableweb.com/framework/flatiron-node.js-framework-flatiron
+10,simpleS is a web framework for Node.JS that is aimed to be designed for the creatation of HTTP(S)...,12.27.2015,https://www.programmableweb.com/framework/simples-node.js-framework-micleu%C8%99anu-nicu
+11,The MEAN.JS JavaScript Framework by MEAN.JS is designed to help developers build and maintain web...,12.27.2015,https://www.programmableweb.com/framework/mean.js-javascript-framework-mean.js
+12,The MicroBees JavaScript SDK by MicroBees provides integration with an Internet of Things system to...,12.21.2015,https://www.programmableweb.com/framework/microbees-javascript-sdk-microbees
+13,"The HTML9 JavaScript Framework by Louis Lazaris is a flexible, dependency-free, lightweight, device...",12.21.2015,https://www.programmableweb.com/framework/html9-javascript-framework-louis-lazaris
+14,The goal of RestMVC is to provide a simple framework that assists deveopers to write a RESTful...,12.10.2015,https://www.programmableweb.com/framework/restmvc-node.js-framework-keith-larsen
+15,The Node.js framework Ni intends to offer a structure for organizing a application project and a...,12.10.2015,https://www.programmableweb.com/framework/ni-node.js-framework-chetan-surpur
+16,Tachi aims to provide developers with accelerated application development tools. The framework...,12.10.2015,https://www.programmableweb.com/framework/tachi-node.js-framework-ed
+17,Roosevelt aims to be a web application development framework based on Express. Roosevelt intends to...,12.10.2015,https://www.programmableweb.com/framework/roosevelt-node.js-framework-eric-newport
+18,Twee.io is a Node.js framework that offers developers conventions that will protect OOP and MVC...,12.10.2015,https://www.programmableweb.com/framework/twee.io-node.js-framework-twee.io
+19,Grasshopper is a Node.js framework that offers web application development support. The framework...,12.10.2015,https://www.programmableweb.com/framework/grasshopper-node.js-framework-chandra-sekar-s
+20,Spine is a lightweight MVC library for building JavaScript web applications. It intends to offer...,12.10.2015,https://www.programmableweb.com/framework/spine-javascript-framework-spine-js-project
+21,rAppid.js intends to offer developers a declarative javascript web application framework for rapid...,12.10.2015,https://www.programmableweb.com/framework/rappid-node.js-framework-rappid
+22,"Josi is a web framework for node.js that aims to be a MVC web framework (e.g. ASP.NET MVC, Rails,...",12.10.2015,https://www.programmableweb.com/framework/josi-node.js-framework-matt-lee
+23,Raddish is an open-source NodeJS Framework that aims to provide a framework for modern web...,12.10.2015,https://www.programmableweb.com/framework/raddish-node.js-framework-jasper-van-rijbroek
+24,"Codekart is a Node.js framework that intends to havea very small footprint, built for Node.js...",12.10.2015,https://www.programmableweb.com/framework/code-kart-node.js-framework-yangjie-pro
+0,Locomotive is a framework that aims to bring structure and MVC patterns to web applications using...,12.10.2015,https://www.programmableweb.com/framework/locomotive-node.js-framework-jared-hanson
+1,Trintejs is a MVC boilerplate framework for ExpressJS backed by CaminteJS and Bootstrap.,12.10.2015,https://www.programmableweb.com/framework/trintejs-node.js-framework-alexey-gordeyev
+2,"Agni is a web framework built on top of Express, based on the principle of convention over...",12.10.2015,https://www.programmableweb.com/framework/agni-node.js-framework-lorenzo-tabacchini
+3,Sleek.js is an MVC Wrapper Framework implemented from Node.jS that aims to be built-in with base...,12.10.2015,https://www.programmableweb.com/framework/sleekjs-node.js-framework-cubet-techno-labs
+4,Geddy is a Node.js framework that aims to provide a structured web framework for web development.,12.10.2015,https://www.programmableweb.com/framework/geddy-node.js-framework-geddy
+5,Compoundjs is a MVC framework that aims to work on servers and browsers to build web applications...,12.10.2015,https://www.programmableweb.com/framework/compoundjs-node.js-framework-anatoliy
+6,Strapi aims to be an open-source Node.js rich framework for building applications and services. The...,12.10.2015,https://www.programmableweb.com/framework/strapi-node.js-framework-wistity-hq
+7,The Adonis framework is a MVC framework written in Node.js that intends to offer a customized...,12.10.2015,https://www.programmableweb.com/framework/adnois-node.js-framework-aman-virk
+8,The Sail.js Node.js Framework is designed to help developers create Node.js websites and...,12.10.2015,https://www.programmableweb.com/framework/sail.js-node.js-framework-sail.js
+9,The Hapi framework's objective is to be a configuration-centric framework with built-in...,12.07.2015,https://www.programmableweb.com/framework/hapi-node.js-framework-hapi
+10,Pomelo offers developers a scalable game server framework for node.js. The framework provides the...,12.07.2015,https://www.programmableweb.com/framework/pomelo-node.js-framework-netease
+11,Provides extensible common utility classes for rapid JSON API development. Offers the following...,12.07.2015,https://www.programmableweb.com/framework/facet-node.js-framework-facet
+12,Noder Node.js framework aims to be a lightweight and flexible core to create a scalable API....,12.07.2015,https://www.programmableweb.com/framework/noder-node.js-framework-nicolab
+13,Restify is a Node.js framework that intends to offer a micro-framework for building REST APIs.,12.07.2015,https://www.programmableweb.com/framework/restify-node.js-framework-restify
+14,RhapsodyJS aims to be a HMVC framework that runs on top of Express 4 while also creating a RESTful...,12.07.2015,https://www.programmableweb.com/framework/rhapsody-node.js-framework-rhapsodyjs
+15,Koa aims to be an expressive HTTP middleware for node.js to make web applications and APIs less...,12.07.2015,https://www.programmableweb.com/framework/koa-node.js-framework-koajs
+16,Percolator aims to be a framework for building quality HTTP APIs in Node.js. It's features...,12.07.2015,https://www.programmableweb.com/framework/percolator-node.js-framework-gregg-caines
+17,KeystoneJS is a Node.js framework that intends to provide a content management system and web...,12.07.2015,https://www.programmableweb.com/framework/keystone-node.js-framework-keystonejs
+18,diet.js aims to be a modular node.js web framework that offers scalable application and API...,12.07.2015,https://www.programmableweb.com/framework/diet-node.js-framework-%C3%A1d%C3%A1m-hal%C3%A1sz
+19,Restberry intends to provide a framework for setting up RESTful JSON APIs with NodeJS. It allows...,12.07.2015,https://www.programmableweb.com/framework/restberry-node.js-framework-mattias-eriksson
+20,The Loopback Node.js API Framework by StrongLoop provides a dynamic open source Node.js framework...,12.07.2015,https://www.programmableweb.com/framework/loopback-node.js-api-framework-strongloop
+21,The Actionhero.js framework aims to be a multi-transport Node.JS API Server with integrated cluster...,12.07.2015,https://www.programmableweb.com/framework/actionhero-node.js-framework-evan-tahler
+22,Danf intends to provide a javascript/node.js full-stack isomorphic OOP framework allowing to code...,12.07.2015,https://www.programmableweb.com/framework/danf-node.js-framework-gnodi
+23,The COKE Node.js framework aims to provide developers with a full stack MVC framework that...,12.07.2015,https://www.programmableweb.com/framework/coke-node.js-framework-dreamerslab
+24,SocketStream aims to be a Node.js framework for realtime web applications.,12.07.2015,https://www.programmableweb.com/framework/socketstream-node.js-framework-socketstream
+0,Chocolatejs Node.js Framework aims to be a full stack and isomorphic Node.js web framework and...,12.07.2015,https://www.programmableweb.com/framework/chocolatejs-node.js-framework-jc-levy
+1,The Sane Stack is a Node.js framework that offers developers a Sails and Ember cli to faciliate...,12.07.2015,https://www.programmableweb.com/framework/sane-stack-node.js-framework-sane
+2,"Catberry is a Node.js framework that offers developers Flux architecture, isomorphic web-components...",12.07.2015,https://www.programmableweb.com/framework/catberry-node.js-framework-catberry
+3,AllcountJS Node.js Framework intends to provide an open source full-stack Node.js framework for...,12.07.2015,https://www.programmableweb.com/framework/allcountjs-node.js-framework-allcountjs
+4,Koa is a Node.js web framework that allows users to ditch callbacks and increase error handling by...,11.30.2015,https://www.programmableweb.com/framework/koa-node.js-framework-koa
+5,Mediator is a JavaScript framework that intends to provide a class that allows a developer to...,11.30.2015,https://www.programmableweb.com/framework/mediator-javascript-framework-jack-lawson
+6,The 140 Medley JavaScript Framework by Honza Pokorny aims to be a micro-framework or a collection...,11.30.2015,https://www.programmableweb.com/framework/140-medley-javascript-framework-honza-pokorny
+7,The Rococo JavaScript Framework offers developers a strict subset of Javascript (BlackScript)....,11.25.2015,https://www.programmableweb.com/framework/rococo-javascript-framework-rococo
+8,The Janis JavaScript frameworks aims to be a lightweight framework that provides animations via CSS...,11.25.2015,https://www.programmableweb.com/framework/janis-javascript-framework-janis
+9,The Lotus Ruby Framework offers developers an Object Oriented Programming option to web development...,11.25.2015,https://www.programmableweb.com/framework/lotus-ruby-framework-luca-guidi
+10,The Padrinorb ruby Framework's goal is offer developers core principles of the Sinatra Ruby...,11.25.2015,https://www.programmableweb.com/framework/padrinorb-ruby-framework-padrino
+11,The NYNY Ruby Framework offers developers a micro web framework for testing applications on modern...,11.25.2015,https://www.programmableweb.com/framework/nyny-ruby-framework-andrei-lisnic
+12,The Grape Ruby Framework allows for the building of lightweight APIs with Ruby when a larger...,11.25.2015,https://www.programmableweb.com/framework/grape-ruby-framework-ruby-grape
+13,The Nancy Framework aims to be a minimal Ruby microframework for web development inspired in the ...,11.25.2015,https://www.programmableweb.com/framework/nancy-ruby-framework-guillermo-iguaran
+14,"The Cuba Ruby Framework is a microframework that offers developers a mapper for Rack applications,...",11.25.2015,https://www.programmableweb.com/framework/cuba-ruby-framework-michel-martens
+15,"The Scorched framework is a Ruby framework that aims to be a generic, DRY, light-weight web...",11.25.2015,https://www.programmableweb.com/framework/scorched-ruby-framework-tom-wardrop
+16,The Stapes.js JavaScript framework aims to allow the design of an application to be objective on...,11.20.2015,https://www.programmableweb.com/framework/stapes-javascript-framework-hay-kranen
+17,"Wru is a JavaScript framework that intends to offer an essential, general purpose test framework ...",11.20.2015,https://www.programmableweb.com/framework/wru-javascript-framework-andrea-giammarchi
+18,The Nerve JavaScript Framework by Jstandish aims to be an asynchronous javascript micro framework...,11.20.2015,https://www.programmableweb.com/framework/nerve-javascript-framework-jstandish
+19,The JavaScript framework Guggenheim.js offers developers a framework for agnostic plugin to create...,11.20.2015,https://www.programmableweb.com/framework/guggenheim-javascript-framework-will-mckenzie
+20,The PHP version of Pattern Lab aims to be a static site generator. The framework combines platform-...,11.20.2015,https://www.programmableweb.com/framework/patternlab-php-framework-pattern-lab
+21,The Node.js framework Style Guide aims to be a simple styleguide framework. It offers developers...,11.20.2015,https://www.programmableweb.com/framework/styleguide-node.js-framework-lars-kappert
+22,The Nuclear JavaScript Framework by Optimizely aims to be a reactive flux built with ImmutableJS...,11.20.2015,https://www.programmableweb.com/framework/nuclear-javascript-framework-optimizely
+23,The JSBlocks JavaScript Framework by Antonio Stoilkov offers developers a user interface for...,11.20.2015,https://www.programmableweb.com/framework/jsblocks-javascript-framework-antonio-stoilkov
+24,The JavaScript Framework WebRx aims to be a Javascript MVVM-Framework built on ReactiveX for...,11.20.2015,https://www.programmableweb.com/framework/webrx-javascript-framework-webrx
+0,The Phaser JavaScript Framework by Richard Davey is intended to be a free 2D game framework for...,11.20.2015,https://www.programmableweb.com/framework/phaser-javascript-framework-richard-davey
+1,The Opentip JavaScript Framework by Matias Meno aims to be a javascript tooltip. It offers uses for...,11.20.2015,https://www.programmableweb.com/framework/opentip-javascript-framework-matias-meno
+2,The MVC framework is intended for JavaScript applications. The framework is aimed at developers who...,11.20.2015,https://www.programmableweb.com/framework/maria-javascript-framework-peter-michaux
+3,The Qunit JavaScript Framework by jQuery aims to be a powerful JavaScript unit testing framework....,11.20.2015,https://www.programmableweb.com/framework/qunit-javascript-framework-jquery
+4,"The Derby Framework offers developers a MVC framework to write realtime, collaborative applications...",11.05.2015,https://www.programmableweb.com/framework/derby-javascript-framework-derby
+5,"The Mithril JavaScript Framework by Leo Horie aims to be a client-side MVC framework, The framework...",11.05.2015,https://www.programmableweb.com/framework/mithril-javascript-framework-leo-horie
+6,The JavaScript framework by Sebastian Müller allows for developers to create a JavaScript and Node....,11.05.2015,https://www.programmableweb.com/framework/noduino-javascript-framework-sebastian-m%C3%BCller
+7,Prototype is a JavaScript framework that aims to ease development of dynamic web applications. It...,11.05.2015,https://www.programmableweb.com/framework/prototype-javascript-framework-sam-stephenson
+8,The Aurelia Framework aims to be a library that offers part of the Aurelia platform and contains...,10.30.2015,https://www.programmableweb.com/framework/aurelia-javascript-framework-durandal
+9,Babylon.js aims to be a complete JavaScript framework for building 3D games with HTML 5 and WebGL....,10.30.2015,https://www.programmableweb.com/framework/babylon-javascript-framework-babylon
+10,The ColorBox JavaScript Framework by Jack Moore offers developers a customizable lightbox plugin...,10.30.2015,https://www.programmableweb.com/framework/colorbox-javascript-framework-jack-moore
+11,The Holder.js Framework aims to render image placeholders entirely in a browser. The framework...,10.30.2015,https://www.programmableweb.com/framework/holder-javascript-framework-ivan-malopinsky
+12,FlexSlider JavaScript Framework aims to be a responsive Jquery slider toolkit. The framework offers...,10.30.2015,https://www.programmableweb.com/framework/flexslider-javascript-framework-woothemes
+13,The Interact.js JavaScript Framework aims to offer developers a testing environment that allows...,10.30.2015,https://www.programmableweb.com/framework/interact.js-javascript-framework-taye
+14,The Nightwatch.js Framework aims to be a Node.js based End-to-End (E2E) testing solution for...,10.30.2015,https://www.programmableweb.com/framework/nightwatch-javascript-framework-nightwatch
+15,"The Titanium framework aims to provide a platform for web developers to build cross-platform,...",10.30.2015,https://www.programmableweb.com/framework/applcelerator-titanium-mobile-javascript-framework-appcelerator
+16,The Moobile JavaScript Framework by Moobile aims to be a mobile application framework based on...,10.30.2015,https://www.programmableweb.com/framework/moobile-javascript-framework-moobile
+17,"EmbedJS is a JavaScript framework that aims to be targeted at embedded devices (mobile phones, TVs...",10.30.2015,https://www.programmableweb.com/framework/embedjs-javascript-framework-uxebu
+18,Iconic JavaScript Framework by Iconic is currently free and open source. The framework aims to...,10.30.2015,https://www.programmableweb.com/framework/iconic-javascript-framework-iconic
+19,Zepto aims to be a minimalist JavaScript library/framework for modern browsers with a largely...,10.30.2015,https://www.programmableweb.com/framework/zepto-javascript-framework-thomas-fuchs
+20,"jQTouch is a JavaScript plugin/framework that aims to work with either Zepto.js or jQuery, and...",10.30.2015,https://www.programmableweb.com/framework/jqtouch-javascript-framework-sencha-labs
+21,PhoneGap JavaScript Framework aims to be an open source framework that allows developers to create...,10.30.2015,https://www.programmableweb.com/framework/phonegap-javascript-framework-phonegap
+22,"The Twelve-Space JavaScript Framework by Kevin Mack aims to be a Sass-based, BEM, OOCSS framework...",10.30.2015,https://www.programmableweb.com/framework/twelve-space-javascript-framework-kevin-mack
+23,jQuery.my aims to be a plugin that binds HTML controls with underlying javascript object using...,10.30.2015,https://www.programmableweb.com/framework/jquery.my-javascript-framework-ermouth
+24,ChocolateChip-UI aims to be a JavaScript framework for making mobile Web apps. It has three...,10.30.2015,https://www.programmableweb.com/framework/chocolatechip-ui-javascript-framework-sourcebits
+0,The RaptorJS aims to be a JavaScript module bundler that also provides first-level support for...,10.30.2015,https://www.programmableweb.com/framework/raptorjs-javascript-framework-raptorjs
+1,The Watir Framework aims to be an open-source (BSD) family of Ruby libraries for automating web...,10.30.2015,https://www.programmableweb.com/framework/watir-javascript-framework-watir
+2,Yeti aims to be a Framework that tests frameworks. It allows for the automation of testing for...,10.30.2015,https://www.programmableweb.com/framework/yeti-javascript-framework-yui
+3,Zombie.js aims to be a lightweight framework for testing client-side JavaScript code in a simulated...,10.19.2015,https://www.programmableweb.com/framework/zombiejs-javascript-framework-assaf-arkin
+4,The aim of the Karma JavaScript Framework is to bring instant feedback testing to developers. Its...,10.19.2015,https://www.programmableweb.com/framework/karma-javascript-framework-karma-runner
+5,CasperJS aims to be a navigation scripting & testing utility for PhantomJS and SlimerJS. The...,10.19.2015,https://www.programmableweb.com/framework/casperjs-javascript-framework-nicolas-perriault
+6,PhantomJS aims to be a headless WebKit that is scriptable with a JavaScript API. Its features...,10.19.2015,https://www.programmableweb.com/framework/phantomjs-javascript-framework-ariya-hidayat
+7,The State Machine Framework offers developers a standalone javascript micro-framework that provides...,10.19.2015,https://www.programmableweb.com/framework/state-machine-javascript-framework-jake-gordon
+8,The AngularJS JavaScript Router Framework by Angular-UI is a de-facto solution to flexible routing...,10.01.2015,https://www.programmableweb.com/framework/angularjs-javascript-router-framework-angular-ui
+9,The xCSS JavaScript Framework by Anton Pawlik aims to be a straightforward and object-oriented...,09.29.2015,https://www.programmableweb.com/framework/xcss-javascript-framework-anton-pawlik
+10,"The GroundworkCSS Framework allows for developers to use HTML5, CSS and Javascript toolkits. The...",09.25.2015,https://www.programmableweb.com/framework/groundwork-css-framework-groundworkcss
+11,"The Unsematic CSS Framework by Nathan Smith aims to be a fluid grid for mobile, tablet, and desktop...",09.25.2015,https://www.programmableweb.com/framework/unsematic-css-framework-nathan-smith
+12,The Tuktuk CSS Framework by Javi Jiménez allows for developers to create responsive front-end...,09.25.2015,https://www.programmableweb.com/framework/tuktuk-css-framework-javi-jim%C3%A9nez
+13,"The Fluidable CSS Framework by Andri Sigurðsson aims to be a mobile first, responsive grid system....",09.25.2015,https://www.programmableweb.com/framework/fluidable-css-framework-andri-sigur%C3%B0sson
+14,The Ink CSS Framework by SAPO aims to be an HTML5/CSS3 framework for design and prototyping.,09.25.2015,https://www.programmableweb.com/framework/ink-css-framework-sapo
+15,The Kickoff CSS Framework by Kickoff aims to be a lightweight front-end framework for creating...,09.25.2015,https://www.programmableweb.com/framework/kickoff-css-framework-kickoff
+16,The Cascade CSS Framework by John Slegers allows developers to split CSS into seperate files based...,09.25.2015,https://www.programmableweb.com/framework/cascade-css-framework-john-slegers
+17,The Jeet CSS Framework by MojoTech aims to be a grid system with the option to integrate fractions...,09.25.2015,https://www.programmableweb.com/framework/jeet-css-framework-mojo-tech
+18,The Responsive Broilerplate CSS Framework by fernando monteiro aims to be a lightweight (3kb) cross...,09.25.2015,https://www.programmableweb.com/framework/responsive-broilerplate-css-framework-fernando-monteiro
+19,The Susy CSS Framework allows developers to make custom layouts with CSS. The framework requires...,09.25.2015,https://www.programmableweb.com/framework/susy-css-framework-eric-suzzane
+20,"The Inuit CSS Framework by Harry Roberts aims to provide a scalable, Sass-based, BEM, OOCSS...",09.25.2015,https://www.programmableweb.com/framework/inuit-css-framework-harry-roberts
+21,"TopCoat CSS Framework by TopCoat aims to be a BEM oriented, themeable and responsive framework...",09.25.2015,https://www.programmableweb.com/framework/topcoat-javasctipt-framework-topcoat
+22,Vert.x Core is an open source framework for building responsive apps in the Java Virtual Machine (...,09.18.2015,https://www.programmableweb.com/framework/vert.x-core-framework-vert.x
+23,The Face++ iOS SDK by Face++ offers interaction with the API in Objective-C language with the goal...,09.10.2015,https://www.programmableweb.com/framework/face-ios-sdk-face
+24,This is the Python SDK for Cloud Elements allowing developers to access and integrate the...,08.25.2015,https://www.programmableweb.com/framework/cloud-elements-python-sdk-mobileworks
+0,This framework provides access to the Common Works Registration (CWR) through Python. CWR is the...,08.16.2015,https://www.programmableweb.com/framework/common-works-registration-python-framework-weso
+1,Crossroads is an Internet of Things framework that aims to simplify big data. It is targeted to...,08.16.2015,https://www.programmableweb.com/framework/crossroads-internet-things-ios-framework-feeney-wireless
+2,"Feeney Wireless, known by providing Internet of Things services, recently released Crossroads, a...",08.16.2015,https://www.programmableweb.com/framework/crossroads-internet-things-android-framework-feeney-wireless
+3,The PencilBlue Node.js Framework allows developers to access and integrate the functionality of...,07.27.2015,https://www.programmableweb.com/framework/pencilblue-node.js-framework-pencilblue
+4,"The Eskimo Node.js Framework allows developers to create Node.js powered APIs, applications, and...",07.27.2015,https://www.programmableweb.com/framework/eskimo-node.js-framework-niftylettuce
+5,The Mathjs Node.js and JavaScript Framework provides a math library for Node.js and JavaScript....,07.27.2015,https://www.programmableweb.com/framework/mathjs-node.js-javascript-framework-jos-de-jong
+6,The Spring Framework by Spring is a framework that provides developers with models for programming...,07.27.2015,https://www.programmableweb.com/framework/spring-framework-spring
+7,TinEye offers reverse image search services to maintain a person's reputation or a brand'...,07.27.2015,https://www.programmableweb.com/framework/tineye-python-library-tineye
+8,"The PSK PHP Framework aims to provide tools for routing, API versioning, data transformation,...",07.27.2015,https://www.programmableweb.com/framework/psx-php-framework-psx
+9,Meteor JavaScript Framework aims for building modern web applications. The Framework allows for...,07.13.2015,https://www.programmableweb.com/framework/meteor-javescript-framework-meteor
+10,The HiFramework is a lightweight PHP framework built to create php applications.,07.13.2015,https://www.programmableweb.com/framework/hiframework-php-framework-diego-mariani
+11,"The Wee JavaScript frameworks aims to be a mobile-first CSS framework with reset, base, and Less...",07.13.2015,https://www.programmableweb.com/framework/wee-javascript-framework-wee-power
+12,TourCMS Angular.js SDK by TourCMS provides developers an Angular framework to work with the TourCMS...,06.30.2015,https://www.programmableweb.com/framework/tourcms-angular-sdk-tourcms
+13,The Cerebral JavaScript Framework aims to be a skeleton framework for application development. The...,06.24.2015,https://www.programmableweb.com/framework/cerebral-javascript-framework-christian-alfoni
+14,"The Zikula PHP Framework by Zikula offers a web based application framework, fully extensible by...",06.24.2015,https://www.programmableweb.com/framework/zikula-php-framework-zikula
+15,The Symfony PHP Framework by SensioLabs aims to provide a standard foundation for building PHP...,06.24.2015,https://www.programmableweb.com/framework/symfony-php-framework-sensiolabs
+16,The BEAR.Resource aims to be a Hypermedia framework that allows for resources to behave as objects...,06.24.2015,https://www.programmableweb.com/framework/bear.resource-php-framework-bear.sunday
+17,The BEAR.Sunday PHP Framework aims to be a resource orientated framework with a REST centered...,06.24.2015,https://www.programmableweb.com/framework/bearsunday-php-framework-bearsunday
+18,The Furtive CSS JavaScript Framework by Jon Otander is a JavaScript framework that allows for...,06.24.2015,https://www.programmableweb.com/framework/furtive-css-javascript-framework-jon-otander
+19,T3 JavaScript Framework aims to be a client-side JavaScript framework for building large-scale web...,06.24.2015,https://www.programmableweb.com/framework/t3-javascript-framework-box
+20,The Deployd JavaScript Framework by Deployd aims to be an API building tool that provides ready-...,06.24.2015,https://www.programmableweb.com/framework/deployd-javascript-framework-deployd
+21,The iCloudDocumentSync project by iRare Media integrates iCloud into iOS documents. With this...,06.24.2015,https://www.programmableweb.com/framework/iclouddocumentsync-framework-irare-media
+22,This Diffbot Client by Diffbot supports Dart programming language interaction with Diffbot APIs.,06.24.2015,https://www.programmableweb.com/framework/diffbot-dart-client-diffbot
+23,"The Materialize JavaScript Framework was created and designed by Google, Material Design is a...",06.17.2015,https://www.programmableweb.com/framework/materialize-javascript-framework-materialize
+24,"The Mezzanine CMS Django framework provides MVC architecture, ORM, tempting, caching, automatic...",06.17.2015,https://www.programmableweb.com/framework/mezzanine-cms-framework-django-stephenmcd
+0,This is a PHP SDK for working with Docker's API. Docker offers an open platform for...,06.17.2015,https://www.programmableweb.com/framework/docker-remote-php-sdk-stage1
+1,The Kohana PHP Framework by Kohana is a web development framework that allows for the building of...,06.09.2015,https://www.programmableweb.com/framework/kohana-php-framework-kohana
+2,"The Sails framework is a web framework that allows developers to build custom, enterprise-grade...",06.09.2015,https://www.programmableweb.com/framework/sails-node.js-framework-balderdash
+3,The Play Java Framework by Play allows for a high-productivity Java web application framework that...,06.09.2015,https://www.programmableweb.com/framework/play-java-framework-play
+4,"Phalcon PHP Framework by Phalcon is an open source, full stack framework for PHP written as a C-...",06.09.2015,https://www.programmableweb.com/framework/phalcon-php-framework-phalcon
+5,Slim is a PHP micro framework that aims to help developers write web applications and APIs. The...,06.09.2015,https://www.programmableweb.com/framework/slim-php-framework
+6,The Sensu Ruby Framework by Sensu is an open source framework that aims to provide a monitoring...,06.09.2015,https://www.programmableweb.com/framework/sensu-ruby-framework-sensu
+7,The Flickr iOS framework by David Casserly has been created to access the Flickr API just like the...,06.04.2015,https://www.programmableweb.com/framework/flickr-ios-framework-david-casserly
+8,"Cloudmade Geocoding is a system that provides predictive learning, map data enrichment, and...",06.04.2015,https://www.programmableweb.com/framework/cloudmade-geocoding-static-framework-landon-fuller
+9,The Cloudmade Geocoding API supports connected car content features such as map portals and driver...,06.04.2015,https://www.programmableweb.com/framework/cloudmade-geocoding-mac-os-framework-apple
+10,"PSX is a framework written in PHP to create RESTful APIs. It provides tools to handle routing, API...",05.13.2015,https://www.programmableweb.com/framework/psx-php-framework-christoph-kappestein
+11,The Ensembles Core Data iOS Framework by Drew McCormack aims to extend Apple's Core Data...,05.13.2015,https://www.programmableweb.com/framework/ensembles-core-data-ios-framework-drew-mccormack
+12,"The iOS Charts Framework by Daniel Cohen Gindideveloping is for both platforms, as the learning...",05.13.2015,https://www.programmableweb.com/framework/ios-charts-framework-daniel-cohen-gindi
+13,The ROAD iOS Framework by EPam Systems is a set of reusable components taking advantage of extra...,05.05.2015,https://www.programmableweb.com/framework/road-ios-framework-epam-systems
+14,The CocoaLumberJack iOS Framework By CocoaLumberJack is a logging framework for Mac and iOS....,05.05.2015,https://www.programmableweb.com/framework/cocoalumberjack-ios-framework-cocoalumberjack
+15,The Mantle iOS Framework by Mantle is a model framework for Cocoa and Cocoa Touch. It is written in...,05.05.2015,https://www.programmableweb.com/framework/mantle-ios-framework-mantle
+16,The AFNetworking iOS Framework by AFNetworking is a networking library for iOS and Mac OS X. It...,05.05.2015,https://www.programmableweb.com/framework/afnetworking-ios-framework-afnetworking
+17,"The DFImage Manager by Alexander Grebenyuk is an iOS framework for loading, caching, processing,...",05.05.2015,https://www.programmableweb.com/framework/dfimage-manager-alexander-grebenyuk
+18,The UiImage iOS Framework by Mad Dog Software has IOS UIImage processing functions using the vDSP/...,05.05.2015,https://www.programmableweb.com/framework/uiimage-ios-framework-mad-dog-software
+19,The GPUImage framework is a BSD-licensed iOS library that allows developers to apply GPU-...,05.05.2015,https://www.programmableweb.com/framework/gpuimage-ios-framework-brad-larson
+20,"The WURFL is a Device Description Repository (DDR), or framework that enables applications to map...",05.05.2015,https://www.programmableweb.com/framework/wurfl-php-framework-scientiamobile
+21,"This Go client is auto generated by Google for use with their APIs, including BigQuery. The...",04.28.2015,https://www.programmableweb.com/framework/google-bigquery-go-sdk-google
+22,The AddThis Web Service Framework by AddThis describes the common properties of all the APIs...,04.24.2015,https://www.programmableweb.com/framework/addthis-web-service-framework-addthis
+23,RestKit is an Objective-C framework for iOS that aims to make interacting with RESTful web services...,04.17.2015,https://www.programmableweb.com/framework/restkit-ios-framework-restkit
+24,The eMobc IOS Framework allows for the development of native apps based in XML.,04.17.2015,https://www.programmableweb.com/framework/emobc-ios-framework-emobc
+0,The eMobc Android Framework allows for the creation of native apps based in XML in Android. The...,04.17.2015,https://www.programmableweb.com/framework/emobc-android-framework-emobc
+1,The Nimbus is an iOS framework is a whose feature based framework that allows for problem solving...,04.17.2015,https://www.programmableweb.com/framework/nimbus-ios-framework-jeff-verkoeyen
+2,The PowerMock is a Java framework that allows you to unit test code normally regarded as untestable...,04.17.2015,https://www.programmableweb.com/framework/powermock-javascript-framework-jayway
+3,"The Core Plot is a plotting framework for Mac OS X and iOS. It provides 2D visualization of data,...",04.17.2015,https://www.programmableweb.com/framework/core-plot-ios-framework-core-plot
+4,"The Box2D C++ Framework is a 2D rigid body physics engine, written in C++ by Erin Catto. Box2D is...",04.17.2015,https://www.programmableweb.com/framework/box2d-c-framework-box2d
+5,The TouchXML Framework is an iOS framework written in Objective-C as a replacement for Cocoa's...,04.17.2015,https://www.programmableweb.com/framework/touchxml-ios-framework-touchcode
+6,The Facebook React Native Framework by Facebook allows developers to build quality applications on...,04.17.2015,https://www.programmableweb.com/framework/facebook-react-native-framework-facebook
+7,The Gem Bitcoin Python Library by BitVault allows developers to integrate the Gem Bitcoin API'...,04.17.2015,https://www.programmableweb.com/framework/gem-bitcoin-python-library-bitvault
+8,The Sauce Labs PHP Framework provides automated application testing. The SDK is written in PHP.,04.15.2015,https://www.programmableweb.com/framework/sauce-labs-php-framework-sauce-labs
+9,The USA ePAY Perl Framework by CPAN is an online payment framework for USA ePay and a generic...,04.15.2015,https://www.programmableweb.com/framework/usa-epay-perl-framework-cpan
+10,The Wepay Python Framework by Wepay allows developers to build on their API and add payments into...,04.10.2015,https://www.programmableweb.com/framework/wepay-python-framework-wepay
+11,"Use this JavaScript SDK from Acision to add video and voice calling, messaging, content sharing,...",04.07.2015,https://www.programmableweb.com/framework/forge-javascript-sdk-acision
+12,The OAuth Django Framework by eofs makes it easy for developers to access the OAuth API using the...,04.07.2015,https://www.programmableweb.com/framework/oauth-django-framework-eofs
+13,The Ionic Javascript Framework by Ionicis a HTML5 native app development framework that allows...,04.03.2015,https://www.programmableweb.com/framework/ionic-javascript-framework-ionic
+14,"The Yii PHP Framework by Yii is a free, open source project released under the terms of the BSD...",04.03.2015,https://www.programmableweb.com/framework/yii-php-framework-yii
+15,A PERL SDK for interfacing with SendGrid's SMTP API. This SDK provides a wrapper for custom...,03.21.2015,https://www.programmableweb.com/framework/sendgrid-smtp-perl-sdk-sendgrid-perl
+16,The Google Affiliate Network Java Library allows developers to integrate Google Affiliate Network...,03.11.2015,https://www.programmableweb.com/framework/google-affiliate-network-java-library
+17,"The Skeleton framework allows developers a framework for smaller, responsive CSS projects that don...",03.05.2015,https://www.programmableweb.com/framework/skeleton-css-framework
+18,Use this framework for building iOS and OSX App.net applications. The framework offers 100% App.net...,02.06.2015,https://www.programmableweb.com/framework/app.net-objective-c-framework
+19,This Python language framework allows interaction between Django model interface and Twitter API...,02.02.2015,https://www.programmableweb.com/framework/django-twitter-api-0.2.1-framework
+20,"The LifePics service provides photo finishing and printing, including online storage and sharing of...",01.26.2015,https://www.programmableweb.com/framework/lifepics-android-sdk
+21,Kraken is a framework in Node.js language that assists in the application development process with...,01.07.2015,https://www.programmableweb.com/framework/krakenjs-framework
+22,Laravel is a framework in PHP language that invites developers to contribute for continuous...,01.07.2015,https://www.programmableweb.com/framework/laravel-php-framework
+23,Dogpatch is a framework designed to test HTTP-accessible APIs. The package is written in PHP using...,12.23.2014,https://www.programmableweb.com/framework/dogpatch-php-framework
+24,Gisgraphy is a framework that helps users integrate geocoding services into their Java applications...,12.22.2014,https://www.programmableweb.com/framework/gisgraphy
+0,This library allows developers using Solaris to create their Bloomberg API with Perl. Solaris...,12.17.2014,https://www.programmableweb.com/framework/bloomberg-solaris-perl-library
+1,Rest.li is an end to end framework optimal for building RESTful APIs. Some of the features of this...,12.17.2014,https://www.programmableweb.com/framework/rest.li-java-framework
+2,"Java API for RESTful Services (JAX-RS) started as part of the Gen incubator, a community of...",12.17.2014,https://www.programmableweb.com/framework/jax-rs-java-framework
+3,Django REST framework in Python language aims to facilitate the creation of Web APIs. The...,12.17.2014,https://www.programmableweb.com/framework/django-python-framework
+4,Flask is a micro framework for Python supported by a BSD license. The documentation available on...,12.17.2014,https://www.programmableweb.com/framework/flask-python-framework
+5,Microsoft ASP.NET Web API is a framework in .NET language that aims to facilitate HTTP building...,12.17.2014,https://www.programmableweb.com/framework/microsoft-asp.net-web-api-framework
+6,Sinatra is an open source framework in Ruby. It is a domain-specific language that aims to...,12.17.2014,https://www.programmableweb.com/framework/sinatra-ruby-framework
+7,Fortune.js is a framework in Node.js language. This framework can prototype hypermedia APIs with...,12.17.2014,https://www.programmableweb.com/framework/fortune.js-framework
+8,Expressjs.com is a framework in Node.js language. Thanks to the resources available that include an...,12.17.2014,https://www.programmableweb.com/framework/express.js-framework
+9,"Eskimo is a framework that helps developers construct Node.js powered APIs, online retail stores,...",12.02.2014,https://www.programmableweb.com/framework/eskimo-node.js-framework
+10,"The Freedomotic Framework is an open-source, flexible, and secure development framework. It's...",11.27.2014,https://www.programmableweb.com/framework/freedomotic-framework
+11,"Zend is a Framework on PHP. Some of the features include security, modularity, and community. To...",11.24.2014,https://www.programmableweb.com/framework/zend-framework
+12,Restlet is a framework on Java. Some of the steps to interact with Restlet include concepts related...,11.24.2014,https://www.programmableweb.com/framework/restlet-framework
+13,"SproutCore is an open source framework on JavaScript. The origins of SproutCore go back to 2007,...",11.24.2014,https://www.programmableweb.com/framework/sproutcore-framework
+14,"Datumbox Machine Learning Framework is written Java, which enables the development of Machine...",11.21.2014,https://www.programmableweb.com/framework/datumbox-framework
+15,Cake PHP is a framework that aims to build web applications with less code. Simplicity and easiness...,11.21.2014,https://www.programmableweb.com/framework/cake-php-framework
+16,Guzzle is a framework on PHP HTTP that allows to interact with web services. Guzzle's...,11.21.2014,https://www.programmableweb.com/framework/guzzle-framework
+17,Flight is a micro-framework on PHP that allows developers to create RESTful applications. Flight...,11.21.2014,https://www.programmableweb.com/framework/flight-framework
+18,"Fat-Free is a framework on PHP. To develop applications, users can refer to the guide available on...",11.21.2014,https://www.programmableweb.com/framework/fat-free-framework
+19,Sencha Touch is an HTML5 framework that helps to create mobile applications targeted to businesses...,11.21.2014,https://www.programmableweb.com/framework/sencha-touch-framework
+20,Atoms Neurospeech is a JavaScript framework inspired from Flex and Silverlight. Atoms offers one...,11.20.2014,https://www.programmableweb.com/framework/atoms-neurospeech-framework
+21,Rico is a framework on JavaScript that aims to ease interactive web application development. Drag-...,11.20.2014,https://www.programmableweb.com/framework/rico-framework
+22,Prototype is an object-oriented framework on Javascript. It aims to facilitate web applications...,11.20.2014,https://www.programmableweb.com/framework/prototype-framework
+23,Sencha Ext is a framework on Javascript that can be used to build business mobile applications....,11.20.2014,https://www.programmableweb.com/framework/sencha-ext-framework
+24,Dojo toolkit 1.10 is an HTML5 framework on Javascript for mobile application development. This...,11.20.2014,https://www.programmableweb.com/framework/dojo-toolkit-framework
+0,"Chaplin is a framework on Javascript that uses the Backbone.js library. With Chaplin, web...",11.20.2014,https://www.programmableweb.com/framework/chaplin-framework
+1,Sammy is a framework on Javascript. It is 16K compressed and 5.2 compressed and gzipped. This...,11.13.2014,https://www.programmableweb.com/framework/sammy-framework
+2,"Can is a framework on Javascript. It aims to build applications that are flexible, powerful, and...",11.13.2014,https://www.programmableweb.com/framework/can-javascript-framework
+3,"Backbone is a framework on Javascript. It connects events, collections, and functions to existent...",11.13.2014,https://www.programmableweb.com/framework/backbone-framework
+4,"Written in Java and Android compatible, Licas allows you to build service-based networks. All of...",11.13.2014,https://www.programmableweb.com/framework/licas-framework
+5,PyGtalkRobot is a Google Talk bot framework written in Python. This framework requires the user to...,11.13.2014,https://www.programmableweb.com/framework/pygtalkrobot-google-talk-python-framework
+6,Derby.js is a framework designed for developers to create collaborative real time web applications...,11.05.2014,https://www.programmableweb.com/framework/derby.js-framework
+7,The Zendesk framework can be utilized to construct robust Zendesk-themed apps with the help of...,10.17.2014,https://www.programmableweb.com/framework/zendesk-framework
+8,"Connect IQ a platform for third-party developers to create apps for Garmin products, and the...",10.17.2014,https://www.programmableweb.com/framework/garmin-connect-iq-sdk
+9,This Ruby on Rails gem allows developers to easily integrate Algolia into object relational mapping...,10.13.2014,https://www.programmableweb.com/framework/algolia-rails-client
+10,"Feed.Fm offers Unity SDK, a kit that wraps the REST API for the Unity environment. Developers can...",09.17.2014,https://www.programmableweb.com/framework/feed.fm-unity-sdk
+11,"The Splunk developer platform consists of three primary components: Splunkd, the engine; Splunk Web...",09.17.2014,https://www.programmableweb.com/framework/splunk-php-sdk
+12,GuildWars2::API is a PERL library that provides a set of standard interfaces for interacting with...,09.07.2014,https://www.programmableweb.com/framework/guildwars2api
+13,"GW2API by Frugghi is an Objective-C framework for accessing the Guild Wars 2 API, especially for...",09.06.2014,https://www.programmableweb.com/framework/gw2api-frugghi
+14,Durmand Priory is a framework written in Objective-C for accessing the Guild Wars 2 API. All of the...,09.06.2014,https://www.programmableweb.com/framework/durmand-priory
+15,React is a JavaScript framework that helps developers build user interfaces. It can easily serve as...,09.05.2014,https://www.programmableweb.com/framework/react-javascript-framework
+16,Ember-Runtime is a framework that provides core functions for Ember including cross-platform...,09.05.2014,https://www.programmableweb.com/framework/ember-javascript
+17,"Google provides AngularJS, a framework that can help developers to extend an application in HTML...",09.05.2014,https://www.programmableweb.com/framework/angularjs
+18,Meteor is a service that allows users to build web applications. Some features of Meteor include...,09.05.2014,https://www.programmableweb.com/framework/meteor-javascript-framework
+19,"Bottle is a Python Web Framework. With Bottle users can request calls, receive support for mako,...",08.27.2014,https://www.programmableweb.com/framework/bottle
+20,"Tornado is a framework developed at FriendFeed, a feed created with friends' news, articles,...",08.27.2014,https://www.programmableweb.com/framework/tornado
+21,"Giotto is a framework based on the model, view and controllers (MVC) concept. Some of the...",08.27.2014,https://www.programmableweb.com/framework/giotto
+22,The Nav SDK by Cloudmade is designed for developers to implement customizable tools into mobile...,08.21.2014,https://www.programmableweb.com/framework/cloudmade-nav-sdk
+23,easyXDM is a JavaScript framework that enables easy cross-domain messaging and JavaScript API...,08.20.2014,https://www.programmableweb.com/framework/easyxdm-framework
+24,Grape is a RESTful micro-framework that allows developers to build simple APIs in Ruby. With built...,08.18.2014,https://www.programmableweb.com/framework/grape
+0,Zillow API in Cake allows developers to access the Zillow API using the CakePHP development...,08.11.2014,https://www.programmableweb.com/framework/zillow-api-cake
+1,"restify is a small framework that borrows from express, used to build RESTful web services in Node....",07.31.2014,https://www.programmableweb.com/framework/restify
+2,Express is a minimal node.js web application framework. It offers developers a full set of features...,07.30.2014,https://www.programmableweb.com/framework/express
+3,Hapi is a server framework for Node.js originally created by Walmart Labs. It is designed as a...,07.30.2014,https://www.programmableweb.com/framework/hapi
+4,FMEngine is an Objective-C framework created for the Last.fm API. The framework doesn't parse...,07.24.2014,https://www.programmableweb.com/framework/fmengine
+5,lastfm-sharp is an open-source .NET interface to the Last.fm API. It comes with proxy support and...,07.24.2014,https://www.programmableweb.com/framework/lastfm-sharp
+6,Flickraw is a Ruby library that provides an interface to the Flickr API. Data returned through the...,07.23.2014,https://www.programmableweb.com/framework/flickraw
+7,The PRINTR3D PHP Wrapper is designed to allow developers to easily integrate their PHP web...,07.20.2014,https://www.programmableweb.com/framework/printr3d-php-wrapper
+8,FlickrKit is a library written in iOS Objective-C to help developers access the Flickr API. It is...,07.13.2014,https://www.programmableweb.com/framework/flickrkit
+9,ObjectiveFlickr is a framework for implementing the Flickr API in Objective-C. ObjectiveFlickr was...,07.13.2014,https://www.programmableweb.com/framework/objectiveflickr
+10,The very first Hacklang framework. It takes the best of the language and bring it to your...,07.08.2014,https://www.programmableweb.com/framework/fastuc
+11,The OpenBR project has produced a new language for image recognition used to express algorithms....,07.06.2014,https://www.programmableweb.com/framework/openbr
+12,Node IMDB API is a Node.js interface to the Unofficial IMDB API. It provides developers with a non-...,06.21.2014,https://www.programmableweb.com/framework/node-imdb-api
+13,The DocuSign Mobile SDK for iOS allows developers to integrate Digital Transaction Management...,06.04.2014,https://www.programmableweb.com/framework/docusign-mobile-sdk
+14,"This .NET SDK provides easy access to the Google Data APIs. It supports services like YouTube,...",05.29.2014,https://www.programmableweb.com/framework/google-data-apis-.net-sdk
+15,Famo.us is an open source JavaScript framework for mobile applications. The best known feature of...,05.21.2014,https://www.programmableweb.com/framework/famo.us
+16,Crafted.Twitter is compromised of an ASP .Net web form and MVC HTMLhelper extension to help...,05.21.2014,https://www.programmableweb.com/framework/crafted.twitter
+17,Zend Framework 2 is an open source object oriented framework for developing web applications in PHP...,05.16.2014,https://www.programmableweb.com/framework/zend-framework-2
+18,Spring Application Framework provides connection support and API binding for Twitter.,05.10.2014,https://www.programmableweb.com/framework/spring.net-social-extension-twitter
+19,Simple ASP code library supporting the Twitter API v 1.1,05.09.2014,https://www.programmableweb.com/framework/asp-twitter
+20,The Twitter iOS framework provides developers with framework examples for iOS5+ and iOS6+,05.09.2014,https://www.programmableweb.com/framework/ios-twitter-framework
+21,FRAPI is an API Open Source RESTful API Framework consisting of two specific parts: The...,04.29.2014,https://www.programmableweb.com/framework/frapi
+22,"Recess is a RESTful, full-stack PHP framework designed to support both experienced and beginning...",04.29.2014,https://www.programmableweb.com/framework/recess
+23,"Tonic is an open-source RESTful web App PHP micro-framework. Features include URI annotations,...",04.28.2014,https://www.programmableweb.com/framework/tonic
+24,Epiphany is a micro PHP framework meant to be clean and RESTful. It is designed to be simple yet...,04.28.2014,https://www.programmableweb.com/framework/epiphany
+0,Slim is a lightweight micro framework that developers can use to build web applications and RESTful...,04.28.2014,https://www.programmableweb.com/framework/slim-php-framework-slim
+1,Includes Spring Social's core service provider connect framework and web support.,11.30.2011,https://www.programmableweb.com/framework/spring-social-core
+2,The 140dev Twitter Framework is a free source code library containing a Twitter database server for...,04.01.2011,https://www.programmableweb.com/framework/140dev-twitter-framework
+3,Zend Framework based client for the Twilio API. Still in the first stages of development. Expect...,01.03.2011,https://www.programmableweb.com/framework/twilio-client-zend-framework
+4,"An overview and introduction to an open source project, Facebook.NET, a framework optimized for...",07.23.2008,https://www.programmableweb.com/framework/facebook.net-open-source-facebook
