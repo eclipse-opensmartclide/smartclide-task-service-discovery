@@ -609,16 +609,16 @@ TODO?: handle 429 with proxys?
 # print("\nSDK")
 # df_frame = download_data(SDK_TYPE, SDK_URL, SDK_PAGES, 20,
 #                          SDK_LIST, SDK_BATCH, True)
-# time.sleep(3600)  # 1h
+time.sleep(3600)  # 1h
 
-# print("\nMASH")
-# df_frame = download_data(MASH_TYPE, MASH_URL, MASH_PAGES, 20,
-#                          MASH_LIST, MASH_BATCH, False)
-# time.sleep(3600) 
+print("\nMASH")
+df_frame = download_data(MASH_TYPE, MASH_URL, MASH_PAGES, 20,
+                         MASH_LIST, MASH_BATCH, False)
+time.sleep(3600) 
 
-# print("\nCODE")
-# df_frame = download_data(CODE_TYPE, CODE_URL, CODE_PAGES, 20,
-#                          CODE_LIST, CODE_BATCH, False)
+print("\nCODE")
+df_frame = download_data(CODE_TYPE, CODE_URL, CODE_PAGES, 20,
+                         CODE_LIST, CODE_BATCH, False)
 
-# print("\nFin")
+print("\nFin")
 
