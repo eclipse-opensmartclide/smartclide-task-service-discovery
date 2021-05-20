@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/scoumbourdis/grocery-crud.git,Grocery CRUD is a PHP Codeigniter Framework library that creates a full functional CRUD system without the requirement of extra customisation to the JavaScripts or the CSS to do it so.,"grocery-crud,php,codeigniter,codeigniter3",966
+0,https://github.com/jspahrsummers/GroceryList.git,"iPhone grocery list app, synchronized using GitHub :banana:",,866
+0,https://github.com/Widle-Studio/Grocery-App.git,"Flutter Grocery Shopping App (Mobile App, Web App) - Want to develop similar solutions for your business? Connect with us - info@widle.studio Or just submit an inquiry we will connect with you within 24 hours - https://forms.gle/L9EBUnSasYcUAn8Q9","flutter,dart,flutter-apps,ecommerce-application,ecommerce,ecommerce-store,ecommerce-shopping-solution,material-design,material-ui,flutter-material,grocery,flutter-demo,flutter-examples,flutter-material-app,flutter-showcase,flutter-app,flutter-ui,flutter-widget,flutter-web,florida",586
+0,https://github.com/NativeScript/sample-Groceries.git,:green_apple: :pineapple: :strawberry: A NativeScript-built iOS and Android app for managing grocery lists,,485
+0,https://github.com/bruz/react-native-redux-groceries.git,"A simple grocery list app with offline support, built with React Native, Redux, Firebase","react-native,redux,firebase",423
+0,https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI.git,🍔😋 Grocery Shopping  App template UI kit in Flutter ,"flutter,ui,mobile,ios,android,uikit,freebie,food-ordering,grocery,app,made-in-nigeria",401
+0,https://github.com/tralves/groceries-ns-vue.git,🍏 🍍 🍓 A NativeScript+Vue iOS and Android app for managing grocery lists,"vuejs,nativescript,nativescript-vue",298
+0,https://github.com/danslimmon/oscar.git,"{""Scan your coffee's barcode, and it'll get added to your grocery list""}",,254
+0,https://github.com/thymeleaf/thymeleafexamples-gtvg.git,"Good Thymes Virtual Grocery - Companion application for the  ""Using Thymeleaf"" tutorial downloadable at the Thymeleaf website: http://www.thymeleaf.org/documentation.html",,250
+0,https://github.com/LenzDu/Kaggle-Competition-Favorita.git,5th place solution for Kaggle competition Favorita Grocery Sales Forecasting,"deep-learning,machine-learning,kaggle,keras,cnn,lstm,lightgbm,python,time-series",178
+0,https://github.com/marcusklasson/GroceryStoreDataset.git,Grocery Store Dataset,,163
+0,https://github.com/facebook/grocery-delivery.git,The Grocery Delivery utility for managing cookbook uploads to distributed Chef backends.,,138
+0,https://github.com/wisdal/Image-classification-transfer-learning.git,Categorizing food and grocery products using Transfer Learning from Inception V3,,121
+0,https://github.com/gulvarol/grocerydataset.git,"Toward Retail Product Recognition on Grocery Shelves, 2014",,96
+0,https://github.com/Shmakov/kroger-cli.git,Clip coupons and earn points at Kroger-owned grocery chains,"digital-coupons,kroger,ralphs,kroger-cli,survey,coupons,headless-chrome",83
+0,https://github.com/sahuadarsh0/GoGrocery.git,"Its an eCommerce app inspired from Amazon , big Basket , grofers ,grocery app , Etc ","bigbasket,grocery,android,ecommerce,amazon,uikit,ui-kit,flipkart,shopping,shopping-cart,shoppingcart,cart,technitedminds",64
+0,https://github.com/cnstoll/Grocery-Recipe-Format.git,Markdown Recipe Format used by Grocery,,59
+0,https://github.com/quintuslabs/GroceryStore-with-server.git,Grocery Store with server integration,"android,android-application,android-ui,android-sdk,ecommerce,e-commerce,e-commerce-project,grocery-store,grocery,app,java,grocerystore,php,mysql,api,react,python,django,reactnative,redux",55
+0,https://github.com/tjvantoll/groceries.git,A web-based grocery-management app built with Angular 2,,48
+0,https://github.com/sayakpaul/Grocery-Product-Detection.git,This repository builds a product detection model to recognize products from grocery shelf images.,"tfod-api,detection,product-recognition,vision",48
+0,https://github.com/MattKleinsmith/void-detector.git,Detect voids in grocery store shelves.,,46
+0,https://github.com/halfnelson/svelte-native-grocery.git,Nativescript Grocery Example in Svelte ,,42
+0,https://github.com/czyrux/GroceryStore.git,Grocery Store application to showcase good practices in android development,,42
+0,https://github.com/BlondelSeumo/Delivery-Boy-for-Groceries-Foods-Pharmacies-Stores-Flutter-App.git,"Delivery Boy Flutter App + PHP Laravel Admin Panel, Mobile app solution using a flutter framework created by Google is open-source mobile application development. It is used to develop applications for Android and iOS, as well as being the primary method of creating applications Our solution uses Laravel (PHP Framework for Web Artisans). Laravel is a web application framework with an expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things. Here are the Flutter App Features:      - Grocery, Food, Pharmacy, Store Management System     - Google Maps for showing restaurants on the maps with direction to them     - Entities & Models are ready to use.     - Clean & organized Dart Language code using MVC Pattern     - Easy to restyle and theming by on your branding sites.    - Working fine with bright and dark mode.     - Awesome animations are ready to use: Hero Animations, Parallax Animations, Sliding & Swiping animations    - Working really well on both iOS and Android with support with 60 frames per second (fps).    - Cash on delivery and payment on pickup methods    - Support RTL languages (Arabic, Farisi…)    - Push notification using FCM (Firebase Cloud Messaging)    - Login    - Register    - Orders   -  Notifications    - User Profile     - Orders History     - App Settings     - App Languages     - Help & Supports     - Account Settings",,42
+0,https://github.com/matteocargnelutti/jean-pierre.git,A Raspberry Pi robot that helps people make their grocery list.,"raspberry-pi,diy,openfoodfacts,gpio,python,flask",40
+0,https://github.com/ByteToBit-Technologies/Flutter-Grocery-Home.git,Flutter Grocery Shopping App,"flutter,dart,flutter-apps,ecommerce,shopping-cart,shopping,flutter-material,grocery",36
+0,https://github.com/ajayrandhawa/Grocery-CMS-PHP-Restful-API.git,"Grocery-CMS-PHP-Restful-API is an online grocery shop. The project is developed by using PHP/MySQL/Slim Restful API. The project has powerful backend cms to manage grocery shop online. it has features like add items, remove items, update price, manage orders etc. Restful API ready to embed in Application using JSON data.","grocery-store,grocery-managementsystem,php,mysql,slim-framework,restful-api,content-management-system,cms,json-api",36
+0,https://github.com/MengtingWan/grocery.git,"{""models for grocery shopping behavior (Wan et al, CIKM'18, Wan et al, WWW'17)""}","recommender-system,machine-learning,data-mining",34
+0,https://github.com/MissMeg/home-automation-app.git,"An app to show weather, todos, calendar events, and a grocery list using a touch display and a raspberry pi.","hacktoberfest,hacktoberfest2020,python,flask,html,javascript",29
+0,https://github.com/bentolor/microframeworks-showcase.git,"A simple grocery list webapplication implemented with the Microframeworks Spark Java, Jodd, Ninja, Javalite, Pippo and Ratpack","jodd,gradle,ninja,ratpack,java,spark,demo-application,intellij,micro-framework,javalite,pippo,sparkjava,ng",29
+0,https://github.com/quintuslabs/GroceryStore.git,Grocery store template is created as a wonderful solution for any agricultural or organic food shop Android App UI template. It is a template for an Android developer that want to create grocery application with a clean design. The template is only lay outing without data flow and communication with the backend system. This UI Template can reduce your development time and will loved by developer that hate lay outing design!  You can use this app as one big super market app to sale product of your store. This app make easy for user to buy product from store with easy steps and store can get easy order.,"android,android-application,java,ecommerce,grocery,android-app,android-ui,android-studio,material-design,material-ui,store,grocery-store,ui-design,template,xml,grocerystore,grocery-application,grocery-managementsystem,grocery-list",28
+0,https://github.com/cart-savior/cart_savior.git,A repository for 42 project related to grocery shopping,,27
+0,https://github.com/Codebrahma/serverless-grocery-app.git,Grocery Purchase app with serverless AWS Lambda + DynamoDB + React,"serverless,serverless-examples,nodejs,reactjs,react-redux,dynamodb,serverless-applications",26
+0,https://github.com/hoodunit/grub.git,Real-time synced grocery list (demo app),,26
+0,https://github.com/saadpasta/Grocery-Items-Detection.git,🎉 Grocery Items Detection using Tenserflow.js and IBM Watson.📸,"tensorflow,object-detection,ibm,ibm-watson",25
+0,https://github.com/abhinavsagar/Grocery-Product-Classification.git,"Implementation of the paper ""A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels""","image-classification,grocery,multi-class-classification,freiburg,freiburg-groceries-dataset,computer-vision,computer-vision-retail,grocery-image-classificaton",23
+0,https://github.com/ukirderohit/Python-Final-Project.git,Grocery-Store,"python,tkinter",22
+0,https://github.com/nmaehlmann/mallRL.git,Grocery shopping roguelike developed for the 7drl game jam,,22
+0,https://github.com/slackvishal/flutter_grocery_shopping.git,Flutter grocery shopping app UI concept,"flutter,flutteruidesign",21
+0,https://github.com/ceshine/favorita_sales_forecasting.git,Solution to Corporación Favorita Grocery Sales Forecasting Competition,"pytorch,time-series,python",21
+0,https://github.com/ParasGarg/Online-Grocery-Store.git,"Online Grocery Store is an eCommerce based web application for our Web Programming project. We had developed a sample in which user can search and find necessary information about any grocery item, can proceed to checkout to buy products. User can create an account, update personal information, can check its past activities, orders and transactions, and cart items.","web-application,web-programming,javascript,html-css,project,stevens-institute-of-technology,bootstrap,node-js,mongodb,visual-studio-code",21
+0,https://github.com/Akshay-Hegde/grocery_crud_multiuploader.git,Grocery Crud Multiuploader Library,,18
+0,https://github.com/scoumbourdis/grocery-crud-databases.git,This is an extension of grocery CRUD databases to include all the databases that Codeigniter Supports,,18
+0,https://github.com/jphastings/TescoGroceries.git,A seriously simple ruby library for accessing the Tesco grocery api,,18
+0,https://github.com/btrotta/kaggle-favorita.git,Code for top 3% result in the Kaggle Corporacion Favorita Grocery Sales Forecasting competition.,,17
+0,https://github.com/sairahul1526/grocery.git,Grocery application using Flutter,"flutter,firebase,grocery",16
+0,https://github.com/freakified/PebbleChecklist.git,Grocery shopping will never be the same.,,16
+0,https://github.com/Riyadhahmed/Modular-CI-ION-Auth-Grocery-AdminLte.git,"Modularbase codeigniter Adminlte admin panel with grocery crud, ion auth and many more","php,adminlte,grocery-crud,ion-auth,bootstrap,codeigniter,admin-dashboard,hmvc-framework",16
+0,https://github.com/timroesner/WeMart.git,🛒 Online grocery shopping portal. Created as part of the course CmpE 133 during spring 2018.,"reactjs,js",16
+0,https://github.com/bearclough/grocery-list.git,"A Swift iOS application created to share a grocery list with your partner, kids, or business associates",,15
+0,https://github.com/mblarsen/elm-fire-grocery.git,Simple Elm grocery list app with Firebase backend,,15
+0,https://github.com/settysantu/mintleaf.git,Grocery Responsive OpenCart Theme,"opencart,opencart-theme,opencart-3x,grocery,responsive-theme,opencart-responsive-theme",14
+0,https://github.com/greysama/extension_grocery_crud.git,The proper way of extending Grocery CRUD,,14
+0,https://github.com/NauzetAduen/grocery_list_app.git,Simple grocery app made with flutter,"flutter,flutter-app,android-application,ios-app,cross-platform",14
+0,https://github.com/melhamin/grocery_shop_flutter.git,Grocery shop eCommerce app UI built with Flutter.,"flutter,flutter-ui,flutter-examples,flutter-app,android-app,ios-app",14
+0,https://github.com/jitendra291/PHP-Online-Shop.git,"Online Grocery Shop portal developed in PHP and Mysql. This portal is having all the main feature like Add to cart,order.",,14
+0,https://github.com/subhendukundu/Electron-GoogleSheet.git,A electron application using google spreadsheet api v4. This could be used as desktop application where the user could update different data in a google spreadsheet. Could be used in grocery stores to track orders.,"electron,electron-app,google-sheets-api,google-spreadsheet,google-sheets,electron-google-sheet",14
+0,https://github.com/Devsteam-mobi/Kitchry---recipe-app.git,"iOS and Android apps (React Native) - fiatures: grocery list, diet, allergies, filters, profile",,13
+0,https://github.com/ardauzunoglu/food-and-grocery-automatization.git,Python application that automatizes your food and grocery orders using Selenium library.,"yemeksepeti,selenium,selenium-python,python,chromedriver,pyqt5,automatization,food-delivery-application,food-ordering,order-management",13
+0,https://github.com/davidgolden/recipe-cloud.git,"Add, Manage, and Share Recipes and Create Grocery Lists.",,13
+0,https://github.com/lutzkuen/receipt-parser.git,Parse grocery store receipt and upload them to google Sheets,,12
+0,https://github.com/BlondelSeumo/Grocery-Store-Android-App-With-Admin-Panel.git,"Grocery Store app can sale grocery product, preferred brands, kitchen needs, essential home supplies and more, through this online, one-stop grocery store. It provides you with a convenient way to sale from your grocery shopping app. You can use this app as one big super market app to sale product of your store. This app make easy for user to buy product from store with easy steps and store can get easy order.",,12
+0,https://github.com/sivadass/react-point-of-sale.git,":star2: React JS powered point of sale application for small businesses like Restaurants, Bakeries, Grocery Shops or Fashion Stores","reactjs,point-of-sale,webpack,react-router-dom",12
+0,https://github.com/MainakRepositor/farmfresh.git,A template e-grocery website ,,12
+0,https://github.com/jiaaro/dailybread.git,Daily Bread - A grocery app optimized for remembering the essentials,,11
+0,https://github.com/ibhavikmakwana/nectar.git,A Flutter application UI for Online Grocery store.,,11
+0,https://github.com/david35008/Grocery-basket.git,creating react Grocery basket app,,11
+0,https://github.com/agusibrahim/GroceryItemView.git,Item View for grocery App Android,"android,recyclerview,e-commerce,design",10
+0,https://github.com/Akshay-Hegde/Grocery_Crud_MultiSearch.git,Grocery_Crud_MultiSearch Library for Flexigrid theme,,10
+0,https://github.com/MiniCodeMonkey/curbside.git,Find grocery store pickup slots near you,,10
+0,https://github.com/antklen/kaggle_favorita-grocery-sales.git,12th place solution for Kaggle Corporación Favorita Grocery Sales Forecasting,,10
+0,https://github.com/Criotech/RN-Grocery-ShoppingAppUi.git,Fryo- Grocery Shopping App template UI kit in React Native 🍔😋,,10
+0,https://github.com/samijullien/airlab-retail.git,RetaiL: A Simulation Framework for Monitoring and Reducing Food Waste in Grocery Stores,"supply-chain,food-waste,reinforcement-learning,grocery-store",10
+0,https://github.com/danReynolds/SupermarKit.git,SupermarKit - a grocery tracking and management app,"grocery,shopping,rails,ruby,supermarket",9
+0,https://github.com/AKAspanion/react-native-grocery.git,🍱 A grocery app prototype design made with React Native.,"react-native,app,android,ios,hacktoberfest",9
+0,https://github.com/dscnitrourkela/project-raasan.git,GoGrocy is an online grocery service operating in Jeypore (Koraput district of Odisha) ,"firebase,flutter,android,ecommerce,hacktoberfest",9
+0,https://github.com/fingerguns83/Grocery-List.git,SMS Grocery List service using Twilio (built with PHP),,9
+0,https://github.com/Lifyzer/FoodCMS.git,"🍑 FoodCMS™ is the ""Yummy CMS"" 😋, which gives all information you need to know  about every food item you bought in a grocery store.","food-cms,foodstuffs,foodcms,nutrition,cms,webapp,php72,food-search-engine,search-engine,foodstuff,food-database,lifyzer",9
+0,https://github.com/benjaminogles/budget-meal-planner.git,"Offline desktop app for storing recipes, creating meal plans and generating grocery lists on a budget","meal-planner,grocery-list,recipes,budgeting",9
+0,https://github.com/jchen0506/KitchenMaster.git,Recipe searching app that also provide functionality to add items you need to grocery shopping list,,9
+0,https://github.com/eugenielm/Inflaskart.git,An online grocery shopping application (Instacart clone),,8
+0,https://github.com/gokhalehemal11/Grocery-Ecommerce.git,"A multi- vendor E-commerce Grocery store with Html, CSS, Bootstrap, Javascript, PHP and Mysql",,8
+0,https://github.com/cengle/FoodRun.git,Recipe and Grocery planning,,8
+0,https://github.com/mirjoy/meal_planning_app.git,"An individual project that consumes a recipe API, allows users to input their dietary preferences, and then generates meal plans and grocery lists.",,8
+0,https://github.com/anewman15/bootstrap-nearby-groceries.git,"This is the client side of an imagined grocery stores directory built using Bootstrap 4, Sass and Flexbox. In this project, I customized Bootstrap to change theme colors and responsive breakpoints.",,8
+0,https://github.com/blakdronzer/gc_with_drag_drop.git,Example implemantation of grocery crud with drag drop feature,,7
+0,https://github.com/gndps/koleshop.git,A location based marketplace for grocery sellers and their nearby customers,"ecommerce,marketplace,grocery,seller,merchant,platform,android",7
+0,https://github.com/SastraNababan/grocery-app.git,"Grocery App. Build with React Native,Redux",,7
+0,https://github.com/bhavinpatolia/groceryapp-react-native.git,Grocery App is demo application in react-native. ,,7
+0,https://github.com/carysmills/whentoshop.git,"{""Viz of Google's Popular Times data for grocery stores, using React and Python""}",,7
+0,https://github.com/ajayrandhawa/Grocery-App-Documentation.git,"Grocery App an online grocery shop CMS. Grocery smart grocery shopping List is a free app that improves the quality of your grocery shopping by making it easier, faster, and most importantly smarter. It is all you would want out of a shopping list and more.  Cross-Platform Android & iOS Ionic 3 App has great UI. Grocery App has a Secure Token-Based SHA 256 Authentication.    The project backend is developed by using PHP/MySQL/Slim Restful API. The project has powerful backend cms to manage grocery shop online. it has features like add items, remove items, update price, manage orders, manage banners, manage users etc. ","ionic3,grocery-store,php,content-management-system,slim-framework,restful-api",7
+0,https://github.com/reeversedev/grommerce-store.git,Grocery shopping made easier online  with Grommerce.,"ecommerce-platform,grocery,nodejs,reactjs,redux-thunk,postgresql",7
+0,https://github.com/andrewevans0102/grocery-list.git,Angular Firebase Grocery App,,7
+0,https://github.com/alexjingjing/openlayers-grocery.git,a grocery for openlayers,,7
+0,https://github.com/mp911de/my-little-keller.git,App to manage grocery stock 🍏🍇🥫🍬,,7
+0,https://github.com/satyamurti/Seva-Home_Delivery_App.git,"🏍Fast Home Delivery App of Grocery ,Medicines , Vegetables ,etc during lockdown . Client can send Handwritten List Photo ,Chat with Shopkeeper ,or can call Shopkeeper .",,7
+0,https://github.com/jonathandavidpollock/InventoryManagementSystem.git,"This project manages inventory for a local Grocery Store. It is a full CRUD application in Laravel, a PHP framework. Lastly, it uses Chart.js to display a live breakdown of inventory.","php,php7,laravel,crud,crud-application,seeder,javascript,bootstrap,blade,blade-template-engine",7
+0,https://github.com/jashieh/delicieux.git,"Delicieux dynamically updating grocery management and meal planning application with smart recipe suggestions based on stored ingredients, filter parameters and diet goals.",,7
+0,https://github.com/IsraaMoqbel/reactNative-groceryStore.git,:iphone: react native grocery store app :lemon: :tomato: :peach: :grapes: :cherries: :strawberry: :corn: :eggplant: :tangerine: with firebase :fire: authentication :closed_lock_with_key: and redux :relieved:,,7
+0,https://github.com/archd3sai/Instacart-Market-Basket-Analysis.git,"{""The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are done to study customer purchase patterns and for better product marketing and cross-selling.""}","market-basket-analysis,instacart,analysis,segmentation,clustering,feature-engineering,feature-extraction,customer-segmentation,xgboost,neural-network",7
+0,https://github.com/kareem983/Grocery-Shopping-System-App.git,"Full android Grocery Shopping System App. It consist of Admin and users: (Using online Firebase Database) Admin can login to the system. He also can to Add, Edit, Delete an Existence category/s  or create new category (Category name, Category cost, available Category amount, Expiry date)  Users can to register or login to the system  the system shows the existence categories (fruits, meats, Vegetables, etc...) the user can search about product and know product info (cost, available amount, Expiry date) the user also can to make an order by giving the system (Destination, product name, product amount) the delivery task is deliver this product to the user in selected time","android,java,firebase-database,firebase-auth,firebase-realtime-database,google-api,animation,qrcode-scanner,qrcode-generator,splashscreen",7
+0,https://github.com/iblong2iyush/aurelia.git,Online Grocery Store,,6
+0,https://github.com/bustardcelly/grocery-ls.git,Test-driven grocery list application.,,6
+0,https://github.com/auth0-blog/grocery-list.git,Grocery list app written with Koa and Angular,,6
+0,https://github.com/stevie1mat/Grocery-UI-Template-In-Flutter.git,Grocery UI Template In Flutter for Android & iOS,,6
+0,https://github.com/AitoDotAI/grocery-store-demo-app.git,Grocery store demo app for trainings,,6
+0,https://github.com/Keto-Eating/Keto-Recipe-API.git,"This API serves up keto recipes, and is a micro-service for a larger project that will eventually serve up grocery lists based on saved recipes.",,6
+0,https://github.com/darshan761/djangoproj.git,Online Grocery Store using django,"django-framework,django,django-project,django-admin,mysql",6
+0,https://github.com/fedellen/list-together.git,"A simple, modern grocery list app","typescript,react,typeorm,postgresql,apollo,graphql,tailwindcss",6
+0,https://github.com/yeshvantbhavnasi/GroceryScanner.git,This is an open source project to Scan Grocery list to find food you can make with this grocery list,"grocery,bills,food,recipes,recipe-search",6
+0,https://github.com/Apoorve73/Grocery-store-scrape.git,The repository contains the code and data collected by scraping an Indian Grocery Mart website.,,6
+0,https://github.com/philipfong/auto-grocery-delivery.git,Automate checks for delivery windows and complete checkout on various grocery sites,"grocery-delivery,grocery,coronavirus,covid-19,instacart,automation,selenium,chromedriver,rspec-capybara,delivery-window-finder,amazon,whole-foods,checkout",6
+0,https://github.com/GrocerCheck/GrocerCheck.git,a website to help people reduce contact at grocery stores and essential services,,6
+0,https://github.com/philou/auchandirect-scrAPI.git,"A ruby gem providing, through scrapping, an API to the french www.auchandirect.com online grocery",,6
+0,https://github.com/BucketHaendl/SmartCart.git,Bring your grocery shopping to the next level with this Android App,,6
+0,https://github.com/aggie-coding-club/GrocerEZ.git,GrocerEZ is a mobile app that uses a combination of web-scraping and crowd-sourcing to determine which store could fulfill your grocery list for the cheapest total,learning-oriented,6
+0,https://github.com/RH-Groceries/RH-Groceries.git,"A small application using Ionic, Firebase, and the Stripe API that allows RHIT students/staff to share their grocery list, and have people shop and deliver for them. ",,6
+0,https://github.com/tazeenm/Grocery_ManagementSystem.git,Grocery Management System - using JSP and Servlets,"jsp-servlet,grocery-managementsystem,java,html,css",5
+0,https://github.com/MeisamMan/Android2019_11_Online-grocery-app.git,11th session - Create an online grocery app,,5
+0,https://github.com/Timeular/dont-forget-the-tea.git,Amazing Grocery List App,,5
+0,https://github.com/akshayjain3450/Grocery-Store.git,Minor Project on Grocery Store using CPP,,5
+0,https://github.com/sheilnaik/grocery-digital-coupons.git,Grocery Digital Coupon Automation,,5
+0,https://github.com/brunokrebs/grocery-list-full.git,Grocery list fully implemented,,5
+0,https://github.com/dimakm/GWG-shoppingList.git,GWG project- creating a Javascript CSS grocery list,,5
+0,https://github.com/jchris/GrocerySync-CouchApp.git,HTML5 interface to the Couchbase demo grocery list tracker,,5
+0,https://github.com/csutorasr/CodeIgniter-SbAdmin2-GroceryCRUD.git,CodeIgniter starter repo with integrated SB Admin 2 theme and Grocery CRUD.,,5
+0,https://github.com/mohammedhashim44/Flutter-Grocery-App-UI.git,Flutter Grocery App UI,,5
+0,https://github.com/rametta/zucchini.git,🥗 Grocery App - Elm,"elm,elm-lang,pwa,service-worker,parcel",5
+0,https://github.com/alisidd/iOS-Ripe.git,"A smart, all-in-one POS solution for medium sized grocery stores. Achieved 2nd place at MLH 2017.",,5
+0,https://github.com/jurgen1c/Merchant-Rails-App.git,Ecommerce for a grocery store,,5
+0,https://github.com/siddhantshingi/Parcha.git,Token based system to ensure social distancing at market place or grocery shops,"covid-19,social-distancing,token-system,flutter-app,nodejs-server-api,market,grocery-shops",5
+0,https://github.com/Tywholland/KitchenSync.git,Senior Project: Android Grocery List App,,5
+0,https://github.com/eslamandroid/GroceryStore.git,Grocery store template is created as a wonderful solution for any agricultural or organic food shop Android App UI template. It is a template for an Android developer that want to create grocery application with a clean design. The template is only lay outing without data flow and communication with the backend system. This UI Template can reduce your development time and will loved by developer that hate lay outing design!  You can use this app as one big super market app to sale product of your store. This app make easy for user to buy product from store with easy steps and store can get easy order.,,5
+0,https://github.com/RichardMcSorley/walmart-grocery-bot.git,SMS bot to add items to your grocery cart. 🤖,"hapi,nodejs,twillio,bot,puppeteer",5
+0,https://github.com/alexjoverm/reactive-grocery-app-slides.git,https://alexjoverm.github.io/reactive-grocery-app-slides/,,5
+0,https://github.com/WSU-4110/SmartShopper.git,"An easy to use shopping app, designed to help shoppers at the grocery store.",,5
+0,https://github.com/Lakshya-Saini/Laravel-Grocer.git,"An E-Commerce web app for Grocery Products where vendors can add, view, edit and delete their products and can increase their business to a wide range of customers through this online web application.","laravel,php,bootstrap,grocery",5
+0,https://github.com/ayltai/price-calculator.git,The forgotten shopping tool - using unit pricing is the best way for shoppers to save money on grocery shopping!,"unit-price,pricing,shopping,grocery,android,circleci,firebase-test-lab",5
+0,https://github.com/SoMa-Project/pick_and_place_benchmarking_framework.git,A Benchmarking Framework for Systematic Evaluation of Robotic Pick-and-Place Systems in an Industrial Grocery Setting,,5
+0,https://github.com/sunilvijayan7/GroceryShoppers-App-in-Flutter-and-DotNetCore-API.git,"A complete grocery store developed with  Flutter, .Net Core, Firebase, One Signal and SQL Server as backend","grocery-store,shopping,coupons,order-delivery,delivery-boy,flutter,flutter-apps,dotnet,dotnet-core,sql,firebase",5
+0,https://github.com/cgsarfati/Aislander.git,"A single-page Flask app that allows users to search recipes, and append corresponding ingredients to a grocery list, categorized by aisles. Utilized Spoonacular API.",,5
+0,https://github.com/SecurityQQ/CandyAI.git,"It is a marketing solution for a grocery shop chain Alepa that can be useful for any other offline marketing needs.  Hardware:  Dobot Robotic Arm  Digital Camera  Computing block (to connect all things and run software)  Software:  Flask web server (API to control Robot from any device)  Python script (Open CV, Tensor Flow, requests to Google Text-to-Speech API and Clarifai)",,5
+0,https://github.com/ankithans/grocery-inventory.git,When we go to the market we are often confused that if the item is needed or not. Sometimes we buy items that were already there in the home. To solve that particular problem we have created an application that queries in your home grocery invetory database and tell that if the item is their in the house or not and if available how much quantity is available. Then user can buy it accordingly.,"nodejs,typescript,flutter,grocery,grocery-list,google-cloud,google-vision-api,google-cloud-storage,heroku",5
+0,https://github.com/ShadowOS/Vehicle-Routing-Problem-VRP-with-Time-Window.git,"The Vehicle Routing Problem with Time Windows (VRPTW) is the extension of the Capacitated Vehicle Routing Problem (CVRP) where the service at each customer must start within an associated time interval, called a time window. Time windows may be hard or soft. In case of hard time windows, a vehicle that arrives too early at a customer must wait until the customer is ready to begin service. In general, waiting before the start of a time window incurs no cost. In the case of soft time windows, every time window can be violated barring a penalty cost. The time windows may be one-sided, e.g., stated as the latest time for delivery. Time windows arise naturally in problems faced by business organizations which work on flexible time schedules. Specific problems with hard time windows include security patrol service, bank deliveries, postal deliveries, industrial refuse collection, grocery delivery, school bus routing, and urban newspaper distribution. Among the soft time window problems, dial-a-ride problems constitute an important example.",,5
+0,https://github.com/mschoch/AndroidGrocerySync.git,Grocery-Sync ported to Couchbase Mobile for Android,,4
+0,https://github.com/jay3dec/GroceryApp.git,"Grocery Web App Using Angular 4, Node, MongoDb",,4
+0,https://github.com/blakdronzer/gc_with_tabs.git,Grocery Crud with Tabs,,4
+0,https://github.com/youribonnaffe/ShoppinCart.git,A grocery list tool for Android,,4
+0,https://github.com/hjgoldman/Grocery-App-Swift.git,A grocery list app written in Swift.,,4
+0,https://github.com/bayuly94/adminlte-theme-grocerycrud.git,Share AdminLTE theme for Grocery CRUD,,4
+0,https://github.com/Sarthak-Mohapatra/Market-Basket-Analysis-using-Apriori-Algorithm-on-grocery-data.git,Market Basket Analysis using Apriori Algorithm on grocery data.,"data-science,apriori-algorithm,association-rules,market-basket-analysis,market-basket-optimization,grocery-data,machine-learning,frequent-pattern-mining,frequent-itemset-mining,python,pandas,numpy,visualization",4
+0,https://github.com/anirudhkannanvp/GROCERY-STORE-MANAGEMENT-SYSTEM-USING-PHP-AND-MYSQL-PHPMYADMIN-.git,This project contains my project work on a grocery store management system done on PHP and MYSQL using XAMPP AND PHPMYADMIN,,4
+0,https://github.com/Reshav-Paul/grodudes_app.git,A grocery app made with flutter and wordpress/woocommerce backend,,4
+0,https://github.com/shahaashay21/Amazon.git,"Next-day and early morning delivery of fresh grocery, everyday essentials, neighborhood products, and items.",,4
+0,https://github.com/zbalda/shopping-organizer.git,"A simple Python program to search a database for grocery items, add those items to a grocery list, and sort those items by location in store.",,4
+0,https://github.com/wchao/grocery-delivery.git,Grocery delivery software,"amazon,automation,beautifulsoup,selenium,whole-foods,coronavirus,covid-19,chrome,python,webdriver,cart,notification,grocery-delivery,amazon-fresh,foods-delivery,delivery-slot,delivery-window-finder",4
+0,https://github.com/jjkoh95/grocery-app-challenge.git,Grocery App Challenge,,4
+0,https://github.com/ashusharma044/RNGroceryShopUI.git,React Native Grocery Shop UI,,4
+0,https://github.com/Rohitgta77/GroceryShopApp.git,"A Grocery Shop Android App Technology used: Java, XML, Android Studio.","android-studio,grocery-shop-android,java",4
+0,https://github.com/notwaldorf/fierimas.git,"{""🎄🎅 It's like Guy Fieri's Grocery Games but for holiday presents""}",,4
+0,https://github.com/tpinto7/EasyShoppr.git,Grocery Shopping Manager - Submission at BrickHack6 ,,4
+0,https://github.com/arenjermain/Android-Expiration.git,barcode scanner that estimates grocery expiration date,,4
+0,https://github.com/kartikchaudhari/BigGrocery.git,An online Grocery selling system built with CodeIgniter framework in php with online payment and many more advanced features.,,4
+0,https://github.com/jakehadar/fresh-direct-poller.git,Poll FreshDirect grocery delivery timeslots to alert user on availability,,4
+0,https://github.com/ragamo/AdminGenerico.git,"Admin genérico para CI con Grocery CRUD, Smarty y Bootstrap",,4
+0,https://github.com/bini-i/Online-Grocery-Shop.git,"Online Grocery Shop website with HTML5, SCSS, and JS",,4
+0,https://github.com/adomoshe/nosh.git,"{""Nosh is a recipe searching app that filters by dish or by ingredients. Choose a recipe by selecting ingredients you have at home or by a specific dish. Nosh will display relevant recipes from Yummly then show the user grocery stores in their area as well as use the browser's local storage to store a grocery list.""}",,4
+0,https://github.com/peterbe/groce.git,A mobile web app to help families do grocery and meal planning.,,4
+0,https://github.com/FirstBuild/InventoryMgmt-GroceryList.git,A grocery list app using AngularFire as a demo for using the InventoryMgmt Firebase instance,,4
+0,https://github.com/Arxlan40/Groceryshop.git,This is demo grocery shopping ecomerce app built with flutter and firebase,,4
+0,https://github.com/codergogoi/Food-Delivery-Engine.git,Grocery Items Delivery backend using PHP. This is a project dedicated to students who have taken the Complete Backend Course.,"php,supermarket,grocery-store,api,backend-services,mysql",4
+0,https://github.com/mr-lasseter/grocery-app.git,App to help me get in and out of the grocery store quicker and learn rails while I am doing it.,,4
+0,https://github.com/carsontang/instacart_grocery_2017_analysis.git,analysis of the Instacart Online Grocery Shopping Dataset 2017. See official Instacart post here: https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2,,4
+0,https://github.com/v3rt1go/grocerrify.git,A real time isomorphic JS sample app built with react express and node. Create your grocery shopping list in real time,,4
+0,https://github.com/PaulVerhoeven1/grocy-dutch-supermarket.git,Python application that searches for product infromation with the Jumbo.com or AH.nl api to download product information and posting those information to the self-hosted grocery management solution Grocy.,"jumbo,grocy,supermarkets,supermarkt,dutch,ah,albertheijn",4
+0,https://github.com/TomBursch/KitchenOwl.git,KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.,"self-hosted,grocery-list,recipe-manager",4
+0,https://github.com/93HamzaHamidAnsari/egrocery1.git,"Grocery shopping website on core php and mysql, where customer can buy products and can get his reciept in pdf format. I used ""fpdf"" api for printing pdf file. I used session array to store all products added to cart by customer. Admin of website can control different functions about products and customer accounts such as add,update and remove etc.",,4
+0,https://github.com/Tombarr/HTML5-Groceries.git,HTML5 Offline Grocery List Application,,3
+0,https://github.com/towcar/GroceryShop.git,A grocery buying app,"android,android-project",3
+0,https://github.com/hNao17/product-classification.git,Workspace for grocery store product classifier development,"machine-learning,computer-vision",3
+0,https://github.com/githubmg/favorita-forecast.git,Amazon forecast on Favorita grocery Kaggle,,3
+0,https://github.com/jpvelez/foodmart.git,A data analysis of the Foodmart grocery store dataset.,,3
+0,https://github.com/GroceriStar/react-print-pdf.git,"Grocery list page build with React. Ability to see grocery list information, print or export to PDF","react-pdf,grocery,react,pdf,recipes",3
+0,https://github.com/kton/done4u.git,automatic grocery store coupon clipper,,3
+0,https://github.com/mengzaiqiao/VBCAR.git,Variational Bayesian Context-aware Representation for Grocery Recommendation,,3
+0,https://github.com/dz-experts/grocery-stores-home-delivery.git,[Social Distancing] Showing grocery stores that offer home delivery near you,"algeria,covid-19",3
+0,https://github.com/komaljit/Quick-Shop-Store.git,Online grocery store using Flask framework,"python,html,bootstrap,sqlite3",3
+0,https://github.com/FreshPrice/Fresh.git,The hottest crowd-sourced grocery store price app around. ,,3
+0,https://github.com/paulyglot/grocery-now.git,An interactive e-commerce app for online grocery shopping,,3
+0,https://github.com/seschwartz8/WisePrice.Solution.git,Team Week C# Project for Epicodus. Built API and MVC applications for a community to share grocery deals.,,3
+0,https://github.com/szewczykmira/pyreceipt.git,Read grocery list from receipt,"python,pytesseract,image-recognition,tesseract",3
+0,https://github.com/nailton/acesso.git,"CodeIgniter, Community Auth, Grocery Crud",,3
+0,https://github.com/limacohen/grocery-crud.git,Grocery CRUD Spark for CodeIgniter,,3
+0,https://github.com/4nmolChaudhary/GroMRKT-E-Commerce-Grocery-Store.git,Grocery Store [ E-Commerce ] App,"javascript,react,redux,react-redux,styled-components,scss,nodejs,react-router",3
+0,https://github.com/caseymonc/groceryapp-ios.git,iOS app for grocery tracker,,3
+0,https://github.com/lostincode/coredata-grocerylist.git,A simple grocery list application utilizing core data on iOS. Tutorial to follow soon.,,3
+0,https://github.com/mygroceryboy/mygroceryboy.git,MEAN Stack with Angular 4 and Typescript Node. Application to sell & buy grocery online.,"mean-stack,mean,meanstack,angular2,angular2-cli,angular2-apps,nodejs,node,node-js,npm,express,expressjs,express-js,mongodb,mongoose,mongoosejs,mongodb-database,typescript,single-page-app,single-page-applications",3
+0,https://github.com/bglynch/grocery_motel-django.git,Online grocery store app built with Django,,3
+0,https://github.com/MarcoTUM/Groceryou_Frontend.git,Private to private grocery delivery service.,,3
+0,https://github.com/raksh543/grocery-mart.git,An e-commerce website for grocery,,3
+0,https://github.com/nathannli/Watson_Visual_Recognition_GroceryWebApp.git,Web app for analyzing grocery produce,"visual-recognition,python3,flask,jinja2,watson-visual-recognition",3
+0,https://github.com/satyaog/liste_epicerie_bot.git,Simple Telegram Bot for grocery / shopping management,,3
+0,https://github.com/ammarbakheit/flutter-grocery-app.git,Grocery mobile app build with flutter,,3
+0,https://github.com/MarcoTUM/Groceryou_Backend.git,Private to private grocery delivery service.,,3
+0,https://github.com/openproduce/marzipan.git,point of sale system for retail grocery,,3
+0,https://github.com/Muosvr/rossmann-store-sales.git,grocery store sales prediction using neural nets,"kaggle,fastai,sales-prediction,cnn",3
+0,https://github.com/shubhamverma22/grocery-store.git,E-commerce website for purchasing a grocery,,3
+0,https://github.com/cyrfar/Food-Product-Recommender.git,"Exploring how to build a grocery product recommendation system. Collaborative filtering is done by passing concatenated  ""product"" and ""user"" embeddings through a dense neural network.",,3
+0,https://github.com/yuxiangdai/Receipt-Computer-Vision.git,Grocery receipt parser using Google Cloud Vision for React Native,"react-native,google-cloud,cloud-vision-api",3
+0,https://github.com/jonathanwangg/GroceryStoreManagementSystem.git,Easy to use UI for a grocery store management system,"management-system,ui",3
+0,https://github.com/jnwatts/GroceryList.git,A very simple grocery list app for Android,,3
+0,https://github.com/lololau/recikeep.git,Recikeep helps you to manage recipes and generate grocery lists ,,3
+0,https://github.com/mlange806/kitcheninventoryapp.git,Andorid app that tracks kitchen inventory and plans grocery lists.,,3
+0,https://github.com/amitsingh6391/Prerna_Fruits_and_Vegetable_shop.git,Prerna_vegetable_shop is a online grocery shop application,"grocery-application,flutter-ecommerce,grocery,grocery-store,grocery-delivery,flutter-application,flutter-api",3
+0,https://github.com/krofax/React-Online-Grocery-Store-.git,A Online  Grocery Store Built with React And Firebase,,3
+0,https://github.com/crslegend/is3106-project-frontend.git,Sashimi is a collective group-buy grocery application,,3
+0,https://github.com/gloriamaris/grocerist.git,Grocery shopping list app front end created using React and TypeScript.,"react,typescript",3
+0,https://github.com/ygaitonde/jupiter-recipe-extension.git,Chrome Extension that allows users to create recipes with grocery products sold by Jupiter,,3
+0,https://github.com/TechZech/GroceryApp.git,Grocery App that utilizes a Barcode scanner to preform multiple activities with scanned items,,3
+0,https://github.com/microsoftgraph/contoso-foods.git,A sample grocery shopping experience powered by the Microsoft Graph Toolkit,,3
+0,https://github.com/QMIND-Team/GC_computer_vision.git,"{""Main repo for the Grocery Checkout Team's computer vision project""}",,3
+0,https://github.com/rushadantia/Grocery-List.git,App to allow a grocery list to be categorized to optimize shopping.,"swift,grocery,list,tableview",3
+0,https://github.com/derekeder/chicago-food-inspections-web.git,"See what restaurants, bars, grocery stores and schools have passed or failed their city food inspections",,3
+0,https://github.com/tr00gle/scallion-recipe-management.git,a recipe and grocery list api built with node and express,,3
+0,https://github.com/jessety/GroceryCloud.git,Swift 3 sample grocery app that uses iCloud document storage to sync across devices,"swift,swift-3,icloud,icloud-document-storage,icloud-document-sync,ios,ios-app",3
+0,https://github.com/AndrewLChalfant/ReceiptReminder.git,Receipt Reminder is an Android app created to help college students manage their grocery shopping habits,,3
+0,https://github.com/jevonalexis/GroceryScanner_Comp3250.git,Android App and Web App for scanning barcodes in a grocery and getting product information from a server.,,3
+0,https://github.com/Devkashif/haatapp.git,"Its e-commerse app, user can order Food,Grocery,Stationary,Pets Food,and everything can order near your location shop",,3
+0,https://github.com/ryanspivey/Rapid-Recipes.git,A web crawler that pulls data from common recipe site and curates a grocery list based on provided links.,,3
+0,https://github.com/NitishGadangi/ShopSafe-App.git,🏬 Join Virtual Queue at Grocery Stores [Android App] [added intelligent notifications to wear mask when you leave home],"hackjaipur,virtualqueue,auth0,no-crowding,covid19,queue-safe,mask-notification,contact-tracing",3
+0,https://github.com/thenasim/GroceryShopManagement.git,A grocery shop management system with .NET Framework and windows forms. Our Object Oriented Programming 2 Final Project,,3
+0,https://github.com/boxabhi/YouTube-Django-Ecommerce-.git,"Create an Ecommerce application in Django. Learn how to create a Grocery application in Django. In this video, I have explained how you can create a fully functional e-commerce application in Django.  Django eCommerce tutorial.",,3
+0,https://github.com/ChristineWasike/Ecommerce.git,"This is a simple grocery store application that shows different fruits one can purchase, their cost and whether or not they are in stock.",,3
+0,https://github.com/sharayu/Recipe-Organizer.git,Android application that saves and organizes cooking recipes on smartphones. The application generates a grocery list for any recipe that is saved on the phone. ,,3
+0,https://github.com/lilliana1/groceryTracker.git,Corner Mart Grocery is an application built for easily viewing large amounts of products from a grocer in a user friendly way.,,3
+0,https://github.com/danrigoni/rust-warp-api.git,"an API for a grocery list,  to add items to the list, update the quantity, delete items, and view the whole list, HTTP methods GET, DELETE, PUT, and POST. with Rustlang and Warp.",,3
+0,https://github.com/kaciehatley/simple-eats.git,"With the Simple Eats front-end application, users can find recipes, filter results, and create grocery lists with just a few AJAX calls. Explore a variety of features created using jQuery, Materialize, and Spoonacular API.",,3
+0,https://github.com/Cristinasj/shoppingManager.git,"Program that helps you with your grocery shopping to save money and stay organized. Given your shopping list, it returns small shopping lists for each shop that you go to with the products that are cheaper in each shop.",,3
+0,https://github.com/onegambler/alexa-tesco-skill.git,"{""Alexa Skill integration with Tesco. It allows to voice control the shopping on Tesco Groceries. It's possible to add products to the grocery basket by only using the voice.""}",,3
+0,https://github.com/ayazlatif/AmazonDeliverySlots.git,"With increased demand for grocery delivery due to COVID 19, it can be difficult to find a time slot. Use this script to get text notifications when a time slot opens up for an Amazon Delivery time slot (for Whole Foods or Amazon Fresh delivery).",,3
+0,https://github.com/BuildForSDGCohort2/e-commerce.git,"A platform that will connects people (clients) with their Grocery Store, Bakery Shop and Fruit and Vegetable store in order to get clients orders delivered right to their doors or to get their orders prepared so they will picked it later which will prevent having crowds in this type of store specially under the actual pandemic #COVID19","e-commerce,grocery-store,bakery,vegetable-store,delivery,covid-19",3
+0,https://github.com/Divyankitha/Swift-SmartKitchenAssistant.git,"SmartKitchenAssistant is an iOS application written in swift 4. Using this application users can scan and keep track of groceries. Receive push notifications when the date of expiry of groceries comes close. Users can scan food items and get the nutritional values and the recipe for the dish. Also, users can get location of nearest grocery shops.",,3
+0,https://github.com/AustinWentz/RecipeReady.git,"The process of finding a delicious recipe only to find out that you don’t have over half the ingredients to make it can prove frustrating. With our webapp, individuals will be able to search for recipes based on ingredients they already have, allowing them to try new foods without have to take a costly trip to the grocery store. Users will be able to choose from a set of pre-existing ingredients and will receive recipes from the web at varying levels of compatibility with the ingredients they’ve chosen. Our webapp will also allow for users to create an account and save recipes, a feature that is not offered by similar websites.",,3
+0,https://github.com/JonathanEarle/GrocerySimulation.git,Simulation of Grocery Queues,"simulation,cost-estimation,monte-carlo-simulation,modeling,supermarket,queueing-theory",2
+0,https://github.com/guillep/python-grocery-list.git,Python grocery list example repository to introduce SWE practices,,2
+0,https://github.com/brunokrebs/grocery-list.git,Grocery list boilerplate,,2
+0,https://github.com/whitfieldc/replenish.git,smart grocery list,,2
+0,https://github.com/IMPERIALLEGEND/BigMart.git,Online Grocery  Shop ,,2
+0,https://github.com/kartik-bhatia/ShopperBot-iOS-App.git,This is an app implementing an e-grocery store.,,2
+0,https://github.com/Siddheysankhe/online_groc_store.git,Online Grocery Stores Using PHP,,2
+0,https://github.com/schollz/inventory.git,Machine learning from grocery store reciepts,,2
+0,https://github.com/kavalakuntla/Online-Grocery-Store.git,A simple online grocery store powered by Angular 4,"angular4,html5,css3,bootstrap4,typescript,rxjs,firebase",2
+0,https://github.com/jjzirkle-dmacc/GroceryStore.git,Grocery Store Inventory System,,2
+0,https://github.com/alexcarbo/greenEats.git,Our nwHacks 2020 project - an all in one grocery and food waste management app!,,2
+0,https://github.com/rohanj-0606/Online-Grocery-Store.git,Online Grocery Store Web Project,,2
+0,https://github.com/hellhound/plazavea-ios.git,An ad-hoc grocery store app for the peruvian retail store chain Plaza Vea,,2
+0,https://github.com/emilegill743/grocery-delivery-project.git,"{""Scrape data from a grocery website's API and get a text notification when slots become available.""}",,2
+0,https://github.com/MHassanA98/LSD.git,A Grocery Delivery app based on React Native and Firebase,,2
+0,https://github.com/cmfrancis/WOW-Scanner.git,"Code, schematics and documentations for the grocery scanner at WOW",,2
+0,https://github.com/klarissasmith/mod-3-grocery-app.git,Mod 3 Project - Grocery/Pantry App for all ages,,2
+0,https://github.com/mitrais-cdc-mobile/mitmart-mobile-rn.git,"{""A hybrid mobile application which helping Grocery store's owners selling their items, help their customers finding & ordering items from them.""}",,2
+0,https://github.com/ChenWangCarleton/234Broject.git,Grocery Go,,2
+0,https://github.com/mgysel/Segmentation-and-Clustering.git,Clustering 85 grocery stores to aid grocery store supply chain.,,2
+0,https://github.com/poloey/uy23-laravel-grocery-inventory.git,laravel-grocery-inventory-uy23,,2
+0,https://github.com/nerdEd/grocery_list.git,Grocery List Web Application,,2
+0,https://github.com/yongpark/grocerio.git,Smart Grocery List,,2
+0,https://github.com/ccomision/marketly.git,Grocery list management,"dart,flutter,android,ios,hive",2
+0,https://github.com/SarahZhou2018/GroceryStore.git,Web Grocery Store Project,,2
+0,https://github.com/rango84/GroceryList.git,Grocery List App,,2
+0,https://github.com/bmf/grocr.git,Recipie and Grocery app,,2
+0,https://github.com/mhussainshah1/OnlineGrocery.git,Good Thyme Virtual Grocery,,2
+0,https://github.com/bmf/grocr.git,Recipie and Grocery app,,2
+0,https://github.com/Preeti-Pradhan/FINAL-PROJECT.git,GROCERY MANAGEMENT SYSTEM PROJECT,,2
+0,https://github.com/zuran/ionic-groceries.git,Grocery list/reminder app,,2
+0,https://github.com/dailydrip/react-native-firebase-grocery-list.git,Firebase Example - Grocery List,"firebase,firebase-database,react-native-app,react-native",2
+0,https://github.com/ssuummit/grocery-backend.git,hackday grocery backend,,2
+0,https://github.com/MarceloAlves/GroceryList.git,Grocery List Generator,,2
+0,https://github.com/iwebdevthai/galllery.git,codeigniter gallery grocery-crud,,2
+0,https://github.com/doilio/My-FoodApp.git,App for Grocery Ordering ,,2
+0,https://github.com/Mohammed187/NectarOnlineGrocery.git,Grocery Delivery App + Firebase,,2
+0,https://github.com/mart-com/careers.git,Grocery from the future. ,,2
+0,https://github.com/bradpurchase/grocerytime-backend.git,Your grocery store companion.,,2
+0,https://github.com/chelsme/GRILList.git,Grocery Recipe Item List,,2
+0,https://github.com/LML-Software/LStore.git,Your grocery list,,2
+0,https://github.com/karlorjalo/GroceryChecker.git,Helping people find the best grocery prices  online in a simple Python terminal.,,2
+0,https://github.com/jwintersinger/groceryslots.git,"Detect available grocery pick-up slots at Loblaws, and announce results over Chromecast or Google Home",,2
+0,https://github.com/tamojit-123/FreshFoodCart.git,online grocery application with ordering. ,,2
+0,https://github.com/kingiol/iOS_Drawer.git,The grocery store for iOS,,2
+0,https://github.com/kl3jvi/ionic5-woocommerce.git,Woocommerce Grocery Ionic 5 App,,2
+0,https://github.com/anycook/anycook-einkaufszettel-android.git,Mobile grocery list for anycook,,2
+0,https://github.com/Chekwa23/AboutTime.git,Food and Grocery delivery service,,2
+0,https://github.com/asrul10/grocery_crud_snippets.git,Grocery CRUD Snippets Sublime 2,"grocery-crud,grocery-crud-snippets,snippets",2
+0,https://github.com/tmacdonald/menutron-original.git,recipe/menu/grocery list management,,2
+0,https://github.com/kawaiimart/kawaiimart.git,Best grocery website in SJSU,,2
+0,https://github.com/pratikmundokar/Grocery-Billing-System.git,Grocery Billing System in Python,,2
+0,https://github.com/a-type/food-list.git,Dead simple grocery run planning,,2
+0,https://github.com/Swizec/shared-grocery-list.git,A shared grocery list app,,2
+0,https://github.com/mohammadsaif19/Grocery-App-UI.git,Beautiful grocery app ui using Flutter,,2
+0,https://github.com/zeng-tong/GTVG.git,Good Thymes Virtual Grocery SpringBoot version,"thymeleaf,java,springboot",2
+0,https://github.com/igor-toporet/SampleCashRegister.git,Sample programming challenge: Grocery Store Cash Register,,2
+0,https://github.com/hnryjms/Recipes.git,Recipes for the Grocery app from @cnstoll,,2
+0,https://github.com/shhanson/budgie.git,Grocery and restaurant expenses data visualization app,,2
+0,https://github.com/wiolkast/easy-shopping-list.git,Android app for forgetful grocery shoppers.,,2
+0,https://github.com/sheelaadhikari/grocery-site.git,Simple HTML site for grocery shopping.  ,,2
+0,https://github.com/alphonsusadubredu/uncertainty.git,Grocery packing under various levels of uncertainty,,2
+0,https://github.com/gabrielqueiroz/grocery-list.git,Simple rails app for grocery list,,2
+0,https://github.com/vijayinyoutube/GroceryApp.git,Online Grocery Shopping App built using Flutter,"flutter,dart,fluttergroceryapp,groceryapp,flutterui,mobileapp,vijaycreations,online-purchase,grocerydeliveryapp,flutterapp",2
+0,https://github.com/zawhtetnaing10/Grocery-App-Firebase-Android.git,Grocery Shopping App For Firebase Module,,2
+0,https://github.com/RKJuve/yummly-project.git,creates grocery lists using the yummly api,,2
+0,https://github.com/AliceWonderland/Basket-App.git,React App to demonstrate a grocery list,,2
+0,https://github.com/Reamer-House-Foundation/reamer-grocery-ui.git,Frontend UI for Reamer grocery app,,2
+0,https://github.com/xcv58/grocery-delivery-times.git,Check grocery delivery time for multiple websites,,2
+0,https://github.com/ccrowley96/grocerylist.git,"Grocery list app (Node, Express, Mongo, React)",,2
+0,https://github.com/Kshatriya770/Grocery-Store.git,A Simple Grocery Store on Django,"grocery-store,python,database,star,screenshots",2
+0,https://github.com/ibrahnerd7/groceries-store.git,Learning react by building a grocery store.,"react,minify,firebase",2
+0,https://github.com/victoriasilverman/Principal-Component-Analysis.git,Project with grocery transaction data using PCA,,2
+0,https://github.com/dmsl/smartbill.git,Compiling your Grocery Bill with a Smartphone,,2
+0,https://github.com/Josaphat/go-ceries.git,Weekly Meal and Grocery list planner,,2
+0,https://github.com/khoanguyen1412/GroceryApp.git,Application for Purchasing and Selling grocery products,xamarin-android,2
+0,https://github.com/ankitpavar/grofy.git,An grocery e-commerce web app,,2
+0,https://github.com/oliviatinios/grocery-assistant.git,Grocery Assistant is an app which helps visually impaired grocery store customers navigate around a store and find products. ,,2
+0,https://github.com/Nuanjan/grocery-helper-client.git,grocery-helper-client is the web application for user to create view update and delete their grocery list.,,2
+0,https://github.com/carlomigueldy/supagrocery.git,A grocery Flutter application built with Supabase as backend.,"grocery,supabase,flutter,dart,serverless,stacked",2
+0,https://github.com/KatieZZY/grocerylist.git,Create grocery list from a list of websites,,2
+0,https://github.com/ZhangLei0591/partialfoods.git,Partial Foods - Event Sourcing Grocery Store Sample Application,,2
+0,https://github.com/Genpeng/grocery-sales-forecast.git,"{""Solution for Kaggle competition 'Corporación Favorita Grocery Sales Forecasting'""}",,2
+0,https://github.com/harish-edison/Grocery-Management-system.git,"Grocery Management System Using Python, SQL and mysql.connector",,2
+0,https://github.com/doodersrage/simple-grocery-store-csharp.git,Grocery store product management application written in C#,,2
+0,https://github.com/benkwokcy/seriousgroceries.git,Match your recipe list against grocery store flyers.,,2
+0,https://github.com/plinck/JustGroceries.git,Simple Grocery List App using firebase for persistance,,2
+0,https://github.com/sid-hant/grocerline.git,the react front end to the covid-grocery api,,2
+0,https://github.com/flystarhe/pyhej.git,The super grocery store of various research results,"python3,nlp,image,video,keras,pytorch",2
+0,https://github.com/shahzaibimran94/OGS.git,Online Grocery Store developed with Laravel 5.4.x,,2
+0,https://github.com/thomasebsmith/sort-my-groceries.git,"A SwiftUI app for better, more organized grocery shopping",,2
+0,https://github.com/pvkc/Online-Grocery-Store.git,Online Grocery Store With Oracle as the backend Database,"website,django",2
+0,https://github.com/vaishnavibaheti2/Billing-System.git,Grocery Billing System is totally made in python.,,2
+0,https://github.com/Nykz/ionicAuthScreensEp10.git,"Food Delivery App | Grocery App - Onboarding Screens, Login & Signup Screens",,2
+0,https://github.com/jliaz/grocery-delivery-site.git,A mock grocery delivery website inspired by grocerygateway.com,,2
+0,https://github.com/GaetanCottrez/Generate-Controller-GC.git,A Codeigniter library for generate a complete controller Grocery CRUD,,2
+0,https://github.com/abdulrahman-haroon/HumMartApp.git,A clone of a grocery shopping app known as HumMart. ,,2
+0,https://github.com/DrunkDragons/BoobyMonster.git,"Makes different lists. For example grocery store, needs, computer parts",,2
+0,https://github.com/wenzstev/grocerylistapp.git,App for creating grocery lists from provided recipes. ,,2
+0,https://github.com/jessieAnhNguyen/Grocery-Cache.git,Grocery Cache is a web app that helps users manage their grocery list and budget in an effective and fast way.,,2
+0,https://github.com/VanessaSeto/InstaKart.git,InstaKart is a path-mapping grocery cart paired with an Android mobile application to create and upload shopping lists for efficient grocery shopping.,,2
+0,https://github.com/shivamv12/OnlineGroceryStore.git,"Online Grocery Store is a portal, that allows private individuals and businesses to purchase groceries and grocery products online. This project is developed on PHP technology with MySQL","php,mysql",2
+0,https://github.com/wangyif2/GroceryGo.git,"A consolidated Android application that lets you view sales information on grocery items of major grocery items on the go, right where you need them",,2
+0,https://github.com/eduuh/Online-Food-Store.git,"Online Shop WebSite. An online grocer is either be supermarket or grocery store that allows online ordering, or a standalone e-commerce service that includes grocery items","dotnet-core,razor-pages,css",2
+0,https://github.com/TheRealJessicaLi/GroceryGo.git,"Hack the North 2019 project: a mobile app that recommends the cheapest place to buy your grocery list using Kotlin, Android Studio, UiPath, and Firebase. ",,2
+0,https://github.com/wichopy/fridge-friend.git,A smart grocery lists that helps you keep track of your ingredients and recommends recipes for you to use up food before it goes to waste!.,,2
+0,https://github.com/lee-steven/foodify.git,🌱 Web app for keeping track of expiring grocery items and searching recipes based on ingredients that you have - built with React and Node.js,"foodify,groceries,expiration,ingredients,recipes,web-application,rest-api,react,node,open-source,hacktoberfest2020,environment,climate-change",2
+0,https://github.com/sayor20/SimpleGroceryList.git,"A simple grocery list android app using Recyclerview, Cardview and Alertdialogs.",,2
+0,https://github.com/MartyCullen/MilkAndEggs.git,A SIMPLE Grocery list app developed by the Raleigh Iphone Developers-Beginners and mentors meetup group,,2
+0,https://github.com/kritika27/grocery-list-reactjs.git,It is a beginner friendly Grocery list App built using ReactJS.,"reactjs,html-css-javascript,beginner-project",2
+0,https://github.com/sweetsbyroshan/Ghevar.git,Ghevar is a ui kit one could use for grocery/food e-commerce biz,"flutter,dart,ui,ecom,app",2
+0,https://github.com/danieljulia/CodeIgniter_auth_crud.git,CodeIgniter 2.2.0 Ion + Auth2 + Grocery crud 1.4.1 (all mashed up),,2
+0,https://github.com/yizhangzhai/Corporaci-n-Favorita-Grocery-Sales-Forecasting.git,Predict sales for grocery stores in a horizontal period window of 16 days,,2
+0,https://github.com/pedronauck/react-grocery-list.git,This is a sample Grocery List application to test ReactJS + Gulp + Browserify,,2
+0,https://github.com/spaceguy101/Grocery-Items-Detection.git,Real time grocery items detection using tensorflow.js and IBM Watson,,2
+0,https://github.com/CarmineToriello95/grocery_app_smooth_transition.git,A grocery shopping app with smooth transition between screens and beatiful product to cart animation.,,2
+0,https://github.com/mgpavlov/OnlineGroceryStore-Application.git,Online Grocery Shop is an e-Commerce web Application using Spring MVC. ,,2
+0,https://github.com/Aditi-Kothari/GroceryList.git,"This is simple grocery list made by using HTML,CSS,JAVASCRIPT.",,2
+0,https://github.com/romedius/Currtech-PayBar.git,Yet another university project - pay your grocery shoppings with a coupon,,2
+0,https://github.com/Fuglydami/Grocery-List.git,"A simple grocery list made with html, css and vanilla javascript.",grocery,2
+0,https://github.com/swimshahriar/dailyPick-grocery-shop.git,"DailyPick is a Grocery shop, where people can buy their daily groceries.","reactjs,nodejs,mongodb",2
+0,https://github.com/ishotjr/OneWayWillie.git,One-Way Willie - enforcing one-way aisles in grocery stores with a cute robot!,,2
+0,https://github.com/yjkimjunior/GroceryApp.git,iOS app for keeping grocery lists. Available on the go with Firebase. ,,2
+0,https://github.com/ninjaachibi/jubian-backend.git,"The backend framework for Jubian, an on-demand grocery delivery app for ethnic groceries 🍜",nodejs,2
+0,https://github.com/gideontong/Artichoke.git,🍳 The cook that cooks for you! A recipe and grocery store aggregation utility,"grocery-store,recipe-app,food",2
+0,https://github.com/Maddywiz1998/NeeDs.git,"An android app to provide daily services like electical, plumbing, laundry, grocery etc.",,2
+0,https://github.com/felixweinberger/ocado-slot-checker.git,"{""🛒 Checks Ocado grocery delivery slots for you so you don't have to""}",,2
+0,https://github.com/grennis/FoodScannerApp.git,Android and React Native app & Firebase backend for scanning grocery UPCs and warning of sensitive ingredients.,,2
+0,https://github.com/djamrozik/CS411-VegeCheck.git,A simple web app to help grocery stores train employees for PLU codes,,2
+0,https://github.com/kevinms/cart.git,Scan barcodes as you throw grocery items away and have a shopping list automatically generated.,,2
+0,https://github.com/navett52/RandomTransactionGenerator.git,A website to randomly generate a transaction record for the Grocery Store Simulator database.,,2
+0,https://github.com/Anmol-Singh-Jaggi/grocery-bill-split.git,:scissors: :page_with_curl: :moneybag: A small app to help split the grocery bills,"finance,split-grocery-bills,python,flask",2
+0,https://github.com/edwardbryant/Never-Ending-Grocery-List-App.git,A simple web app for keeping track of items needed from the grocery store,,2
+0,https://github.com/BlayMo/MyCi_EventsBlog.git,Proyecto realizado con PHP7 + Codeigniter 3.2.0-dev + IonAuth + Grocery_CRUD + DatetimePicker + Fullcalendar,"php7,codeigniter,ion-auth",2
+0,https://github.com/hannahvoelker/recipe-chrome.git,"{""🍴Chrome extension for a week's worth of eating and grocery shopping ""}",,2
+0,https://github.com/turbidwater/WhichAisle.git,Grocery List application made to switch between two separate Mobile UI libraries: Feathers and MadComponents,,2
+0,https://github.com/mkwhalen/GroceryListApp.git,Grocery List App for Android built for practice for Xamarin University,,2
+0,https://github.com/milandangol/chatbot.git,"Markus, it is a chat bot for restaurant, grocery, schools and many more.",,2
+0,https://github.com/Nuanjan/grocery-helper-api.git,grocery-helper-api-project is the Backend project to create API for grocery list maker. which allow user to create view update delete the list. The user need the authentication to use the api.,,2
+0,https://github.com/ferrisdavid/GroceryStore.git,"{""At its core, The Grocery Store is an ecommerce site that allows users to shop for their groceries and various other day to day necessities from the safety of their home during these difficult and unexpected times, but, in reality, The Grocery Store is much more than this. The Grocery Store is the consumer's ultimate grocery shopping tool that provides users with various tools to shop, manage, and plan all their grocery needs in one spot, bringing consumers comfort throughout the shopping process during this stressful time.""}",,2
+0,https://github.com/rtb89/Breakfast_Cereal_data_analysis_R.git,The data file I am analyzing contains nutritional information and grocery shelf location for 77 breakfast cereals.,,2
+0,https://github.com/M-Ravenmoore/dragons-kitchen.git,"This will be a kitchen helping utility. with a recipe box, a grocery list creator, music and more.","cooking-recipes,kitchen",2
+0,https://github.com/carusocr/alexa_shopper.git,"{""Ask this skill where you can find a grocery item and it will tell you where it's on sale.""}",,2
+0,https://github.com/freanuperiaa/django_grocery_POS.git,A System that is to be used as an Inventory System and a Point-of-Sales system of a grocery.,,2
+0,https://github.com/ndbroadbent/grocerygadgets_lcd_client.git,"Grocery Gadget Client for use with a thin client PC, 20x2 LCD Screen and USB barcode scanner",,2
+0,https://github.com/DruSerkes/The-Easy-Meal.git,"Find recipes, build and email yourself your grocery list with this web app. (Python+Flask, PostgreSQL, JavaScript+jQuery, CSS+Bootstrap) ",,2
+0,https://github.com/somaia-khalil/mod5project.git,An interactive shopping cart for crowd-based grocery deliveries with a barcode scanner. Please check for real life Demo :,,2
+0,https://github.com/ionicfirebaseapp/Readymade-grocery-app.git,All the bugs report you can raise for Readymade Grocery Online Store App - One Solution For All.,,2
+0,https://github.com/sid-hant/covid-grocery-api.git,"web api that helps people learn about their nearby grocery stores such as wait times, length of the lines, etc.",,2
+0,https://github.com/sergiogomes/react-shopping-list.git,"{""It's a simple application where you can make a list to go to the market or to a grocery store. You can check the items you've already gotten.""}",,2
+0,https://github.com/sincretec/Grocery-CRUD-with-set_style.git,Grocery CRUD with set_style_td and set_style_th functions to change datatables and flexigrid themes,,2
+0,https://github.com/reillywatson/grocerygatewaychecker.git,"{""Text me about slots on Grocery Gateway so I don't have to keep refreshing the page""}",,2
+0,https://github.com/nicholas-tao/lynz-backend.git,A webapp to view the busyness levels of nearby grocery stores based on live data from users,"busyness-level,nearby-grocery-stores,grocery-shopping,supermarkets",2
+0,https://github.com/nicholas-tao/lynz-frontend.git,A webapp to view the busyness levels of nearby grocery stores based on live data from users,"nearby-grocery-stores,grocery-shopping,busyness-level",2
+0,https://github.com/BalaMungala/GroceryRecommendations-Association.git,Recommending the Products to place in racks for improving the business of Grocery using Collaborative Filtering Algorithm - Apriori in python,,2
+0,https://github.com/WoolWarrior/GroceryPicker.git,"This repository is for grocery shopping automation - create csv file from a cart, import csv file to fill cart","cart,csv,grocery-shopping-automation",2
+0,https://github.com/MRajibS/MonoHari.git,"MonoHari is an online grocery delivery application, where any grocery shop owner can turn their local business into an online delivery business. In this pandemic, when all people have to maintain social distancing and perform Covid 19 norms, our Application is giving a solution to those local business men who have been affected really worst to help them by giving a platform where customer can put a order and that order will be taken care by these grocery shop owners. This solution can help a customer getting their essential commodities without going outside of their home and as well as give an opportunity to small grocery shopkeepers to sustain their business.  ","online-shop,online-grocery,online-delivery,online-grocery-delivery,android-application,android-studio,java",2
+0,https://github.com/karan1289/Market-Basket-Analysis-for-a-Super-Market---Apriori-model.git,This model uses Apriori Algorithm to find the items that are mostly bought with some other item. So to increase the profit of grocery store,,2
+0,https://github.com/manrad/Grocery-App.git,Grocery App Demo created with Postgres and Python. A Simple to Use program demonstrating how to use python and postgres to create a simple product billing system,,2
+0,https://github.com/saranshmanu/Microsoft-Imagine-Cup.git,This repository contains the project we created for Microsoft Imagine Cup 2019 and HackHarvard 2018 about our idea of Augmented Reality to Grocery Stores,,2
+0,https://github.com/KevinApodaca/Grocery-Store-System.git,"{""An assignment for UTEP's CS3360 Programming Languages class, this simulates a system to input grocery item name, number, and image. Written in PHP""}",,2
+0,https://github.com/SumayyahAjani/Easy-Shopping.git,"get connected to people who will do your grocery shopings for you, help you deliver stuff, provide home services for you.etc",,2
+0,https://github.com/StabbyMcDuck/CS361-ProjectB.git,Project B: Grocery Shopper Price Chopper!  A mobile-friendly site that compares prices at 2+ stores and tells you which store to buy your cheaper items at!,,2
+0,https://github.com/frederickjansen/imd-colruyt.git,A college project which uses OCR to interpret photos of grocery store receipts and compares the price of every product with those of a competitor.,,2
+0,https://github.com/fernando-mf/grocery-delivery-api-webclient.git,"This app allows the clients to post their grocery list and schedule a delivery, then the shoppers deliver the products to the clients","groceries,delivery",2
+0,https://github.com/KetchupOnMyKetchup/WeeklyFoodPlanner.git,"Plan meals for multiple people per week with recipes and ingredients list.  Compile ingredients list into grocery list sorted by category (produce, meat, frozen, etc).",,2
+0,https://github.com/JDallasGriffin/APM-Project.git,Advanced Predictive Modeling Project to leverage deep learning to automatically identify products from still images of racks in grocery check-out aisles.,,2
+0,https://github.com/indrimuska/Kulinaria.git,Kulinaria Android App - Your meal planner that includes a smart grocery list generator based on a cookbook and a pantry list.,,2
+0,https://github.com/sushil1792/Grocery_items_time-series_demands_forecasting.git,"#ARIMA #PROPHET #ETS #XGBOOST In this study, I developed and compared the performance of time-series prediction algorithms such as ARIMA, ETS and PROPHET for forecasting demand of Grocery items for a retail store chain in Ecuador",,2
+0,https://github.com/viduu/BRE.git,"Bill Register Express (BRE) is a point of sale solution for retail stores and small businesses including liquor stores, convenience stores, grocery stores, and other specialty retailers.It stores and generate the bills with proper taxes. Language:Python GUI-Tkinter",,2
+0,https://github.com/CaptnSisko/shopstock_server.git,"{""Server API to keep track of what isn't and isn't in stock at various grocery stores. Part of a COVID-19 Hackathon. Main project repo: https://github.com/martmichals/Shopstock""}",,2
+0,https://github.com/chompfoods/sdk-swift-3.git,"Swift 3 SDK for the Chomp Food & Recipe Database API. Use our API to get high-quality data on recipes and 875,000+ branded/grocery foods plus raw ingredients. ","chomp,food,database,api,swift,swift3,swift-3,branded,grocery,raw,ingredients,alamofire,nutrition,recipes,recipe-api",2
+0,https://github.com/aresnik11/meal-pepper.git,"🌶 Meal prep app where users can search for recipes and wine, add them to a meal plan, and receive an email with their grocery list. Built with Ruby on Rails, SQLite, ActionMailer, BCrypt, Semantic UI.",,2
+0,https://github.com/Derida23/Easy-PoinOfSale-ReactJS.git,"Easy Point Of Sale is a web-based application that is useful for the needs of grocery stalls, with not much product coverage and only has admin access rights as the manager of the point of sell.",,2
+0,https://github.com/gitferreira/fresh.git,"{""Marketplace Web-app. Order the best of seasonal farm fresh food, great local finds, quick meal solutions, incredible new products and exclusives, and all of your favorite grocery brands. It's supermarket delivery with so much more!""}",,2
+0,https://github.com/AmandaBoatswain/McHacks2020.git,"{""Our food waste reducer keeps track of the grocery items you keep into your fridge. Every time you buy an item, your fridge scans its UPC code, grabs the item's name, stores the data, and automatically notifies you when it's nearing its expiration date.""}",,2
+0,https://github.com/aayush96/ClickMechanic.git,"A Travel Companion Android Application that helps you with what Google Maps does not generally contain, including places of local use like medicine shops, local vehicle repair shops, and grocery stores. Just create an account and start using. Only made for a very small area in Dehradun at present.",,2
+0,https://github.com/rvg296/Automate-Spatial-MCDA.git,"Automate the process of Spatial Multi Criteria Decision Analysis for housing development targeting Urban Planners. This project is focused on obtaining suitable sites for housing development based on accessibility levels to various facilities like Medical Centers, Fire Stations, Schools, Transit, Parks, Grocery Stores using ArcGIS Pro SDK ",,2
+0,https://github.com/donshen/Ecommerce_Prod_Rev_NLP.git,"In this project, using the dataset from Amazon Customer Review (https://registry.opendata.aws/amazon-reviews/), unsupervised learning models are applied to automatically analyze the underlying structures of user reviews on grocery products, and to visualize the results by multiple natural language processing (NLP) models/tools.",,2
+0,https://github.com/hngdngng/Our-Same-Kitchen.git,"The Our Same Kitchen App is a web and mobile application allowing food establishments (e.g. restaurants, grocery stores, farms) to easily add and notify our team of surplus food, and when and where to pick it up. The application uses HTML, CSS, Javascript/ES6, Nodejs, Express-Handlebars, Passport, and Sequelize.",,2
+0,https://github.com/smcnaught/FEEDITFORWARD.git,"{""FEEDITFORWARD was built to help restaurant's, grocery stores and bakeries connect with shelters to make sure leftover food never goes to waste. Our site will enable restaurants and grocery stores to become donators and shelters to become receivers. Every day, donating participants can log in to the site and offer up their leftover foods. Then receiving participants can log in and see all the food available to pick up in their area.  We will also provide the option for any business or individual to donate to our cause to make sure no one goes hungry. The donations will cover our hard costs (which should be minimal) and then go to shelters, women’s centers, the Ronald McDonald House and others in need.  We hope that our app will connect communities by getting food that would have otherwise gone to waste, to those who need it the most.""}",,2
+0,https://github.com/Mghane/Customer-Loyalty-Analysis-Project.git,"The Client is a grocery retailer who is looking to expand their footprint to 75 more stores national wide. The Client aims to conduct a customer analytics to gain insight into preferences, improve revenue and become competitive with their marketing in their new locations. Main purpose of this study is to improve the marketing and loyalty functions to provide more offers and increase share of wallet and customer lifetime value (LTV). We employed EDA, and predictive model to help company achieve their goals. ",,2
+0,https://github.com/A-Y-Yang/CS-425-Online-Grocery-Store-App-master.git,"The goal is to build an US online grocery store application using a database backend to store information about products, availability of products in the stock, and customers of the store. The application should support two types of users. Customers of the store can search for products and look up information about products, setup an account and change their preferences and account details, order products, and make payments. Staﬀ of the store can modify and create products, update the availability of products in the stock, query customer information, and process orders.",,2
+0,https://github.com/satyajeetkr7/Shopping-Assistance-for-Visually-Impaired-People.git,"Recognition of grocery products in store shelves poses peculiar challenges. Firstly, the task mandates the recognition of an extremely high number of different items, in the order of several thousand for medium-small shops, with many of them featuring small inter and intra class variability. Then, available product databases usually include just one or a few studio-quality images per product (referred to herein as reference images), whilst at test time recognition is performed on pictures displaying a portion of a shelf containing several products and taken in the store by cheap cameras (referred to as query images). Moreover, as the items on sale in a store as well as their appearance change frequently over time, a practical recognition system should handle seamlessly new products/packages. Inspired by recent advances in object detection and image retrieval, we propose to leverage on state-of-the-art image classification based on deep learning. In the study conducted our objective is to use this technology to help blind people around the world, which will help them to shop easily to identity the grocery product on the shelves. For image classification various CNN based image classification algorithms have been applied in this study. Our system is computationally expensive at training time but can perform recognition rapidly and accurately at test time.",,2
+0,https://github.com/romeojeremiah/grocery-list-project.git,Small grocery list project,,1
+0,https://github.com/lvasquez/Grocery-Crud-with-CodeIgniter-2.1.0.git,Grocery Crud using CodeIgniter 2.1.0,,1
+0,https://github.com/GroceriStar/showcase.git,Simple page with Grocery List cards,"react,mauerwerk,groceristar",1
+0,https://github.com/rahulsengupta/BasketAnalysis_Groceries.git,Market basket analysis applied to grocery store transaction data,,1
+0,https://github.com/waterflower124/android-delivery-app.git,This is android project for grocery delivery. ,,1
+0,https://github.com/sethtomy/GroceryGO.git,Find nearby grocery stores in the NCR network using your own grocery list ,python,1
+0,https://github.com/mneary1/pantry.git,Grocery sharing ,,1
+0,https://github.com/SudarshanMehta13/livemart.git,An Online Grocery Store Web App ,,1
+0,https://github.com/ballistic101/groceries.git,An android app for grocery shopping.,,1
+0,https://github.com/kamatdn/grocman.git,Grocman is a grocery management application to keep track of out of stock grocery items and auto replenish them.,,1
+0,https://github.com/ilam/grocery-management.git,Grocery Management System C++,,1
+0,https://github.com/TenHorizons/SDP-eGrocery.git,SDP project where we create an online grocery system,,1
+0,https://github.com/hratx-blue-ocean/chickpeach.git,"Recipe searching, meal planning, and grocery list making web application",,1
+0,https://github.com/turingschool-examples/ember-groceries.git,A grocery list in Ember,,1
+0,https://github.com/galvanic/OnlineShop.git,Simplify dividing of online grocery Ocado bills between flatmates.,,1
+0,https://github.com/hyoungsookim/groceryheaven_ias.git,Grocery Heaven infrastructure as Code. Using AWS CloudFormation,,1
+0,https://github.com/yehray/GroceryList.git,Grocery cart application for Android designed to help track items in a grocery list.,,1
+0,https://github.com/nabbil/IQRA-Grocery-Store.git,"An e-commerce website made for IQRA Grocery Store 212 Roosevelt Rd, Villa Park, IL 60181",,1
+0,https://github.com/jryantap/CSCI370-TeamProject.git,Grocery List Android application team project for Software Engineering course - CSCI370,,1
+0,https://github.com/Ritik109/OnlineKiranaBackend.git,Laravel based API foronline grocery delivery system,,1
+0,https://github.com/raorao/groceries.git,"A real-time, collaborative grocery list.",,1
+0,https://github.com/tobyjamez/covhack.git,Price comparison for online grocery shopping.,,1
+0,https://github.com/osamaishtiaq/groecery-server-shopify.git,Grocery Server using Shopify Store Front API,,1
+0,https://github.com/brandedcow/grocery_store.git,Grocery Store Website: AngularJS + Express + Node + MySQL ,,1
+0,https://github.com/pedrofs/justonceapp.git,Grocery List using CQRS & Event Sourcing approach.,,1
+0,https://github.com/tarifhaque/birmingham-teamplateful.git,Proposed web UI for rolling grocery buses,,1
+0,https://github.com/SoftwareChimp/GroceryChimp.git,Grocery Chimp is a fast and convenient home delivery service for groceries and much more.,,1
+0,https://github.com/echoshihab/react-grocerylist-frontend.git,Frontend for Grocery List app with React & Redux,,1
+0,https://github.com/Geobert/Efficio.git,Smart grocery list manager in Kotlin for Android,,1
+0,https://github.com/alex1ptb/groceryApplication.git,Grocery application to help with inventory and purchases,,1
+0,https://github.com/explorewithnik/GroceryStore.git,A grocery store app with firebase and java implementation,"firebase,firebase-realtime-database,firebasestorage,java,xml,grocery-application,grocery-store",1
+0,https://github.com/rahul411/Grocery-Dataset-Object-Classificationn.git,This repository is for performing object classification for Grocery Dataset,,1
+0,https://github.com/nchaloult/apt-grocery.git,A GroupMe bot that manages an apartment-wide grocery list,,1
+0,https://github.com/CinsonChen/grocery_shopping_note.git,my first android app demo --- [grocery shopping note],,1
+0,https://github.com/CNTopCoders/BE_grocery-shopping.git,grocery,,1
+0,https://github.com/makeyang/grocery.git,grocery,,1
+0,https://github.com/AppCentrica-Inc/grocerycentrica.git,Weekly Grocery,,1
+0,https://github.com/Abhijit-007a/The-Grocery-Outlet.git,Grocery Website,,1
+0,https://github.com/RITEKROUNAK/grocery_store.git,Grocery Store,,1
+0,https://github.com/neilp666/sincuruapp.git,grocery app,,1
+0,https://github.com/yoczhang/MathGrocery.git,Math grocery,,1
+0,https://github.com/nathanswift/Grocery-List.git,Grocery List,,1
+0,https://github.com/op-y/hello-world.git,Code Grocery,,1
+0,https://github.com/kriswep/grocli.git,grocery list,,1
+0,https://github.com/AndyJiang99/HackWestern2019.git,Mobile application that suggests recipes based on items in your pantry. Users can take a picture of grocery store receipts and the application will automatically extract food items.,,1
+0,https://github.com/andrewboudreau/Groceries.Boudreau.Cloud.git,Grocery List,,1
+0,https://github.com/KevinLieuNinja/Shopping-with-a-Cookbook.git,project-grocery,,1
+0,https://github.com/karemshawky/wedding.git,A Wedding party project by Codeigniter Framework and Grocery Crud library,"php,codeigniter3,grocery-crud",1
+0,https://github.com/DevanTurtle7/clayHack2020.git,An Android/iOS app that makes grocery shopping easier for RIT students!,"ios,android,flutter,firebase,firestore,dart",1
+0,https://github.com/agile-dev-assignments/fall-2019-groceries.git,Fall 2019 NYU Agile Software Development and DevOps Grocery Team Project,,1
+0,https://github.com/shashvati16/BudgetGrocer.git,Weekly grocery shopping find and add nearby grocery deals to grocery list,,1
+0,https://github.com/TrevorDev/smartEats.git,Revolutionize grocery shopping,,1
+0,https://github.com/danielBreitlauch/FoodScan.git,Automate grocery shopping,,1
+0,https://github.com/TongzheZhang/CodeWork.git,this is coed grocery,,1
+0,https://github.com/danielBreitlauch/FoodScan.git,Automate grocery shopping,,1
+0,https://github.com/jsr512/groceries-exercise.git,Grocery Project for NYU,,1
+0,https://github.com/srj347/Buyrela.git,A Grocery Ordering Application,,1
+0,https://github.com/Sindhujagalla/grocery-sales-forecasting.git,forecasting of grocery sales,,1
+0,https://github.com/lillchan/rocket-recipes.git,Recipes to grocery lists!,,1
+0,https://github.com/namrin/eccart.git,Online grocery shopping,,1
+0,https://github.com/goodnesskay/grocby.git,An Awesome Grocery Application,,1
+0,https://github.com/pinodex/vianderito-server.git,A cashier-less grocery,,1
+0,https://github.com/karnwaltushti/GMart.git,Online Grocery Store,,1
+0,https://github.com/GabrielRagonhaRodrigues/Mercantinno.git,Mercantinno - Italian Grocery,,1
+0,https://github.com/TechnitedMinds/HasdeoApp.git,"Hasdeo Grocery, Ecommerce",grocery,1
+0,https://github.com/ryancanulla/GroceryManager.git,Grocery List Manager,,1
+0,https://github.com/ankitshah59/HoMart.git,A grocery Notification Tech.,,1
+0,https://github.com/garodisk/Data-Challenge---Grocery-Cluster.git,Data Challenge - Grocery Cluster,,1
+0,https://github.com/Stuyk/discord-grocery.git,Simple Grocery List Bot,,1
+0,https://github.com/niko-dyer/Grocery-List.git,React grocery list app,,1
+0,https://github.com/Grabka84/Week4CapstoneProject.git,Grocery Store App,,1
+0,https://github.com/YakubuAmidu/Vons.git,Vons grocery app,,1
+0,https://github.com/TadjievCodes/LAB_8_First_Semester_JS.git,Grocery Store Waste Tracker,,1
+0,https://github.com/tobiasKaminsky/grocerylist.git,Grocery list for Nextcloud,,1
+0,https://github.com/jonathanhuang13/juxt.git,Grocery price comparison app,,1
+0,https://github.com/KatherineMuedas/smart_grocery_tracker.git,Smart grocery list application,,1
+0,https://github.com/henriqueadonai/Old_code.git,AppCentrica grocery weekly,,1
+0,https://github.com/skfinlayson1/grocery-list.git,A simple grocery list,,1
+0,https://github.com/scottynoshotty/grocery_bullet.git,Grocery tube app,,1
+0,https://github.com/NerdyHippie/GroceryGetter.git,PhoneGap app - grocery list ,,1
+0,https://github.com/venkat464/onlineGroceryApp.git,Online Grocery App,,1
+0,https://github.com/theotherzach/list.git,Grocery List on Rails,,1
+0,https://github.com/kumarkarun/Android-App.git,Grocery shopping app,,1
+0,https://github.com/jonathanhuang13/juxt.git,Grocery price comparison app,,1
+0,https://github.com/skfinlayson1/grocery-list.git,A simple grocery list,,1
+0,https://github.com/scottynoshotty/grocery_bullet.git,Grocery tube app,,1
+0,https://github.com/henryhhuang/Grocery-Website.git,A mock grocery website,,1
+0,https://github.com/Chandradev737/web-crawaling.git,grocery product scraping,,1
+0,https://github.com/krai29/GroceryOrderApp.git,Listing grocery items,,1
+0,https://github.com/cukelarter/Groceries.git,Grocery and Shopping Manager,,1
+0,https://github.com/pichler96/FoodRunner.git,Grocery Delivery Service,,1
+0,https://github.com/sushantparkhi/Grocery_Website.git,Simple HTML Grocery Website,,1
+0,https://github.com/kanguarrovi/mercado.git,A simple grocery calculator,,1
+0,https://github.com/rvutd/JS-Grocery-list.git,Grocery list with js,,1
+0,https://github.com/vijayjoshii/NearStore.git,Grocery under 60 min,,1
+0,https://github.com/samardzicnenad/SimpleTerminal.git,Grocery store POS emulator,,1
+0,https://github.com/akuan218/RunningBoy.git,Online Grocery Delivery,,1
+0,https://github.com/pjjy/project_bs.git,A grocery app ,,1
+0,https://github.com/felipeemidio/PacocaApp.git,Grocery shopping list app,,1
+0,https://github.com/aaronrobertson222/Grocery-list-app.git,Grocery list app project,,1
+0,https://github.com/giedriusbaliu/grocerylist.git,Just my grocery list,,1
+0,https://github.com/tonycapone/whatsfresh.git,grocery store ad scraper,,1
+0,https://github.com/SharonYang007/shopping-list-app.git,my grocery shopping list,,1
+0,https://github.com/hu243285237/WebRepository.git,Web grocery store,,1
+0,https://github.com/Ibcs16/groceryList.git,Grocery List webapp,,1
+0,https://github.com/mejibyte/groceries.git,My personal grocery list.,,1
+0,https://github.com/bstewartny/Shopper.git,iOS grocery shopping app,,1
+0,https://github.com/ClarkGH/FridgeTank.git,Grocery List Application Evolved,,1
+0,https://github.com/arkhitech/ember_grocery_app.git,Ember based grocery application,,1
+0,https://github.com/nominatrix/pantry_raid.git,Making grocery shopping easier. ,,1
+0,https://github.com/ShaamP/Grocery-program.git,A basic grocery program,,1
+0,https://github.com/jparr721/receipts.git,Grocery receipt reader🍎,,1
+0,https://github.com/chernobyl-pod/grocery_list.git,A household grocery list,,1
+0,https://github.com/jparr721/receipts.git,Grocery receipt reader🍎,,1
+0,https://github.com/snevagi/GroceryShopping.git,website for grocery shopping,,1
+0,https://github.com/mlacanna/grocery-list.git,simple python grocery list,,1
+0,https://github.com/Shod0w/Kirana.git,Automated Grocery Store System,,1
+0,https://github.com/dubeboy/Grocery-App-iOS.git,Grocery demo app,,1
+0,https://github.com/alantrrs/loonch.git,Grocery list generator,,1
+0,https://github.com/notyourtechguy/tienda.git,An online grocery system,,1
+0,https://github.com/Damsodems/Grocery-store_Staffordshire_UML.git,Grocery ordering system ,,1
+0,https://github.com/huycans/digital-grocery.git,Digital grocery store,,1
+0,https://github.com/animeshrick/flutter_grocery_application_UI.git,Grocery Application UI - Flutter,,1
+0,https://github.com/SeanMNorton/groceryapp.git,Grocery List Application Files,,1
+0,https://github.com/aman-v1729/grocery-routing.git,Efficient Grocery Routing,,1
+0,https://github.com/jthorntonn/GroceryDB.git,COSC386 Grocery Store Database,,1
+0,https://github.com/jpsietsma/Grocery-Management-System.git,Grocery Management System - Web Version,,1
+0,https://github.com/La1c/Fooder.git,Get grocery list from recipes,,1
+0,https://github.com/dod-itsolutions/Multi-Vendor-Grocery-Script.git,Best Multi Vendor Grocery Script,,1
+0,https://github.com/vivekjne/grocery-ecommerce-nextjs.git,Grocery ecommerce application with nextjs,,1
+0,https://github.com/VangelisGara/napao.git,Crowd management in grocery stores,,1
+0,https://github.com/Dinesh1042/Grocery-App.git,Grocery App vanilla JavaScript project,,1
+0,https://github.com/fajaragungpramana/android-warungku-owner-old.git,App for management grocery stores.,,1
+0,https://github.com/BudCode/Groceries.git,A BlackBerry 10 grocery app,,1
+0,https://github.com/marija-stanojevic/sales-forcasting.git,Grocery Sales Forecasting (Nov 2017),,1
+0,https://github.com/jaybhoyar/grocery-store-problem.git,Grocery Store Problem in Ruby,"ruby,grocery-store,ruby-language,learning",1
+0,https://github.com/SnuggleFrijoles/grocery.git,A online grocery list application.,,1
+0,https://github.com/PedroMR/FridgeList.git,Simple app for grocery lists,,1
+0,https://github.com/dylan1218/WalmartGroceryTimeSlot.git,Query walmart grocery time slots,,1
+0,https://github.com/AishwaryaM12/Shopping-Cart_-GroceryWala-.git,A website for selling Grocery.,"shopping-cart,grocery-store,grocery-wala,node-js,javascript,html,css,express-js",1
+0,https://github.com/memerzian/grocery-2.git,Second iteration of grocery application,,1
+0,https://github.com/edidonato1/PanTree.git,a smart grocery list application ,,1
+0,https://github.com/swinginsamurai/GroceryBot.git,A better grocery shopping app,,1
+0,https://github.com/drouchy/grocery.git,Ruby on Rails grocery exercise,,1
+0,https://github.com/lindnc5/Store.git,React-Redux grocery store application,,1
+0,https://github.com/nickdee1/Online-Grocery-Store.git,Online grocery store web application,,1
+0,https://github.com/Niladri31/grocery-web-app-using-angular.git,Grocery web app using angular,,1
+0,https://github.com/Jambell/Foodledo.git,Grocery shopping tool for geeks,,1
+0,https://github.com/seanlennaerts/groceries.git,🥕 Track grocery expenses between roommates!,,1
+0,https://github.com/kosswald/grocery-list-iOS.git,iOS app for Grocery List,,1
+0,https://github.com/falcon256/AGrocery.git,A Grocery Store Training Simulation,,1
+0,https://github.com/corroded/food_inventory.git,Personal food inventory/grocery list,,1
+0,https://github.com/bhochhi/grocery.git,An app for grocery list,,1
+0,https://github.com/Chidiemeh184/Grocr.git,Grocery app with Firebase backend,,1
+0,https://github.com/SAKET-SK/Ecommerce-Grocery-Website.git,An E commerce Grocery store.,,1
+0,https://github.com/rschroeder-2013/MyPantry.git,Custom Grocery/Recipe Tracking Software,,1
+0,https://github.com/sdhughes/fannie.git,"{""Alberta Coop Grocery's Fannie""}",,1
+0,https://github.com/ohall/amy.git,make grocery lists for Amy,"recipes,nodejs,edamam,email",1
+0,https://github.com/Xanderdeng/Golden-Express-Frontend.git,Mobile Online Grocery Delivery Application,,1
+0,https://github.com/sheilaje/online-grocery-store.git,Fred Meyer grocery store clone ,,1
+0,https://github.com/BijayAcharya10/TheValleyGroceryShop.git,Ecommerce website for grocery shopping,,1
+0,https://github.com/PesaCoder/GroceryProjectWithDatabase.git,Grocery List with atabase local,,1
+0,https://github.com/esther-ng/groceries.git,API for retrieving grocery data,,1
+0,https://github.com/treebuckets/HackathonGrocery.git,Grocery App for Hack Quarantine,,1
+0,https://github.com/linyh0207/snapFood-frontend.git,This is a full stack mobile application specically for Android that makes reporting discounted grocery items faster and searching for real time food deals easier! ,,1
+0,https://github.com/tleifj/vue-grocery.git,Grocery and Meal Planning app,,1
+0,https://github.com/gaurangkumar/Online-Grocery-Store.git,Online Grocery Store in PHP,,1
+0,https://github.com/schollz/randomgrocerylist.git,Generate a random grocery list,,1
+0,https://github.com/Kartik-Kumar12/reactjsapp.git,A simple grocery list app,,1
+0,https://github.com/csexauer/GroceryGrab.git,Grocery Store Index/Search Engine,,1
+0,https://github.com/ITU-EBakkal/EBakkal.git,E-Marketing for Grocery Stores ,,1
+0,https://github.com/EminGaraca/emingaracaeme-hotmail.com.git,Grocery list with React.js,,1
+0,https://github.com/Miaababikir/Hatly.git,Grocery app dashboard and API,,1
+0,https://github.com/ITU-EBakkal/EBakkal.git,E-Marketing for Grocery Stores ,,1
+0,https://github.com/elliotttf/groceries.git,Simple grocery list web app.,,1
+0,https://github.com/xdurana/favorita.git,Corporación Favorita Grocery Sales Forecasting,,1
+0,https://github.com/DaniyalAK47/Jhola_user_app.git,"Food, grocery and courier delivery",,1
+0,https://github.com/smhgit/a8cfe7a8-6bc7-11ea-bc55-0242ac130003.git,Home Assistant grocery list integration,sensors,1
+0,https://github.com/imadarshj/IBM_HACK.git,Online Grocery Shopping Store GROC4ALL,,1
+0,https://github.com/parthvasoya59/DanyTime.git,Flutter app for Grocery stores.,,1
+0,https://github.com/TigerYassin/Groot.git,Optimize the grocery list and route user to collect all times from list while saving the most money,,1
+0,https://github.com/e-wai/george.git,"\u200b🛒\u200b🍒\u200b🥦\u200b Grocery shopping web app built with React.js, implementing Firebase and Stripe APIs, and interacting with Python (Flask) backend",,1
+0,https://github.com/m-fahim/Value-Mart.git,"Value Mart is a grocery store mannagement system, makes operating your grocery store that much easier.",,1
+0,https://github.com/jagrutivichare/Online-Grocery-Store-CS425.git,"Online grocery store which allows user to add, checkout grocery products.",,1
+0,https://github.com/deadwoman/p4-client.git,A budget for grocery shopping that also acts a grocery list.,,1
+0,https://github.com/JaniceLu/cmpe172_project.git,Grocery Analytics - A tool to display customer habits and grocery store traffic,"spring-boot,spring-boot-web,thymeleaf,aws,aws-ecs,aws-rds,javascript,java,aws-rds-mysql",1
+0,https://github.com/AdvanceDatabase/GroceryStore.git,Online Grocery Store makes your grocery shopping even simpler by bringing it to your door step.,,1
+0,https://github.com/aidanbdh/ez-list.git,A website for grocery shoppers who want to easily make grocery lists.,,1
+0,https://github.com/musiracodes/mama-mboga-app.git,An android application for ordering grocery from the local mama mboga (grocery shop),,1
+0,https://github.com/adia-stansbury/groceries.git,Generates ordered grocery list with nutritional report,,1
+0,https://github.com/hxqlin/grocery-store-database.git,A database application modelling a grocery store.,,1
+0,https://github.com/Picklr/cucumber.git,:shopping_cart: An online grocery service,,1
+0,https://github.com/johnclamy/react-firebase-demo-app.git,Web based grocery shopping list app,,1
+0,https://github.com/njokdan/groceries-store-app.git,request items from a grocery list,,1
+0,https://github.com/franciscodelgadodev/tiendita-api.git,API to manage your grocery store.,,1
+0,https://github.com/travisbrkr1234/angular-node.git,A simple recipe/grocery list app,,1
+0,https://github.com/Kaww/Shoplist.git,A grocery list app in SwiftUI,,1
+0,https://github.com/vivekandathil/ListMaker.git,Simplified grocery list generator (React Native),,1
+0,https://github.com/deliveryget24/deliveryget24.in.git,E commerce websites of Grocery/Medicine,,1
+0,https://github.com/nailton/ci-grocery-crud.git,Teste com grocery crud e CodeIgniter,,1
+0,https://github.com/taymeric/liste.git,Android app for managing a grocery list,"android-application,android",1
+0,https://github.com/Ayobamiu/ecommerce_site_with_Django.git,An imaginary grocery store with Django,,1
+0,https://github.com/cruzkat/basketanalysis_p3.git,Instacart grocery basket classification to predict reorders,,1
+0,https://github.com/guneet99/GROCERY-STORE.git,Java GUI based online grocery store,,1
+0,https://github.com/sareek/Egrocery.git,An android application for online grocery ordering,,1
+0,https://github.com/OpeningDesign/Organic_Grocery_Store.git,An Organic Grocery Store in Wisconsin,,1
+0,https://github.com/imichelle97/Something-Simple.git,Full stack grocery delivery web application,,1
+0,https://github.com/Pragatheesh/Grocery-App.git,A simple react native grocery app.,,1
+0,https://github.com/NishadAvnish/FressKart.git,A allahabad based grocery delivery startup project,,1
+0,https://github.com/tiborkosa/GroceryList.git,Android mobile app for interactive grocery list,,1
+0,https://github.com/sofibilal193/Grocery-Check-out-.git,Grocery Check out program in c++,,1
+0,https://github.com/faysalchowdhury99/bazar-list.git,You can store your grocery list here,grocery-list,1
+0,https://github.com/pankajsankpal/E-Grocery.git,Contains code for E-Grocery mobile app,,1
+0,https://github.com/HarshalShende/Kirana_Store.git,Final Year Project For Grocery Store ,,1
+0,https://github.com/devend711/grocerize.git,incredible grocery list app made using Sinatra,,1
+0,https://github.com/lvidal1/grocery-redux.git,A grocery market example using Angular4+ & Redux,,1
+0,https://github.com/Sayub456/grocery-shopping.git,facilitating online grocery shopping through website,,1
+0,https://github.com/2n2n/laravel-react-grocery-list.git,Grocery list built with react and laravel5,,1
+0,https://github.com/lynetterussel331/grocerystoreapplication.git,Grocery Store Application with JUnit Testing,,1
+0,https://github.com/sanket27898/flutter_cloudKitchen_Vendor_app.git,This is the vendor app for Grocery ,,1
+0,https://github.com/anoopmundathan/oderit.git,Local grocery - React Redux Native App,,1
+0,https://github.com/dubeboy/Grocery-App-Rest-Service.git,demo Grocery app spring boot rest service,,1
+0,https://github.com/johncuicui/groceryStore-Keras.git,grocery store image classification with Keras,"image-classification,grocery-store,deep-learning,fine-tune,densenet,keras",1
+0,https://github.com/erobit/GroceryApp.git,GroceryApp - Personal grocery list using MEAN.js,,1
+0,https://github.com/srav03/GroceryStore.git,Create software to manage Grocery Store ,,1
+0,https://github.com/shubhamnikam/GroceryList.git,Grocery List application using Sqlite Database,"android,android-application,android-studio,sqlite,java,database",1
+0,https://github.com/Gabriel-Morales/GroceryPortal.git,Mobile Project for customer grocery portal.,,1
+0,https://github.com/GregLa/grocery-list.git,Grocery list manager with a planning tool,,1
+0,https://github.com/aliitani/Grocery_List.git,A grocery list app for Android.,,1
+0,https://github.com/wichopy/AisleSeven.git,Scan grocery receipts for granular spending details.,,1
+0,https://github.com/lynkfox/PillarGroceryKata.git,Grocery Store API Kata for Pillar Technology,,1
+0,https://github.com/ifu97224/grocery_recommender.git,A recommender system for grocery store recommendations,,1
+0,https://github.com/ramonsaraiva/acougue.git,Simulation of a grocery using simpy,,1
+0,https://github.com/sanket27898/flutter_cloudkitchen_admin_app.git,This is admin app for Grocery,,1
+0,https://github.com/2k-joker/ABC_Grocery_Sales_Prophecy.git,ABC grocery store sales forecast with Prophet,,1
+0,https://github.com/ramonsaraiva/acougue.git,Simulation of a grocery using simpy,,1
+0,https://github.com/Shugardude/recipes.git,app to get grocery list from recipes,,1
+0,https://github.com/steve1281/docker_flask_grocerylist.git,Grocery List application as docker app,,1
+0,https://github.com/Greenie0506/Grocery-List.git,Domain modeling for a grocery list.,,1
+0,https://github.com/kanekirsten07/HappyGrocer.git,Personal Grocery Tracker app for iOS,,1
+0,https://github.com/aethermade/Shoplist.git,A simple helper for grocery shopping.,,1
+0,https://github.com/mahdiimahd/attend.git,revolutionizing grocery shopping and eliminating food waste,,1
+0,https://github.com/vaibs30/Grocery-Store-app.git,Grocery Store app using React Native,,1
+0,https://github.com/Tobias2023/Grocery-app.git,Grocery| shopping list application with Angular ,,1
+0,https://github.com/romanKarsh/Wine-Grocery.git,Helps Find Wine Grocery Near You,,1
+0,https://github.com/nhowe29/PocketChef.git,All in one grocery solution for Android.,,1
+0,https://github.com/StephenNeverMore/AndroidGroceryStore.git,an android project like a grocery store,,1
+0,https://github.com/captainpainway/elm-grocery-list.git,Desktop and mobile grocery list/calculator,,1
+0,https://github.com/ferdyanata/online-grocery-store.git,Grocery store with graphical user interface,,1
+0,https://github.com/davidhqr/GroShare.git,A sustainable and communal grocery shopping experience,"javascript,jquery,php,share",1
+0,https://github.com/xxyGoTop/golang_record.git,🌟 record my code  grocery in work life,,1
+0,https://github.com/uisam00/supermarket-list.git,A flutter app that stores grocery list,,1
+0,https://github.com/hrastnik/shopping-app.git,Demo React Native app for grocery shopping,,1
+0,https://github.com/Step1N/daily-bazar.git,E-commerce Application To Order Grocery ,,1
+0,https://github.com/berkysr/vanilla-js-grocery-list.git,"A grocery list, made with vanilla JS","html5,css3,scss,javascript,webpack",1
+0,https://github.com/ChristopherLandaverde/Lixt.git,Share your Grocery List with your Friends,"react-native,flask,python,mysql",1
+0,https://github.com/colinjlacy/listache-in-rails.git,A Rails application for building grocery lists.,,1
+0,https://github.com/aziztitu/sau-ecommerce-webprogramming.git,A Sample Online Grocery Shopping Service,,1
+0,https://github.com/dteal/zeitgeist.git,Files for the Zeitgeist grocery cart robot.,,1
+0,https://github.com/samuelbritt/QuickShop.git,Sorts your grocery list by aisle,,1
+0,https://github.com/praditha/CI_groceryCRUD.git,Code Igniter with grocery CRUD bootstraps,,1
+0,https://github.com/Sivli-Embir/grocery-list.git,its a grocery list meteor js app,,1
+0,https://github.com/arajajyothibabu/grocery-store.git,A simple Grocery Store using PHP,,1
+0,https://github.com/arajajyothibabu/grocery-store.git,A simple Grocery Store using PHP,,1
+0,https://github.com/cl0udsurfer/instafood-microservice.git,Grocery Delivery Platform build in Microservice Architecture,,1
+0,https://github.com/etth3746/grocery.py.git,Game code for a simple grocery game,python3,1
+0,https://github.com/nima-m-git/grocery-inventory.git,Grocery store inventory with Node.JS / Express,,1
+0,https://github.com/irisfoox/React-dinamic-list.git,how to make a dinamic grocery list,,1
+0,https://github.com/Tejas-15/Grocery-Store-System.git,Grocery Store System base on tkinter platform,,1
+0,https://github.com/nirajd24/grocery-store.git,Online Grocery Ordering an E-commerce store,"grocery-store,java,eclipse,maven,mysql-database,spring-mvc",1
+0,https://github.com/pythongurfer/Association-Rule-Learning.git,Recomendation System basics - grocery shopping dataset,,1
+0,https://github.com/wjwmichael/grocery-planner-backend.git,Back end server for grocery-planner ui,,1
+0,https://github.com/lhpm/codweb.git,"Prueba técnica Codegniter, Grocery CRUD, Datatables.",,1
+0,https://github.com/meher18/Grocery.git,simple landing page of the grocery,,1
+0,https://github.com/allannad/shopping-cart.git,Modernize a grocery store checkout process,,1
+0,https://github.com/eliashantula/Sales-Finder.git,Grocery Store Sales Shopping and Planner App,,1
+0,https://github.com/Soletrar/GroceryListBot.git,"{""Tool for Habbo's Grocery List game.""}","habbo,csharp,bot,game,habbo-grocery",1
+0,https://github.com/Apig-Sharbo/groceryShop.git,A grocery shop with a working cart,,1
+0,https://github.com/sethukarthik/grocery.git,The transactions in a grocery store.,,1
+0,https://github.com/full-join/qtime.git,Grocery Store Line Wait Time - COVID-19,,1
+0,https://github.com/marcjohnstonuw/groceries.git,helper for making a grocery list,,1
+0,https://github.com/eeh348/shopping-cart.git,Shopping cart application for local grocery store,,1
+0,https://github.com/kotharideepak07/grocerySalesForecast.git, hackathon Grocery Sales Forecast : Weekend Hackathon #4,,1
+0,https://github.com/ksu-is/meal-and-budget-planner.git,"Eliminate the struggle of deciding what meals to cook on a budget. Enter your budget and the available meals to choose from will be listed, making grocery shopping a bit less stressful.",,1
+0,https://github.com/jjouganous/grocery_sales_forecasting.git,Scripts used for the grocery sales forcasting kaggle challenge https://www.kaggle.com/c/favorita-grocery-sales-forecasting,,1
+0,https://github.com/aaronw4ng/GroceryGuide.git,Grocery Guide is an app that helps users safely grocery shop during COVID-19 — Hack for Hope 2020,,1
+0,https://github.com/hrishikesh-kadam/inventory-app.git,A final project required for Android Basics Nanodegree graduation which lets a grocery store owner to organize the grocery inventory.,android,1
+0,https://github.com/jmreardon/grocerylist.git,A web application for managing a tracking grocery purchases,,1
+0,https://github.com/dkempton12/shopping-list.git,Grocery list app built with Javascript- add and remove items,,1
+0,https://github.com/mbarker/grocery-list.git,Simple grocery list app using angular and firebase,,1
+0,https://github.com/antoncohen/grocery_delivery-cookbook.git,Chef cookbook to install and configure Grocery Delivery,,1
+0,https://github.com/xhocquet/groceryguru-server.git,"{""Backend server serving Grocery Guru's website and API""}","rails,coffeescript,elasticsearch,grocery-guru,ruby,tesseract-ocr,postgresql",1
+0,https://github.com/dubeboy/Grocery-App.git,A demo grocery app for my medium article,,1
+0,https://github.com/Colley-K/Time_series_forecasting.git,Forecasting 3000 different grocery items on a weekly basis,,1
+0,https://github.com/dragonrossa/GroceryStore.git,"Buy items in Grocery Store - EF 6, MEF",,1
+0,https://github.com/ManishPingale13/MVVM-GroceryApp.git,Learning MVVM basics by creating a simple Grocery Shopping App,"mvvm-architecture,room-persistence-library,coroutines-android,kotlin,android,dependency-injection",1
+0,https://github.com/jacobmask/cashierSimulation.git,Simulation for a Cashier at a grocery store. ,,1
+0,https://github.com/younesatari/Add-Grocery-App.git,"Add Grocery App Using HTML, CSS and JAVASCRIPT",,1
+0,https://github.com/luismarcilio/grocery-brasil-app-backend.git,"Backend GCP functions for my app ""grocery-brasil""",,1
+0,https://github.com/djspinmonkey/mealerrific.git,A meal planning / recipe filing / grocery listing web app,,1
+0,https://github.com/jolavb/Grocery-Basket.git,An SPA for collecting and aggregating On-Sale Grocery Items.,,1
+0,https://github.com/mikhlasnr/shoppingList.git,ShoppingList application is an application to record grocery lists,,1
+0,https://github.com/Gavrilajava/mealter.git,Web app to organize recipes and grocery list,"redux,rails,ruby,react,postgres",1
+0,https://github.com/thimiradulakshitha/DeliveryAppClient.git,Grocery Delivery Android App - Part of the Final year project.,"location,based,food,delivery,app,android",1
+0,https://github.com/pjjy/alturas_grocery_food.git,alturas group of companies online food ang grocery ordering app,,1
+0,https://github.com/ikassim9/Grocery-Tracker.git,App that tracks how much money you spend on grocery,,1
+0,https://github.com/jasongoossens/whattoeatandbuy.git,Recipe repository with bi-weekly planner and grocery list,,1
+0,https://github.com/dakshp6/gm-bot.git,GroupMe Bot that uses MongoDB to maintain roommate grocery list,,1
+0,https://github.com/lauseb/cooking.git,Manage your recipe collection and your grocery lists.,,1
+0,https://github.com/BekahT/qu-mart.git,Online grocery store based on Angular Getting Started Tutorial,,1
+0,https://github.com/VirtualPantry/VirtualPantry.git,The New Way of Automating your Grocery List ,,1
+0,https://github.com/keatshackon/Grocery-List.git,A simple app to make a list of grocery item!,,1
+0,https://github.com/Hirdesh564/Grocery-Website-Using-HTML-and-CSS.git,Grocery Website template of 5 items Using HTML and CSS,,1
+0,https://github.com/TheDigitalNinja/smart-grocery-list-frontend.git,Angular frontend to the smart grocery list api. ,,1
+0,https://github.com/d42n81/HackNC2018.git,Grocery Order Suggestions by Recipe (G.O.S.R) HackNC2018,,1
+0,https://github.com/Manish-Ghumnani/Shopaholic.git,A Java EE based shopping application for online grocery shopping,"java-ee,jsf,angular,servlet,java-sockets,ejb,mdb,primefaces,java-mail,jms",1
+0,https://github.com/NekroCid/Crud-Igniter-with-PosgreSQL.git,"Conjunción de herramientas (CodeIgniter, Grocery CRUD con PostgreSQL)",,1
+0,https://github.com/sanids/Apriori-Association-Rule-Learning.git,Seeing correlation of grocery store items using Apriori in Python,,1
+0,https://github.com/cudjoeab/react-grocery-list.git,Building a dynamic grocery list in React JS ,,1
+0,https://github.com/saifmohammed199/grocery-list-backend.git,This Repository is created for grocery project backend work,,1
+0,https://github.com/psmorelli/customer-portfolio-analysis.git,"Grocery portfolio indicators analysis with Python, Pandas and Tableau.",,1
+0,https://github.com/cynthiaarmour/HFFI-Project.git,Studying HFFI Data and Grocery Gaps in the US,,1
+0,https://github.com/Chridas/grocery-list.git,This is a demo project for a grocery list.,,1
+0,https://github.com/KristianMMOlsen/grocery-list-app.git,An app that lets you create grocery lists,,1
+0,https://github.com/lmarcon/spesa-calculator.git,Spesa Calculator is a tool designed for shared grocery shopping.,,1
+0,https://github.com/DuvanSGF/cms-with-Codeigniter.git,a cms project with codeigniter and grocery CRUD.,"codeigniter,codeigniter-cms",1
+0,https://github.com/rajaditya280898/Grocery-Store-billing-system.git,A windows form based app for any grocery store management,,1
+0,https://github.com/skhaniyur/instacart-reorder-prediction.git,"ML model to predict grocery reorders (AWS EMR, Spark, MongoDB) ",,1
+0,https://github.com/technewb/Grocery-Price-Book.git,Keep track of grocery prices between stores (Django & Angular),,1
+0,https://github.com/arridoarfiadi/RecommendationSystemExperiments.git,Research on Recommendation Systems in the Online Grocery Market,,1
+0,https://github.com/ingridnkenli/GroceryListDatabaseApp.git,Displays database of grocery list item options using MySQL database,,1
+0,https://github.com/benjelloo/Grocer-App.git,Decentralized food and grocery delivery app for quarantiners,,1
+0,https://github.com/Viviane-Queiroz/angular-js-grocery-list-app.git,A grocery list app that has been developed with AngularJS.,,1
+0,https://github.com/anastasiia-a/recommendation-system.git,Grocery store recommendation system. Team coursework in Polytechnic University.,,1
+0,https://github.com/luckyrantanplan/meal-planner.git,"soft for recipes, meal, menus, grocery list and stock management",,1
+0,https://github.com/xphong/ShopRight-website.git,"School project website for a grocery store website, custom CRUD",,1
+0,https://github.com/hjgoldman/Grocery-App-Firebase.git,A grocery list app written in Swift using Firebase.,,1
+0,https://github.com/frank-io/grocerylist.git,An ugly  grocery list App built on Kivy Framework (Uncompleted),,1
+0,https://github.com/Linziw/OffMyTrolley.git,A SPA to help communities share online grocery delivery slots,,1
+0,https://github.com/JBarth86/grocery-lister.git,Super simple web app for making a grocery list,,1
+0,https://github.com/soumyadipsen/one-only.git,Android app of oneonly.in ( online grocery store),,1
+0,https://github.com/sachindevtomar/BhadoriaShop.git,It is an android application for selling grocery items,,1
+0,https://github.com/alvee32/GroceryBazar.git,A grocery Web App using PHP for university project.,,1
+0,https://github.com/abidinkofficial/bakkal-ecommerce-app.git,Bakkal - an e-commerce project for local grocery stores.,,1
+0,https://github.com/lucashecht/toiletpaper-rs.git,Tracks toilet paper stock in nearby grocery store,,1
+0,https://github.com/nskins/grocDB.git,The simplest way to compile a comprehensive grocery list.,,1
+0,https://github.com/mgula/price-compare.git,Proof of concept for a grocery shopping assistant application.,,1
+0,https://github.com/bgautijonsson/groceries.git,Kaggle Competition for Corporación Favorita Grocery Sales Forecasting,,1
+0,https://github.com/yogesh002/E-Commerce.git,A simple e-commerce website that represents a grocery store,,1
+0,https://github.com/abdulfataiaka/grocery.git,"A grocery listing application with React, Redux, Express and MongoDB",,1
+0,https://github.com/romqu/inventory-android.git,[WIP] Inventory which automatically generates a grocery list,"android,kotlin",1
+0,https://github.com/dcsim0n/neighborhood-pantry-api.git,Just your friendly Neighborhood social grocery app backend. ,,1
+0,https://github.com/lalith050101/GST-Billing-App.git,A Java Full Stack Web Application for grocery store billing.,"java,html,css,spring-boot,spring-mvc,postgresql-database,thymeleaf-java",1
+0,https://github.com/soumyadipsen/one-only.git,Android app of oneonly.in ( online grocery store),,1
+0,https://github.com/sachindevtomar/BhadoriaShop.git,It is an android application for selling grocery items,,1
+0,https://github.com/Linziw/OffMyTrolley.git,A SPA to help communities share online grocery delivery slots,,1
+0,https://github.com/JBarth86/grocery-lister.git,Super simple web app for making a grocery list,,1
+0,https://github.com/demsullivan/flyer-aggregator.git,Web-based flyer aggregator for Loblaws-owned grocery stores.,,1
+0,https://github.com/hratx-blue-ocean/hratx43-ReciBee.git,"Recipe searching, meal planning, and grocery list making web application",,1
+0,https://github.com/kblandy/grocery-app-CL.git,Simple grocery application using food-related apis with React,,1
+0,https://github.com/ishaan-16/Grocery-Management-System.git,"Grocery Management System Using Python, SQL and mysql.connector",,1
+0,https://github.com/HvSawal/Grocers-MEAN.git,MEAN stack implementation of an online grocery web portal.,,1
+0,https://github.com/kruser/zualoo.git,A grocery list manager written on the Google App Engine,,1
+0,https://github.com/kylevdr/eGrocery.git,E-commerce website for fictional online grocery store.,,1
+0,https://github.com/davidhanlon23/groceryStoreQueueSimulationProject.git,Computer Simulation and Modeling Group Project: Grocery Store Queue Simulation,,1
+0,https://github.com/DeclanMorrison/Cookit.git,A meal planner and grocery list generator web application.,,1
+0,https://github.com/QMIND-Team/GC_warmup.git,Warmup project repo for the Grocery Checkout Team,,1
+0,https://github.com/echoshihab/django-grocerylist-backend.git,backend for Grocery List app with django & django-rest-framework,,1
+0,https://github.com/jspii/grocery-mern.git,Making a grocery app using the MERN stack,,1
+0,https://github.com/reenharnoorsingh/Grocery-Store-Receipt.git,Generates Grocery store receipts with any given data,,1
+0,https://github.com/MilitsaB/GroceryStore.git,FreshFamily Market is a grocery store website project.,,1
+0,https://github.com/robvanbentem/pieko.git,Multi-user grocery list with receipt/money management between users,,1
+0,https://github.com/donuts-and-data-division/cs122-project.git,Web tool to locate SNAP retailers and plan grocery budgets,,1
+0,https://github.com/AksharSolanki2697/A_Recommender_System_for_Grocery_Contractor.git,Recommendation system for Grocery contractors using clustering algorithms,,1
+0,https://github.com/GatoY/g-forecast.git,Kaggle-Favorita Grocery Sales Prediction TOP 1% Solution,"kaggle,prediction,timeseries,xgboost,wavenet",1
+0,https://github.com/jjoshi6/GroceryAnalysis.git,Grocery Analysis- An Approach to Data Mining & Machine Learning ,,1
+0,https://github.com/Kumar-Akshay/Online-Grocery-System-in-Asp.net-Project.git,Online Grocery System by using Asp.net and C# Language,,1
+0,https://github.com/AllisonBarnett/Udemy-Angular-App.git,"{""Grocery store app we're creating through udemy""}",,1
+0,https://github.com/keerthan2/Deep_Image_Hashing.git,Quick query search through image hash of grocery products.   ,,1
+0,https://github.com/bornabesic/shoptimize.git,🛒 CSP solver that generates an optimal grocery list,"constraint-satisfaction-problem,backtracking,optimization,shopping,csp,cpp",1
+0,https://github.com/AndroidCourseMaterial/GroceryDroid.git,Dr. Boutell project to manage a grocery list,,1
+0,https://github.com/alexabate/JustMapIt.git,Map of income + grocery store data around Tucson,,1
+0,https://github.com/sarannng/kirana_app.git,An application designed to take every local grocery store online.,,1
+0,https://github.com/curiouscoding22/groceryList.git,A basic grocery list application to demonstrate Java concepts.,,1
+0,https://github.com/eocello10/Groceries-Exercise.git,Grocery exercise in prep for class 5 and for project.,,1
+0,https://github.com/rainDelay9/grocery-list.git,React.js + ETH smart contracts simple grocery list,,1
+0,https://github.com/01ROHIT-PANDEY/Grocery-Bill-Generated-System.git,Console based Grocery Bill Generator System using C Language. ,,1
+0,https://github.com/Samson-dirisu/Foodio.git,A multi vendor grocery ordering app made with flutter,,1
+0,https://github.com/nschelin/vue-grocery.git,vue.js grocery list - used for learning Vue.js,,1
+0,https://github.com/stuartpb/kroget.git,A service for automating coupon downloads for Kroger grocery outlets,,1
+0,https://github.com/drupallerina/Food-Schedule.git,Drupal 7 dist for food and grocery management,,1
+0,https://github.com/greg-czaplicki/vuejs-grocerylist.git,A Vue.js grocery list application with firebase,,1
+0,https://github.com/siddharthsma/favorita.git,Grocery sales forecasting for a large supermarket chain called Favorita ,,1
+0,https://github.com/Travisaurus-Rex/grocerycontrol.git,ionic 2 app for keeping track of grocery expenditures,,1
+0,https://github.com/foxmerald/shop-scraper.git,Scrape product data from grocery store online shops,,1
+0,https://github.com/DrakeMorin/GroceryList-iOS.git,An offline capable iOS app to track your grocery list.,,1
+0,https://github.com/Nimor111/grocery-list.git,"An app for managing grocery lists, made with Flutter",,1
+0,https://github.com/JakobWyatt/Vegan_Shop.git,An app for finding vegan products within grocery stores.,,1
+0,https://github.com/deadwoman/p4-api.git,API for the Grocery Budget & Shopping List web app.,,1
+0,https://github.com/kmiao94/Grocery-List.git,"Grocery List web app using AngularJS, Dropwizard and Hibernate",,1
+0,https://github.com/brianssheldon/YolandasGroceryListApp.git,A simple grocery list Android app that uses Sqllite,,1
+0,https://github.com/zeyilin/GrocerEase.git,Android application with grocery list and recipe suggestion features,,1
+0,https://github.com/phylor/kuehl.git,An IoT grocery shopping list for your fridge,,1
+0,https://github.com/jcl696/landers-grocery-exercise.git,grocery exercise for unit 3 of Python class,,1
+0,https://github.com/iselab-dearborn/grocery-old.git,An example of a grocery store system with academic purpose,,1
+0,https://github.com/Barralex/Grocr-App.git,React Native and firebase collaborative grocery list app,"react-native,expo,firebase,firebase-auth,firebase-realtime-database",1
+0,https://github.com/MakboolShah/grocerymanagement.git,it is about to grocery detailes in list,,1
+0,https://github.com/dzhou45/ReceiptSplitter.git,Splits grocery receipts among people who buy together,,1
+0,https://github.com/ajwhite/raspberry-pi-grocer.git,Smart Trashcan - grocery list automation with a barcode scanner & rPi2,,1
+0,https://github.com/azza314/grocery-store.git,"working on grocery store website using HTML, CSS, Javascript",,1
+0,https://github.com/AkioUnity/ci-capital-need.git,"Capital needs by codeigniter and bootstrap, adminLTE, grocery_crud",,1
+0,https://github.com/steliomo/grocery-mobile.git,This is the mobile side of the grocery application,,1
+0,https://github.com/chaimaamak/shopping-cart-project.git,Grocery store checkout program with email receipt capabilities,,1
+0,https://github.com/Tyrorn/ChefTyron.git,A basic cook book that helps create grocery lists,,1
+0,https://github.com/GayofReckoning/bagel-acquisition-module-alpha.git,Grocery List web app developed by and for Gayhold,,1
+0,https://github.com/fajaragungpramana/android-warungku-owner-deprecated.git,This is android application to manage grocery store,,1
+0,https://github.com/jesmcc/GroceryCompare.git,Scraper for comparing grocery prices between NZ supermarkets - with flask!,"flask,scraper",1
+0,https://github.com/jaredramirez/groceries.git,Grocery list app with RN/Redux client and Rust server,,1
+0,https://github.com/vikyale/sample-Groceries.git,A NativeScript-built Android app for managing grocery lists,,1
+0,https://github.com/ShatteredArrow/MealPlanning.git,Android app for grocery lists with data stored in Firestore,,1
+0,https://github.com/CorbenG/grocery-games.git,A simulation based real time grocery management game.,,1
+0,https://github.com/fhasni/GroceryList.git,A grocery list app for Apple watch using Watchkit,,1
+0,https://github.com/mun-sathish/SingularityHackathon-SAGATU.git,"Sagatu is a supply chain management company where our mission is to organize the food and grocery ecosystem in India using technology, design and style.",,1
+0,https://github.com/HrushikeshVasista/GoShop.git,GoShop is a grocery delivery app for Android phones,,1
+0,https://github.com/jcswll/loaf-bottle-stick.git,Grocery list app with fast entry and checking off,,1
+0,https://github.com/saurabhmehta04/whatsInMyRefrigerator.git,iOS app that manages the grocery items in your refrigerator,,1
+0,https://github.com/daredia/gruber.git,"{""MVP for an on-demand grocery service's Shopper application""}",,1
+0,https://github.com/hauptaj/Lab7.git,JavaScript formula listing grocery item array and totaling the prices,,1
+0,https://github.com/newayliu1/Supermarket-Management-System.git,A database system to manage a grocery store data,,1
+0,https://github.com/Lakendary/pricebook.git,PriceBook is a Windows desktop grocery price tracking application.,,1
+0,https://github.com/damade/GroceryList.git,A GroceryApp to make a list of Grocery.,,1
+0,https://github.com/Muntaha-Islam0019/Bazago.git,A demonstration of a website for efficient grocery shopping.,shopping-manager,1
+0,https://github.com/ayushigupta97/Online_Grocery_Store.git,This is a online shopping store for grocery products.,,1
+0,https://github.com/raikm/Things3GroceryPlugin.git,First try to create a smarter grocery List,,1
+0,https://github.com/jueyif/veckansmat.git,Veckansmat collects weekly promotion info from swedish grocery stores.,,1
+0,https://github.com/mpfishe2/store-data-generator.git,This is a grocery store data generator for emulating batch and real-time POS transactions and sending them to either Azure Event Hubs or Apache Kafka (test with Azure HDInsight Kafka),"azure,kafka,eventhub,hdinsight,streaming,real-time,random-data-generation",1
+0,https://github.com/kphonasa/Informatics-Project.git,"An interactive web application that enables a grocery store to provide a grocery delivery service. Includes a user interface for shoppers, and another for the grocerystore. The system supports multiple grocery stores setting up their own web applications.",,1
+0,https://github.com/BariHari/Listage.git,"Listage is a grocery list that improves the quality of your grocery shopping by making it easier, faster, and most importantly smarter. It is all you want out of a grocery list and eventually more.",,1
+0,https://github.com/BlondelSeumo/Multi-Vendor-Grocery-using-Flutter.git,This is a ready made and complete solution for any kind of grocery shop which will support both android and iOS with same PHP Backend. This app will support both multi vendor and single shop.,,1
+0,https://github.com/gpsuhas20/E-COMMERCE-MERN-STACK.git,"An e commerce grocery  website develpoed for a local grocery store. The technologies used are html,css , javascript,React js node js ,mongodb",,1
+0,https://github.com/brandonhilkert/grocery-old.git,Grocery is a Sinatra-based grocery list that uses Redis as a backed and allows you to collaborate with another person by sharing the List URL.,,1
+0,https://github.com/nbp98/GroceryRecognition.git,"Detect Grocery Items via video, image, webcam and update the grocery list by removing objects or reducing quantity of the objects detected.",,1
+0,https://github.com/BalajSaleem/GrocceryStoreCrawler.git,"Grocery Store Crawler, helps scan items and their prices from any URL provided, list of supported grocery stores will be continuously updated. Uses Selenium and Python",,1
+0,https://github.com/favorita-ee379k/favorita-ee379k.github.io.git,Blog post of results from Corporación Favorita Grocery Sales Forecasting Kaggle competition (https://www.kaggle.com/c/favorita-grocery-sales-forecasting).,,1
+0,https://github.com/Mike-Stupich/GroceryList.git,A grocery list app that will allow users to easily create a grocery list stored in a database to allow easy access by a whole household,,1
+0,https://github.com/bploeckelman/trainjam-2016.git,In the Bag - a tetris-style grocery bagging game made for Train Jam 2016,,1
+0,https://github.com/andrzejsemeniuk/AppGrocerio.git,a simple iOS Swift app that allows you to manage a grocery list,,1
+0,https://github.com/michelleryan/Recipe2Go.git,Application where user can search recipes and add ingredients to a grocery list,,1
+0,https://github.com/ersaumya/GroceryMart.git,"Its a online grocery mart app build in Asp.net mvc5,web api and angular 2",,1
+0,https://github.com/CarlosEspinoTimon/shopping_list.git,A web app that helps users to safe money in their grocery list,,1
+0,https://github.com/cgutwin/apteryx.git,"🥝🛒 Monorepo for apteryx, a grocery store inventory management tool, build for tracking expiring products.","react,typescript,node,express,graphql,mongodb",1
+0,https://github.com/kcrimi/GroceryList.git,Grocery lists stored on Firebase for iOS/Android using React Native,,1
+0,https://github.com/nloker1/Store-Simulation.git,"C++ project that, very simply, simulates a grocery stores checkout queue",,1
+0,https://github.com/xycloops123/Shaley-Poshan-Ahar-School-Grocery-management-system-.git,C#.net project using SQL server db freelance project for Mid day meal Grocery management,,1
+0,https://github.com/skishchampi/AapniSociety.git,"Android application for crowdsourcing and geotagging community resources like maids, cooks, grocery stores, laundry places etc",,1
+0,https://github.com/jchris/refridge.git,Grocery list CouchApp that automatically reminds you about items when you need them again,,1
+0,https://github.com/cjcrain8/Instacart_Walmart_Scrapes.git,Files for scraping Instacart and Walmart grocery delivery services for Soda Tax project: weekly,,1
+0,https://github.com/mohitmun/pedler.git,Discover nearby grocery and household essentials stores through FB messenger bot,,1
+0,https://github.com/srikrishna98/GroceryBillingSys_Pyth_Task.git,Billing system for a grocery shop using python.(ceglug task#1),,1
+0,https://github.com/KaroRonty/GroceryStoreAnalysis.git,"Descriptive, RFM and price elasticity analysis done on Ta Feng grocery store data",,1
+0,https://github.com/nuckarronjones/grocery-getter.git,A simple program that utilizes item lister functions. Represents a grocery checkout :),,1
+0,https://github.com/VanVDC/pulsar-store.git,An React online grocery store allowing user to order low carbs and keto products.,"stripe-payments,reactjs,redux,firebase",1
+0,https://github.com/WayneMacMavis/Shopping-List.git,"A shopping list, Designed to help you keep track of your monthly grocery shopping.",,1
+0,https://github.com/yagordeev/spisok.git,Grocery List App (MERN) + Passport.js / Webpack 4 / Axios / PWA / Swipe to delete,,1
+0,https://github.com/minji-mia/handgesture.git,Application for detecting hand gestures from webcam to order grocery items while social distancing,"keras,handgesture-recognition,python,opencv",1
+0,https://github.com/rigel-star/maghao.git,android grocery shopping app with a lots of bugs for you to fix.,,1
+0,https://github.com/lakithasahan/Market_basket_analysis.git,This repository contain the implementation of market basket analysis on retail grocery shop.,,1
+0,https://github.com/mahirkhan0828/Grocery-Shopping-Cart.git,Grocery web application built using a React frontend and a Node/Express backend.,,1
+0,https://github.com/MountainWhale/Grocery-List-Generator.git,A simple project written in python to generate md grocery lists,,1
+0,https://github.com/followthatfish/ruokarobo.git,A Robot Framework project for automating your orders from Finnish online grocery store K-ruoka.fi.,,1
+0,https://github.com/mskayetee/Covenant-Care-Services.git,"Home Care, Doc Appointment, Grocery Shopping company keeper, the liitle things",,1
+0,https://github.com/kjella/Android-Shopping-Cart.git,A shopping cart that allows you to compare prices and locate the closest grocery,,1
+0,https://github.com/SCCapstone/Ingredi-Scan.git,"{""The singular solution for all of grocery shopping's biggest problems""}",,1
+0,https://github.com/DanielJBailey/Grocery-List-Todo.git,"A grocery list to do list created in React, built for DPL.",,1
+0,https://github.com/ebenezergraham/smartshopper-1.git,"A self-checkout app for supermarkets, grocery stores and other convenience stores",,1
+0,https://github.com/hueindahaus/iMat.git,An application that handles grocery shopping and home delivery for seniors primarily.,,1
+0,https://github.com/sansae/realShopping.git,A grocery list web app that can be shared in real-time by multiple people.,,1
+0,https://github.com/adunahee/solo-project-kitcheNexus.git,"Kitchen management app for tracking recipes, up-keeping pantry and creating grocery lists.",,1
+0,https://github.com/saulmaldonado/grocery-store.git,Grocery e-commerce store made with Angular 9 and Firebase (Firestore) backend.,,1
+0,https://github.com/MaidaFarooqi9/Grocery-App.git,"A grocery app in flutter with side drawer , carousel ,grid view ,phone ,email and other features.","flutter,carousel,side-drawer,sending-email,phone,grid-view,list-view,splash-screen,logo",1
+0,https://github.com/kishorkuttan/grocery-nutrition-extraction-using-TensorFlow-and-atrify-api.git,Take a picture of your grocery item and get all the information you need,,1
+0,https://github.com/ashwath007/Packzo-Backend-.git,"Packzo is a food, grocery and items delivery app. Backend work for that",,1
+0,https://github.com/Bengiluem/domycourses-api.git,"{""A small web django-react application's API to automate your grocery shopping""}",,1
+0,https://github.com/lukedoukakis/grocceries.git,"Source code for Grocceries, an online grocery delivery service created using Django, PostgreSQL and Bootstrap.",,1
+0,https://github.com/hoanger/Unit-Price-App.git,Web app to record grocery prices and compare to past purchases,,1
+0,https://github.com/peffis/lists.git,"A simple tool for managing online lists (such as todo lists, grocery store lists etc)",,1
+0,https://github.com/evanhalley/aisle6.git,Grocery data aggregator app for a code lab at a Google IO Extended event.,,1
+0,https://github.com/functionalList/grocr-server.git,An app to look keep track of grocery data. Playing with some mySQL.,,1
+0,https://github.com/lchrajkumar/daily-task-board.git,"A personalized board for your daily grocery list, todo list, and more.",,1
+0,https://github.com/priyankacheruku/grms.git,A grocery management system to manage database and generate bills using DJANGO framework ,"django,python,grocery-managementsystem,bill-generator",1
+0,https://github.com/TwistedSis/GroceryList.git,Console program to make a printable grocery list.  Check the blog post on this project.,,1
+0,https://github.com/ugobriasco/groceryapp.git,🥑 A React-Native application for multilingual grocery list which uses the Gastronomycon API,,1
+0,https://github.com/monsieurkayode/grocerrific.git,A grocery shopping full stack application built with React and Express,,1
+0,https://github.com/gerrysaporito/groceryItemIdentifier-DEPRECATED-.git,Machine learning algorithm that uses a camera to recognize grocery items.,,1
+0,https://github.com/sathyaramv/Web-application-E-Commerce-store.git,"Designed dynamic grocery stoere website based on HTML, CSS, Javascript , Node.js , MongoDB on MVC framework.",,1
+0,https://github.com/Dchane06/Grocery-App.git,Grocery App created using React. Made for myself to practice react.,,1
+0,https://github.com/njerrywerry/merchant.git,A Ruby on Rails based e-commerce site for selling grocery products,,1
+0,https://github.com/ralt/groceries.git,"{""Because I'm lazy and I want my grocery lists easy.""}",,1
+0,https://github.com/matheuspb/grocery-store.git,"State of the art grocery store simulator, made for our data structures course.",,1
+0,https://github.com/sdmhans/Kaggle-Grocery-Sales-Forecasting-rank-33th-.git,A silver solution for https://www.kaggle.com/c/favorita-grocery-sales-forecasting,,1
+0,https://github.com/dnelw/InstaKart.git,A low cost solution to inefficient grocery shopping. A winner of MakeHarvard 2019!,,1
+0,https://github.com/eshaan13/Restaurant-System.git,"Backend system for a restaurant (Booking, Updation of grocery and Sales)",,1
+0,https://github.com/veenaa014/Grocery-Price-Comparator.git,Frontend app for comparing prices of grocery items across multiple stores built using Javascript / ReactJS,,1
+0,https://github.com/gibbloggen/EssentialGrocer.git,A Universal Windows App to create and distribute grocery shopping lists.,,1
+0,https://github.com/yasith/DigitalFlyers.git,Android App to look at grocery flyers. Developed for the 2014 FaceBook Hackathon at Waterloo.,,1
+0,https://github.com/Mitko-Kerezov/nativescript-sample-groceries.git,A NativeScript-built iOS and Android app for managing grocery lists,,1
+0,https://github.com/dmaulikr/Shared-Family-Grocery-List.git,"A grocery list app that can be easily shared, it uses Firebase as the backend. ",,1
+0,https://github.com/3vangelos/GroceryShopping.git,A grocery shopping sample app written with XCode 9 and SWIFT 4.,,1
+0,https://github.com/surajrshukla/Grocery-List.git,This is an android application to add the grocery and maintain the list,,1
+0,https://github.com/oadubor/ShopBot.git,"Repository for Electromechanical Systems Design Capstone Project (Team 2 - ""The Grocery Guys"")   ",,1
+0,https://github.com/adia-stansbury/EatingWell.git,Java application that will create a grocery list and nutritional report from meal plans,,1
+0,https://github.com/mkukar/GroceryGrabber.git,Notifies you when a grocery delivery slot is open on Amazon Prime Now,,1
+0,https://github.com/DevanshUpadhyay26/GroceryStore.github.io.git,"A simple website for Grocery Store with html,css and javascript ",,1
+0,https://github.com/wizmanjohn/Grocery-App-project.git,For making your fave list of grocery items and share them with friends and family,,1
+0,https://github.com/shobel/smartshopper.git,iOS app for creating and organizing grocery shopping lists using aisle information,,1
+0,https://github.com/Monyancha/Talbatk.git,A mobile app for food & grocery delivery based in Saudi Arabia,,1
+0,https://github.com/julian-sirkin/GroceryBackend.git,A grocery app that allows the user to add and remove recipes. ,,1
+0,https://github.com/teamtofu/openkitchen-server.git,"Serving up efficient recipe collection, grocery list creation, and meal planning","food,kitchen,grocery,groceries,meals,meal-planner,grocery-list",1
+0,https://github.com/thismarcoantonio/native-express.git,React native app to store your grocery list and share with anyone :D,,1
+0,https://github.com/Stephen-Kamau/AProgram_For-_Grocery_Records_in_OOP.git,this is a program that gets various details of a grocery and display them in...,,1
+0,https://github.com/Akash-162000/CipherSchools-java-tasks.git,"This repo contains codes of stars , alphabets pyramid and grocery task in java",,1
+0,https://github.com/jgallred/grocery_helper.git,A small app to maintain info about meals and generate a grocery list,,1
+0,https://github.com/dashakash86/how-consumers-buy.git,data wrangling and modeling in R for business insights for a leading retail grocery chain,,1
+0,https://github.com/Ni236630/GroceryList.git,A simple solution to a hours of time spend creating a grocery list for the week. ,,1
+0,https://github.com/kritika27/grocerylist-react-typescript.git,It is a beginner friendly Grocery list App built using ReactJS and TypeScript.,"react,typescript,html,css",1
+0,https://github.com/subodhtirkey/Bill-Pro.git,BIll-Pro is an E-billing System for the grocery store built as a college project.,,1
+0,https://github.com/Jesse-Breuer/Grocery-Application.git,"A basic app for users to create grocery lists, in which items are sorted by aisle",,1
+0,https://github.com/brycehill/ynab-starbucks.git,"Using the YNAB API, how many months worth of grocery budget have I spent on Starbucks?","ynab,ynab-api,starbucks,budget,coffee",1
+0,https://github.com/peterbest52/2SFCA-Comparison.git,Accessibility analysis with grocery store data by different 2-Step Floating Catchment Area (2SFCA) models.,,1
+0,https://github.com/avinashkr1612/Smart-Checkout-system.git,This Project uses Atificial Intellegence Image Detection technique to detect and categorise grocery products.,,1
+0,https://github.com/OrderFromChaos/instacartautomation.git,"Automatically generates grocery lists, plus a bunch of other cool stuff :)",,1
+0,https://github.com/msjackiebrown/Grocery_Manager.git,A Grocery Management System designed to save the user time and money!,,1
+0,https://github.com/madelson/Recipe-Book.git,A simple desktop application for storing recipes and making grocery lists,,1
+0,https://github.com/aetherealize/Munchies.git,Recipe/Diet/Grocery/Meal management - a personal project to learn Ruby on Rails,,1
+0,https://github.com/aravindanbalan/SplitIt.git,Split your restaurant/grocery bill and pay your friends using Paypal.Me right away!!!!!,,1
+0,https://github.com/basemosman2/Grocery-ecommerce-website.git,"Full grocery e-commerce website developing frontend and backend using HTML5, CSS3, JAVASCRIPT, PHP, SQL DATABASE.",,1
+0,https://github.com/natc79/CorporacionFavorita.git,Forecasting Corporacion Favorita product sales.  Exploratory forecasting of sales for ~4000 products across 54 grocery stores. ,,1
+0,https://github.com/daschne8/going-refactor.git,"JS refactor of the previous If-youre-going project, a linked grocery list",,1
+0,https://github.com/VishnuKarikkal/shopCart.git,to generate a list of grocery items from a JSON file using AJAX,,1
+0,https://github.com/wae10/shopping-cart.git,Simple script that generates a receipt according to selections from a given dictionary of grocery items.,,1
+0,https://github.com/smohanty0714/DeliverySlotCheckBot.git,This is bot helps to get the online grocery store delivery slot availability,,1
+0,https://github.com/Panashe-Muriro/Diskounts.git,Diskounts is a mobile application written in Dart to compare the grocery deals of local stores,,1
+0,https://github.com/MayerBryce/grocerySimulator.git,Simulates check out times for a grocery store time given a certain amount of customers expected ,,1
+0,https://github.com/jmgawecki/OnlineGroceryStore.git,Online Grocery Store built with UIKit framework. Development at the last stage.,,1
+0,https://github.com/yashfalke77/Online-Grocery-Store.git,"Made an online grocery store with the help of HTML, CSS, JAVASCRIPT and Django. ",,1
+0,https://github.com/kmfischer3/GroceryListProgram.git,Helps plan dinners ahead of time to make grocery shopping easier,,1
+0,https://github.com/evangx/POS-store.git,A (Point Of Sale) system written in java for grocery stores.,,1
+0,https://github.com/davidom2513/GroceryAutoApp.git,Android App that reads grocery list off MySQL database on a Raspberry Pi,,1
+0,https://github.com/cookersapp/cookers-app.git,Simplest tool to organize your day to day recipes & grocery list,,1
+0,https://github.com/MostlyFocusedMike/grocery-tracker.git,Keep track of your shopping list and total grocery cart price with this web app.,,1
+0,https://github.com/MichaelHighsmith/ShoppingListPlusPlus.git,Grocery Shopping app that allows users to modify group shopping lists (Firebase),,1
+0,https://github.com/yoelcabo/grocery_coupons.git,Simple python program to keep track of a specific promotion codes from a grocery store,,1
+0,https://github.com/assadiandre/Affinity.git,An app that attempted to bridge the gap in-between grocery stores and food banks ,,1
+0,https://github.com/gtsli/grocery_e-receipt.git,Junior design project: scan electronic grocery receipts and identify the contents,,1
+0,https://github.com/UPenn-CIT599/final-project-nutrition-and-grocery-shopping-helper.git,final-project-nutrition-and-grocery-shopping-helper created by GitHub Classroom,,1
+0,https://github.com/zajdasoft/grocery.git,Grocery JS / React library bringing multiple stores and messaging system for modular webapps.,,1
+0,https://github.com/yonni-github/online-store.git,Online Grocery store java web app built using JSP  and servlets.,,1
+0,https://github.com/F-Y-E-F/Grocery-Promotions-App-in-Flutter-.git,"App which user can add promotions for grocery shops, also can delete them later.",,1
+0,https://github.com/brewski82/mhl.git,"{""My Honey's List is a web application for creating grocery shopping lists.""}",,1
+0,https://github.com/invert14/FoodList.git,Client app for storing/synchronizing grocery lists (server app is FoodList_Server),,1
+0,https://github.com/asaniyaj/foodsnap.git,An android and web app for accessing quick nutritional information by scanning grocery barcode.,,1
+0,https://github.com/jklein/just-pikd.git,"{""Legacy repo for a grocery startup that didn't make it""}",,1
+0,https://github.com/Jess2110/GS1010.git,"Grocery Store website built using HTML,CSS and JAVAscript with a PHP backend.",,1
+0,https://github.com/Adamm285/FBHackathon2020MesBot.git,F8 Hackathon Submission- deli sub ordering chat-bot designed for a mock grocery store.,"publix-subs,messenger",1
+0,https://github.com/prmeherkaur/Grocery-Store-System.git,An effective solution to Manage the functionalities and Inventory of a Grocery Store,,1
+0,https://github.com/Jess2110/GS1010.git,"Grocery Store website built using HTML,CSS and JAVAscript with a PHP backend.",,1
+0,https://github.com/Komal97/GroceryMart.git,"Online Grocery Shopping store developed using HTML, CSS, Bootstrap and JavaScript.","html,css,bootstrap,javascript,online-shopping-website",1
+0,https://github.com/asaniyaj/foodsnap.git,An android and web app for accessing quick nutritional information by scanning grocery barcode.,,1
+0,https://github.com/invert14/FoodList.git,Client app for storing/synchronizing grocery lists (server app is FoodList_Server),,1
+0,https://github.com/jklein/just-pikd.git,"{""Legacy repo for a grocery startup that didn't make it""}",,1
+0,https://github.com/vyassaurabh411/Kaggle-Corp-Favorita-Sales-Forecasting.git,This repository contains code that I created for Corporación Favorita Grocery Sales Forecasting Kaggle competition. ,,1
+0,https://github.com/paulgreg/scratchpad.git,A simple PWA to type some text like grocery list or things to remember,"html,pwa,javascript",1
+0,https://github.com/netmagik/Simple-Grocery-List-In-React.git,"Grocery List in React with Local Storage. Option to add products, or load sample products",,1
+0,https://github.com/tylersloan/sugar-app.git,This is a list of sugars to beware of at the grocery store.,,1
+0,https://github.com/enricodeleo/sample-Groceries-NS-.git,🍏🍍🍓 My attempt on NativeScript. Based on the sample app for managing grocery lists,"nativescript,typescript,mobile-app,angular2",1
+0,https://github.com/schoinh/munchprep-web.git,"Meal planning and grocery list app using React, Redux, and Firebase",,1
+0,https://github.com/charu-singh-rajput/grocery_bill.git, A program to demonstrate how to generate the amount from grocery bill.,,1
+0,https://github.com/piotrgorajski/shopping-analyzer.git,Playing with Python to OCR grocery shopping receipts and produce interesting statistics.,,1
+0,https://github.com/habahut/GrocerySpy.git,A GUI application written in python to help store recipes and create grocery lists,,1
+0,https://github.com/irfanpirbhai/kale.git,A grocery list app that retrieves the cheapest prices nearby for each item.,,1
+0,https://github.com/gurpreetss/cloudbyte.git,Ta-Feng grocery dataset model to forecast the sales of any item in the inventory,,1
+0,https://github.com/gaurang444/AngularJS-GroceryList.git,Implementation of angular js and bootstrap to build a simple grocery list.,,1
+0,https://github.com/tammylarmstrong/MealPlanner.git,"R Shiny application to randomly select meals from database of favorites, and build grocery list.",,1
+0,https://github.com/junj0619/Costco_Refresher.git,This is a Google Extension to search available delivery options on Costco grocery store,,1
+0,https://github.com/fanyangjeff/Costco-lanes-simulator.git,uses multithreading to simulate how checkout lanes work in a grocery store,,1
+0,https://github.com/AjitTK/GroceryCalculator.git,The simple calculator to calculate how many days your grocery will last ?,,1
+0,https://github.com/verope/basket.git,web dashboard to check data scraped from Czech online grocery shops + inflation calculation and analysis,,1
+0,https://github.com/xlzhsteven/MealPlanner.git,SwiftUI app to help user consolidate ingredients and recipes and prepare grocery shopping list,,1
+0,https://github.com/sarongTech/OnlineShopPJL.git,This website is one of my efforts in developing the grocery business.,,1
+0,https://github.com/gilday/shoppers-autoclipper.git,grocery coupon clipper for Shoppers food stores. In no way affiliated with Shoppers,,1
+0,https://github.com/omkargb/KiranaList-home.git,KiranaList means Grocery list.. This simple yet useful single-page web-app is designed for you for helping in the creation of household grocery list. You can use it free of cost and does not include any login process.,"grossery,list,products,kirana,kiranalist,items,shopping",1
+0,https://github.com/johnsenaakoto/grocery-3.git,grocery-3 is a c project. This project sets up C code to handle basic tasks at a simple grocery store. This project uses a simplistic hash table to manage inventory in the store,,1
+0,https://github.com/BhaktiJivani/E-grocery.git,Grocery-E Shopping for bay area customers. It used to buy grocery as well as it gives customers the ability to shop directly form supermarkets and also it covered local food chains.,,1

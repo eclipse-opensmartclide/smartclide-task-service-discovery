@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/24pullrequests/24pullrequests.git,:christmas_tree: Giving back to open source for the holidays,"pull-requests,ruby,holidays,opensource",1301
+0,https://github.com/azuyalabs/yasumi.git,The easy PHP Library for calculating holidays,"php,holiday,countries,calculate-holidays,calculations,api,library,holidays,provider-holidays,yasumi",801
+0,https://github.com/holidays/holidays.git,A collection of Ruby methods to deal with statutory and other holidays.  You deserve a holiday!,,625
+0,https://github.com/nager/Nager.Date.git,:earth_americas: Worldwide public holiday,"publicholidays,public-holidays,holiday,calculate-holidays,holiday-api,holidays,csharp,bank-holidays,c-sharp,calendar,calendar-api,holiday-calculation,docker,dotnet,holidayapi,docker-container,container-image",588
+0,https://github.com/peopledoc/workalendar.git,Worldwide holidays and workdays computational toolkit.,"python,calendar,localization,calendars,peopledoc-opensource",574
+0,https://github.com/dr-prodigy/python-holidays.git,Generate and work with holidays in Python,"python,holidays,library,pypi",564
+0,https://github.com/commenthol/date-holidays.git,worldwide holidays,"holidays,holiday-api,holidays-ical,countries,region,javascript,world",535
+0,https://github.com/joaomatossilva/DateTimeExtensions.git,"This project is a merge of several common DateTime operations on the form of  extensions to System.DateTime, including natural date difference text (precise and human rounded), holidays and working days calculations on several culture locales.",,392
+0,https://github.com/bunkat/schedule.git,"{""Automatically schedules tasks, work items, meetings, reservations, etc. Schedule takes into account working hours, holidays/days off, people's work schedule/vacation time, as well as task dependencies.""}",,386
+0,https://github.com/955holiday/955.holiday.git,"Similar to 996.ICU, but 955.HOLIDAY.",,307
+0,https://github.com/holiday-jp/holiday_jp-ruby.git,Japanese holiday.,,253
+0,https://github.com/sethblack/python-gift-exchange.git,pyge: Holiday Gift Exchange Picker,"python,python3,machine-learning,unsupervised-learning,secret-santa,gift-exchange,holidays,random,euclidean-distances,weighted-random",253
+0,https://github.com/jolicode/secret-santa.git,":santa: The code behind Secret Santa, the holiday bot for Slack / Discord / Zoom","symfony,secret-santa,happyness,symfony-flex,discord-bot,slack-bot,discord,slack,slack-blockkit,zoom-api",172
+0,https://github.com/rickar/cal.git,Go (golang) calendar library for dealing with holidays and work days,"go,holidays,calendar,golang,business-calendar,working-hours,calendar-library",166
+0,https://github.com/liaoziyang/HolidayDateTime.git,A php class to check Japanese holiday and weekend. 土日祝日を判定するphpクラス。,"datetime,japanese-holiday",153
+0,https://github.com/svendiedrichsen/jollyday.git,Jollyday - A holiday API,"java,holiday-api,holiday-calculation",149
+0,https://github.com/officelifehq/officelife.git,OfficeLife manages everything employees do in a company. From projects to holidays to 1 on 1s to ... 🚀 ,"laravel,hr,php,crm,office,management",141
+0,https://github.com/Prince25/StockAlertBot.git,"Faced with the scenario of scalpers using bots to hog up all the inventory of popular holiday toys and sell them at ridiculously high markup prices, I decided to put up a fight so we can get our hands on things we need to survive the #Coronavirus quarantine(s).","stock,ps5,newegg,amazon,target,antonline,bestbuy,costco,microcenter,inventory,checker,monitor,ryzen,rtx3080,argos,currys,tesco,proxies,sms,gamestop",125
+0,https://github.com/rainx/cn_stock_holidays.git,Holidays of Shanghai and Shenzhen stock exchanges,,115
+0,https://github.com/masa16/holiday_japan.git,Calculate National Holidays of Japan,"ruby,holiday-japan,holiday",107
+0,https://github.com/martinjw/Holiday.git,Calculate Public Holidays,,100
+0,https://github.com/sujitpal/holiday-similarity.git,Finding similar images in the Holidays dataset,,97
+0,https://github.com/thinkingmachines/christmAIs.git,Text to abstract art generation for the holidays!,"machine-learning,abstract-art,perception,fasttext-embeddings,xmas",85
+0,https://github.com/kodie/moment-holiday.git,A Moment.js plugin for handling holidays. NO LONGER MAINTAINED (DEPRECATED),"moment,momentjs,plugin,holiday,holidays,holiday-calculation",81
+0,https://github.com/holidays/definitions.git,Holiday definition files. You deserve a holiday!,,69
+0,https://github.com/AustinHasten/PlexHolidays.git,Automatically find holiday episodes on a Plex server and add them to a playlist.,,69
+0,https://github.com/osamutake/japanese-holidays-js.git,Provides utilities to manipulate japanese holidays.,,68
+0,https://github.com/lambdaclass/holiday_pinger.git,Erlang + ClojureScript app to send holiday reminders,"freelance,holidays,ping,erlang,clojurescript,postgresql,slack,mail,reminders",66
+0,https://github.com/sowbug/G35Arduino.git,An Arduino library for GE Color Effects G-35 holiday lights.,,62
+0,https://github.com/holiday-jp/holiday_jp.git,Japanese holiday datasets,"dataset,japanese-holiday-datasets",58
+0,https://github.com/xwl/cal-china-x.git,"chinese localization, prioritized holiday highlight, lunar, horoscope, zodiac, etc.",,54
+0,https://github.com/emasaka/jpholidayp.git,Is it holiday today in Japan?,,49
+0,https://github.com/berti92/mega_calendar.git,Plugin for redmine: Brings a better calendar and more opportunities to display issues and holidays,"redmine,redmine-plugin,calendar,holiday,ruby,rails,ruby-on-rails,mysql",48
+0,https://github.com/checkdomain/Holiday.git,Check whether a date is a holiday,"holiday,checkdomain,php",48
+0,https://github.com/holiday-jp/holiday_jp-js.git,Japanege holiday.,,44
+0,https://github.com/umulmrum/holiday.git,"{""A PHP library that computes holidays. It's something :-)""}",,44
+0,https://github.com/roidelapluie/prometheus-timezone-holidays.git,"How we do time frames, business hours, holidays in prometheus",,43
+0,https://github.com/t2v/holidays.git,The calculator of  the Japanese holiday in Scala,,43
+0,https://github.com/developerVatsal/MyDynamicCalendarExample.git,"This is an Android Library for developer to use customized calendar with all type of views and features, like Month View, Week View, Day View, Agenda, Add Events, Add Holiday etc. So all of these features contain in one calendar.",,42
+0,https://github.com/sfakir/feiertagejs.git,Feiertage.js is a small npm module to calculate German holidays for each Bundesland,,41
+0,https://github.com/alphagov/calendars.git,Serves /bank-holidays and /when-do-the-clocks-change on GOV.UK,"govuk-publishing-frontend,govuk",39
+0,https://github.com/wlbr/feiertage.git,Gesetzliche Feiertage und mehr in Deutschland und Österreich (Bank holidays/public holidays in Austria and Germany),,38
+0,https://github.com/sbarry50/vue-business-hours.git,"Vue component for selecting business hours. Supports days of the week, holidays and any other special business hours.",,38
+0,https://github.com/raphamorim/calendario.git,:calendar: Check if a day is a workday or holiday,,38
+0,https://github.com/Haoshenqi0123/holiday.git,chinese holiday 获取中国法定节假日API  自动更新,,38
+0,https://github.com/Madalena-15/CSS-Folding-Cards.git,"A small ""holiday deals"" page focusing on folding cards\' design and functionality, only using HTML and CSS.",,38
+0,https://github.com/hjr553199215/SLAM-Clean-Robot-Path-Coverage-in-ROS.git,Summer Holiday in BIT for Clean Robot,,37
+0,https://github.com/Parrot-Developers/node-flower-bridge.git,[Ble/Cloud bridge] Synchronize your Flower Powers with a raspberry. Now you can take holidays safely.,,36
+0,https://github.com/fitnr/convertdate.git,Utils for converting between date formats and calculating holidays,,34
+0,https://github.com/shkarimpour/pholiday.git,a persian calendar holidays library for javascript,"javascript,moment,jalaali,persian,calendar,holiday,rasmi,tatil,events,hijri,iran,nodejs,webpack",33
+0,https://github.com/77web/Japanese.Holiday.git,calculates holidays in Japan,,30
+0,https://github.com/ROHANNAIK/Sales-Prediction.git,"In depth analysis and forecasting of product sales based on the items, stores, transaction and other dependent variables like holidays and oil prices.","sales,prediction,prediction-algorithm,forecasting,machine-learning-algorithms,regression-models,prediction-model",30
+0,https://github.com/diacode/holidays.git,"{""Tool for managing Diacode's team holidays""}",,29
+0,https://github.com/Tofull/image-classifier-service.git,Sorting my messed folder where I put my holidays pictures was not fun. My computer made the trick for me with Deep Learning!,"tensorflow,tensorflow-experiments,tensorflow-tutorials,image-processing,image,recognition,artificial-intelligence,neural-network,convolutional-neural-networks,ai,deep-learning,sort",29
+0,https://github.com/mayflower/libholiday.git,Holiday Calculation Library for PHP,,28
+0,https://github.com/najeira/jpholiday.git,A package for Japanese holidays with Go,,27
+0,https://github.com/ModusCreateOrg/evade-arduboy-game.git,"An Arduboy game, written as a gift for Modus Create clients for the 2016 holiday season.","c,arduboy,arduboy-game,arduino",27
+0,https://github.com/holidayapi/holidayapi-php.git,Official PHP library for Holiday API,,26
+0,https://github.com/DaniSchenk/moment-feiertage.git,MomentJS Plugin: Check if a date is a german holiday (Feiertag),"moment,javascript,npm-package,momentjs,dates,holiday-calculation,npm",26
+0,https://github.com/samelhusseini/pxt-holidays.git,A Holiday Card sample target embedding PXT inside a React web app,"pxt,makecode,sample,react,integrated",26
+0,https://github.com/Assiance/Selenium2-WebDriverSEd.git,For all of you .net developers aggravated that the C# version of the selenium webdriver doesnt have much support or functions. This project contains specialized classes and functions that work with the webdriver to make things sooo much easier... enjoy. Many More functions to come soon. Christmas holidays slowed me down a lil. Should be on track again in about a week.,,26
+0,https://github.com/victoreronmosele/world_holidays.git,World Holidays is a mobile app that displays the various holidays in a year across the countries of the world and reminds you of your favourite holidays.,"flutter,android,holiday,reminder",25
+0,https://github.com/holidayapi/holidayapi-python.git,Official Python library for Holiday API,,25
+0,https://github.com/pagarme/business-calendar.git,Holiday and financial operation calendar database,,24
+0,https://github.com/k1LoW/holiday_jp.git,[DEPRECATED PROJECT] holiday_jp,,23
+0,https://github.com/holidayapi/holidayapi-node.git,Official Node.js library for Holiday API,,23
+0,https://github.com/ipingu/blog-with-play-framework.git,"Blog application using Play! framework, deployed on playapps cloud (http://www.playapps.net). Currently on pause, I am on holiday ;)",,23
+0,https://github.com/particle-iot/xmastree.git,🎄 Happy Holidays from Particle 🎄,"xmastree,particle,electron,core,iot,arduino,c,c-plus-plus,eagle,react,javascript,webpack,service-worker,pwa",22
+0,https://github.com/wolfhong/LunarCalendar.git,"A lunar calendar converter in Python, including 24 solar terms and a number of solar holidays and lunar holidays, mainly from China.","lunar-calendar,festival,chinese-festivals,solar-calendar,lunar-solar-converter,24-solar-terms,lunisolar-calendar",22
+0,https://github.com/18F/us-federal-holidays.git,"A Node.js package for getting US federal holidays for a given year, or determining if a date is a federal holiday.",,22
+0,https://github.com/christopherthompson81/pgsql_holidays.git,Package to calculate holiday dates in PostgreSQL,"holidays,postgresql,hijri,gregorian,julian,orthodox,jalali,chinese",22
+0,https://github.com/ksfltd/redmine_multi_calendar.git,This plugin allows creating holiday calendars and assigning them to the users.,,22
+0,https://github.com/gameboyLV/ChineseHoliday.git,API to Check whether a date is a chinese holiday 中国法定节假日API,,22
+0,https://github.com/gadenbuie/yule-rstudio.git,⛄️🎄🖥 A Holiday Theme for RStudio,,21
+0,https://github.com/jurajmajer/enrico.git,Enrico Service provides holiday dates for several countries.,"php,holidays,holiday-api,holiday-calculation,holiday-dates,publicholidays",21
+0,https://github.com/allangood/holiday_exporter.git,A simple exporter that exports holidays to Prometheus to help with Alerting logic,"prometheus,prometheus-exporter,holidays,alertmanager",21
+0,https://github.com/1RedOne/Invoke-Clippy.git,Celebrate the magic of Clippy with your family this holiday season,,21
+0,https://github.com/DakerHub/cn-holiday.git,a lib for chinese holiday,"holiday,chinese,workday",21
+0,https://github.com/zgsrc/fincal.git,Market holidays and trading hours.,,20
+0,https://github.com/sue445/google_holiday_calendar.git,Get holidays via Google Calendar.,"gem,google-calendar",20
+0,https://github.com/michalmanko/php-library-holiday.git,PHP Holiday Calculation Library,,20
+0,https://github.com/noahvanhoucke/HelpingSantasHelpers.git,"{""Code for the Kaggle 2014 Holiday Competition: Helping Santa's Helpers""}",,20
+0,https://github.com/PitchInteractiveInc/flurry_2016.git,"{""Pitch's 2016 holiday card project""}",,20
+0,https://github.com/OPTIMUM-LINKUP-COMPUTER-INSTITUTE/Latest-Optimum-School-System.git,"This is the latest school management system. Available for all type of schools. will work on Phone, Laptop, Tabs, monitors - any screen size. It is available with 100% source code. The features are listed below:  INSTALLATION   Upload the downloaded zip file to your server in the public_html directory. Extract the zip file. Create a new database from your server mysql. Create user to the database and link the database to the user. Open the file database.php from the directory yourfolder/application/config/database.php. Fill up this information with your database hostname, database username, database password, database name respectively which you have created in the previous step. Now from server phpmyadmin go to your database. Select import and choose the file install.sql located in yourfolder/database/blank_db.sql (demo_db.sql for demo database) And you are ready to go now to browse the application  Default admin credentials Email: admin@admin.com Password: admin  ADMIN PANEL Managing User accounts (teacher, student, parent) Managing classes, subjects Managing exam, grades Managing exam marks Managing Loan Information Managing  Computer Based Test (CBT) Sending exam marks via sms Managing students attendance Managing accounting, income and expenses Managing school events Managing Teachers Managing Libratrian Managing Accountant Manage Circular Manage Task Managing Parents Managing Alumni Managing Academic Sysllabus Managing Helpful Links Managing Help Desk Managing Front-End Information Managing School Session Attendance  Reports Managing Staff ID Cards Records management. Notification board management. Management relationships between different type of users. Online Payment acceptance of FEE. Section Management. Reports generator. SMS Alerts. Managing Hostel Manager Managing library, dormitory, transport Messaging between other users Managing system settings (general, sms, language) Managing Media Subject management. Class management. Student payments management. Student behaviour management. Payments Overview. Subjects and assignments management. Fees management. Student assignment results management. Student search. Overdue students list. Student management. Student-Teacher interaction. And many more …  TEACHERS Manage Students homework. Assign homework. Share homework on social networking sites (facebook). Manage classes. Manage Student Report. Generate Remarks on Student Reports. Generate Student Attendence. Subject management. Loan Application Class management. Student behaviour management. Subjects and assignments management. Student assignment results management. Student search. Student management. Student-Teacher interaction. Managing Helpful Links Managing Media Assignments Attendance  Provide Daily Quotes Holidays Studennts Study Materials Message  Noticeboard Transportations And many more…   STUDENT PANEL Get class Routine  Attempt Online Exam View Online Exam Result Get Exam Marks Message  View Noticeboard  Transportatio Receive SMS Get attendance status Get study materials / files from teacher Get payment invoice,  Pay Online Communicate with teacher Managing Media accounts View Event Schedule, Notice and Holidays Get Helpful Links View Daily Quotes Contact Help Desks And many more ….  PARENT PANEL View Children Marks View Children Class Routine Make payment View Payment Invoice Message Admin Message Teachers View Received Messkages Checkin kids progress. Parent-Teacher interaction. Get alerts from School Administration or Teachers. View events Noticeborad  Todays Thought News  Helpful Links Help Desk Receive SMS And many more …  LIBRARIAN Add books Update books Record Lost Books Generate Reports on Books Subject Management. Loan Application Student Search. Student Management. Student-Librarian Interaction. View Helpful Links View Media Holidays Studennts Study Materials Message  Transportations Noticeboard View Notification  And many more ….  ACCOUNTANTS Create Student Payments Students Payment Expenses Expenses Category Vew all Accountants Loan Application Todays Thought News Holidays Message k Noticeboard And many more ….   HOSTEL MANAGER ViewAll Hostel Managers Manage Hostels Loan Application Todays Thought News Holidays Message  Noticeboard And many more ….        …………………………………………………………………………………………………       ADMIN PANEL DASHBORD       ………………………………………………………………………………………………… Total number of students, teachers, librarian, accountants, hostel manager, alumni, parents and attendance of students for that day at a glance, Dashboard also holds a calendar for showing events, charts for various percentages of teachers, parents, students attendance, grades, students performances, etc.  MANAGING SESSION From navigation go to manage session Add / edit / delete  MANAGING ACADEMIC SYLLABUS From navigation go to manage academic syllabus Add / edit / delete  MANAGING MEDIA From navigation go to manage media Add / edit / delete  MANAGING STUDENTS Admit Students From navigation, go to students > admit students Fill up the necessary information Save student  Admit Bulk Students From navigation, go to student > admit bulk student Download the blank Excel file Fill up the information Select class Upload the filled up Excel file Save  Student Information  From navigation go to student > student information  Here you can see the students class wise If a class has sections then you can also browse the students as per class sections  Student mark sheets From navigation go to student > student mark sheet Here you can see all the students marks class wise If  the class has sections then you can also see them along with class  MANAGING TEACHERS From navigation go to teacher  Here you can see the list of teachers of your school in a tabular form To add a new teacher, click the top right button named add new teacher and fill up the information and save For editing or deleting a teacher information click the action button assigned to each entry of the table. That will bring two options for editing and deleting. Click on the required action editing and deleting    MANAGING ACCOUNTANTS From navigation go to accountant  Here you can see the list of accountants of your school in a tabular form To add a new accountant, click the top right button named add new accountant and fill up the information and save For editing or deleting a teacher information click the action button assigned to each entry of the table. That will bring two options for editing and deleting. Click on the required action editing and deleting   MANAGING LIBRARIANS From navigation go to librarian  Here you can see the list of librarians of your school in a tabular form To add a new librarian, click the top right button named add new librarian and fill up the information and save For editing or deleting a teacher information click the action button assigned to each entry of the table. That will bring two options for editing and deleting. Click on the required action editing and deleting   MANAGING HOSTEL MANAGERS From navigation go to hostel manager  Here you can see the list of hostel managers of your school in a tabular form To add a new hostel manager, click the top right button named add new hostel manager and fill up the information and save For editing or deleting a teacher information click the action button assigned to each entry of the table. That will bring two options for editing and deleting. Click on the required action editing and deleting    MANAGING ALUMNI From navigation go to alumni  Here you can see the list of alumni of your school in a tabular form To add a new alumni, click the top right button named add new alumni and fill up the information and save For editing or deleting a teacher information click the action button assigned to each entry of the table. That will bring two options for editing and deleting. Click on the required action editing and deleting   MANAGING PARENTS From navigation go to parents Here you can see the list of parents of the students of your school in a tabular form To add a new parent, click the top right button named add new parent and fill up the information and save For editing or deleting a parent information click the action button assigned to each entry of the table. That will bring two options for editing and deleting. Click on the required action for editing and deleting   MANAGING CLASSES From navigation go to > manage sections Add new class section for a class and assign  teacher for each of them View the class sections in a tabular form class wise Edit and delete class section information  MANAGING CLASS SECTION From navigation go to class > manage sections Add new class section for a class and assign a teacher for each of them View the class sections in a tabular for class wise Edit and deklete class section information  MANAGING SUBJECTS From navigation go to subject If you have already added classes then under this you will see a list of the classes added. If you have not created classes, please create class first Here you can see the subjects class wise Add or edit or delete subjects  MANAGING CLASS ROUTINE From navigation go to class routine View all the class routines in accordion  Add class routine Click on the subject name on routine to edit and delete  MANAGING DIALY STUDENT’S ATTENDENCE From navigation go to daily attendance  Select the date and class and click manage attendance That will bring up the students name and attendance information in a tabular form To update the attendance status or for taking the attendance for that particular date of that particular class which you have selected earlier, click the button named update attendance Put the status for all at once and click save changes    MANAGING EXAMS Exam list From navigation, go to exam > exam list Add an exam for all Edit and delete exam  Exam grade From navigation go to exam > exam grades Add exam grades as per the requirements of your institution Edit or delete exam grades  Manage exam marks From navigation go to > manage marks Select exam, class and subject and click manage marks for changing or updating marks That will bring up the form for updating the students marks for that particular subject Enter the marks and click update  Sending exam marks by SMS From navigation go to exam > send mark by SMS Select exakm and class and receive (students/parent) Click the button named send mark via SMS That will send SMS with the marks for that exam you have selected if a SMS service is already activated  MANAGING PAYMENTS From navigation go to payment Add invoice and take manual payment multiple time under the same invoice If a payment is due, then an option will be there for taking the payment in the action button of the table that contains the list of all the invoices with the basic information. Edit or delete invoice  LOAN MANAGEMENT  From navigation go to loan application See all the applied loans Click on apply loan Fill forms to apply Wait for loan approval  COMPUTER BASED TEST (CBT) From navigation, go to Manage CBT Click on Add Exam Set Class, Exam Time, Exam Duration, Subject, Question Count and Session  Click on continue to Add Questions Click on List Exams to View Exams Click on View Result to View Exams Scores   ACCOUNTING Incomes From navigation, go to accounting > incomes Here you can see all the incomes for your school that means students fee in a tabular form with their payment time and amount  EXPENSES From navigation, go to accounting  > expenses Add expenses for the school Edit or delete them  GENERATING  STAFF IDCARD Teacher, librarian, accounant, hostel manager From navigation, go to staff > ID CARD Here you can you will see a button asking you to click generate ID CARD  EXPENSE CATEGORY From navigation, go to accounting  > expense category Add expense category Edit or delete them  MANAGING BOOKS From navigation go to library Add books  Edit or delete them  MANAGING TRANSPORT From navigation go to transport Add transport information  Edit or delete them  MANAGING DORMITORY From navigation go to dormitory Add / edit / delete  MANAGING ASSIGNMENT From navigation go to assignment Add / edit / delete  MANAGING HOLIDAYS From navigation go to holiday Add / edit / delete  MANAGING TODAY’S THOUGHT From navigation go to today’s thought  Add / edit / delete  MANAGING CIRCULAR From navigation go to circular Add / edit / delete  MANAGING SCHOOL CLUBS From navigation go to school club Add / edit / delete  MANAGING TASK From navigation go to task manager Add / edit / delete  MANAGING HELPFUL LINK From navigation go to Helpful Links Add / edit / delete  MANAGING ENQUIRY From navigation go to enquiry Add / edit / delete  MANAGING ENQUIRY CATEFORY From navigation go to enquiry category Add / edit / delete  MANAGING HELP DESK From navigation go to task Helpdesk Add / edit / delete  NOTICEBOARD From navigation go to notice board  Add / edit / delete them For sending the notice to all as SMS, yes while creating the notice This will send SMS to all the users about that notice  PRIVATE MESSAGING From navigation, go to message Admin can send message to all users For sending  message, select user and type the message and click send You can also see all the message sent to you or sent from you  SYSTEM SETTINGS From navigation go to settings > general settings  You can change basic system settings here and also can select language You can also upload logo from here  THEME SETTINGS From navigation go to setting > general settings On the right of the page there is a panel named theme settings You find several skin options for you application  Select you desire one to make changes   SMS SETTINGS From navigation go to settings > sms settings Here you will find 2 SMS services, one  is Clickatell and another is Twilio You have to activate a service first  Then put the necessary information for a service Visit https://www.twilio.com/user/acount/settings/international /sms  LANGUAGE SETTINGS From navigation go to setting > language settings Change phrase or add new phrase for a particular language  Add new language   MANAGE BANNER SETTINGS From navigation go to setting > banner settings Add / edit / delete  MANAGE FRONT END SETTINGS From navigation go to setting > front end settings Add / edit / delete  MANAGE NEWS SETTINGS From navigation go to setting > news settings Add / edit / delete  ACCOUNT SETTINGS From navigation go to account Change basic account information Update your password Change profile image  ……………………………………………………………………………………………….. TEACHER PANEL DASHBOARD ………………………………………………………………………………………………. Total number of students, parents and attendance of students for that day at a glance Dashboard also holds a calendar for showing events.  MANAGING STUDENTS Admit students  From navigation go to student > admit student Fill up the necessary information  Save student  Student information  From navigation go to student > student information  Here you can see the student class wise If a class has sections then you can also browse the students as per class sections  Student mark sheets From navigation go to student > student mark sheet Here you can see all the students marks class wise If the class has sections then you can also see them along with class  MANAGING DAILY STUDENT’S ATTENDANCE  From navigation go to daily attendance  Select the date and class and click mange attendance That will bring up the students name and attendance information in a tabular form To update the attendance status or for taking the attendance for that particular date of that particular class which you have selected earlier, click the button named update attendance Put the status for all at once and click save changes  MANAGING DAILY STUDENT’S ATTENDANCE From navigation go to daily attendance  Select the date and class and click manage attendance  That will bring up the students name and attendance information in a tabular form To update the attendance status or for taking the attendance for that particular date of that particular class which you have selected earlier, click the button named update attendance  Put the status for all at once and click save changes   MANAGING ASSIGNMENT From navigation go to assignment  That will bring up the assignemnt page in a tabular form, you can click on add assignment on left corner of the page to add assignment.  MANAGING CLASSES From navigation go to > manage sections Add new class section for a class and assign  teacher for each of them View the class sections in a tabular form class wise Edit and delete class section information  MANAGING CLASS SECTION From navigation go to class > manage sections Add new class section for a class and assign a teacher for each of them View the class sections in a tabular for class wise Edit and deklete class section information  MANAGING SUBJECTS From navigation go to subject If you have already added classes then under this you will see a list of the classes added. If you have not created classes, please create class first Here you can see the subjects class wise Add or edit or delete subjects  MANAGING CLASS ROUTINE From navigation go to class routine View all the class routines in accordion  Add class routine Click on the subject name on routine to edit and delete  MANAGING DIALY STUDENT’S ATTENDENCE From navigation go to daily attendance  Select the date and class and click manage attendance That will bring up the students name and attendance information in a tabular form To update the attendance status or for taking the attendance for that particular date of that particular class which you have selected earlier, click the button named update attendance Put the status for all at once and click save changes    MANAGING EXAMS Manage exam marks From navigation go to > manage marks Select exam, class and subject and click manage marks for changing or updating marks That will bring up the form for updating the students marks for that particular subject Enter the marks and click update  MANAGING HELPFUL LINK From navigation go to Helpful Links Add / edit / delete  NEWS From navigation go to view news  View all the uploaded news  TODAY’S THOUGHT From navigation go to today’s thought  View all the uploaded today’s thought   HOLIDAY DATES From navigation go to holiday  View all the holiday with their respectives dates   ……………………………………………………………………………………………………. STUDENT PANEL DASHBOARD  ……………………………………………………………………………………………………. Total number of students, teachers, parents and attendance of students for that day at a glance, dashboard also holds a calendar for showing event  CLASS ROUTINE Form navigation go to class routine View the class routine of the logged in student   EXAM MARKS From navigation go to exam > manage marks Select exam and subject  See the mark for the selected exam in the selected subject  COMPUTER BASED TEST (CBT) From navigation go to online CBT See all the uploaded test for your class Attemtp the uploaded test View your results  STUDY MATERIALS From navigation go to study materials See all the uploaded study materials for your class Download the materials  ASSIGNMENT From navigation go to assignment  See all the uploaded assignments for your class Download the assignment   MEDIA From navigation go to media  See all the uploaded media for your class Download or watch media  NEWS From navigation go to view news  View all the uploaded news  TODAY’S THOUGHT From navigation go to today’s thought  View all the uploaded today’s thought   HOLIDAY DATES From navigation go to holiday  View all the holiday with their respectives dates  HELPFUL LINKS From navigation go to helpful links  View all the helpful links  HELP DESK From navigation go to help desk Submit or create help desk to the administrator  STUDY MATERIALS From navigation go to study material  See all the uploaded study material for your class Download the study material  PAYMENT / PAY WITH PAYPAL From navigation go to payment See the list of invoices Pay online with paypal for the unpaid invoices  COMMUNICATE WITH TEACHERS / ADMIN From navigation go to message Send new message to teachers and admin Get the sent message to you  ………………………………………………………………………………………………...... ACCOUNTANT  PANEL DASHBOARD ………………………………………………………………………………………………….. Total number of students, accountants, parents and attendance of student for that day at a glance. Dashboard also holds a calendar for showing events.  MANAGING PAYMENTS From navigation go to payment Add invoice and take manual payment multiple time under the same invoice If a payment is due, then an option will be there for taking the payment in the action button of the table that contains the list of all the invoices with the basic information. Edit or delete invoice  LOAN MANAGEMENT  From navigation go to loan application See all the applied loans Click on apply loan Fill forms to apply Wait for loan approval  MESSAGING From navigating go to message Send message to teachers and admin Get the message sent to you  NEWS From navigation go to view news  View all the uploaded news  TODAY’S THOUGHT From navigation go to today’s thought  View all the uploaded today’s thought   HOLIDAY DATES From navigation go to holiday  View all the holiday with their respectives dates  HELPFUL LINKS From navigation go to helpful links  View all the helpful links  HELP DESK From navigation go to help desk Submit or create help desk to the administrator  TRANSPORTATION From navigation go to transportation  View transportation available  ………………………………………………………………………………………………...... LIBRARIAN  PANEL DASHBOARD ………………………………………………………………………………………………….. Total number of students, librarian, parents and attendance of student for that day at a glance. Dashboard also holds a calendar for showing events.  MANAGING BOOKS From navigation go to library Add books  Edit or delete them  LOAN MANAGEMENT  From navigation go to loan application See all the applied loans Click on apply loan Fill forms to apply Wait for loan approval  MESSAGING From navigating go to message Send message to teachers and admin Get the message sent to you  NEWS From navigation go to view news  View all the uploaded news  TODAY’S THOUGHT From navigation go to today’s thought  View all the uploaded today’s thought   HOLIDAY DATES From navigation go to holiday  View all the holiday with their respectives dates  HELPFUL LINKS From navigation go to helpful links  View all the helpful links  HELP DESK From navigation go to help desk Submit or create help desk to the administrator  TRANSPORTATION From navigation go to transportation  View transportation available  ………………………………………………………………………………………………...... HOSTEL MANAGER  PANEL DASHBOARD ………………………………………………………………………………………………….. Total number of students, hostel managers, parents and attendance of student for that day at a glance. Dashboard also holds a calendar for showing events.  MANAGING DORMITORY From navigation go to dormitory Add / edit / delete  LOAN MANAGEMENT  From navigation go to loan application See all the applied loans Click on apply loan Fill forms to apply Wait for loan approval  MESSAGING From navigating go to message Send message to teachers and admin Get the message sent to you  NEWS From navigation go to view news  View all the uploaded news  TODAY’S THOUGHT From navigation go to today’s thought  View all the uploaded today’s thought   HOLIDAY DATES From navigation go to holiday  View all the holiday with their respectives dates  HELPFUL LINKS From navigation go to helpful links  View all the helpful links  HELP DESK From navigation go to help desk Submit or create help desk to the administrator  TRANSPORTATION From navigation go to transportation  View transportation available  ………………………………………………………………………………………………...... PARENT PANEL DASHBOARD ………………………………………………………………………………………………….. Total number of students, teachers, parents and attendance of student for that day at a glance. Dashboard also holds a calendar for showing events.  CHILDREN MARKS From navigation go to exam marks See the mark of your children individually One parent can have multiple children   PAYMENTS From navigation go to exam > payment View the invoices of your children and individually  Make payment via paypal online  CLASS ROUTINE From navigation go to class routine  Get the class routine for each of your child separately   MESSAGING From navigating go to message Send message to teachers and admin Get the message sent to you  NEWS From navigation go to view news  View all the uploaded news  TODAY’S THOUGHT From navigation go to today’s thought  View all the uploaded today’s thought   HOLIDAY DATES From navigation go to holiday  View all the holiday with their respectives dates  HELPFUL LINKS From navigation go to helpful links  View all the helpful links  HELP DESK From navigation go to help desk Submit or create help desk to the administrator",,20
+0,https://github.com/heiglandreas/holidayChecker.git,Check for holidays - locale-aware,,19
+0,https://github.com/mehr-schulferien-de/www.mehr-schulferien.de.git,We collect and publish school vacation and public holiday data.,,19
+0,https://github.com/amaidah/luxon-business-days.git,A Luxon plugin for calculating and manipulating business days and holidays.,"luxon,dates,times,business-days,holidays",19
+0,https://github.com/seppemans/businesstimedelta.git,"Timedelta for business time. Calculate the exact working time between two datetimes (hours, seconds). Supports custom schedules, holidays, and time zones.",,19
+0,https://github.com/adjoint-io/datetime.git,Financial datetimes and holiday recurrence rules,"datetime,calendarization,holiday-calculation,financial-markets",19
+0,https://github.com/commenthol/date-holidays-parser.git,parser for worldwide holidays,"holidays,worldwide,parser",18
+0,https://github.com/bastengao/chinese-holidays-node.git,Chinese holidays,,18
+0,https://github.com/dheerosaur/nyc-holiday-taxi-viz.git,NYC Holiday Taxi Visualization - http://taxi.imagework.com,,18
+0,https://github.com/mitica/public-holidays-js.git,Public holidays by country. Readonly from google calendar. Nodejs module.,"holidays,nodejs,google-calendar,holiday",17
+0,https://github.com/holiday-jp/holiday_jp-swift.git,:crossed_flags: Japanese holiday for Swift,,17
+0,https://github.com/GothenburgBitFactory/holidata.git,"Holidata is the core of holidata.net, a no-nonsense, ad-free provider of international holiday data.","calendar,holidays,holiday-calculation,holiday",16
+0,https://github.com/timsneath/barcoder.git,A holiday hacking project. A book catalog management app. A Flutter sample. A waste of your time. All of these are likely true.,,16
+0,https://github.com/ellailan/ColourMeCards.git,"Colour Me Cards are your classic holiday cards, with a modern twist.",,16
+0,https://github.com/tcnksm/go-holidayjp.git,Go package for detecting holiday in Japan,,15
+0,https://github.com/ministryofjustice/govuk-bank-holidays.git,Python package for loading bank holiday information from gov.uk,"govuk,holidays,united-kingdom",15
+0,https://github.com/hitsujiwool/node-holiday-jp.git,"Japanese holidays, JavaScript porting of Ruby holiday_jp",,15
+0,https://github.com/khatfield/php-HolidayLibrary.git,A PHP class for working with US Holidays,,14
+0,https://github.com/holiday-jp/holiday_jp-php.git,Japanese holiday.,,14
+0,https://github.com/CoderDennis/holidays.git,Elixir library for finding which holidays fall on given dates.,,14
+0,https://github.com/gnaneshwar441/Business_Duration.git,"Calculates business duration in days, hours, minutes and seconds by excluding weekends, public holidays and non-business hours",,14
+0,https://github.com/bielrv/Keras-Daily-Sales-Forecast.git,"A Daily Sales Forecast using Keras with Tensorflow is performed. Predicted sales model take into account Day of the Week, Day of the Month, Week of the Month, Week of the Year, Year of the Month and could be easily improved using Holidays. Accuracy obtained over 92%. The current NN model has proved to improve performance over ARIMA models.",,14
+0,https://github.com/Snipercaine/More-Custom-LED-effects.git,Arduino sketch and Home Assistant config file parts with additional LED Holiday colors/effects,,14
+0,https://github.com/CodingTrain/Holiday-Songs.git,Repo for Holiday Themed Coding Song suggestions,,13
+0,https://github.com/trustarun/Leave-Management-System.git,"This will take care of all the need of any enterprise to manage there employee. You can create employee, authorize them through roles.Diferent roles have different acess.Only admin can enroll employee and set holidays.Only manager can approve the Leave.Employee can apply for leave after login.Total holidays will be automatically generated as total of working days and holidays falling within Leave date range.The system is secure and address all the aspect of employee management in any organization.",,13
+0,https://github.com/pigworker/Gigs-Summer-2018.git,what I did on my holidays,,13
+0,https://github.com/joaosalless/dates.git,"Date library for identification of holidays or commemorative dates (national, state, municipal), automatic calculation of working days and office hours.",,13
+0,https://github.com/honzajavorek/czech-holidays.git,Czech holidays on PyPI,,12
+0,https://github.com/grafov/russian-holidays.git,Russian holidays for GNU/Emacs calendar :calendar:,"emacs,holidays,calendar,regional-holidays,emacs-calendar,russian-specific,melpa",12
+0,https://github.com/HackingWithCODE/HackTheHolidays2018.git,"CO/DE ""Hack the Holidays"" Patterns in Binary Reverse Engineering",reverse-engineering,12
+0,https://github.com/taktos/redmine_holidays_plugin.git,This is a redmine plugin that displays holiday in the calendar.,,12
+0,https://github.com/ericnishio/finnish-holidays-js.git,Lists Finnish national holidays.,"finnish,finland,national,bank,holidays,node,javascript,npm",12
+0,https://github.com/afiqiqmal/MalaysiaHoliday.git,"{""Get list of holiday in Malaysia's Calendar""}","scraper,goutte,malaysia-holiday,composer,packagist,php,hacktoberfest,api,laravel,holiday,malaysia",12
+0,https://github.com/HakanL/animatroller.git,"Animatronics, Halloween, Holiday Lights Controller Software",,12
+0,https://github.com/rapidwebltd/php-uk-bank-holidays.git,🏖️ PHP UK Bank Holidays lets developers easily retrieve UK bank holiday details.,"php-library,bank-holidays,uk-bank-holiday,retrieving-bank-holidays",11
+0,https://github.com/holiday-jp/holiday_jp-java.git,:crossed_flags: Japanese holiday for Java,,11
+0,https://github.com/bradslavin/SlackHolidayBot.git,"{""Posts today's holiday to a channel in Slack""}",,11
+0,https://github.com/segunfrancis/TravelMantics.git,an android app the helps users find holiday deals,,11
+0,https://github.com/OCA/hr-holidays.git,Human Resources Holidays OCA modules for Odoo,,10
+0,https://github.com/PanderMusubi/dutch-holidays.git,📅 Dutch holidays / Nederlandse feestdagen,,10
+0,https://github.com/Teamweek/holidefs.git,Definition-based national holidays in Elixir,,10
+0,https://github.com/KDE/kholidays.git,KHolidays: Library to assist determining when holidays occur,,10
+0,https://github.com/gaui/fridagar-node.git,Node module that returns Icelandic holidays and other special days,,10
+0,https://github.com/MauricioRobayo/colombian-holidays.git,Lightweight module to get Colombian holidays for any given year,"colombia,holidays,colombian-holidays",10
+0,https://github.com/aeon-php/calendar-holidays.git,🎄Holidays abstraction for Aeon time management framework ,"php,aeon,holidays,calendar-holidays,regional-holidays",10
+0,https://github.com/Totenfluch/EventItemsSpawner.git,Plugin for Sourcemod to spawn items for holiday events,"sourcepawn,sourcemod,plugin,easter,halloween,gifts,spawner,eventitem,itemspawner,zephstore",10
+0,https://github.com/swanson/dumb-holidays.git,🎉 Slack bot that posts a daily roundup of dumb holidays 🎉 ,"slack-bot,emoji,shitposting",10
+0,https://github.com/bocoup/winter-holiday-icons.git,Holiday icons from Bocoup,,10
+0,https://github.com/callenb/workpattern.git,"Calculates dates and durations whilst taking into account weekends, holidays and working hours",,10
+0,https://github.com/ensky/taiwan-holiday.js.git,"{""let me help you find out it's taiwan holiday or not.""}",,10
+0,https://github.com/deadskull7/Rossmann-Store-Sales-Predictions.git,"Kaggle top performer(Grandmaster) had a score of 0.10021. I had a self validation score of 0.10874 and a public score of 0.12516. Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. Prediction is of 6 weeks of daily sales for 1,115 stores located across Germany.",,10
+0,https://github.com/pebblecode/wfh-frontend.git,"A dashboard for quickly seeing where your colleagues are (in the office, working from elsewhere or on holiday). Works with the WFH API and Slack bot.",,10
+0,https://github.com/justjim1220/MMM-HolidayLights.git,"{""this module shows a string of flashing lights across the top of your MM2  * That have different colors of lights corresponding to the 'holiday', or  * 'season', or 'celebrated day' that you choose to place in the code.""}",,10
+0,https://github.com/mohankrr/IoT_holiday_lights.git,All code related to my entry for IOT Holidays lights design challenge at Element14.com,,9
+0,https://github.com/rudolfochrist/german-holidays.git,German holidays for Emacs calendar,,9
+0,https://github.com/Caoxiann/MyDiary.git,"The winter holiday project of iOS group.Imitating the diary app in the flim ""your name"".",,9
+0,https://github.com/dvmlls/bdscale.git,Remove Weekends and Holidays From ggplot2 Axes,,9
+0,https://github.com/TheBestMoshe/hebcal.git,"{""A Python module that has location-aware Hebrew dates, zmanim, and holiday's""}","python,python36,hebrew-calendar,hebrew-date,zmanim",9
+0,https://github.com/rekurzia/slovak-holidays.git,Simple PHP library/helper for getting Slovak holidays,,9
+0,https://github.com/zarigani/jcal.git,Japanese holiday calendar.,,9
+0,https://github.com/citco/carbon.git,Helps you calculate which days are British bank holidays (England & Wales only).,,9
+0,https://github.com/AustinTi/HolidayBot.git,A discord bot created with DiscordGo that spits out real holidays that you may have never heard of before.,"discord,discord-bot,discord-api,holidays,discordgo,bot,go,golang",9
+0,https://github.com/donategifts/donategifts.git,"{""This project enables users to donate holiday/ birthday gifts to the children in foster care and orphanages --simply by clicking one button-- which will automatically add the child's wish item to the user's Amazon cart & deliver to the child's address.""}",,9
+0,https://github.com/psyyz10/battle-city.git,"This is a C++ programming course project. Battle-city is a game with different levels of intelligence. With hard work through most Easter holiday, the game ‘Battle City’ was finished, which is a modificated version of my favorite video game in my childhood. User can choose servral levels with different map. There are many game props in the game, such as time frozen, short invincible state, bomb and so on. The enemy tank has different four levels of intelligence. They can search the shortest path to the player. They have different lookings, speed, health and base damage. The game was developed with C++ by hand without using any other game library. The marker said that it is a successfully reproduce of the classic tank war game. It was given a top ranked mark. And the game was requested shown in the Hall of Fame as an excellent example. ",,9
+0,https://github.com/tlikonen/suomalainen-kalenteri.git,Finnish national holidays for Emacs calendar,"emacs,emacs-lisp,emacs-calendar,finnish",8
+0,https://github.com/pinkywafer/Calendarific.git,Calendarific holiday sensor for Home Assistant ,"home-assistant,calendarific,holidays,api-client,sensor",8
+0,https://github.com/nfilzi/housing-list.git,Side project to help people book a holidays or remote working place together.,"hanami,ruby,remote-work,holidays",8
+0,https://github.com/irdeveloper89/jalali_calendar.git,"Calendar , Datepicker and Date Convertor For Persian Date(Jalali/Shamsi date) with holiday for Android and Ios",,8
+0,https://github.com/rpetrich/Snoverlay.git,"Happy Holidays, everyone!",,8
+0,https://github.com/qiu8310/holiday.git,holiday api (only for china now),,8
+0,https://github.com/DawnyWu/china-holidays.git,A gem contains 2016 china holidays,,8
+0,https://github.com/zenxds/is-chinese-holiday.git,is-chinese-holiday,,8
+0,https://github.com/CounterHack/HolidayHack2020.git,SANS Holiday Hack Challenge 2020,,8
+0,https://github.com/skypanther/PiLit.git,Raspberry Pi-based holiday lighting system,,8
+0,https://github.com/muyexi/whv_nz.git,Ruby gem to apply for Working Holiday Visa of New Zealand.,,8
+0,https://github.com/nehaltanna/UniversityPortalCMS.git,"{""It's a self deployed CMS. With this, one can create portal for univerisity/Institute/School within an hour. This portal comes with many features such as Auto Rank and CGPA calculating, Publishing result, Assignment submission and review, Resource management, Admin CPanel, Web based Filemanager, Time table management, Facebook like posts, Course subscription, Attendance management, Customized Dashboard, Handy calendar with alerts, Events gallery & Leave and Holiday management.""}",,8
+0,https://github.com/nesto-software/moment-holiday.git,A Moment.js plugin for handling holidays at scale.,"moment,momentjs,typescript,library,holidays,holiday,node,nodejs,database,holiday-calculation",7
+0,https://github.com/kytrinyx/timetress.git,"Knows about holidays and workdays. At least in Norway, for now.",,7
+0,https://github.com/ArabHosters/humhub-modules-calenderplus.git,"Full featured extended calendar for your users, spaces, tasks, holidays, etc.","humhub,humhub-module,php,yii1",7
+0,https://github.com/joerichsen/danske_helligdage.git,Support for the public holidays in Denmark in the Date class,,7
+0,https://github.com/julienw/forms-extension.git,firefox extension to generate the french holiday forms,,7
+0,https://github.com/stephenlake/php-google-holidays.git,"{""A PHP package to assist in retrieving a country's bank holidays from Google Calendar API's.""}",,7
+0,https://github.com/dark-wind/statutory-holidays-cn.git,statutory holidays for china 中国法定节假日,"php,workday,holiday,chinese",7
+0,https://github.com/rat9615/flask-holcalendar.git,A simple Holiday Calendar web application written using Flask.,"python,flask,html,css,jquery,webapp",7
+0,https://github.com/am-kantox/tempus.git,"Easy handling of time periods, like business days, holidays, etc.",,7
+0,https://github.com/zecookiez/AdventOfCode2020.git,A series of challenges in the spirit of the holidays 🎄,"advent-of-code,advent-of-code-2020,aoc2020,aoc",7
+0,https://github.com/bananacakes/holiday-2.6.35-crc.git,holiday/vivid/Raider,,7
+0,https://github.com/KeithDHedger/XDecorations.git,Holiday lights and more for your desktop.,"linux,x11,decoration,eye-candy,desktop,free,theme,holidays,light,snow,tree,xmas,halloween",7
+0,https://github.com/ModusCreateOrg/modite-adventure.git,"{""Modus Create's 2020 Holiday Game for the LDK Game console.""}","cpp,ldk-game,ldk,mod-music",7
+0,https://github.com/mutualmobile/HolidayCard.git,Build a Holiday Card for Hour of Code in Swift!,,7
+0,https://github.com/yatishbalaji/moment-working-days.git,"Distributed Working days calculator: This is a Moment.js plugin that allows you to calculate working days considering sequence of date(s). You can customize the week off days, and also declare custom dates for holidays (eg: public holidays) to exclude them from being counted as working day(s)","momentjs,working-days,customization,date,turn-around-time,timer,bussiness,business-days,working,days-calculator,moment,custom-holidays,moment-plugin,range,noofdays,count",7
+0,https://github.com/MaxHaertwig/SwiftyHolidays.git,A swifty library to determine whether a date is a holiday in a given country.,,7
+0,https://github.com/AliElSaleh/Cosmic-Hell.git,An AIE Holiday Coding Challenge. A Bullet-Hell game that implements flocking in C/C++ using the Raylib framework.,"bullet-hell,gamedev,game-2d,raylib,cpp,coding-challenge,game",7
+0,https://github.com/GitHawkApp/Holidays.git,"Holidays for ""Inbox Zero"" in GitHawk.",githawk,6
+0,https://github.com/Gasoid/workcalendar.git,Golang library handling holidays,"golang,go,holidays,working-days",6
+0,https://github.com/abo-abo/ukrainian-holidays.git,Ukrainian holidays for Emacs calendar,,6
+0,https://github.com/awillemant/puho.git,A simple webservice that provides Public Holidays,,6
+0,https://github.com/sonichandni/Online-Payroll-Management-System-with-Chat-Application.git,"A Payroll management System with feature like generate payslip & reports. It manages salaries, leaves, branches, employees, designations, shifts, holidays and employee attendance. It has chat application so internal employees can use that feature.","payroll-management-system,chat-application,salary-calculator,payslip,employee-management,employee-details,office-tools",6
+0,https://github.com/ponywolf/badholidayparty.git,Browser Based Pixel Platformer with Holiday Spirit (Melon.js) ,,6
+0,https://github.com/dalirnet/iran-holidays.git,Iran holidays,,6
+0,https://github.com/zyllus17/Flutter-Calendar.git,A fully functional calendar with holidays marker.,,6
+0,https://github.com/elidoran/node-date-holidays-us.git,USA bank and (some) public holidays,,6
+0,https://github.com/tdodson/ecard-generator.git,A PHP-based form that generates and sends personalize holiday E-Cards.,,6
+0,https://github.com/ncsa/sans-holiday-hack-2017.git, SANS Holiday Hack 2017,,6
+0,https://github.com/foxeyes/holiday.git,Holiday.js -  modern UI-framework,,6
+0,https://github.com/DIOHz0r/holidays.git,This code helps you to check dates against holidays and worktime.,"holiday,holiday-calculation,library,worktime",6
+0,https://github.com/albertosaurus/us_bank_holidays.git,Patches the Ruby `Date` class to make working with US bank holidays easier.,,6
+0,https://github.com/gophergala2016/festivus.git,:tada: Festivus is a Slack app that will help you plan and celebrate the holidays easier.,,6
+0,https://github.com/davidortinau/OpenSesame.git,Poorly named holiday experiment. A MyQ garage door opener with voice command support and a little animation.,"xamarin-forms,myq-garage-door,reactiveui,azure-cognitive-services",6
+0,https://github.com/PoojaB26/JingleBellsFlutter.git,Play #JingleBells with Flutter // Holiday themed #FlutterCounterChallenge2020,,6
+0,https://github.com/guangrei/pytanggalmerah.git,python module to check indonesia holiday (include sunday),indonesia,6
+0,https://github.com/retgits/checkiday.git,"{""A Go library for Checkiday.com, the world's most complete holiday listing website""}","golang,api-wrapper",6
+0,https://github.com/astuanax/rental-icon.git,"Icon font for use in rental, travel and holiday websites and/or apps",,6
+0,https://github.com/LoboArkano/Avalon-Online-Shop.git,Need a gift for the holidays? A birthday present? a treat for yourself? This is it. The perfect gift for the Dungeons & Dragons fans in your life. This web page demos a store which sells the themed gifts.,"online-shop,dungeons-and-dragons,demo",6
+0,https://github.com/xmattus/php-jewish-holidays.git,PHP function to compute the number of days until the next instance of each Jewish holiday and returned an array sorted in ascending order of same.,,6
+0,https://github.com/IceskYsl/holidays.git,This is a holidays plugin for Redmine,,5
+0,https://github.com/microsoft/AddOutlookJapanHoliday.git,VBScript for adding Japan new Holidays to Outlook.,,5
+0,https://github.com/geoffreyrose/us-holidays.git, US Holidays Wrapper for the Carbon DateTime Library,,5
+0,https://github.com/bukinoshita/is-holiday.git,:confetti_ball: Get todays Federal Public Holidays,"nodejs,javascript,holidays,cli,command-line",5
+0,https://github.com/williamkoller/holidays-service.git,Global Holidays Service,"nestjs,nestjs-backend,nodejs,api-service,typescript,typeorm,graphql,postgresql",5
+0,https://github.com/moorescloud/holideck.git,Development and simulation environment for Holiday by MooresCloud,,5
+0,https://github.com/jfi/bankholidays.git,Ruby gem to get UK bank holidays from www.gov.uk,,5
+0,https://github.com/Software-Engineering-sg-13/Time-Cards-Management-System.git,"It is a system which manages employees time cards,salary,holidays,progress etc.","flask-web,attendance-system,employee-management,salary-manager,leave-management,python",5
+0,https://github.com/kazuomatz/SwiftyHolidayUtil.git,SwiftyHolidayUtil is a library for highlighting holidays.,,5
+0,https://github.com/daviskirk/german-holidays.git,German holiday calendars for pandas,,5
+0,https://github.com/odaridavid/Travelmantics.git,Get those holiday deals  🏖 ✈️,"firebase,alc,alc4,kotlin,kotlin-android,travelmantics,holiday-deals,firestore-database",5
+0,https://github.com/dblodgett-usgs/hydro_holiday.git,Happy Holidays from USGS!,,5
+0,https://github.com/webdevops/public-holiday-exporter.git,Prometheus exporter for public holidays,"prometheus-metrics,public-holidays,prometheus-exporter",5
+0,https://github.com/wtsnjp/BXjaholiday.git,LaTeX: Support for Japanese holidays,"latex,expl3,japanese-holidays,holidays",5
+0,https://github.com/GothenburgBitFactory/holidata.net.git,"Holidata.net is a no-nonsense, ad-free provider of international holiday data",site,5
+0,https://github.com/datacamp/datacamp-thanksgiving-spending.git,"{""How much money does America spend in the holiday season? Let's delve into the data to find out.""}",,5
+0,https://github.com/matbmeijer/HolidayAPI.git,Holiday API R wrapper making worldwide holidays / bank days accessible to the R community,,5
+0,https://github.com/Shahzzoda/seasonal-sites.git,holiday cards are outdated. we send holiday sites now ✨,,5
+0,https://github.com/jlaska/ansible-cowmas.git,Celebrate the holidays with this festive ansible output plugin,,5
+0,https://github.com/gulmensedat/travelappui.git,Travel / Holiday App UI,,5
+0,https://github.com/jbaltres/ferienhaus-kronstadt.git,information page about holiday rooms,,5
+0,https://github.com/Uberspace/libestg3b.git,Calculate premiums for work on weekends and holidays according to the German Einkommensteuergesetz.,"germany,finance,accounting,human-resources",5
+0,https://github.com/moorescloud/secretapi.git,The Secret API is a UDP interface to control the globes on Holiday by MooresCloud,,5
+0,https://github.com/carbonfive/nortonquest.git,Powering the C5 2015 Holiday Funtivity,,5
+0,https://github.com/nicoandra/hhc2018.git,Sans Holiday hack Challenge 2018 - Kringlecon,,5
+0,https://github.com/holidayapi/holidayapi-ruby.git,Official Ruby library for Holiday API,,5
+0,https://github.com/tcrsavage/hm-status.git,A holiday tracking system based on WordPress,,5
+0,https://github.com/DavisVaughan/vacation.git,Holiday and Calendar Extensions for almanac,,5
+0,https://github.com/holidayapi/holidayapi-go.git,Official Go library for Holiday API,,5
+0,https://github.com/alberthild/opening_hours.git,"Let you apply opening hours, closed periods and holidays to all kind of business including timezone support. ",,5
+0,https://github.com/SoftwareSandbox/effit-challenge.git,Web application for the PHUCIT Challenge. A week filled with challenges to make your Snowcase holiday even more memorable,,5
+0,https://github.com/giantswarm/german-holiday.git,Is it a German holiday? Run this and find out!,,5
+0,https://github.com/esnet/sans-holiday-hack-2018.git,"{""ESnet Security Team's SANS Holiday Hack 2018 Report""}",,5
+0,https://github.com/moorescloud/twintrest.git,Simple Twitter sentiment analysis and visualization for Holiday by MooresCloud,,5
+0,https://github.com/jdlopez/holydayapi.git,Holiday REST api. Find Legal holidays on your city in JSON format. En español: API de consulta de calendarios laborales. Datos agregados de varias fuentes. Se pueden consultar por año y municipio,"rest-api,municipios,java,calendarios-laborales,holidays-api,holidays",5
+0,https://github.com/seanpm2001/404Day.git,"<404 Error: day not found> April 4th 2021 (4.04) is now a new technical holiday to celebrate hyperlinks, and to raise awareness on Link rot (Hyperlink celebration day, Link Rot Awareness day)","404,404day,404-day,holiday,gpl3,gplv3,html,article,wiki,md,txt,error,http4,file-not-found,page-not-found,day-not-found",5
+0,https://github.com/gamblor21/pyicle.git,Quick port of the Arduino code from https://learn.adafruit.com/holiday-icicle-lights-with-flair,,5
+0,https://github.com/thecubed/android_device_htc_holiday.git,"Device directory for Cyanogenmod 9 / ClockworkMod Recovery for HTC Holiday (Raider, Vivid)",,5
+0,https://github.com/ryanmcgrath/holidaycalendar.git,"{""A demo holiday calendar, which shows how to make NSCollectionViewItem's swipeable.""}","swift,nscollectionview,nscollectionviewitem,cocoa,macos,macosx",5
+0,https://github.com/Franc1sco/CSGO-Snowball-Weapon.git,"The latest csgo update introduces the new weapon snowball, so this plugin give it on spawn for use it in others maps, not only on militia map and even with sv_holiday_mode 0",,5
+0,https://github.com/rjchow/singapore_public_holidays.git,Singapore Public Holidays,,4
+0,https://github.com/Holdo/travel-agency.git,A system for online holidays booking.,,4
+0,https://github.com/jonasbn/perl-date-holidays.git,Date::Holidays - national holidays adapter/aggregator for all your holiday needs,"perl5,perl,perl-module,holidays,holiday-calculation,hacktoberfest",4
+0,https://github.com/hemanth/indian-holidays.git,List of Indian public holidays.,,4
+0,https://github.com/hpez/persiancalapi.git,API for persian calendar (jalali) holidays,"php,laravel,api,shamsi,jalali,calendar,jalali-calendar",4
+0,https://github.com/rubyforgood/share_christmas.git,Share Your Holiday Application,,4
+0,https://github.com/mschmitt/Date-Holidays-DE.git,Perl module Date::Holidays::DE for calculation of german holidays,,4
+0,https://github.com/shantamsultania/OpenCV_Tutorials_bacis.git,these are the source code for corona holidays ,,4
+0,https://github.com/Dwolla/bambot.git,"BambooHR Slack bot publishes company holidays, work anniversaries, first days, birthdays, and who is out each weekday.","bamboohr,bamboohr-api,slack-bot,slackbot,slack",4
+0,https://github.com/ModusCreateOrg/genus.git,"{""Modus Create's 2018 Holiday Game for the ODROID GO""}","arduino,game,32bit,cplusplus-11,cplusplus,cpp,cpp11,modusinternal,esp32,esp32-idf,esp32-sound",4
+0,https://github.com/ruslanss/HackerRank.BookingCom.WeekendAway.git, Booking.com > Hack a Holiday: City Break Edition > Weekend away,,4
+0,https://github.com/thiamsantos/brazilian-holidays.git,API for consulting brazilian holidays,,4
+0,https://github.com/tobiwild/holidays.git,A GOLANG package for holidays,,4
+0,https://github.com/re-nft/white-elephant-front.git,"{""2020 reNFT's Holiday Season White Elephant Game""}","renft,chainlink-vrf,nft",4
+0,https://github.com/knqyf263/holiday_jp-go.git,Japanese holiday,,4
+0,https://github.com/dja/holidaypotluck.git,Just a simple app for planning Holiday Potlucks. Happy Holidays everyone!,,4
+0,https://github.com/PyMalta/malta-holidays.git,Malta Public Holidays scarper and ICS file generator,"icalendar,ics,malta,python,holidays",4
+0,https://github.com/eisenjulian/holidays.git,Google assistant bot that knows about holidays in Argentina,"nodejs,apiai,assistant,assistant-chat-bots,chatbot",4
+0,https://github.com/KariHe/FinnishHolidaysJS.git,Javascript library for calculating Finnish public holidays for a year,,4
+0,https://github.com/mako2x/JPHoliday.git,Swift library to deal with holidays in Japan,,4
+0,https://github.com/flurdy/snaps.git,An aggregator of photo snaps from holidays and other events,"photography,photo-albums,play-framework",4
+0,https://github.com/MauricioRobayo/colombian-holidays-demo.git,React app to get Colombian holidays for any given date,,4
+0,https://github.com/fjordllc/next-holiday.git,Display next holiday in Japan.,,4
+0,https://github.com/nogweii/wishlist_app.git,A simple wishlist application that my family uses during the holidays,,4
+0,https://github.com/ddelruss/StockMarketStatus.git,Utility class that answers whether the stock market is open or not. Also knows holidays.,,4
+0,https://github.com/y-yagi/jpcal.git,jpcal is a show japanese calendar command. It contains holidays info.,,4
+0,https://github.com/notwaldorf/fierimas.git,"{""🎄🎅 It's like Guy Fieri's Grocery Games but for holiday presents""}",,4
+0,https://github.com/xingxinglieo/RD18frontend-item.git,"for summer holiday item named ""qinglv""",,4
+0,https://github.com/twinoza/BrOzaPardy.git,Oza Family Jeopardy Game for Annual Holiday Party,,4
+0,https://github.com/re-nft/white-elephant-contracts.git,"{""2020 reNFT's Holiday Season White Elephant Game""}","renft,chainlink-vrf,nft",4
+0,https://github.com/cheshrkat/moorescloud-holiday.git,Some simple stuff messing around with a Holiday by Moorescloud.,,4
+0,https://github.com/p0sty/holiday-festive.git,A simple festive animation for the Moorescloud Holiday light,,4
+0,https://github.com/emilyville/textmas.git,pick the color of holiday string lights by SMS,,4
+0,https://github.com/spidah/holidaybooker.git,A website simplifying the holiday booking process for a company,,4
+0,https://github.com/contoweb/delivery-calculator.git,"Calculate a DateTime by providing a start DateTime and a delivery duration in hours considering business hours, weekends and defined holidays.",,4
+0,https://github.com/EvanKrall/waterlevel.git,Monitor the water level of your holiday tree w/ a CHIP,,4
+0,https://github.com/wtfuii/german-holiday.git,Node Module to check whether a date is a german holiday,,4
+0,https://github.com/The-Cataclysm-Preservation-Project/Packet-BlizzTime-tool.git,A simple tool to read and generate packet blizzard times for future holiday data,,4
+0,https://github.com/WeareJH/Hub.git,"A Hub for all JH modules, which will include Flexi-Time, Over Time & Holiday management",,4
+0,https://github.com/erwdavid/hol2ics.git,Converter from .hol (holiday) outlook file to ics file for import in another calendaring software,,4
+0,https://github.com/kucharovic/czech-holidays.git,Simple utility to check if given date is holiday in Czech Republic.,"php,czech,holidays",4
+0,https://github.com/lingeringsocket/holidaypi.git,Hack an old Holiday Zoom home movie camera to use a Raspberry Pi camera instead of film,,4
+0,https://github.com/knowuh/Flake-Saver.git,Open GL SnowFlake screen saver:  Draws white flakes of love on your screen. Winter holiday present. MIT License,,4
+0,https://github.com/Flinesoft/PublicHolidays.git,An offline database with APIs to check if a given date is on a public holiday for a given region.,,4
+0,https://github.com/micolous/iotas.git,"Internet of Things Access Server - implements Holiday by MooresCloud, Philips Hue, Belkin WeMo, and others (fork of original MooresCloud repository to implement CBus which has since been reshuffled)",,4
+0,https://github.com/bastengao/chinese-holidays-ruby.git,Chinese holidays,,3
+0,https://github.com/skybluesofa/onthisday.git,Get fun events and holidays for a given day.,,3
+0,https://github.com/gudmundur/holidays.git,"Calculates holidays in a given year, currently only supports Icelandic holidays.",,3
+0,https://github.com/gdepourtales/holidays.git,Holidays is a Java library to calculate holidays. \nThe library embeds the Ruby Holidays GEM to calculate the results,,3
+0,https://github.com/JEEN/p5-Date-Holidays-KR.git,Date::Holidays::KR - Determine Korean public holidays,,3
+0,https://github.com/hostnet/bank-holiday-component.git,Component that provides bank holidays and business day dates,,3
+0,https://github.com/guillaume-roy/holidaysmode.git,Prestashop v1.6 module : Mode Vacances / Holidays Mode,prestashop-module,3
+0,https://github.com/invenia/Holidays.jl.git,Julia library for handling holidays,,3
+0,https://github.com/necojackarc/holidays_from_google_calendar.git,Retriving national holidays from Google Calendar.,"ruby,google-calendar,holidays",3
+0,https://github.com/galgtonold/jollyday-android.git,Jollyday holiday library for Android,"android,holidays,android-platform,jollyday-android,jollyday",3
+0,https://github.com/nalobin/Date-Holidays-RU.git,Determine Russian Federation official holidays and business days.,,3
+0,https://github.com/colybri/business-day.git,This library allows you to set a calendar of holidays in your Laravel application in a simple way,,3
+0,https://github.com/axc450/candybot.git,Holiday Event Bot for Discord,"discord,discord-py,python,python3,discord-bot,discord-api,mongodb",3
+0,https://github.com/calendarific/python-calendarific.git,Python API for Calendarific Holiday API - https://calendarific.com,,3
+0,https://github.com/seiyarus/french-holidays.git,french-holidays,,3
+0,https://github.com/myshkin5/x-mas-tree.git,A little holiday cheer with concourse.ci,,3
+0,https://github.com/subc/japan_holiday.git,Python Japan holiday from Google Calendar.,,3
+0,https://github.com/ppalma/IMU-Stabilized-Laser-Range-Finder.git,Some Holidays stuff,,3
+0,https://github.com/Palmabit-IT/holidays.git,Holidays days by country,,3
+0,https://github.com/williamkoller/global-service.git,Global Holidays Service,"docker,docker-compose,mongodb,nestjs,api,typescript,graphql,apollo-server-express,aws,cognito",3
+0,https://github.com/bfeaver/holiday.git,Holiday utility library for calculating holidays and checking if dates fall on holidays.,,3
+0,https://github.com/diescake/dash-holiday-creator.git,dash-holiday-creator creates the best holidays for you !!,,3
+0,https://github.com/Marto32/gencal.git,Generate calendar data sets with holidays included.,,3
+0,https://github.com/rodrigouroz/holidays-app.git,A site to query about upcoming holidays,,3
+0,https://github.com/shajilkrazy/malayalam-holidays.git,Generate ics calendar for holidays in Malayalam,"ics,ical,calendar",3
+0,https://github.com/lokhi/jours_feries_france_ruby.git,Compute bank holidays for France in ruby,,3
+0,https://github.com/castoredc/happy-holidays.git,Happy holidays from the Castor team!,,3
+0,https://github.com/cklll/google-calendar-holiday.git,Use Google Calendar API v3 to get holiday information.,"npm,nodejs,google-calendar,holiday",3
+0,https://github.com/checkdomain/HolidayBundle.git,SymfonyBundle which provides a service from checkdomain/Holiday ,,3
+0,https://github.com/cemoody/gplib.git,"Gaussian Processes with kernels specific to business patterns (day of week, holiday, yearly and seasonal calendars) ",,3
+0,https://github.com/afischoff/php-holiday-calculator.git,"This holiday class can calculate the future dates of holidays. It accepts plugins for various holidays, along with language files for translation. ",,3
+0,https://github.com/tckmn/watdo-today.git,"Holidays, etc. on this day, pulled from Wikipedia",,3
+0,https://github.com/rladies/rladies_holidays.git,Make an holidays pastryRchy card for R-Ladies!,,3
+0,https://github.com/hashrocket/OffBot.git,🔌 🤖 Timely slack notifications for scheduled holidays and vacations,,3
+0,https://github.com/ninja-software/ausholiday.git,Calculates business days and public holidays for Australia,,3
+0,https://github.com/gustavlarson/SwedishHolidays-python.git,A python library to generate the date of Swedish holidays,,3
+0,https://github.com/emivaljr/hojenaoapp.git,Application for Alarm Clock considering Holidays in Brasil,,3
+0,https://github.com/DavisVaughan/almanac-old.git,Tools for adjusting dates according to business calendars and holidays,,3
+0,https://github.com/hrbotfi/holidaygen.git,Holiday date generator,,3
+0,https://github.com/adliance/Togglr.git,"Togglr is our tool to fetch time entries from Toggl Track (www.toggl.com) and generates nice-looking HTML reports for each team member, while calculating overtime, remaining holidays, sick days and such. Works great with part time employees, too.",,3
+0,https://github.com/amanikids/cards.git,Amani Holiday Cards Fundraiser,,3
+0,https://github.com/ncsa/sans-holiday-hack-2016.git,SANS Holiday Hack 2016,,3
+0,https://github.com/MichaelWS/finCal.git,python holiday calendar,,3
+0,https://github.com/sakai/jp-holiday.git,Japanese Holiday Script,,3
+0,https://github.com/holiday-jp/holiday_jp-python.git,Japanese holiday for Python,"holiday-jp,python,pypi",3
+0,https://github.com/horikeso/japanese-holidays.git, Japanese holiday judgment,,3
+0,https://github.com/alicankustemur/tatil-yap.git,Tatil Yap  - Holiday Bookings Project,,3
+0,https://github.com/pragyakar/days-until.git,Holiday countdown for FuseMachines Nepal,"javascript,reactjs",3
+0,https://github.com/anitawoodruff/err-holidaybot.git,An errbot plugin for querying whether colleagues are on holiday using the BambooHR API.,,3
+0,https://github.com/CryptoLabz/HolidayPlanner.git,Android application that can inform you about upcoming holidays and help to plan  ,,3
+0,https://github.com/bschlueter/pace-university-cs241-magician.git,A simple program to assist in keeping track of magicians and their jobs on holidays.,,3
+0,https://github.com/KarambaDev/Panchanga-Lunisolar-calendar.git,"Panchanga with some Hindu Holidays and Festivals with Tithi, Nakshatra etc. Based on Swiss Ephemeris",,3
+0,https://github.com/capita/business_time-de.git,Pre-configures business_time gem for german holidays from 2000 until 2099,,3
+0,https://github.com/AndrewHamm/Festive-Bash-Terminal.git,Add emojis to your bash terminal to help you celebrate the holidays or enjoy life.,,3
+0,https://github.com/Shaeli/nowel.git,Hashicorp contest https://www.hashicorp.com/blog/announcing-the-hashicraft-holidays-hackstravaganza,,3
+0,https://github.com/agbarnett/weekends.git,"Examining submissions and peer reviews to journals on weekends, late nights and holidays","journals,weekend,peer-reviews",3
+0,https://github.com/traincation/traincation.git,Find the best way to spend your train holidays in Switzerland,"flutter,train,opendata",3
+0,https://github.com/fabiogadau/ajax-ex-calendar.git,Calendar created using moment.js and an API for the holidays,,3
+0,https://github.com/sherzader/SecretSnowman.git,:snowman: A variant of Secret Santa created for my App Academy peers to celebrate the holidays!,,3
+0,https://github.com/jonemo/zebras-and-lasers.git,Lightning Talk @ Python SF Holiday Party 2017,"zebras,lasers,python",3
+0,https://github.com/miqbalhamdani/v-calendar-custom.git,custom v-calendar with public holiday,,3
+0,https://github.com/zhangsw1412/CourseCenter.git,Course center for BUAA. Summer holiday homework.,,3
+0,https://github.com/wezu/retroactive.git,Extra Credits Holiday 2018 Game Jam entry,,3
+0,https://github.com/j-000/holidayTracker.git,Simple holiday tracker in Python (Flask),,3
+0,https://github.com/dnlongen/GIYH.git,2015 SANS Holiday Hack scripts and aids,,3
+0,https://github.com/davidfoliveira/node-holiday-pt.git,Portuguese holiday list and helper functions,,3
+0,https://github.com/shiffman/Snowfall-2017.git,Coding Train Snowfall Challenge Community Holiday Card,,3
+0,https://github.com/ericawesome/DB_prediction_and_visualization_call_a_bike.git,"Prediction model for the provision of bicycles for call-a-bike at 200 stations in Hamburg. Based on the provided data from the years 2014-2015 and considering weather data (temperature, wind speed, precipitation), holidays, school holidays",,3
+0,https://github.com/anushka23g/Travel-Tourism-Website.git,"Since tourism is one of the most significant industries in India, we aim to simplify it with our project, helping people to spend a holiday at some of the most desirable holiday destinations. With this site, we aim to handle the planning part while families can just focus of the fun part.","webdevelopment,webdev,webdevelopent,webdevelopment-project,webd,php,sql,html,css,html-css-javascript,js,javascript,tourism-website,tourism-management,tourism,tourism-platform",3
+0,https://github.com/mrizvic/js-prazniki.git,"Get properties about particular date. Boolean variables returned: holiday, businessday, weekend, leapyear. Other variables: datum, weekday, holiday_name",,3
+0,https://github.com/sapper-dragon/trimmings.git,Decorate your Sapper project with some holiday spirit.,,3
+0,https://github.com/adlr/cards.git,Node script used for making address labels for holiday cards,,3
+0,https://github.com/bossanova808/MediaCopier.git,Media Subscription / Copying / Holiday System for Kodi type libraries,"kodi,media,python,library-management-system,library,xbmc",3
+0,https://github.com/kristajg/cozy-holiday.git,Add some cozy holiday cheer to your website or project! 🎁🎄❄️,,3
+0,https://github.com/ferdilar/CBIR-engine---matlab.git,"{""using inria holiday's data, method HOG, MSER, GLCM""}",,3
+0,https://github.com/Bounceapp/elixir-calendarific.git,An Elixir wrapper for the holiday API Calendarific,,3
+0,https://github.com/czarneckid/isitaholiday.git,API to check if it is a holiday,,3
+0,https://github.com/nkmrshn/next_holiday.git,"It will tweet ""when is the next holiday"" in Japanese.",,3
+0,https://github.com/harleypig/DateTime-Event-Holiday-US.git,"{""Return requested holiday's as DateTime::Set::ICal objects""}",,3
+0,https://github.com/brawantonio/QMIND-Timeseries-forecasting.git,In this project we use Neural Networks to predict bed occupancy in Hospital X. We use autocorrelation and external variables such as Weather and a Holidays Calendar,,3
+0,https://github.com/ukfsn/Date-Holidays-EnglandWales.git,Perl module to determine whether a date is a bank holiday,,3
+0,https://github.com/Miaogram/Miaogram_app.git,Miaogram is a unofficial Telegram application. There are some cool features! (come out this summer holiday),,3
+0,https://github.com/metaphysicser/TaxiBigDataAnalysisSystem.git,the fianl test in holiday training traing camp with other partners,,3
+0,https://github.com/garthk/holiday-udp.git,Fires frames at the UDP-based secret API of Holiday by MooresCloud,,3
+0,https://github.com/nataliepo/ada-lovelace.git,"{""TypePad Search results for 'Ada Lovelace' in honor of the holiday""}",,3
+0,https://github.com/geodaftw/SANS2019-HolidayHackChallenge.git,SANS 2019 Holiday Hack Challenge - KringleCon 2.0 - Turtle Doves Writeup,,3
+0,https://github.com/JeremyLikness/Durable-Registry.git,A solution for 25 days of serverless to implement a holiday registry using serverless Azure Functions and Durable Functions.,"serverless,serverless-functions,azure,azure-functions,durable-functions,durable-entities",3
+0,https://github.com/judges119/holiday-wikipedia-edits.git,"{""For Holiday by Moore's Cloud, colours (red/green/blue) are switched on and turned off as Wikipedia edits occur.""}",,3
+0,https://github.com/KNVB/LunarCalendar.git,"It is a tool for generate both solar and lunar information, festival and holiday information for a given date.","java,calendar",3
+0,https://github.com/sunilcyriac/HolidayHotelBooking-JavaEE-JSF.git,"This repository contains the code for a holiday hotel booking web application developed using java enterprise beans, JSF framework with primefaces in Netbeans IDE and Java derby database.",,3
+0,https://github.com/jaredboice/daniel-san.git,"is a node-based budget-projection engine that helps your finances find balance. The program offers multi-frequency accounting triggers, including: once, daily, weekly, bi-weekly, tri-weekly, monthly, annually and more. And special adjustments allow the movement of process-dates beyond holidays and weekends.",,3
+0,https://github.com/Revplit-team/Gas-Mileage-Calculator.git,"Our Gas Mileage Calculator will help you easily find out how much gas your vehicle consumes and what is the cost per distance. It is a great addition to various travel & holiday, rent-a-car and car classified ads websites.","calculator,gas,mileage",3
+0,https://github.com/adamclasic/Flower-e-shop.git,"This is a demo flower and holiday bouquet e-Shop, built using a bright color scheme, a 12-column grid, and the principle of atomic design. Build with Jquery, JqueryUI, Swiper, Bootstrap.","jquery,jquery-ui,javascript,swiper,bootstrap",3
+0,https://github.com/sggutier/mexican-holidays.git,Mexico holidays for Emacs calendar,,2
+0,https://github.com/ste26054/redmine_leaves_holidays.git,"A Redmine Plugin regarding Leave, Holidays, Work Capacity",,2
+0,https://github.com/miquelruiz/Date-Holidays-CA_ES.git,Catalan holidays,,2
+0,https://github.com/noahvanhoucke/PackingSantasSleigh.git,"{""Code for Kaggle's holiday competition, Packing Santa's Sleigh""}",,2
+0,https://github.com/CharlieHR/national-holidays-config.git,A configuration-only repository for national and public holiday information,,2
+0,https://github.com/angusjfw/HoliDice.git,A random holiday generator.,,2
+0,https://github.com/lmcmz/NUZE.git,Crypto holiday booking website,,2
+0,https://github.com/sebslomski/german-bank-holidays.git,German bank holidays for python,,2
+0,https://github.com/charliek/holiday-pages.git,Holiday pages for the big screen at work,,2
+0,https://github.com/craigsheen/bank_holiday.git,Retrieve UK bank holidays in a nice format and includes handy Rails helpers for dates.,,2
+0,https://github.com/abrzaidi/Capstone-2.git,"Determining impact of attributes such as temperate, climate, and holidays on Traffic Volume",,2
+0,https://github.com/ne-sachirou/holiday_jp-elixir.git,Japanese holiday.,"elixir,holiday-jp,holidays,holiday,holiday-japan",2
+0,https://github.com/holidays/go-holidays.git,A Go library to deal with statutory and other holidays. You deserve a holiday! ,,2
+0,https://github.com/nss-day-cohort-47/holiday-road-grand-teton-titans.git,holiday-road-grand-teton-titans created by GitHub Classroom,,2
+0,https://github.com/codeforamerica/national_holidays.git,When is the next holiday in my country?,,2
+0,https://github.com/Holiday-Secret-Santa/Secret-Santa-App.git,"The 2020 holiday season is quickly approaching. This Secret Santa App will help orchestrate the holiday fan-favorite game, Secret Santa!",,2
+0,https://github.com/thex-at/pimatic-holidays.git,holiday device for pimatic home automation,,2
+0,https://github.com/jugaad-py/master-data.git,NSE/BSE master data like holiday list,"jugaad-data,jugaad-trader,algo-trading,python",2
+0,https://github.com/kylegirard/holidayfun.git,Happy Holidays,,2
+0,https://github.com/Astrocoders/holidays-br.git,BR holidays,"bucklescript,reason",2
+0,https://github.com/phpbbmodders/holiday_flare.git,Allows admin to display various seasonal holiday flares to their default style.,"phpbb-extension,phpbb",2
+0,https://github.com/Frost/swedish-holidays.git,Ruby code for calculating swedish holidays (both public holidays and de facto holidays).,,2
+0,https://github.com/glh/glh.github.com.git,Great Lakes Holidays,,2
+0,https://github.com/tagg/Date-Holidays-DK.git,Determine Danish public holidays,,2
+0,https://github.com/jerry/CalendarData.git,Calendar Spreadsheet including Holidays,,2
+0,https://github.com/e3w2q/mx2u-macropad.git,Happy Holidays Macro Pad,,2
+0,https://github.com/rizama/holidays-id-api.git,API Indonesia Public Holidays ,,2
+0,https://github.com/tahseenjamal/nse_holidays.git,Parses holidays of NSE,,2
+0,https://github.com/coastcreative-github/hh.git,Happy Holidays Project,,2
+0,https://github.com/muhtarudinsiregar/holidays-cli.git,Check your holidays from cli,"cli-app,indonesia,libur,holidays-cli,javascript",2
+0,https://github.com/MrsJaw/AdventOfCode.git,Happy Holidays! http://adventofcode.com/,,2
+0,https://github.com/yuta17/holidays_in_month.git,"return holidays(Saturday, Sunday, Nationalday)",,2
+0,https://github.com/ribeto/holiday.git,Happy Holidays in a canvas,,2
+0,https://github.com/part-software-group/solar-hijri-holiday.git,solar hijri holiday (shamsi holiday),"solar-hijri-calendar,solar-hijri-calendar-event,calendar-event,shamsi-event,shamsi-holiday,calendar,holidays,holiday",2
+0,https://github.com/pizar/carbon-it-holidays.git,Carbon Support for IT Holidays,"date,carbon-support,carbon,holiday,composer,italian",2
+0,https://github.com/warrenchaudhry/holiday_calendar.git,Uses jquery fullcalendar plugin and load holidays via holiday gem,,2
+0,https://github.com/srabuini/feriados.git,Work with holidays in an easy way,,2
+0,https://github.com/elidoran/node-date-business.git,Calculate business day dates optionally considering holidays.,,2
+0,https://github.com/creios/angular-german-holidays.git,AngularJS module to calculate german holidays,,2
+0,https://github.com/haakym/uk-bank-holidays.git,PHP package to get UK bank holidays,,2
+0,https://github.com/carmenfdezb/harbour-dyncal-es.git,Extension for DynCal featuring Spanish holidays,,2
+0,https://github.com/DiSiqueira/uebersicht-wiki-holidays.widget.git,An Ubersicht widget which show holidays information,,2
+0,https://github.com/jadsonlucio/holidays-projects.git,Repository to save my holidays projects,,2
+0,https://github.com/asierba/holidaytimes.git,web app to book your holidays,"pet-project,ruby",2
+0,https://github.com/sygic-travel/holidays-calculator-php.git,Holidays definition parser & reader in PHP,"holidays,holiday-calculation,php",2
+0,https://github.com/tippenein/BankHoliday.git,A library for U.S. bank holidays,"time,date,holidays,bank",2
+0,https://github.com/Rasbeartin/Project_1_crime.git,Project 1: crime frequency to major holidays. ,,2
+0,https://github.com/AlphaX2/Freiertag_2015_SailfishOS_Qt5.git,"SailfishOS app to show german holidays, updated 2015 version. In new repo due to the amount of SDK changes by Jolla.",,2
+0,https://github.com/barrouh/holiday-management.git,Holiday Management,,2
+0,https://github.com/nmecsys/Calendar.git,Tools for calculating working days and holidays :calendar:,"r,python",2
+0,https://github.com/abhijeet65/java-airline-reservation.git,Java project made in holidays with optimITSM Technologies.,,2
+0,https://github.com/anandanand84/nse-market-holidays.git,Get national stock exchange(india) market timing and holidays,,2
+0,https://github.com/wpsharks/wp-super-snow.git,The perfect addition to any WordPress site during the holidays.,,2
+0,https://github.com/hebcal/hebcal-rest-api.git,Jewish holidays and Hebrew calendar as iCalendar RFC 2445,,2
+0,https://github.com/commenthol/date-holidays-ical.git,Generate ical (.ics) files from date-holidays data,,2
+0,https://github.com/sumanthdosapati/TeluguCalender2019.git,calender in telugu language with festivals and holidays 2019,,2
+0,https://github.com/dvbern/date-helper.git,Helper classes for date operations and the calculation of holidays,,2
+0,https://github.com/Huang-Yujie/Calculator.git,My project of BingyanStudio mobile intern during National Day holidays.,"calculator,swift,ios,demo,demo-app,swift5,storyboard",2
+0,https://github.com/mdcg/telegram-holidays-bot.git,:calendar: Bot to list upcoming holidays on Telegram.,,2
+0,https://github.com/chkhd/czech-holidays.git,This package adds Czech public holidays to the Emacs calendar,"emacs-calendar,emacs,calendar",2
+0,https://github.com/DonovanAdrian/Gifty.git,A Custom Gift List Registry For The Holidays,,2
+0,https://github.com/rt400/Jewish-Sabbaths-Holidays.git,Jewish Shabbat Yomtov and Holidays times and event,"shabbat,hacs,sensor,jewish,holidays",2
+0,https://github.com/nick-aschenbach/game-words.git,"Find words for pictionary, catchphrase, charades and holidays",,2
+0,https://github.com/calendarific/node-calendarific.git,A NodeJS Wrapper for Calendarific Global Holidays API,,2
+0,https://github.com/sschertz/holiday-library.git,simple Java library for calculating the dates of various holidays,,2
+0,https://github.com/gs-nasc/BrazilHoliday.git,An API in php to catch all Brazilian holidays.,"feriados,feriados-brasil,feriados-brasileiros,feriados-nacionais,brasil,brasileiro,natal,ano-novo,brazil-holidays,holidays,php,php7,library,php-library,composer-package",2
+0,https://github.com/vijay-jaisankar/xmas-xpress.git,Holiday Hacks 2020 submission,,2
+0,https://github.com/pasierb/holiday-planner.git,holiday planner tool website,,2
+0,https://github.com/nuxeo/nuxeo-timeoff.git,Holiday / timeoff request plugin,,2
+0,https://github.com/fennec-fox/river-otter.git,business holiday calender,,2
+0,https://github.com/alaa-almaliki/magento2-managed-holiday.git,Magento 2 Managed Holiday,"magento2-module,holiday,holidays",2
+0,https://github.com/tangyyyyyyy/CHRISTMAS_BOT.git,initiating HOLIDAY_CHEER  loading......,,2
+0,https://github.com/aai210/Parallax-Happy-Holiday.git,"Parallax effect ""Happy Holiday""",,2
+0,https://github.com/KangBangKreations/KangBanged-Kernel.git,An AOSP and Sense Kernel for HTC Holiday Devices (UNIFIED BITCHES),,2
+0,https://github.com/Djelibeybi/PHP-Holiday-SecretAPI.git,PHP Class implementation to access the SecretAPI of the Holiday by MooresCloud,,2
+0,https://github.com/77web/Japaneseholiday.Api.git,http://japanese-holiday.herokuapp.com,,2
+0,https://github.com/jamie/canadastat.git,Canadian statutory holiday calendar provider,,2
+0,https://github.com/vitapluvia/hhc-writeup-2017.git,Holiday Hack Challenge 2017 Writeup,,2
+0,https://github.com/hlts2/holijp.git,CLI tool for Japanese holiday,"holidays,holiday-japan,holiday-jp,cli,golang,go,hlts2,goliday-jp",2
+0,https://github.com/thesecretlab/holiday-for-ios.git,"{""Holiday for iOS (Moore'sCloud)""}",,2
+0,https://github.com/ajosepha/jewish_holiday.git,Is it a jewish holiday?,,2
+0,https://github.com/foraker/foraker-climb-meteor.git,Foraker Holiday Climb in Meteor,,2
+0,https://github.com/TheMedo/PravoslavenKalendar.git,А simple Android app that displays the religious holidays from the Macedonian Orthodox calendar.,,2
+0,https://github.com/altflow/Calendar.git,Simple calendar that shows Japanese holidays and provides function to mark dates,,2
+0,https://github.com/robwilliams/nextday.git,Finds the Next Working Day even if holidays are in the way.,,2
+0,https://github.com/maximnara/business-days-counter.git,This laravel component shows difference between two dates without public holidays and weekends.,"laravel,laravel-framework,carbon,dates,counter,difference,diff,business-days,business,holidays,public-holidays,country,weekend",2
+0,https://github.com/jvonk/Countdown.git,A countdown to winter holidays with interactive characters and a simulation of falling snow,,2
+0,https://github.com/eko3alpha/hollydates.git,Javascript library for validating holidays and executing callbacks on those days,,2
+0,https://github.com/reboucaslinhares/Holidays.git,Library to provide a list of Brazilian and Portuguese official holidays from an year.,,2
+0,https://github.com/jimador/fun-time.git,Convenience code for handling dates counting and including counting business days and US federal holidays.,,2
+0,https://github.com/CodingGarden/holidays.git,An API to list US holidays. Uses the Google Calendar API.,,2
+0,https://github.com/uchsarath/gcal-fullcalendar-demo.git,Fetching public holiday from Google Calendar and Inputted holiday by user,,2
+0,https://github.com/froo/FRHeartFloat.git,"A class generate hearts randomly, which can be used to show your love in specific holidays.",,2
+0,https://github.com/wdvr/team-calendar.git,Simple Angular website to keep track of team availabilities / holidays. Live demo: ,"calendar,bot,vacation-tracking,angular,docker",2
+0,https://github.com/brontes3d/business_seconds.git,rails plugin to calculate durations and timespans in terms of working hours (holidays excluded),,2
+0,https://github.com/Tochemey/business-date-checker.git,"Help validate javascript dates whether there are business date, holidays, week days or weekend days.","typescript,nodejs,javascript-dates,holiday,worldwide-holidays-library",2
+0,https://github.com/aisha-gregg/secret-santa.git,A small secret santa application made for the Christmas holidays and other ocassions,"javascript,react,es6,jest,merry-christmas",2
+0,https://github.com/MrBogomips/Nexusat.Utils.CalendarGenerator.git,.NET Library to generate in-memory calendars with holidays and working hours,"calendar,generator,library,holidays,bank-holidays,public-holidays,holidays-api,working-days,working-hours",2
+0,https://github.com/varadchoudhari/Holiday-Calendar.git,A simple Holiday Calendar built using ReactJS and Holiday REST API,"react,reactjs,rest-api,restful-api,axios,flexbox,css-grid",2
+0,https://github.com/callum-osborne/kronos-filler.git,"Fill in Kornos automatically, it will identify Weekends, Holidays and PTOs.",,2
+0,https://github.com/aca02djr/holidays.git,Golang package to provide functions for calculating bank holidays in England & Wales,,2
+0,https://github.com/starboy007-debug/Global-Game-Jam.git,Global Game Jam + Core Holiday jam 2020,,2
+0,https://github.com/christopher-bianchi/secret-santa.git,A simple script for holiday fun.,,2
+0,https://github.com/satoshun/cal-holiday.git,command line tool for Japan holiday,,2
+0,https://github.com/joshtronic/perl6-holidayapi.git,Official Perl 6 library for Holiday API,,2
+0,https://github.com/KangerBanger-Rom/Kangers_Will_Be_Banged.git,Sense4 Holiday Rom Based on HTC Jewel,,2
+0,https://github.com/csamuel/xmaslist.git,Holiday wish list w/ Rails and AWS,,2
+0,https://github.com/ttalvitie/traveling-santa.git,Reaktor Traveling Santa holiday puzzle solution,,2
+0,https://github.com/holidayapi/holidayapi-raku.git,Official Raku library for Holiday API,,2
+0,https://github.com/jupihes/Persian-Georgian-date-map-holiday.git,Persian Georgian date map + Persian holiday identification,,2
+0,https://github.com/zokioki/holidays_img.git,A holiday-aware image_tag wrapper.,,2
+0,https://github.com/Toumash/daily-status.git,Windows App that shows your current over/under time at work (ignores holidays). Depends on a free toggl account,"toggl,time-management,status,windows,dotnet,flaticon",2
+0,https://github.com/darookee/openHI.git,"{""Open source implementation of Sunflower's Holiday Island (https://en.wikipedia.org/wiki/Holiday_Island_(1996_video_game))""}",,2
+0,https://github.com/dloureiro/pschtt.git,"pschtt (projects, schedule, calendar, holidays, time tracking) is an open-source web application based on node.js",,2
+0,https://github.com/E-Shiels/HolidaysFinder.git,HolidaysFinder is a Flatiron school portfolio project. It allows you to view holidays in Canada and favorite and filter them.,"react,reactjs,redux",2
+0,https://github.com/willw68k/c64-xmas-demo.git,A simple 6510 machine code text demo for the holidays. Written using the Kick Assembler cross compiler ,,2
+0,https://github.com/Shmoopi/SAHolidays.git,"NSDate Category that tells you if a date falls on a holiday, during a holiday season, or on a weekend",,2
+0,https://github.com/MaisDennis/feriadosBrasilArray.git,Feriados (bancários) nacionais (Brasil) até 2078 em formato de array. / Brazilian (bank) holidays until 2078 in array format.,"feriados,feriados-brasil,feriados-nacionais,feriados-brasileiros,array,javascript,python,java,php,csharp,anbima",2
+0,https://github.com/wzheng92/Germany-Holidays.git,"A simple open source gadget for generating a list of legal holidays, based on https://feiertage-api.de/",,2
+0,https://github.com/janunezc/next-biz-date.git,Provides a comprehensive way to find next business day by skipping an array of target (previously sorted) holidays and weekends.,,2
+0,https://github.com/salaheldinaz/the-kringle-secrets-book.git,The full solution for 2018 SANS holiday hack challenges.,"writeups,ctf,ctf-writeups",2
+0,https://github.com/YuyingWu/whv.git,Application form demo of New Zealand Working Holiday Visa ,,2
+0,https://github.com/rladies-chicago/2018-12-05-meetup.git,Materials for our December 2018 Holiday/Data Analysis Party,,2
+0,https://github.com/guibranco/holiday-api-rust.git,The Holiday API client wrapper written in Rust,"holidayapi,holiday-api-rust,rust,client-wrapper,api,api-client,api-client-rust",2
+0,https://github.com/tatemae-consultancy/holidapi.git,A Ruby gem for interacting with the Holiday API service.,,2
+0,https://github.com/sachin2912/torripo.git,A Android Application for holiday travel package booking,,2
+0,https://github.com/jbm9/batshitlights.git,Control software for the noisebridge Xmas/holiday lights,,2
+0,https://github.com/neelr/DayScraper.git,Get the national holiday of today with this API!,,2
+0,https://github.com/dingtianran/WHSchemer.git,Utility for Applying Working Holiday Visa of New Zealand,,2
+0,https://github.com/jonmarkgo/snowmanofbabel.git,"{""Snowman of Babel App for Twilio's Holiday Contest""}",,2
+0,https://github.com/adafruit/Feather_Holiday_Lights.git,Arduino sketches to animate holiday lights using Adafruit Feather boards.,,2
+0,https://github.com/natejgreene/pyTwinkle.git,A python application for the iTwinkle holiday lights,,2
+0,https://github.com/alexdmtr/plog.git,Visual platform for descovering your next best holiday.,,2
+0,https://github.com/hewen1990/chineseholiday.git,To judge a day is chinese holiday or not.,,2
+0,https://github.com/komby/WM2999.git,WM2999 - AVR Driver for Holiday Time Walmart 20ct Christmas lights,,2
+0,https://github.com/mkdee/d8rules.git,"D8rules (pronounced Date Rules) is a library and DSL for defining, working with and generating sets of infinite dates. Perfect for schedules, recurring calendars, public holidays etc.",,2
+0,https://github.com/adafruit/ESP8266_MicroPython_Holiday_Lights.git,Code for the ESP8266 MicroPython smart holiday lights project.  See the guide at: https://learn.adafruit.com/micropython-smart-holiday-lights/,,2
+0,https://github.com/Haidertamsil98/ios-calculator-.git,This is an ios calculator which I made in my holidays. The idea was to implement and make the calculator same as the apple provides. ,,2
+0,https://github.com/dippnerd/applescript-flash-briefing.git,"An AppleScript-based ""Flash Briefing"" that plays over the house AirPlay speakers to announce weather, calendar events, birthdays, holidays and play news/podcasts",,2
+0,https://github.com/wiktorsachar/workinghours.git,"Counts working hours of a given period of time. Includes public holidays in Poland, also movable ones. Based on polish Labor Code (Kodeks Pracy).","working,hours,labor,code,kodeks,pracy,public,holidays",2
+0,https://github.com/valaxy/cnholiday.git,The judgement logic about Chinese holidays for Python3 判断指定日期是否是中国节假日,,2
+0,https://github.com/steedhuang/Gold-price-to-Nasdaq-Shanghai.git,"The Python codes are used to line up daily market quote, patch up holidays and calculate the semi covariance among  countries more than two!",stock-market,2
+0,https://github.com/SeanNel/CA.git,Computer Science holiday project: cellular automata (CA) applied to shape detection.,,2
+0,https://github.com/revans/bank_holidays.git,Ruby Library for checking if a given date is a U.S. Federal Holiday.,,2
+0,https://github.com/shgtkshruch/amazon-connect-holiday-lambda.git, AWS Lambda to create a holiday calendar functionality within Amazon Connect,"aws-sam,lambda,amazon-connect",2
+0,https://github.com/mdeejay/shooteru-ics-aosp.git,3.0.x kernel for HTC Evo 3D GSM based on HTC Holiday (Vivid) ICS source,,2
+0,https://github.com/alexellis/holiday-lights-hack.git,"A holiday lights hack using Docker, a Pi Zero and NeoPixels (WS2812/b)",,2
+0,https://github.com/joel-depiltech/codeigniter-holidayapi.git,CodeIgniter third-party library deals with Holiday API based an official PHP library,"codeigniter,api,holiday,holidays,holiday-api,holidayapi,codeigniter-library",2
+0,https://github.com/bsatrom/reindeer-recon.git,A Holiday-themed Asset Tracking Project powered by the Notecard and Notehub.io.,"notecard,iot,blues-io,notehub-io,azure-functions,cosmosdb,sveltejs,mapbox-gl-js",2
+0,https://github.com/gnokoheat/korean-calendar.git,"MongoDB data - 2000y ~ 2100y Korean calendar with Solar calendar, Lunar calendar, Day of week and Holiday","mongodb,korean-calendar,korean,calendar,mongodump,mongodb-data,bson,json",2
+0,https://github.com/anggihseptiawan/dreamcation.git,"This website is about holiday and vacation, build with MERN stack",,2
+0,https://github.com/garrynewman/Control4.HolidayMode.git,An easier way to set your control4 house to holiday mode,,2
+0,https://github.com/Synthetica9/schoolvakanties.git,Generates and serves an ical from the holiday information on rijksoverheid.nl,,2
+0,https://github.com/designmynight/uk-public-holidays.git,PHP package to determine if a date is a public holiday in the UK,shared,2
+0,https://github.com/WRansohoff/HolidayStarLights.git,Addressable RGB LEDs can be a fun and festive addition to any holiday!,,2
+0,https://github.com/xftransformers/2020-abstractategy.git,Produced on the 2020 SU Transformers (XF) holiday by Sam D.,,2
+0,https://github.com/Newky/Chess.git,A Chess Game started on Holiday and continued with love ever since,,2
+0,https://github.com/jd1386/korean-holiday.git,A simple ruby gem that checks if any given date is a Korean official holiday,,2
+0,https://github.com/tasdf/holiday.git,获取国务院节假日通知 | Get the State Department holiday,"holiday,python3,python",2
+0,https://github.com/antrod/Stomp-the-Muffin.git,Backend code for the game we played at the Matrix Holiday Party 2011,,2
+0,https://github.com/theothertomelliott/giftlist.git,A webapp for managing your Holiday shopping. Built with https://gobuffalo.io/,,2
+0,https://github.com/sbebo/Packing-Santas-Sleigh.git,"{"":santa: Code for Kaggle's Christmas holiday competition, Packing Santa's Sleigh""}",,2
+0,https://github.com/Slushy/bowie-photo-reverse.git,Removes the bowie effect from the hulu 2017 holiday party pictures,,2
+0,https://github.com/mokshhh22/Plannor.git,"A smart android calendar app that makes planning your time and projects smooth and stress-free. It combines your events, to-do’s, holidays into one easy app. It makes every day more productive.",,2
+0,https://github.com/mauri-medina/feriabotpy.git,Feriabotpy is a twitter bot that tweets every day how many days are left to next holiday in Paraguay.,"twitter-bot,twitter,python,holiday",2
+0,https://github.com/gisce/one_year_ago.git,"Easy way to get the same day scenario (week, weekday, working day and holiday) for a previous year.",,2
+0,https://github.com/junlong4321/Orbital2020.git,"{""NUS Year 1 Summer Holiday Project 2020 - The Free Market [Difficulty Attempted : Artemis (Extreme)] [Judge's Choice Award]""}",,2
+0,https://github.com/greenwop/Hive-Lights.git,Replacement Hive schedule for active lights & plugs that takes into account sunrise and sunset times. Also supports holiday mode. ,,2
+0,https://github.com/benbarsdell/KaggleSantaPacking.git,"{""C++ code for validating and scoring solutions to the Kaggle 2013 holiday competition Packing Santa's Sleigh""}",,2
+0,https://github.com/lailahgrant/HTML-ASSIGNMENT.git,"My first semester project work(holiday work) on HTML & CSS. they were 5 questions, on 16th/Dec/2017",,2
+0,https://github.com/daledev-uk/holiday-price-scraper.git,Loads holiday web sites prices for certain hotel over a date range and alerts when price changes,"java,faas,spring-boot,aws-lambda,azure-functions",2
+0,https://github.com/gschandler/Flora_Christmas_Tree.git,AdaFruit Flora + LM303 + Some NeoPixels and some felt make for a fun wearable-lighted-christmas tree suitable for any company ugly sweater holiday party,,2
+0,https://github.com/The-Trip/The-Trip.git,A platform to help you plan a successful and enjoyable holiday. Crowdsource your trip by inviting suggestions from the people who know you best: your friends.,,2
+0,https://github.com/CeoFred/Human-resource-management-Software.git,"A human resource management system that helps keep track of employees in real time. Intergrations like birthday reminders,holiday reminders,attendance check and more.",,2
+0,https://github.com/janakhpon/SpottingNature.git," Well, i wanna help people like me who love nature beauty and love wandering all on nature trip whether on vacation or weekend or long holiday.","css3,grid-layout,flex-layout,media-queries",2
+0,https://github.com/Pilooz/granmaHolidaysFeed.git,"This is an one page web site written in ruby/ramaze that give the last inorfmations about your familie holidays to your Granma. The feeding of this page is done by twitter, mail, and google maps : _you need only an Iphone to contribute_...  No local storage needed. Redis caching for the mails.",,2
+0,https://github.com/joshuaweisbrodtorres/post-pandemic-dating.git,"Post Pandemic Dating is an application for people who are planning romantic dates in the United States of America post quarantine. The application offers the user a quick search for information on the weather, holidays, events, and places to eat in the city. On top of that we offer the user a random recommended cocktail to enjoy on said date.",,2
+0,https://github.com/nehay06/CrossDomainImageMatching.git,"Images of same objects across different visual domains like sketches, paintings, photographs in varied environment, tend to show large difference at raw pixel level.This makes it difficult to match such images. We propose a simple and efficient method to compute cross domain image similarity by utilizing standard object detection framework to find relative importance of features. These weighted features are then used to find image matches, based on visual and contextual similarity. For robust experimentation analysis, we test our approach on UFU-DDD[6], PASCALVOC[ 18], INRIA Holidays[19], Random Flickr images[20] and Sketchy datasets[21].",,2
+0,https://github.com/mrgoodrich/WinterWarfare.git,"This is the first git project in javascript created by Jackson Darrow, Matthew Goodrich, and Nicholas Laurita.  When this was created, it was the holiday season. Edit: This was also my first time using JavaScript!",,2
+0,https://github.com/NoahtheDeveloper/FiveM-Donator-Lounge.git,This is a FiveM Ymap that I used as a main spawn point. This includes a holiday Christmas trees displays that are in the beginning of the spawn. This ymap is at LSIA.,"fivem,flight-simulators,fivem-airport,fivem-script",2
+0,https://github.com/yourDigitalElf/yourDigitalElf.git,"{""The focus of this project was to create an app that makes it easy for users to create and view other people's wish list for Christmas or holiday presents.""}",,2
+0,https://github.com/KevinPatel04/RFID_Based_Shoping_System.git,"In metro cities we can see you a huge rush at shopping malls on holidays and weekends. This becomes even more when there are huge offers and discounts. Nowadays people purchase a variety of items and put them in the trolley. After total purchasing one should approach counter for billing purpose. By using barcode the cashier prepares the bill which is a time consuming process. This results in long queues at the billing counters. This project presents an idea to develop a system in shopping malls to overcome the above problem. To achieve this all products in the mall should be equipped with RFID tags and smart check-out counter. First of all customer must login / signup with the system. When one puts any product on RFID reader its code will be detected automatically, the item name and cost will be displayed on the LCD, thereby the cost gets added to the total bill. You need to continue this process until you complete with scanning of all the products. After completion, you may generate the bill which would be mailed to your registered account and the amount will be debited from your registered credit card. By doing this lot of time and man power can be saved.","rfid,rc522,arduino,shopping-system,shopping,rfidbased-shopping-system,buzzer,led,arduino-uno-r3,project,code,java,mysql,wamp-server,wamp,rfid-reader,rfid-card,pdf-generation,kevin-patel,kevinpatel04",2
+0,https://github.com/erkkimon/facebook-out-of-office-auto-reply.git,"{""Facebook doesn't allow you to tell others that you are absent, out of office, on holiday – or that you just don't have time to read all your millions of FB messages. That's why we need a script which does the job e.g. sends an automatic message to all those who send you Facebook instant messages.""}",,2
+0,https://github.com/Aimannab/SpinMeTo.git,"Traveller\'s Destination Selector App. Final project for Udacity\'s ""Android App Developer Nanodegree Program"" that helps travellers to select their next holiday destination, provides navigation and sharing on social media platforms. This app was planned and designed based on my own personal idea.",,2
+0,https://github.com/peterslight/ApplitoolsHolidayShoppingHackathon-Peterstev.git,"My imaginary retail company, Applifashion is preparing for a busy holiday season – in fact they are predicting that they will have record traffic for both Black Friday & Cyber Monday – with this year’s biggest sellers predicted to be the new “cozy quarantine slippers”.  The Applifashion team has been hard at work implementing some updates and you have been tasked with ensuring that the responsive web application looks and functions as designed across all screens.",,2
+0,https://github.com/magetop/magento2-booking-theme.git,"TOPBooking is an advanced booking theme which can manage one or multiple properties. Powered by our Booking plugin, this theme is a very powerful property rentals system. This theme can be used if you’re a villa / holiday accommodation owner wishing to manage online lettings or if you are a realtor or real estate agency. The theme’s booking system can be used to manage bookings for one or thousands of rental properties, each gets its own prices and booking calendar.","magento-booking-theme,magento-2-booking-theme,magento-2-theme,magento-theme,booking-theme,booking-reservation-theme,online-reservation-theme,online-booking-theme,magento-2-reservation-theme,topbooking-theme,magetop-booking-theme,magetop-theme,magetop-online-reservation-theme",2
+0,https://github.com/Chandradithya8/FbProphet.git,"Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well. Prophet is open source software released by Facebook’s Core Data Science team.","prophet,series,seasons,trend",2
+0,https://github.com/sujithnair1991/Marketing-Strategy-Express.git,Predictive Analytics : Project on customer data from a store that answers : 1.Segmentation - Can we find the Holiday Shopper or Discount Freak clusters among customers using latent class or k-means analysis? 2.Price Sensitivity - What effect does increasing price have on the revenue generated by a segment? 3.Market Basket - Which products can be sold together? 4.Churn - When will a customer leave us? 5.Survival Modelling - Can we predict the lifetime value of a customer?  and much more using predictive analytics in SAS,,2
+0,https://github.com/TarunRadadiya-code/Predicting-Stock-Prices-Using-fbProphet-Model.git,"The most commonly used models for forecasting predictions are the autoregressive models. Briefly, the autoregressive model specifies that the output variable depends linearly on its own previous values and on a stochastic term an imperfectly predictable term. Recently, in an attempt to develop a model that could capture seasonality in time-series data, Facebook developed the famous Prophet model that is publicly available for everyone; I will use this state of the art model the Prophet model. Prophet is able to capture daily, weekly and yearly seasonality along with holiday effects, by implementing additive regression models in this project Use the Prophet mode to predict Google’s stock price in the future.",,2
+0,https://github.com/Anthony042don/mack.git,"Do you need expert help in gaining access/passwords to Facebook, gmail, Instagram, bbm, yahoo-mail, snap-chat, twitter, Hotmail, badoo, zoosk, various blogs, icloud, apple accounts etc. Password retrieval, breaching of bank accounts: (for local and international banks, block transfers, make transfers), clear debts, pay for bills at give a way rates also provide cheap Holiday booking, breach of web host servers, firewall breaches, application cracks, change of school grades, professional hacking into institutional servers, clearing of criminal records, mobile airtime recharge, keylogging, smartphone,tablet portable device hacks, pc hacks on any OS and ip tracking and general tracking operations contact him: straighthacker99@gmail.com",,2
+0,https://github.com/devpopat96/Walmart-Store-Sales-Forecasting.git,"One challenge of modeling retail data is the need to make decisions based on limited history. If Christmas comes but once a year, so does the chance to see how strategic decisions impacted the bottom line. We are provided with  historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store. To add to the challenge, selected holiday markdown events are included in the dataset. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact.",,2
+0,https://github.com/mxk180040/Airbnb-Rental-Listings-for-San-Francisco.git,"Airbnb is a privately-owned accommodation rental website which allows house owners to rent out their properties to guests looking for a place to stay. Airbnb enables a marketplace where people can rent lodging in residential properties. The main idea is a house-sharing service that offers an opportunity for travellers to get cheaper accommodation wherever they travel to. As of 15 September 2019, hosts have earned more than $80bn sharing their homes and spaces on Airbnb. The offers range from shared rooms to full condos/houses and can offer unique and differentiated options as compared to normal traditional hotels. Airbnb has 31 offices across the world and have hosted 400 million guests since its launch. Opportunity for homeowners to make more money from their homes by sharing with travellers. Airbnb offers complete independence to its hosts to decide on the price for their properties, however with only minimal attributes to leverage upon and compare similar previous listings in their neighbourhood, the hosts find it difficult to come up with a competitive price. With the number of hosts using Airbnb increasing, coming up with the right price to remain competitive in a host’s neighbourhood is important. On the other side, guests can also find places to stay at a reasonable price and understand the seasonal demands. Airbnb has also seen a potential growth with the number of rentals/listings in its website subsequently increasing each year. Through our analysis, we want to address the following: • What time of the year are Airbnb’s most popular in San Francisco? Are specific holiday seasons more popular? • What are the most important characteristics of a listing, and how do they influence price? • Understand the rental landscape in San Francisco through various static and interactive visualisations. • How fast is Airbnb growing in San Francisco? • The exploration results could refer useful knowledge for hosts who search for comparable price and make their listing stand out. • Predict the Airbnb Listing Price in San Francisco • We wanted to do a project that addresses a common issue that could either benefit an organization or the general public. The challenge that Airbnb hosts face is determining the optimal nightly rent price. • Since Airbnb is a marketplace, the amount a host can charge on a nightly basis is closely linked to the dynamics of the marketplace. • Moreover, we wanted to pick a dataset that gives us some scope to perform various analysis. Therefore, we chose the topic AirBnb Rental Listings for San Francisco, United States.",,2
+0,https://github.com/tonygrue/holidayapi.com.git,Free API for obtaining information about holidays.,,1
+0,https://github.com/dougjohnson/holiday_machine.git,"{""Application to mange your team's holidays.""}",,1
+0,https://github.com/abo-abo/netherlands-holidays.git,Netherlands holidays for Emacs calendar ,,1
+0,https://github.com/bukinoshita/holiday.git,:calendar: List of Federal Public Holidays in 2017,"nodejs,javascript,holidays",1
+0,https://github.com/rodriguezmontesinoseva/f-m4-bmind-calendar.git,A simple app to request holidays,,1
+0,https://github.com/shinobi/Date-WorkdayCalendar.git,"Perl6 class that handles workdate calculations considering workdays, holidays and weekends",,1
+0,https://github.com/cowboysdude/MMM-Holiday2.git,Holiday 2 module for MagicMirror2,,1
+0,https://github.com/iayanpahwa/IoT-Holiday-Lights.git,Internet of Things Holiday Lights.,,1
+0,https://github.com/yongzx/SIAHack.git,Team project for Singapore International Airline AppChallenge 2017: SQXP - Personalized Social App for Singapore Stopover Holidays,,1
+0,https://github.com/domenikos5/Hollywood-Holidays.git,Hollywood Holidays https://domenikos5.github.io/Hollywood-Holidays/,,1
+0,https://github.com/tttuuu888/korean-holidays.git,Emacs package korean-holidays,,1
+0,https://github.com/smithfarm/date-holidays-cz.git,Date::Holidays::CZ Perl module,,1
+0,https://github.com/stefanysanz/Project-2.git,Project 2: Holiday Budgeting App ,,1
+0,https://github.com/carrer/HolidaysCalendar-Brazil.git,"{""Library for retrieving the Brazilian Holidays' calendar.""}",,1
+0,https://github.com/aklefdal/HolidaysApi.git,"A web API for getting public holidays for Norway, Sweden and Denmark.",,1
+0,https://github.com/nss-day-cohort-47/holiday-road-kings-canyon-folks.git,holiday-road-kings-canyon-folks created by GitHub Classroom,,1
+0,https://github.com/dmackerman/fifth-third.git,Fifth Third Bank Holiday Payback Sweepstakes Microsite,,1
+0,https://github.com/Derdack/derdack-oncall-holidayimport.git,Automated import of public holidays into on-call schedules,,1
+0,https://github.com/Mounir24/christmas_holiday.git,Christmas Holiday challenge ,,1
+0,https://github.com/nss-day-cohort-46/holiday-road-unnamed-riddle.git,holiday-road-unnamed-riddle created by GitHub Classroom,,1
+0,https://github.com/nss-day-cohort-47/holiday-road-salt-lake-skaters.git,holiday-road-salt-lake-skaters created by GitHub Classroom,,1
+0,https://github.com/swimlane/sla_calculator.git,A python module that will calculate the sla time based on working hours and holidays.,,1
+0,https://github.com/micronax/carbon-german-holidays.git,Extension for the popular Carbon-library to support working with German Holidays / Feasts,"php,carbon,datetime,calendar,germany",1
+0,https://github.com/elrancid/moment-business-days-it.git,This is a momentJS plugin that allows you to use only business days (Monday to Friday) with italian holidays,,1
+0,https://github.com/aayush210789/Sales-Prediction.git,"To predict daily sales for multiple stores taking features like promotions, competition, school and state holidays, seasonality, and locality","pandas,xgboost,python",1
+0,https://github.com/A752aa26/holidays.git,holidays,,1
+0,https://github.com/optional-is/Red-Days.git,"A simple HTML ""app"" to display the next few holidays (or events) and how many days away.",,1
+0,https://github.com/dmsleptsov/holidays.git,holidays,,1
+0,https://github.com/lizardoceliz/holidays.git,Holidays Reminder,,1
+0,https://github.com/TWalew/holiday-portal.git,Holidays portal,,1
+0,https://github.com/timothyosm/Letsgo.git,"{""A collaborative holiday planning webapp utilising Mapbox's API and Firebase""}","javascript,css,html,ionic4",1
+0,https://github.com/TomElZ/AssignmentThree.git,Staff Holidays,,1
+0,https://github.com/lsmith804/tackyholiday.git,Happy Holidays!,,1
+0,https://github.com/rawroland/feiertage.git,German holidays,,1
+0,https://github.com/williamkoller/api-holidays.git,API Holidays,"adonisjs,nodejs,javascript,api-rest,api,docker,docker-compose,dockerfile",1
+0,https://github.com/nss-day-cohort-43/holiday-road-beauty-and-the-beasts.git,holiday-road-beauty-and-the-beasts created by GitHub Classroom,,1
+0,https://github.com/nexzanavod/Holiday-Checker.git,Cheack Holidays,,1
+0,https://github.com/moorescloud/holitest-imx.git,Holiday imx bootlet test code for factory testing,,1
+0,https://github.com/codeforamerica/geeky_valentines.git,Because every made up holiday can use some geek,,1
+0,https://github.com/Dannyzen/hubitat_shabbat.git,shabbat and holiday modes from smartthings ported to hubitat,,1
+0,https://github.com/darshandsoni/kenyan-holidays.git,A Kenyan public holidays package for the Emacs holidays calendar,"emacs,customization,holidays-cli,calendar",1
+0,https://github.com/zswang/iholiday.git,Holiday schedule for holidays of China.,,1
+0,https://github.com/loleg/opendatasnow.git,:christmas_tree: Happy holidays!,,1
+0,https://github.com/jcarmo/Goa-s-houses.git,For rend in holidays,,1
+0,https://github.com/oschvr/xmas.git,Happy Holidays from VR3,,1
+0,https://github.com/ketabchi/shamsi-holiday.git,node shamsi holidays package,,1
+0,https://github.com/flock-community/flock-eco-workday.git,Flock Eco Holidays,,1
+0,https://github.com/segeda/czech-holidays-clj.git,Library containing Czech holidays,,1
+0,https://github.com/noliaki/WWH.git,World Wide Holidays,,1
+0,https://github.com/qinshenxue/holiday.git,get holidays of year,,1
+0,https://github.com/Mamemaki/Mamemaki.HolidayJp.git,Calculate Japan public Holidays,,1
+0,https://github.com/ajgb/Date-Holidays-PL.git,Determine holidays for Poland,,1
+0,https://github.com/JensBorrisholt/Holidays.git,Canculation of National Holidays,"holidays,dependency-injection,dependencies,delphi",1
+0,https://github.com/lemoce/emacs-br-holiday.git,Brazil Holidays for Emacs,,1
+0,https://github.com/AbdelmajidBa/FrancePublicHolidays.git,France Public Holidays API,,1
+0,https://github.com/cedrick/palawanamazing.git,Palawan Amazing Holidays,,1
+0,https://github.com/cvaldex/rockHolidaysWeb.git,Front End Rock Holidays,,1
+0,https://github.com/vanchpuck/Holidays20.git,Holidays calendar android app,,1
+0,https://github.com/pasierb/public_holidays.js.git,Public holidays generator,,1
+0,https://github.com/NetCommons3/Holidays.git,Holidays Plugin For NetCommons3,,1
+0,https://github.com/shadmanwicked/Fauxliday.git,A bot for fake holidays.,,1
+0,https://github.com/eivindw/android-nor-holidays.git,Norwegian holidays overview for Android.,,1
+0,https://github.com/commenthol/caldate.git,calendar date for date-holidays,,1
+0,https://github.com/ajay158/A-Holiday-Trip.git,layout of dream holidays trip,,1
+0,https://github.com/pooch-tonic/Wedg-em.git,My holidays personal game project,,1
+0,https://github.com/santoshs/indian-holidays.git,A list of Indian holidays,,1
+0,https://github.com/wombleton/liberty.git,Calculate statutory and other holidays.,,1
+0,https://github.com/jspit-de/holiday.git,php class for determining holidays,,1
+0,https://github.com/gempain/holidays.js.git,Holidays plugin for Moment.js.,,1
+0,https://github.com/hausl/holiday-calendar.git,PHP-Class to calculate holidays,,1
+0,https://github.com/ekong003/CSCI222_Assignment2.git,SmartTravel Holidays Booking Management System,,1
+0,https://github.com/david-luk4s/ShowCalendarHolidaysAPI.git,Displaying Holidays from an API,,1
+0,https://github.com/Kaytbode/holsfinder.git,Find national holidays by country,,1
+0,https://github.com/applenick/FestiveFun.git,A fun plugin for holidays,,1
+0,https://github.com/neal-merkl/holiday-tracker.git,Rails application to track holidays,,1
+0,https://github.com/narikei/holiday-jp.git,[Java]Get holidays in Japan,,1
+0,https://github.com/vics80/holimana.git,Holidays manager to test DDD,,1
+0,https://github.com/pity7736/workingless.git,Holidays and working days calculations.,"working-days,holidays",1
+0,https://github.com/martinlaukkanen/holidaysync.git,The Holiday Sync App for Project Online and on-premises allows you to import holiday calendar exceptions into your Project Server calendars,,1
+0,https://github.com/popowski/holiday.git,holiday,,1
+0,https://github.com/jonasbn/perl-task-date-holidays.git,Work package for holiday modules in the Date::Holidays namespace,"perl5,perl,holidays,holiday-calculation,perl-module,perl-distribution,hacktoberfest",1
+0,https://github.com/ertyseidohl/word-twister.git,A word-twister app for the holidays,,1
+0,https://github.com/laurafitzgerald/holidaze.git,sync holidays from orangehrm to google calendar,,1
+0,https://github.com/lasarus/Fireworks.git,A firework simulator for the holidays.,,1
+0,https://github.com/jamesddavies/Travell.git,A React-Native app for adventurous holidays,,1
+0,https://github.com/ngr900/poland-public-holidays.git,compute dates of public holidays in Poland,,1
+0,https://github.com/mplungjan/addHolidays.git,Potential jQuery plugin to handle local holidays,,1
+0,https://github.com/hshield/redmine_holidays.git,Holidays plugin for Redmine 2.2.x,,1
+0,https://github.com/dten/bankholidays.git,Bank Holidays for England & Wales in Rust,"rust,bankholidays",1
+0,https://github.com/jobsonpvarghese/AravindHolidays.git,Official website of Aravind Holidays wagamon.,,1
+0,https://github.com/ayles-software/laravel-australian-public-holidays.git,Australian public holidays for laravel 7,,1
+0,https://github.com/egli/swiss-holidays.git,Swiss holidays for GNU/Emacs calendar,"emacs,holidays,calendar,emacs-calendar,swiss",1
+0,https://github.com/ayles-software/laravel-australian-public-holidays.git,Australian public holidays for laravel 7,,1
+0,https://github.com/darvinview/BookTicket.git,Ticket booking notification based on holidays,,1
+0,https://github.com/mooffie/drupal-holidays.git,"{""Drupal interface for the 'holidays' PHP classes""}",,1
+0,https://github.com/douglasheitner/moment-us-federal-holidays.git,Determines dates for all US Federal Holidays,,1
+0,https://github.com/diescake/nokia-sleep-holiday-creator.git,Nokia Sleep provides special holidays for you !!,,1
+0,https://github.com/sktoiva/moment-holiday-fi.git,A momentjs plugin for displaying Finnish holidays.,,1
+0,https://github.com/despreston/holidapi.git,AWS Lambda for fetching holidays from Wikipedia,,1
+0,https://github.com/andys/oz_holidays.git,Australian Public Holidays in ruby and javascript,,1
+0,https://github.com/puddllee/wishlist.git,Online gift registry for holidays and events,,1
+0,https://github.com/blkops/OurHolidays.git,Celebrate holidays we can identify with.,,1
+0,https://github.com/delacruzjames/holi_days.git,List of all holidays around the world,,1
+0,https://github.com/LUXEYS/awsome-holidays.git,A curated list of awesome holidays libraries,,1
+0,https://github.com/jntakpe/micronaut-grpc-holidays-service.git,Micronaut GRPC service that handles holidays,,1
+0,https://github.com/fopina/django-holidays.git,Django app with configurable rules for holidays,,1
+0,https://github.com/Prudento-NL/template-vakantie-blog.git,Template for creating blogs for holidays,,1
+0,https://github.com/bv42/holiday_reminder.git,Remind me about holidays around the word,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays.git,%{pearname} - driver based class to calculate holidays,,1
+0,https://github.com/rogerjdeangelis/utl_removing_saturdays_sundays_and_holidays_from_dates.git," Removing Saturdays, Sundays and Holidays from dates. ",,1
+0,https://github.com/bencromwell/uk-bank-holidays.git,Parses UK bank holidays from gov.uk,,1
+0,https://github.com/CoderJava/Flutter-Landing-Page-Walking-Holidays.git,Sample Flutter Web with theme Walking Holidays,,1
+0,https://github.com/landscapeInstitute/peoplehr-holiday-office365-sync.git,Automate Calendar events for PeopleHR Holidays,,1
+0,https://github.com/byronchen1/on-stat-days.git,Statutory Holidays in Ontario 2020 - 2100,,1
+0,https://github.com/melcaliskan/calculateBusinessDays.git,Calculate Business Days with Specified Holidays,,1
+0,https://github.com/nazaninsbr/Irainian-Holiday-Crawler.git,Irainian Holidays crawled from 2 different website,,1
+0,https://github.com/chrisssbi/holiday-calendar.git,"📅  Calendar ""Holidays in Ukraine"" with REST API","less,api,javascript,rest-api,ajax,html5,css3,json,enrico",1
+0,https://github.com/geekusa/SA-holidays.git,Splunk app supporting add-on provides wrapper for python-holidays (https://github.com/dr-prodigy/python-holidays),,1
+0,https://github.com/StrataLabs/holidays_chef.git,holidays_chef,,1
+0,https://github.com/nryberg/ho-ho-ho-ho.git,Holiday Music,,1
+0,https://github.com/ne-sachirou/holiday-jp-clojure.git,Japanese holiday.,"clojure,clojurescript,clojerl",1
+0,https://github.com/felsimas/SMST.git,SMST Holiday,,1
+0,https://github.com/Muhaiminur/Bangladesh-Holiday.git,Bangladeshi Holiday,,1
+0,https://github.com/kevsthabest/platform_device_htc_holiday.git,HTC Holiday,,1
+0,https://github.com/spikelynch/holiday.git,Holiday hacks,,1
+0,https://github.com/Fayaz/Exciting-Maldives-Holiday.git,Perfect Holiday,,1
+0,https://github.com/securityostrich/Infosec-Winter-Cheer.git,A location for any and all InfoSec Holiday Cheer to gather and be mirthful,,1
+0,https://github.com/GAFelton/thanksgiving-together.git,A Thanksgiving Companion App which allows families to share this holiday no matter the distance.,,1
+0,https://github.com/moorescloud/chrome-holiday-krazykat.git,Krazy Kat! for Chrome Desktop taunts kitteh with flashing lights down the Holiday string of globes,,1
+0,https://github.com/sparkfun/Pro_Mini_Candy.git,"Holiday special version of 5V Pro Mini, available from SparkFun Electronics","sparkfun,sparkfun-products,arduino",1
+0,https://github.com/accesto/PolishHolidays.git,Polish Holidays library - allows to check if given date is a Polish Holiday,,1
+0,https://github.com/yasserkabbout/tweeLights.git,Controlling Holiday Lights by a Twitter voting System API and a Raspberry Pi - IoT,"bogazici-university,software-engineering,software-development,holidaygreetings,lights,twitter-api,python,raspberry-pi",1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_UNO.git,%{_pearname} - Driver based class to calculate holidays in UNO,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Ukraine.git,%{_pearname} - Driver based class to calculate holidays in the Ukraine,,1
+0,https://github.com/TonnyXu/Holidays.git,An API for getting the public holidays in Japan,,1
+0,https://github.com/BWilton/APEX-PUBLIC-HOLIDAYS.git,This application store and calculates national and regional holidays,,1
+0,https://github.com/perltaiwan/Date-Holidays-TW.git,Determine whether it is Taiwan Holidays or not.,,1
+0,https://github.com/SiKni8/ParkingSuspensions.git,Know what holidays the parking is suspended in USA,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Discordian.git,%{_pearname} - Driver based class to calculate Discordian holidays,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Germany.git,%{_pearname} - Driver based class to calculate holidays in Germany,,1
+0,https://github.com/bdelanghe/advent-of-code-2019.git,Happy Holidays.. My repo for advent of code 2019.,,1
+0,https://github.com/codemonauts/craft-holidays.git,Craft CMS plugin to work with international holidays,,1
+0,https://github.com/MkReuben/GoKenyaSafari.git,Tours and Safari app where clients book their safari holidays,,1
+0,https://github.com/mpessas/holiday_plasmoid.git,"{""A simple plasmoid to show today's holidays.""}",,1
+0,https://github.com/Fuco1/slovak-holidays.git,Adds a list of slovak holidays to Emacs calendar,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Iceland.git,%{_pearname} - Driver based class to calculate holidays in Iceland,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Romania.git,%{_pearname} - Driver based class to calculate holidays in Romania,,1
+0,https://github.com/sinameraji/my-holidays.git,Node.js module for Malaysia public/school holidays 2018,,1
+0,https://github.com/ipcortex/bank-holidays.git,Adds bank holidays to nightmodes on an IPCortex Communication System,,1
+0,https://github.com/DeveloperAsim0/Web-Api-iOS.git,Using Calenderific Api to fetch holidays with specific year.,"api,web-api,api-service,web-api-2",1
+0,https://github.com/shinoburc/national-holiday-api.git,Manage national holidays and provide web APIs using Rails.,,1
+0,https://github.com/radosny/woh-website.git,Simple application for counting holidays for specified year,,1
+0,https://github.com/ioExpander/IntrusionDetector_OpenCV3.git,Monitors my home during holidays. Raspberry Pi and Xiaofang Camera,,1
+0,https://github.com/ciprian-chichirita/romanian-bank-holidays.git,"romanian bank holidays, RO: zile libere de la stat",,1
+0,https://github.com/ZeroStrength/react-zero-calendar.git,"React FullCalendar with holidays, lunar, and mobile swipe support","fullcalendar,calendar,javascript,react,typescript,mobx-react",1
+0,https://github.com/thrashzone13/iran-official-holidays.git,"{""Tiny library for retrieving Iran's calendar official holidays""}",,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Brazil.git,%{_pearname} - Driver based class to calculate holidays in Brazil,,1
+0,https://github.com/phmullins/geek-holidays.git,A not so comprehensive list of geek holidays.,"geek-holidays,geeks,mit-license",1
+0,https://github.com/dimitern/bulgarian-holidays.el.git,Emacs package defining official and common holidays in Bulgaria.,,1
+0,https://github.com/tdurie24/Adventure.git,"This is an event, holidays, accommodation and travel management system",,1
+0,https://github.com/KararTY/Project19.git,Twitch & Mixer bot with Web UI challenge for the holidays.,"bot,twitch-bot,mixer-bot,logging,website,websocket,mixer,twitch,analytics",1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Ireland.git,%{_pearname} - Driver based class to calculate holidays in Ireland,,1
+0,https://github.com/grobiwebdesign/digital_watch.git,"An exercise in JS. Displays the time, date and holidays",,1
+0,https://github.com/Five9DeveloperProgram/IVR-USA-Holiday-Auto-Detect.git,This IVR supports automatic calculation of USA holidays.,,1
+0,https://github.com/curtis-clement/Dice-Client.git,A favourite game my family plays at holidays and gatherings,,1
+0,https://github.com/pinzolo/flagday.git,flagday is library for public holidays in Japan.,"golang,golang-library,golang-package,holidays,public-holidays,japan",1
+0,https://github.com/BekBrace/holidays-library.git,"holidays library in python ( USA, RUSSIA, FRANCE, POLAND )",,1
+0,https://github.com/hebcal/hebcal-leyning.git,Javascript Torah Reading API for Parashat HaShavua and holidays,,1
+0,https://github.com/kolarcz/node-holidays-cz.git,Returns holidays and name days on a specified date (cz),,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Norway.git,%{_pearname} - Driver based class to calculate holidays in Norway,,1
+0,https://github.com/caiognecco/bus-days.git,business days calculator + holidays manager in graphql and mongoose,,1
+0,https://github.com/jonstuebe/date-fns-holiday-us.git,An interface to work with holidays using date-fns,"date-fns,date,holiday,holidays",1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Italy.git,%{_pearname} - Driver based class to calculate holidays in Italy,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_USA.git,%{_pearname} - Driver based class to calculate holidays in USA,,1
+0,https://github.com/gnufs/logos.git,Different forms of the logo for fun and holidays,,1
+0,https://github.com/Harshad141/Assignment.git,Sandeep sengar sir work- Work from home(Corona holidays),,1
+0,https://github.com/maidis/tr-holidays.git,A simple tool showing the holidays between two dates,"chrono,modern-cpp,cpp,time,date,turkey,holidays,holiday,calendar",1
+0,https://github.com/xbelt/PictureBackup.git,A small application to facilitate backing up pictures during holidays,,1
+0,https://github.com/pld-linux/perl-Date-Japanese-Holiday.git,Date::Japanese::Holiday - calculate dates in the Japanese-Holiday calendar,,1
+0,https://github.com/dogenpunk/retail_holidays.git,A quick gem to check for retail holidays,,1
+0,https://github.com/DanailH/calendar-app-fe.git,Calendar that shows the official public holidays in a country,,1
+0,https://github.com/rizanzaky/PrayCalendar.git,A muslim prayer time calendar along with local holidays,,1
+0,https://github.com/pld-linux/perl-Date-Japanese-Holiday.git,Date::Japanese::Holiday - calculate dates in the Japanese-Holiday calendar,,1
+0,https://github.com/DanailH/calendar-app-fe.git,Calendar that shows the official public holidays in a country,,1
+0,https://github.com/rizanzaky/PrayCalendar.git,A muslim prayer time calendar along with local holidays,,1
+0,https://github.com/toru-takahashi/zendesk-holiday-schedules.git,Import Your Google Holiday calendar to Zendesk Holiday Schedules,"zendesk,zendesk-apps",1
+0,https://github.com/mikolajb/emacs-polish-holidays.git,"polish holidays for emacs calendar, polskie święta dla kalendarza emacsa",,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Austria.git,%{_pearname} - Driver based class to calculate holidays in Austria,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Japan.git,%{_pearname} - Driver based class to calculate holidays in Japan,,1
+0,https://github.com/funkydan2/aussie_school_holidays_skill.git,Alexa Skill to answer questions about Australian school holidays.,,1
+0,https://github.com/IMAGINARY/whenzel.git,A library for checking dates of recurring events and holidays,,1
+0,https://github.com/AndroidCourseMaterial/HolidayCursor.git,Example using holidays to demonstrate using Cursors and SimpleCursorAdapter,,1
+0,https://github.com/engg-aruny/JQueryUI-Calender-Disable.git,"Disable 2nd Saturday, 4th Saturday, public holidays and sundays",,1
+0,https://github.com/antonrifco/Coming-Holidays.git,Android Application to track nearest public and private Holidays,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Slovenia.git,%{_pearname} - Driver based class to calculate holidays in Slovenia,,1
+0,https://github.com/ucmagency/spiketime.git,"Simple wrapper around spiketime API, which provides german holidays",,1
+0,https://github.com/ashik112/holidays-app.git,Country-wise List of Global Holidays. (Ionic React),"ionic4,reactjs,javascript,css,ionic-react",1
+0,https://github.com/exo-addons/rh-requests-management.git,"Simplify human resource requests (Holidays, sick and leave requests) management",,1
+0,https://github.com/Frost/se.ceri.holidays.git,A WebOS app to keep track of swedish holidays,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Denmark.git,%{_pearname} - Driver based class to calculate holidays in Denmark,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Netherlands.git,%{_pearname} - Driver based class to calculate holidays in the Netherlands,,1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_Sweden.git,%{_pearname} - Driver based class to calculate holidays in Sweden,,1
+0,https://github.com/subteno-it/hr_holidays_timebank.git,OpenERP HR Module : Manage Time Bank (hr holidays),,1
+0,https://github.com/ericjiang97/micro-aushol.git,A Micro-service for Australian Holidays :sunrise_over_mountains:,,1
+0,https://github.com/AIDEA775/py-cal.git,A python script to generate calendars with birthdays and holidays,"python-3,calendar,python-script,py-cal,docopt,pillow,python3",1
+0,https://github.com/mwf/golidays.git,Golang crawler for getting dates of Russian holidays,,1
+0,https://github.com/FunbiOyede/Tripped.git,An Api for managing  itineraries for holidays and vacations,,1
+0,https://github.com/ninest/enlist.git,API for enlistment dates and public holidays in Singapore,"singapore,national-service,holidays,enlistment-dates",1
+0,https://github.com/Aikon77/Dark_Holidays.git,Alternative Holiday Adviser,,1
+0,https://github.com/shalnisundram/Holliglaze.git,Holliglaze: Holiday Baking App,,1
+0,https://github.com/freememory/holcal.git,Basic holiday calendar functionality,,1
+0,https://github.com/holidayhack/holidayhack.github.com.git,The Holiday Hack Project,,1
+0,https://github.com/greglarious/TwinkleTie.git,Twinkling Holiday Tie,"arduino,ws2812",1
+0,https://github.com/Venodez/DDHT.git,Doki Doki Holiday Time,,1
+0,https://github.com/LewisStrong/Assignment-1.git,LJMU Staff Holiday Requests,,1
+0,https://github.com/esnet/hhc19.git,SANS Holiday Hack 2019,,1
+0,https://github.com/sep/sep_holidays.git,Date#is_sep_holiday?,,1
+0,https://github.com/syzygypl/urlopy-app.git,Simple holiday management app,,1
+0,https://github.com/WangJiaYi0801/holiday-study.git,some codes in holiday,,1
+0,https://github.com/harlyon/Explore.git,Holiday Activity Explorer,,1
+0,https://github.com/mzinyisafaris/Adventure.git,HOLIDAY PRIVATE AFRICA ,,1
+0,https://github.com/lukewhitehouse/recess.git,Holiday management made simple,,1
+0,https://github.com/agrede/xmasOrn.git,Holiday Tree2 Ornament,,1
+0,https://github.com/amjil/holiday-data.git,Crawling holiday to Teradata,"teradata,jdbc,clojure,clj-time",1
+0,https://github.com/ypid/hc.git,Holiday converter tool,,1
+0,https://github.com/taintpro98/firework.git,For Tet holiday,,1
+0,https://github.com/rvinluan/hotel.git,"Hotel, Motel, Holiday Inn",,1
+0,https://github.com/nbarbettini/holidaycheer.xyz.git,Spreading holiday cheer,,1
+0,https://github.com/foxeyes/holiday-app.git,Holiday.js documentation site,,1
+0,https://github.com/JosephJvB/Enspired.git,A holiday art project,,1
+0,https://github.com/IanEsling/HvarHolidayRooms.git,Hvar Holiday Rooms,,1
+0,https://github.com/tangxueer/blog.git,2016 winter holiday mission,,1
+0,https://github.com/cmacharia/holiday-css-zen-garden.git,Holiday CSS Zen Garden,,1
+0,https://github.com/cedricwider/holidayscraper.git,Holiday scraper for Dällikon,,1
+0,https://github.com/steven-github/holidayApp.git,Holiday API + AngulaJS 1,,1
+0,https://github.com/tikyuu/python-google-calendar.git,Google Calendar API holiday,,1
+0,https://github.com/sathishnec/laravel.git,Web-based Holiday Management ,,1
+0,https://github.com/lkang/xm2011.git,2011 Holiday Greeting,,1
+0,https://github.com/filippo-fresilli/villina-scauri.git,My holiday house website.,"jekyll-theme,html5",1
+0,https://github.com/jmoonware/newsletter.git,Automated holiday newsletter generation,,1
+0,https://github.com/Thomas161/Holiday.io.git,Holiday Booking App,,1
+0,https://github.com/superactivWzj/2018-tosit.git,2018 summer holiday project,,1
+0,https://github.com/martindolinsky/projectGoodSchool.git,School holiday project,,1
+0,https://github.com/knowbee/rwa-holidays.git,🥂 NPM package for getting Rwanda holidays for a given year or determine if current date is a holiday,"rwanda,holidays,rwanda-holidays,konji",1
+0,https://github.com/suhaniji/Best-Deals-Shimla-manali-holiday-package.git,Book Your Holiday Shimla kullu manali holiday with us and make your holiday memorable call us for best deal.,,1
+0,https://github.com/the-krafty-koder/holiday_cards.git,An odoo module that sends custom holiday cards to recurrent clients during holidays to enhance customer loyalty.,,1
+0,https://github.com/Mrfactotum/Shift-o-matic.git,"A program that automatically schedules staff shifts based on holidays, hours on the shift, day/night shift, and other parameters. Exports printable calendars for staff as well as a full overview for supervisors","python,human-resources,shift-planning",1
+0,https://github.com/CCSudbury/GitTogether.git,"{""A git presentation originally for GDGSudbury's annual holiday party, repurposed for a regular meetup. This walkthrough should provide the basics for anyone to get started using git in their personal or open source projects""}",,1
+0,https://github.com/maha2490/like-so-christmas-2018.git,a delightfully fun holiday website,,1
+0,https://github.com/hlts2/goliday.git,Go library for japanese holiday,"holidays,japanese,japanese-holiday,japanese-holidays,hlts2,golang,golang-library,holiday-jp,holiday-japan,goliday-jp",1
+0,https://github.com/everyer-dev/holiday-notice.git,holiday notice automation with slack,,1
+0,https://github.com/elliotwainwright/First-Assignment.git,LJMU Staff Holiday Booking System,,1
+0,https://github.com/blackchip-org/tree-o-light.git,Holiday cheer with 10 LEDs,"arduino,leds,christmas",1
+0,https://github.com/Antynwa/Assignment-3.git,Assignment Three for Holiday Rails,,1
+0,https://github.com/simonrentzke/Silver-Ranch.git,A cool place to holiday,,1
+0,https://github.com/holidayextras/partner-api-docs.git,Holiday Extras Partner API Docs.,documentation,1
+0,https://github.com/sdp8483/Joule_Candle.git,Joule Thief Holiday Candle PCB,,1
+0,https://github.com/JBroks/holiday-planner.git,Code Institute - Holiday Planner Website,,1
+0,https://github.com/BrendanNguyenCS/HolidayExchanges.git,Basic holiday gift exchange application,,1
+0,https://github.com/eburley/jasmine.presentation.git,a presentation for holiday.js,,1
+0,https://github.com/rt400/Jewish-Holiday.git,HA Sensor for Jewish Holiday,,1
+0,https://github.com/elidoran/node-date-holidays.git,Store and compare holiday dates,,1
+0,https://github.com/CounterHack/HolidayHack2017.git,SANS Holiday Hack Challenge 2017,,1
+0,https://github.com/ashbourneholidayhomes/ashbourneholidayhomes.github.io.git,Website for ashbourne holiday homes.,,1
+0,https://github.com/glynastill/bank_holidays.git,Bank holiday functions for PostgreSQL.,,1
+0,https://github.com/kozmikkick/KozmiKKernel.git,HTC Vivid (Holiday/MSM-8660),,1
+0,https://github.com/stiegosaurus/union-holiday-card-2017.git,Union Creative Digital Holiday Card,,1
+0,https://github.com/MnemoniXs/MLHoliday.git,Magnetic Letters - Holiday Management App,,1
+0,https://github.com/eeclaire/advent-of-code.git,Holiday coding challenges! :christmas_tree:,,1
+0,https://github.com/elliotwainwright/LJMUHolidayBookingSystem.git,LJMU Staff Holiday Booking System,,1
+0,https://github.com/meghanni/islandretreat.rails.git,"{""Website for holiday cottage 'IslandRetreat'""}",,1
+0,https://github.com/wq19880601/akka_http_holiday.git,"akka http , holiday generate, curd",,1
+0,https://github.com/developerFranjfgcarmo/owner-property-management.git,Technical test Spain-Holiday.com,,1
+0,https://github.com/ejackson007/eveCalc.git,Print out the holiday eve,,1
+0,https://github.com/fschoening/Helligdage.NET.git,"Library to check whether or not a given DateTime is a Danish holiday (""helligdag""). The list of which holidays to account for can be set optionally. Also possible to generate a list of Danish holidays for a given year.",,1
+0,https://github.com/elliotwainwright/Assignment-1.git,LJMU Staff Holiday Booking System,,1
+0,https://github.com/TomElZ/FirstAssignment.git,LJMU Staff Holiday Request Site,,1
+0,https://github.com/SViccari/holiday-card-activity.git,Create a Holiday Greeting Card,,1
+0,https://github.com/elliotwainwright/C3LJMUStaffHolidays.git,LJMU Staff Holiday Booking System,,1
+0,https://github.com/guibranco/GuiStracini.HolidayAPI.git,The Holiday API .NET client,"csharp,holidayapi,holidayapi-nuget,nuget,client-wrapper,holiday-api,dotnet,dotnet-core,holiday,api,sdk,dotnet-framework",1
+0,https://github.com/elliotwainwright/LJMUHolidays.git,LJMU Staff Holiday Booking System,,1
+0,https://github.com/kathicks/where.git,Holiday Picker built using Flask,codefirstgirls,1
+0,https://github.com/Holidaysat/Tour-Packages.git,"Tour packages in India - find best holidays & tour packages in India on Holidays At India and get discounted deals on India holiday packages, you can also customize tour packages as per your convenience & needs",,1
+0,https://github.com/elliotwainwright/LJMUStaffHolidayBookingSystem.git,LJMU Staff Holiday Booking System,,1
+0,https://github.com/newgrounds/Java-Holiday-Card.git,A nice holiday card in Java complete with options to mess around with the lights on the tree.,,1
+0,https://github.com/SyncfusionExamples/xamarin-calendar-getting-started.git,This example explains how to implement simple holiday indicator application which allows user to select working days using SfCalendar control.,,1
+0,https://github.com/gisce/electrical_calendar.git,Electrical sector holidays and workdays using workalendar. Spain and Portugal data,,1
+0,https://github.com/digitalnatives/redmine_special_days.git,"A Redmine plugin to handle special days like weekends, holidays etc. - NOT MAINTAINED",,1
+0,https://github.com/pld-linux/pal.git,A command line calendar that displays holidays and user-defined events,,1
+0,https://github.com/vilasp29/WormGameProject.git,A game that I developed with my son during Easter holidays.,,1
+0,https://github.com/qinst64/chinaholiday.git,"a python library for Chinese (public) holidays. 中国节假日, 工作日.",,1
+0,https://github.com/gytdau/holiday-thingy.git,"{""A Slack integration that tracks your employee's holidays through Google Calendar and API.ai.""}",,1
+0,https://github.com/pishija/PravoslavenKalendar.git,А simple iOS app that displays the religious holidays from the Macedonian Orthodox calendar.,,1
+0,https://github.com/littlevietnamtours/vietnam-tours.git,"vietnam tours, vietnam travel, travel to vietnam, vietnam holidays, vietnam vacations",,1
+0,https://github.com/hroptatyr/thh.git,"trading hours and holidays, or how to track rule-based recurring and one-off events efficiently",,1
+0,https://github.com/Natim/elm-workalendar.git,a pure Elm library for computing French holidays for a given year.,,1
+0,https://github.com/CSBLatvia/SA-cal-reg-LV.git,Calendar regressors for seasonal and calendar adjustment calculated according to the national holidays of Latvia,,1
+0,https://github.com/mheadd/federal-holidays.git,Quickly get a list of federal holidays from the OPM website,,1
+0,https://github.com/AlphaX2/Freiertag.git,MeeGo Harmattan application that shows german holidays. Created with PySide/QML,,1
+0,https://github.com/sgladstone/calendar.git,"Fork of the Drupal Calendar module. Has support for displaying Hebrew dates, holidays, and more",,1
+0,https://github.com/timschlechter/schoolholidays-ical-lambda.git,AWS Lambda function which serves an iCal file containing all Dutch school holidays,,1
+0,https://github.com/froderik/svenska-typer.git,"A Java library with support for swedish types like ""personnummer"" and swedish bank holidays.",,1
+0,https://github.com/AlphaX2/Freiertag.git,MeeGo Harmattan application that shows german holidays. Created with PySide/QML,,1
+0,https://github.com/sgladstone/calendar.git,"Fork of the Drupal Calendar module. Has support for displaying Hebrew dates, holidays, and more",,1
+0,https://github.com/timschlechter/schoolholidays-ical-lambda.git,AWS Lambda function which serves an iCal file containing all Dutch school holidays,,1
+0,https://github.com/DerrickJames/holidays.git,A simple PHP class to calculate which days are Kenyan public holidays for a given year.,,1
+0,https://github.com/ceccode/lumen-holidays-microservice.git,Microservice developed in Lumen for get public holidays of many countries.,,1
+0,https://github.com/ScH88/html-page-with-json.git,"A short html page that utilizes a Json page for listing (in this example, holidays)",,1
+0,https://github.com/cleankod/colliding-holidays.git,A simple web application for finding next colliding holidays for given countries and date.,,1
+0,https://github.com/beingfranklin/Public-Holidays-of-the-World.git,🌏 Program for viewing and processing Public Holidays of different countries built on date.nager.at API,"haskell,api",1
+0,https://github.com/Clusters/musiccast_alarm.git,Music alarm for Yamahas Musiccast system. Aware of holidays and weekends,"yamaha,yamaha-musiccast,musiccast,music,alarm,radio,smart",1
+0,https://github.com/pld-linux/php-pear-Date_Holidays_EnglandWales.git,%{_pearname} - Driver based class to calculate holidays in England and Wales,,1
+0,https://github.com/maikerumine/mt_seasons.git,Seasons for Minetest using texture override and some decorative nodes for the holidays.,,1
+0,https://github.com/pinsondg/SlackHolidays.git,A project that finds company holidays and notifies people in slack.,,1
+0,https://github.com/ppelgrims/belgian-holidays.git,A mixin for Carbon to provide the dates of Belgian Holidays,,1
+0,https://github.com/brandesmoore/policecalls.git,A look  into the frequency of Metro Nashville police calls on specific holidays,,1
+0,https://github.com/munemglobal/Sweet-Christmas-recipes.git,"Enjoy you Christmas and New Year holidays with the best cake, pie, cookies, etc. recipes",,1
+0,https://github.com/madonius/timewarrior-german-holidays.git,A timewarriror provider for german holidays from https://ipty.de/feiertag/,,1
+0,https://github.com/elmasbestia/rogLib.git,"JS Object for various purposes: calendar management, Date management (with Holidays, etc.), etc.;",,1
+0,https://github.com/kstudent/weekend-agenda.git,provides an org-agenda view that only shows weekends / holidays / workdays,,1
+0,https://github.com/jbacque/season-holidays.git,A website showing some sample holidays and what season they are in.,,1
+0,https://github.com/Pythe1337N/swedish-holidays.git,Library for calculating the date of all swedish holidays for any given year.,,1
+0,https://github.com/aghezzafmohamed/Data-Analysis-with-SQLite.git,"Collect holidays from api, migrate data to SQLite and analyse them with SQLite queries","python,sqlite,data-a,api",1
+0,https://github.com/Rossiroad/Black-Jack.git,A simplified game of blackjack which I made over the summer holidays.,,1
+0,https://github.com/camackley/get-holdays-colombia.git,"This basic project, return a list with a Colombian holidays of 2020",,1
+0,https://github.com/vajiralasantha/PHP-NZHolidays.git,A light weight PHP class that can calculate public holidays in New Zealand.,,1
+0,https://github.com/dsamojlenko/Jquery-BD-Datepicker.git,JQuery Datepicker wrapper that can disable and account for holidays and weekends,,1
+0,https://github.com/vasnake/weekends.git,Weekends and holidays from http://data.gov.ru/opendata/7708660670-proizvcalendar,,1
+0,https://github.com/Tafby/FMLA-Calculator.git,This tool will count 12 weeks from the selected date not including weekends or holidays.,,1
+0,https://github.com/olilogic77/business_time_calc.git,"Calculate business time between two date/times, removing weekends and public holidays for the given state",,1
+0,https://github.com/rramosgit/ProgrammingExercise-.git,"Web‐based application that displays a monthly calendar loading holidays from an API , http://holidayapi.com/",,1
+0,https://github.com/ronderksen/schoolvakanties.git,A small serverless script to generate iCal data from opendata.rijksoverheid.nl for Dutch school holidays,,1
+0,https://github.com/varadchoudhari/GraphQL-India-Public-Holidays-API-Server.git,A simple GraphQL API server for Public Holidays in India (2018-2019),"graphql,express,nodejs,axios,json-server,india",1
+0,https://github.com/angel-penchev/PythonSummerTasks2018.git,Repository (Portfolio) containing all the projects and programming tasks assigned for the summer holidays of 2018.,"python,renpy,pygame,computer-science,portfolio",1
+0,https://github.com/samtregar/python-holidays-plus.git,Enhanced add-on for the Python-Holidays library offering expanded functionality,,1
+0,https://github.com/olilogic77/business_time_calc.git,"Calculate business time between two date/times, removing weekends and public holidays for the given state",,1
+0,https://github.com/rramosgit/ProgrammingExercise-.git,"Web‐based application that displays a monthly calendar loading holidays from an API , http://holidayapi.com/",,1
+0,https://github.com/ronderksen/schoolvakanties.git,A small serverless script to generate iCal data from opendata.rijksoverheid.nl for Dutch school holidays,,1
+0,https://github.com/Rasstegt/Calendar.git,"Calendar using HTML, JS, CSS and pulling Canadian holidays from JSON",,1
+0,https://github.com/jasonliz85/PartnerManage.git,"{""This project allows shop-floor managers @ JL manage partner's Rotas and Holidays""}",,1
+0,https://github.com/abhijeet65/Java-tomcat-library-management.git,"Java project made in holidays with JSP,,MySql,Tomcat server and Servlet .",,1
+0,https://github.com/Kaytbode/holsfinderapi.git,A rest API to find national holidays of country by month,,1
+0,https://github.com/jbtcd/holidays.git,A simple PHP library to work with all the holidays in the world.,,1
+0,https://github.com/hasclass/date_ext.git,"date extensions helps you work with weekdays, workdays, holidays, months, weeks, etc.",,1
+0,https://github.com/maxgalloway/Abacus_for_the_Rest_of_Us.git,"The ""Abacus For The Rest Of Us"" does for calculators, what Festivus did for holidays.",,1
+0,https://github.com/umulmrum/HolidayBundle.git,A Symfony integration bundle for umulmrum/holiday,,1
+0,https://github.com/SahilKang/advent-of-code-2020.git,Holiday fun: https://adventofcode.com/2020,,1
+0,https://github.com/DanailH/calendar-app-be.git,Backend for the holiday calendar app,,1
+0,https://github.com/oilandsugar/neoliday-greetings.git,Collaboratively find new and improved holiday greetings,,1
+0,https://github.com/begunfx/CST205_ThanksGCard.git,CSUMB: CST205 Thanksgiving Holiday Card Group Project,,1
+0,https://github.com/schigh/convert2code-holiday-hack.git,Lessons for the convert2code 2018 Holiday Hackathon,,1
+0,https://github.com/wrenliang/Charades-Xmas-2019.git,Holiday Fun ❄️☃️❄️!! Customizable Charades game for iPhone,,1
+0,https://github.com/cf12/hack-club-competition-2018.git,🎁 Hack Club Holiday Challenge Submission (2018),,1
+0,https://github.com/PluralLabs/Auto-Delegate-Future-Activities-On-Holidays.git,Auto-Delegate Future Activities on Holidays which allows the user to Auto-Delegate his workflow activities to another user before going for holiday vacation,,1
+0,https://github.com/Chrissy/gimme-presents.git,The most sarcastic holiday list builder,,1
+0,https://github.com/Shadowed/ScreenShadow.git,Silly holiday addon for in-game,,1
+0,https://github.com/john-r2/HolidayHackLessonized.git,Lessons built on the Holiday Hack Challenges,,1
+0,https://github.com/adraclub/adraclub.github.io.git,:computer: Adra Club Holiday Homes Web Site,,1
+0,https://github.com/smsoftu/dominicana.git,Photos and videos from Dominicana holiday 2010,,1
+0,https://github.com/tonypeng/cryptomas-public.git,Create holiday-themed cryptocurrency gift cards! 🎅,,1
+0,https://github.com/lonniefranklin/HolidayCalendar.git,Helpful US holiday class and DateTime extensions,,1
+0,https://github.com/JohnMcLear/My-School-Holidays-Android-Widget.git,School Holiday dates widget for Android,,1
+0,https://github.com/misslivirose/HoloBooth.git,A Holiday PhotoBooth App for HoloLens,,1
+0,https://github.com/deckerXL/SANSHolidayHackChallenge2019.git,KringleCon 2 - Holiday Hack Challenge 2019,,1
+0,https://github.com/josechenn/national-holiday.git,open source for indonesia national holiday data,,1
+0,https://github.com/adam-handke/PerpetualCalendar.git,Simple Android app for calculating holiday dates,,1
+0,https://github.com/outdamud/GRINGCOIN.git,the trombone dances in east holiday,,1
+0,https://github.com/Shadowed/ScreenShadow.git,Silly holiday addon for in-game,,1
+0,https://github.com/Chrissy/gimme-presents.git,The most sarcastic holiday list builder,,1
+0,https://github.com/john-r2/HolidayHackLessonized.git,Lessons built on the Holiday Hack Challenges,,1
+0,https://github.com/adraclub/adraclub.github.io.git,:computer: Adra Club Holiday Homes Web Site,,1
+0,https://github.com/letsjump/workday-helper-php.git,Count work days and list holiday events in a range of dates with PHP taking care of public holidays and other custom closing days.,,1
+0,https://github.com/techyowl/Holiday.js.git,Holiday.js is a holiday detection library that uses a JSON object to detect when the holiday has occurred and what data to associate with it.,,1
+0,https://github.com/DrivenLogic/droid-holiday.git,Android app for Holiday by MooresCloud,,1
+0,https://github.com/CJAndrade/Holiday-Wreath-Automation.git,Holiday Wreath Automation using Arduino MKR1000,,1
+0,https://github.com/verath/holiday-hack-2017.git,Writeups for SANS Holiday Hack Challenge 2017,,1
+0,https://github.com/JannieT/dice_roller.git,"{""Me and Daniel's holiday project""}",,1
+0,https://github.com/adraclub/jekyll-hotel-adraclub.git,Adra Club Holiday Homes Web Site Project,,1
+0,https://github.com/joshpsawyer/food.git,Recipes & notes about holiday planning & festivals,,1
+0,https://github.com/alichur/google-drive-scripts.git,For organising my holiday pics and videos,,1
+0,https://github.com/gregn610/dimcal.git,Dim Calendar public holiday data in SQL,,1
+0,https://github.com/Laurencarne/Travel_Plan.git,Module Three Project. Holiday Planning App.,,1
+0,https://github.com/Bdaman80/BDA-Vivid.git,Kernel For the HTC Vivid/Holiday,,1
+0,https://github.com/DrJosh9000/holiday_experiments.git,Experiments with the Holiday (by MooresCloud),,1
+0,https://github.com/benmoose/tripplanner.git,TripPlanner platform for collaborative holiday planning :),"django,django-rest-framework,react,redux,sass,webpack",1
+0,https://github.com/sbcas/saltmas.git,A modern holiday for a modern time,,1
+0,https://github.com/GianluigiVitale/ajax-ex-calendar.git,Holiday calendar of 2018 made with MomentJS.,,1
+0,https://github.com/chuhelan/Android_Study.git,Android Study in winter holiday online,,1
+0,https://github.com/sourcescript/juan-holiday.git,A holiday API for the Philippines,,1
+0,https://github.com/a-h/alarmclock.git,"Alarm clock holiday project, written in React.",,1
+0,https://github.com/takuo/JPClockWidget.git,Clock widget with Japanese holiday for SmartScreen,,1
+0,https://github.com/moorescloud/HolidayTest1.git,Holiday Test Windows app for factory testing,,1
+0,https://github.com/nens90/skiPi.git,LED solution for Raspberry Pi ski holiday.,,1
+0,https://github.com/kxz18/SkyFight.git,"A plane game, summer holiday homework",,1
+0,https://github.com/jplao/quirky_calendar_fe.git,The front-end of a 4 day solo take-home challenge that creates a listing of fun holidays.  Users can login to save their favorite holidays and be notified when they are approaching.,,1
+0,https://github.com/fricto/date-calculator.git,"{""Javascript module for calculating dates based on durations, or durations based on dates. Also includes a module to calculate holidays for given years (currently calculates the 10 United States federal holidays plus Inauguration Day - but can include other country's holidays in the future).""}",,1
+0,https://github.com/jplao/quirky_calendar_be.git,The back-end of a 4 day solo take-home challenge that creates a listing of fun holidays.  Users can login to save their favorite holidays and be notified when they are approaching.,,1
+0,https://github.com/gschandler/Gemma_Santa_Hat.git,Adafruit Gemma + NeoPixel and a Santa Hat makes to brighten the holidays in the most Geeky manner.,,1
+0,https://github.com/SourabhSaraswat-191939/Mess_Management.git,manage account and information of students taking food to save food and save student money of holidays.,,1
+0,https://github.com/OlgaPuntous/KayakProject.git,Kayak project shows how to perform scraping of meteo and hotels to choose best destination for your holidays! Enjoy!,,1
+0,https://github.com/HotFusionMan/holidays_ics_maker.git,"Convert a plain text list of holidays into a .ics file for easy importing into iCal, Outlook, etc.",,1
+0,https://github.com/PescheHelfer/MovieCompressor.git,"Compresses movies, maintaing as much of the metadata as possible, especially dates. Made for short movies shot in holidays etc.","video,compression,exif-metadata,exiftool,ffmpeg,metadata",1
+0,https://github.com/softwareforsapiens/magento2-countdown-banners.git,"A Magento 2 extension for adding banners with countdown timers for special promotions, holidays, and/or limited offers.",,1
+0,https://github.com/AddPay/google-holidays.git,"{""A PHP package to assist in retrieving a country's year holidays from Google Calendar API's.""}",,1
+0,https://github.com/Artlysenka/NewYearCalculator.git,Small calculator to calculate New Year tours that we used to sell in our company during winter holidays.,,1
+0,https://github.com/3dd13/hong-kong-public-holidays.git,"Scrape Hong Kong Gov Public Holidays Website. Provides group by year display and csv, xml download format",,1
+0,https://github.com/karthikeyann/irctc_alert_google_calendar.git,Create events before # (120 or 90 ) days in google calendar to alert to book ticket for holidays in IRCTC,"irctc,google-calendar,book-tickets,alert",1
+0,https://github.com/dylanegan/packer.js.git,"Not just for holidays, but for packing and unpacking to and from binary sequences in node.js.",,1
+0,https://github.com/TheZooo/Personal_Code_Zooo.git,Code that I did on my own using the knowledge I learned (usually during on breaks or holidays).,,1
+0,https://github.com/chas-iot/calendar.git,"An addon for the WebThings IoT Gateway that provides calendar management of the working week, holidays, and other event dates.",,1
+0,https://github.com/elenalape/quickfox.git,A travel app that allows you to plan and buy holidays with your friends. HackCambridge 2017 entry.,,1
+0,https://github.com/Zarganwar/datetime-utils.git,"Check and correct datetime if hour is between required times and can respects holidays, easters, weekends (localized for CZ, SK)",,1
+0,https://github.com/FHellmann/Holidays.git,Calculate the holidays of a country at runtime. No need to parse some special websites with these dates.,,1
+0,https://github.com/LaocheXe/Falling-Holidays-eXeSystem.git,This will allow an e107 admin to add a menu to their website and allow falling images for different holidays.,,1
+0,https://github.com/JCarlosGMarias/ArbolazoBot.git,"{""Doesn't like holidays, so it throws you a tree every time you mention them (or the enjoyment seal)""}",,1
+0,https://github.com/tayvc/magento2-countdown-banners.git,"A Magento 2 extension for adding banners with countdown timers for special promotions, holidays, and/or limited offers.",,1
+0,https://github.com/anthonySchafrik/gift-giving-elephant.git,This is a White Elephant Gift app for my friends and family to use around the holidays. ,,1
+0,https://github.com/countryholiday01/Country-holidays-inn-suites-.git,Country  Holidays Inn and Suites Membership give a wide scope of occasion participation plans for its clients.,,1
+0,https://github.com/rsolanoweb/holidays-es.git,A small Python package to obtain the public holidays in Spain from 2006 to the current year.,,1
+0,https://github.com/bhjolly/hours.git,"{""Calculate how many 'working' hours are left in a month or FY, accounting for stat holidays and leave""}",,1
+0,https://github.com/jfsso/dashclock-holidays.git,A DashClock Widget extension that displays the current holiday,,1
+0,https://github.com/Aschowin/LEDs.git,My take on BRUH AUTOMATION and Snipercaine Holiday LED setups,,1
+0,https://github.com/teamhackback/lofi.git,Find your dream destination for your next holiday,,1
+0,https://github.com/amit0805kumar/Vacanza_2018.git,Website for an annual summer holiday event of CSI,,1
+0,https://github.com/CarterCodesRSA/ResortApp.git,A holiday resort app built in React with Contentful,,1
+0,https://github.com/pblasucci/Giftee.git,A small tool for family holiday non-sense.,,1
+0,https://github.com/zapnap/holidaytweets.git,Simple Twitter aggregator app for Calypso holiday party,,1
+0,https://github.com/jorgebaptista/jam-pendulum.git,Game submission to the Extra Credits 2018 holiday game jam.,"2d-game,unity,sidescroller,pixel-art,platformer,puzzle-game,time,jam,game,gamejam,itchio",1
+0,https://github.com/CowCheng/simple-scrapy-HK-holiday.git,A simple spider to scrap the Hong Kong public holiday ,,1
+0,https://github.com/ddpatidar/holiday-deals-api.git,An API to create and keep track of holiday deals!,,1
+0,https://github.com/susannej/holiday-planner.git,A holiday-planner for small companies or teams,,1
+0,https://github.com/Flickwire/HolidayCraft.git,Adds a bunch of holiday themed stuff to minecraft,,1
+0,https://github.com/GuoDangLang/CSAPP.git,The homework of CSAPP I finished during my holiday.,,1
+0,https://github.com/nkaminski/holidaylightshow.git,xLights sequence files for my holiday light shows,,1
+0,https://github.com/HeladoDeBrownie/Caves-of-Qud-Festive-Trees.git,*Spruce* up Qud with festive decorations for the holiday season!,"caves-of-qud,game,mod",1
+0,https://github.com/zmyyouyu/SE18-web.git,SJTU Software Engineering project of Summer holiday of 2020.,,1
+0,https://github.com/Kafang/rocketsienc.git,numerical ascent profile optimisation with python (holiday project),"rocket,python,ascend,numerical-integration,numerical",1
+0,https://github.com/vaevictis/montecristo.git,ios app to simply share expenses during holiday,,1
+0,https://github.com/nss-daycohort11/holiday-card-bbm.git,holiday-card-bbm created by Classroom for GitHub,,1
+0,https://github.com/pipelineoptika/holiday-cpu-meter.git,A simple CPU meter for Holiday by MooresCloud,,1
+0,https://github.com/thunderdome-data/kitchenpop.git,Four ways to make holiday magic with your microwave,,1
+0,https://github.com/IBMPredictiveAnalytics/IsHoliday.git,Enrich your date data with holiday calendars from different countries,,1
+0,https://github.com/jkimbo/portugal.git,A small website to host my holiday to Portugal,,1
+0,https://github.com/bocajspear1/to-be-present.git,A game for the Extra Credits Holiday 2018 Game Jam,,1
+0,https://github.com/arvidboivie/roddag.nu.git,röddag.nu - shows you when the next swedish holiday is.,,1
+0,https://github.com/shane87/linux_holiday-ics.git,Linux Kernel 3.0.16 for HTC Holiday/Vivid/Raider,,1
+0,https://github.com/lemmor/Holiday.git,c# library to exclude holiday dates and weekend in range,,1
+0,https://github.com/Timothee/Merry-Twilsmas-.git,Small project for a holiday-themed Twilio contest,,1
+0,https://github.com/Mindez/RandomHoliday.git,"{""We're all goin' on a random holiday.""}",,1
+0,https://github.com/abhijeet65/python-tutorials.git,All python codes coded in holiday using ubuntu,,1
+0,https://github.com/usedtobemeonce/tourville-app.git,This is a sample page for an imaginary holiday agency.,,1
+0,https://github.com/dfm/adventofcode.git,"{""Holiday hacking because I'm a nerd. Haskell edition.""}","advent-of-code,advent-of-code-2020,haskell",1

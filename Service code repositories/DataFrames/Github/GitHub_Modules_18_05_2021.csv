@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/webpack/webpack.git,"A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through ""loaders"", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.","webpack,javascript,module-bundler,loaders,plugins,build-tool,web,web-performance,compiler,javascript-compiler,commonjs,amd,esm,es6,es2015,javascript-modules",58229
+0,https://github.com/chrislgarry/Apollo-11.git,Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.,"agc,nasa,apollo,hacktoberfest",50800
+0,https://github.com/nwjs/nw.js.git,Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.,"web-application-framework,javascript,desktop,node-webkit,nwjs,nodejs",38109
+0,https://github.com/Tencent/weui.git,"A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.","weui,wechat,mobile-web,style",25661
+0,https://github.com/pure-css/pure.git,"A set of small, responsive CSS modules that you can use in every web project.","css,pure,html",21689
+0,https://github.com/rollup/rollup.git,Next-generation ES module bundler,,20198
+0,https://github.com/lovell/sharp.git,"High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.","javascript,webp,image-processing,jpeg,png,nodejs,tiff,svg,typical,libvips,exif,icc,image,performance,crop,resize,overlay,sharp,avif",19662
+0,https://github.com/parse-community/parse-server.git,API server module for Node/Express,"parse-server,parse-platform,mongodb,postgres,graphql,baas,backend,rest-api,object-storage,nodejs,graphql-api,mbaas,relay,graphql-server,graphql-relay,file-storage,notifications,hacktoberfest",18614
+0,https://github.com/css-modules/css-modules.git,Documentation about css-modules,,14941
+0,https://github.com/spotify/luigi.git,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. ","python,luigi,orchestration-framework,scheduling,hadoop",14542
+0,https://github.com/MichMich/MagicMirror.git,"MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.","magicmirror,javascript,raspberry-pi,smarthome,mirror,domotics",14454
+0,https://github.com/Tencent/weui-wxss.git,"A UI library by WeChat official design team, includes the most useful widgets/modules.","weui,wxss",13722
+0,https://github.com/requirejs/requirejs.git,A file and module loader for JavaScript,,12685
+0,https://github.com/aurelia/framework.git,"The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.","aurelia-framework,javascript,typescript,single-page-applications,framework,spa,cross-platform,web,html,mobile",11603
+0,https://github.com/systemjs/systemjs.git,Dynamic ES module loader,,11483
+0,https://github.com/Ramotion/animated-tab-bar.git,:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion,"swift,ios,library,ui,animation,material-design",10756
+0,https://github.com/react-toolbox/react-toolbox.git,"{""A set of React components implementing Google's Material Design specification with the power of CSS Modules""}","material-design,react,ui-kits,css-modules",8696
+0,https://github.com/gotwarlost/istanbul.git,"Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale.",,8420
+0,https://github.com/seajs/seajs.git,A Module Loader for the Web,,8148
+0,https://github.com/clips/pattern.git,"Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.","python,machine-learning,natural-language-processing,web-mining,wordnet,sentiment-analysis,network-analysis",7935
+0,https://github.com/facebook/buck.git,"A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.","build-tool,java,python,android,ios,buck",7871
+0,https://github.com/microsoft/react-native-code-push.git,React Native module for CodePush,"react-native,codepush,code-push",7540
+0,https://github.com/react-native-image-picker/react-native-image-picker.git,:sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.,"react-native,image-picker,picker",7084
+0,https://github.com/umdjs/umd.git,UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.,,6833
+0,https://github.com/trentm/node-bunyan.git,a simple and fast JSON logging module for node.js services,,6629
+0,https://github.com/opencv/opencv_contrib.git,"{""Repository for OpenCV's extra modules""}",opencv,6588
+0,https://github.com/ChenYilong/CYLTabBarController.git,"[EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自带红点角标，支持动态刷新。【iOS13 & Dark Mode  & iPhone XS MAX supported】","tabbar,cocoapods,swift,ui,ios,xib,storyboard,view,uikit,xcode,lottie,lottie-ios,animation,animation-library,tabbarcontroller,objective-c,objc,ios13,darkmode",6490
+0,https://github.com/node-fetch/node-fetch.git,A light-weight module that brings the Fetch API to Node.js,"fetch,http,http-client,node-fetch,fetch-api,whatwg,whatwg-fetch,spec-compliant,stream,promise,hacktoberfest",6390
+0,https://github.com/developit/microbundle.git,📦 Zero-configuration bundler for tiny modules.,"bundle,module-bundler,build,microlib,rollup,tiny-modules,umd",6078
+0,https://github.com/bendc/animateplus.git,A+ animation module for the modern web,"animation,css,svg,javascript,motion,design",5764
+0,https://github.com/Uberi/speech_recognition.git,"Speech recognition module for Python, supporting several engines and APIs, online and offline.","python,audio,speech-recognition,speech-to-text",5623
+0,https://github.com/alexazhou/VeryNginx.git," A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards. ",,5606
+0,https://github.com/neon-bindings/neon.git,Rust bindings for writing safe and fast native Node.js modules.,,5409
+0,https://github.com/insin/nwb.git,"A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)","toolkit,react,preact,inferno,react-component,npm-module,webpack,babel,karma,javascript",5331
+0,https://github.com/GoogleChromeLabs/sw-precache.git,[Deprecated] A node module to generate service worker code that will precache specific resources so they work offline.,"javascript,service-workers,progressive-web-app,offline,offline-first,service-worker",5292
+0,https://github.com/popcorn-time/popcorn-app.git,An experiment using the peerflix module of nodejs and connecting a bunch of APIs.,,5225
+0,https://github.com/gajus/react-css-modules.git,Seamless mapping of class names to CSS modules inside of React components.,,5209
+0,https://github.com/rails/webpacker.git,Use Webpack to manage app-like JavaScript modules in Rails,"rails,javascript,yarn,webpack,frontend,hacktoberfest",5100
+0,https://github.com/asweigart/pyautogui.git,A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.,,5076
+0,https://github.com/goproxy/goproxy.cn.git,The most trusted Go module proxy in China.,"goproxy,go,module,proxy,china",5018
+0,https://github.com/kardianos/govendor.git,Use Go Modules.,"go,golang,vendor",5011
+0,https://github.com/ds300/patch-package.git,Fix broken node modules instantly  🏃🏽\u200d♀️💨,"javascript,javascript-tools,nodejs,node,node-js,node-modules,patch,patcher,diff,dependencies,dependency-manager,package-manager,package-management,postinstall",5003
+0,https://github.com/gruntwork-io/terragrunt.git,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,"terraform,devops,cli,aws,developer-tools",4992
+0,https://github.com/mikaelbr/node-notifier.git,"A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)","javascript,notification-center,growl,node-notifier,notification,toasters,nodejs,hacktoberfest",4969
+0,https://github.com/standard-things/esm.git,"{""Tomorrow's ECMAScript modules today!""}","es6,es6-modules,esmodules,esm,nodejs",4938
+0,https://github.com/krakenjs/kraken-js.git,An express-based Node.js web application bootstrapping module.,"javascript,krakenjs,expressjs,middleware",4912
+0,https://github.com/pahen/madge.git,"Create graphs from your CommonJS, AMD or ES6 module dependencies","graphviz,graph,amd,commonjs,es6,sass,stylus,less,dependencies,madge",4895
+0,https://github.com/goproxyio/goproxy.git,A global proxy for Go modules.,"golang,proxy,module,go,goproxy",4773
+0,https://github.com/igorwojda/android-showcase.git,"💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...","kotlin,android,kotlin-coroutines,clean-architecture,mvvm,android-application,best-practices,architecture,jetpack,gradle",4713
+0,https://github.com/voidcosmos/npkill.git,"List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.","npm,typescript,cli,node,module,developer-tools,tool,nodejs",4566
+0,https://github.com/react-ga/react-ga.git,React Google Analytics Module,"react,google-analytics,react-google-analytics,javascript",4479
+0,https://github.com/google/glog.git,C++ implementation of the Google logging module,,4464
+0,https://github.com/martinblech/xmltodict.git,Python module that makes working with XML feel like you are working with JSON,,4394
+0,https://github.com/mscdex/ssh2.git,SSH2 client and server modules written in pure JavaScript for node.js,,4393
+0,https://github.com/apache/incubator-pagespeed-ngx.git,Automatic PageSpeed optimization module for Nginx,pagespeed,4287
+0,https://github.com/primus/primus.git,":zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.","javascript,real-time,websocket,framework,sockjs,browserchannel,polling,http,nodejs,node",4246
+0,https://github.com/node-apn/node-apn.git,:calling: Apple Push Notification module for Node.js,,4203
+0,https://github.com/OmkarPathak/pygorithm.git,A Python module for learning all major algorithms,"algorithms,data-structures,python3,modules",4195
+0,https://github.com/rustwasm/wasm-bindgen.git,Facilitating high-level interactions between Wasm modules and JavaScript,"wasm,javascript,rust,binding-generator,rust-wasm",4191
+0,https://github.com/amdjs/amdjs-api.git,Houses the Asynchronous Module Definition API,,4185
+0,https://github.com/Nuitka/Nuitka.git,"{""Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. ""}","python-compiler,python,nuitka,programming,compiler,packaging-tool,performance",4173
+0,https://github.com/raspberrypi/firmware.git,"This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.",,4148
+0,https://github.com/blueimp/JavaScript-MD5.git,"JavaScript MD5 implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.",,4127
+0,https://github.com/taichi-framework/TaiChi.git,"A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 11.","taichi,xposed,android,taichi-framework,non-root,xposed-framework",4127
+0,https://github.com/developit/workerize.git,🏗️ Run a module in a Web Worker.,"web-worker,web-workers,threading",4034
+0,https://github.com/alibaba/BeeHive.git,":honeybee: BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid coupling between modules.","beehive,registered-services,modular,ios,service,module,service-discovery,service-registration,lifecycle,lifecycle-events,plugin",4000
+0,https://github.com/tj/node-prune.git,"Remove unnecessary files from node_modules (.md, .ts, ...)",,3997
+0,https://github.com/jazzband/tablib.git,"Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.",,3952
+0,https://github.com/mjavascript/mastering-modular-javascript.git,"📦 Module thinking, principles, design patterns and best practices.","book,book-series,javascript,modules,packages,modular",3942
+0,https://github.com/swagger-api/swagger-node.git,Swagger module for node.js,"swagger,swagger-node,swagger-api,javascript,rest,rest-api,openapi-specification",3864
+0,https://github.com/onqtam/awesome-cmake.git,"A curated list of awesome CMake resources, scripts, modules and examples.","cmake,cmake-resources,cmake-scripts,cmake-modules,cmake-toolchains,cmake-examples,awesome-list,awesome,list",3685
+0,https://github.com/nWidart/laravel-modules.git,Module Management In Laravel,"laravel-modules,laravel,architecture,php,hacktoberfest",3566
+0,https://github.com/amir20/phantomjs-node.git,PhantomJS integration module for NodeJS,"phantomjs,nodejs,phantomjs-process,javascript",3546
+0,https://github.com/gomods/athens.git,A Go module datastore and proxy,"golang,dependencies,package-control,proxy-server,dependency-manager,package-manager,go-modules,goproxy,go,athens,proxy",3536
+0,https://github.com/rasbt/mlxtend.git,"{""A library of extension and helper modules for Python's data analysis and machine learning libraries.""}","python,machine-learning,data-science,data-mining,association-rules,supervised-learning,unsupervised-learning",3486
+0,https://github.com/nervgh/angular-file-upload.git,[ALMOST NOT MAINTAINED] Angular File Upload is a module for the AngularJS framework,angular-file-upload,3484
+0,https://github.com/react-native-webrtc/react-native-webrtc.git,The WebRTC module for React Native,"webrtc,react,react-native",3449
+0,https://github.com/gaearon/react-transform-boilerplate.git,"A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.",,3422
+0,https://github.com/oauthjs/node-oauth2-server.git,"Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js",oauth2-server,3421
+0,https://github.com/cirosantilli/x86-bare-metal-examples.git,Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置,"x86,x64,x86-64,bare-metal,baremetal,assembly",3343
+0,https://github.com/loveshell/ngx_lua_waf.git,ngx_lua_waf是一个基于lua-nginx-module(openresty)的web应用防火墙,,3330
+0,https://github.com/drathier/stack-overflow-import.git,Import arbitrary code from Stack Overflow as Python modules.,"stackoverflow,import",3311
+0,https://github.com/cuber/ngx_http_google_filter_module.git,Nginx Module for Google Mirror,,3279
+0,https://github.com/moscajs/mosca.git,MQTT broker as a module,,3124
+0,https://github.com/apocas/dockerode.git,"{""Docker + Node = Dockerode (Node.js module for Docker's Remote API)""}","javascript,docker,nodejs,node,moby",3116
+0,https://github.com/noble/noble.git,A Node.js BLE (Bluetooth Low Energy) central module ,,3055
+0,https://github.com/farag2/Windows-10-Sophia-Script.git,:zap: A powerful PowerShell module for fine-tuning and tweaking Windows 10,"powershell,tweaks,script,setup-script,setup,windows10,windows,2004,scripts,ltsc,2009,20h1,debloat,debloating,windowsdebloat,sophia-script,sophia,20h2,debloater,gui",3041
+0,https://github.com/Fuzion24/JustTrustMe.git,An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning,,3014
+0,https://github.com/stephanenicolas/robospice.git,"Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.",,3002
+0,https://github.com/tleunen/babel-plugin-module-resolver.git,Custom module resolver plugin for Babel,"babel-plugin,resolver,babel",2996
+0,https://github.com/tj/frontend-boilerplate.git,"{""webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate (unmaintained, I don't use it anymore)""}",,2976
+0,https://github.com/sindresorhus/electron-store.git,"Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc","storage,user-preferences,config,preferences,electron,electron-module,data-persistence,npm-package",2943
+0,https://github.com/grevory/angular-local-storage.git,An AngularJS module that gives you access to the browsers local storage with cookie fallback,"angular,angularjs,localstorage,javascript,cookie",2868
+0,https://github.com/mileszs/ack.vim.git,"{""Vim plugin for the Perl module / CLI script 'ack'""}",,2864
+0,https://github.com/olebedev/go-starter-kit.git,Golang isomorphic react/hot reloadable/redux/css-modules/SSR  starter kit,"golang,react,redux,isomorphic,universal,server-side-rendering,components,browser",2851
+0,https://github.com/Ramotion/paper-switch.git,:octocat: 🎚 RAMPaperSwitch is a Swift material design UI module which paints over the parent view when the switch is turned on. iOS library by @Ramotion,"swift,library,ios,component",2845
+0,https://github.com/roylee0704/react-flexbox-grid.git,A set of React components implementing flexboxgrid with the power of CSS Modules.,"css-modules,flexbox-grid,react-components",2817
+0,https://github.com/EllanJiang/GameFramework.git,"This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.","game-frameworks,game-modules,game-development,unity,unity3d",2788
+0,https://github.com/ResidentMario/missingno.git,Missing data visualization module for Python.,"missing-data,data-visualization,data-analysis,pandas,python",2772
+0,https://github.com/mashpie/i18n-node.git,"{""Lightweight simple translation module for node.js / express.js with dynamic json storage. Uses common __('...') syntax in app and templates.""}",,2765
+0,https://github.com/AonCyberLabs/Windows-Exploit-Suggester.git,This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.,,2723
+0,https://github.com/kissyteam/kissy.git,A Powerful Collection Of Modules,,2710
+0,https://github.com/ocombe/ocLazyLoad.git,Lazy load modules & components in AngularJS,"angularjs,lazyload,npm-package",2666
+0,https://github.com/davidtheclark/cosmiconfig.git,"Find and load configuration from a package.json property, rc file, or CommonJS module",,2633
+0,https://github.com/miso-belica/sumy.git,Module for automatic summarization of text documents and HTML pages.,"python,lsa,textteaser,html-page,summarizer,pagerank-algorithm,reduction,text-extraction,html-extraction,html-extractor,sumy,summarization,summary,nlp",2575
+0,https://github.com/Kitt-AI/snowboy.git,Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy,,2572
+0,https://github.com/webpack/tapable.git,Just a little module for plugins.,,2558
+0,https://github.com/janikvonrotz/awesome-powershell.git,A curated list of delightful PowerShell modules and resources,"powershell,windows-powershell,powershell-ise,powershell-cmdlets,awesome,guides,tutorial,linux-powershell,awesome-list,list",2550
+0,https://github.com/jmcnamara/XlsxWriter.git,A Python module for creating Excel XLSX files.,"python,xlsx-files,libxlsxwriter,pandas,charts,spreadsheet,xlsx,xlsxwriter",2545
+0,https://github.com/cirosantilli/linux-kernel-module-cheat.git,"The perfect emulation setup to study and develop the Linux kernel v5.4.3, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug and KGDB just work. Powered by Buildroot and crosstool-NG. Highly automated. Thoroughly documented. Automated tests. ""Tested"" in an Ubuntu 19.10 host.完美的仿真设置，可用于研究和开发Linux内核v5.4.3，内核模块，QEMU，gem5和x86_64，ARMv7和ARMv8用户界面以及裸机装配，ANSI C，C ++和POSIX。 GDB步骤调试和KGDB可以正常工作。 由Buildroot和crosstool-NG支持。 高度自动化。 彻底记录。 自动化测试。 在Ubuntu 19.10主机中经过“测试”。","buildroot,linux-kernel,qemu,gdb,kgdb,linux-kernel-module",2499
+0,https://github.com/ronami/minipack.git,📦 A simplified example of a modern module bundler written in JavaScript,"javascript,parcel-bundler,webpack,example,browserify,modules,commonjs,es6-modules,module-bundler,es2015",2436
+0,https://github.com/depcheck/depcheck.git,Check your npm module for unused dependencies,,2432
+0,https://github.com/andialbrecht/sqlparse.git,A non-validating SQL parser module for Python,,2427
+0,https://github.com/Anorov/cloudflare-scrape.git,"{""A Python module to bypass Cloudflare's anti-bot page.""}","cloudflare,anti-bot-page,protected-page,scrape,scraping-websites",2406
+0,https://github.com/vozlt/nginx-module-vts.git,Nginx virtual host traffic status module,"c,nginx,nginx-module,nginx-vhost-traffic-status,vozlt-nginx-modules,monitoring",2369
+0,https://github.com/elixir-plug/plug.git,A specification and conveniences for composable modules between web applications,,2352
+0,https://github.com/zmxv/react-native-sound.git,React Native module for playing sound clips,,2341
+0,https://github.com/NikolaiT/GoogleScraper.git,"A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, ...). Including asynchronous networking support.","search-engine,python,scraping,crawler,search-engines,search-engine-optimization",2285
+0,https://github.com/ModuleLoader/es-module-loader.git,Polyfill for the ES Module Loader,,2245
+0,https://github.com/peerigon/updtr.git,Update outdated npm modules with zero pain™,,2196
+0,https://github.com/antirez/neural-redis.git,Neural networks module for Redis,,2188
+0,https://github.com/terrymun/Fluidbox.git,Replicating and improving the lightbox module seen on Medium with fluid transitions.,"css,javascript,ui,lightbox,modal-box",2167
+0,https://github.com/wa0x6e/cal-heatmap.git,Cal-Heatmap is a javascript module to create calendar heatmap to visualize time series data,"javascript,series-data,calendar-heatmap,d3js",2160
+0,https://github.com/cloudhead/node-static.git,"rfc 2616 compliant HTTP static-file server module, with built-in caching.",,2112
+0,https://github.com/nitaliano/react-native-mapbox-gl.git,A Mapbox GL react native module for creating custom maps,"mapbox-gl,android,ios,react-native",2095
+0,https://github.com/terraform-docs/terraform-docs.git,Generate documentation from Terraform modules in various output formats,"terraform,terraform-docs,terraform-modules,documentation,generator,golang",2085
+0,https://github.com/ac-pm/Inspeckage.git,"Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)","android-application,security-analysis,dynamic-analysis,xposed",2082
+0,https://github.com/segmentio/stack.git,A set of Terraform modules for configuring production infrastructure with AWS,,2062
+0,https://github.com/developit/workerize-loader.git,🏗️ Automatically move a module into a Web Worker (Webpack loader),"webpack-loader,webpack-plugin,webpack,worker,web-worker",2040
+0,https://github.com/Ramotion/adaptive-tab-bar.git,"{"":octocat: AdaptiveController is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements. Swift UI component by @Ramotion""}","swift,ios,library",2025
+0,https://github.com/pexpect/pexpect.git,A Python module for controlling interactive programs in a pseudo-terminal,,2022
+0,https://github.com/classgraph/classgraph.git,An uber-fast parallelized Java classpath scanner and module scanner.,,1997
+0,https://github.com/microsoft/dts-gen.git,dts-gen creates starter TypeScript definition files for any module or library.,,1990
+0,https://github.com/gajus/babel-plugin-react-css-modules.git,Transforms styleName to className using compile time CSS module resolution.,"css-modules,react,babel-plugin",1965
+0,https://github.com/terraform-aws-modules/terraform-aws-eks.git,Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS,"terraform,terraform-module,aws,kubernetes,kubernetes-deployment,kubernetes-setup,eks,elastic-kubernetes-service",1961
+0,https://github.com/tcoopman/image-webpack-loader.git,Image loader module for webpack,,1944
+0,https://github.com/Qiskit/qiskit.git,"Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.","qiskit,quantum-computing,quantum-programming-language,documentation",1939
+0,https://github.com/florianheinemann/passwordless.git,node.js/express module to authenticate users without password,,1926
+0,https://github.com/react-native-kit/react-native-track-player.git,"A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!","react-native,music-player,music-library,media-control,android,ios,windows",1918
+0,https://github.com/caolan/nodeunit.git,"Easy unit testing in node.js and the browser, based on the assert module.",,1913
+0,https://github.com/noble/bleno.git,A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals,,1897
+0,https://github.com/yidongnan/grpc-spring-boot-starter.git,Spring Boot starter module for gRPC framework.,"spring-boot,grpc,spring-boot-grpc,spring-cloud,grpc-java,grpc-framework,spring,spring-boot-starter",1893
+0,https://github.com/cujojs/curl.git,"curl.js is small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.",,1887
+0,https://github.com/tibold/svg-explorer-extension.git,"Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files",,1842
+0,https://github.com/lynndylanhurley/ng-token-auth.git,Token based authentication module for angular.js.,,1838
+0,https://github.com/dooboolab/react-native-iap.git,react-native native module for In App Purchase.,"react-native,in-app-purchase,java,objective-c",1833
+0,https://github.com/lorenzofox3/Smart-Table.git,Code source of Smart Table module: a table/grid for Angularjs,"smart-table,javascript,angular,table",1830
+0,https://github.com/winshining/nginx-http-flv-module.git,"Media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache and VHOST (one IP for multi domain names) are supported now.","rtmp,http-flv,gop-cache,media-server,nginx-rtmp,virtual-hosts,nginx-http-flv,chunked-transmission,live-streaming,h264,aac,flvjs,dynamic-module,nginx,live,vhost",1815
+0,https://github.com/terraform-aws-modules/terraform-aws-vpc.git,Terraform module which creates VPC resources on AWS,"terraform-module,vpc,aws-vpc,aws",1813
+0,https://github.com/joypixels/emojify.js.git,A Javascript module to convert Emoji keywords to images,,1809
+0,https://github.com/mscdex/node-imap.git,An IMAP client module for node.js.,,1802
+0,https://github.com/form-data/form-data.git,"A module to create readable `""multipart/form-data""` streams.  Can be used to submit forms and file uploads to other web applications. ","formdata,stream,xhr2-fd,nodejs,server",1795
+0,https://github.com/ender-js/Ender.git,the no-library library: open module JavaScript framework,,1789
+0,https://github.com/parse-community/parse-server-example.git,Example server using Express and the parse-server module.,"parse-server,parse-platform",1780
+0,https://github.com/Kong/mashape-oauth.git,"OAuth Modules for Node.js - Supporting RSA, HMAC, PLAINTEXT, 2,3-Legged, 1.0a, Echo, XAuth, and 2.0",,1774
+0,https://github.com/mongo-js/mongojs.git,Node.js module that implements the offical mongo api,"mongodb,mongodb-driver",1768
+0,https://github.com/jesolem/PCV.git,Open source Python module for computer vision,,1750
+0,https://github.com/rsms/node-imagemagick.git,Imagemagick module for NodeJS — NEW MAINTAINER: @yourdeveloper,,1746
+0,https://github.com/poetries/FE-Interview-Questions.git,关注公众号「前端进阶之旅」，一起学习。前端面试常考问题整理，按模块知识点分类 Front-end-Developer-Questions by Modules and knowledge ,,1734
+0,https://github.com/evollu/react-native-fcm.git,react native module for firebase cloud messaging and local notification,"notifications,fcm,android,firebase,ios,local-notifications",1729
+0,https://github.com/Gh0u1L5/WechatMagician.git,"WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.","xposed,wechat,kotlin,reverse-engineering",1722
+0,https://github.com/LogNet/grpc-spring-boot-starter.git,Spring Boot starter module for gRPC  framework. ,"grpc,grpc-service,spring-boot,spring-boot-starter,spring,spring-cloud,grpc-framework,java",1718
+0,https://github.com/glslify/glslify.git,:sparkles: A node.js-style module system for GLSL!,,1700
+0,https://github.com/blueimp/JavaScript-Templates.git,"1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.",,1643
+0,https://github.com/sergtitov/NodeJS-Learning.git,"This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date.",,1624
+0,https://github.com/notro/fbtft.git,Linux Framebuffer drivers for small TFT LCD display modules,,1620
+0,https://github.com/EHfive/pulseaudio-modules-bt.git,"[Deprecated, see https://github.com/EHfive/pulseaudio-modules-bt/issues/154] Adds Sony LDAC, aptX, aptX HD, AAC codecs (A2DP Audio) support to PulseAudio on Linux","bluetooth,a2dp,audio,aptx,linux,aac",1606
+0,https://github.com/openmv/openmv.git,OpenMV Camera Module,,1591
+0,https://github.com/kohana/kohana.git,Basic application with official modules included,,1583
+0,https://github.com/vsch/flexmark-java.git,"CommonMark/Markdown Java parser with source level AST. CommonMark 0.28, emulation of: pegdown, kramdown, markdown.pl, MultiMarkdown. With HTML to MD, MD to PDF, MD to DOCX  conversion modules.","commonmark,pegdown,java,markdown-parser,markdown-processor,markdown-conversion,markdown-flavors,markdown,markdown-to-html,html-to-markdown,markdown-to-pdf",1574
+0,https://github.com/svg-sprite/svg-sprite.git,"SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g. CSS, Sass, LESS, Stylus, etc.)","svg,sprite,css,mustache,svgo,html,less,sass",1569
+0,https://github.com/pichenettes/eurorack.git,Eurorack modules,,1564
+0,https://github.com/dfinke/ImportExcel.git,"PowerShell module to import/export Excel spreadsheets, without Excel","powershell,excel",1557
+0,https://github.com/weibocom/nginx-upsync-module.git,"{""For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers attributes(weight, max_fails, down...), needn't reload nginx""}",,1556
+0,https://github.com/championswimmer/vuex-module-decorators.git,TypeScript/ES7 Decorators to create Vuex modules declaratively,"vue,vuejs,vuex,vuex-modules,typescript,javascript",1552
+0,https://github.com/gak/pycallgraph.git,pycallgraph is a Python module that creates call graphs for Python programs.,,1546
+0,https://github.com/pybluez/pybluez.git,Bluetooth Python extension module,,1530
+0,https://github.com/google/ngx_brotli.git,NGINX module for Brotli compression,,1496
+0,https://github.com/GrahamDumpleton/wrapt.git,"A Python module for decorators, wrappers and monkey patching.",,1483
+0,https://github.com/mxdldev/spring-cloud-flycloud.git,"🔥🔥🔥FlyClould 微服务实战项目框架，在该框架中，包括了用 Spring Cloud 构建微服务的一系列基本组件和框架，对于后台服务框架的搭建有很大的参考价值，大家可以参考甚至稍加修改可以直接应用于自己的实际的项目开发中，该项目没有采用Maven进行项目构建，Maven通过xml进行依赖管理，导致整个配置文件太过臃肿，另外灵活性也不是很强，所以我采用Gradle进行项目构建和依赖管理，在FlyTour项目中我们见证了Gradle的强大，通过简单的一些配置就可以轻松的实现组件化的功能。该项目共有11个Module工程。其中10个位微服务工程，这10个微服务工程构成了一个完整的微服务系统，微服务系统包含了8个基础服务，提供了一整套微服务治理功能，他们分别是配置中心module_config、注册中心module_eureka、认证授权中心module_uaa、Turbine聚合监控服务module_monitor、链路追踪服务module_zipken、聚合监控服务module_admin、路由网关服务module_gateway、日志服务module_log。另外还包含了两个资源服务：用户服务module_user和blog服务module_blog，另外还有一个common的Module,为资源服务提供一些一本的工具类","spring-boot,spring-cloud,spring-mvc,spring-security,springboot,springmvc,spring-data-jpa,springframework,spring",1478
+0,https://github.com/twilio/twilio-python.git,A Python module for communicating with the Twilio API and generating TwiML.,"twilio,twiml,twilio-api",1477
+0,https://github.com/angular-ui/ui-utils.git,Deprecated collection of modules for angular,,1467
+0,https://github.com/css-modules/webpack-demo.git,"{""Working demo of CSS Modules, using Webpack's css-loader in module mode""}",,1463
+0,https://github.com/image-size/image-size.git,Node module for detecting image dimensions,"dimensions,image-analysis,image-size",1449
+0,https://github.com/node-cache/node-cache.git,a node internal (in-memory) caching module,"nodejs,cache,memory,internal,caching,fast",1445
+0,https://github.com/yujincheng08/BiliRoaming.git,哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.,"xposed,bilibili",1433
+0,https://github.com/shuleisanshi/myblog.git,"I think myblog is a very good project, which is divided into front-end module and back-end module. I have used the most popular SSM architecture to design the main frame and added many functions to my personal blog, such as: authority, comment, reply and recommend. these functions can also be used in the enterprise. We can practice this project to get more skills about SSM Structure. ",,1432
+0,https://github.com/dwijitsolutions/laraadmin.git,"LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel with features like Advanced CRUD Generation, Module Manager, Backups and many more.",,1432
+0,https://github.com/RedBeardLab/rediSQL.git,Redis module that provides a completely functional SQL database,"redisql,sql,sqlite3,redis,in-memory,rust",1427
+0,https://github.com/mattdesl/module-best-practices.git,:books: some best practices for JS modules,,1424
+0,https://github.com/netz98/n98-magerun.git,"The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.","cli-app,magento,php",1420
+0,https://github.com/takluyver/flit.git,Simplified packaging of Python modules,,1417
+0,https://github.com/apollographql/graphql-subscriptions.git,:newspaper: A small module that implements GraphQL subscriptions for Node.js,"graphql-subscriptions,graphql,real-time",1411
+0,https://github.com/liexusong/php-beast.git,PHP source code encrypt module (PHP源码加密扩展),,1408
+0,https://github.com/dbashford/textract.git,"node.js module for extracting text from html, pdf, doc, docx, xls, xlsx, csv, pptx, png, jpg, gif, rtf and more!","extract-text,extraction,nodejs",1379
+0,https://github.com/waveform80/picamera.git,A pure Python interface to the Raspberry Pi camera module,"raspberry-pi,raspberry-pi-camera,python",1372
+0,https://github.com/lafikl/steady.js.git,A module to do some logic on the `onscroll` event without performance regressions in a @media-query like conditions.,,1372
+0,https://github.com/kidjp85/react-id-swiper.git,"{""A library to use idangerous Swiper as a ReactJs component which allows Swiper's modules custom build""}","react-id-swiper,idangerous,swiper,react-slider,react-carousel,react-swiper,react-native-swiper,react-slider-component,swiper-component",1370
+0,https://github.com/alejandroautalan/pygubu.git,A simple GUI designer for the python tkinter module,"python,tkinter",1365
+0,https://github.com/OCNYang/QBox.git,":cat2:  RxJava+Retrofit+Okhttp+Glide + A life tool App, contains modules: news; jokes; constellation fortune; LED; weather; calendar; two-dimensional code, and more ...  小秋魔盒是一个生活工具  App，主要功能有：新闻资讯；微信精选美文；笑话趣图；星座运势；LED字幕；天气；日历；二维码；手电筒；老黄历。在开发中尽可能多的用了目前比较流行的框架和库。","android,rxjava,retrofit,weather,calendar,glide,takephoto,zxing,qbox",1365
+0,https://github.com/mit-han-lab/temporal-shift-module.git,[ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding,"acceleration,low-latency,temporal-modeling,video-understanding,efficient-model,nvidia-jetson-nano,tsm",1353
+0,https://github.com/IonicaBizau/image-to-ascii.git,:floppy_disk: A Node.js module that converts images to ASCII art.,"mad-science,ascii-art,hacktoberfest",1347
+0,https://github.com/tediousjs/tedious.git,Node TDS module for connecting to SQL Server databases.,"tds,javascript,nodejs",1345
+0,https://github.com/RedisGraph/RedisGraph.git,A graph database as a Redis module,"graphdb,redis,module,opencypher,redisgraph,graphdatabase,graph-database,cypher,nosql,graph,property-graph",1337
+0,https://github.com/pterm/pterm.git,"{""✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.""}","go,golang,golang-library,pretty-print,pretty,progressbar,pterm,beautify,tui,ansi-colors,animation,console,console-framework",1330
+0,https://github.com/hughsk/disc.git,:chart_with_upwards_trend: Visualise the module tree of browserify project bundles and track down bloat.,,1328
+0,https://github.com/hokaccha/node-jwt-simple.git,JWT(JSON Web Token) encode and decode module for node.js,,1320
+0,https://github.com/vouch/vouch-proxy.git,an SSO and OAuth / OIDC login solution for Nginx using the auth_request module,"nginx,nginx-proxy,sso,oauth2,jwt,lasso,sso-login,sso-solution,authentication,golang",1316
+0,https://github.com/natergj/excel4node.git,Node module to allow for easy Excel file creation,,1309
+0,https://github.com/olafhartong/sysmon-modular.git,A repository of sysmon configuration modules,"sysmon,dfir,threat-hunting,mitre-attack,modular,security-tools",1298
+0,https://github.com/madyankin/postcss-modules.git,PostCSS plugin to use CSS Modules everywhere,,1291
+0,https://github.com/kragniz/json-sempai.git,Use JSON files as if they are python modules,"python,stupid,don-t,use,this",1256
+0,https://github.com/IntelRealSense/realsense-ros.git,"Intel(R) RealSense(TM) ROS Wrapper for D400 series, SR300 Camera and T265 Tracking Module",,1249
+0,https://github.com/innoveit/react-native-ble-manager.git,React Native BLE communication module,"ble,android,react-native,ios,bluetooth-low-energy",1248
+0,https://github.com/0xd4d/dnlib.git,Reads and writes .NET assemblies and modules,,1245
+0,https://github.com/PatrickJS/angular-websocket.git,:arrow_upper_left: The missing Angular WebSocket module for connecting client applications to servers by @AngularClass,"angular,angularclass,websocket,websockets,angular2,angular4",1242
+0,https://github.com/vshymanskyy/TinyGSM.git,"A small Arduino library for GSM modules, that just works","gprs,lte,arduino,blynk,mqtt,neoway,quectel,m590,sim800,sim900,a6,a7,rest-api,ublox,sim7000,modem,esp32,esp8266,xbee",1237
+0,https://github.com/ilearnio/module-alias.git,Register aliases of directories and custom module paths in Node,"node,aliases,module,nodejs",1237
+0,https://github.com/jlsutherland/doc2text.git,Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.,,1236
+0,https://github.com/CITGuru/PyInquirer.git,A Python module for common interactive command line user interfaces,"python,prompt-toolkit,cmd,command-line-tool,command-line-interface,inquirer,cli,cli-app,command-line-app,command-line,ipython,unix-command,python2,python3,pyinquirer",1227
+0,https://github.com/a7ul/react-native-exception-handler.git,A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.,"exception-handler,react,react-native,bug,error,openlibrary",1225
+0,https://github.com/ansible/ansible-modules-core.git,Ansible modules - these modules ship with ansible,,1223
+0,https://github.com/feross/buffer.git,"The buffer module from node.js, for the browser.","browserify,javascript,buffer,nodejs,browser",1222
+0,https://github.com/esnext/es6-module-transpiler.git,Tomorrow’s JavaScript module syntax today,,1220
+0,https://github.com/sakra/cotire.git,CMake module to speed up builds.,cmake,1217
+0,https://github.com/robrich/orchestrator.git,A module for sequencing and executing tasks and dependencies in maximum concurrency,,1215
+0,https://github.com/module-federation/module-federation-examples.git,"Implementation examples of module federation , by the creators of module federation","module,federation,module-federation,examples,demo,federation-dashboard,federated,nextjs,stream-federated",1195
+0,https://github.com/nodejs/node-addon-api.git,Module for using Node-API from C++,"nodejs,node",1194
+0,https://github.com/jaliss/securesocial.git,"A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications",,1193
+0,https://github.com/trimstray/sandmap.git,"Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.","nmap,nmap-scripts,port-scanner,network-scanner,network-discovery,service-discovery,information-gathering,nse,nsescript,cli,command-line,linux,hacking,hacking-tool,kali-linux,kali-scripts,backbox,blackarch,blackarch-packages",1192
+0,https://github.com/erocarrera/pefile.git,pefile is a Python module to read and work with PE (Portable Executable) files,,1186
+0,https://github.com/akka/akka-http.git,The Streaming-first HTTP server/module of Akka,"akka,akka-http,http,http-server,http-client,streaming,reactive,http2,websocket,hacktoberfest",1182
+0,https://github.com/egoist/import-http.git,Import modules from URL instead of local node_modules,"module,webpack,rollup,esmodules",1181
+0,https://github.com/fishinabarrel/linux-kernel-module-rust.git,Framework for writing Linux kernel modules in safe Rust,,1180
+0,https://github.com/Jongchan/attention-module.git,"Official PyTorch code for ""BAM: Bottleneck Attention Module (BMVC2018)"" and ""CBAM: Convolutional Block Attention Module (ECCV2018)""",,1170
+0,https://github.com/Rich-Harris/shimport.git,"Use JavaScript modules in all browsers, including dynamic imports",,1170
+0,https://github.com/go-python/gopy.git,gopy generates a CPython extension module from a go package.,"go,golang,python,python-2,python-3,pypy,cffi,ctypes",1158
+0,https://github.com/pillarjs/multiparty.git,A node.js module for parsing multipart-form data requests which supports streams2,"javascript,nodejs,multipart,form-data",1155
+0,https://github.com/504ensicsLabs/LiME.git,"LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android. The tool supports acquiring memory either to the file system of the device or over the network. LiME is unique in that it is the first tool that allows full memory captures from Android devices. It also minimizes its interaction between user and kernel space processes during acquisition, which allows it to produce memory captures that are more forensically sound than those of other tools designed for Linux memory acquisition.",,1148
+0,https://github.com/WindySha/Xpatch.git,"免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.","xpatch,xposed,hook,whale,unroot",1141
+0,https://github.com/liady/webpack-node-externals.git,Easily exclude node modules in Webpack,"webpack,node,external,modules",1135
+0,https://github.com/victorb/trymodule.git,"{""➰ It's never been easier to try nodejs modules!""}","repl,nodejs-modules,nodejs,javascript,developer-tools,developer-experience",1118
+0,https://github.com/pqpo/SmartCamera.git,"{""📷SmartCamera 是一个 Android 相机拓展库，能够实时采集并且识别相机内物体边框是否吻合指定区域。SmartCamera is an Android camera extension library，provides a scanning module that can recognizes whether the object's border inside the camera matches the area in real time.""}",,1116
+0,https://github.com/atom/node-keytar.git,Native Password Node Module,"keychain,libsecret,credential-storage",1112
+0,https://github.com/monitoringartist/zabbix-docker-monitoring.git,":whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module","docker,zabbix,monitoring,devops,zabbix-templates,zabbix-agentd,zabbix-docker",1109
+0,https://github.com/blackberry/pe_tree.git,Python module for viewing Portable Executable (PE) files in a tree-view using pefile and PyQt5. Can also be used with IDA Pro and Rekall to dump in-memory PE files and reconstruct imports.,,1108
+0,https://github.com/koalalorenzo/python-digitalocean.git,🐍🐳 Python module to manage Digital Ocean droplets,"python,digitalocean,api",1099
+0,https://github.com/evilsocket/bleah.git,"This repository is DEPRECATED, please use bettercap as this tool has been ported to its BLE modules.",,1098
+0,https://github.com/entwicklerstube/babel-plugin-root-import.git,Add the opportunity to import modules by the root path,"babel,babel-plugin,es6,tdd",1096
+0,https://github.com/criso/fbgraph.git,NodeJs module to access the facebook graph api,,1085
+0,https://github.com/fukuball/jieba-php.git,"""結巴""中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / ""Jieba"" (Chinese for ""to stutter"") Chinese text segmentation: built to be the best PHP Chinese word segmentation module.","nlp,natural-language-processing,chinese-text-segmentation,machine-learning",1085
+0,https://github.com/Indamix/real-shadow.git,Module that casts photorealistic shadows,"text-shadow,jquery,shadow,box-shadow,javascript",1066
+0,https://github.com/sstephenson/stitch.git,Stitch your CommonJS modules together for the browser,,1064
+0,https://github.com/rikschennink/conditioner.git,"💆🏻 Frizz free, context-aware, JavaScript modules","conditioner,javascript,es6,import,responsive,amd,module-loader,mediaqueries,webpack,browserify,requirejs",1055
+0,https://github.com/starwing/lua-protobuf.git,A Lua module to work with Google protobuf,"lua,protobuf,single-header-lib",1054
+0,https://github.com/afonsopacifer/awesome-flexbox.git,:eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.,"flexbox,awesome,css,css3,css-flexbox,flexbox-layout,flexbox-grid,w3c-specification",1050
+0,https://github.com/klbostee/dumbo.git,Python module that allows one to easily write and run Hadoop programs.,,1044
+0,https://github.com/unosquare/embedio.git,"A tiny, cross-platform, module based web server for .NET","mono,webserver,websocket,dotnet,dotnetcore,websockets,url-segment,tiny,routing-strategies,embedded,raspberry-pi,raspberry-pi-3,http,http-server,http-requests,http-api,http-request,http-response,http-rest-api",1043
+0,https://github.com/patrickfav/Dali.git,"Dali is an image blur library for Android. It contains several modules for static blurring, live blurring and animations.","live-blurring,animation,blur,image-manipulation,android-library,android,renderscript",1033
+0,https://github.com/lukaszbanasiak/yahoo-finance.git,Python module to get stock data from Yahoo! Finance,"python,yahoo-finance-api,finance",1032
+0,https://github.com/mscdex/node-ftp.git,An FTP client module for node.js,,1029
+0,https://github.com/mdn/django-locallibrary-tutorial.git,Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.,,1017
+0,https://github.com/crazycodeboy/react-native-easy-toast.git,"A react native module to show toast like android, it works on iOS and Android.","toast,react-native-toast,react-native,react-toast",1014
+0,https://github.com/maxogden/mississippi.git,A collection of useful stream utility modules for writing better code using streams,,1011
+0,https://github.com/YangModels/yang.git,"YANG modules from standards organizations such as the IETF, The IEEE, The Metro Ethernet Forum, open source such as Open Daylight or vendor specific modules",,1007
+0,https://github.com/workshopper/how-to-npm.git,A module to teach you how to module.,"nodeschool,npm,javascript",1003
+0,https://github.com/galkahana/HummusJS.git,"Node.js module for high performance creation, modification and parsing of PDF files and streams","pdf-generation,pdf-parsing,pdf-modification,nodejs,pdf-manipulation",993
+0,https://github.com/asweigart/pyperclip.git,Python module for cross-platform clipboard functions.,,989
+0,https://github.com/dividab/tsconfig-paths.git,"Load node modules according to tsconfig paths, in run-time or via API.","tsconfig-paths,typescript,tsconfig",984
+0,https://github.com/jkitchin/org-ref.git,"org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.",,975
+0,https://github.com/pascallanger/DIY-Multiprotocol-TX-Module.git,Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models.,"multiprotocol,module,multi,protocols",974
+0,https://github.com/peggyrayzis/react-native-create-bridge.git,A CLI tool that bridges React Native modules & UI components with ease 🎉,"react-native,bridge,cli,swift,java,objective-c,kotlin",973
+0,https://github.com/nginx-clojure/nginx-clojure.git,"Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.","nginx,clojure,java,groovy,nginx-clojure",973
+0,https://github.com/SavinaRoja/PyUserInput.git,A module for cross-platform control of the mouse and keyboard in python that is simple to install and use.,,970
+0,https://github.com/roots/soil.git,WordPress plugin which contains a collection of modules to apply theme-agnostic front-end modifications,wordpress-plugin,966
+0,https://github.com/hortinstein/node-dash-button.git,A small module to emit events when an Amazon Dash Button is pressed,,966
+0,https://github.com/kronenthaler/mod-pbxproj.git,A python module to manipulate XCode projects,"xcode,pbxproj,python,library,cli,hacktoberfest",965
+0,https://github.com/go-modules-by-example/index.git,Go modules by example is a series of work-along guides,,965
+0,https://github.com/cramforce/splittable.git,"Module bundler with support for code splitting, ES6 & CommonJS modules.",,957
+0,https://github.com/VeNoMouS/cloudscraper.git,"{""A Python module to bypass Cloudflare's anti-bot page.""}","cloudflare,cloudflare-bypass,cloudflare-scrape,anti-bot-page,sneakerbot",954
+0,https://github.com/indutny/sticky-session.git,Sticky session balancer based on a `cluster` module,,954
+0,https://github.com/mjg59/python-broadlink.git,"Python module for controlling Broadlink RM2/3 (Pro) remote controls, A1 sensor platforms and SP2/3 smartplugs",,947
+0,https://github.com/dektrium/yii2-user.git,[ABANDONED] Flexible user registration and authentication module for Yii2,"yii2-user,yii2,yii2-extension",946
+0,https://github.com/alanshaw/david.git, :eyeglasses: Node.js module that tells you when your package npm dependencies are out of date.,,943
+0,https://github.com/efoxTeam/emp.git,EMP Micro FE Base on webpack 5 & module federation,,942
+0,https://github.com/react-native-mapbox-gl/maps.git,A Mapbox GL react native module for creating custom maps,"mapbox,react-native,mapbox-gl-native,map",941
+0,https://github.com/belangeo/pyo.git,Python DSP module,"pyo,signal-processing,radio-pyo,sound,python,dsp,c,audio,music,synthesis",936
+0,https://github.com/openresty/echo-nginx-module.git,"An Nginx module for bringing the power of ""echo"", ""sleep"", ""time"" and more to Nginx\'s config file",,935
+0,https://github.com/Telefonica/Eternalblue-Doublepulsar-Metasploit.git,Module of Metasploit to exploit the vulnerability Eternalblue-Doublepulsar.,,933
+0,https://github.com/FRiCKLE/ngx_cache_purge.git,"nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches.",,932
+0,https://github.com/ansible/ansible-modules-extras.git,Ansible extra modules - these modules ship with ansible,,928
+0,https://github.com/luckybilly/AutoRegister.git,基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC,,925
+0,https://github.com/vision5/ngx_devel_kit.git,Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules,,917
+0,https://github.com/monitoringartist/zabbix-community-repos.git,":memo: 850+ Zabbix community project links: SW/HW/DB templates, scripts, CLIs, integrations, API libraries, modules, configurations, ...","zabbix,zabbix-templates,zabbix-alertscript,zabbix-api,zabbix-projects",914
+0,https://github.com/caffeinated/modules.git,:package: Modules package for Laravel,"laravel,caffeinated,modules",912
+0,https://github.com/sindresorhus/electron-util.git,Useful utilities for Electron apps and modules,"electron,electron-module,nodejs,npm-package",912
+0,https://github.com/Zylann/godot_voxel.git,Voxel module for Godot Engine,,911
+0,https://github.com/peaksandpies/universal-analytics.git,"{""A node module for Google's Universal Analytics and Measurement Protocol""}",,908
+0,https://github.com/RedisBloom/RedisBloom.git,Probabilistic Datatypes Module for Redis,"bloom-filter,redis,redis-module,redisbloom",907
+0,https://github.com/alan-turing-institute/CleverCSV.git,"CleverCSV is a Python package for handling messy CSV files. It provides a drop-in replacement for the builtin CSV module with improved dialect detection, and comes with a handy command line application for working with CSV files.","csv,csv-reader,csv-format,csv-parsing,csv-files,csv-parser,csv-import,csv-converter,csv-reading,csv-export,python,python3,python-library,data-science,datascience,data-mining",905
+0,https://github.com/boudinfl/pke.git,Python Keyphrase Extraction module,"keyphrase-extraction,natural-language-processing,information-retrieval,computational-linguistics,keyword-extraction,python,keyword,keyphrase",904
+0,https://github.com/mailgun/mailgun-js-boland.git,A simple Node.js helper module for Mailgun API.,mailgun,898
+0,https://github.com/qt/qt5.git,Qt5 super module,,897
+0,https://github.com/angular-google-chart/angular-google-chart.git,Google Chart Tools AngularJS Directive Module,"angularjs,google-charts,javascript",896
+0,https://github.com/jeremydaly/serverless-mysql.git,A module for managing MySQL connections at SERVERLESS scale,,891
+0,https://github.com/chobits/ngx_http_proxy_connect_module.git,A forward proxy module for CONNECT request handling,"nginx,tengine,http-tunnel,forward-proxy",889
+0,https://github.com/tj/reds.git,"light-weight, insanely simple full text search module for node.js - backed by Redis",,887
+0,https://github.com/voltrue2/in-app-purchase.git,"A Node.js module for in-App-Purchase for iOS, Android, Amazon and Windows.","in-app,purchase,billing,validation,javascript,receipt,purchase-data,googleplay,android,subscription,purchase-receipts,apple,amazon,amazon-api,unity,roku",882
+0,https://github.com/dji-sdk/Tello-Python.git,This is a collection of python modules that interact with the Ryze Tello drone.,,881
+0,https://github.com/python-control/python-control.git, The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems.,,881
+0,https://github.com/fdintino/nginx-upload-module.git,A module for nginx web server for handling file uploads using multipart/form-data encoding (RFC 1867).,,880
+0,https://github.com/brandur/redis-cell.git,A Redis module that provides rate limiting in Redis as a single command.,,877
+0,https://github.com/googlearchive/big-rig.git,"A proof-of-concept Performance Dashboard, CLI and Node module",,872
+0,https://github.com/RIAEvangelist/node-ipc.git,"Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS","ipc-sockets,tcp-sockets,unix-sockets,ipc-methods,node-ipc",872
+0,https://github.com/illuspas/nginx-rtmp-win32.git,Nginx-rtmp-module Windows builds. ,"nginx-rtmp,win32",867
+0,https://github.com/mupen64plus/mupen64plus-core.git,Core module of the Mupen64Plus project,"emulation,n64",860
+0,https://github.com/nestjs/typeorm.git,TypeORM module for Nest framework (node.js)  🍇,"nestjs,nest,nodejs,typescript,javascript,sql,nosql,typeorm",853
+0,https://github.com/mkubecek/vmware-host-modules.git,Patches needed to build VMware (Player and Workstation) host modules against recent kernels,,848
+0,https://github.com/houko/SpringBootUnity.git,rabbitmq、redis、scheduled、socket、mongodb、Swagger2、spring data jpa、Thymeleaf、freemarker etc. (muti module spring boot project) (with spring boot framework，different bussiness scence with different technology。),"spring-boot,java,spring,spring-mvc,hibernate,mybatis,mysql,freemarker,mongodb,redis,scheduler,thymeleaf,swagger,lombok,nginx",848
+0,https://github.com/MicrosoftDocs/ml-basics.git,Exercise notebooks for Machine Learning modules on Microsoft Learn,,847
+0,https://github.com/FasterXML/jackson-module-kotlin.git,Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes.,"kotlin,jackson,json,serialization,deserialization,hacktoberfest",845
+0,https://github.com/dfmuir/KINWebBrowser.git,A web browser module for your iOS apps.,,843
+0,https://github.com/rtcatc/Packer-Fuzzer.git,Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack. ,"webpack,scanner,python3,cybersecurity,fuzzing,hacking",839
+0,https://github.com/agile6v/awesome-nginx.git,"A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ","nginx,lua-nginx,nginx-http,lua-resty,nginx-server,ngx-lua,awesome,awesome-list",834
+0,https://github.com/Windos/BurntToast.git,Module for creating and displaying Toast Notifications on Microsoft Windows 10.,"powershell,notifications,toast,windows,windows-10,hacktoberfest",833
+0,https://github.com/requirejs/example-multipage.git,Example RequireJS-based project that has multiple pages that share a common set of modules.,,832
+0,https://github.com/usrbinnc/netcat-cpi-kernel-module.git,Kernel module edition of the Cycles Per Instruction (2014) album.,,831
+0,https://github.com/openresty/redis2-nginx-module.git,Nginx upstream module for the Redis 2.0 protocol,,828
+0,https://github.com/MichaelGrafnetter/DSInternals.git, Directory Services Internals (DSInternals) PowerShell Module and Framework,"security-audit,penetration-testing,active-directory,nuget-packages,ntds,powershell,dpapi,sam,lsa,passwords,azure-ad,fido2",823
+0,https://github.com/mdn/express-locallibrary-tutorial.git,Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.,,822
+0,https://github.com/speedskater/babel-plugin-rewire.git,A babel plugin adding the ability to rewire module dependencies. This enables to mock modules for testing purposes.,,812
+0,https://github.com/mdehoog/Semantic-UI-Calendar.git,Calendar module for Semantic UI,,811
+0,https://github.com/alibaba/nginx-http-concat.git,A Nginx module for concatenating files in a given context: CSS and JS files usually,,810
+0,https://github.com/marcomusy/vedo.git,A python module for scientific analysis of 3D objects based on VTK and numpy,"3d-graphics,vtk,vpython,3d,mesh,simulations,scientific-visualization,finite-elements,fenics,dolfin,python",805
+0,https://github.com/achimdoebler/UGUI.git,µGUI - Open Source GUI module for embedded systems,,804
+0,https://github.com/pierre-rouanet/dtw.git,DTW (Dynamic Time Warping) python module,"python,dtw,distance-measures,distance-metric,distance",803
+0,https://github.com/google/textfsm.git,Python module for parsing semi-structured text into python tables.,,803
+0,https://github.com/mdirolf/nginx-gridfs.git,"{""Nginx module for serving files from MongoDB's GridFS""}",,798
+0,https://github.com/megahertz/electron-log.git,Just a simple logging module for your Electron application,"log,logging,console,nwjs,electron",793
+0,https://github.com/nestjs/swagger.git,OpenAPI (Swagger) module for Nest framework (node.js) :earth_americas:,"nestjs,nest,swagger,typescript,javascript,nodejs",790
+0,https://github.com/gaearon/react-transform-hmr.git,A React Transform that enables hot reloading React classes using Hot Module Replacement API,,790
+0,https://github.com/dcodeIO/webassembly.git,A minimal toolkit and runtime to produce and run WebAssembly modules.,"webassembly,wasm,nodejs,javascript,typescript",789
+0,https://github.com/tsgates/rust.ko.git,A minimal Linux kernel module written in rust.,,789
+0,https://github.com/DIY-green/AndroidStudyDemo.git,AndroidStudyDemo 为Android学习项目，将学习Android的过程中的收获都汇集于此。要求执行严格的编码规范。接下来会在简书上为每个Module写对应的文章，并持续更新。,,788
+0,https://github.com/electron/electron-rebuild.git,Package to rebuild native Node.js modules against the currently installed Electron version,,782
+0,https://github.com/quodlibet/mutagen.git,Python module for handling audio metadata,"tagging,python,music,id3v1,id3v2,apev2,opus,flac,ogg,mp3,mp4,id3",779
+0,https://github.com/naver/egjs-infinitegrid.git,A module used to arrange card elements including content infinitely on a grid layout.,"infinitegrid,egjs,masonry,layout,javascript,dom-recycle,react,infinite,grid,vue,svelte,angluar",779
+0,https://github.com/cirosantilli/x86-assembly-cheat.git,"MOVED TO: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly SEE README. x86 IA-32 and x86-64 userland minimal examples tutorial. Hundreds of runnable asserts. Nice GDB setup. IO done with libc, so OS portable in theory. NASM and GAS covered. Tested in Ubuntu 18.04. Containers (ELF), linking, calling conventions. System land cheat at: https://github.com/cirosantilli/x86-bare-metal-examples, ARM cheat at: https://github.com/cirosantilli/arm-assembly-cheat 移至：https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly请参阅自述文件。 x86 IA-32和x86-64 userland最少示例教程。 数百个可运行的断言。 好的GDB设置。 IO是用libc完成的，因此OS在理论上是可移植的。 涵盖了NASM和GAS。 在Ubuntu 18.04中测试。 容器（ELF），链接，调用约定。 系统土地作弊网址：https：//github.com/cirosantilli/x86-bare-metal-examples，ARM作弊网址：https：//github.com/cirosantilli/arm-assembly-cheat","x86,x86-64,x86-32,gas,nasm,assembly",779
+0,https://github.com/kimhc6028/relational-networks.git,"Pytorch implementation of ""A simple neural network module for relational reasoning"" (Relational Networks)","relational-networks,pytorch,deep-learning",778
+0,https://github.com/tschaub/mock-fs.git,Configurable mock for the fs module,,775
+0,https://github.com/koala-interactive/frenchkiss.js.git,The blazing fast lightweight internationalization (i18n) module for javascript,"frenchkiss,i18n,javascript,translation,interpolation,language,localization,internationalization",775
+0,https://github.com/ninjablocks/433Utils.git,433Kit is a collection of code and documentation designed to assist you in the connection and usage of RF 433MHz transmit and receive modules to/with your Arduino and Rapberry Pi.,,774
+0,https://github.com/orliesaurus/nodemailer-mailgun-transport.git,nodemailer is an amazing node module to send emails within any of your nodejs apps. This is the transport plugin that goes with nodemailer to send email using Mailgun 🔫,,772
+0,https://github.com/BryanDonovan/node-cache-manager.git,Cache module for Node.JS,,770
+0,https://github.com/AlexKhymenko/ngx-permissions.git,"Permission and roles based access control for your angular(angular 2,4,5,6,7,9+) applications(AOT, lazy modules compatible","angular2,ngx-permissions,angular2-permissions,ng2-permissions,angular,ngx-permission,ng-permission,permissions,angular4,angular5,angular2-permission,roles,angular-permissions,acl,rbac,access,access-control",760
+0,https://github.com/KevinCoble/AIToolbox.git,"A toolbox of AI modules written in Swift:  Graphs/Trees, Support Vector Machines, Neural Networks, PCA, K-Means, Genetic Algorithms",,759
+0,https://github.com/lionsoul2014/jcseg.git,"Jcseg is a light weight NLP framework developed with Java. Provide CJK and English segmentation based on MMSEG algorithm, With also keywords extraction, key sentence extraction, summary extraction implemented based on TEXTRANK algorithm. Jcseg had a build-in http server and search modules for the latest lucene,solr,elasticsearch","java,jcseg,mmseg,chinese-word-segmentation,natural-language-processing,pos-tagging,nlp,nlp-keywords-extraction,lucene-analyzer,lucene-tokenizer,solr-plugin,elasticsearch-analyzer,chinese-text-segmentation,chinese-nlp,keywords-extraction,jcseg-analyzer",756
+0,https://github.com/tlenclos/react-native-audio-streaming.git,"iOS & Android react native module to play an audio stream, with background support and media controls","android,ios,react-native,audio,streaming,player,shoutcast",754
+0,https://github.com/rogpeppe/gohack.git,Make temporary edits to your Go module dependencies,"go,golang,vgo,modules",754
+0,https://github.com/guymorita/recommendationRaccoon.git,"A collaborative filtering based recommendation engine and NPM module built on top of Node.js and Redis. The engine uses the Jaccard coefficient to determine the similarity between users and k-nearest-neighbors to create recommendations. This module is useful for anyone with a database of users, a database of products/movies/items and the desire to give their users the ability to like/dislike and receive recommendations.",,754
+0,https://github.com/Belval/pdf2image.git,A python module that wraps the pdftoppm utility to convert PDF to PIL Image object,"pdf,pil,pil-image,convert,poppler",753
+0,https://github.com/lovebing/react-native-baidu-map.git,"Baidu Map SDK modules and views for React Native(Android & iOS), support react native 0.61+. 百度地图 React Native 模块，支持 react native 0.61+，已更新到最新的百度地图SDK版本。",,752
+0,https://github.com/rpavlik/cmake-modules.git,My collection of CMake modules,,749
+0,https://github.com/uPhyca/stetho-realm.git,Realm module for Stetho,,745
+0,https://github.com/FiloSottile/gvt.git,"gvt was a minimal go vendoring tool, based on gb-vendor. Today, you want to use modules instead.",,744
+0,https://github.com/linkedin/eyeglass.git,NPM Modules for Sass,"javascript,eyeglass,eyeglass-modules,node-sass,sass,css,npm",743
+0,https://github.com/nestjs/graphql.git,GraphQL (TypeScript) module for Nest framework (node.js) 🍷,"nodejs,typescript,nest,nestjs,graphql,apollo,apollographql,javascript",743
+0,https://github.com/LnL7/nix-darwin.git,nix modules for darwin,"darwin,nix,launchd,dotfiles",741
+0,https://github.com/shakiba/svgexport.git,SVG to PNG/JPEG command-line tool and Node.js module,"svg,png,jpeg,rasterizer,cli,command-line,javascript",741
+0,https://github.com/dharmafly/noodle.git,A node server and module which allows for cross-domain page scraping on web documents with JSONP or POST.,,739
+0,https://github.com/sindresorhus/conf.git,Simple config handling for your app or module,"config,configuration-management,preferences,storage,json-schema,json,command-line,node-module,npm-package",735
+0,https://github.com/thebjorn/pydeps.git,Python Module Dependency graphs,,733
+0,https://github.com/kz8s/tack.git,Terraform module for creating Kubernetes cluster running on Container Linux by CoreOS in an AWS VPC,"coreos,aws-vpc,aws-terraform,coreos-cluster,kubernetes,docker,etcd-cluster,kubernetes-coreos-terraform,infrastructure-as-code",733
+0,https://github.com/fdaciuk/ajax.git,Ajax module in Vanilla JS,,731
+0,https://github.com/ActiveState/appdirs.git,"A small Python module for determining appropriate platform-specific dirs, e.g. a ""user data dir"".",,730
+0,https://github.com/crisbeto/angular-svg-round-progressbar.git,Angular module that uses SVG to create a circular progressbar,"angular,svg,progress,progress-circle",729
+0,https://github.com/mpx/lua-cjson.git,Lua CJSON is a fast JSON encoding/parsing module for Lua,,726
+0,https://github.com/mattifestation/PowerShellArsenal.git,A PowerShell Module Dedicated to Reverse Engineering,,725
+0,https://github.com/jbrooksuk/node-summary.git,Node module that summarizes text using a naive summarization algorithm,,722
+0,https://github.com/nuxt-community/tailwindcss-module.git,Tailwind CSS module for Nuxt,"nuxt-module,nuxt,tailwindcss,nuxtjs",721
+0,https://github.com/github-tools/github-release-notes.git,Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.,"gren,release-notes,changelog,release,release-automation,github-releases",720
+0,https://github.com/wmcmahan/react-native-calendar-events.git,📆 React Native Module for iOS and Android Calendar Events,"android-calendar-events,ios-calendar-events,react-native,calendar-events,alarms,calendar-api,recurring-events,ios-calendar-api,android-calendar-api,react-native-module,andriod,ios-library,android-calendar,ios-calendar,ios-sdk,andriod-sdk",719
+0,https://github.com/benjamn/reify.git,Enable ECMAScript 2015 modules in Node today. No caveats. Full stop.,,719
+0,https://github.com/anderskm/gputil.git,A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python,,719
+0,https://github.com/thomas-haslwanter/statsintro_python.git,"Python modules and IPython Notebooks, for the book ""Introduction to Statistics With Python""",,718
+0,https://github.com/joukos/PaperTTY.git,PaperTTY - Python module to render a TTY or VNC on e-ink,"e-ink,terminal,python,raspberry-pi,waveshare,vnc",717
+0,https://github.com/tsurupin/portfolio.git,"A blog and Portfolio CMS built with Rails, React, Redux, Material-UI, CSS Modules.",,715
+0,https://github.com/shaoanlu/fewshot-face-translation-GAN.git,Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping.,"faceswap,generative-adversarial-network,gan,image-translation,face-swap,image-to-image-translation,image-to-image",714
+0,https://github.com/nuxt-community/apollo-module.git,Nuxt.js module to use Vue-Apollo. The Apollo integration for GraphQL.,"vue-apollo,apollo-client,nuxt,nuxt-module",712
+0,https://github.com/luuuyi/CBAM.PyTorch.git,Non-official implement of Paper：CBAM: Convolutional Block Attention Module,,711
+0,https://github.com/sindresorhus/generator-nm.git,Scaffold out a node module,,710
+0,https://github.com/kiorky/spynner.git,Programmatic web browsing module with AJAX support for Python,,709
+0,https://github.com/PrototypeZ/AppJoint.git,🔧 Cross module Android development made easy!,,708
+0,https://github.com/Naltox/telegram-node-bot.git,Node module for creating Telegram bots.,,705
+0,https://github.com/adblockradio/stream-audio-fingerprint.git,Audio landmark fingerprinting as a Node Stream module,"adblockradio,fingerprinting,shazam",703
+0,https://github.com/jamespacileo/django-pure-pagination.git,Django pagination based upon the core pagination module,,698
+0,https://github.com/manuelbieh/react-ssr-setup.git,"React Starter Project with Webpack 4, Babel 7, TypeScript, CSS Modules, Server Side Rendering, i18n and some more niceties","react,webpack,redux,babel,i18n,hmr,reselect,eslint,prettier,postcss,css-modules,express,typescript,react-router",696
+0,https://github.com/miyagawa/cpanminus.git,"cpanminus - get, unpack, build and install modules from CPAN ",,695
+0,https://github.com/darkoperator/Posh-SSH.git,PowerShell Module for automating tasks on remote systems using SSH,,694
+0,https://github.com/Und3rf10w/kali-anonsurf.git,"{""A port of ParrotSec's stealth and anonsurf modules to Kali Linux""}",,693
+0,https://github.com/soenkekluth/sticky-state.git,StickyState is a high performant module making native position:sticky statefull and polyfilling the missing sticky browser feature,"position,sticky,state,polyfill,sticky-state,scrolling,user-scrolls,classname,native",693
+0,https://github.com/numerical-mooc/numerical-mooc.git,"A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.",,690
+0,https://github.com/uber/pam-ussh.git,"{""uber's ssh certificate pam module""}",,688
+0,https://github.com/Yalantis/CameraModule.git,Simple camera module for android applications,"android,java,camera-api",687
+0,https://github.com/borntyping/python-colorlog.git,A colored formatter for the python logging module,"python,logging,library",687
+0,https://github.com/whitedogg13/react-native-nfc-manager.git,React Native NFC module for Android & iOS,"nfc,android,react-native,ios",685
+0,https://github.com/stevekane/promise-it-wont-hurt.git,A Workshopper module that teaches you to use promises in javascript,,685
+0,https://github.com/foniod/redbpf.git,Rust library for building and running BPF/eBPF modules,"rust-library,ebpf,rust-ffi,ffi-bindings",680
+0,https://github.com/Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS.git,ABP module-zero +AdminLTE+Bootstrap Table+jQuery+Redis + sql server+quartz+hangfire权限管理系统,"abp,aspnet-boilerplate-project,module-zero,signalr,log4net,hangfire,entityframework,adminlte,redis,quartz,bootstrap-table,jquery,entity-framework,mvc,webapi,swagger,automapper,log4j,sweetalert,spinjs",679
+0,https://github.com/Quramy/typed-css-modules.git,Creates .d.ts files from CSS Modules .css files,"typescript,css-modules",678
+0,https://github.com/apigee-127/swagger-tools.git,A Node.js and browser module that provides tooling around Swagger.,,676
+0,https://github.com/pH7Software/pH7-Social-Dating-CMS.git,"😻 pH7Builder (formerly pH7CMS) :couple: is a Professional & Open Source Social Dating CMS written in OOP PHP with the MVC pattern. This Social Dating Script wants to be low resource-intensive, powerful and secure. pH7CMS is included with 40+ modules and based on pH7Framework. It is also the first Professional, Free & Open Source Social Dating Site Builder Software and the first choice for creating enterprise level Dating Apps/Service or Social Networking Sites","social,dating,cms,social-network,dating-web-app,dating-software,php-cms,social-networking,dating-script,tinder-clone,dating-cms,social-cms,dating-app,social-app,dating-website,matchmaking,community-management,cms-framework,website-builder,tinder",676
+0,https://github.com/matowens/ng-notify.git,"A simple, lightweight module for displaying notifications in your AngularJS app.",,675
+0,https://github.com/sindresorhus/node-module-boilerplate.git,Boilerplate to kickstart creating a Node.js module,"node-boilerplate,nodejs,npm-package,template-repository,node-module",672
+0,https://github.com/Separius/awesome-fast-attention.git,list of efficient attention modules,"transformer,attention,awesome,reformer,longformer,linformer,multihead-attention,self-attention,attention-is-all-you-need,transformer-network",671
+0,https://github.com/arminc/terraform-ecs.git,AWS ECS terraform module,"aws-ecs,terraform,terraform-modules",671
+0,https://github.com/EllanJiang/UnityGameFramework.git,"This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.","game-frameworks,game-modules,game-development,unity,unity3d",669
+0,https://github.com/kvspb/nginx-auth-ldap.git,LDAP authentication module for nginx,,667
+0,https://github.com/sitegui/nodejs-websocket.git,A node.js module for websocket server and client,,666
+0,https://github.com/James1345/django-rest-knox.git,Authentication Module for django rest auth,,665
+0,https://github.com/vikpe/react-webpack-typescript-starter.git,Minimal starter with hot module replacement (HMR) for rapid development.,"react,typescript,webpack,babel,sass,boilerplate,hot-module-replacement,hmr",662
+0,https://github.com/scikit-multilearn/scikit-multilearn.git,A scikit-learn based module for multi-label et. al. classification,"classification,scikit,scikit-learn,multi-label,scikit-multilearn,machine-learning,clustering,partitioning,label-prediction",661
+0,https://github.com/pprp/SimpleCVReproduction.git,"Reproduce simple cv project including attention module, classification, object detection, segmentation, keypoint detection, tracking :smile:  etc.","computer-vision,paper-reproduction,demo,cv,pytorch,classification,object-detection,face-detection,landmark,attention",658
+0,https://github.com/niftylettuce/express-cdn.git,"{"":cloud: Node module for delivering optimized, minified, mangled, gzipped assets with Express and Amazon's CDN (S3/CloudFront)""}",,658
+0,https://github.com/nozaq/terraform-aws-secure-baseline.git,Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.,"terraform,aws,security,security-hardening,terraform-modules,hardening,cis-benchmark,aws-auditing,security-tools,devops",655
+0,https://github.com/zjns/PureNeteaseCloudMusic-Xposed.git,A Xposed module to pure Netease CloudMusic android client.,,654
+0,https://github.com/rickyrauch/nodejs-starter.git,"{""Single Page App setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap.""}",,651
+0,https://github.com/alfg/docker-nginx-rtmp.git,🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.,"nginx-rtmp,ffmpeg,docker,hls-live-streaming,hls,live-streaming,rtmp,twitch",650
+0,https://github.com/apache/incubator-pagespeed-mod.git,Apache module for rewriting web pages to reduce latency and bandwidth.,pagespeed,648
+0,https://github.com/cardmagic/classifier.git,A general classifier module to allow Bayesian and other types of classifications.,,645
+0,https://github.com/xesscorp/skidl.git,SKiDL is a module that extends Python with the ability to design electronic circuits.,"kicad,eda,python,electronics,schematics",645
+0,https://github.com/peaceiris/actions-hugo.git,"GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.","github-actions,hugo,actions",642
+0,https://github.com/fatlinesofcode/ngDraggable.git,Drag and drop module for Angular JS,,640
+0,https://github.com/inveniosoftware/dictdiffer.git,Dictdiffer is a module that helps you to diff and patch dictionaries. ,,639
+0,https://github.com/aackerman/circular-dependency-plugin.git,Detect circular dependencies in modules compiled with Webpack,"javascript,webpack",635
+0,https://github.com/facebookarchive/ig-lazy-module-loader.git,Library that implements module lazy loading. ,,632
+0,https://github.com/jondavidjohn/hidpi-canvas-polyfill.git,:computer:    A JavaScript drop-in module to polyfill consistent and automatic HiDPI Canvas support.,,632
+0,https://github.com/ADD-SP/ngx_waf.git,"Handy, High performance Nginx firewall module & 方便且高性能的 Nginx 防火墙模块","nginx,nginx-modules,web-application-firewall,ngx-waf",632
+0,https://github.com/caiobiodere/cordova-template-framework7-vue-webpack.git,Framework7 - Vue - Webpack Cordova Template with Webpack Dev Server and Hot Module Replacement,"cordova,cordova-template,webpack-cordova-template,webpack,vuejs2,vuejs,phonegap,phonegap-templates,babel,babel-preset,babel-transform-runtime,vuex,vue2,vue,webpack4,fontawesome",631
+0,https://github.com/netz98/n98-magerun2.git,"The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.","cli-app,magento2,php",628
+0,https://github.com/boostorg/asio.git,Boost.org asio module,,622
+0,https://github.com/jjlee/mechanize.git,"{""Stateful programmatic web browsing in Python, after Andy Lester's Perl module WWW::Mechanize .""}",,622
+0,https://github.com/t2v/play2-auth.git,Play2.x Authentication and Authorization module,,621
+0,https://github.com/hacksparrow/node-easyimage.git,Node.js module for image processing and manipulation,,620
+0,https://github.com/openresty/lua-resty-core.git,New FFI-based API for lua-nginx-module,,614
+0,https://github.com/WojciechMula/pyahocorasick.git,Python module (C extension and plain python) implementing Aho-Corasick algorithm,"string-manipulation,automaton,aho-corasick,trie",609
+0,https://github.com/zmts/beauty-vuejs-boilerplate.git,"❤️ Real world base Vue.js app. Access/refresh tokens auth, api services, http client, vuex modules","vuejs,access-token,refresh-token,api,http-wrapper,spa,realworld,enterprise,data-access-layer,boilerplate,vue-boilerplate,vuex,jwt,flux",608
+0,https://github.com/iresty/nginx-lua-module-zh-wiki.git,https://github.com/openresty/lua-nginx-module chinese version,,607
+0,https://github.com/transistorsoft/cordova-background-geolocation-lt.git,The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.,"ionic,cordova,background-location,background-geolocation,background,location-tracking",605
+0,https://github.com/cloverstudio/Spika.git,"Spika is universal chat module with backend, web, ios and Android client.",,603
+0,https://github.com/Tracktion/tracktion_engine.git,Tracktion Engine module,"audio,cpp,c-plus-plus,juce,framework,audio-processing,daw",601
+0,https://github.com/alperakcan/fuse-ext2.git,"Fuse-ext2 is a multi OS FUSE module to mount ext2, ext3 and ext4 file system devices and/or images with read write support.",,601
+0,https://github.com/nfl/react-metrics.git,An analytics module for React,,599
+0,https://github.com/BoboTiG/python-mss.git,An ultra fast cross-platform multiple screenshots module in pure Python using ctypes.,"python,screenshot,ctypes,python-library,mss,monitor,cli,efficiency,gnu-linux,macos,windows,cross-platform,python-mss",598
+0,https://github.com/Arvanaghi/CheckPlease.git,"Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.",,597
+0,https://github.com/cirosantilli/linux-cheat.git,Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities. Linux kernel at: https://github.com/cirosantilli/linux-kernel-module-cheat Linux教程和备忘单。 最少的例子。 主要是用户级CLI实用程序。 Linux内核位于：https://github.com/cirosantilli/linux-kernel-module-cheat,,597
+0,https://github.com/ng-alain/delon.git,Delon is a set of essential modules for ng-alain. https://github.com/ng-alain/ng-alain/issues,"angular-components,ng-alain,angular,ng-zorro,g2,ng-admin,angular-scaffolding,scaffold-template,scaffold-framework,scaffold,scaffolding",596
+0,https://github.com/jdunck/python-unicodecsv.git,"{""Python2's stdlib csv module is nice, but it doesn't support unicode.  This module is a drop-in replacement which *does*.  If you prefer python 3's semantics but need support in py2, you probably want https://github.com/ryanhiebert/backports.csv""}",,596
+0,https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation.git,":four_leaf_clover: Another Chinese chatbot implemented in PyTorch,  which is the sub-module of intelligent work order processing robot. 👩\u200d🔧","deep-learning,chatbot,pytorch,pytorch-nlp,chinese-nlp",595
+0,https://github.com/mikaelbr/gulp-notify.git,"gulp plugin to send messages based on Vinyl Files or Errors to Mac OS X, Linux or Windows using the node-notifier module. Fallbacks to Growl or simply logging",,595
+0,https://github.com/goproxy/goproxy.git,A minimalist Go module proxy handler.,"goproxy,minimalist,go,module,proxy,handler",591
+0,https://github.com/mrmckeb/typescript-plugin-css-modules.git,A TypeScript language service plugin providing support for CSS Modules.,"typescript,plugin,css,modules,postcss,sass",590
+0,https://github.com/packem/packem.git,📦⚡ A precompiled JavaScript module bundler,"packem,build-tool,rust,bundler,compiler,plugin,prebuilt-binaries,javascript,minify,code-splitting",588
+0,https://github.com/status-im/status-go.git,The Status module that consumes go-ethereum,"go,golang,ethereum,blockchain,cryptocurrency",586
+0,https://github.com/Mage2Gen/Mage2Gen.git,Python library for generating Magento 2 module,,586
+0,https://github.com/cschiewek/devise_ldap_authenticatable.git,Devise Module for LDAP ,,585
+0,https://github.com/psget/psget.git,Set of commands to install PowerShell modules from local file or from the web. Inspired by NuGet,,585
+0,https://github.com/EvotecIT/PSWinReporting.git,"This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.","powershell,powershell-module,windows,reporting,activedirectory,hacktoberfest",583
+0,https://github.com/javivelasco/react-css-themr.git,Easy theming and composition for CSS Modules.,"theming,react,css-modules,themr,react-toolbox",582
+0,https://github.com/google/module-server.git,module-server,,582
+0,https://github.com/ianare/exif-py.git,Easy to use Python module to extract Exif metadata from digital image files.,"exif,python,jpeg,tiff,webp,heic,metadata,xmp",582
+0,https://github.com/rm-hull/luma.oled.git,Python module to drive a SSD1306 / SSD1309 / SSD1322 / SSD1325 / SSD1327 / SSD1331 / SSD1351 / SH1106 OLED ,"python,raspberry-pi,oled,ssd1306,sh1106,ssd1325,ssd1322,ssd1331,spi,i2c,ssd1327,ssd1309,ssd1362,ssd1351",578
+0,https://github.com/mcollina/make-promises-safe.git,A node.js module to make the use of promises safe,,578
+0,https://github.com/garronej/denoify.git,🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port for it.,"support-deno,node-builtin,deno,sypack,jspm,build-tool",578
+0,https://github.com/leev/ngx_http_geoip2_module.git,Nginx GeoIP2 module,,577
+0,https://github.com/devblackops/Terminal-Icons.git,A PowerShell module to show file and folder icons in the terminal,"powershell,console,terminal,icon,icons",575
+0,https://github.com/nullpo-head/WSL-Hello-sudo.git,"{""Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.""}","wsl,linux-pam",575
+0,https://github.com/vozlt/nginx-module-sysguard.git,Nginx sysguard module,"c,nginx,nginx-module,vozlt-nginx-modules,protection",570
+0,https://github.com/WhiteHouse/fb_messenger_bot.git,"{""This Drupal module provides a tool to build a chat bot to work on Facebook's Messenger Platform.""}",,570
+0,https://github.com/NodeRT/NodeRT.git,Winrt APIs-node.js modules generator,"nodert,electron,nodejs,uwp",568
+0,https://github.com/BoyCook/TwitterJSClient.git,Twitter client written in JavaScript packaged as a node module,,568
+0,https://github.com/Jimdo/typings-for-css-modules-loader.git,Drop-in replacement for css-loader to generate typings for your CSS-Modules on the fly in webpack,,568
+0,https://github.com/pingpong-labs/modules.git,Laravel 5 Modules,,567
+0,https://github.com/nuxt-community/google-analytics-module.git,Google Analytics Module,"analytics,google-analytics,nuxt,vue-analytics,nuxt-module",567
+0,https://github.com/aaronlumsden/tabulous.js.git,A jQuery tabs module for todays web!,,566
+0,https://github.com/laurihy/angular-payments.git,"Module that provides AngularJS-directives for formatting, validating and working with payments",,565
+0,https://github.com/chill117/proxy-lists.git,Node.js module and CLI tool to get proxies from publicly available proxy lists.,"proxies,nodejs",565
+0,https://github.com/numical/script-ext-html-webpack-plugin.git,"{""Enhances html-webpack-plugin functionality with different deployment options for your scripts including 'async', 'preload', 'prefetch', 'defer', 'module', custom attributes, and inlining.""}",,565
+0,https://github.com/patx/pickledb.git,"{""pickleDB is an open source key-value store using Python's json module.""}","python,python3,pickledb,database,key-value,bsd-3-clause,datastore,json",563
+0,https://github.com/suriyadeepan/practical_seq2seq.git,"{""A simple, minimal wrapper for tensorflow's seq2seq module, for experimenting with datasets rapidly""}","seq2seq,chatbot,tensorflow,neural-conversation-models",561
+0,https://github.com/bahmutov/next-update.git,"{""Tests if module's dependencies can be updated to latest version""}","semver,semantic-versioning,testing,test,update,versioning,nodejs,npm",561
+0,https://github.com/denji/homebrew-nginx.git,:fire_engine: Community NGINX tap for custom modules,"macos,nginx,homebrew",560
+0,https://github.com/hashicorp/terraform-aws-vault.git,A Terraform Module for how to run Vault on AWS using Terraform and Packer,,560
+0,https://github.com/cyrilletuzi/angular-async-local-storage.git,Efficient local storage module for Angular apps and PWA: simple API + performance + Observables + validation,"angular,localstorage,indexeddb,rxjs,pwa,offline,javascript,typescript",560
+0,https://github.com/nuxt-community/sitemap-module.git,Sitemap Module for Nuxt,"sitemap,nuxt,nuxtjs,nuxt-module,seo,ssr",559
+0,https://github.com/MVIG-SJTU/pointSIFT.git,a module for 3D semantic segmentation in point clouds.,,559
+0,https://github.com/cudamat/cudamat.git,Python module for performing basic dense linear algebra computations on the GPU using CUDA.,"python,cuda,linear-algebra",558
+0,https://github.com/lasso-js/lasso.git,"Advanced JavaScript module bundler, asset pipeline and optimizer",,557
+0,https://github.com/Ciul/angular-facebook.git,An Angularjs module to take approach of Facebook javascript sdk.,,555
+0,https://github.com/RedisAI/RedisAI.git,A Redis module for serving tensors and executing deep learning graphs,"redisai,pytorch,tensorflow,onnxruntime,serving-tensors,machine-learning",555
+0,https://github.com/DavBfr/dart_pdf.git,Pdf creation module for dart/flutter,"dart,pdf,flutter-plugin,pdf-library,pdf-generation,dart-pdf",554
+0,https://github.com/yeoman/generator-node.git,Create a Node.js module,,553
+0,https://github.com/lukeed/dimport.git,"Run ES Module syntax (`import`, `import()`, and `export`) in any browser – even IE!",,553
+0,https://github.com/Devs-Garden/jsonbase.git,"A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new features and providing more updates. The another beautiful advantage with JSON-base is since it is a NPM module, this fits well in your nodeJs applications eco system. if you want to develop quick prototypes/poc or need of a database with minimal requirements then, JSONBASe is an must option that you can consider. However there is a limitation if you go beyond a million records per table.","database,npm-module,json-base",553
+0,https://github.com/PhilippeBoisney/ArchApp.git,Simple Android app to show how to design a multi-modules MVVM Android app (fully tested),"coroutines,kotlin,architecture-components,navigation-component,room,testing,mvvm-android,mvvm-architecture,espresso,multi-modules,databinding,databinding-android",552
+0,https://github.com/Netflix/unleash.git,Professionally publish your JavaScript modules in one keystroke,,551
+0,https://github.com/Yubico/yubico-pam.git,Yubico Pluggable Authentication Module (PAM),"yubikey,c,pam-module",550
+0,https://github.com/tasdikrahman/vocabulary.git,"[Not Maintained anymore] Python Module to get Meanings, Synonyms and what not for a given word","nlp,python,api,wordnik,glosbe,synonyms,antonym,pronunciation,dictionary",548
+0,https://github.com/GoogleChromeLabs/comlink-loader.git,Webpack loader to offload modules to Worker threads seamlessly using Comlink.,"comlink,worker,webworker,threading,webpack,webpack-loader",547
+0,https://github.com/terraform-google-modules/terraform-google-kubernetes-engine.git,A Terraform module for configuring GKE clusters.,cft-terraform,544
+0,https://github.com/tjfontaine/node-dns.git,Replacement dns module in pure javascript for node.js,,543
+0,https://github.com/vintasoftware/django-templated-email.git,"Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)",,543
+0,https://github.com/JECSand/yahoofinancials.git,"A powerful financial data module used for pulling data from Yahoo Finance. This module can pull fundamental and technical data for stocks, indexes, currencies, cryptos, ETFs, Mutual Funds, U.S. Treasuries, and commodity futures.","stock-data,yahoo-finance,financial-data,stock-quotes,fundamentals,cryptocurrencies,forex,commodities,etfs,mutual-funds,bonds",539
+0,https://github.com/golevelup/nestjs.git,A collection of badass modules and utilities to help you level up your NestJS applications 🚀,"nestjs,microservices,typescript,javascript,nodejs,express,rabbitmq,plugins,graphql,hasura,event-management,webhooks",538
+0,https://github.com/scala/scala-parser-combinators.git,"simple combinator-based parsing for Scala. formerly part of the Scala standard library, now a separate community-maintained module","scala,parser-combinators,parsing",536
+0,https://github.com/tiangolo/nginx-rtmp-docker.git,Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.,"nginx-rtmp,obs-studio,stream,docker-image,multimedia,docker,dockerfile,vlc,video,live-multimedia,nginx,server,rtmp",534
+0,https://github.com/autopilot-rs/autopy.git," A simple, cross-platform GUI automation module for Python and Rust.","cross-platform,gui,automation,python,input,simulation",533
+0,https://github.com/Zuikyo/ZIKRouter.git,"Interface-oriented router for discovering modules, and injecting dependencies with protocol in Objective-C and Swift.","ios,swift,router,dependency-injection,protocol-oriented,interface-oriented,modular",532
+0,https://github.com/nginxinc/nginx-ldap-auth.git,Example of LDAP authentication using ngx_http_auth_request_module,,532
+0,https://github.com/vstconsulting/polemarch.git,Simple WEB gui for infrastructure management by ansible playbooks or modules. This is only mirror with bins in releases.,"python,ansible,gui,django,django-rest-framework,automation",532
+0,https://github.com/hongtaocai/googlefinance.git,Python module to get real-time stock data from Google Finance API,,529
+0,https://github.com/NVISOsecurity/MagiskTrustUserCerts.git,A Magisk module that automatically adds user certificates to the system root CA store,,529
+0,https://github.com/jreese/znc-push.git,Push notification service module for ZNC,"irc,znc,notifications",526
+0,https://github.com/ddsol/speedtest.net.git,node.js SpeedTest.net client module,,526
+0,https://github.com/Kazhnuz/awesome-gnome.git,"A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.","awesome,awesome-list,gnome,applications,gnome-shell-extension,gtk-theme",526
+0,https://github.com/aperezdc/ngx-fancyindex.git,Fancy indexes module for the Nginx web server,"nginx,module,c,indexes",525
+0,https://github.com/graniet/operative-framework.git,"operative framework is a OSINT investigation framework, you can interact with multiple targets, execute multiple modules, create links with target, export rapport to PDF file, add note to target or results, interact with RESTFul API, write your own modules.","fingerprint,framework,gathering,golang,linkedin,societe,go,whatsapp,forensics,enterprise,scraper,investigation,geoint,whatsapp-web,whatsapp-api,phone,osint",524
+0,https://github.com/ansible/ansible-runner.git,"A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible.",,524
+0,https://github.com/pyscf/pyscf.git,Python module for quantum chemistry,,522
+0,https://github.com/pbojinov/request-ip.git,"{""A Node.js module for retrieving a request's IP address on the server.""}","request,ip,address,npm,nodejs,nodejs-library",521
+0,https://github.com/jvoisin/snuffleupagus.git,Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest!,"php7,security,hardening,c,php,elephant,php-module,security-hardening",521
+0,https://github.com/monkeylord/XServer.git,"A Xposed Module for Android Penetration Test, with NanoHttpd.",,519
+0,https://github.com/Galooshi/import-js.git,A tool to simplify importing JS modules,"javascript,importjs,vim,emacs,sublime,atom,vscode",516
+0,https://github.com/yeoman/insight.git,Node.js module to help you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics,,516
+0,https://github.com/JoneXiong/oejia_wx.git,Odoo 的微信模块  Wechat module for Odoo,,514
+0,https://github.com/ac-pm/SSLUnpinning_Xposed.git,Android Xposed Module to bypass SSL certificate validation (Certificate Pinning).,,514
+0,https://github.com/ZF-Commons/ZfcUser.git,A generic user registration and authentication module for ZF2. Supports Zend\\Db and Doctrine2. (Formerly EdpUser),,514
+0,https://github.com/rxi/classic.git,Tiny class module for Lua,,513
+0,https://github.com/geddski/overmind.git,Easy module isolation and lazy loading for Angular apps,,513
+0,https://github.com/lkiesow/python-feedgen.git,"Python module to generate ATOM feeds, RSS feeds and Podcasts.","python,feed,rss,atom",510
+0,https://github.com/vuejs/vue-dev-server.git,A POC dev server that allows you to import `*.vue` files via native ES modules imports.,,510
+0,https://github.com/jmcantrell/bashful.git,A collection of modules to simplify writing bash scripts.,,509
+0,https://github.com/aspnetboilerplate/module-zero-forsaken.git,ASP.NET Boilerplate - ASP.NET Identity Integration Module,"multi-tenancy,identity-management,c-sharp",509
+0,https://github.com/aroth/react-native-uploader.git,A React Native module to upload files and camera roll assets.,,509
+0,https://github.com/FRiCKLE/ngx_postgres.git,upstream module that allows nginx to communicate directly with PostgreSQL database. ,,508
+0,https://github.com/jekyll/classifier-reborn.git,A general classifier module to allow Bayesian and other types of classifications. A fork of cardmagic/classifier.,"ruby,rubyml,bayesian-classifier",508
+0,https://github.com/sindresorhus/crypto-hash.git,Tiny hashing module that uses the native crypto API in Node.js and the browser,"hashing,hash-functions,sha256,crypto,isomorphic,nodejs,browser,npm-package",508
+0,https://github.com/720kb/angular-socialshare.git,"Angular social share module, share urls and content on social networks such as facebook, google+, twitter, pinterest and more ... - http://720kb.github.io/angular-socialshare","angular,social,sharing,share,media,angularjs",507
+0,https://github.com/sindresorhus/project-ideas.git,Need a JavaScript module or looking for ideas? Welcome ✨,,506
+0,https://github.com/flakshack/SysAdminBoard.git,"Simple dashboard system for sysadmins with modules for VMware, SNMP, REST API and more",,505
+0,https://github.com/pysam-developers/pysam.git,"{""Pysam is a Python module for reading and manipulating SAM/BAM/VCF/BCF files. It's a lightweight wrapper of the htslib C-API, the same one that powers samtools, bcftools, and tabix.""}",,505
+0,https://github.com/datproject/dat-node.git,Node module for creating dat compatible tools on file systems,"dat,hyperdrive,dat-protocol",504
+0,https://github.com/yaoweibin/ngx_http_substitutions_filter_module.git,a filter module which can do both regular expression and fixed string substitutions for nginx,,504
+0,https://github.com/sasa1977/boundary.git,Manage and restrain cross-module dependencies in Elixir projects,,504
+0,https://github.com/zengabor/zenscroll.git,A JavaScript module to smooth-scroll web pages and other scrollable elements,,503
+0,https://github.com/postui/esm.sh.git,"A fast, global content delivery network for ES Modules.","esm,cdn,npm,deno,global,fast,js,esbuild",502
+0,https://github.com/astorm/pestle.git,"A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts. ",,501
+0,https://github.com/GrafiteInc/CMS.git,"Decoupled CMS for any Laravel app, gain control of: pages, blogs, galleries, events, images, custom modules and more. ","cms,laravel,galleries,blog,events,pages,modules,api",500
+0,https://github.com/malarkey/Rock-Hammer.git,"A curated project library for Hammer For Mac. Rock Hammer contains baseline typography, plus styling for common HTML elements including images, forms and tables, as well as navigation, responsive modules and widgets",,500
+0,https://github.com/wonday/react-native-orientation-locker.git,"A react-native module that can listen on orientation changing of device, get current orientation, lock to preferred orientation. ","orientation,react-native,listener,locker,android,ios",500
+0,https://github.com/nestjsx/nestjs-config.git,Config module for nestjs using dotenv :key:,"nestjs,config,dotenv,typescript",499
+0,https://github.com/CppMicroServices/CppMicroServices.git,An OSGi-like C++ dynamic module system and service registry,"c-plus-plus,osgi,microservice,component-architecture",498
+0,https://github.com/thinkroth/Sentimental.git,A sentiment analysis module for node.js,,496
+0,https://github.com/tcp-nanqinlang/general.git,general mode via module loading,,495
+0,https://github.com/schaloner/deadbolt-2.git,An authorization module for the Play framework,,495
+0,https://github.com/nuxt-community/vuetify-module.git,Vuetify Module for Nuxt.js,"vue,vuetify,nuxt,nuxt-module",494
+0,https://github.com/tsileo/bakthat.git,"{""Bakthat is a MIT licensed backup framework written in Python, it's both a command line tool and a Python module that helps you manage backups on Amazon S3/Glacier and OpenStack Swift. It automatically compress, encrypt (symmetric encryption) and upload your files.""}",,494
+0,https://github.com/tttapa/ESP8266.git,Documentation and help with the ESP8266 chip/boards/modules,,493
+0,https://github.com/PatrickJS/angular-hmr.git,:fire: Angular Hot Module Replacement for Hot Module Reloading,"angular2-hmr,angular,loader,webpack,hmr,hot-reload,hot-module-replacement,angular2,angular4",493
+0,https://github.com/matthaywardwebdesign/node-security.git,:key: The easiest way to control what npm modules can access,,493
+0,https://github.com/muaz-khan/WebRTC-Scalable-Broadcast.git,This module simply initializes socket.io and configures it in a way that single broadcast can be relayed over unlimited users without any bandwidth/CPU usage issues. Everything happens peer-to-peer!,"rtcmulticonnection,webrtc",493
+0,https://github.com/silverstripe/silverstripe-cms.git,SilverStripe CMS - this is a module for SilverStripe Framework rather than a standalone app. Use https://github.com/silverstripe/silverstripe-installer/ to set this up.,hacktoberfest,492
+0,https://github.com/chartjs/chartjs-chart-financial.git,Chart.js module for charting financial securities,"chart,timeseries,javascript-library,candlestick,candlestick-chart,charting-library,ohlc",491
+0,https://github.com/rollup/rollup-plugin-commonjs.git,This module has moved and is now available at @rollup/plugin-commonjs / https://github.com/rollup/plugins,,491
+0,https://github.com/lukeed/ganalytics.git,A tiny (312B) client-side module for tracking with Google Analytics,"analytics,google-analytics,lightweight,javascript",491
+0,https://github.com/d4rkr00t/whybundled.git,Answers the question – Why the hell is this module in a bundle?,"webpack,stats,bundle,bundle-size",490
+0,https://github.com/scalecube/scalecube-services.git,"ScaleCube Services is a high throughput, low latency reactive microservices library built to scale. it features: API-Gateways, service-discovery, service-load-balancing, the architecture supports plug-and-play service communication modules and features. built to provide performance and low-latency real-time stream-processing. its open and designed to accommodate changes. (no sidecar in a form of broker or any kind)","microservices,reactive-streams,distributed-systems,service-mesh,reactive-microservices,ipc,low-latency,backpressure,swim-protocol,cluster-membership,gossip-protocol,reactor-netty,reactor-aeron,api-gateway,service-discovery,cluster,multicast-streams,aeron,actor-model,k8s",490
+0,https://github.com/jdesbonnet/RCWL-0516.git,Information about RCWL-0516 microwave proximity switch module (ICStation.com SKU 10630),,489
+0,https://github.com/yathit/ydn-db.git,"Javascript database module for Indexeddb, Web SQL and localStorage storage mechanisms supporting version migration, advanced query, SQL and transaction.",,488
+0,https://github.com/720kb/angular-datepicker.git,"Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker","angular,angularjs,datepicker,directive,angular-directives",486
+0,https://github.com/keeganstreet/specificity.git,A JavaScript module for calculating the specificity of CSS selectors,,485
+0,https://github.com/schema-inspector/schema-inspector.git,Schema-Inspector is a simple JavaScript object sanitization and validation module.,"javascript,validation,sanitization,data-cleaning",485
+0,https://github.com/css-modules/css-modules-require-hook.git,A require hook to compile CSS Modules in runtime,,484
+0,https://github.com/electron/libchromiumcontent.git,Shared library build of Chromium’s Content module,"electron,chrome",484
+0,https://github.com/cirosantilli/cpp-cheat.git,"MOVING TO: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-content SEE README. C, C++, POSIX and Linux system programming minimal examples. Asserts used wherever possible. Hello worlds for cool third party libraries and build systems. Cheatsheets, tutorials and mini-projects. 移至：https://github.com/cirosantilli/linux-kernel-module-cheat#userland-content查看自述文件。 C，C ++，POSIX和Linux系统编程的最少示例。 尽可能使用断言。 酷第三方库和构建系统的世界。 备忘单，教程和小型项目。","c,c-plus-plus,posix,linux",483
+0,https://github.com/mxgxw/MFRC522-python.git,A small class to interface with the NFC reader Module MFRC522,,481
+0,https://github.com/onepanelio/onepanel.git,"The open and extensible integrated development environment (IDE) for computer vision with built-in modules for model building, automated labeling, data processing, model training, hyperparameter tuning and workflow orchestration.","deeplearning,pipelines,machinelearning,workflow,jupyterlab,cvat,tensorflow,pytorch,tensorboard,computer-vision,mlops,training-pipelines,workflows,aiops,annotation,hyperparameter-tuning,integrated-development-environment,ide",481
+0,https://github.com/plasticine/inject-loader.git,💉📦 A Webpack loader for injecting code into modules via their dependencies.,"javascript,webpack-loader,loader",479
+0,https://github.com/facundoolano/socketio-auth.git,Authentication module for socket.io,,478
+0,https://github.com/nuxt-community/device-module.git,Nuxt.js module for detecting device type.,"nuxt,nuxtjs,javascript",478
+0,https://github.com/githubwing/DroidSword.git,"[xposed module]Android apk逆向快速定位,灰色按钮克星。Android reverse tool",,478
+0,https://github.com/tradle/rn-nodeify.git,"hack to allow react-native projects to use node core modules, and npm modules that use them",,476
+0,https://github.com/functionscope/Node-Excel-Export.git,A simple node.js module for exporting data set to Excel xlsx file.,,476
+0,https://github.com/GcsSloop/FontsManager.git,help you change the module font easily.(方便快速的为应用内所有组件更换字体),,476
+0,https://github.com/iammerrick/Squire.js.git,Your friendly dependency injector for testing Require.js modules.,,475
+0,https://github.com/techwithtim/NEAT-Flappy-Bird.git,An AI that plays flappy bird! Using the NEAT python module.,,474
+0,https://github.com/autocracy/python-ipy.git,IPy are a Python class and tools for handling of IPv4 and IPv6 addresses and networks. It is similar to Net::IP Perl module.,,474
+0,https://github.com/yahoo/redislite.git,Redis in a python module.,"python,redis,key-value,database,big-data,redislite,redis-server,redis-bindings,screwdriver",473
+0,https://github.com/ultimatecourses/ngx-errors.git,A declarative validation errors module for reactive forms.,"angular,validation,reactive",473
+0,https://github.com/derek73/python-nameparser.git,A simple Python module for parsing human names into their individual components ,"python,text-processing,text-parser,python-module",473
+0,https://github.com/auchenberg/dependo.git,Visualize your CommonJS or AMD module dependencies in a force directed graph report.,,473
+0,https://github.com/jakobrunge/tigramite.git,Tigramite is a time series analysis python module for causal discovery. The Tigramite documentation is at,,471
+0,https://github.com/PhilippeSigaud/Pegged.git,"A Parsing Expression Grammar (PEG) module, using the D programming language.",,471
+0,https://github.com/OpenHFT/OpenHFT.git,Parent module to include active modules,,470
+0,https://github.com/antirez/disque-module.git,Disque ported as Redis module,,468
+0,https://github.com/rollup/rollup-plugin-node-resolve.git,This module has moved and is now available at @rollup/plugin-node-resolve / https://github.com/rollup/plugins,,468
+0,https://github.com/voxpupuli/puppet-nginx.git,Puppet Module to manage NGINX on various UNIXes,"puppet,nginx,bsd-puppet-module,linux-puppet-module,hacktoberfest",467
+0,https://github.com/embedded-boston/awesome-embedded-systems.git,"A curated list of delightful Embedded Systems libraries, RTOSes, modules, references and more!",,467
+0,https://github.com/electron/update-electron-app.git,🌲 A drop-in module that adds autoUpdating capabilities to Electron apps,,465
+0,https://github.com/hsiafan/requests.git,"Convenient http client for java,  inspired by python request module","http-client,java,http-requests",464
+0,https://github.com/savoirfairelinux/num2words.git,Modules to convert numbers to words. 42 --> forty-two,"hacktoberfest,python",462
+0,https://github.com/briangraves/ResponsiveEmailPatterns.git,A collection of patterns & modules for responsive emails,,461
+0,https://github.com/chilts/awssum.git,(deprecated: use aws-sdk) Node.js modules for talking to lots of Web Service APIs.,,461
+0,https://github.com/nestjs/cqrs.git,A lightweight CQRS module for Nest framework (node.js) :balloon:,"nest,nodejs,typescript,cqrs,javascript,nest-framework,nest-cqrs",461
+0,https://github.com/terraform-aws-modules/terraform-aws-rds.git,Terraform module which creates RDS resources on AWS,"terraform-module,rds,aws,aws-rds,aws-rds-terraform",460
+0,https://github.com/tatsushid/go-fastping.git,ICMP ping library for Go inspired by AnyEvent::FastPing Perl module,,460
+0,https://github.com/g1879/DrissionPage.git,"A module that integrates selenium and requests session, encapsulates common page operations, can achieve seamless switching between the two modes.","selenium-python,crawlers,automation-framework,requests",459
+0,https://github.com/abacritt/angularx-social-login.git,Social login and authentication module for Angular 9,"social-login,facebook-login,google-login,facebook-authentication,google-authentication,angular",458
+0,https://github.com/blue-yonder/turbodbc.git,Turbodbc is a Python module to access relational databases via the Open Database Connectivity (ODBC) interface. The module complies with the Python Database API Specification 2.0.,"python,odbc,database,exasol,numpy,data-science,pep249,python-database-api,pyodbc,speedup",458
+0,https://github.com/angristan/nginx-autoinstall.git,Compile Nginx from source with custom modules on Debian and Ubuntu,"nginx,openssl,libressl,brotli,pagespeed,geoip,alpn,http2,chacha20-poly1305,curve25519,cloudflare,debian",456
+0,https://github.com/terryyin/translate-python.git,"Online translation as a Python module & command line tool. No key, no authentication needed.",,456
+0,https://github.com/deeptools/pyGenomeTracks.git,python module to plot beautiful and highly customizable genome browser tracks,,456
+0,https://github.com/MindMac/AndroidEagleEye.git,An Xposed and adbi based module which is capable of hooking both Java and Native methods targeting Android OS.,,456
+0,https://github.com/dzcpy/transliteration.git,"UTF-8 to ASCII transliteration / slugify module for node.js, browser, Web Worker, React Native, Electron and CLI.","transliteration,slugify,character,ascii,utf-8,unicode",455
+0,https://github.com/nutti/fake-bpy-module.git,Fake Blender Python API module collection for the code completion.,"blender-addon,blender-scripts,blender,blender3d,python,b3d",454
+0,https://github.com/kyprizel/testcookie-nginx-module.git,simple robot mitigation module using cookie based challenge/response technique. Not supported any more.,"ddos,ddos-mitigation,nginx-module,nginx",453
+0,https://github.com/azproduction/lmd.git,LMD - JavaScript Module-Assembler for building better web applications :warning: Project is no longer supported :warning: ,,453
+0,https://github.com/boblauer/mock-require.git,"Simple, intuitive mocking of Node.js modules.",,452
+0,https://github.com/openresty/lua-upstream-nginx-module.git,Nginx C module to expose Lua API to ngx_lua for Nginx upstreams,,452
+0,https://github.com/ZFbaby/ZFSeatsSelection.git,高仿猫眼电影选座（选票）模块（High imitation opal film seat selection (vote) module）,,452
+0,https://github.com/bportaluri/WiFiEsp.git,Arduino WiFi library for ESP8266 modules,,451
+0,https://github.com/dherman/defense-of-dot-js.git,In Defense of .js: A Proposal for Node.js Modules,,451
+0,https://github.com/badgeek/svg2shenzhen.git,Convert Inkscape SVG drawings to KiCad PCB and footprint modules,"pcb,kicad-pcb,inkscape,pcb-art,badge,art,openhardware,badgelife",450
+0,https://github.com/TypeFox/monaco-languageclient.git,NPM module to connect Monaco editor with language servers,"language-server,monaco-editor,language-server-protocol,lsp,vscode,monaco",450
+0,https://github.com/NetSPI/PESecurity.git,"PowerShell module to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, and Authenticode.",,450
+0,https://github.com/SitePen/dts-generator.git,Generates a single .d.ts bundle containing external module declarations exported from TypeScript module files.,typescript,449
+0,https://github.com/MetaMask/web3-provider-engine.git,A JavaScript library for composing Ethereum provider objects using middleware modules,,448
+0,https://github.com/dmbee/seglearn.git,Python module for machine learning time series:,"python,machine-learning,data-science,time-series",448
+0,https://github.com/omnilib/aiosqlite.git,asyncio bridge to the standard sqlite3 module,"python,asyncio,sqlite,sqlite3",448
+0,https://github.com/asterics/esp32_mouse_keyboard.git,ESP32 implementation for HID over GATT Keyboard and Mouse (Bluetooth Low Energy). Including serial API for external modules (similar to Adafruit EZKey HID),"hid,ble,esp32",448
+0,https://github.com/martinandert/react-inline.git,"Transform inline styles defined in JavaScript modules into static CSS code and class names so they become available to, e.g. the `className` prop of React elements.",,448
+0,https://github.com/perrygeo/simanneal.git,Python module for Simulated Annealing optimization,,447
+0,https://github.com/dano/aioprocessing.git,A Python 3.4+ library that integrates the multiprocessing module with asyncio,"multiprocessing,python,asyncio",447
+0,https://github.com/aio-libs/aiomonitor.git,aiomonitor is module that adds monitor and python REPL capabilities for asyncio application,"asyncio,uvloop,async-await,mypy",447
+0,https://github.com/cubicdaiya/ngx_small_light.git,Dynamic Image Transformation Module For nginx.,"nginx,imagemagick,imlib2,gd",446
+0,https://github.com/klughammer/node-randomstring.git,A node.js module for generating random strings,,445
+0,https://github.com/apache/servicecomb-fence.git,Apache servicecomb security module for java-chassis,servicecomb,445
+0,https://github.com/GameJs/gamejs.git,GameJs is a thin library on top of the HTML canvas element. In addition to the drawing functions it has a set of generally helpful modules for game development.,,445
+0,https://github.com/dependency-check-team/dependency-check.git,checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json,"detective,dependencies,package-json,npm",444
+0,https://github.com/aol/cyclops-integration.git,"Home of the cyclops integration modules : support for Scala, Clojure, RxJava (1+2), Reactor, FunctionalJava, Guava, Dexx & Vavr",,443
+0,https://github.com/NikolaiT/se-scraper.git,Javascript scraping module based on puppeteer for many different search engines...,,443
+0,https://github.com/norbusan/sony-laptop-zseries.git,adapted kernel module for zseries laptops,,443
+0,https://github.com/norbusan/sony-control-center.git,Fork of the sony-f11-vaio-control-center to work with newer kernels and with all Sony laptops supported by the sony-laptop kernel module.,,443
+0,https://github.com/Pscx/Pscx.git,PowerShell Community Extensions module repository,,442
+0,https://github.com/centos-bz/ezhttp.git,The bash shell script stack for installation of Nginx OpenResty Tengine lua_nginx_module nginx_concat_module nginx_upload_module ngx_substitutions_filter_module\u3000Apache-2.2 Apache-2.4\u3000MySQL-5.1 MySQL-5.5 MySQL-5.6 MySQL-5.7 PHP-5.2 PHP-5.3 PHP-5.4 PHP-5.5 PHP-5.6 ZendOptimizer ZendGuardLoader Xcache Eaccelerator Imagemagick IonCube Memcache Memcached Redis Mongo Xdebug Mssql Memcached PureFtpd PhpMyAdmin Redis Mongodb PhpRedisAdmin MemAdmin RockMongo Jdk7 Jdk8 Tomcat7 Tomcat8,"mysql,nginx,php,apache",442
+0,https://github.com/hamzasood/pam_touchid.git,A PAM module for authentication with Touch ID,,440
+0,https://github.com/gnosek/nginx-upstream-fair.git,The fair load balancer module for nginx,,437
+0,https://github.com/voronianski/esnextbin.git,:bento: Prototype apps in the browser with next generation JavaScript and NPM modules,,437
+0,https://github.com/NixOS/nixos-hardware.git,A collection of NixOS modules covering hardware quirks.,,436
+0,https://github.com/jprichardson/node-google.git,A Node.js module to search and scrape Google.,,436
+0,https://github.com/ukupat/tabs-or-spaces.git,Module for analysing which whitespace types are used by the top starred repositories in GitHub,,436
+0,https://github.com/akanimax/pro_gan_pytorch.git,ProGAN package implemented as an extension of PyTorch nn.Module,"gan,pytorch,convolutional-neural-network,adversarial-machine-learning,progressive-growing-of-gans",435
+0,https://github.com/lovell/limax.git,Node.js module to generate URL slugs. Another one? This one cares about i18n and transliterates non-Latin scripts to conform to the RFC3986 standard. Mostly API-compatible with similar modules.,"javascript,pinyin,i18n,nodejs,transliteration,url,seo,slug,speakingurl,hepburn",435
+0,https://github.com/smellslikeml/ActionAI.git,custom human activity recognition modules by pose estimation and cascaded inference using sklearn API,"machinelearning,scikit-learn,tensorflow2,pose-estimation,classifier,human-activity-recognition,human-action-recognition,jetson-nano,edgetpu,raspberry-pi,lstm",433
+0,https://github.com/webpack-contrib/json-loader.git,json loader module for webpack - UNMAINTAINED,"webpack-loader,json,webpack-attic,deprecated",432
+0,https://github.com/jczic/MicroWebSrv.git,"A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)","micropython,webserver,language-templating,esp32,websockets,http,wipy,websocket-server,template-engine,websocket,routing,captive-portal,hc2,support-websockets,pycom,microwebsrv,pyhtml,templating,iot,pyboard",432
+0,https://github.com/FasterXML/jackson-module-scala.git,Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes,"scala,jackson,hacktoberfest",432
+0,https://github.com/damianociarla/node-ffmpeg.git,ffmpeg module for nodejs,,431
+0,https://github.com/nestjsx/nest-router.git,Router Module For Nestjs Framework 🚦 🚀,"nestjs,typescript,utilities,addons",431
+0,https://github.com/Financial-Times/polyfill-library.git,NodeJS module to create polyfill bundles tailored to individual user-agents.,"polyfill-service,polyfill",431
+0,https://github.com/adamdruppe/arsd.git,"{""This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.""}",d,430
+0,https://github.com/proycon/pynlpl.git,"{""PyNLPl, pronounced as 'pineapple', is a Python library for Natural Language Processing. It contains various modules useful for common, and less common, NLP tasks. PyNLPl can be used for basic tasks such as the extraction of n-grams and frequency lists, and to build simple language model. There are also more complex data types and algorithms. Moreover, there are parsers for file formats common in NLP (e.g. FoLiA/Giza/Moses/ARPA/Timbl/CQL). There are also clients to interface with various NLP specific servers. PyNLPl most notably features a very extensive library for working with FoLiA XML (Format for Linguistic Annotation).""}","nlp,python,computational-linguistics,linguistics,library,folia,machine-learning,language-modelling,search-algorithms,evaluation-metrics,text-processing,nlp-library,natural-language-processing",430
+0,https://github.com/kalanda/esp8266-sniffer.git,An easy experiment which uses the ESP8266 wifi module to look for near smartphones around you,"esp8266,wifi-network,packets,probe-requests,listen,smartphone",428
+0,https://github.com/Webklex/laravel-imap.git,Laravel IMAP is an easy way to integrate both the native php-imap module and an extended custom imap protocol into your Laravel app.,"laravel,php,imap,library,laravel-imap,php-imap,imap-library,oauth,idle",428
+0,https://github.com/django-request/django-request.git,"django-request is a statistics module for django. It stores requests in a database for admins to see, it can also be used to get statistics on who is online etc.","python,django,requests",427
+0,https://github.com/ipython/traitlets.git,A lightweight Traits like module,closember,425
+0,https://github.com/ko1/allocation_tracer.git,Add ObjectSpace::AllocationTracer module.,,425
+0,https://github.com/rm-hull/luma.led_matrix.git,Python module to drive LED Matrices & 7-segment displays (MAX7219) and RGB NeoPixels (WS2812 / APA102),"python,led,neopixel,raspberry-pi,max7219,ws2812,spi,apa102,dotstar",425
+0,https://github.com/dreamerslab/node.inflection.git,A port of inflection-js to node.js module,,423
+0,https://github.com/riccardoscalco/Pykov.git,Pykov is a Python module on finite regular Markov chains.,,421
+0,https://github.com/openresty/lua-resty-websocket.git,WebSocket support for the ngx_lua module (and OpenResty),,420
+0,https://github.com/nest-modules/mailer.git,📨 A mailer module for Nest framework (node.js),,420
+0,https://github.com/SoCreate/angular-playground.git,A drop in app module for working on Angular components in isolation (Angular version 2.x and above).,"angular,angular-components,angular-directives,angular-pipes,angular-tools",420
+0,https://github.com/rroylance/phaser-ce-npm-webpack-typescript-starter-project.git,"Project to get you started with your Phaser-CE (using the npm module) game using Typescript and Webpack for building! No hassle asset management, Google Web Font loader, live server, development vs distribution build pipeline, Electron packaging for desktop builds, and more...","phaser,typescript,template,npm,node,webpack,game,electron,app,desktop,mobile,windows,osx,mac,linux,loader,phaser-ce",415
+0,https://github.com/cloudflare/nginx-google-oauth.git,Lua module to add Google OAuth to nginx,,414
+0,https://github.com/philsturgeon/codeigniter-template.git,"Template library for CodeIgniter which supports modules, themes, partial views, etc.",,413
+0,https://github.com/xolox/python-coloredlogs.git,"{""Colored terminal output for Python's logging module""}","python,logging,terminal,ansi-colors,syslog,cron,html",413
+0,https://github.com/RikkaApps/Riru-LocationReportEnabler.git,A Riru module. Enable location report by hook system_property_get.,"android,riru",413
+0,https://github.com/sheaivey/rx5808-pro-diversity.git,DIY project to create your own 5.8ghz FPV diversity basestation - based off the rx5808 receiver module. Project includes basic Arduino Nano implementation to advanced custom PCB board and introduction to digital switches 4066 chip.,"drones,quadcopters,fpv,rx5808,receiver,video,oled,arduino,diversity,rssi",413
+0,https://github.com/bigsinger/AndroidIdChanger.git,Xposed Module for Changing Android Device Info,"android,xposed,hook",412
+0,https://github.com/react-native-cameraroll/react-native-cameraroll.git,CameraRoll is a react-native native module that provides access to the local camera roll or photo library.,,412
+0,https://github.com/srod/node-minify.git,"Light Node.js module that compress javascript, css and html files","clean-css,csso,sqwish,minify,babel-minify,nodejs,crass,yui,uglify-es,uglify-js,google-closure-compiler,yui-compressor,javascript,cli,gcc,html-minifier,html,html5,terser,json",411
+0,https://github.com/a1k0n/jsxm.git,FastTracker 2 .xm module player in Javascript,,410
+0,https://github.com/EvotecIT/GPOZaurr.git,Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them. ,"powershell,gpo,activedirectory,group-policy,hacktoberfest",410
+0,https://github.com/openrtc-io/awesome-webrtc.git,A curated list of awesome WebRTC modules and resources.,"webrtc,awesome,awesome-list,webaudio",409
+0,https://github.com/jeffreydwalter/arlo.git,"{""Python module for interacting with Netgear's Arlo camera system.""}","arlo,netgear,camera,python,automation,iot",409
+0,https://github.com/atomify/atomify.git,"Atomic web development - Combining the power of npm, Browserify, Rework and more to build small, fully encapsulated client side modules",,409
+0,https://github.com/doctrine/DoctrineORMModule.git,Doctrine ORM Module for Laminas,,408
+0,https://github.com/Esri/esri-loader.git,A tiny library to help load ArcGIS API for JavaScript modules in non-Dojo applications,"arcgis-api,javascript,module-loader,angular,react,webpack,rollup,ember,esri-loader,preact,vuejs,web-development",408
+0,https://github.com/EasyAbp/AbpHelper.GUI.git,Providing code generation and more features to help you develop applications and modules with the ABP framework.,,408
+0,https://github.com/datto/dattobd.git,kernel module for taking block-level snapshots and incremental backups of Linux block devices,"live-snapshotting,linux-backup,linux-kernel,linux-kernel-module",408
+0,https://github.com/ipfs-shipyard/npm-on-ipfs.git,:package: Install npm modules through IPFS! ,,407
+0,https://github.com/css-modules/css-modulesify.git,A browserify plugin to load CSS Modules,,406
+0,https://github.com/anomalizer/ngx_aws_auth.git,nginx module to proxy to authenticated AWS services,"nginx,aws-s3",406
+0,https://github.com/toddmotto/fluidvids.git,"Fluid width (responsive) videos module, 1KB, custom players, dynamic elements/XHR support.",,406
+0,https://github.com/jmpews/HookZzModules.git,modules deps on HookZz framework.,antidebugbypass,405
+0,https://github.com/jvns/kernel-module-fun.git,"Some fun things you can do with kernel modules (all ""bad ideas"")",,405
+0,https://github.com/nodeca/argparse.git,"{""CLI arguments parser for node.js. JS port of python's argparse module.""}",,405
+0,https://github.com/swilly22/redis-graph.git,A graph database with Cypher query language as a Redis module,"redis,graphdb,redis-module,graph",405
+0,https://github.com/xuningjack/ServiceKeep.git,Android Service keep-alive module.（Android Service保活模块：5.0以下使用c来fork进程，5.0以上使用JobScheduler来保活进程）,,405
+0,https://github.com/garethr/garethr-docker.git,Puppet module for managing docker,"docker,puppet",404
+0,https://github.com/guybedford/es-module-shims.git,Shims for new ES modules features on basic modules support in browsers,,403
+0,https://github.com/patrick-steele-idem/app-module-path-node.git,Simple module to add additional directories to the Node module search for top-level app modules,,403
+0,https://github.com/nuxt-community/sentry-module.git,Sentry module for NuxtJS,"sentry,nuxtjs,nuxt-module",401
+0,https://github.com/masterzen/nginx-upload-progress-module.git,"Nginx module implementing an upload progress system, that monitors RFC1867 POST uploads as they are transmitted to upstream servers.",,401
+0,https://github.com/rerun/rerun.git,Core rerun. See also http://github.com/rerun-modules,,400
+0,https://github.com/dependents/node-dependency-tree.git,Get the dependency tree of a module,"javascript,dependency-tree,ast,es6,commonjs,amd,sass,stylus,tree,typescript",400
+0,https://github.com/ponty/pyscreenshot.git,"Python screenshot library, replacement for the Pillow ImageGrab module on Linux.",,400
+0,https://github.com/msh-contrib/xeon.git,module loader for bash scripts with `require` style,"shell-scripting,bash,ksh,posix-sh",400
+0,https://github.com/Screetsec/Microsploit.git,"Fast and easy create backdoor office exploitation using module metasploit packet , Microsoft Office , Open Office , Macro attack , Buffer Overflow",,400
+0,https://github.com/prscX/awesome-react-native-native-modules.git,A curated list of Awesome ReactNative: Native Modules Guidelines/Components/News/Tools/Learning Materials,,399
+0,https://github.com/mre/hyperjson.git,"{""A hyper-fast Python module for reading/writing JSON data using Rust's serde-json.""}","json,python,module,extension,serde,rust,python-json,encode,decode,hacktoberfest",399
+0,https://github.com/tpm2-software/tpm2-tools.git,The source repository for the Trusted Platform Module (TPM2.0) tools,"tpm2,tpm,signing,security",398
+0,https://github.com/Crascit/DownloadProject.git,"{""CMake module for downloading an external project's source at configure time""}",cmake,398
+0,https://github.com/elastic/puppet-elasticsearch.git,Elasticsearch Puppet module,"puppet,elasticsearch,ruby",397
+0,https://github.com/taichi-framework/TaiChi-Magisk.git,A Magisk module providing magic power over TaiChi.,"taichi,taichi-framework,magisk,magisk-module,module,xposed,android",397
+0,https://github.com/thotro/arduino-dw1000.git,"{""A library that offers functionality to use Decawave's DW1000 chips/modules with Arduino.""}",,396
+0,https://github.com/pugjs/pug-loader.git,Pug loader module for Webpack,,396
+0,https://github.com/oauthjs/express-oauth-server.git,"Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js",,396
+0,https://github.com/andris9/simplesmtp.git,Simple SMTP server/client module,,395
+0,https://github.com/maxogden/requirebin.git,write browser JavaScript programs using modules from NPM,,394
+0,https://github.com/medikoo/modules-webmake.git,Bundle CommonJS/Node.js modules for web browser,,394
+0,https://github.com/philips-labs/terraform-aws-github-runner.git,Terraform module for scalable GitHub action runners on AWS,"github,github-actions,terraform,actions-runner,serverless,lambda,aws,scalable,cicd,self-hosted,action-runner",394
+0,https://github.com/amcss/attribute-module-specification.git,The Attribute-Module CSS (AMCSS) Specification,,394
+0,https://github.com/LINBIT/drbd.git,LINBIT DRBD kernel module,"high-availability,linux-kernel-module,drbd,sds",393
+0,https://github.com/microsoft/react-native-tscodegen.git,Generate react-native turbo modules using TypeScript,,393
+0,https://github.com/JustGoscha/allmighty-autocomplete.git,Simple to use autocomplete directive in a module for AngularJs!,,393
+0,https://github.com/aceisace/Inkycal.git,"{""Inykcal is a software written in python for selected E-Paper displays. It converts these displays into useful information dashboards. It's open-source, free for personal use, fully modular and user-friendly. Despite all this, Inkycal can run well even on the Raspberry Pi Zero W. Oh, and it's open for third-party modules! Hooray!""}","waveshare,epaper,e-paper,e-ink,low-power,linux,python3,raspberry-pi,eink",393
+0,https://github.com/BastilleResearch/gr-lora.git,"GNU Radio OOT module implementing the LoRa PHY, based on https://github.com/matt-knight/research/tree/master/2016_05_20_jailbreak",,392
+0,https://github.com/EvotecIT/PSWriteHTML.git,"PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.","html,css,powershell,javascript,hacktoberfest",392
+0,https://github.com/Xiasm/EasyRouter.git,如何一步步实现一个类似ARouter的Android路由框架，实现不同module的相互跳转，跟着我来实现就可以了。,,392
+0,https://github.com/thymeleaf/thymeleaf-extras-springsecurity.git,"Thymeleaf ""extras"" integration module for Spring Security 3.x and 4.x",,390
+0,https://github.com/APE-Project/APE_Server.git,"Ajax Push Engine : Lightweight HTTP Streaming server. Fully written in C language, it provides best performances, making it the faster Comet server to date. APE now support server-side javascript modules through spidermonkey",,390
+0,https://github.com/BrowserSync/gulp-browser-sync.git,How to use the Browsersync module with gulp.,,388
+0,https://github.com/arut/nginx-ts-module.git,NGINX MPEG-TS Live Module,,386
+0,https://github.com/schne324/dragon-drop.git,Accessible drag and drop list reorder module,"drag-and-drop,a11y,dragon-drop,accessible",386
+0,https://github.com/ganglia/gmond_python_modules.git,Repository of user-contributed Gmond Python DSO metric modules,,385
+0,https://github.com/hak5/wifipineapple-modules.git,The Official WiFi Pineapple Module Repository,,385
+0,https://github.com/xoxco/node-slack.git,a nodejs module for sending and receiving messages from Slack,,385
+0,https://github.com/creolab/laravel-modules.git,Application specific modules in Laravel 4,,384
+0,https://github.com/paulknysh/blackbox.git,A Python module for parallel optimization of expensive black-box functions,"black-box,optimization,expensive,parallel,python",384
+0,https://github.com/tunjid/Android-Extensions.git,An Android library with modules to quickly bootstrap an Android application.,"android,kotlin-android,recyclerview,constraintlayout,material,android-library,android-extensions,fragments,android-navigation,android-animation,kotlin,material-design,material-design-android,speed-dial,floating-action-button,table,tableview,recycleview,data-table,android-application",383
+0,https://github.com/theSmaw/Caja-HTML-Sanitizer.git,"{""Bundles Google Caja's HTML Sanitizer within a npm installable node.js module""}",,382
+0,https://github.com/bettercap/caplets.git,caplets and proxy modules.,"proxy-script,caplet,wpa-handshakes,bettercap,mitm",380
+0,https://github.com/0x09AL/IIS-Raid.git,A native backdoor module for Microsoft IIS (Internet Information Services),,380
+0,https://github.com/zhaoweiho/SecurityManageFramwork.git,"Security Manage Framwork is a security management platform for enterprise intranet, which includes asset management, vulnerability management, account management, knowledge base management, security scanning automation function modules, and can be used for internal security management. This platform is designed to help Party A with fewer security personnel, complicated business lines, difficult periodic inspection and low automation to better achieve internal safety management.","security,pentesting,infosec,exploits,security-audit,vulnerability-detection,scanner,vulnerability-assessment,vulnerability-scanners",380
+0,https://github.com/puppetlabs/puppetlabs-mysql.git,MySQL Puppet Module / Manifests + Types & Providers,,379
+0,https://github.com/jacobandreas/nmn2.git,Neural module networks,,379
+0,https://github.com/mdp/gibberish.git,Simple Ruby encryption module,,379
+0,https://github.com/PrimeSense/Sensor.git,PrimeSensor Modules for OpenNI,,378
+0,https://github.com/AOEpeople/Aoe_Scheduler.git,Cron Scheduler Module for Magento,,378
+0,https://github.com/ruanyf/css-modules-demos.git,a collection of simple demos of CSS Modules,,378
+0,https://github.com/tryexceptpass/sofi.git,an OS agnostic UI module for Python,"widget,python,gui",378
+0,https://github.com/Macil/browserify-hmr.git,Hot Module Replacement plugin for Browserify,,378
+0,https://github.com/keyz/identity-obj-proxy.git,An identity object using ES6 proxies. Useful for mocking webpack imports like CSS Modules.,,378
+0,https://github.com/frinyvonnick/node-html-to-image.git,A Node.js module that generates images from HTML,"node,image,html,html-to-image,javascript,hacktoberfest,nantes",378
+0,https://github.com/doctrine/DoctrineModule.git,Doctrine Module for Laminas,,377
+0,https://github.com/qtranslate/qtranslate-xt.git,"qTranslate-XT (eXTended) - reviving qTranslate-X.  A new community-driven plugin soon. GUTENBERG initial support now available! Built-in modules for WooCommerce, ACF, All in one SEO, Events Made Easy, Gravity Forms.","wordpress,wordpress-plugin,qtranslate-x,i18n",377
+0,https://github.com/jdunmire/kicad-ESP8266.git,Schematic symbols and PCB footprints for ESP8266 modules,,376
+0,https://github.com/jbardin/scp.py.git,scp module for paramiko,,376
+0,https://github.com/flexdinesh/npm-module-boilerplate.git,Boilerplate for npm modules with ES6 features and all the best practices,"npm-package,boilerplate,npm-publish,es6",376
+0,https://github.com/nfcpy/nfcpy.git,A Python module to read/write NFC tags or communicate with another NFC device.,"nfc,nfc-library,python,python-library",376
+0,https://github.com/jgm/pandocfilters.git,"A python module for writing pandoc filters, with a collection of examples",,376
+0,https://github.com/requirejs/example-multipage-shim.git,Example RequireJS-based project that has multiple pages that share a common set of modules with shim config,,375
+0,https://github.com/abskmj/hukum.git,An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.,"npm,npm-module,github-actions,developer-tools,developer-experience,developer-productivity,github-api,javascript",375
+0,https://github.com/terraform-aws-modules/terraform-aws-ec2-instance.git,Terraform module which creates EC2 instance(s) on AWS,"terraform-module,ec2-instance,aws-ec2,aws",373
+0,https://github.com/ScriptedAlchemy/webpack-external-import.git,Dynamically import modules from other webpack bundles. Painless code sharing between separate apps,,373
+0,https://github.com/lucagrulla/node-tail.git,The zero dependency Node.js module for tailing a file,"nodejs,coffeescript,tail,logs,no-dependencies,npm-package",373
+0,https://github.com/nodejs/modules.git,Node.js Modules Team,"nodejs,node",372
+0,https://github.com/kyle-mccarthy/nest-next.git,Render Module to add Nextjs support for Nestjs,"nextjs,nestjs",372
+0,https://github.com/ericclemmons/webpack-hot-server-example.git,Webpack Hot Module Replacement (HMR) Example with Express,,370
+0,https://github.com/storyicon/gos.git,"Gos: Armed Golang 💪 ( solutions for go module, goproxy, cross compilation, etc.)","go,tools,chain,golang,module,mod,proto,grpc,goproxy,cross-compilation,gomodule",370
+0,https://github.com/darkoperator/Posh-SecMod.git,PowerShell Module with Security cmdlets for security work ,,369
+0,https://github.com/felixge/node-couchdb.git,A new CouchDB module following node.js idioms,,368
+0,https://github.com/dvarrazzo/py-setproctitle.git,A Python module to customize the process title,,368
+0,https://github.com/isaacs/st.git,"A node module for serving static files.  Does etags, caching, etc. ",,368
+0,https://github.com/zedoul/ZDStickerView.git,"ZDStickerView is an Objective-C module for iOS and offers complete configurability, including movement, resizing, rotation and more, with one finger.","ios,cocoapods,stickers",368
+0,https://github.com/happyfish100/fastdfs-nginx-module.git,FastDFS nginx module,,367
+0,https://github.com/nestjs/bull.git,Bull module for Nest framework (node.js) :cow: ,"nestjs,nest,bull,job,jobs,queue,cron,typescript,nodejs,node",367
+0,https://github.com/qassemoquab/stnbhwd.git,Modules for spatial transformer networks (BHWD layout),,366
+0,https://github.com/DavidMuller/aws-requests-auth.git,AWS signature version 4 signing process for the python requests module,,366
+0,https://github.com/zebrafishlabs/nginx-statsd.git,An nginx module for sending stats to statsd.,,365
+0,https://github.com/eclipse/ceylon.git,"The Ceylon compiler, language module, and command line tools",,365
+0,https://github.com/FGRibreau/jq.node.git,jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 1.45M modules 😱) ,"jq,javascript-shell",364
+0,https://github.com/Ai-Thinker-Open/GPRS_C_SDK.git,Ai-Thinker A9/A9G GPRS (with GPS(A9G)) module C development SDK,"gprs,gsm,c,sdk,ai-thinker,a9,a9g,gps,pudding,rda,aithinker,8955,rda8955",364
+0,https://github.com/graphaware/neo4j-reco.git,Neo4j-based recommendation engine module with real-time and pre-computed recommendations.,"neo4j,java,neo4j-graphaware-framework,graphaware-recommendation-engine,recommendation-engine",364
+0,https://github.com/cea-hpc/modules.git,"{""Environment Modules: provides dynamic modification of a user's environment""}","environment,module,modulefiles,tcl,shell,hpc,environment-modules",362
+0,https://github.com/aabc/ipt-netflow.git,Netflow iptables module for Linux kernel (official),"netflow,ipfix,linux,iptables,router,snmp,nel,dkms,ipv6,xtables,traffic",362
+0,https://github.com/HashemKhalifa/webpack-react-boilerplate.git,"Minimal React 16 and Webpack 4 boilerplate with babel 7, using the new webpack-dev-server, react-hot-loader, CSS-Modules","webpack4starter,webpack4,reactjs-with-es6,reactjs,jest,enzyme,react-boilerplate,webpack-boilerplate,react-hot-loader,css-modules,babel,react,prettier,eslint",362
+0,https://github.com/devadvance/rootcloak.git,Open source module for Xposed Framework that hides root from specific apps,,362
+0,https://github.com/taichino/croniter.git,croniter is a python module to provide iteration for datetime object.,,362
+0,https://github.com/joepie91/python-whois.git,A python module for retrieving and parsing WHOIS data,,361
+0,https://github.com/Yubico/pam-u2f.git,Pluggable Authentication Module (PAM) for U2F,"yubikey,pam-module,u2f",361
+0,https://github.com/thymeleaf/thymeleaf-spring.git,Thymeleaf integration module for Spring,"java,template-engine,server-side-rendering,thymeleaf,thymeleaf-template-engine,spring,spring-boot,spring-webflux,html,xml,javascript",360
+0,https://github.com/milaq/rpi-rf.git,Sending and receiving 433MHz signals with cheap GPIO RF modules on a Raspberry Pi,,360
+0,https://github.com/nobrainr/typescript-webpack-starter.git,⚡ create-ts-lib: A Starter Kit and a CLI to create your TypeScript / ES6 module bundled by Webpack without thinking about build or unit tests configurations. 🏠,"webpack,javascript,typescript,nodejs,es2015,es6,npm,npm-package,webpack-server,karma,karma-jasmine,jasmine,unit-test,starter",360
+0,https://github.com/gbirke/jquery_pagination.git,A Pagination module for jQuery,,359
+0,https://github.com/jmcgeheeiv/pyfakefs.git,pyfakefs implements a fake file system that mocks the Python file system modules.,,359
+0,https://github.com/Anon-Exploiter/SUID3NUM.git,"{""A standalone python script which utilizes python's built-in modules to enumerate SUID binaries, separate default binaries from custom binaries, cross-match those with bins in GTFO Bin's repository & auto-exploit those, all with colors! ( ͡~ ͜ʖ ͡°)""}","python,python-3,gtfo-bin,auto-exploitation,standalone-python-script,suid-binaries,suid,suid3num,privilege-escalation,exploitation,oscp,oscp-tools,gtfobins,gtfo,boot2root,vulnhub,htb,pentesting,pentest-tools,pentest",359
+0,https://github.com/SaiGonSoftware/Awesome-CMS-Core.git,"Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module seperation concern in mind and provide lastest trend of technology like .Net Core, React, Webpack, SASS, Background Job, Message Queue.","cms,dotnetcore,dotnet-standard,grunt,grunt-task,webpack-configuration,webpack-plugin,webpack-loader,webapi,awesome,awesome-list,awesome-lists,automapper,react,reactjs,dotnet-core2,dotnet,dotnet-core,webpack4,seperation",359
+0,https://github.com/puppetlabs/puppetlabs-apache.git,"Puppet module for the Apache httpd server, maintained by Puppet, Inc. ",,358
+0,https://github.com/720kb/angular-tooltips.git,"Angularjs tooltips module,  add tooltips to your elements - https://720kb.github.io/angular-tooltips","angular,tooltips,angularjs,angular-directives,directive",358
+0,https://github.com/diegohaz/nod.git,"Node.js module generator/boilerplate with Babel, Jest, Flow, Documentation and more","flow,babel,boilerplate,node,modules,nodejs,jest,yeoman-generator,javascript,flowtype",358
+0,https://github.com/gtaylor/python-colormath.git,"A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK",,358
+0,https://github.com/lucasferreira/react-native-webview-android.git,"{""Simple React Native Android module to use Android's WebView inside your app""}",,357
+0,https://github.com/MobileFirstInc/MFCard.git,Easily integrate Credit Card payments module in iOS App. Swift 4.0 ,"card,credit-card,validation,animation,ios,swift,payment,mobilefirst,cocoapods",357
+0,https://github.com/puppetlabs/puppetlabs-stdlib.git,Puppet Labs Standard Library module,,356
+0,https://github.com/McNull/angular-block-ui.git,AngularJS Block UI Module,,356
+0,https://github.com/jeremydaly/lambda-warmer.git,A module to optimize AWS Lambda function cold starts,,355
+0,https://github.com/xmonad/xmonad-contrib.git,Contributed modules for xmonad,,354
+0,https://github.com/ansible-provisioning/ansible-provisioning.git,"Ansible provisioning framework - a set of modules, plugins, and documentation for provisioning with Ansible","ansible,provisioning,python,hardware,vmware-vsphere,virt",354
+0,https://github.com/TerryHowe/ansible-modules-hashivault.git,Ansible module for Hashicorp Vault.,,353
+0,https://github.com/samratashok/ADModule.git,Microsoft signed ActiveDirectory PowerShell module,,353
+0,https://github.com/ccforward/progressive-image.git,A progressive-image module for Vanilla JavaScript and Vue 1.0+ & 2.0+,"progressive-image,vue,lazy-load",353
+0,https://github.com/Jvanrhijn/polybar-spotify.git,🎶 Spotify artist and song module for Polybar,,352
+0,https://github.com/dimaip/server-side-rendering.git,"Interactive guide to server-side rendering with Webpack, React, React Transmit, CSS modules and more","reactjs,webpack,server-side-rendering,babel,react-transmit",352
+0,https://github.com/kensnyder/quill-image-resize-module.git,A module for Quill rich text editor to allow images to be resized.,,352
+0,https://github.com/openresty/test-nginx.git,Data-driven test scaffold for Nginx C module and OpenResty Lua library development,,352
+0,https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library.git,Face Recognition library for Android devices is an Android library (module) which includes several face recognition methods.,,351
+0,https://github.com/moditect/moditect.git,Tooling for the Java Module System,"java9,modules,jigsaw,jpms,moditect",350
+0,https://github.com/helpsystems/pcapy.git,Pcapy is a Python extension module that interfaces with the libpcap packet capture library.,,350
+0,https://github.com/googlesamples/android-dynamic-code-loading.git,Android dynamic code loading sample for Dynamic Feature Modules.,,349
+0,https://github.com/ghaering/pysqlite.git,Python DB-API module for SQLite 3.,,349
+0,https://github.com/guybedford/es-module-lexer.git,Low-overhead lexer dedicated to ES module parsing for fast analysis,,349
+0,https://github.com/jonsamwell/angular-auto-validate.git,An automatic validation module for AngularJS which gets rid of excess html in favour of dynamic element modification to notify the user of validation errors,,349
+0,https://github.com/cakesolutions/scala-kafka-client.git,Scala helper modules for operating the Apache Kafka client library (0.9.x - 2.1.0),"scala,kafka,akka",348
+0,https://github.com/webyak/react-static-plate.git,Build fast static sites with React & CSS Modules.,,348
+0,https://github.com/rryqszq4/ngx_php7.git,ngx_php7 - Embedded php7 scripting language for nginx module.  Mainline development version of the ngx_php.,"nginx,php,php7,module,nginx-module,php8",348
+0,https://github.com/YannZyl/Apollo-Note.git,"Note for Apollo 3.0 perception, prediction and planning modules",,347
+0,https://github.com/zouhir/lqip.git,Low Quality Image Placeholders (LQIP) Module for Node,,347
+0,https://github.com/lufinkey/react-native-spotify.git,A react native module for the Spotify SDK. Works on both iOS and Android.,,347
+0,https://github.com/cmdjs/specification.git,specifications about common module.,,346
+0,https://github.com/tamkeen-tms/electron-window-manager.git,"A NodeJs module that handles window management for Electron (Atom Shell, previously).","electron,browserwindow,multi-window,windowmanager",346
+0,https://github.com/fulldecent/swift5-module-template.git,"An opinionated starting point for awesome, reusable Swift 5 modules","swift,cocoapods,ios,template,xcode,swift-package-manager",345
+0,https://github.com/terraform-aws-modules/terraform-aws-security-group.git,Terraform module which creates EC2-VPC security groups on AWS,"terraform-module,aws-security-group,aws,security-group,aws-vpc",345
+0,https://github.com/jamescarr/paynode.git,Mega library that includes various loadable modules for interacting with different payment gateways,,344
+0,https://github.com/Jopyth/MMM-Remote-Control.git,Magic Mirror Module to shutdown or configure your mirror,"magicmirror,shutdown,notifications,magic-mirror-modules,raspberry-pi,remote-control,mmm-modulescheduler,magicmirror2",344
+0,https://github.com/FirebaseExtended/firebase-import.git,Node module for importing large data into Firebase.,,344
+0,https://github.com/cloudposse/terraform-null-label.git,"Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])","terraform,terraform-modules,naming-convention,name,namespace,stage,hcl2,labels,conventions",344
+0,https://github.com/nestjs/ng-universal.git,Angular Universal module for Nest framework (node.js) 🌷,"nestjs,nest,angular,angular-universal,server-side-rendering,nodejs,typescript",343
+0,https://github.com/mixcloud/django-experiments.git,Django AB testing module,,342
+0,https://github.com/gfx-rs/rspirv.git,Rust implementation of SPIR-V module processing functionalities,"spirv,vulkan,rust,disassembler,opengl,opencl,module,binary",342
+0,https://github.com/dividab/tsconfig-paths-webpack-plugin.git,Load modules according to tsconfig paths in webpack.,,341
+0,https://github.com/tishion/mmLoader.git,A library for loading dll module bypassing windows PE loader from memory (x86/x64),"pe-loader,memory-module",341
+0,https://github.com/openresty/set-misc-nginx-module.git,"{""Various set_xxx directives added to nginx's rewrite module (md5/sha1, sql/json quoting, and many more)""}",,341
+0,https://github.com/nuxt-community/router-module.git,Nuxt.js module to use router.js instead of pages/ directory.,"nuxt,router,vue-router,nuxt-module",341
+0,https://github.com/ajimix/Input-Framer.git,Framer module to add inputs to your prototypes and easily turn your designs inputs into real inputs,"framer,input,coffeescript,prototype,framer-studio",341
+0,https://github.com/knipknap/exscript.git,A Python module making Telnet and SSH easy,"exscript,python,telnet,ssh,protocol,network,networking,automation,expect",340
+0,https://github.com/ffay/proxygateway.git,Proxy Gateway基于openresty（nginx lua module）开发，可以作为接口网关（api gateway）使用，整合业务模块接口，微服务治理聚合，通过web配置界面，能够轻松进行代理配置管理，支持负载均衡，服务器状态检测等,"apigateway,nginx,pgw,pgw-proxy-gateway,proxy,openresty",340
+0,https://github.com/maxogden/maintenance-modules.git,a list of modules that are useful for maintaining or developing modules,,339
+0,https://github.com/PowerShell/GraphicalTools.git,Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs,"hacktoberfest,powershell,gui",339
+0,https://github.com/hashicorp/terraform-aws-consul.git,A Terraform Module for how to run Consul on AWS using Terraform and Packer,,339
+0,https://github.com/cdimascio/dotenv-kotlin.git,🗝️ Dotenv is a module that loads environment variables from a .env file,"dotenv,jvm,kotlin,java,12-factor,environment-variables,environment-configuration,android,hacktoberfest",339
+0,https://github.com/bootprint/bootprint-openapi.git,"Bootprint-module to render OpenAPI specifications, this repository has moved to https://github.com/bootprint/bootprint-monorepo/tree/master/packages/bootprint-openapi",,339
+0,https://github.com/yui/yui3-gallery.git,YUI3 Gallery Modules,,338
+0,https://github.com/TooTallNate/node-bindings.git,"{""Helper module for loading your native module's `.node` file""}",,338
+0,https://github.com/felixge/node-sandboxed-module.git,A sandboxed node.js module loader that lets you inject dependencies into your modules.,,338
+0,https://github.com/kysely/framer-modules.git,"Discover, install and save your favorite modules at one place","framer-modules,framer,framer-studio,framer-prototype,framer-snippets,modules,manager,registry",338
+0,https://github.com/gnif/vendor-reset.git,Linux kernel vendor specific hardware reset module for sequences that are too complex/complicated to land in pci_quirks.c,,338
+0,https://github.com/taolei87/rcnn.git,Recurrent & convolutional neural network modules,,337
+0,https://github.com/stefalda/react-localization.git,Simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module.,,337
+0,https://github.com/IonicaBizau/youtube-api.git,":video_camera: A Node.JS module, which provides an object oriented wrapper for the YouTube v3 API.",hacktoberfest,337
+0,https://github.com/sebdah/scrapy-mongodb.git,MongoDB pipeline for Scrapy. This module supports both MongoDB in standalone setups and replica sets. scrapy-mongodb will insert the items to MongoDB as soon as your spider finds data to extract.,,337
+0,https://github.com/X-DataInitiative/tick.git,"Module for statistical learning, with a particular emphasis on time-dependent modelling","machine-learning,python,point-process,optimization,modelling,statistics",336
+0,https://github.com/miohtama/python-Levenshtein.git,The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity,,336
+0,https://github.com/NetBSD/src.git,"Automatic conversion of the NetBSD src CVS module, use with care. Please submit bugs/changes via https://gnats.netbsd.org",,336
+0,https://github.com/Stuk/require1k.git,"A minimal, and yet practically useful, CommonJS/Node.js `require` module loader for the browser in under 1000 bytes",,336
+0,https://github.com/bilke/cmake-modules.git,Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules),,334
+0,https://github.com/cedricbonhomme/Stegano.git,A pure Python steganography module.,"steganography,security,steganalysis,hidden-message,image-processing,secret",334
+0,https://github.com/zendframework/zend-developer-tools.git,Module for developer and debug tools for working with the ZF2 MVC layer.,,334
+0,https://github.com/dropbox/AffectedModuleDetector.git,A Gradle Plugin to determine which modules were affected by a set of files in a commit. ,,334
+0,https://github.com/dell/dkms.git,Dynamic Kernel Module Support,dkms,333
+0,https://github.com/follow-redirects/follow-redirects.git,Node.js module that automatically follows HTTP(S) redirects,"http,https,redirect,javascript,nodejs",333
+0,https://github.com/nathanpeck/s3-upload-stream.git,A Node.js module for streaming data to Amazon S3 via the multipart upload API,,332
+0,https://github.com/juancgarcia/HID-Relay.git,Arduino project to convert wired USB HID device to Bluetooth (pipes USB HID reports out through a Bluetooth HID module),,331
+0,https://github.com/futomi/node-onvif.git,The node-onvif is a Node.js module which allows you to communicate with the network camera which supports the ONVIF specifications.,,331
+0,https://github.com/FGRibreau/node-request-retry.git,:guardsman: Wrap NodeJS request module to retry http requests in case of errors,"requests,http-client,http-requests",330
+0,https://github.com/allan2coder/React-SPA.git,React Redux，适合中大型规模应用开发，注释还算详细，配置有TypeScript、 CSS Modules、React-Router 4、koa接口mock请求等。接口埋点报错统一处理。,"react,redux,typescript,antd,mock,ant-design,eslint",330
+0,https://github.com/raandree/NTFSSecurity.git,Managing permissions with PowerShell is only a bit easier than in VBS or the command line as there are no cmdlets for most day-to-day tasks like getting a permission report or adding permission to an item. PowerShell only offers Get-Acl and Set-Acl but everything in between getting and setting the ACL is missing. This module closes the gap.,,330
+0,https://github.com/jay-mahadeokar/pynetbuilder.git,pyNetBuilder is a modular pytonic interface with builtin modules for generating popular caffe prototxt network file definitions.,,329
+0,https://github.com/ktsn/vuex-smart-module.git,Type safe Vuex module with powerful module features,"vuejs,vuex,type-safety,typescript",329
+0,https://github.com/lvv/git-prompt.git,"bash prompt with GIT, SVN and HG modules",,328
+0,https://github.com/retronx-team/sys-clk.git,sys-clk overclocking/underclocking system module,,328
+0,https://github.com/adubkov/py-zabbix.git,Python modules for zabbix.,,327
+0,https://github.com/ondryaso/pi-rc522.git,Raspberry Pi Python library for SPI RFID RC522 module,,327
+0,https://github.com/awslabs/kinesis-aggregation.git,AWS libraries/modules for working with Kinesis aggregated record data,,326
+0,https://github.com/terraform-aws-modules/terraform-aws-iam.git,Terraform module which creates IAM resources on AWS,"aws,iam,aws-iam,terraform-module",326
+0,https://github.com/jordwalke/one-click.js.git,"One Click, Offline, CommonJS Modules in the browser",,326
+0,https://github.com/martinandert/react-translate-component.git,A component for React that utilizes the Counterpart module to provide multi-lingual/localized text content.,,325
+0,https://github.com/rollup/rollup-plugin-typescript.git,This module has moved and is now available at @rollup/plugin-typescript / https://github.com/rollup/plugins,,325
+0,https://github.com/roccomuso/netcat.git,:computer: Netcat client and server modules written in pure Javascript for Node.js.,"netcat,client,nodejs,net,swissarmyknife,socket,web,nc,pipe,scanner,tcp,udp,javascript",324
+0,https://github.com/erica-synths/diy-eurorack.git,Erica Synths DIY Eurorack Modules,,323
+0,https://github.com/vuejs/vue-component-compiler.git,Compile a single file Vue component into a CommonJS module.,,323
+0,https://github.com/MethodsAndPractices/vsteam.git,"PowerShell module for accessing TFS, Azure DevOps Service and Azure DevOps Server","azure-devops,powershell,powershell-gallery,vsts,vso",323
+0,https://github.com/lgalfaso/angular-dynamic-locale.git,Module to be able to change the locale at an angularjs application,,323
+0,https://github.com/openresty/drizzle-nginx-module.git,an nginx upstream module that talks to mysql and drizzle by libdrizzle,,323
+0,https://github.com/michalkvasnicak/babel-plugin-css-modules-transform.git,"Extract css class names from required css module files, so we can render it on server.","css-modules,babel-plugin,babel,extract-css,css-files,preprocessor",322
+0,https://github.com/BlacKCaT27/CurrencyEditText.git,A module designed to encapsulate the use of an Android EditText field for gathering currency information from a user. Supports all ISO-3166 compliant locales/currencies.,,322
+0,https://github.com/garethr/puppet-module-skeleton.git,A pretty opinionated skeleton for writing your own puppet modules,,321
+0,https://github.com/mnooner256/pyqrcode.git,Python 3 module to generate QR Codes,,321
+0,https://github.com/faucamp/python-gsmmodem.git,"Python module to control a GSM modem attached to the system: send/receive SMS messages, handle calls, etc",,321
+0,https://github.com/mxbi/mlcrate.git,"A python module of handy tools and functions, mainly for ML and Kaggle",,321
+0,https://github.com/troyth/node-raspicam.git,A Node.js-based controller module for the Raspberry Pi camera based on a command structure similar to Johnny-Five,,321
+0,https://github.com/PaddlePaddle/Paddle.js.git,"Paddle.js is a Web project for Baidu Paddle, which is  an open source deep learning framework designed to work on web browser. Load a pretrained paddle.js SavedModel or Paddle Hub module into the browser and run inference through Paddle.js. It could run on nearly every browser with WebGL support.",,321
+0,https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules.git,Collection of most awesome node modules that will extend the capability of your node.js application.,"nodejs,nodejs-modules,nodejs-library,nodejs-development,nodejs-mongodb,packages,npm-package,npm-module,useful,modules,collection",320
+0,https://github.com/tmont/nginx-conf.git,NodeJS module for interacting programmatically with an nginx configuration file,,320
+0,https://github.com/tj/react-fatigue-dev.git,Module of modules for making modules,,318
+0,https://github.com/FasterXML/jackson-modules-java8.git,"Set of support modules for Java 8 datatypes (Optionals, date/time) and features (parameter names)","jackson,hacktoberfest,java-date",318
+0,https://github.com/janpantel/angular-sails.git,An angular module for using the sails socket.io api,,318
+0,https://github.com/F5Networks/f5-ansible.git,Ansible modules that can manipulate F5 products,"ansible,f5,bigip,f5networks",317
+0,https://github.com/ModClean/modclean.git,Remove unwanted files and directories from your node_modules folder,"disk-space,enterprise,cli,enterprise-environment,benchmark,huge,javascript,cleanup,clean,cleaner,nodejs,node,module,modules,module-clean,nodejs-modules,node-module",317
+0,https://github.com/shepherdwind/css-hot-loader.git,"This is a css hot loader, which support hot module replacement for an extracted css file.","css-hot-loader,webpack-loader",317
+0,https://github.com/Chion82/WeChatMomentExport.git,Xposed module to export WeChat moments data to JSON(微信朋友圈数据导出Xposed模块),,317
+0,https://github.com/manishsaraan/email-validator.git,email syntax validator npm module. fast and pretty robust,,316
+0,https://github.com/koajs/koala.git,[SEEKING MAINTAINER] An HTTP/2 and ES6 Module-ready Koa Suite,,316
+0,https://github.com/summernote/awesome-summernote.git,A curated list for summernote modules,"awesome,summernote",315
+0,https://github.com/defunctzombie/node-url.git,node.js core url module as a module,,315
+0,https://github.com/Fitbit/ossapps.git,"A non-exhaustive list of open sourced clock faces, applications and modules from the community.","fitbit,fitbit-api,fitbit-ionic,fitbit-sdk,fitbit-devrel",315
+0,https://github.com/jergason/recursive-readdir.git,Node.js module to list all files in a directory or any subdirectories.,,315
+0,https://github.com/cuikangjie/js-export-excel.git,json导出excel（纯js 支持中文） ES6  module,,315
+0,https://github.com/shirotech/webpack-cdn-plugin.git,A webpack plugin that use externals of CDN urls for production and local node_modules for development,"webpack,webpack2,webpack-plugin,cdn,cdnjs,unpkg,assets,nodejs,node,html,yarn,npm,webpack3,webpack4",315
+0,https://github.com/boostorg/python.git,Boost.org python module,,313
+0,https://github.com/bntzio/wipe-modules.git,🗑️ Easily remove the node_modules folder of non-active projects,"bash,shell,node-modules,nodejs,cleanup,performance,tools,utilities,unix,cron,cron-jobs,javascript,js,hacktoberfest",313
+0,https://github.com/websupport-sk/pecl-memcache.git,PHP Extension - Memcache module with support of newer PHP 7.x and PHP 8.x,"pecl,memcache,php,php7,php5,websupport,c,php8",312
+0,https://github.com/Pop-Code/nestjs-console.git,A nestjs module that provide a cli to your application.,"nestjs,cli,console,typescript,typescript3,command,commander,es6,javascript,terminal",312
+0,https://github.com/npalm/terraform-aws-gitlab-runner.git,Terraform module for AWS GitLab runners on ec2 (spot) instances,"terraform,gitlab-ci,aws,spot-instances,ci,cicd,infrastructure-as-code",311
+0,https://github.com/deepgram/sidomo.git,Simple Docker Python Module,,311
+0,https://github.com/nathankellenicki/node-poweredup.git,A Javascript module to interface with LEGO Powered Up components.,"lego,wedo2,legowedo2,boost,legoboost,poweredup,legopoweredup,nodejs,typescript,duplo,duplotrain,technic,controlplus,techniccontrolplus,legocontrolplus,legotechniccontrolplus,legospikeprime,spikeprime,legoeducation",311
+0,https://github.com/mafintosh/fuse-bindings.git,Notice: We published the successor module to this here https://github.com/fuse-friends/fuse-native,,311
+0,https://github.com/omrilotan/isbot.git,💻 JavaScript module that detects bots/crawlers/spiders via the user agent,"user-agent-analysis,user-agent,user-agent-parser,crawlers,web-crawlers",311
+0,https://github.com/dominictarr/curry.git,"simple curry module, with nothing *too clever*, and full test coverage",,311
+0,https://github.com/med0x2e/ExecuteAssembly.git,"Load/Inject .NET assemblies by; reusing the host (spawnto) process loaded CLR AppDomainManager, Stomping Loader/.NET assembly PE DOS headers, Unlinking .NET related modules, bypassing ETW+AMSI, avoiding EDR hooks via NT static syscalls (x64) and hiding imports by dynamically resolving APIs (hash).",,311
+0,https://github.com/JonathanRaiman/theano_lstm.git,:microscope: Nano size Theano LSTM module,"machine-learning,recurrent-networks,theano,python,lstm,gru,adadelta,dropout,automatic-differentiation,neural-network,tutorial",309
+0,https://github.com/phink-team/Cobaltstrike-MS17-010.git,cobaltstrike ms17-010 module and some other,"coblatstrike,redteam,pentest",309
+0,https://github.com/felipefialho/kratos-boilerplate.git,":fire: A simple boilerplate for creating statics PWA using Webpack, Pug, PostCSS and CSS Modules","boilerplate,pug,postcss,sass,cssmodules,css,webpack,yeoman,es6,javascript,css-modules,kratos-boilerplate,kratos,badge",309
+0,https://github.com/voronianski/melchior.js.git,Chainable Module Definition (CMD) dependency loader for JavaScript,,309
+0,https://github.com/pylerSM/YouTubeBackgroundPlayback.git,[Xposed module] Enable background playback in YouTube,,308
+0,https://github.com/EasyAbp/EasyAbpGuide.git,"Introduce EasyAbp organization, list our modules, provide the specification for the module development.",,307
+0,https://github.com/winddyhe/knight.git,"Knight is a game framework based on Unity3D engine. It includes a complete assetbundle manager, a c# hotfix module based on ILRuntime, and a UI module based on MVVM, and other basic functions support.","unity3d,unity3d-framework,framework,unity,gameplay,hotfix,ilruntime,unity-framework,mvvm,mvvm-databinding",307
+0,https://github.com/lucasferreira/react-native-send-intent.git,"{""React Native Android module to use Android's Intent actions for send text to shareable apps or make phone calls or opening third party apps""}",,306
+0,https://github.com/zengabor/zenfonts.git,A tiny JavaScript module to observe and control the loading of web fonts,,306
+0,https://github.com/j2rong/FakeLocation.git,Xposed module to mock locations per app.,"xposed,mock-locations",305
+0,https://github.com/mozilla/node-firefox.git,node.js modules for interacting with Firefox via the DevTools remote protocol,,305
+0,https://github.com/nekromant/esp8266-frankenstein.git,Alternative firmware for ESP8266 modules,,304
+0,https://github.com/dntzhang/kmdjs.git,kernel module definition\u3000\u3000\u3000ＤＥＭＯ:,,304
+0,https://github.com/andersfylling/disgord.git,"{""Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice""}","discord,discord-api,golang,go,golang-module,golang-bindings,api,bindings,voice,bot,disgord",304
+0,https://github.com/PiSugar/PiSugar.git,PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH,"raspberry-pi,raspberry-pi-zero,raspberry-pi-zero-w,raspberrypi,battery",304
+0,https://github.com/spectralpython/spectral.git,Python module for hyperspectral image processing,"python,hyperspectral-image-classification,hyperspectral,visualization,image-processing,target-detection,anomaly-detection,remote-sensing",303
+0,https://github.com/seek-oss/seek-style-guide.git,"Living style guide for SEEK, powered by React, webpack, CSS Modules and Less.","style-guide,react,webpack,babel,css-modules,less,front-end",303
+0,https://github.com/glslify/glsl-easings.git,"{""Robert Penner's easing functions in GLSL, available as a module for glslify.""}",,303
+0,https://github.com/nicfit/eyeD3.git,"eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3v1 (1.0/1.1) and ID3v2 (2.3/2.4).","mp3,mp3tag,id3v1,id3v2,music,python",303
+0,https://github.com/TACC/Lmod.git,"Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy","environment-modules,hpc,tacc,xsede,lua,lmod",302
+0,https://github.com/charliegerard/whereami.js.git,Node.js module to predict indoor location using machine learning and WiFi information 📶,"nodejs,tfjs,tensorflowjs,machine-learning,javascript,wifi",302
+0,https://github.com/importpw/import.git,`import` is a simple and fast module system for Bash and other Unix shells,,302
+0,https://github.com/martinandert/babel-plugin-css-in-js.git,"A plugin for Babel v6 which transforms inline styles defined in JavaScript modules into class names so they become available to, e.g. the `className` prop of React elements. While transforming, the plugin processes all JavaScript style definitions found and bundles them up into a CSS file, ready to be requested from your web server.",,302
+0,https://github.com/freeipa/ansible-freeipa.git,Ansible roles and modules for FreeIPA,"freeipa,ansible,freeipa-ansible-roles,playbook",301
+0,https://github.com/telehash/telehash-js.git,telehash javascript module for node.js and browserify,,301
+0,https://github.com/vega/ipyvega.git,IPython/Jupyter notebook module for Vega and Vega-Lite,,301
+0,https://github.com/terraform-aws-modules/terraform-aws-notify-slack.git,Terraform module which creates SNS topic and Lambda function which sends notifications to Slack,"aws,aws-lambda,terraform-module,aws-cloudwatch,slack",301
+0,https://github.com/mjhea0/cypress-visual-regression.git,Module for adding visual regression testing to Cypress,"cypress,visual-regression,image-diff,cypress-plugin,visual-regressions",301
+0,https://github.com/jeffbski/bench-rest.git,"{""bench-rest - benchmark REST (HTTP/HTTPS) API's. node.js client module for easy load testing / benchmarking REST API's using a simple structure/DSL can create REST flows with setup and teardown and returns (measured) metrics.""}",,301
+0,https://github.com/xdavidhu/portSpider.git,🕷 A lightning fast multithreaded network scanner framework with modules.,"python,networking,scanner,portscan,spider,multi-threading",300
+0,https://github.com/ko1/gc_tracer.git,Add GC::Tracer module.,,300
+0,https://github.com/minimaxir/reactionrnn.git,Python module + R package to predict the reactions to a given text using a pretrained recurrent neural network.,"tensorflow,keras,sentiment-analysis,r,deep-learning",299
+0,https://github.com/Clever/saml2.git,Node module to abstract away the complexities of the SAML protocol behind an easy to use interface.,,298
+0,https://github.com/obskyr/colorgram.py.git,A Python module for extracting colors from images. Get a palette of any picture!,"python,python-library,color,image-processing,color-extraction,pillow",298
+0,https://github.com/webpack-contrib/source-map-loader.git,extract sourceMappingURL comments from modules and offer it to webpack,"webpack-loader,sourcemaps",297
+0,https://github.com/davisp/python-spidermonkey.git,"{""Python/JavaScript bridge module, making use of Mozilla's spidermonkey JavaScript implementation.""}",,296
+0,https://github.com/nieldlr/hanzi.git,HanziJS is a Chinese character and NLP module for Chinese language processing for Node.js,,296
+0,https://github.com/TooTallNate/node-applescript.git,A Node.js module to easily execute arbitrary AppleScript code on Mac OS X.,,296
+0,https://github.com/qiuxiang/react-native-amap-geolocation.git,React Native geolocation module for Android + iOS,"react-native,amap,location,geolocation",295
+0,https://github.com/nestjs/terminus.git,Terminus module for Nest framework (node.js)  :robot:,"nodejs,nest,nestjs,typescript,javascript,node",295
+0,https://github.com/sequelize/sequelize-restful.git,A connect module that adds a restful API for all defined models to your application.,,295
+0,https://github.com/sysgears/webpack-virtual-modules.git,"Webpack Virtual Modules is a webpack plugin that lets you create, modify, and delete in-memory files in a way that webpack treats them as if they were physically presented in the file system.","webpack,webpack-plugin,virtual,overlay,modules",295
+0,https://github.com/adamdriscoll/selenium-powershell.git,PowerShell module to run a Selenium WebDriver. ,"selenium,web-testing,powershell",294
+0,https://github.com/antoinecarme/pyaf.git,PyAF is an Open Source Python library for Automatic Time Series Forecasting built on top of popular pydata modules.,"scikit-learn,pandas,heroku,jupyter,forecasting,exogenous,benchmark,seasonal,time-series,horizon,autoregressive,python,web-service,trend,cycle,arx,automatic-forecasting,transformation,decomposition,hierarchical-forecasting",294
+0,https://github.com/datatypevoid/vulgar.git,"A simple and scalable MEAN stack development kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Coverage, Dev/Prod), Express, MongoDB, Mongoose, Node,  PassportJS, Socket.io, Karma, Protractor, Jasmine, Istanbul, SASS Support, TypeScript, TSLint, NG2Lint, Hot Module Replacement, Docco, Gulp, and Webpack by @datatypevoid",,294
+0,https://github.com/transitive-bullshit/react-modern-library-boilerplate.git,Boilerplate for publishing modern React modules with Rollup,"react,library,boilerplate,module,component,rollup,babel,create-react-app,preact",293
+0,https://github.com/jterrace/pyssim.git,A Python module for computing the Structural Similarity Image Metric (SSIM),,293
+0,https://github.com/rryqszq4/ngx_php.git,ngx_php -  Embedded php scripting language for nginx module.  All released versions of the code repository.,"nginx,php,nginx-module,ngx-php,php7,module",293
+0,https://github.com/TonyPhipps/Meerkat.git,A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.,"threat,hunt,red,blue,purple,team,incident,response,baseline,monitor,analysis,scan,log,forensics,triage,recon,threat-hunting,security,soc,siem",292
+0,https://github.com/alidavut/locus.git,Locus is a debugging module for node.js,"nodejs,locus,javascript,debugger",292
+0,https://github.com/optilude/xlsx-template.git,A NodeJS module to generate Excel files in .xlsx format from a template created with Excel itself,,291
+0,https://github.com/elmah/Elmah.git,Error Logging Modules & Handlers for ASP.NET,,290
+0,https://github.com/FasterXML/jackson-module-jsonSchema.git,Module for generating JSON Schema (v3) definitions from POJOs,,289
+0,https://github.com/hyochan/react-native-audio-recorder-player.git,react-native native module for audio recorder and player.,"react-native,audio-player,audio-recorder,typescript,java,objective-c,swift,kotlin",289
+0,https://github.com/OneBusAway/onebusaway.git,Parent module for all OneBusAway projects with common configuration information.,,289
+0,https://github.com/starwing/luautf8.git,a utf-8 support module for Lua and LuaJIT.,,289
+0,https://github.com/SelfLender/react-native-biometrics.git,React Native module for iOS and Android biometrics,,288
+0,https://github.com/orafce/orafce.git,"The ""orafce"" project implements in Postgres some of the functions from the Oracle database that are missing (or behaving differently).Those functions were verified on Oracle 10g, and the module is useful for production work.","postgresql,extension,oracle,c,postgresql-extension,oracle-to-postgres",288
+0,https://github.com/Janhouse/tespeed.git,Terminal network speed test that uses servers from Speedtest.net. It uses nearest test server but can also use one manually specified by the user. It should work on Linux/OSX/Windows and anything else that runs Python 2 with Python 2 lxml module.,,288
+0,https://github.com/VCVRack/AudibleInstruments.git,VCV Rack plugin based on Mutable Instruments Eurorack modules,vcvrack,287
+0,https://github.com/willwhite/freemail.git,A database of free and disposable email domains and a handy Node.js module for querying it.,,287
+0,https://github.com/duo-labs/py_webauthn.git,A WebAuthn Python module.,"webauthn,flask,docker,python,fido2,pip,pypi,duo,security,python3",286
+0,https://github.com/awkman/pywifi.git,A cross-platform module for manipulating WiFi devices.,,286
+0,https://github.com/leancloud/LeanCloudLiveKit-iOS.git,Show how to add IM module to Live app,,286
+0,https://github.com/lesovsky/zabbix-extensions.git,Zabbix additional monitoring modules,,285
+0,https://github.com/hisabimbola/slack-history-export.git,A NPM module that allows slack users export their history,"slack,exporter,json,history",285
+0,https://github.com/RedisLabs/redisraft.git,A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.,,284
+0,https://github.com/PaulC91/shinyauthr.git,R package with shiny authentication modules,"r,shiny,authentication",283
+0,https://github.com/evilsocket/bettercap-proxy-modules.git,This repository contains some bettercap transparent proxy example modules.,,283
+0,https://github.com/krakenjs/grumbler.git,A template for writing distributable front-end javascript modules.,"javascript-library,javascript-modules,javascript-tools,boilerplate,template",283
+0,https://github.com/airstruck/knife.git,A collection of useful micro-modules for Lua.,,283
+0,https://github.com/ClementPinard/Pytorch-Correlation-extension.git,Custom implementation of Corrleation Module,"correlation,pytorch,deeplearning",283
+0,https://github.com/danielkrupinski/VAC.git,Source code of Valve Anti-Cheat obtained from disassembly of compiled modules,"vac,anti-cheat,valve-anti-cheat,steam,reverse-engineering,disassembly,csgo,dota2,css,tf2",283
+0,https://github.com/ql-io/cluster2.git,A node.js (>= 0.8.x) compatible multi-process management module,,283
+0,https://github.com/GoogleChromeLabs/dynamic-import-polyfill.git,"A fast, tiny polyfill for dynamic import() that works in all module-supporting browsers",,283
+0,https://github.com/pycom/pycom-libraries.git,"{""MicroPython libraries and examples that work out of the box on Pycom's IoT modules""}",,282
+0,https://github.com/sreuter/node-speakable.git,A continuous speech recognition module for node.js,,282
+0,https://github.com/TooTallNate/node-icy.git,Node.js module for parsing and/or injecting ICY metadata,,282

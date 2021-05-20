@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/coopcycle/coopcycle-web.git,Logistics & marketplace platform. Only for worker-owned business.,"symfony,apiplatform,coop,platformcoop",426
+0,https://github.com/freeCodeCamp/pantry-for-good.git,An open source food bank logistics and inventory management tool,"opensourceforgood,food-banks,food,nonprofit,nonprofits,nonprofit-organizations,charity,inventory-management",351
+0,https://github.com/JoshData/hackathon.guide.git,A logistics guide to running a successful hackathon.,,169
+0,https://github.com/finecho/logistics.git,Logistics query extension package,"logistics,logistics-company",164
+0,https://github.com/anselleeyy/logistics-front.git,物流管理系统前端项目，基于 Layui-2.3.0，后端项目传送门：https://github.com/anselleeyy/logistics-back,,152
+0,https://github.com/HyperledgerHandsOn/trade-finance-logistics.git,Trade Finance and Logistics based on Letter of Credit and Proof of Shipment,,131
+0,https://github.com/aws-robotics/aws-robomaker-small-warehouse-world.git,This Gazebo world is well suited for organizations who are building and testing robot applications for warehouse and logistics use cases.,"ros,gazebo",94
+0,https://github.com/dheerajpreddy/Research-Starter-Kit.git,Basically listing out how to get some basic logistics out of the way,,93
+0,https://github.com/rinde/RinSim.git,"RinSim is a logistics simulator written in Java. RinSim supports (de)centralized algorithms for dynamic pickup-and-delivery problems (PDP). The simulator is developed at the imec-DistriNet group at the dept. of Computer Science, KU Leuven, Belgium. ","java,rinsim,simulator,logistics,agents,optimization,logistics-simulator,operational-research",93
+0,https://github.com/OpenLMIS/open-lmis.git,"-PREVIOUS VERSION- OpenLMIS (Open Logistics Management Information System) version 2 core software for a shared, open source solution for managing medical commodity distribution in low- and middle-income countries. Technical forum: https://groups.google.com/forum/#!forum/openlmis-dev.",,92
+0,https://github.com/IBM-Cloud/logistics-wizard.git,"The Logistics Wizard is an end-to-end, smart supply chain management solution that showcases how to execute hybrid cloud, microservices, and predictive data analytics in the real world.","bluemix,microservices,openwhisk,serverless,cloudfoundry,react,loopback,python,nodejs,ibm-cloud-solutions",90
+0,https://github.com/learning-unlimited/ESP-Website.git,"A website to help manage the logistics of large, short-term educational programs",,73
+0,https://github.com/ciribob/DCS-CTLD.git,Complete Troops and Logistics Deployment for DCS World,,63
+0,https://github.com/usnistgov/NEMO.git,"NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.","lims,laboratory,nanofabrication,user-facility,python,django",58
+0,https://github.com/alibaba/drl_binpacking.git,"3D bin packing is a classical and challenging combinatorial optimization problem in logistics and production systems. An effective bin packing algorithm means the reduction of total packing cost and increase in utilization of resources.  Because the cost of packing materials, which is mainly determined by their surface area, occupies the most part of packing cost, and in many real business scenarios there is no bin with fixed size, so AI Department of Cainiao proposed a new type of 3D bin packing problem. The objective of this new type of 3D bin packing problem is to pack all items into a bin with minimized surface area. And a DRL method based on the sequence-to-sequence model is proposed to solve the problem. This is the research paper link: https://arxiv.org/abs/1708.05930. Source code of this method can be found in the project.",,56
+0,https://github.com/tig-nl/postnl-magento2.git,This is the official Magento 2 extension for the logistics company PostNL. Add shipping options and parcelshops to your checkout. Create labels with track and trace functionality from the backend. https://tig.nl/postnl-magento-extensies/,"official-postnl-extension,magento-2,shipping-service,tig,total-internet-group,magento-extensions,delivery-options,postoffice-pick-up-locations,onestepcheckout-compatibility",44
+0,https://github.com/IBM/acme-freight.git,"{""Acme Freight's Logistics Wizard application is composed of several microservices, including three Cloud Foundry applications, LoopBack, API Connect, and multiple Cloud Function actions.""}","microservices,microservices-architecture,apis,loopback,erp,enterprise-architect,ibmcode",43
+0,https://github.com/Pabilo8/ImmersiveIntelligence.git,"An addon for Immersive Engineering focused on Electronics, Warfare, Logistics and Intelligence","minecraft-mod,minecraft-forge-mod,immersive-engineering,minecraft-modification",39
+0,https://github.com/anoutsider/advanced-logistics-system.git,"A Factorio Mod, that offers a detailed overview of your logistics network and the items within it.",,37
+0,https://github.com/Samsung/qaboard.git,"{""Algorithm engineering is hard enough: don't spend your time with logistics. QA-Board organizes your runs and lets you visualize, compare and share results.""}","visualizations,algorithms,continuous-quality,performance-engineering,mlops",34
+0,https://github.com/nirbhayph/Logistics-Management-System.git,Logistics Management System: An android application to manage an optimized solution for local logistics and transportation needs for both businesses and consumers in the urban areas.,,28
+0,https://github.com/codeRIT/hackathon-manager.git,All-in-one platform for hackathon registration & logistics.,"hackathons,ruby-on-rails,mymlh,registration,admissions,dashboard",26
+0,https://github.com/rajatdhoot123/indian-courier-api.git,API to track parcel from various Indian Logistics Providers,"courier,indian-courier,courier-tracking,tracking,ekart,delhivery,ecom,dtdc,gati,parcel,parcel-tracking,trackingid,couriers,xpressbees,shadowfax,api,dhl,maruti",26
+0,https://github.com/datreant/MDSynthesis.git,a logistics and persistence engine for the analysis of molecular dynamics trajectories,"molecular-dynamics-simulation,mdanalysis,python,science,database",25
+0,https://github.com/blockfreight/go-bftx.git,Blockfreight™ Node (MIT) Global Logistics Network in Go https://blockfreight.com/,"blockfreight,logistics,blockchain",23
+0,https://github.com/berkeley-scf/r-bootcamp-2018.git,"Materials for the 2018 R bootcamp at UC Berkeley. See below (under the listing of files) for information about the bootcamp, including logistics, how to get the course content, and how to install the software you need for the bootcamp on your laptop.",,23
+0,https://github.com/potassco/asprilo.git,"🤖 ASPRILO, an intra-logistics benchmark suite for answer set programming",,22
+0,https://github.com/SonarSonic/Practical-Logistics.git,New Version - https://github.com/SonarSonic/Practical-Logistics-2,"mod,practical-logistics,sonarcore,ollielansdell,forge,minecraft",20
+0,https://github.com/berkeley-scf/r-bootcamp-fall-2020.git,"Materials for the August 2020 virtual R bootcamp at UC Berkeley. See below (under the listing of files) for information about the bootcamp, including logistics, how to get the course content, and how to install the software you need for the bootcamp on your laptop.",,20
+0,https://github.com/berkeley-scf/r-bootcamp-fall-2019.git,"Materials for the August 2019 R bootcamp at UC Berkeley. See below (under the listing of files) for information about the bootcamp, including logistics, how to get the course content, and how to install the software you need for the bootcamp on your laptop.",,20
+0,https://github.com/rain9441/factorio-tls.git,Train Logistics System,,19
+0,https://github.com/Tuhljin/Automagy.git,"An addon for the excellent Minecraft mod known as Thaumcraft. Automation, logistics, and other toys.",,18
+0,https://github.com/razuswe/PrimaIndianDiabetesprediction.git,"I used six classification techniques, artificial neural network (ANN), Support Vector Machine (SVM), Decision tree (DT), random forest (RF), Logistics Regression (LR) and Naïve Bayes (NB)","python,machine-learning,supervised-learning-algorithms,diabetes-prediction,disease",18
+0,https://github.com/Esri/network-analysis-services.git,"Geoprocessing tools to publish directions, routing, and logistics services available on ArcGIS Online to your own ArcGIS for Server site",,18
+0,https://github.com/doublechaintech/lsc-biz-suite.git,Logistics Supply Chain - 一个聚焦物流（运输）服务供应链平台,,17
+0,https://github.com/subteno-it/stock_scanner.git,Moved to https://github.com/OCA/stock-logistics-barcode - WorkFlow engine for hardware scanner using SSH client,,16
+0,https://github.com/seattleflu/id3c.git,Data logistics system enabling real-time pathogen surveillance. Built for the Seattle Flu Study.,"postgres,postgresql,python,infectious-disease,data-distribution,sqitch,fhir,seattle-flu-study,scan-study,rest-api,cli,id3c,plpgsql,sql,etl,redcap",16
+0,https://github.com/Path-Check/vaccine-diary.git,"{""A compilation of Trusted Pandemic Technologies' efforts to design digital solutions that engage citizens in four core areas — Logistics, Health Outcomes, User-centric impact, and Communication.""}",,16
+0,https://github.com/washingtonpost/data-1033-program.git,"Agency-level data current to September 30, 2015. Source: Department of Defense, Defense Logistics Agency.",,15
+0,https://github.com/IBM-Cloud/logistics-wizard-erp.git,Defines the API used by the Logistics Wizard to access data from an ERP system. Also provides a default implementation to be used as a simulator.,ibm-cloud-solutions,15
+0,https://github.com/RoelantVos/DIRECT.git,"DIRECT, the Data Integration Run-time Execution Control Tool, is a data logistics framework that can be used to monitor, log, audit and control data integration / ETL processes.","etl,etl-framework,etl-pipeline,etl-automation,datawarehouse,datawarehouseautomation",15
+0,https://github.com/LogisticsImpactModel/LIMO.git,The Logistics Impact Model (LIMO) provides involved companies in logistics chains with a central point of information on which costs they make on the regulatory burden and how costs can be reduced or eliminated. ,,14
+0,https://github.com/tum-fml/loco.git,"Home of LOCO, the first scene understanding dataset for logistics.",,13
+0,https://github.com/tig-nl/postnl-magento1.git,This is the official Magento 1 extension for the logistics company PostNL. https://tig.nl/postnl-magento-extensies/,"postnl-magento-extension,tig,total-internet-group,track-and-trace,shipping-serivce,parcelshops,shipping-labels",13
+0,https://github.com/fladdimir/csa-streetmap.git,"Urban logistics network simulation in Python w/ SimPy, OSMnx & Leaflet.js",,13
+0,https://github.com/tempkaridc/gf.git,"{""Girls' Frontline Logistics Calculator""}",,12
+0,https://github.com/IBM-Cloud/logistics-wizard-toolchain.git,Toolchain configuration files for the logistics-wizard demo,"toolchain,ibm-bluemix,logistics,ibm-cloud-solutions",12
+0,https://github.com/IBM-Cloud/logistics-wizard-webui.git,"Web UI for Logistics Wizard Showcase demo. The Logistics Wizard is an end-to-end, smart supply chain management solution that showcases how to execute hybrid cloud, microservices, and predictive data analytics in the real world.",ibm-cloud-solutions,12
+0,https://github.com/kubernetes-pune/kubernetes-cncf-pune.git,This is a repo to maintain artefacts and meetup logistics for Kubernetes & Cloud Native Computing Pune Meetup (https://www.meetup.com/Kubernetes-Pune/),"kubernetes,cloud,cloud-native,cncf,cloud-native-computing,pune,meetup",12
+0,https://github.com/xinyandai/logistics.git,An express logistics system.,,11
+0,https://github.com/SAP-samples/logistics-business-network-gtt-samples.git,"This code example contains sample scenario applications that will show how to use SAP Logistics Business Network, global track and trace option to build a tracking application.","sample,sample-code,sap-logistics-business-network,global-track-and-trace,lbn,gtt,sales-order-fulfillment",11
+0,https://github.com/HNaga/logistics.git,Logistics Management for ERPNext,,10
+0,https://github.com/QuickenLoans/MassTestingPlatform.git,"Scheduling, Logistics, and Data Orchestration software for mass drive through pandemic testing.",,10
+0,https://github.com/webapix/mygls-sdk.git,An unofficial lightweight PHP SDK for the MyGLS (GLS logistics) REST API.,"mygls,php,gls",10
+0,https://github.com/ishelo/Logistics-Demand-Forecasting-By-Python.git,物流需求预测法的python实现（Logistics Demand Forecasting By Python），含移动平均法、指数平滑法、平滑系数的确认、结果输出到excel表、误差分析等,"python,python3,logistics",10
+0,https://github.com/sofyansitorus/Woongkir.git,"WooCommerce shipping rates calculator for Indonesia domestic and international shipment: JNE, POS Indonesia, TIKI, PCP Express, RPX, Pandu Logistics, Wahana Express, SiCepat Express, J&T Express, Pahala Express, SAP Express, JET Express, Solusi Ekspres, 21 Express, Nusantara Card Semesta, Star Cargo, Lion Parcel, Ninja Xpress, Indotama Domestik Lestari, Royal Express Indonesia, Indah Logistic, Expedito.",,10
+0,https://github.com/robocup-logistics/gazebo-rcll.git,"Gazebo Models, Plugins, and World Files for the RoboCup Logistics League",,9
+0,https://github.com/dcentrum/Project-HLF-Logistics.git,Hyperledger Fabric based solution for consortium of logistics companies in any distribution or supply-chain industries,"hyperledger,hyperledger-fabric,logisticsystem,blockchain-technology,distributed-ledger",9
+0,https://github.com/XYZWorks/ELMSParent.git,An C/S-Style Express Logistics Management System written in Java,"erp,client-server",9
+0,https://github.com/StefanoSaffran/fastfeet.git,FastFeet -  A fictitious logistics company,"nodejs,reactjs,react-native,omnistack,rocketseat,javascript",9
+0,https://github.com/teholabs/tehoLogistics.git,logistics for electronics part sourcing,,9
+0,https://github.com/johnpelquingua/freightbit-logistics.git,"Ernest Logistics Service started in April of 2009 as a trucking business providing containerized hauling of cargoes for the domestic market but the young businessman has a larger vision and greater determination to expand his business which eventually lead to the launching of its freight management and domestic forwarding services in the very same year. Difficulties and disappointments in starting the business were encountered and eventually were understandable but Jan Ernest Go, the young entrepreneur only showed optimism and relentless determination.  His idea was to provide genuine services guided through excellence and dedication further creating solid partnerships and business relations and in March of 2012 the company has emerged and incorporated to become Ernest Logistics Corporation.  Our company provides not only freight management and domestic freight forwarding but primarily Options and Solutions custom fit to our clients’ needs and requirements.",,9
+0,https://github.com/vishalv91/Global-Trade-Analytics.git,"The objective of the project was to create innovative and interactive Tableau dashboards that focus on potential commodities, countries, year, trade amount and quantity.  The client wanted to launch a new business unit, focusing on global trade and logistics, majorly in the countries such as USA, Canada and Australia  The dataset provided by the client contained 59090 observations of 10 variables.  The client insisted the data to be cleaned using Excel or R. The Dataset contained missing values and was cleaned using the R programming language.  Tableau dashboards were created from the cleaned dataset.","data-projects,r-programming,tableau,tableau-public,data-visualization-project,data-visualisation,global-trade,trade-analytics,dataset,tableau-dashboards",9
+0,https://github.com/tylerdiaz/Heisenberg.git,Solving prescription/pharmaceutical logistics using smart contracts,,8
+0,https://github.com/quickshiftin/postmates-client.git,A PHP API client for Postmates on demand logistics,"postmates,php,client-library",8
+0,https://github.com/clintonhealthaccess/chailmis-android.git,Android Tablet Application for Logistics Management in the DHIS2 Platform,,8
+0,https://github.com/dimagi/rapidsms-logistics.git,an app to assist with logistics management using rapidsms,,8
+0,https://github.com/route4me/route4me-python-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our Python SDK""}",,8
+0,https://github.com/route4me/route4me-csharp-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our C# SDK""}",,8
+0,https://github.com/nprapps/leso.git,Processing scripts for Defense Logistics Agency LESO data,,8
+0,https://github.com/route4me/route4me-java-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our Java SDK""}",,8
+0,https://github.com/KrupaPrag/VRPTW.git,Computational Logistics of the Vehicle Routing Problem with Time Windows. Comparative Review of application of the PSO and GA to the VRPTW.,,8
+0,https://github.com/hock/SupplyStudiesSyllabus.git,Collaborative syllabus for studies in supply and critical logistics.,,8
+0,https://github.com/CHANTXU64/Girls-Frontline.git,"{""Girls' Frontline logistics calculators, 少女前线后勤排序器""}","gf,girls-frontline,logistics,frontline-logistics-calculators,girlsfrontline",8
+0,https://github.com/Lyyoness/CS110-Solving-Problems-with-Algorithms.git,"Hashing, searching, sorting, tree algorithms, dynamic programming, greedy algorithms, divide and conquer, random number generation, and randomized algorithms are examples of algorithms students learn to exploit to solve problems ranging from logistics and route optimization to DNA sequencing.",,8
+0,https://github.com/deptofdefense/solo.git,System for Operational Logistics Orders (SOLO),,7
+0,https://github.com/jcaoagas/CLT.git,CS 472 Convention Logistics Tracker,,7
+0,https://github.com/QERM514/assistance.git,This repository is for giving and receiving assistance with course logistics and content.,"r,statistics",7
+0,https://github.com/yellowcrescent/atlas_control.git,"ATLAS Control is a framework for building a complete monitoring, trending, reporting, and real-time tracking SCADA-type system primarily aimed at the Industrial Manufacturing sector, but can be tailor to log and report just about anything. It features a modular ""driver"" framework and multiple storage options (mySQL and mongoDB currently) to streamline plant efficiency and reduce the operator and manager\'s daily pile of paperwork! It also includes a real-time tracking and mapping system to track product spacial movement on the plant floor-- integrating with logistics to determine the final customer. All these features combine to enable everyone to work together with a unified base of operation, which is reflected not only in the company\'s bottom line; but also major benefits for QC/QA by allowing them to pinpoint the cause of quality issues and Maintenance personnel to have a central jumping point for troubleshooting complex issues.",,7
+0,https://github.com/farukca/SocialFreight.git,Cloud based multimodal logistics management software,,6
+0,https://github.com/rinde/RinLog.git,RinLog is a collection of (agent) implementations for logistics problems.,,6
+0,https://github.com/alerera/logistics-opt-python.git,Python codes for logistics optimization problems,,6
+0,https://github.com/code4policy/2021.git,Logistics for 2021 class,,6
+0,https://github.com/tom5454/LogisticsBridge.git,Add-On mod for AppliedEnergistics and Logistics Pipes,,6
+0,https://github.com/AnupamMicrosoft/PyTorch-Classification.git,Logistics Regression and Support Vector Machine using PyTorch,,6
+0,https://github.com/bennobo/logistics-podcasts.git,A collection of podcasts on Supply Chain and Logistics.,"logistic,freight,logistics,supply-chain,podcast,transportation,transport,logistics-podcasts",6
+0,https://github.com/perseus784/Mobile-Multi-Robot-Logistics-System.git,A Mobile Multi-Robot system for logistics automation in warehouses.,,6
+0,https://github.com/aleda145/product_allocation_aframe.git,"{""This is an online companion piece for my Master's thesis within Logistics Management and Computer Science""}",,6
+0,https://github.com/idigbio-api-hackathon/HackathonCentral.git,"Command center for iDigBio API Hackathon participants to share ideas, coordinate teams, develop projects and access all logistics information.",,6
+0,https://github.com/berkeley-scf/r-bootcamp-winter-2019.git,"Materials for the 2019 January D-Lab R bootcamp at UC Berkeley. See below (under the listing of files) for information about the bootcamp, including logistics, how to get the course content, and how to install the software you need for the bootcamp on your laptop.",,6
+0,https://github.com/momah/Metaheuristics-for-Logistics.git,"Metaheuristics for Logistics Problems # BPP (CONTAINER LOADING PROBLEM) & VRP (VEHICLE ROUTING PROBLEM) Problems resolved with HillClimbing, Tabu, Greedy, Grasp, and Simulated anneling metaheuristics",,6
+0,https://github.com/ShadowOS/Vechicle-Routing-Problem-VRP-with-Pickup-and-Delivery.git,"Pickup-and-Delivery Problems (PDPs) constitute an important family of routing problems in which goods or passengers have to be transported from different origins to different destinations. These problems are usually defined on a graph in which vertices represent origins or destinations for the different entities (or commodities) to be transported. PDPs can be classified into three main categories according to the type of demand and route structure being considered. In many-to-many (M-M) problems, each commodity may have multiple origins and destinations and any location may be the origin or destination of multiple commodities. These problems arise, for example, in the repositioning of inventory between retail stores or in the management of bicycle or car sharing systems. One-tomany- to-one (1-M-1) problems are characterized by the presence of some commodities to be delivered from a depot to many customers and of other commodities to be collected at the customers and transported back to the depot. These have applications, for example, in the distribution of beverages and the collection of empty cans and bottles. They also arise in forward and reverse logistics systems where, in addition to delivering new products, one must plan the collection of used, defective, or obsolete products. Finally, in one-to-one (1-1) problems, each commodity has a single origin and a single destination between which it must be transported. Typical applications of these problems are less than- truckload transportation and urban courier operations.",,6
+0,https://github.com/NerdCats/TaskCat.git,Logistics task management made easy with cat like precision,"api,microservices-architecture,logistics,dotnet,csharp,mongodb,azure",5
+0,https://github.com/code4policy/2020.git,Logistics for 2020 class,,5
+0,https://github.com/gain-wyj/-Logistic-.git,基于logistics混沌加密算法的图像加密,,5
+0,https://github.com/rawaniharsh/shreemlogistics.git,Logistics Fleet Android App,,5
+0,https://github.com/sydney-thompson/the-suite-life.git,App for managing suitemate logistics,,5
+0,https://github.com/CMU-IDeeL/CMU-IDeeL.github.io.git,11-785 Introduction to Deep Learning (IDeeL) website with logistics and select course materials,,5
+0,https://github.com/route4me/route4me-nodejs-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our Node.js SDK""}",,5
+0,https://github.com/gti-ia/magentix.git,"Magentix2 is an agent platform for open Multiagent Systems. Its main objective is to bring agent technology to real domains: business, industry, logistics, e-commerce, health-care, etc.",,5
+0,https://github.com/StuyPulse/teammanager.git,Rails application that unifies and organizes various aspects of team administration including paperwork and trip logistics.,tooling,5
+0,https://github.com/PawelTroka/RGA.git,"Route-generation assistant for logistics company, written in ASP.NET MVC.",,5
+0,https://github.com/D5-SDD/broken-mold.git,Broken Mold is a Dungeons & Dragons companion application focused on character creation and automating logistics.,,5
+0,https://github.com/SOF3/traffloat.git,"A cooperative 3D web game with elements of City Building, Logistics and Tower Defense.","rust,wasm,game,web-game",5
+0,https://github.com/Bramcals/Order-Batching-Problem-a-deep-Reinforcement-Learning-approach.git,"Archive code of Deep Reinforcement Learning approach used by Bram Cals. Code was developed for the graduation research, as a final project within the master program Operations Management and Logistics at the Eindhoven University of Technology. ",,5
+0,https://github.com/bob-frost/cdek_client.git,Ruby client for CDEK logistics service API,,4
+0,https://github.com/amorenew/FlutterLogistics.git,Flutter Logistics,,4
+0,https://github.com/robocup-logistics/rcll-refbox.git,The referee box (refbox) of the RoboCup Logistics League,"robocup,robocup-logistics",4
+0,https://github.com/EnvisionBlockchain/Ocean-Freight-Logistics-Demo.git,Document Management: Ocean Freight Logistics Demo,"azure,blockchain,azure-blockchain-workbench,reactjs,ethereum",4
+0,https://github.com/route4me/route4me-curl.git,"{""Access Route4Me's logistics-as-a-service API using the curl utility""}",,4
+0,https://github.com/usnistgov/DiscreteEventLogisticsSystems.git,SysML model libraries supporting model-based production and logistics systems modeling ,,4
+0,https://github.com/Ratysz/RT_QuantumStorage.git,RimWorld mod; implements upgradeable storage and logistics solutions.,,4
+0,https://github.com/FireBlinkLTD/fbl.git,FireBlink Logistics,"cli,fbl,flow,automation,automations,deployments,routine,deployment",4
+0,https://github.com/NamelessWorkingTeam/Warestics.git,Logistics Warehousing System,,4
+0,https://github.com/route4me/route4me-go-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our Golang SDK""}",,4
+0,https://github.com/thenetcircle/logistik.git,Machine learning logistics and serving platform,"model-serving,machine-learning-modeling",4
+0,https://github.com/LeanderNicolai/ALPR-Logistics.git,Automatic Licence Plate Recognition for Logistics Management,,4
+0,https://github.com/Capillar/capillar-solidity.git,Logistics blockchain-based platform Capillar.io smart contracts public development,"solidity-contracts,truffle,capillario,logistics",4
+0,https://github.com/ardhikarafi/Android-GO-CEMIL.git,An open source food bank logistics and inventory management tool,"an,open,source,food,bank,logistics,and,inventory,management,tool",4
+0,https://github.com/AalokBorkar/BlockTrack.git,A logistics smart contract for tracking a publicly altered/signed ledger (written in Solidity & using HTML/CSS/Javascript for front end UI) and running on the Ethereum blockchain,,4
+0,https://github.com/Amoiensis/JD-Logistics-Scheduling-GOC.git,This project is for JD GOC Logistics Scheduling Probelm.  针对 JD GOC 城市物流调度比赛的解题源代码+结果检测程序。,,4
+0,https://github.com/kristoferlund/holochain-logistics.git,A minimal but function demo app of a simple logistics system using holochain. (Work in progress),,4
+0,https://github.com/jklepatch/logistics-app.git,Manage logistics data by importing files from a remote ftp server to a local MySQL database,,4
+0,https://github.com/leyan95/lsp_designer.git,🎨 A practical component library from Logistics Service Management Product Group feels silky and smooth when used.,"flutter-widget,flutter-ui",4
+0,https://github.com/IMCR-Hackathon/Hackathon-Central-2019.git,"Command center for 2019 hackathon participants to share ideas, coordinate teams, develop projects and access all logistics information",,4
+0,https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard.git, Real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a Ecommerce company,,4
+0,https://github.com/7373/National-tax-system.git,"The collaborative office platform including administrative management, logistics services, online learning, tax service, my space and several other subsystems; the main function module development is part of the tax service system and tax service system based on personal information table of the first page. The tax service system is the backstage management system of tax PC front-end or mobile terminal, the main functions include system role management, user management, information management, complaint handling, tax consultation, to inform, booking services, service survey module",,4
+0,https://github.com/m0h1t98/Employee-Attrition.git,"This project is a machine learning classification problem. The objective of this project was to predict the rate of employee attrition in the current scenario based on different features. It was the classification problem. I tried three algorithms (Logistics, Decision Tree & Random Forest). But I got high accuracy score about 0.97 using random Forest.","employee-attrition,random-forest,classification,logistics,machine-learning,python3",4
+0,https://github.com/anurag19997/Logistics-Delivery-App.git,"In today’s scenario of integrated logistics, same day delivery and e-commerce fulfilment, one cannot deny the importance of a warehouse management system. Big corporates are facing some common problems – failure to keep track of stock, excess inventory, low product turnover, difficulty in identifying demand patterns, unmanaged customer and vendor returns.  We gave them ISOPRONTO - The complete warehouse management system provided by in – house developed eWMS, with JIT Technology driven process and HHT based operations. Those who prefer not to store goods and function as per number of orders received, have the option of JIT with Isopronto. Our WMS has advanced functionalities to manage and gain better optimisation of resources and assets, plans operations and can manage the workforce which results in increase of output and productivity.  Features:  Integration to marketplaces & web stores for order fulfilment Tag every item with USN Fully featured JIT model Integration with first and last mile Logistics players Real time inventory across warehouse locations 3PL billing",,4
+0,https://github.com/bitsenzes/Building-an-Ecommerce-Website-in-7-Effortless-Steps..git,"{""In accordance with survey reports, the growth of online business worldwide is significantly faster and higher in comparison with traditional businesses. The achievements of online commerce has been so impacting that even established business houses have started out online promoting as a complementary work. However, first things always come first, and in case of internet commerce, it is mandatory to create an eCommerce website at the outset. There is a definite way of practicing the process of creating and operating an internet commerce website. Though a professional involvement is always solicited for such efforts, a good knowledge could also help in initiating an online business. Follow these steps to create your eCommerce store from Scratch: Decide the Merchandise You Want to Offer While browsing the internet you'll want noticed the presence of multiple eCommerce websites selling varied items. There are certain websites dedicated to selling a particular line of products or software program as garments, travel plans, fashion items, and so forth. Also, there are some other eCommerce websites that sell multiple things like mobile phones, laptops, household appliances, books, CDs, home cinemas, helpful cams, sports goods, and so on. The particular latter is a like a huge departmental store selling everything under the same roof. At the outset, it is thus important to decide on the merchandise or service that you would like to offer through your website. While selecting the item of trade you will need to estimate the local demand. Purchasers would always prefer to be able to buy items from a local vendor irrespective regarding being online or traditional. Typically the local supplier would always ensure faster deliveries, easier payment terms, and previously replacements in case of wrong or defective deliveries. Choose Your Business Type As an eCommerce business owner, you can choose your business design as each your requirement. Either you can sell only throughout your online store, or, can sell your products on marketplaces like Amazon, FlipKart, eBay, and so forth You can also sell your products on both the programs each time. Choose a Company and Domain Once you have decided on your array of items and business model, the next step would be to choose a business name and create a domain. A business name should be relevant to your products and easy to remember for your target audience. A website gives an identity and makes it easier for online buyers to recognize you. However, for companies with limited financial resources, it would be desirable to get a shared domain. Sharing a domain with an established name makes it easier for calling your target customers. Because the business grows it would be smart to have a dedicated domain as it helps in lookup engine optimization and easier recognition. Select an e-commerce Website Constructor Nowadays, it is very simple to build your online store by using eCommerce website builders like KartRocket. These kinds of DIY online software create websites in few secs to can start promoting products instantly. Designing Your own eCommerce Store Your eCommerce website is your store, and it needs to be made for the convenience of your buyers. Because in a store, your website should contain details about your saleable products and services. Images, explanations, prices, users’ comments, scores should all be as part of your web page for helping prospective buyers. You must make it certain, that your web page displays your products perfectly so that buyers are never misled. You need to make your web pages and website attractive as that will be your representation to buyers online. Set Up the Repayment Entrance As an online business, one must have multiple payment options available for the customers. The eStore builders like KartRocket come with tools that can set up these benefits to your website automatically. The customer should be able to make payments via credit card, debit credit card, online wallets, net bank, COD, etc.  Secure Your Website by Installing SSL Certificate For the websites that transfer data online, one must make sure that their connection is protected by a secured security layer (SSL). The SSL document keeps your website secure and builds the trust among your customers. Today, even Google recommends having an SSL certificate for every single website.  Select Your own Shipping Partner Once you start selling products through your eCommerce website, you will need to ship those products to your customers with the aid of courier services. eCommerce logistics aggregator services like ShipRocket are the best option to go for. They give you multiple courier organization options to ship your product with the least expensive available shipping charges, so you might have maximum income value in your reveal. These are the basic steps in creating an eCommerce website for your product or service and commence marketing instantly.""}",,4
+0,https://github.com/Direwolf20-MC/LogisticsLasers.git,Logistics but with lasers!,,3
+0,https://github.com/code4policy/2019.git,Logistics for January 2019 Class,,3
+0,https://github.com/13sin/FleetManagementSystem.git,Fleet Management System for logistics Industry,,3
+0,https://github.com/jmarnold/recruiting.git,Recruiting Projects for Logistics,,3
+0,https://github.com/johncorderox/Logistics.git,A Logistics Rails App ,"logistics,rails,admin,auction,ruby",3
+0,https://github.com/schumanzhang/vehicle_routing.git,Software for routing vehicles for last mile logistics,,3
+0,https://github.com/binarymachines/bxlogic.git,Binary eXperimental LOGistics Integration and Control,,3
+0,https://github.com/route4me/route4me-php-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our PHP SDK""}",,3
+0,https://github.com/stcrowe/R3FAdvLog.git,A modern edition of R3F Logistics built into the ACE framework,,3
+0,https://github.com/lvw5264/hyperledger-megacity.git,"Source code of the Hyperledger Composer Playground implementation in the thesis ""Blockchain Smart Contracts in Megacity Logistics"".",,3
+0,https://github.com/ZeeshanSyedH/Leopard-Systems.git,Logistics CRM Solution,"crm-system,csharp,logistics",3
+0,https://github.com/ANL-CEEESA/RELOG.git,RELOG: Reverse Logistics Optimization,,3
+0,https://github.com/Auxiliatrix/ALICE.git,Assistive Logistics | Communications Entity,,3
+0,https://github.com/xclu/logisticsBeijing.git,Collect logistics data in Beijing,,3
+0,https://github.com/beyond2013/DBS.git,Course Logistics for Database systems,"database-management,mysql,sql",3
+0,https://github.com/SanMaoTaGe/BOS_SUYUN.git, A project on logistics management,,3
+0,https://github.com/e-ayeni/Regression_in_Insurance.git,This repo is for a logistics regression problem using an Insurance Company as case study,,3
+0,https://github.com/SSCIPaperSubmitter/ssciPDDLPlanner.git,"PDDL Generator for Transportation Logistics Scenarios,  based on CPS and ITS ontologies","pddl,transportation,logistics,planning",3
+0,https://github.com/pbayer/ProcessFlows.jl.git,"Process flows in service, manufacturing, logistics …","simulation,process,projects,manufacturing,flow,discrete-event-simulation",3
+0,https://github.com/cnpls/logistics.git,Logistics engineering tool built with rust.,"logistics-engineering,under-development,learning-rust",3
+0,https://github.com/FTC2050/data-standard.git,Data Standard for last mile logistics platforms and applications.,,3
+0,https://github.com/rinde/evo4mas.git,Evolutionary algorithms for designing multi-agent systems for logistics.,,3
+0,https://github.com/werewolfe/LoadUp.git,Ethereum Blockchain dapp sample for shipping and logistics,,3
+0,https://github.com/AMSP-04/NETN-LOG.git,NATO Education and Training Network (NETN) Logistics (LOG) Module,,3
+0,https://github.com/adesst/web2py_prolog.git,An Example of Procurement and Logistics application using web2py,,3
+0,https://github.com/lotionVirgilAbloh/lotion.git,Lotion - Logistics Big Data Visualization Platform. In progressing...,,3
+0,https://github.com/health-data-science-OR/healthcare-logistics.git,Materials for the modelling healthcare logistics taught component of HPDM097,,3
+0,https://github.com/lucniner/electric_vehicle_routing_problem_with_time_windows.git,Electric-Vehicle Routing Problem with Time Windows (EVRPTW) for the optimization in transports and logistics coure summer term 2018 at the technical university of vienna,,3
+0,https://github.com/techniqs/hyperledger-sawtooth-reason-logistics.git,"{""Logistics Application build on Hyperledger Sawtooths blockchain as part of my bachelor's thesis.""}",,3
+0,https://github.com/stromhalm/Logistics-Problem-Optimizer.git,This logistics optimizer provides multiple algorithms to solve a given transportation problem,,3
+0,https://github.com/xr0927/project5--Monitoring-of-restricted-goods-in-logistics.git,"Tianchi Competition, Tianjin south digital manufacturing algorithm challenge——Monitoring of restricted goods in logistics",,3
+0,https://github.com/xxlllq/python_scrapy_express.git,:beetle:利用Python获取物流运输路线（Use Python to get logistics transportation routes）,python,3
+0,https://github.com/IMCR-Hackathon/Hackathon-Central-2018.git,"Command center for IMCR Hackathon participants to share ideas, coordinate teams, develop projects and access all logistics information",,3
+0,https://github.com/Palak-15/Telecom-Churn-Case-Study.git,Predict a particular customer will switch to another telecom provider or not(churn or not churn) using Logistics Regression. ,"logistic-regression,python3,jupyter-notebook,telecom,visualization,seaborn,matplotlib",3
+0,https://github.com/jamesrequa/AI-Planning.git,"I created a planning search agent to solve deterministic logistics planning problems, defined in classical Planning Domain Definition Language (PDDL), for an Air Cargo transport system.",,3
+0,https://github.com/IAMLEGION98/MOVEHACK-DIGITALTWIN2.0.git,To achieve the concept of Digital Twin to monitor logistics supply chain of network and to bridge the communication gap and form a closed loop of events,,3
+0,https://github.com/Picturepark/Picturepark.SDK.Samples.git,"Samples featured on the Online Demo of the Picturepark Content Platform. This public online demo provides you with various samples of how a virtual organization which we have named the Fine Organic Foods Association (FOFA) supports its stakeholders (organic farmers and retailers) with unified access to product data, content logistics and up-to-date marketing resources.",,3
+0,https://github.com/Rakeshvd/Carton-box-detector-to-help-smother-operations-in-supply-chain.git,"This model will detect carton boxes in a video(like from CCTV camera etc),and count them .This is a application in used during supply chain management and logistics.",,3
+0,https://github.com/kirazy/vanilla-loaders-hd.git,"{""[Mod][Factorio] Adds the vanilla loaders to the game with customizable recipe difficulty, and with support for cargo wagons via lua scripting. Supports belts added by Bob's Logistics. When installed side-by-side with Loader Redux, will use Loader Redux's snapping logic and train loading. Additionally, with a startup setting, may be used to only reskin Loader Redux.""}",,3
+0,https://github.com/evenhe/logistics-feature.git,利用logistics算法进行数据的特征筛选。 logistic 回归为概率型非线 性回归模型，其自变量可为连续或者分立值，因变量可为二分类值（0 或 1）或 者多分类值。 此代码可筛选对结果有较大影响的自变量因子，并综合了L1与L2惩罚性。,,3
+0,https://github.com/IBM-Cloud/logistics-wizard-controller.git,Controller for the Logistics Wizard showcase demo.,ibm-cloud-solutions,2
+0,https://github.com/pyladies/project-admin-logisitics.git,PyLadies Project: Admin + Logistics,,2
+0,https://github.com/meowoodie/Logistics-Analytics.git,Logistics Analytics and Visualization,"logistics,graph,spark,python,d3js,recommendation-system",2
+0,https://github.com/adithyaanilkumar/Project-EXODUS.git,A Blockchain based logistics network,,2
+0,https://github.com/djcroissant/getyrbeta.git,"Web application to facilitate, automate, and coordinate planning logistics for outdoor adventures","python,django,optoutside,outdoors,planning",2
+0,https://github.com/orangepoet/Logisitcs.git,"Logistics business system, using ASP.NET MVC",,2
+0,https://github.com/ChenErTong/SE2.git,Express Logistics System,,2
+0,https://github.com/Afforess/LogisticsMining.git,Factorio Mod - Logistics Mining,,2
+0,https://github.com/ryanlaws/pigeons.git,Message logistics for monome norns,,2
+0,https://github.com/elanic-tech/angarum.git,A library which aims to provide a common api for the numerous logistics partners in India,,2
+0,https://github.com/SharanRajani/SupplyChainManagement.git,Distributed Blockchain Application for Supply Chain and Logistics Management developed using Hyperledger Composer running on Hyperledger Fabric.,"blockchain,hyperledger-composer,supply-chain-management,javascript",2
+0,https://github.com/bitlair/synlogistics.git,Multi user accounting and logistics software,,2
+0,https://github.com/Guo-min-zhi/logistics_system.git,a logistics system based on SSH.,,2
+0,https://github.com/Kasperki/LogisticsUtility.git,Factorio Mod - aims to make your logistics networks more easible maintainable.,,2
+0,https://github.com/GopherAtl/logistic-combinators.git,adds combinators that can transfer values from logistics network to circuit networks,,2
+0,https://github.com/ExcellentJR/mpvue-logistics-info-component.git,A Mpvue/Uni-app component that can show logistics info,"logistics-track,mpvue,uni-app",2
+0,https://github.com/sudeephazra/python-rain-predictor.git,Predicting rainfall using multi-stage logistics regression and naive bayes from weather data,"python,machine-learning,logistic-regression,predicting-rainfall,weather-data,naive-bayes",2
+0,https://github.com/route4me/route4me-cpp-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our C++ SDK""}",,2
+0,https://github.com/marcofanti/Simulation.git,Logistics Simulation,,2
+0,https://github.com/jjriccardo42/transcend.git,transportation and logistics planning,,2
+0,https://github.com/LamCiuLoeng/Logistics.git,a logistics management system,,2
+0,https://github.com/SymbolicSystems150/EndOfQuarterPresentations.git,Logistics for Last Seminar,,2
+0,https://github.com/polosataya/Logistics-Challenge.git,Sendy Logistics Challenge,,2
+0,https://github.com/polakowo/translog-algorithms.git,Transportation Logistics algorithms,"optimization,optimization-algorithms,transportation,logistics",2
+0,https://github.com/tade0726/transport_center_simulation.git,Simulation for logistics center,,2
+0,https://github.com/EdTosoy/Jinada-Project.git,Total Logistics Website,,2
+0,https://github.com/route4me/route4me-ruby-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our Ruby SDK""}",,2
+0,https://github.com/freight-trust/instruments.git,Smart Contract Instruments for Supply Chain and Logistics. Enabled via EDI/XML messaging service.,"ethereum,blockcchain,solidity,instruments,financial,crypto,primitives,derivatvies",2
+0,https://github.com/davinnovation/Space-Logistics.git,Research of Space/Interplanetary Logistics,"logistics,space,interplanetary",2
+0,https://github.com/ksuhartono97/IELM_2100E_OCR_T4.git,OCR Program for Kerry Logistics,"ocr,android,meteorjs",2
+0,https://github.com/enegri/OFM.git,Ontology for manufacturing and logistics,,2
+0,https://github.com/Hordicus/Logistics.git,Logistics System for Wasteland Prime,,2
+0,https://github.com/LukeMwila/shipping-logistics-graphql-server.git,Shipping logistics GraphQL server implementation,,2
+0,https://github.com/Sriharsha297/FIAT_dash.git,Testing Dashboard for Factory Logistics,,2
+0,https://github.com/hdinsight/BigDLonHDInsight.git,logistics to run BigDL on HDInsight,,2
+0,https://github.com/nwahie/UCI_Car-Evaluation.git,"Classification - KNN, Decision Tree, Logistics, SVM, NB",,2
+0,https://github.com/rishanexe/logistics.git,A basic logistics web-app using Django,,2
+0,https://github.com/itfrogs/wa-shop-shoplogistics.git,Отправка заказов в ЛК Shop-Logistics,,2
+0,https://github.com/prakash03/Text-Classification-By-Logistic-Regression-Classifier-Using-Theano.git,Claasification of Text using Logistics Regression,,2
+0,https://github.com/beyond2013/ProbNStat.git,Course Logistics for Probability and Statistics,,2
+0,https://github.com/beyond2013/ProbNStat.git,Course Logistics for Probability and Statistics,,2
+0,https://github.com/matrix-wd/Blockchain-based-shared-logistics.git,Graduation Design：Blockchain-based shared logistics,,2
+0,https://github.com/serverlesscamp/logistics.git,Logistics information for serverless code camps,,2
+0,https://github.com/saincogt/PRT820Game.git,Gaming with HTML5 - a humanitarian logistics game,,2
+0,https://github.com/Bubbet/ProjectBSR.git,Re-adding beesinks to logistics pipes.,,2
+0,https://github.com/detrack/elasticroute-python.git,"Free, intelligent routing for your logistics – now on Python.","python,library,salesman-problem,routing,routing-engine,routing-algorithm,api-client,elasticroute",2
+0,https://github.com/caywagner/balloonbot.git,for the love and logistics of high altitude ballooning,,2
+0,https://github.com/iamgoddey/Zindi_Challenge_Sendy_Logistics.git,Zindi Challenge for Sendy Logistics Company in Nairobi Final Submissions ,,2
+0,https://github.com/luiul/statistics-meets-logistics.git,Statistics Meets Logistics Project WS20/21 at TU Dortmund,"logistics,statistics,jupyter-notebook,data-science,data-analysis,regression-models",2
+0,https://github.com/gennadyx/php-shop-logistics.ru-api.git,PHP oop wrapper for shop-logistics.ru remote functions,"php,composer,library,rpc",2
+0,https://github.com/emptymalei/theflow.git,I learn about logistics by writing about it.,,2
+0,https://github.com/kantsverma/Bergen-Logistics-API.git,API used to send the order list to Bergen Logistics ,,2
+0,https://github.com/tmdwns1101/SmartForkLiftService.git,Self-driving forklift + Logistics Management System (Server site),,2
+0,https://github.com/dannguyen/dod-leso-1033-data.git,A repo for collecting data/records regarding the Defense Logistics ,,2
+0,https://github.com/fmichonneau/datacarpentry-organization-translations.git,translations for the logistics of organizing a Data Carpentry workshop,,2
+0,https://github.com/ankitaggarwal011/horsefly.git,Coordinated logistics with a truck and a drone,"drones,clustering,kmeans-clustering,algorithm,optics-clustering,truck,logistics,visualization,html5,html5-canvas,javascript,nearest-neighbor-search,kdtree,delivery,autonomous-vehicles",2
+0,https://github.com/judos/neatLogistics.git,Factorio neatLogistics mod - adds a few very useful logistics items,,2
+0,https://github.com/SJunTer/QExpress.git,A smart logistics distribution system developed for practice,,2
+0,https://github.com/uvdsl/LinkedData-Logistics.git,"{""Verifying the integrity of Linked Data in the Logistics Domain via Ethereum's Smart Contracts.""}","logistics,linked-data,ethereum-dapp,demo-application",2
+0,https://github.com/CSc436/timelog.git,Application to keep track of productivity and provide logistics feedback to the user.,,2
+0,https://github.com/markush97/system4blue.git,A organisation and logistics tool developed to help (emergency) organisations handle their day-to-day tasks.,,2
+0,https://github.com/Vandeko1/trucking-road.git,NativeScript mobile application for GPS tracking of drivers by a logistics company,,2
+0,https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization.git,"{""Paper note about Logistics-Optimization and product configuration recommendation, optimization, created by David's team""}",,2
+0,https://github.com/beyond2013/AlgoAnalysis.git,Logistics for the course Advanced Algorithm Analysis taught to MS students at Computer Science Department UoB,,2
+0,https://github.com/skarning/transport-web-app.git,Web application for managing logistics for a generic transport and storage company.,,2
+0,https://github.com/seanys/Use-anyLogistixPLE-to-Simulate-Flexible-Production-Networks.git,"Sean Yang\'s Final Project for the course ""Logistics and Supply Chain""- MSE, Tongji University",,2
+0,https://github.com/gardejo/js-kancolle-logistics-visualizer.git,KanColle Logistics Visualizer（艦これ 兵站図示儀）,,2
+0,https://github.com/coopiteasy/vertical-distribution-circuits.git,Odoo modules for managing short circuit distribution logistics and website sale.,,2
+0,https://github.com/NerdCats/RoboCat.git,"RoboCat is the Android app for the Logistics Task Management service, TaskCat.",,2
+0,https://github.com/route4me/route4me-delphi-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our Delphi SDK ""}",,2
+0,https://github.com/pombredanne/cx_reverse_logistics_app.git,ETL that keeps up to date data of products that could go into reverse logistics process,,2
+0,https://github.com/CheKaiWei/Fresh-Traceability-System.git,The project is to combine the machine vision and sensor technology to monitor the cold chain fresh logistics. ,,2
+0,https://github.com/oSoc19/data-monitor.git,"This project aim to monitor data about traffic, road maintenance and logistics in an accessible way for the Dutch government..",,2
+0,https://github.com/aa-gamJain/Machine-Learning-with-Python.git,"Machine learning algorithms: Tree (Decision Tree, Random Forest, GBM and Xgboost), Regression(Linear and Logistics) and SVM",,2
+0,https://github.com/accountdeactivated/prime-sys.git,"An automotive service repair system platform for inventory, sales, human resources and logistics management of automotive shops.","laravel,service,system-administration,composer-package",2
+0,https://github.com/afamefunaudoba/order.git,"An Order Management System that is Sleek, intuitive, and effective. with inbuilt payment and transportation logistics handing",,2
+0,https://github.com/Ejiod/Machine-learning-first-project.git,"Machine learning analysis with python, including Regression, Logistics regression, KNN,NLP. Pls open with nbviewer http://nbviewer.jupyter.org/",,2
+0,https://github.com/RosarioBrancato/SpeechBasedGroceries.git,"A CIU, which integrates a Telegram bot using Dialogflow, Fridgy the digital fridge, a CRM database, a logistics database and a placeholder bank system.",,2
+0,https://github.com/bic-org/Facility-Code.git,Global Container Facility Code API from BIC and SMDG to identify container handling facilities and terminals used in the transport and logistics industry,"facility,container-shipping-industry,sea-terminals,identify-container-facilities,code-list,standards,bic-facility-code,shipping,container-depot,api-documentation",2
+0,https://github.com/Jason-danran0612/LogAndTrans.git,一个简单的物流日志数据采集demo/A simple data collection demo of logistics log,"javaweb,javascript,jsp,css,html,servlet",2
+0,https://github.com/cagrigungor/QR-Code-Angle-Calculator.git,"This project was created during my internship. I was in the AI team and we are responsible for the motion of logistics robot. The robot moves by scanning QR codes on the ground, find its paths. To create the dataset for neural networks, this util program calculates the angle of any Qr Code from images.",,2
+0,https://github.com/Defcon27/ARLO-Advanced-Robot-for-Logistics-Patrol-Operations.git,"🤖 ARLO is a robot that can be deployed in COVID-19 containment zones for delivery of essential supplies like sanitizers, masks improving safety in logistics and also surveillance of the area.","raspberry-pi-3,pi-camera,robotics,flask,python3,opencv,delivery-bot,logistics,live-feed,remote-control,temperature-humidity-sensor,motors,h-bridge,surveillance",2
+0,https://github.com/JstMagic/dynamicPDO.git,"Insert and retrieve data dynamically using PDO. It takes care of all the logistics and headache of binding fields and data manualy, fields are still binded but they are done instantaneously and dynamically without user interference",,2
+0,https://github.com/fduque/LogisticTools-Plugin-OpenJUMP.git,"{""Project's goal:   The attached project implements several procedures for solving logistics, marketing, and other planning problems. The procedures   were implemented in the JAVA language within a plug-in and incorporated into a GIS platform called OpenJUMP (see below).""}",,2
+0,https://github.com/HAC-2020/Defcon27.git,"TEAM Defcon27 - 🤖 ARLO is a robot that can be deployed in COVID-19 containment zones for delivery of essential supplies like sanitizers, masks improving safety in logistics and also surveillance of the area.",,2
+0,https://github.com/Emitung/LogisticsWebApp.git,"Logistics Web Application for Global Union International Inc. Admin users can track shipments and generate delivery orders for available shipments. In the future, I intend to implement file upload to allow admin users to upload custom papers, invoices, etc.",,2
+0,https://github.com/wenchonglai/brutalization.git,"Brutalization is a turn-based single player strategy board game that implements the logic of real wars and simulates marching and battles affected by logistics, morality, and formations. A user can compete against computer players, control units to attack enemy units, and eventually win the game by having higher scores or defeating other computer players.","game,boardgame,front-end,turn-based,strategy",2
+0,https://github.com/Davelister/CLAYEngine.git,"CLAYEngine (pun intended to the Cry Engine) is a video game engine implementing models, HMI and graph solvers for factory builders. Its goal is to provide logistics, manufacturing processes, QA, markets with company public image, social behaviour, as it could be encountered in any real industrial company.","video-game,factory-builder,logistics",2
+0,https://github.com/HarryWang197/CVOID-19AnalysisAndPredict.git,使用Python数据分析功能，统计疫情期间美国确诊数量，用logistics回归模型预测美国疫情发展趋势，数据来自腾讯疫情实时动态。,,2
+0,https://github.com/tnsk25/Categorization-of-Amazon-Product-Reviews-.git,"Aspect based sentiment analysis was done on the customer reviews from Amazon to categorize them based on the areas of the company     such as Packaging, Logistics, Quality, Specifications and Other operations in order to find the low performing areas of the company. 5-core     dataset of amazon reviews prepared by University of California was considered. Different deep learning models such as RNN, CNN and LSTM        were employed and compared to come up with best accuracy. GloVe model was used as pre-trained word embedding for the models.",,2
+0,https://github.com/anishsingh20/Analyzing-Temperature-changes-of-Major-Cities-worldwide.git,"{""Global warming is the ongoing rise of the average temperature of the Earth's climate system and has been demonstrated by direct temperature measurements and by measurements of various effects of the warming - Wikipedia  So a dataset on the temperature of major cities of the world will help analyze the same. Also weather information is helpful for a lot of data science tasks like sales forecasting, logistics etc.""}",,2
+0,https://github.com/sid0712/Estimating-Energy-Usage-of-Appliances-and-classifying-into-high-and-low-energy-usage.git,"Task I: Developing and Implementing linear and logistics regression using gradient descent algorithm and tuning various parameters to predict the energy usage of appliances based on temperature, humidity and weather attributes.  Task II: Implementing supervised learning models using Logistic Regression, Scalar Vector Classifier (SVC), Decision Tree Classifier and AdaBoost Classifier to classify high and low energy household usage of appliances based on temperature, humidity and weather attributes and come up with the best model on the basis of model evaluation parameters of classifiers. The Dataset can be downloaded from UCI_ML_Repository.",,2
+0,https://github.com/xiaoyue10131748/implement-interfaces-between-OTM-and-TM-system-.git,"I was working for a software development and consulting firm. Our group is to implement a logistic information system based on Oracle Transportation Management system (OTM). We tailor solutions for a Japanese company by developing and implementing OTM which enables them to meet their customer service and logistics objectives by managing all orders and shipments, both domestic and international. Logistics systems require large amounts of data, including information about locations, geography, service providers, rates, itineraries, as well as transactional data such as orders and shipment status. Much of this data comes from traditional Enterprise Resource Planning (ERP) systems. To implement the interface and communication between OTM and ERP is my main job. In this project, I need to develop programs that can parse and transfer JSON data between the OTM system and ERP system because tools and techniques for data integration in-built in OTM has its imitation, which means it can only process xml-based and EDI-based integration. Therefore, my primary work is implementing the Application Programming Interface (API). ",,2
+0,https://github.com/flybunctious/The-Game-of-Hog.git,"Introduction In this project, you will develop a simulator and multiple strategies for the dice game Hog. You will need to use control statements and higher-order functions together, as described in Sections 1.2 through 1.6 of Composing Programs.  In Hog, two players alternate turns trying to be the first to end a turn with at least 100 total points. On each turn, the current player chooses some number of dice to roll, up to 10. That player\'s score for the turn is the sum of the dice outcomes.  To spice up the game, we will play with some special rules:  Pig Out. If any of the dice outcomes is a 1, the current player\'s score for the turn is 1. Example 1: The current player rolls 7 dice, 5 of which are 1\'s. They score 1 point for the turn. Example 2: The current player rolls 4 dice, all of which are 3\'s. Since Pig Out did not occur, they score 12 points for the turn. Free Bacon. A player who chooses to roll zero dice scores one more than the largest digit in the opponent\'s total score. Example 1: If the opponent has 42 points, the current player gains 1 + max(4, 2) = 5 points by rolling zero dice. Example 2: If the opponent has 48 points, the current player gains 1 + max(4, 8) = 9 points by rolling zero dice. Example 3: If the opponent has 7 points, the current player gains 1 + max(0, 7) = 8 points by rolling zero dice. Swine Swap. After points for the turn are added to the current player\'s score, if both scores are larger than 1 and either one of the scores is a positive integer multiple of the other, then the two scores are swapped. Example 1: The current player has a total score of 37 and the opponent has 92. The current player rolls two dice that total 9. The opponent\'s score (92) is exactly twice the player\'s new total score (46). These scores are swapped! The current player now has 92 points and the opponent has 46. The turn ends. Example 2: The current player has 91 and the opponent has 37. The current player rolls five dice that total 20. The current player has 111, which is 3 times 37, so the scores are swapped. The opponent ends the turn with 111 and wins the game. Download starter files To get started, download all of the project code as a zip archive. You only have to make changes to hog.py.  hog.py: A starter implementation of Hog dice.py: Functions for rolling dice hog_gui.py: A graphical user interface for Hog ucb.py: Utility functions for CS 61A ok: CS 61A autograder tests: A directory of tests used by ok images: A directory of images used by hog_gui.py Logistics This is a 2-week project. This is a solo project, so you will complete this project without a partner. You should not share your code with any other students, or copy from anyone else\'s solutions.  Remember that you can earn an additional bonus point by submitting the project at least 24 hours before the deadline.  The project is worth 20 points. 18 points are assigned for correctness, and 2 points for the overall composition of your program.  You will turn in the following files:  hog.py You do not need to modify or turn in any other files to complete the project. To submit the project, run the following command:  python3 ok --submit You will be able to view your submissions on the Ok dashboard.  For the functions that we ask you to complete, there may be some initial code that we provide. If you would rather not use that code, feel free to delete it and start from scratch. You may also add new function definitions as you see fit.  However, please do not modify any other functions. Doing so may result in your code failing our autograder tests. Also, please do not change any function signatures (names, argument order, or number of arguments).  Testing Throughout this project, you should be testing the correctness of your code. It is good practice to test often, so that it is easy to isolate any problems. However, you should not be testing too often, to allow yourself time to think through problems.  We have provided an autograder called ok to help you with testing your code and tracking your progress. The first time you run the autograder, you will be asked to log in with your Ok account using your web browser. Please do so. Each time you run ok, it will back up your work and progress on our servers.  The primary purpose of ok is to test your implementations, but there are two things you should be aware of.  First, some of the test cases are locked. To unlock tests, run the following command from your terminal:  python3 ok -u This command will start an interactive prompt that looks like:  ===================================================================== Assignment: The Game of Hog Ok, version ... =====================================================================  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Unlocking tests  At each ""? "", type what you would expect the output to be. Type exit() to quit  --------------------------------------------------------------------- Question 0 > Suite 1 > Case 1 (cases remaining: 1)  >>> Code here ? At the ?, you can type what you expect the output to be. If you are correct, then this test case will be available the next time you run the autograder.  The idea is to understand conceptually what your program should do first, before you start writing any code.  Once you have unlocked some tests and written some code, you can check the correctness of your program using the tests that you have unlocked:  python3 ok Most of the time, you will want to focus on a particular question. Use the -q option as directed in the problems below.  We recommend that you submit after you finish each problem. Only your last submission will be graded. It is also useful for us to have more backups of your code in case you run into a submission issue.  The tests folder is used to store autograder tests, so do not modify it. You may lose all your unlocking progress if you do. If you need to get a fresh copy, you can download the zip archive and copy it over, but you will need to start unlocking from scratch.  If you do not want us to record a backup of your work or information about your progress, use the --local option when invoking ok. With this option, no information will be sent to our course servers.  Graphical User Interface A graphical user interface (GUI, for short) is provided for you. At the moment, it doesn\'t work because you haven\'t implemented the game logic. Once you complete the play function, you will be able to play a fully interactive version of Hog!  In order to render the graphics, make sure you have Tkinter, Python\'s main graphics library, installed on your computer. Once you\'ve done that, you can run the GUI from your terminal:  python3 hog_gui.py Once you complete the project, you can play against the final strategy that you\'ve created!  python3 hog_gui.py -f Phase 1: Simulator In the first phase, you will develop a simulator for the game of Hog.  Problem 0 (0 pt) The dice.py file represents dice using non-pure zero-argument functions. These functions are non-pure because they may have different return values each time they are called. The documentation of dice.py describes the two different types of dice used in the project:  Dice can be fair, meaning that they produce each possible outcome with equal probability. Example: six_sided. For testing functions that use dice, deterministic test dice always cycle through a fixed sequence of values that are passed as arguments to the make_test_dice function. Before we start writing any code, let\'s understand the make_test_dice function by unlocking its tests.  python3 ok -q 00 -u This should display a prompt that looks like this:  ===================================================================== Assignment: Project 1: Hog Ok, version v1.5.2 =====================================================================  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Unlocking tests  At each ""? "", type what you would expect the output to be. Type exit() to quit  --------------------------------------------------------------------- Question 0 > Suite 1 > Case 1 (cases remaining: 1)  >>> test_dice = make_test_dice(4, 1, 2) >>> test_dice() ? You should type in what you expect the output to be. To do so, you need to first figure out what test_dice will do, based on the description above.  You can exit the unlocker by typing exit() (without quotes). Typing Ctrl-C on Windows to exit out of the unlocker has been known to cause problems, so avoid doing so.  Problem 1 (2 pt) Implement the roll_dice function in hog.py. It takes two arguments: a positive integer called num_rolls giving the number of dice to roll and a dice function. It returns the number of points scored by rolling the dice that number of times in a turn: either the sum of the outcomes or 1 (Pig Out).  To obtain a single outcome of a dice roll, call dice(). You should call dice() exactly num_rolls times in the body of roll_dice. Remember to call dice() exactly num_rolls times even if Pig Out happens in the middle of rolling. In this way, we correctly simulate rolling all the dice together.  Checking Your Work:  Before writing any code, unlock the tests to verify your understanding of the question.  python3 ok -q 01 -u Once you are done unlocking, begin implementing your solution. You can check your correctness with:  python3 ok -q 01 If the tests don\'t pass, it\'s time to debug. You can observe the behavior of your function using Python directly. First, start the Python interpreter and load the hog.py file.  python3 -i hog.py Then, you can call your roll_dice function on any number of dice you want, such as 4.  >>> roll_dice(4) In most systems, you can evaluate the same expression again by pressing the up arrow or Control-P, then pressing enter or return. You should find that evaluating this call expression gives a different answer each time, since dice rolls are random.  The roll_dice function has a default argument value for dice that is a random six-sided dice function. You can also use test dice that fix the outcomes of the dice in advance. For example, rolling twice when you know that the dice will come up 3 and 4 should give a total outcome of 7.  >>> fixed_dice = make_test_dice(3, 4) >>> roll_dice(2, fixed_dice) 7 If you find a problem, you need to change your hog.py file, save it, quit Python, start it again, and then start evaluating expressions. Pressing the up arrow should give you access to your previous expressions, even after restarting Python.  Once you think that your roll_dice function is correct, run the ok tests again. Tests like these don\'t prove that your program is exactly correct, but they help you build confidence that this part of your program does what you expect, so that you can trust the abstraction it defines as you proceed.  Problem 2 (1 pt) Implement the free_bacon helper function that returns the number of points scored by rolling 0 dice, based on the opponent\'s current score. You can assume that score is less than 100. For a score less than 10, assume that the first of the two digits is 0.  Before writing any code, unlock the tests to verify your understanding of the question.  python3 ok -q 02 -u Once you are done unlocking, begin implementing your solution. You can check your correctness with:  python3 ok -q 02 You can also test free_bacon interactively by entering python3 -i hog.py in the terminal and then calling free_bacon with various inputs.  Problem 3 (1 pt) Implement the take_turn function, which returns the number of points scored for a turn by the current player. Your implementation should call roll_dice when possible.  You will need to implement the Free Bacon rule. You can assume that opponent_score is less than 100. Call free_bacon in your implementation of take_turn.  Before writing any code, unlock the tests to verify your understanding of the question.  python3 ok -q 03 -u Once you are done unlocking, begin implementing your solution. You can check your correctness with:  python3 ok -q 03 Problem 4 (1 pt) Implement is_swap, which returns whether or not the scores should be swapped because one is an integer multiple of the other.  The is_swap function takes two arguments: the player scores. It returns a boolean value to indicate whether the Swine Swap condition is met.  Before writing any code, unlock the tests to verify your understanding of the question.  python3 ok -q 04 -u Once you are done unlocking, begin implementing your solution. You can check your correctness with:  python3 ok -q 04 Problem 5 (3 pt) Implement the play function, which simulates a full game of Hog. Players alternate turns, each using their respective strategy function (Player 0 uses strategy0, etc.), until one of the players reaches the goal score. When the game ends, play returns the final total scores of both players, with Player 0\'s score first, and Player 1\'s score second.  Here are some hints:  You should use the functions you have already written! You will need to call take_turn with all three arguments. Only call take_turn once per turn. Enforce all the special rules. You can get the number of the other player (either 0 or 1) by calling the provided function other. You can ignore the say argument to the play function for now. You will use it in Phase 2 of the project. A strategy is a function that, given a player\'s score and their opponent\'s score, returns how many dice the player wants to roll. A strategy function (such as strategy0 and strategy1) takes two arguments: scores for the current player and opposing player, which both must be non-negative integers. A strategy function returns the number of dice that the current player wants to roll in the turn. Each strategy function should be called only once per turn. Don\'t worry about the details of implementing strategies yet. You will develop them in Phase 3. Before writing any code, unlock the tests to verify your understanding of the question.  python3 ok -q 05 -u Once you are done unlocking, begin implementing your solution. You can check your correctness with:  python3 ok -q 05 The last test for Question 5 is a fuzz test, which checks that your play function works for a large number of different inputs. Failing this test means something is wrong, but you should look at other tests to see where the problem might be. Once you are finished, you will be able to play a graphical version of the game. We have provided a file called hog_gui.py that you can run from the terminal:  python3 hog_gui.py If you don\'t already have Tkinter (Python\'s graphics library) installed, you\'ll need to install it first before you can run the GUI.  The GUI relies on your implementation, so if you have any bugs in your code, they will be reflected in the GUI. This means you can also use the GUI as a debugging tool; however, it\'s better to run the tests first.  Congratulations! You have finished Phase 1 of this project!  Phase 2: Commentary In the second phase, you will implement commentary functions that print remarks about the game, such as, ""22 points! That\'s the biggest gain yet for Player 1."" A commentary function takes two arguments, the current score for Player 0 and the current score for Player 1. It returns another commentary function to be called on the next turn. It may also print some output as a side effect of being called.  The function say_scores in hog.py is an example of a commentary function. The function announce_lead_changes is an example of a higher-order function that returns a commentary function.  def say_scores(score0, score1):     """"""A commentary function that announces the score for each player.""""""     print(""Player 0 now has"", score0, ""and Player 1 now has"", score1)     return say_scores  def announce_lead_changes(previous_leader=None):     """"""Return a commentary function that announces lead changes.      >>> f0 = announce_lead_changes()     >>> f1 = f0(5, 0)     Player 0 takes the lead by 5     >>> f2 = f1(5, 12)     Player 1 takes the lead by 7     >>> f3 = f2(8, 12)     >>> f4 = f3(8, 13)     >>> f5 = f4(15, 13)     Player 0 takes the lead by 2     """"""     def say(score0, score1):         if score0 > score1:             leader = 0         elif score1 > score0:             leader = 1         else:             leader = None         if leader != None and leader != previous_leader:             print(\'Player\', leader, \'takes the lead by\', abs(score0 - score1))         return announce_lead_changes(leader)     return say Problem 6 (2 pt) Update your play function so that a commentary function is called at the end of each turn. say(score0, score1) should be called at the end of the first turn. Its return value (another commentary function) should be called at the end of the second turn. Each turn, a new commentary function should be called that is the return value of the previous call to a commentary function.  Also implement both, a function that takes two commentary functions (f and g) and returns a new commentary function. This new commentary function returns another commentary function which calls the functions returned by calling f and g, in that order.  Before writing any code, unlock the tests to verify your understanding of the question.  python3 ok -q 06 -u Once you are done unlocking, begin implementing your solution. You can check your correctness with:  python3 ok -q 06 Problem 7 (2 pt) Implement the announce_highest function, which is a higher-order function that returns a commentary function. This commentary function announces whenever a particular player gains more points in a turn than ever before. To compute the gain, it must compare the score from last turn to the score from this turn for the player of interest, which is designated by the who argument. This function must also keep track of the highest gain for the player so far.  The way in which announce_highest announces is very specific, and your implementation should match the doctests provided. Notice in particular that if the gain is only 1 point, then the message includes ""point"" in singular form. If the gain is larger, then the message includes ""points"" in plural form.  Use Ok to test your code:  python3 ok -q 07 Hint. The announce_lead_changes function provided to you is an example of how to keep track of information using commentary functions. If you are stuck, first make sure you understand how announce_lead_changes works.  When you are done, if play the game again, you will see the commentary.  python3 hog_gui.py The commentary in the GUI is generated by passing the following function as the say argument to play.  both(announce_highest(0), both(announce_highest(1), announce_lead_changes())) Great work! You just finished Phase 2 of the project!  Phase 3: Strategies In the third phase, you will experiment with ways to improve upon the basic strategy of always rolling a fixed number of dice. First, you need to develop some tools to evaluate strategies.  Problem 8 (2 pt) Implement the make_averaged function, which is a higher-order function that takes a function fn as an argument. It returns another function that takes the same number of arguments as fn (the function originally passed into make_averaged). This returned function differs from the input function in that it returns the average value of repeatedly calling fn on the same arguments. This function should call fn a total of num_samples times and return the average of the results.  To implement this function, you need a new piece of Python syntax! You must write a function that accepts an arbitrary number of arguments, then calls another function using exactly those arguments. Here\'s how it works.  Instead of listing formal parameters for a function, we write *args. To call another function using exactly those arguments, we call it again with *args. For example,  >>> def printed(fn): ...     def print_and_return(*args): ...         result = fn(*args) ...         print(\'Result:\', result) ...         return result ...     return print_and_return >>> printed_pow = printed(pow) >>> printed_pow(2, 8) Result: 256 256 >>> printed_abs = printed(abs) >>> printed_abs(-10) Result: 10 10 Read the docstring for make_averaged carefully to understand how it is meant to work.  Before writing any code, unlock the tests to verify your understanding of the question.  python3 ok -q 08 -u Once you are done unlocking, begin implementing your solution. You can check your correctness with:  python3 ok -q 08 Problem 9 (1 pt) Implement the max_scoring_num_rolls function, which runs an experiment to determine the number of rolls (from 1 to 10) that gives the maximum average score for a turn. Your implementation should use make_averaged and roll_dice.  If two numbers of rolls are tied for the maximum average score, return the lower number. For example, if both 3 and 6 achieve a maximum average score, return 3.  Before writing any code, unlock the tests to verify your understanding of the question.  python3 ok -q 09 -u Once you are done unlocking, begin implementing your solution. You can check your correctness with:  python3 ok -q 09 To run this experiment on randomized dice, call run_experiments using the -r option:  python3 hog.py -r Running experiments For the remainder of this project, you can change the implementation of run_experiments as you wish. By calling average_win_rate, you can evaluate various Hog strategies. For example, change the first if False: to if True: in order to evaluate always_roll(8) against the baseline strategy of always_roll(4). You should find that it wins slightly more often than it loses, giving a win rate around 0.5.  Some of the experiments may take up to a minute to run. You can always reduce the number of samples in make_averaged to speed up experiments.  Problem 10 (1 pt) A strategy can take advantage of the Free Bacon rule by rolling 0 when it is most beneficial to do so. Implement bacon_strategy, which returns 0 whenever rolling 0 would give at least margin points and returns num_rolls otherwise.  Before writing any code, unlock the tests to verify your understanding of the question.  python3 ok -q 10 -u Once you are done unlocking, begin implementing your solution. You can check your correctness with:  python3 ok -q 10 Once you have implemented this strategy, change run_experiments to evaluate your new strategy against the baseline. You should find that it wins more than half of the time.  Problem 11 (2 pt) A strategy can also take advantage of the Swine Swap rule. The swap_strategy rolls 0 if it would cause a beneficial swap. It also returns 0 if rolling 0 would give at least margin points and would not cause a swap. Otherwise, the strategy rolls num_rolls.  Before writing any code, unlock the tests to verify your understanding of the question.  python3 ok -q 11 -u Once you are done unlocking, begin implementing your solution. You can check your correctness with:  python3 ok -q 11 Once you have implemented this strategy, update run_experiments to evaluate your new strategy against the baseline. You should find that it gives a significant edge over always_roll(4).  Optional: Problem 12 (0 pt) Implement final_strategy, which combines these ideas and any other ideas you have to achieve a high win rate against the always_roll(4) strategy. Some suggestions:  swap_strategy is a good default strategy to start with. There\'s no point in scoring more than 100. Check whether you can win by rolling 0, 1 or 2 dice. If you are in the lead, you might take fewer risks. Try to force a beneficial swap. Choose the num_rolls and margin arguments carefully. You can check that your final strategy is valid by running Ok.  python3 ok -q 12 You can also check your exact final winrate by running  python3 calc.py At this point, run the entire autograder to see if there are any tests that don\'t pass.  python3 ok Once you are satisfied, submit to Ok to complete the project.  python3 ok --submit You can also play against your final strategy with the graphical user interface:  python3 hog_gui.py -f The GUI will alternate which player is controlled by you.  Congratulations, you have reached the end of your first CS 61A project! If you haven\'t already, relax and enjoy a few games of Hog with a friend.",,2
+0,https://github.com/altroncwd/zibzoo.git,A food truck logistics platform,,1
+0,https://github.com/itinero/logistics-api.git,The logistics API using Itinero.Logistics.,,1
+0,https://github.com/gokulakannanit/rajTransportFleet.git,Complete Logistics Management,,1
+0,https://github.com/mwaz/oober-bck.git,An awesome logistics application,"js,nodejs,transport,logistics",1
+0,https://github.com/Mangalis0/Zindi-Regression-Hackathon.git,Sendy Logistics Zindi Competition,,1
+0,https://github.com/sofwerx/glo-demo.git,Global Logistics Overview proof-of-concept demo,,1
+0,https://github.com/liuxiaokaiA/logistics_scheduling.git,logistics_scheduling,,1
+0,https://github.com/IBM-Cloud/logistics-wizard-kubernetes.git,An alternative toolchain for Logistics Wizard where services are deployed to Kubernetes,"kubernetes,bluemix,toolchain,docker,ibm-containers,istio,microservices",1
+0,https://github.com/AmrKhalifa/Zindi-Sendy-Logistics-Challenge.git,Our implementaions to the solution of Sendy Logistics Challenge ,,1
+0,https://github.com/dtrenin7/eth-logistics.git,ethereum smart contracts-based logistics platform,,1
+0,https://github.com/muyang/price_calc.git,A web-based logistics price calculator,,1
+0,https://github.com/dev1911/drone_plus_plus.git,A tracking application for drone logistics operators.,"kubernetes,django-rest-framework,microservices,redis,websockets,gateway,angular,client-go",1
+0,https://github.com/schwilklab/lab-resources.git,"Field and lab protocols, information on lab organization, and logistics",,1
+0,https://github.com/digicode-kft/mygls-sdk.git,A simple wrapper for the GLS logistics SOAP API.,"mygls,gls-api,mygls-sdk,gls-sdk,mygls-api",1
+0,https://github.com/nitishdola/mekong.git,"The GMS Logistics Database is an interactive web-based database platform for logistics companies also compatible for portable devices.  The website serves as a company database to showcase over 3,000 Logistics and Transport companies. ",,1
+0,https://github.com/huxinpei/logistics.git,logistics,,1
+0,https://github.com/edwardosindo/project4.git,logistics,,1
+0,https://github.com/oligagne/core.git,"{""Represents the repository containing the core components tying Wintermute's network, database and linguistics abilities with a plug-in framework and other logistics systems.""}",,1
+0,https://github.com/AsadbekMahkhmudjnov/Logistics.git,Logistics,,1
+0,https://github.com/Shivamtruth/SnapdealProject.git,Logistics Analysis,,1
+0,https://github.com/conxgit/conxlogistics2.git,ConX Logistics,,1
+0,https://github.com/lwl-blazer/Logistics-website.git,logistics website,,1
+0,https://github.com/zyf0220/logistics.git, Logistics questionnaire,,1
+0,https://github.com/armbrustsamuel/logistics_hardware.git,logistics hardware,,1
+0,https://github.com/alexanderkenndy/logistics-server.git,logistics-server,,1
+0,https://github.com/maana-io/maana-sim-logistics.git,Logistics simulator,,1
+0,https://github.com/docongminh/Logistic-Regression-From-Scratch.git,Logistics Regression,"logisticsregression,machine-learning,supervised-learning,ai,python,sklearn,numpy,pandas,matplotlib",1
+0,https://github.com/lucasjellema/logistics-microservice-soaring-clouds-sequel.git,The repo for the Logistics Microservice for the Soaring through the Cloud - The Sequel (see: https://github.com/lucasjellema/soaring-through-the-cloud-native-sequel) ,,1
+0,https://github.com/bcv-gerrit/conxlogistics2.git,ConX Logistics,,1
+0,https://github.com/MustafaAdelElgammal/Derwaza.git,Logistics Company,,1
+0,https://github.com/Joker-Fei/SoBer_W1_0.1_Alpha.git,Logistics Software,,1
+0,https://github.com/zizaheer/LogisticsManagement.git,Logistics management system which caters delivery of goods. Initially developed for Millennium Freightways Inc.,,1
+0,https://github.com/route4me/route4me-vbscript-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our Vbscript (WSH) SDK""}",,1
+0,https://github.com/EVSD/EVSD-SITE.git,📢 Web app to facilitate the logistics of running a speech and debate club,,1
+0,https://github.com/rabernat/aospy-workshop.git,Details and logistics for the 2016 AOSPY Workshop at Columbia Univeristy,,1
+0,https://github.com/peixin-lin/Twitter-Users-Relationship-Link-Prediction.git,Using ANN and Logistics Regression for link prediction on twitter data.,"machine-learning,link-prediction,data-preprocessing",1
+0,https://github.com/JontyMin/Sinostar-NET-SDK.git,Mercado Libre Third Party Logistics Sinostar Logistics API-SDK,,1
+0,https://github.com/tingyouwu/ution.git,for logistics development,,1
+0,https://github.com/aminuolawale/sendboxapi_1.git,logistics web app backend,,1
+0,https://github.com/fleetboard-logistics/fleetboard-logistics.github.io.git,The Fleetboard Logistics Pages,,1
+0,https://github.com/Afforess/ConcreteLogistics.git,Factorio Mod - Concrete Logistics,,1
+0,https://github.com/joaopedroso/lnd_kaiyodai.git, Logistics Network Design,,1
+0,https://github.com/Mnzs1701/hal_10k.git,High Speed Autonomous Logistics ,,1
+0,https://github.com/AarambhVerma/Activebox.git,Activebox logistics website,,1
+0,https://github.com/harryprabowo/inaya.git,Inaya Aid Logistics,,1
+0,https://github.com/mrluizandre/fast_feet.git,Logistics company app,,1
+0,https://github.com/jhartz/hhls.git,Haunted House Logistics Server,,1
+0,https://github.com/zypher-tech/Rider-App.git,"App , used for Logistics",,1
+0,https://github.com/kostasdl/RL_Med.git,Reverse Logistics Medical Devices,,1
+0,https://github.com/Fale/logistics.git,Basic logistics library,,1
+0,https://github.com/apostopher/Factory.git,C++ Logistics project,,1
+0,https://github.com/dinart/ufcg-administration-logistics.git,logistics simulations (university project),,1
+0,https://github.com/Le---Lh/IM-Logistics-NAVI-integration.git,"IM Logistics ""NAVI"" integration",,1
+0,https://github.com/GuoHM/logistics-Android.git,logistics system in android ,"android-application,struts2-spring-hibernate",1
+0,https://github.com/FerhatACAR/Savran-Lojistik.git,Website for Savran Logistics,,1
+0,https://github.com/snoogans775/hermes.git,Logistics simulation app,,1
+0,https://github.com/SKaDiZZ/logimaster.git,Android logistics app,,1
+0,https://github.com/Juerd/shalog.git,SHA Logistics dump,,1
+0,https://github.com/zevfang/kuaidi100_go.git,Kuaidi100 logistics information service,kuaidi100,1
+0,https://github.com/NerdyDave2017/DevvSpace-Logistics.git,Logistics Website development,,1
+0,https://github.com/cuxinc/elixis.git,logistics franchise solution,,1
+0,https://github.com/royfee/tracking.git,Logistics track tracking,,1
+0,https://github.com/orangeman/ride-data-store.git,simple transport logistics database,,1
+0,https://github.com/maz3runn3r/vitamin.git,Communicate with various logistics,,1
+0,https://github.com/uduma-sonia/Wifts-logistics.git,a Logistics website,,1
+0,https://github.com/EDSA-Team-1-JHB/Sendy-Logistics-Challenge.git,"This is a Sendy Logistics challenge that aims to predict the estimated time of delivery of orders, from the point of driver pickup to the point of arrival at final destination.",,1
+0,https://github.com/alandball/OmegaFleetTracking.git,"Varsity Project, build logistics program to keep track of vehicles. Choice of language is c#. Co-contributors are Henry Le Roux, and Michael Esteves",,1
+0,https://github.com/AsterOcclu/tufe_logistics.git,A logistics system with PHP.,,1
+0,https://github.com/hellocy/vue2.x-demo.git,logistics system by vue2.x,,1
+0,https://github.com/cghr/isha-logistics-services.git,Services module for isha-logistics,,1
+0,https://github.com/Robertfarb/TruckingLogistics.git,Trucking Logistics React Native app,,1
+0,https://github.com/TMele54/Play-with-Genetic-Algorithms-.git,"genetic algorithms (logistics, geometric etc.)",,1
+0,https://github.com/LannyX/Logistics_Application.git,SE450 Programming Project —— Logistics Application,,1
+0,https://github.com/wanderso/LogisticsSimulator.git,Logistics Simulator for a business,,1
+0,https://github.com/hameeddamee/logistico.git,A simple logistics react app,,1
+0,https://github.com/nitinkumartech/XPO-Hackathon-Duplex-Rasa.git,XPO Hackathon Logistics Duplex code,,1
+0,https://github.com/AFCG-COMPANY/D4U-WEB-PLATFORM.git,Aggregator site for logistics companies,,1
+0,https://github.com/rlalpha/drone-hackathon.git,Kerry Logistics Hackathon Stocktaking Process,,1
+0,https://github.com/weikhor/LogisticsJobFileSearch.git,Logistics job file search program,,1
+0,https://github.com/fairdirect/trucksharing.git,Algorithmically optimized co-shipment logistics.,,1
+0,https://github.com/Kizoniahq/metrodeliveries.git,Shipping and logistics tracking application,,1
+0,https://github.com/united-action-for-demand-supply/fe.git,Covid-19 🦠 Goods logistics for supply-and-demand and logistics orchestrator.,"hackthecrisis2020,react",1
+0,https://github.com/ewheeler/rapidsms-logistics-app.git,RapidSMS app for logistics (shipping) management,,1
+0,https://github.com/Khowsalya/Regression.git,Linear and Logistics Regression Case Study,,1
+0,https://github.com/k0d3d/ser.git,Distribution and Logistics Services Staff Management Application,,1
+0,https://github.com/linusmartensson/logistics.git,Geddy-based logistics system for Närcon,,1
+0,https://github.com/iamogbz/demo-texada.git,TrackEX: The 72 Hour Logistics Api,"python,django,django-rest-framework,rest-api,demo",1
+0,https://github.com/chandrakanta-chaudhury/Logistics-optimised-price-predition-.git,selected solution for logistics company vietnam hackthon,,1
+0,https://github.com/deliveryhero/eslint-config-logistics.git,Eslint config for DH logistics teams,,1
+0,https://github.com/oldskoolmatt/flow-control-expanded-bob.git,"{""Extends flow control to Bob's Logistics""}",,1
+0,https://github.com/Smartboy1996/logistics-system.git,this is a simple logistics system.,,1
+0,https://github.com/abhiinbinary/Portuguese-banking-institution-logistic.git,logistics reg with smote and rfe,,1
+0,https://github.com/reliqarts/laravel-logistiq.git,Multi-purpose tracking/logistics package for Laravel,"tracking,package,parcel,event,status,utility",1
+0,https://github.com/mayowa-ola/delivery-boy.git,Flutter dart app for a logistics company,,1
+0,https://github.com/fieldcloud/fieldcloud-core.git,core data logistics engine for the fieldcloud,,1
+0,https://github.com/nussucommit/chahan.git,"NUSSU Logistics Booking Application, Iteration 2",,1
+0,https://github.com/jpheary/Argix08.git,Argix Logistics Visual Studio 2008 Project Artifacts,,1
+0,https://github.com/AliAbdurrahman/DesignLoginMenu-I.git,Login Menu Design made for Halcom Logistics,,1
+0,https://github.com/lingjie00/Shopee-Logistics.git,Shopee Competition #5: Logistics (Data Analytics) ,,1
+0,https://github.com/SonOfTheStars/Conveyor-Tubes.git,WIP Minecraft Mod inspired by Logistics Pipes,,1
+0,https://github.com/mendoncagary/logistics-dashboard.git,A dashboard to track real time logistics,,1
+0,https://github.com/fieldcloud/fieldcloud-core.git,core data logistics engine for the fieldcloud,,1
+0,https://github.com/nussucommit/chahan.git,"NUSSU Logistics Booking Application, Iteration 2",,1
+0,https://github.com/Guo-min-zhi/logistics.git,A logistics system based on SSH,,1
+0,https://github.com/kuailedexiaowu/airtransport.git,logistics management for LanZhou air transport company ,,1
+0,https://github.com/srik1280/Regression.git,Springboard- Linear and Logistics Regression Exercise,,1
+0,https://github.com/devtk0582/ABCLogistics.git,Comprehensive tools and applications for ABC Logistics,,1
+0,https://github.com/spartanrein/kerry_logistics_frontend.git,Front-end for Kerry logistics Hackathon,,1
+0,https://github.com/ncedu-tlt/2019-logistics.git,[NCEDU] [2019] Logistics system educational project,,1
+0,https://github.com/lw1112/warehouse.git,intelligent warehousing and logistics management app,,1
+0,https://github.com/nwahie/Breast-Cancer-Classification.git,"SVM, Logistics, KNN, Decision Tree - sklearn",,1
+0,https://github.com/mgwalker2/track-r-Android-.git,Truck and freight tracking for Logistics,,1
+0,https://github.com/esign-consulting/logistics-test-restassured.git,API testing of the Logistics application.,"api-testing,rest-assured,maven",1
+0,https://github.com/DTOcean/dtocean-logistics.git,Logistics submodule for the DTOcean tools,,1
+0,https://github.com/beyond2013/datamining.git,Course Logistics for Fundamentals of Data Mining,data-mining,1
+0,https://github.com/gaosaroma/covid19logisticsblockchain.git,Covid 19 Logistics System based on blockchain,,1
+0,https://github.com/freight-trust/protocol.git,v2 protocol for supply chain and logistics,"supply-chain,protocol,ethereum,blockchain,hyperledger,smart-contracts,solidity,enterprise",1
+0,https://github.com/super-wales/Ace-Recovery-Logistics.git,Proposed website for Ace Recovery & Logistics,,1
+0,https://github.com/WayneOuyang/outlierdetection.git,outlier detection for supply chain and logistics ,outlierdetection,1
+0,https://github.com/meowsbits/kryptoknow.git,Roughdraft knowledge base and spinup logistics,,1
+0,https://github.com/achankf/space-industrialist.git,A simple logistics game written in Typescript.,"typescript,game",1
+0,https://github.com/mehthara/WhizTech.git,Website in progress for a Logistics Company.,,1
+0,https://github.com/pkiuna/Web-Development-1--Transportation-Logistics.git,Transportation Logistics Systems & Cayman Express Project ,,1
+0,https://github.com/shivanihamilpur/logisticsproject.git,heart disease prediction using logistics regression,,1
+0,https://github.com/pia-francesca/bloodbank.git,A web application for blood bank logistics.,,1
+0,https://github.com/YoboZorle/picker_app.git,For your logistics and delivery hazzles ,,1
+0,https://github.com/yixiangLuo/HereIStand.git,Logistics for the boardgame Here I Stand,,1
+0,https://github.com/neelpatel23/ostt-trucking.git,Trucking Logistics App by Neel Patel,,1
+0,https://github.com/zsx-star/logistics_ws.git,Intelligent logistics vehicle || Upper computer program,,1
+0,https://github.com/jmcunnin/tracking-ctl.git,Tracking Project for the Megacities Logistics Lab at MIT,,1
+0,https://github.com/teamRoots/veggiekart.git,Improving vegetable logistics for Roots for the Home Team,,1
+0,https://github.com/HengTat/Stationery-Store-Logistics-Management-System.git,A Logistics Inventory Management System Built Using ASP.NET,,1
+0,https://github.com/NaishadM/DoorToDoor.git,This is our Door To Door full stack Logistics webiste,,1
+0,https://github.com/conxgit/conxlogistics-gerrit3.git,ConX Logistics Repo circe 7/26/2012 at 5pm,,1
+0,https://github.com/shrirambalaji/Booking-Details.git,🚚 A simple android application written for logistics booking.,"beginner-project,android,java",1
+0,https://github.com/caleblareau/Rpkgs.git,"A short presentation on R package logistics, creation, etc. ",,1
+0,https://github.com/DykiSA/LOGITRACK-Android.git,An android application to track direction for logistics delivery,,1
+0,https://github.com/LarryGm/wine-sample-survey.git,r code determining machine learning algorithm for logistics,,1
+0,https://github.com/julievano/sarp_logistics.git,"project logistics, including tracking progress on our various tasks",,1
+0,https://github.com/agoodman/gather-ios.git,"Gather, a real-time location-based logistics management tool",,1
+0,https://github.com/BallStateCBER/conexus.git,CBER Data Center: Conexus Indiana Manufacturing and Logistics National Report ,,1
+0,https://github.com/ian-pinto-vamaship/Logistics-Volumetric-Weight-Calculator.git,Android app to Calculate Volumetric weight of Packages for Logistics.,,1
+0,https://github.com/myc2h6o/LogisticsColdChain.git,Cold-chain logistics transport model and query platform,,1
+0,https://github.com/omadios/logistics_CVRP.git,Logistics: optimisation of delivery of goods (capacitated vehicle routing problem),,1
+0,https://github.com/matigous/teams_logistics_api.git,Node.js Rest API for logistics and business management.,,1
+0,https://github.com/donghyun208/grading-app.git,"node web app for student logistics (grading, attendance)",,1
+0,https://github.com/ahsan/logistics.git,NodeJS sample project that implements basic shipping logistics.,,1
+0,https://github.com/CynthiaWendy/Machine-Learning-in-Action-Logistics.git,机器学习实战-Logistics回归,,1
+0,https://github.com/guadr/botlogistics.git,various logistics services to run on guadr.gonzaga.edu webserver,,1
+0,https://github.com/CLiCKS-NL/CLiCKS-NL.github.io.git,"CLiCKS - Connecting Logistics interfaces, Converters, Knowledge and Standards",,1
+0,https://github.com/JRGeneGarrigos/MIT-ZLog_Thesis.git,Master Thesis of MIT-Zaragoza Logistics & Supply Chain Program,,1
+0,https://github.com/tspannhw/dws-coldsupplychain-hyperledger.git,Apache NiFi and Hyperledger Fabric for Cold Supply Chain Logistics,"apache-nifi,blockchain,hyperledger,hyperledger-fa,python,cloudera,hortonworks",1
+0,https://github.com/helishah29/Amazon-Competitor-Database.git,A database satisfying business needs for logistics industry,,1
+0,https://github.com/Mramcharan/kftlog.git,This website is for fleet management for logistics,,1
+0,https://github.com/yongkyung-oh/Bayesian_Bootstrap_for_AIS.git,Logistics Anomaly Detection With Maritime Big Data: A Bootstrap Approach,,1
+0,https://github.com/Abdullah-V/cargoglobal-backend.git,Cargoglobal is a site for sharing logistics advertisements.,,1
+0,https://github.com/DarrylHuet/SupplyMe.git,A Decentralized Logistics Application for Small/Medium Enterprises,,1
+0,https://github.com/Mramcharan/kftlog.git,This website is for fleet management for logistics,,1
+0,https://github.com/yongkyung-oh/Bayesian_Bootstrap_for_AIS.git,Logistics Anomaly Detection With Maritime Big Data: A Bootstrap Approach,,1
+0,https://github.com/Abdullah-V/cargoglobal-backend.git,Cargoglobal is a site for sharing logistics advertisements.,,1
+0,https://github.com/japacible/milk-banking-dispatch.git,Logistics coordination application for milk bank donation services.,,1
+0,https://github.com/robocup-logistics/rcll-webshop.git,OpenCart web shop for the RoboCup Logistics League,,1
+0,https://github.com/Abdullah-V/cargoglobal-frontend.git,Cargoglobal is a site for sharing logistics advertisements,,1
+0,https://github.com/ChenBoEason/BOS.git,This is my activity - based logistics management system,,1
+0,https://github.com/joshuadamanik/CCBBA-Delivery.git,UAV-based logistics delivery task assignment using CCBBA,,1
+0,https://github.com/aidanm1999/ReadySetResource.git,A website that optimises retail back-end logistics ->,,1
+0,https://github.com/puneeth1999/logistics_management_tool.git,USer-friendly logistics management tool using DJango framework,,1
+0,https://github.com/yueviseen/abDetector.git,An Abnormal Trajectories Detection System for Bulk Commodity Logistics,,1
+0,https://github.com/MUNComputerScienceSociety/hackathon.git,"Ideas, logistics and resources for planning hackathons at Memorial.",,1
+0,https://github.com/SpencerMcMurray/PokeSoul.git,Manages the logistics of the popular Soul Link Pokemon challenge,"reactjs,pokemon,pokeapi",1
+0,https://github.com/latenightsnacc/scaling-octo-doodle.git,TRAKEET - A CENTRAL HUB FOR LOGISTICS IN AFRICA,,1
+0,https://github.com/bjtu0904/Logistics-Distribution-Project.git,Web project logistics distribution for our small term,,1
+0,https://github.com/POLITO-SYNCHRONET/SynchromodalOptimizationSimulator.git,Open-source System for Strategic Freight Logistics Planning,,1
+0,https://github.com/itbakery/halqcode.git,halqcode     Halal  logistics control by initiate 2d Barcode,,1
+0,https://github.com/FerhatACAR/Savran-Lojistik-Blog.git,This was the Firts Style of Savran Logistics,,1
+0,https://github.com/Akkii4/Logistics.git,Imagine a logistics company keeping track on Ethereum Blockchain ,,1
+0,https://github.com/piyush310/Predicting-Aging-Inventory.git,AI/machine learning \xa0capability to build/suggest \xa0\xa0on how to sale the system which is lying more than 90 days in 3PLs (3rd party logistics) . which will help to clearing out aging inventory .,,1
+0,https://github.com/rcsv/factorySimulator.git,"A simulator of factory. It exists for checking logistics timing, detecting problem of production line.",,1
+0,https://github.com/carolineh101/TimeTravel.git,A comprehensive website to take care of all the pesky logistics of time travel.,,1
+0,https://github.com/sumitbinnani/AIND-Planning.git,Deterministic logistics planning problems for an Air Cargo transport system using a planning search agent,,1
+0,https://github.com/learningwithmachines/planning-agent.git,logistics planning problems for an Air Cargo transport system using a planning search agent.,"planning-algorithms,pddl,treesearch,astar-algorithm,nuitka",1
+0,https://github.com/woakes070048/LMS.git,An Android app and a website that makes logistics management easy for delivery companies,,1
+0,https://github.com/oliverheilig/XServer.Core.git,"A slippy map for .NET Core WPF, port of https://github.com/ptv-logistics/xserver.net","gis,mapping,dotnet-core,wpf,slippy-map",1
+0,https://github.com/SAP-samples/logistics-business-network-integration.git,The content stored in this repository enables you to integrate with SAP Logistics Business Network (LBN).,"sample,sample-code,tutorial,sap-logistics-business-network,lbn,integration,postman-collection",1
+0,https://github.com/rinde/vanLon16-EJOR-code.git,"{""Code for 'Measures of dynamism and urgency in logistics', van Lon et al. (2016).""}",,1
+0,https://github.com/masipaso/Group-1-UAV-simulation.git,A UAV SIMULATION ENGINE FOR LOGISTICS APPLICATIONS IN FUTURE SMART CITIES,,1
+0,https://github.com/klhong124/Business-Logistics-System.git,A Business Logistics System provide online order service and good tracking.,,1
+0,https://github.com/EdMBarry/optimisation_problems.git,Basic optimisation problems related to chemical engineering and logistics. Demonstration of PuLP linear programming library.,,1
+0,https://github.com/muppet9010/Factorio-Player-Request-Crafting-Layout.git,A way for players to apply their crafting item layout to their logistics window,,1
+0,https://github.com/IngTorija/Estrategia-Operativa-Synergy-Logistics-2021.git,Análisis de las importaciones y exportaciones de la empresa Synergy Logistics y estrategia operativa para 2021,,1
+0,https://github.com/harman052/fds.git,Dashboard for managers and delivery men working in a logistics company.,,1
+0,https://github.com/sdz007/logitext.git,An android SMS gateway used as an alert system in logistics,,1
+0,https://github.com/nisseenn/Logistics-Blockchain.git,A bachelor thesis. A blockchain built on hyperledger framework to simplify administration of logistics,"blockchain,react,hyperledger,hyperledger-composer",1
+0,https://github.com/rubsaifi7/Breast-Cancer-Diagnostics-prediction.git,"Prediciting Breast Cancer using Machine learning techniques such as Logistics Regression, Decison Tree, KNN and SVM",,1
+0,https://github.com/NunoEdgarGFlowHub/blockfreight.git,Blockfreight™ Node (MIT) Global Logistics Network in Go https://blockfreight.com/,,1
+0,https://github.com/NPriyajit/e-Logistics-Solution.git,"A website called e-logistics which is made by using (HTML, CSS, JS) and (Adv. Java).",,1
+0,https://github.com/Semi96/SquadApp.git,Mobile Application for Squads of People to Improve Get-Together Logistics & Planning,,1
+0,https://github.com/rathiaditya/Shipping-Logistics-System.git,Shipping Logistics System Developed on SQL using AWS RDS Framework and PHP for Frontend,,1
+0,https://github.com/route4me/route4me-erlang-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our Erlang SDK ""}",,1
+0,https://github.com/Olman62/https-github.com-route4me-route4me-vbnet-sdk.git,"{""Access Route4Me's logistics-as-a-service API using our VB.NET SDK""}",,1
+0,https://github.com/EOCOnline/OPLA.git,"Sample Site for an EOC organized into standard Sections: Operations, Planning, Logistics, Admin (OPLA)",,1
+0,https://github.com/caseypen/AGvehicle_routing_problem.git,Vehicle routing and dispatching problem used in the agricultural robotics and logistics,,1
+0,https://github.com/Praveennaik8/DBMS-P-four-Logistics.git,This project aims to design and Implement the database for  P-FOUR  Logistics.,"logistics-company,pfour-logistics,vehicle,database,sql,nosql,rdms",1
+0,https://github.com/skalsangra/Titanic-Machine-Learning-from-Disaster-Kaggle-Competition-.git,Prediction of survival on the Titanic by Logistics Regression and Random Forest model,"r,machine-learning,data-science",1
+0,https://github.com/akarnokd/advance-flow-engine.git,Software of the EU project ADVANCE: Advanced predictive-analysis-based decision-support engine for logistics,"reactive,logistics",1
+0,https://github.com/KCnick/G-Connect.git,An online platform that connects merchants and buyers and offers an effective logistics solution for them,,1
+0,https://github.com/osinakayah/serlogix.git,A peer to peer logistics systems build on the Ethereum network,,1
+0,https://github.com/camchanhjuice/EDA-on-Logistics-Data.git,"Basic EDA on Logistics Data with: Pandas, Numpy, Matplotlib, Seaborn, Statsmodels.",,1
+0,https://github.com/AnamorphicOptimus/Regression.git,"Here is a set of regression algorithms. Logistics, Ridge and Lasso are all implemented in Python.",,1
+0,https://github.com/ntrang086/cargo_planning_search.git,solve deterministic logistics planning problems for an Air Cargo transport system using a planning search agent,"planning-algorithms,progression-state-space-search,planning-graph,heuristic-search,a-star,breadth-first-search,depth-first-search",1
+0,https://github.com/tblxio/community.git,Global community based in Lisbon to explore the future of transportation & logistics,community,1
+0,https://github.com/KenyanGeek/Helicopter-vs-Truck-Logistics.git,This project uses Evolutionary Algorithms to see which logistics are cheaper in Kenya - Helicopter or Truck,,1
+0,https://github.com/abhishekjoshi2612/flask-loan-prediction-webapp.git,deployed a machine learning model which uses logistics regression to predict loan approval  using flask ,,1
+0,https://github.com/jocker-il/MoreLogisticsSlots.git,"A mod for #Factorio, that adds more logistics slots to the player via research",,1
+0,https://github.com/lroeller/citibike_project.git,Final Project for IEOR4418 (Transportation Analytics and Logistics) at Columbia University,,1
+0,https://github.com/Emmanuel96/Ride-Tracker-API.git,Motocycle riders tracker application for logistics company build with Laravel 5.6.,,1
+0,https://github.com/Adron/EmpireBuilder.git,A cross platform user interface for the passenger and freight logistics database.,,1
+0,https://github.com/yogykwan/aircargo-planning.git,A planning search agent to solve deterministic logistics planning problems for an Air Cargo transport system.,,1
+0,https://github.com/TotalWar-MC/Weight.git,Handles armor and inventory weight to add more depth and logistics to gameplay,,1
+0,https://github.com/charliechenhao/AmazonLogisticsJobs.git,Collect latest Amazon Logistics Jobs and use NLP to get summary of each job descriptions,,1
+0,https://github.com/ArimaKausik/Vriksha.git,"Native Android application that automates eCommerce supply chain system for connecting farmers, consumers and logistics",,1
+0,https://github.com/BharatKhanawalia/Drrop-Logistics.git,A static website with contact form for a logistics startup company.,,1
+0,https://github.com/maddymaster/livetracking.git,"Live tracking for mobile, vehicles, mobile employees for logistics, employee transport, cabs, vehicles, hikers, cyclists etc., ",,1
+0,https://github.com/johnray10/Logistic.git,LOGISTICS 1 (4-SUB-MODULES) Project Management | Asset Management | Procurement | Warehouse,,1
+0,https://github.com/MrDeepThought/Truck-share.git,"{""A logistics Platform for SME's and Freight Carriers that prioritizes shared transportation.""}",,1
+0,https://github.com/toastwaffle/SMLs.git,Social Media Logistics System - My take on social media systems. Yet another Programming project,,1
+0,https://github.com/ymaher/CARGO_MOVERS.git,"A 2 Z Cargo Movers(logistics project) handles and manage all the truck details, owner details",,1
+0,https://github.com/Dgama/Bachelor-Dissertation.git,LOGISTICS CAPACITY PLANNING OF AIRCRAFT FINAL ASSEMBLY UNDER THE LEARNING CURVE,,1
+0,https://github.com/IPE-Initiative/profile-printing-and-logistics-technical-proposal.git,A proposal for a RAML description of the REST API covering printer and logistics connectivity,,1
+0,https://github.com/NoJuice4u/Aftermath.git,System utilizing crowd-sourced inormation to aid in logistics planning to expedite disaster recovery efforts,,1
+0,https://github.com/Ruchi-Gohil/Prediction-Diabetes.git,Logistics Regression and Multivariate Regression to predict presences or absences of Diabetes,,1
+0,https://github.com/felixlinker/logistik-asp.git,Answer set program for logistics scheduling. Part of a practical course at University.,"clingo,haskell",1
+0,https://github.com/huangyongtang-arch/eastLogistics-back-end.git,This is my back-end project about logistics background management system based on SSM.,,1
+0,https://github.com/livej0urnal/crm_logistics.git,Base CRM for logistics company. Based on Yii2+ framework. With RBAC controll for user,,1
+0,https://github.com/sdbuehlmann/ch.hftm.teamsolidus.laserscanner.git,"API for Sick TiM55x 2D Laserscanner with line extraction from the measured data and simple UI - writen for the team solidus, member of the logistics league of the robocup",,1
+0,https://github.com/andjelatodorovich/DatathonIBM.git,"Credit risk prediction model for large logistics & distribution company. The idea behind the solution was to use the Altman Z credit score in order to turn the unsupervised into semi-supervised problem, and then apply self-training methods.",,1
+0,https://github.com/rinde/vanLon17-GPEM-code.git,"{""Code for 'Optimizing agents with genetic programming - An evaluation of hyper-heuristics in dynamic real-time logistics'. Rinde R.S. van Lon, Juergen Branke, and Tom Holvoet. Genetic Programming and Evolvable Machines (2017).""}",,1
+0,https://github.com/LakhvirBansal/DispatchProcessingUnit.git,"this project related to Dispatch the logistics from one place to another place, and this project is related to Logistics domain and developed by using java, spring, hibernate, sql, javaFX.",,1
+0,https://github.com/GooseQ/Daluka-SIM.git,Daluka is the exclusive preferential communication product for the logistics industry provided by Goose Q in China and the China Federation of Logistics and Purchasing and China Unicom Communications Group. Technical support for the flow-free settlement of logistics industry application services!,,1
+0,https://github.com/htnguy/GradeConverter-Displayer.git,Read numerical grades from input file and concert to letter grade. Data stored are analyzed to compute logistics.,,1
+0,https://github.com/jameschanx/Sentiment_Stock_Trader-NLP.git,Trained a sentiment analyzer using logistics regression and news data parsed with NLTK and general NLP techniques,,1
+0,https://github.com/jhell96/pyqueue.git,A simple lab checkoff / help queue server and jupyter-notebook client. Intended to be used for college course class logistics..,"flask,mit,teaching-assistant,teaching-tool,college-course,lab-checkoff,jupyter-notebook-client,logistic,web-app",1
+0,https://github.com/JuliaHellenFerreira/R-Commander_Logistica.git,Introdução ao R Commander para turma de MBA - Logística. |  Introduction to R Commander for MBA Class - Logistics.,,1
+0,https://github.com/rohit-mehra/ai-planning-search-project.git,An implementation to solve deterministic logistics planning problems for an Air Cargo transport system using a planning search agent.,,1
+0,https://github.com/mec-kon/tagventory.git,Tagventory is an app that primarily allows you to keep track of your domestic logistics via tag-based lists.,,1
+0,https://github.com/soraimexico/sorai.logistica.git,"system for the logistics management of a company, responsible adaptable to future growth. based on web and mobile",,1
+0,https://github.com/boliver92/WGUPS.git,School project showing Data Structures mastery by creating a logistics program to develop a delivery schedule and path.,,1
+0,https://github.com/Hariharan-Gandhi/MiddlewareJEE.git,An Enterprise Solution to a company that provides high quality logistics services to customers with real-time shipment tracking,,1
+0,https://github.com/abhishekpratapa/GPS_Tracker.git,"{""A GPS tracker for a 3rd party logistics company, open-sourced it for all of ya'll to enjoy""}",,1
+0,https://github.com/tdhopper/Logistics-Engineering-with-Mathematica.git,Toolkit for accessing US zip code data in Mathematica along with several utilities for basic logistics engieering problems,,1
+0,https://github.com/kirazy/boblogistics-belt-reskin.git,"{""[Mod][Factorio] Reskins the belts in Bob's Logistics to have cleaner, brighter graphics, and adds debris and explosions!""}",,1
+0,https://github.com/shastaxc/training-portal-app.git,Created in 2017-2018 to support a contract proposal for a web portal that would manage logistics for training courses.,,1
+0,https://github.com/livery-project/livery-plugin.git,"{""The livery plugin enables ecommerces to automate the use of Livery's logistics network to ship items.""}","livery,plugin,logistic,shipment",1
+0,https://github.com/jeangnc/meu-delivery.git,"Backoffice application created to help food delivery business to manage its daily operation, including sales and delivery logistics",,1
+0,https://github.com/Petersonjoe/ABC_Logics.git,"This repository is to track the logic changes in abc projects, including material model, inventory model, and logistics model.",,1
+0,https://github.com/vol-mir/logistic.git,The Symfony application is an application created for the logistics department that allows you to keep a log of transport requests and form a task for drivers.,"symfony,logistic,php7,adminlte3,symfony-application",1
+0,https://github.com/danfebraa/LogisticsTrackingApplication.git,"A startup tracking application for logistics companies, using Laravel for API and GoogleMaps API. Note: Project is incomplete, due to tight schedules.",,1
+0,https://github.com/dan62/Fling-Fulfilment-App.git,"Ecomerce android application built for future drone delivery activities, the application was built with future logistics operations in mind as a freelance project",,1
+0,https://github.com/matthiasSchedel/BoxxieRun_LD42.git,A small game that takes places in a logistics facility with gameplay mechanics similar to temple run. This game was build in 6 hours for Ludlum Dare 42.,,1
+0,https://github.com/madhavanshubh/VehicleSelector.git,"Written in Python, this tool aims to select the best possible vehicle model available to a Logistics Company for carrying out its transportation operations.",,1
+0,https://github.com/EaseDelivers/android-mobile.git,Ease Delivers will provide logistics solutions at the user level with specifications that can be made on the platform. We are there to carry your load!,,1
+0,https://github.com/SaundaryaB/Forecasting-Resources-Requirement.git,Built a SARIMA forecasting model to predict number of staffing requests for health care facilities in different markets for optimized logistics and planning.,,1
+0,https://github.com/ajsmack/Predicted-customers-behaviour-will-they-buy-company-products.git,"In social Networks ads dataset we apply logistics regression, Decision trees classification ,random forest classification to predicted the or identify which customers is going to buy product.",,1
+0,https://github.com/sathya5278/Fest-Management-System.git,"Fest Management System is a web-based tool developed to effectively manage registrations, events and logistics in a college-level fest.",,1
+0,https://github.com/rahulkadamid/RealTimeAnalyticsDashboard.git,Real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a Ecommerce company,,1
+0,https://github.com/emmaindal/Logistikapp.git,"A logistics app created in the course ""Independent Studies within Computer Science"" with the main goal to get knowledge of using Redux.",,1
+0,https://github.com/miguelgazela/social-crowd-android.git,"An android app for event discussions. My first app developed for android. It uses a custom server, implemented by us as well, for the events logistics.",,1
+0,https://github.com/Oli-BF/WMS.git,A Warehouse Management System for small logistics companies - Completed as part of my dissertation for an MSc Computer Science at the University of Birmingham,,1
+0,https://github.com/intellecttech/Intellect-Technologies.git,"Intellect Technologies has provided IT solutions to the Freight Logistics, Liner Shipping industries for several years and offers a wide-range of Information Technology and consulting services ",,1
+0,https://github.com/andyb7846/FinalYearProject.git,"BEE: Logistics Managment system for final year project, demonstrates HTTPS implementation (without certificate and Trust Manager Implementation), BCrypt Hashing, 3DES Encryption, Spring-Hibernate MVCs and Volley API usage.",,1
+0,https://github.com/silviow/fastfeet.git,":truck: An app for a fictional logistics company. Cross-platform application which was being developed for study purposes with Node.js, React.js and React Native.",,1
+0,https://github.com/Auromeeta/CreStromer.git,"CreStomer is a customer order, payment gatway, Predictive AI based Return/refurbish listing and logistics mangement system focused for Electrical Parts for Industrial automation.",,1
+0,https://github.com/JoshLampen/dispatcher.git,"A logistics scheduling app for managing a team of drivers. Front End: React and CSS. Libraries: Material-UI, React-CSV, Classnames, and Fort Awesome. Test: Jest.",,1
+0,https://github.com/HengTat/Machine-Learning-Diabetes-prediction.git,Creating Machine Learning model to predict diabetes probability. Linear Regression | Logistics Regression |Decision Tree| K-NN| K-Means| Hierarchical Clustering | Neural Network,,1
+0,https://github.com/Myllinerix/Bashing.Scripting.git,"Scripts to manage the file logistics of your Linux system. (In fact they are way less cool and sophisticated, than that description says, but that is intended)",,1
+0,https://github.com/Borzyszkowski/USFQ-Traffic-in-Ecuador.git,"Research in data analysis, machine learning and mathematical modeling, leading to solve complex logistics problems in various industries across Ecuador, Mexico, and other countries of Latin America. Project lead by University of San Fransicso in Quito, in Cooperation with MIT Center for Transportation and Logistics.",,1
+0,https://github.com/berkeley-scf/r-bootcamp-eng-2019.git,"Materials for the September 2019 R bootcamp at UC Berkeley for the Engineering School. See below (under the listing of files) for information about the bootcamp, including logistics, how to get the course content, and how to install the software you need for the bootcamp on your laptop. ",,1
+0,https://github.com/radwan503/Din-duniya-Multipurpose-Template.git,"Din-duniya-Creative Multi-Purpose HTML Template and Responsive Template suitable for any creative business agency , It’s a fully responsive multi paged template built on Bootstrap 4 Framework which is a powerful mobile-first framework , lots of CSS and JQuery animations, a perfect template for Business,App,SEO agancy,Corporate,Financial,Construction, Event, Hosting ,Startups,Logistics, web studio,Marketing and creative agencies ",,1
+0,https://github.com/memayanksoni/LCLPR.git,"in order to solve the optimization problem of logistics distribution system for fresh food, it provides a low‐carbon and environmental protection point of view, based on the characteristics of perishable products, and combines with the overall optimization idea of cold chain logistics distribution network, where the green and low‐carbon location–routing problem (LRP) model in cold chain logistics is developed with the minimum total costs as the objective function, which includes carbon emission costs. A hybrid genetic algorithm with heuristic rules is designed to solve the model.",,1
+0,https://github.com/Explore-EDSA-2020/Regression-Sendy-Logistics-Challenge.git,"Logistics in Sub-Saharan Africa increases the cost of manufactured goods by up to 320%; while in Europe, it only accounts for up to 90% of the manufacturing cost.  Economies are better when logistics is efficient and affordable. Sendy, in partnership with insight2impact facility, is hosting a Zindi challenge to predict the estimated time of delivery of orders, from the point of driver pickup to the point of arrival at final destination.","data-science,data-analysis-python,sklearn,machine-learning-algorithms,zindi,flask-api,aws-ec2,regression-models",1
+0,https://github.com/PSoni8/Heart-Disease.git,"A Model Built Using Kaggle Dataset & Machine Learning Classification Algorithms such as Logistics Regression,K-NN, Naive Bayes, SVM, Decision Tree & Random forest which Predicts chances of heart disease in a person.","logistic-regression,svm-classifier,navies-bayes-classifer,decision-tree-classifier,random-forest-classifier,knn-classifier,supervised-learning,machine-learning",1
+0,https://github.com/vishnudas-raveendran/Kudae.git,"{""Kudae ('Together' in Malayalam) is an effort to create a platform for Disaster Managment. The platform is intended to support multiple facets of a disaster rescue operation 1) Relief Camps 2) Rescue Operations 3) Communication and Logistics""}",,1
+0,https://github.com/yxw-11/Detector-of-offensive-language-and-hate-speech-for-tweet.git,"This project is a detector of offensive language and hate speech for tweet. Mainly using NLP related method, includes word2vec, LIWC, LDA feature selection based SVM, logistics regression and Neural Network models.",,1
+0,https://github.com/alisajadg191/GeeksMovers.git,GeeksMovers is a console based application build for the programming practice purpose but I ended up on a developing a real time project that could make sense in terms of a system that could relate with logistics/movers/transportations.,,1
+0,https://github.com/Joshua-Oladeji/Logistics-Planner.git,"A simple app that schedules the order queue of a logistics company. It allows schedule by dragging and dropping an order into a date on a calendar, then updates that order in the DB.","nodejs,expressjs,mongodb,html,css,javascript",1
+0,https://github.com/gajjard/QRcode-Generator.git,"QR Codes were originally developed to modernize large inventory management systems, because of their ability to hold more information than Barcodes. Their use today can be found across many logistics and warehousing systems for managing large product volumes.",,1
+0,https://github.com/pskatiyar/StackOverflow-Dataset-Analysis.git,"The task of system is to predict the queries and provide the visualization in the form of graphs, histogram, pie\xadcharts using various methods like Logistics Regression algorithm, Apriori algorithm, Support Vector Machine algorithm.",,1
+0,https://github.com/MathewNhari/Sendy-Logistics-Regression.git,"The model predicts an accurate delivery time, from picking up a package to arriving at the final destination. An accurate arrival time prediction will help all businesses to improve their logistics and communicate an accurate time to their customers.",,1
+0,https://github.com/rinde/vanLon17-JAAMAS-code.git,"{""Code for 'When do agents outperform centralized algorithms? - A systematic empirical evaluation in logistics'. Rinde R.S. van Lon and Tom Holvoet. Journal of Autonomous Agents and Multi-Agent Systems (2017).""}",,1
+0,https://github.com/Zeldon/tfbox.git,"This is a box setup to work on tensorflow stuff. A gui will be presented via flask, to abstract out some pre-processing and logistics, however the documentation will also be included to explain the code and logic behind it.",,1
+0,https://github.com/rinde/vanLon15-PRIMA-code.git,"Code and results for demonstration experiment of Rinde R.S. van Lon and Tom Holvoet, Towards systematic evaluation of  multi-agent systems in large scale and dynamic logistics. PRIMA 2015: Principles and Practice of Multi-Agent Systems, (2015).",,1
+0,https://github.com/Eezzeldin/Domoinoz-Pizza-StoresLatLonScrape-.git,This project was part of a logistics optimization problem in an advanced prescriptive analytics course in my masters degree. It web scrapes the exact geolocation of dominos pizza stores from menuism. ,,1
+0,https://github.com/vladimirbasaric/transport-app.git,"App for managing trucks, trailers, drivers and clients. Tours can be created for partial and full loads. App has all features that are necessary for trucking company and logistics operations.",,1
+0,https://github.com/Meritei/kalsan.git,This is a logistics system that tracks goods from when they are supplied by a supplier in a our clients warehouse to when a specific good is sold at the shop,,1
+0,https://github.com/bhargavsonvane/loanapproval-gcp-kubernetes.git,This is a ML web application which employes Logistics Regression model for predicting/classifying the loan approval status of the applicant based on the given applicant details. This app is deployed on GKE.,,1
+0,https://github.com/Foltik/SpaghettiPack.git,"{""Factorio modpack designed to massively ramp up the complexity of the vanilla game with Bob's mods, Angel's mods, Yuoki Industries, Space Exploration, AAI, Logistics Trains, and more.""}",,1
+0,https://github.com/krantirk/Realtime-Analytics.git,An e-commerce portal wants to build a real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics.,,1
+0,https://github.com/COS301-SE-2020/truckinit-mobile.git,"{""Enigma - The mobile app collection for the Truckin-IT Logistics Management system. Each of the three 'customer', 'fleet manager' and 'trucker' apps has its own project directory, accompanies by the 'common' package for all shared elements and backend systems.""}","dart,flutter,logistics,tuks,truckin-it",1
+0,https://github.com/whizzkid1/Kuehne-Nagel-Supply-Chain-Internship-.git,"Designed an algorithm on R that provided a cost-effective Logistics options and performed a cost analysis of the previous and present rates of trucks ; thus, enabled to negotiate with the one increasing the rate dramatically compared to the others",,1
+0,https://github.com/Skullfox/BS_CHERN_ACE.git,"{""Burning Sky is a dynamic mission framwork for Armed Assault 2 + Operation Arrowhhead combined with ACE.This here is the public version for open server,The missions uses some other scripts like ACE Revive,Bonn's IED's and Viewsettings,R3F Logistics,.... the main part is scripted by me.""}",,1
+0,https://github.com/avalanche21/Predicting-Supply-Chain-Backorder-project.git,"Implemented Gradient Boosting, Neural Network, SVM, Logistics, Models on grid search to perform binary classification using inventory data, past sales, predicted sales. I used sampling techniques to deal with the class imbalance problem, the best model achieved 98% AUC score on ROC curve.",,1
+0,https://github.com/iSIH-2020/SIH20.git,"Smart management of food storage and waste reduction is a mobile application platform which leverages technology to seamlessly provide custodial services such as warehousing and logistics assistance, while assessing warehouses based upon the needs of the farmers. The application also provides an end-to-end farmer-buyer business platform.","farmer-problem,warehouse-management-system,react-native,node-js",1
+0,https://github.com/TomMcBride4/Participative-Assignment-Marking-System.git,A significant problem in large scale education is marking assignments. The logistics of distributing assignments to markers and ensuring that marking is completed in a timely manner can present a considerable administrative burden. Additionally encouraging fair and informative marking and generally improving the standard of marking can be a significant task that simply becomes too hard on a large scale. ,,1
+0,https://github.com/ChicoState/DonateNeed.git,A logistics system that would help non-profits and other donation gathering organizations to better deal with donation clout. People looking to donate will be able to fulfill donation requirements so that institutions get what they need and excess can be donated to others.,,1
+0,https://github.com/akinmail/cosmos.git,"{""Backend api for our submission to Africa Fintech Foundry Hackathon. This app provides a simple, intuitive process for managing shipping logistics and tracking maritime packages. The goal was to help organizations reduce demmurrage accrued at the port due to delayed clearing of packages. We used Unilever's raw materials supply chain process through Apapa port Lagos state as an example.""}",,1
+0,https://github.com/kiddjsh/ProjectManagement_WarehouseInventory.git,"{""The project, Breakin' Logistics, seeks to improve Star Node Entertainment's inventory & auditing practices, in addition  to personnel management processes, by implementing an automated mobile and web application presence for the purpose of  tracking personnel while traveling and the shipment of equipment to scheduled venues.""}",,1
+0,https://github.com/AbuBakkar32/Transport-Management-System.git,"{""A transportation management system (TMS) is a subset of supply chain management (SCM) that deals with the planning, execution and optimization of the physical movements of goods. In simpler terms, it's a logistics platform that enables users to manage and optimize the daily operations of their transportation fleets.Transport management system mainly help to the customer for more easier their life.""}",,1
+0,https://github.com/ashwinkrishnan121/Wake-Forest-Competition.git,"s part of this competition, we developed a multi-objective optimisation algorithm for supply chain logistics of a footwear company with cost and time as the objective function.  The strategy maximised the profit for the company keeping in mind the fastness of delivery as an indicator of customer satisfaction. ",,1
+0,https://github.com/ivanbylinkin/pickapp.git,"Connect to people around you and play pickup games in any sport. Stop wasting time looking for people to play with; dealing with scheduling and other logistics is boring, let Pickapp take care of that for you while you just play!",,1
+0,https://github.com/stevenlukas/EDI_940_to_945_Comparison_Application.git,"Select related EDI 940/945 files to compare, and select options for comparison. Application will output the results and a text file to review. Saves time digging line by line for errors when working with Third Party Logistics to locate discrpencies.",,1
+0,https://github.com/SinghAbhi1998/Stock-Market-Price-Prediction.git,"Stock Market Price Prediction: Used machine learning algorithms such as Linear Regression, Logistics Regression, Naive Bayes, K Nearest Neighbor, Support Vector Machine, Decision Tree, and Random Forest to identify which algorithm gives better results. Used Neural Networks such as Auto ARIMA, Prophet(Time-Series), and LSTM(Long Term-Short Memory) then compare make Inferences about the model.","stock-price-prediction,linear-regression,logistics-regression,svm-model,naive-bayes-algorithm,decision-trees,random-forest,lstm-neural-networks,prophet,time-series,auto-arima,machine-learning-algorithms",1
+0,https://github.com/rohstar/fleet-locator.git,A laravel based web-app that can be used to monitor and store the locations and mileage information of drivers in a car rental fleet. Future versions will contain admin based analytics for fleet managers to identify and improve fleet logistics.,,1
+0,https://github.com/zzdhere/emba.git,"This is a logistics management system I originally wrote using Jsp, HTML, CSS, Jquery, Ajax, etc., which includes modules such as permission function for more than one user role, navigation bar addition and deletion, layout adjustment, and daily cargo entry and exit information",,1
+0,https://github.com/heartbeat-project/heartbeat.git,"Heartbeat is a logistics and data management web application using Python and the Django framework being built for an international charity that provides hope and healing to orphaned and vulnerable children, and their underserved communities, through its education, nutrition, medical, and foster care programs.",,1
+0,https://github.com/DrashtiBhuta/Classification-Using-Spark.git,"Implemented Linear Regression, Gradient boosted trees, Random Forest, Logistics Regression on the dataset consisting  high resolution brain scan images in form of vectors representing 3D images using Spark, Scala, MLlib, AWS EMR The dataset consisted of 6 compressed images of 6GB each",,1
+0,https://github.com/Aditya9056/nlp-language-detection-web_app.git,"A Web App that communicates to NLP model (Self Trained Logistics Regression 98% Accuracy) via FastAPI to detects which language input is given. It supports 5 languages (Russian, French, Spanish, Chinese and English) currently but its a matter of seconds to add more.",,1
+0,https://github.com/pakistanlmis/ussd-reporting.git,"{""Pakistan governement's LMIS inventory management Systems (IMS) is a web based system providing real-time, perpetual inventory balances as well as open fulfillment status. The goal of this module is to help in improving monthly data reporting in electronic Logistics Management Information System through identified USSD technology.""}",,1
+0,https://github.com/dingjing1998/genetic-algorithm.git,"{""With hybrid genetic algorithm to solve the logistics distribution path:  from a logistics center with more than one delivery vehicle delivery to multiple customers, each customer's location and the demand for certain goods, each distribution vehicle load must be, the maximum range of the primary distribution is certain, for reasonable arrangement of the vehicle distribution route, to optimize the objective function, and satisfy the following conditions:  (1) each distribution path each customer's demand is less than the sum of the distribution of vehicle load; (2) each of the distribution path length is not more than the biggest distance delivery vehicles a distribution; (3) must satisfy each customer's demand, and only by a distribution vehicle delivery. Distribution total mileage to be shortest as objective function""}",,1
+0,https://github.com/wztaylor/Final-Project-CSCI-332.git,"Final project for Database Concepts class. I created a database for a fictional third party logistics company that tracks clients, shipments, payments, and include simple triggers and reports. This repository includes all code needed for database project including PHP code, DDL and the ER Diagram. The associated website allows users to navigate the database and perform CRUD operations like adding a new client or recording a new shipment.",,1
+0,https://github.com/bensalcie/Trivia-Money.git,"A special Example for the use of PAYHERO KENYA ANDROID MPESA LIBRARY found here:https://github.com/bensalcie/payhero-android-mpesa . This app handles Customer to Business payment, it takes care of logistics from user payments to confirmation of the payment using PHP and MYSQL. The scripts for the above project are included into this repo. Feel free to reach out incase of any trouble.","mpesa,mpesa-api,bensalcie,php,kotlin-android",1
+0,https://github.com/Adityab0401/SupplyChainDAPP.git,"{""A Decentralized End to End Logistics Application that stores the whereabouts of product at every freight hub to the Blockchain. At consumer end, customers can easily scan product's QR CODE and get complete information about the provenance of that product hence empowering consumers to only purchase authentic and quality products.  This project has been implemented using Ethereum Solidity Smart Contracts, Web3JS library, JavaScript, jQuery, PHP, MySQL and HTML-CSS.""}",,1
+0,https://github.com/coletar/coletar.git,"{""EN This is a logistics software to create the better route among pre-defined points. It has been created to support the collecting of recyclable material trying to optimize the collecting route. One only installation can serve many different groups of a network. Developed in Java and MySQL. PT-BR Este software foi criado para apoiar a coleta de material reciclável, buscando otimizar a rota, mas é um software de logística para traçar a melhor rota entre pontos pré-definidos. Uma mesma instalação pode ter dados de várias cooperativas de uma rede. Desenvolvido em Java e MySQL. FR Coletar est un logiciel pour la logistique de la collecte des matières recyclables. Une seule installayion peut servir différentes groupes d'une réseau. Développé en Java et MySQL.""}",,1
+0,https://github.com/swati123kasar/Safeture.git,"“ SAFETURE ” will be a pioneer in developing an automated system that keeps the track of various products and articles present in the container (vehicle to carry the products) with a standard communication system and also make the journey of the container sophisticated by detecting accident. Once the container departs from manufacturer’s location it stops periodically from one warehouse to another.In case of pharmaceuticals supply chain logistics , the 1 medications need to stay within certain temperature range. Our application would monitor , verify and steward medications from source to destination by collecting and analyzing the data read from sensors.",,1
+0,https://github.com/ShadowOS/Inventory-Routing-Problem-IRP-.git,"It can be described as the combination of vehiclerouting and inventory management problems, in which a supplier has to deliver products to a number of geographically dispersed customers, subject to side constraints. It provides integrated logistics solutions by simultaneously optimizing inventory management, vehicle routing, and delivery scheduling. Some exact algorithms and several powerful metaheuristic and matheuristic approaches have been developed for this class of problems, especially in recent years. The purpose of this article is to provide a comprehensive review of this literature, based on a new classification of the problem. We categorize IRPs with respect to their structural variants and the availability of information on customer demand.",,1
+0,https://github.com/OurDemocracy/Solidity-Logistical-Distribution-Center.git,"A distribution center write in solidity who is a logistics infrastructure in which products are stored and outbound orders are given for distribution to the retail or wholesale trade. It is generally constituted by one or more warehouses, which occasionally have refrigeration or air conditioning systems, areas to organize the goods and gates, ramps or other infrastructure such as vehicles.  Companies usually define the location of their distribution centers according to the area or region in which they will have coverage, including natural resources, population characteristics, availability of labor, taxes, transportation services, consumers, energy sources, among others. It must also take into account the routes from and to production plants, to main roads, or to the location of seaports, river ports, air ports, loading stations and free zones. EN ESPAÑOL",,1
+0,https://github.com/ShrewdDoves/BN_OneContent.git,"This contest is organized by Alibaba Cloud and the Met Office, the United Kingdom’s national meteorological service, inviting data enthusiasts from around the world to develop solutions relating to a potential future world in which deliveries by unmanned balloons must be optimized to navigate the variability of the UK weather.  The scenario is set in the future—in the year of 2050, a world where the invention of “anti-gravity engines” has led to the creation of unmanned balloons as the preferred logistics solution. However, because of the UK’s complex meteorological conditions, the balloons are occasionally delayed, damaged or even destroyed by extreme weather conditions causing disruption and loss. The contestants will be challenged to create algorithms that can plan flight routes for these balloons to navigate the endless variation and changeable nature across the UK to optimize their delivery schedules and costs.",,1
+0,https://github.com/ankitjoshi1995/Covid-19-Healthcare-Analytics.git,"Recent Covid-19 Pandemic has raised alarms over one of the most overlooked area to focus: Healthcare Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.   This parameter helps hospitals to identify patients of high LOS risk (patients who will stay longer) at the time of admission. Once identified, patients with high LOS risk can have their treatment plan optimized to miminize LOS and lower the chance of staff/visitor infection. Also, prior knowledge of LOS can aid in logistics such as room and bed allocation planning.  Suppose you have been hired as Data Scientist of HealthMan – a not for profit organization dedicated to manage the functioning of Hospitals in a professional and optimal manner. The task is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.",,1
+0,https://github.com/ankitjoshi1995/Janata-Healthcare-Analytics.git,"Recent Covid-19 Pandemic has raised alarms over one of the most overlooked area to focus: Healthcare Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.   This parameter helps hospitals to identify patients of high LOS risk (patients who will stay longer) at the time of admission. Once identified, patients with high LOS risk can have their treatment plan optimized to miminize LOS and lower the chance of staff/visitor infection. Also, prior knowledge of LOS can aid in logistics such as room and bed allocation planning.  Suppose you have been hired as Data Scientist of HealthMan – a not for profit organization dedicated to manage the functioning of Hospitals in a professional and optimal manner. The task is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.",,1
+0,https://github.com/lucaambrosio/TSP.git,"The travelling salesman problem (TSP) asks the following question: ""Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?"" It is an NP-hard problem in combinatorial optimization, important in operations research and theoretical computer science.  The travelling purchaser problem and the vehicle routing problem are both generalizations of TSP.  In the theory of computational complexity, the decision version of the TSP (where, given a length L, the task is to decide whether the graph has any tour shorter than L) belongs to the class of NP-complete problems. Thus, it is possible that the worst-case running time for any algorithm for the TSP increases superpolynomially (but no more than exponentially) with the number of cities.  The problem was first formulated in 1930 and is one of the most intensively studied problems in optimization. It is used as a benchmark for many optimization methods. Even though the problem is computationally difficult, a large number of heuristics and exact algorithms are known, so that some instances with tens of thousands of cities can be solved completely and even problems with millions of cities can be approximated within a small fraction of 1%.[1]  The TSP has several applications even in its purest formulation, such as planning, logistics, and the manufacture of microchips. Slightly modified, it appears as a sub-problem in many areas, such as DNA sequencing. In these applications, the concept city represents, for example, customers, soldering points, or DNA fragments, and the concept distance represents travelling times or cost, or a similarity measure between DNA fragments. The TSP also appears in astronomy, as astronomers observing many sources will want to minimize the time spent moving the telescope between the sources. In many applications, additional constraints such as limited resources or time windows may be imposed.",,1
+0,https://github.com/bitsenzes/Building-an-Ecommerce-Website-in-7-Effortless-Steps.git,"{""In accordance with survey reports, the growth of online business worldwide is significantly faster and higher in comparison with traditional businesses. The achievements of online commerce has been so impacting that even established business houses have started out online promoting as a complementary work. However, first things always come first, and in case of internet commerce, it is mandatory to create an eCommerce website at the outset. There is a definite way of practicing the process of creating and operating an internet commerce website. Though a professional involvement is always solicited for such efforts, a good knowledge could also help in initiating an online business. Follow these steps to create your eCommerce store from Scratch: Decide the Merchandise You Want to Offer While browsing the internet you'll want noticed the presence of multiple eCommerce websites selling varied items. There are certain websites dedicated to selling a particular line of products or software program as garments, travel plans, fashion items, and so forth. Also, there are some other eCommerce websites that sell multiple things like mobile phones, laptops, household appliances, books, CDs, home cinemas, helpful cams, sports goods, and so on. The particular latter is a like a huge departmental store selling everything under the same roof. At the outset, it is thus important to decide on the merchandise or service that you would like to offer through your website. While selecting the item of trade you will need to estimate the local demand. Purchasers would always prefer to be able to buy items from a local vendor irrespective regarding being online or traditional. Typically the local supplier would always ensure faster deliveries, easier payment terms, and previously replacements in case of wrong or defective deliveries. Choose Your Business Type As an eCommerce business owner, you can choose your business design as each your requirement. Either you can sell only throughout your online store, or, can sell your products on marketplaces like Amazon, FlipKart, eBay, and so forth You can also sell your products on both the programs each time. Choose a Company and Domain Once you have decided on your array of items and business model, the next step would be to choose a business name and create a domain. A business name should be relevant to your products and easy to remember for your target audience. A website gives an identity and makes it easier for online buyers to recognize you. However, for companies with limited financial resources, it would be desirable to get a shared domain. Sharing a domain with an established name makes it easier for calling your target customers. Because the business grows it would be smart to have a dedicated domain as it helps in lookup engine optimization and easier recognition. Select an e-commerce Website Constructor Nowadays, it is very simple to build your online store by using eCommerce website builders like KartRocket. These kinds of DIY online software create websites in few secs to can start promoting products instantly. Designing Your own eCommerce Store Your eCommerce website is your store, and it needs to be made for the convenience of your buyers. Because in a store, your website should contain details about your saleable products and services. Images, explanations, prices, users’ comments, scores should all be as part of your web page for helping prospective buyers. You must make it certain, that your web page displays your products perfectly so that buyers are never misled. You need to make your web pages and website attractive as that will be your representation to buyers online. Set Up the Repayment Entrance As an online business, one must have multiple payment options available for the customers. The eStore builders like KartRocket come with tools that can set up these benefits to your website automatically. The customer should be able to make payments via credit card, debit credit card, online wallets, net bank, COD, etc.  Secure Your Website by Installing SSL Certificate For the websites that transfer data online, one must make sure that their connection is protected by a secured security layer (SSL). The SSL document keeps your website secure and builds the trust among your customers. Today, even Google recommends having an SSL certificate for every single website.  Select Your own Shipping Partner Once you start selling products through your eCommerce website, you will need to ship those products to your customers with the aid of courier services. eCommerce logistics aggregator services like ShipRocket are the best option to go for. They give you multiple courier organization options to ship your product with the least expensive available shipping charges, so you might have maximum income value in your reveal. These are the basic steps in creating an eCommerce website for your product or service and commence marketing instantly.""}",,1
+0,https://github.com/enterstudio/logistimo-web-service.git,Open source software for supply chain and logistics management,,0
+0,https://github.com/MolSSI-Education/Logistics_SSS_2017.git,MolSSI SSS 2017 Logistics,,0
+0,https://github.com/hrsf81-grazers/hrsf81-grazers.git,Role- and group-based communication tool to facilitate event logistics,,0
+0,https://github.com/beyond2013/AI.git,Course Logistics for Artificial Intelligence,,0
+0,https://github.com/sebarmano/festivit.git,Online platform that automate logistics for large scale events. ,,0
+0,https://github.com/UbuntuEvangelist/sijaa.com.git,Cloud stack transport platform brings freight and vehicle space together – for everyone involved in the logistics chain,,0
+0,https://github.com/id10tttt/Logistics_Platform.git,Logistics Platform,,0
+0,https://github.com/laxman-ch/vsr.git,VSR logistics,,0
+0,https://github.com/lovely-lizards/evently.git,Simplifying events logistics,,0
+0,https://github.com/lwfofficial/logistics-web.git,LWF Logistics - Web,,0
+0,https://github.com/keeran6/ForCargo-Men.git,Django based Logistics project,,0
+0,https://github.com/nussucommit/meridien.git,NUSSU Logistics booking viewer,,0
+0,https://github.com/Nightspeller/logistics-school.git,Logistics School web site,,0
+0,https://github.com/superliujian/liquid.git,Container Logistics Management System,,0
+0,https://github.com/Khingdave1/Royal-Value-Logistics.git,Logistics service website ,,0
+0,https://github.com/rladies-nashville/operations.git,"Logistics, record-keeping",,0
+0,https://github.com/alexhypertrack/backend-nodejs-logistics.git,A backend for logistics sample apps using HyperTrack,,0
+0,https://github.com/ClayCribbs/SpeediOS---Auto-Transportation-Logistics.git,SpeediOS - Auto Transportation Logistics Suite,,0
+0,https://github.com/MBTA-Procurement-Analysts/PLIT.git,Procurement and Logistics Internal Tools,,0
+0,https://github.com/ryanvorster1/WIL-2017.git,Work Integrated Learning logistics assignment ,,0
+0,https://github.com/explore-thulani/sendy-logistics-challenge.git,Sendy Logistics Challenge - Regression Sprint JHB Team 9,,0
+0,https://github.com/HSRLCLab/SmartFactoryVehicle.git,A Lego-Based Autonomous Logistics Vehicle,,0
+0,https://github.com/bob-frost/iml_client.git,Ruby client for IML logistics service API,,0
+0,https://github.com/Nanabell/Loader-Furnaces.git,"{""Factorio Mod to smelt items at belt speed! Supports bob's Logistics""}","factorio-mod,lua",0
+0,https://github.com/beyond2013/OOP.git,Logistics for course offered in Computer Science and IT Department University of Balochistan,"c-plus-plus,object-oriented-programming",0
+0,https://github.com/pryhmez/skada.git,a logistics platform for small scale e-commerce platforms,,0
+0,https://github.com/fzsun/biomass-feedstocks-logistics.git,A web app for sorghum biomass feedstock logistics optimization,,0
+0,https://github.com/Gnanakannan/Logistics.git,Logistics,,0
+0,https://github.com/weirdo-lab/akshay.git,logistics,,0
+0,https://github.com/Sharon-tech/project.git,logistics ,,0
+0,https://github.com/rakon3/tbg.git,logistics,,0
+0,https://github.com/CSTS308/Logistics.git,Logistics,,0
+0,https://github.com/gbt869128710/logistics.git,logistics,,0
+0,https://github.com/ashgarg143/MindfulMachine.git,Logistics,,0
+0,https://github.com/emkayz/LMS.git,LOGISTICS,,0
+0,https://github.com/gtostock/Logistics.git,Logistics,,0
+0,https://github.com/sibestsibest/Logistics.git,Logistics,,0
+0,https://github.com/oceany96/logistics.git,logistics,,0
+0,https://github.com/webide-ril/log_pwc.git,Logistics,,0
+0,https://github.com/onecoders/Logistics.git,Logistics,,0
+0,https://github.com/Quadrii/speaktruth.git,logistics,,0
+0,https://github.com/venkatk2334/logistics.git,logistics,,0
+0,https://github.com/ukarok/Karo.git,Logistics,,0
+0,https://github.com/johnnywww/logistics.git,logistics,,0
+0,https://github.com/Mylandski/Firstup-Freight.git,Logistics,,0
+0,https://github.com/azazhs/Logistics.git,Logistics,,0
+0,https://github.com/Khaunruethai/amasis-shipping.git,logistics,,0
+0,https://github.com/niteshkumardubey/TronBox.git,Logistics,,0
+0,https://github.com/godsomex/logistics.git,logistics,,0
+0,https://github.com/Thecrateguy/logistics.git,Logistics,,0
+0,https://github.com/Karthik-619/Gtruckways.git,Logistics,,0
+0,https://github.com/milanamatya/united-world.git,Logistics,,0
+0,https://github.com/sarveshhome/logistics.git,logistics,logisticsui,0
+0,https://github.com/zhongyueming1121/logistics.git,logistics,,0
+0,https://github.com/gtostock/Logistics.git,Logistics,,0
+0,https://github.com/laiconglin/logistics.git,logistics,,0
+0,https://github.com/aksenthil/logit.git,logistics,,0
+0,https://github.com/ronnienillo/logistics.git,logistics ,,0
+0,https://github.com/davispace/logistics.git,logistics,,0
+0,https://github.com/upasanaArora/logistics.git,logistics,,0
+0,https://github.com/stefanivus/logistics-game.git,Logistics!,,0
+0,https://github.com/liuyong0204/thebestcargo.git,logistics,,0
+0,https://github.com/confidence8/inaagatotheworldlogistic.git,Logistics,,0
+0,https://github.com/jitendriyag2/LMISCore.git,Logistics,,0
+0,https://github.com/xiao1994/logistics.git,logistics,,0
+0,https://github.com/wangjunjx8868/Logistics.git,Logistics,,0
+0,https://github.com/ChuChenShu/wlxt.git,logistics,,0
+0,https://github.com/danielvtan/logistics.git,Logistics,,0
+0,https://github.com/LeoAlias/glauzan.git,logistics,,0
+0,https://github.com/punchouty/logistics.git,Logistics,,0
+0,https://github.com/hamidabbasi/logistics.git,logistics,,0
+0,https://github.com/ProfoundHypnotic/SuburbanLogistics.git,Logistics,,0
+0,https://github.com/ZanariIsa/SMARTsys.git,Logistics,,0
+0,https://github.com/subhankarB96/MyChain.git,logistics,,0
+0,https://github.com/Kizoniahq/aplservice.git,logistics,,0
+0,https://github.com/YangYaTong/logistics.git,logistics,,0
+0,https://github.com/lcy56566/HM_BOSS.git,logistics,,0
+0,https://github.com/Peqtohii/bos.git,logistics,,0
+0,https://github.com/cis16/igel4365.git,logistics,,0
+0,https://github.com/Demsy-code/CA_Logistics.git,Logistics,,0
+0,https://github.com/xpmike/logistics.git,logistics,,0
+0,https://github.com/ohienstephen/FlashL.git,A logistics website built for flash logistics,,0
+0,https://github.com/jianminLee/logistics.git,A logistics SDK.From uuk020/logistics.,,0
+0,https://github.com/wariox3/kit.git,Kit logistics,,0
+0,https://github.com/nzolt/hellman.git,Hellman Logistics,,0
+0,https://github.com/sopheaknova/uexpress.git,Logistics theme,,0
+0,https://github.com/LI-JIAHAO/mylast.git,back_logistics,,0
+0,https://github.com/aileaile/logistics.git,inspur.logistics,,0
+0,https://github.com/Thegreaterone/ABCLOGISTICS.git,LOGISTICS SITE,,0
+0,https://github.com/mattdonut/gologist.git,Go logistics!,,0
+0,https://github.com/aashutosh424/mini-project.git,logistics tracking,,0
+0,https://github.com/jiangzhuolin/logistics-service.git,logistics-service,,0
+0,https://github.com/lavanyasaravanakumar/astpl1998-logistics.git,astpl1998 / logistics,,0
+0,https://github.com/gev326/gev326.github.io.git,trojan logistics,,0
+0,https://github.com/zorgonred/Flutter_alpha_logitics.git,Logistics application,,0
+0,https://github.com/togetherlogistics/website.git,Together Logistics,,0
+0,https://github.com/chrix95/pmtlogistics.git,PMT Logistics,,0
+0,https://github.com/mdbaal/logicStick.git,logistics game,,0
+0,https://github.com/YouyuanDev/next3.git,Hermes Logistics,,0
+0,https://github.com/sammic297/meeslogistics.git,Mees Logistics,,0
+0,https://github.com/namifusi/LMS.git,logistics optimization,,0
+0,https://github.com/antlogist/logistics.git,Logistics app,,0
+0,https://github.com/eios-ernest/EIOS.git,Logistics Project,,0
+0,https://github.com/tomkidumbuyo/logistics.git,logistics software,,0
+0,https://github.com/mflmn/logistics.git,logistics project,,0
+0,https://github.com/liqingzhu/logistics.git,Logistics info,,0
+0,https://github.com/ratnalevi/starlogistics.git,Star logistics,,0
+0,https://github.com/suneelyadav123/thomaslogistics.git,Logistics product,,0
+0,https://github.com/mojitooo/logisticsSystem.git,logistics web,,0
+0,https://github.com/dwijanto/Components.git,Logistics Components,,0
+0,https://github.com/LarryMoov/Moov-Africa.git,Logistics marketplace,,0
+0,https://github.com/ikbalramdan/mahasiswa.git,Project Logistics,,0
+0,https://github.com/dhantosy/react-native-logistics-app.git,Logistics App,,0
+0,https://github.com/kingofmen/BattleFront.git,Logistics game,,0
+0,https://github.com/ecentury1688/ETAL.git,ETA Logistics,,0
+0,https://github.com/vkpriyesh/ghintals.git,ghintal logistics.,,0
+0,https://github.com/Assengamicah/Logsys.git,Logistics Management,,0
+0,https://github.com/1ck05/logistics.git,create logistics ,,0
+0,https://github.com/captain-zsa/logistics.git,ZZ-logistics,,0
+0,https://github.com/tiamoore0102/machine.git,machine logistics,,0
+0,https://github.com/nondejus/food-killer.git,aardappel logistics,,0
+0,https://github.com/verolla/CargoBros.git,Logistics Website,,0
+0,https://github.com/khandadesunil/qube.git,Logistics Application,,0
+0,https://github.com/wl123227/softwareUI.git,logistics software,,0
+0,https://github.com/dani-menezes/marsLogistics.git,Mars Logistics,,0
+0,https://github.com/tazvigwiraliberty/Courier-management-system.git,Logistics management,,0
+0,https://github.com/xu867976055/Boss.git,BOSS Logistics,,0
+0,https://github.com/TEP-VENTURES/postmailexpress.git,logistics operation,,0
+0,https://github.com/favournnamdi/project.git,logistics webpage,,0
+0,https://github.com/alone9329/Yang-Che.git,Logistics Regression,,0
+0,https://github.com/thoht99/Project.git,Shopee Logistics,,0
+0,https://github.com/h2ri/Logistics.git,Logistics App,,0
+0,https://github.com/olhasus/MATH-F251X-FXA-.git,Class Logistics,,0
+0,https://github.com/DangDuy612/Logistics.git,Logistics Project,,0
+0,https://github.com/andjedani/bokeh.git,Bokeh Logistics,,0
+0,https://github.com/jknaresh/logistics.git,Logistics geojson,,0
+0,https://github.com/WideSpreadX/olabs.git,Creation Logistics,,0
+0,https://github.com/Mayankgupta688/FrugaLogistics.git,Fruga Logistics,,0
+0,https://github.com/eios-ernest/EIOS.git,Logistics Project,,0
+0,https://github.com/mflmn/logistics.git,logistics project,,0
+0,https://github.com/tomkidumbuyo/logistics.git,logistics software,,0
+0,https://github.com/ratnalevi/starlogistics.git,Star logistics,,0
+0,https://github.com/liqingzhu/logistics.git,Logistics info,,0
+0,https://github.com/suneelyadav123/thomaslogistics.git,Logistics product,,0
+0,https://github.com/mojitooo/logisticsSystem.git,logistics web,,0
+0,https://github.com/dwijanto/Components.git,Logistics Components,,0
+0,https://github.com/dhantosy/react-native-logistics-app.git,Logistics App,,0
+0,https://github.com/LarryMoov/Moov-Africa.git,Logistics marketplace,,0
+0,https://github.com/ikbalramdan/mahasiswa.git,Project Logistics,,0
+0,https://github.com/dcodeSystems/DolomiteTransport.git,Dolomite Logistics,,0
+0,https://github.com/gefunk/log_tools.git,logistics tools,,0
+0,https://github.com/oak-wildwood/tcdemo.git,Logistics demo,,0
+0,https://github.com/albert567/logisticsCard.git,Logistics Card,,0
+0,https://github.com/explorewithmac/hello-world.git,Logistics Database,,0
+0,https://github.com/shivamvk/MindfulSupplier.git,logistics supplier,,0
+0,https://github.com/shonphilip7/htfn.git,HTFN Logistics,,0
+0,https://github.com/NIPPONEXPRESS2020/-2022plan.git,Global Logistics ,,0
+0,https://github.com/nogueirajoao/Logistics.git,Truck Logistics,,0
+0,https://github.com/doucetech/tchiks-transport.git,logistics website,,0
+0,https://github.com/zhongwenshu/zws_logis.git,logistics expression,,0
+0,https://github.com/aayushc05/ibms.git,logistics time,,0
+0,https://github.com/Miro1187/Log.git,Logistics application,,0
+0,https://github.com/rahulbagga/shipping-logistics.git,logistics code,,0
+0,https://github.com/tingken/logistics-online.git,for logistics,,0
+0,https://github.com/smilelife00/MyLogistics.git,fist Logistics,,0
+0,https://github.com/Chaodows/Logistics.git,International Logistics,,0
+0,https://github.com/bgcreations123/zamola.git,logistics tracking,,0
+0,https://github.com/paolarivero/trackingpremium.git,Logistics Software,,0
+0,https://github.com/Shortowsky/PraeLogistics.git,Logistics PDA,,0
+0,https://github.com/kevinoliveros-dev/ATAHARA.git,WEB Logistics,,0
+0,https://github.com/yanh19930226/Logistics.Api.git,Logistics.Api,,0
+0,https://github.com/cosssec/lab4_task7.git,logistics system,,0
+0,https://github.com/misaelpc/truckber.git,Logistics Project,,0
+0,https://github.com/procyberian/logistics.git,logistics solution,,0
+0,https://github.com/kuda09/UkunoGL.git,Logistics Company,,0
+0,https://github.com/ponkotuy/logistics.git,Logistics game,,0
+0,https://github.com/alter-sachin/runner.git,logistics runnr,,0
+0,https://github.com/nellymir/hello-world.git,Logistics app,,0
+0,https://github.com/erikapepe/titocom.git,logistics management,,0
+0,https://github.com/TECHBITER/Mercon.git,Mercon Logistics,,0
+0,https://github.com/brkimutai/shoptome.git,logistics programe,,0
+0,https://github.com/atique803/BlockchainUiit.git,Logistics Management,,0
+0,https://github.com/limengwei1992/Logistics.git,MLNX Logistics,,0
+0,https://github.com/kirtiraj23/logiticsRegression.git,Logistics Regression,,0
+0,https://github.com/SimranjitKaurMaan/LogisticsSystem.git,Logistics System,,0
+0,https://github.com/VictorRosenfeld/CourierLogistics.git,Courier logistics,,0
+0,https://github.com/alenalex/myMWQ.git,Logistics project,,0
+0,https://github.com/semifu/LogisticsAssistant.git,Logistics assistant,,0
+0,https://github.com/iswarjava9/logistics.git,Logistics operations,,0
+0,https://github.com/zhangningbo79/logistics.git,logistics manager,,0
+0,https://github.com/purvaamidha/logistics-wptheme.git,logistics-wptheme,,0
+0,https://github.com/umbiliko/um-lo.git,General Logistics,,0
+0,https://github.com/izh20/logistics-car.git,logistics car,,0
+0,https://github.com/sakibcoolz/Logics.git,Logistics Software,,0
+0,https://github.com/insafzakariya/logistics-api.git,Logistics API,,0
+0,https://github.com/neetuthomas07/narayanshivramlogistics.git,Logistics Company,,0
+0,https://github.com/sumit1206/Spid.git,logistics project,,0
+0,https://github.com/J-Vaughn-Dev/jhardman0830.github.io.git,Chipper Logistics,,0
+0,https://github.com/WallaceCheny/SpecialLogisticsSystem.git,Logistics System,,0
+0,https://github.com/pgpradeepgiri/Logistics.git,Logistics Code,,0
+0,https://github.com/McJty/microlog.git,Micro Logistics,,0
+0,https://github.com/jithinjk-gradvalley/Telecom_LogisticRegression_UseCase.git,Logistics Regression,,0
+0,https://github.com/lavanyasaravanakumar/asptpl1998-logistics.git,asptpl1998 / logistics,,0
+0,https://github.com/nanda32/Logistics.git,Preconnect logistics,,0
+0,https://github.com/moikzz214/fleet.git,Logistics Fleet,,0
+0,https://github.com/RPAFL/Logistics-CarrierClaims.git,Logistics CarrierClaim,,0
+0,https://github.com/reidjs/5-metric-tons-of-chicken.git,IOT logistics,,0
+0,https://github.com/Damilola94/CL-Webiste.git,Coolidge Logistics,,0
+0,https://github.com/Emmanuel-umeh/SuppLogistics.git,logistics company,,0
+0,https://github.com/phelps908/logustic-regression.git,My logistics,,0
+0,https://github.com/approved4me/logistics.git,Logistics Webpage,,0
+0,https://github.com/Yuelin-Li/Subgroup-Analysis.git,logistics regression,,0
+0,https://github.com/eightbitstudios-ux/echo.git,Echo! Logistics,,0
+0,https://github.com/mihailovssergejs/LogisticsCoin.git,Logistics Coin,,0
+0,https://github.com/KSatNet/KompLog.git,Komputational Logistics,,0
+0,https://github.com/sourcebots/pcb-util.git,PCB logistics,tools,0
+0,https://github.com/dev214182/fleet.git,Logistics Fleet,,0
+0,https://github.com/stealthman22/stealthman22.github.io.git,Stealth Logistics,,0
+0,https://github.com/Everan-1994/logistics_information.git,logistics information,,0
+0,https://github.com/yoaddb/logistics-management-react.git,logistics management,,0
+0,https://github.com/SintaMeiliana/Sinta-Clark-Logistics.git,CLARK Logistics,,0
+0,https://github.com/KorkmazLogistics/Korkmaz-Logistics.git,Korkmaz Logistics,,0
+0,https://github.com/tonyatzju/logistics.git,Logistics Management,,0
+0,https://github.com/ojokure/crownempire.git,logistics website,,0
+0,https://github.com/ntrphanikumar/mobilistics.git,Mobile Logistics,,0
+0,https://github.com/varunsushanth/Universal-Shipper.git,Logistics Management,,0
+0,https://github.com/janekey/logistics.git,logistics system,,0
+0,https://github.com/shangqianfang/logistics_system.git,logistics system,,0
+0,https://github.com/erodrigueztoimil/futura_logistics.git,Logistics Company,,0
+0,https://github.com/skactech/WMS.git,Logistics Platform,,0
+0,https://github.com/nss-day-cohort-23/group-project-company-site-redux-nebula-logistics.git,group-project-company-site-redux-nebula-logistics created by GitHub Classroom,,0
+0,https://github.com/derekhua/UFBands.git,a web app that handles all of the daily logistics of all the UF Bands.,,0
+0,https://github.com/buihdk/iparcel-native.git,"A logistics mobile native app built using react-native-maps, redux, and firebase",,0
+0,https://github.com/nicharuc/yelp-sentiment-prediction.git,"Using SVM, Logistics Regression Model on Yelp Reviews via Spark to Predict Sentiment.",,0
+0,https://github.com/fablabbcn/smartcitizen-tools.git,"Tools for the development, production, testing and logistics of the Smart Citizen sensors",,0
+0,https://github.com/ethflo/rcll_status_board.git,This package provides ROS nodes to visualize the RoboCup Logistics League (RCLL) gameplay.,,0
+0,https://github.com/faith-portfolio/MSI-Logistics.git,MSI Logistics PROVIDING RELIABLE TRANSPORT AND LOGISTICS SOLUTION,,0
+0,https://github.com/hhanbing/logistics-management-system.git,Logistics management for the business of the logistics company,,0
+0,https://github.com/ThetaLogistics/theta.git,"Creating a system for a logistics company, Theta Logistics.",,0
+0,https://github.com/resonante/pkgtrakin.git,Package Tracking Logistics,,0
+0,https://github.com/lishiyi/Logistics.git,Logistics Management System,,0
+0,https://github.com/G37R34DY/logR.git,Logistics R Functions,,0
+0,https://github.com/dguardio/logistica.git,crowd sourced logistics,,0
+0,https://github.com/ankitjindalbti/matt.git,Reverse Logistics Association,,0
+0,https://github.com/zriman/os1_als.git,OutSource1 Auto Logistics System,,0
+0,https://github.com/serdararslan/lpa.git,Logistics Planning App,,0
+0,https://github.com/geodyj/logistics.git,safe logistics application,,0
+0,https://github.com/bindelasuresh/TailoredLogistics.git,Tailored logistics courier services,,0
+0,https://github.com/albertlong0803/xlogistics.git,Logistics Platform by PHP,,0
+0,https://github.com/Madh93/sirb.git,Metaheuristics for Logistics Problems,,0
+0,https://github.com/mitthu/cmpsc473_spring18.git,Logistics for the course,,0
+0,https://github.com/lopugit/planetexpress.git,An automated logistics system,,0
+0,https://github.com/tonocovarru/next_app.git,API App logistics,,0
+0,https://github.com/ssdooley/logistics.git,Logistics overhaul app,,0
+0,https://github.com/nbiagiojr/blockchainlogistics.git,Blockchain Logistics Project,,0
+0,https://github.com/seaportdevelopers/lgo.git,Semi-secret logistics project,,0
+0,https://github.com/lmpynix/swordfish-logistics.git,SFE Logistics Modpack,,0
+0,https://github.com/flairxy/courier.git,A logistics management system,,0
+0,https://github.com/trantntran/The-Effect-Of-Sleep-On-Exam-Scores.git,Logistics Regression From Scratch,,0
+0,https://github.com/kold-fyre/nordic-admin.git,[Project] nordic logistics admin ,,0
+0,https://github.com/jafman/pelogistics-home.git,PE Logistics Home page,,0
+0,https://github.com/kulsinbor/TransportWarehouseLogistics.git,Transport Warehouse And Logistics,,0
+0,https://github.com/Bearythebee/SCL-Logistics.git,Shopeec Code League Logistics,,0
+0,https://github.com/UlugbekErkinov/fobos-h.git,Transport logistics database,,0
+0,https://github.com/nurulazmiyafie/LogisticsPro.git,Repos Logistics Project,,0
+0,https://github.com/kan-i/logistics.git, Logistics company landing page,,0
+0,https://github.com/sid-1698/QMFL.git,Quantitative Methods for Logistics,"optimization,gurobipy,operations-research,vehicle-routing-problem,inventory-management,production-planning,travelling-salesman-problem,mixed-integer-programming",0
+0,https://github.com/Swistusmen/Ferryman.git,Solving logistics problem: Ferryman,,0
+0,https://github.com/kevincliffo/django-logistics.git,Logistics Web app,,0
+0,https://github.com/Victor-YanXiaoZhong/LMS.git,Logistics Management  System,,0
+0,https://github.com/dudanogueira/llm.git,Latinoware Logistics Manager,,0
+0,https://github.com/vicsun2007/taicool.git,e-cold chain logistics,,0
+0,https://github.com/NikithShetty/Distribution-Management-System.git,Mini Logistics management system.,,0
+0,https://github.com/tacoc4t/PMC-Logistics-Simulator-3020.git,PMC Logistics Simulator 3020,,0
+0,https://github.com/abhibt/SimpleJspServletDB.git,Logistics application in Java,,0
+0,https://github.com/vinicomelo/KinetixLogistics-Static.git,Kinetix Logistics - Static,,0
+0,https://github.com/tacoc4t/PMC-Logistics-Simulator-3020.git,PMC Logistics Simulator 3020,,0
+0,https://github.com/1183275965/wlxx.git,Logistics management system,,0
+0,https://github.com/carram/fuxion-logistics-be.git,Backend Fuxion Logistics,,0
+0,https://github.com/vinicomelo/KinetixLogistics-Static.git,Kinetix Logistics - Static,,0
+0,https://github.com/zhaojycom/MingBang.git,Mingbang logistics management system.,,0
+0,https://github.com/rakeshelamaran98/SVCE-Hackathon.git,Optimized Agriculture Transport Logistics,"html,css,php",0
+0,https://github.com/Gerry915/CSL-website.git,Complete Storage and logistics ,,0
+0,https://github.com/3peakslogistics/www.git,3 Peaks Logistics Website,,0
+0,https://github.com/emturnbull/arcgis-logistics.git,Logistics tools for ArcGIS,,0
+0,https://github.com/jamuspsi/factorio-InstantLogistics.git,Instant Logistics module,,0
+0,https://github.com/vparantza/PROYECTO-02.git,Análisis Synergy Logistics,,0
+0,https://github.com/arwin-gadgethunter/gh-logistics.git,This is gh logistics,,0
+0,https://github.com/jetzt-deins/logistics.git,Template for logistics company,,0
+0,https://github.com/PaulHAVELANGE/Ubidata-IT-solution.git,IT solutions for Logistics,,0
+0,https://github.com/songxin2014/CLM.git,Cloud Logistics Manager,,0
+0,https://github.com/forzzh/sshexec.git, Simple Logistics System,,0
+0,https://github.com/wangxb07/commerce_alipay_logistics.git,Commerce alipay logistics,,0
+0,https://github.com/ThorChiam/es09_platform.git,the logistics platform,,0
+0,https://github.com/lishuo5263/logistics_abroad_service.git,mermaid logistics_abroad_service,,0
+0,https://github.com/yamaha-IT-dev/logistics.git,LIVE-yma_intranet-logistics,,0
+0,https://github.com/TaoFruit/taologistics.git,Tao Logistics Site,,0
+0,https://github.com/kbalbertyu/Logistics.git,Logistics management website,"zend,framework,v3,php",0
+0,https://github.com/CareyWang/logistics.git,A logistics interface set,,0
+0,https://github.com/umbiliko/um-lo-md.git,Logistics Master Data,,0
+0,https://github.com/OtsileMokgethi/companywebsite.git,Oats Logistics Company,,0
+0,https://github.com/vannvan/logistics-management-api.git,Logistics Service Platform-Api,,0
+0,https://github.com/mayaa2005/logistics_platform.git,Logistics forwarder platform,,0
+0,https://github.com/idktech/petko.git,logistics for a firend,,0
+0,https://github.com/ma-s-ltpd/ILS.git,Integrated Logistics Support,,0
+0,https://github.com/sahilkumar129/LogisticStudy.git,Logistics Case Study Project,,0
+0,https://github.com/idktech/petko.git,logistics for a firend,,0
+0,https://github.com/mayaa2005/logistics_platform.git,Logistics forwarder platform,,0
+0,https://github.com/mapindu/logilink_transporter_driver_api.git,Transport and Logistics App,,0
+0,https://github.com/ersatama/spark.git,Spark Logistics new website,,0
+0,https://github.com/MBTA-Procurement-Analysts/Logistics-Warehouse.git,Logistics-Warehouse-Code-Doc,,0
+0,https://github.com/TheMightySpud/TMSLogistics.git,Logistics Mod for Satisfactory,,0
+0,https://github.com/jappsinc/fred_mac_logistics_live.git,Fred mac global logistics,,0
+0,https://github.com/ratkiller-sys/topaz-maker.git,C# Programming logistics,,0
+0,https://github.com/ahmedkhitaby/LOGISTICS-CARGO.git,LOGISTICS CARGO shipping company,,0
+0,https://github.com/dKargo/dkargo-explorer.git,dKargo logistics explorer,,0
+0,https://github.com/edwincktsoi/Credit-Risk-Modelling.git,Logistics VS Random Forest,,0
+0,https://github.com/postoor/HCT-Logistics-PHP-library.git,HCT Logistics PHP library,,0
+0,https://github.com/AdolfFosfor/logistics.git,5Q Logistics Frontend,,0
+0,https://github.com/Albert-Augustine/Lesints-Logistics.git,chnge in Lesaints Logistics,,0
+0,https://github.com/iaminh/thanhcongfoods.github.io.git,Logistics company business website,,0
+0,https://github.com/VAIPfoundation/logis2ch.git,2 channel for logistics,,0
+0,https://github.com/kidussolo/LtLognew.git,logistics with notification added,,0
+0,https://github.com/harborgreen/gateway.git,site for gateway logistics,,0
+0,https://github.com/ruthvik947/travelcraft.git,Human Logistics 2.0,,0
+0,https://github.com/d4dl/oRedox.git,oRedox Logistics Engine,,0
+0,https://github.com/plamelas/eloga.git,electronic logistics automation,,0
+0,https://github.com/kumaranne/PuppetAuto.git,Trying to workout logistics,,0
+0,https://github.com/gauravsaini03-zz/onmyway.git,Logistics app using sailsjs,,0
+0,https://github.com/sh4n3d4v15/CarrierVanilla.git,Mobile Logistics Application,,0
+0,https://github.com/ljr1981/logistics.git,General Logistics Library,,0
+0,https://github.com/zhangwen1987/novoqr.git,Novo Logistics Quick Response,,0
+0,https://github.com/prasoon-abhishek/RLogistics.git,Reverse Logistics Code,,0
+0,https://github.com/shahmir811/stl.git,Shipment Trading Logistics,,0
+0,https://github.com/wonsukkim/wonsukkim.git,About Logistics & Data Analysis,,0
+0,https://github.com/WallaceYong/SpecialLogisticsSystem.git,This is Logistics System,,0
+0,https://github.com/ersatama/spark.git,Spark Logistics new website,,0
+0,https://github.com/MBTA-Procurement-Analysts/Logistics-Warehouse.git,Logistics-Warehouse-Code-Doc,,0
+0,https://github.com/jappsinc/fred_mac_logistics_live.git,Fred mac global logistics,,0
+0,https://github.com/edwincktsoi/Credit-Risk-Modelling.git,Logistics VS Random Forest,,0
+0,https://github.com/AdolfFosfor/logistics.git,5Q Logistics Frontend,,0
+0,https://github.com/dKargo/dkargo-explorer.git,dKargo logistics explorer,,0
+0,https://github.com/postoor/HCT-Logistics-PHP-library.git,HCT Logistics PHP library,,0
+0,https://github.com/ahmedkhitaby/LOGISTICS-CARGO.git,LOGISTICS CARGO shipping company,,0
+0,https://github.com/Albert-Augustine/Lesints-Logistics.git,chnge in Lesaints Logistics,,0
+0,https://github.com/iaminh/thanhcongfoods.github.io.git,Logistics company business website,,0
+0,https://github.com/VAIPfoundation/logis2ch.git,2 channel for logistics,,0
+0,https://github.com/kidussolo/LtLognew.git,logistics with notification added,,0
+0,https://github.com/mymachine8/ccity.git,Logistics demo project,,0
+0,https://github.com/xingdawang/yuande.git,Yuande International Logistics,,0
+0,https://github.com/husainahmad/wings.git,Wings Global Logistics,,0
+0,https://github.com/clamitgupta/VikaLogistics.git,Vika logistics company,,0
+0,https://github.com/fjs138/Beer-Transport.git,AIMMS Shipping Logistics Optimization,,0
+0,https://github.com/jgangeles/sortlogistics.git,ERP for Sorted Logistics,,0
+0,https://github.com/Codevopers/hongtah.git,Hong Tah Logistics Website,,0
+0,https://github.com/judecabodil22/Integration.git,Integration = Logistics + Financials,,0
+0,https://github.com/RahimBanglainc/BMS-Logistics-Rental-Service.git,BMS Logistics & Rental Service,,0
+0,https://github.com/shinebal91/seathunder.git,Cargo Logistics System,,0
+0,https://github.com/domelche/RouteStat.git,"Algoritms, 2D Geometry, Logistics",,0
+0,https://github.com/captain-zsa/logistics-faq.git,ZZ-logistics FAQ,,0
+0,https://github.com/jkachins/Nocturne_Logistics.git,Logistics for Nocturne,,0
+0,https://github.com/LawrenceHlapa/regression_team_2.git,Sendy Logistics Zindi Competition,,0
+0,https://github.com/The-Chadwick/SpaceRace.git,Space Logistics RTS,,0
+0,https://github.com/dekonunes/logistic-system.git,simplified logistics system,,0
+0,https://github.com/16bcon540/LogisticsPet.git,Logistics for pet,,0
+0,https://github.com/Aufar12/LeadBookRecruitment.git,MSIA Logistics Web Scraping,,0
+0,https://github.com/rtatu/loft_android.git,Lofty Logistics PO App,,0
+0,https://github.com/ChristoGH/logistics.git,Logistics work for Entelect,,0
+0,https://github.com/jmcgilvery/MakeNewEvents.git,Event RSVP/Logistics,,0
+0,https://github.com/jiao1107/reimagined-funicular.git,delivery&logistics project,,0
+0,https://github.com/Donchi1/DonnyExpress.git,Cargo and logistics ,,0
+0,https://github.com/kimsiwon42/testing-file-siwon.git,Logistics data analysis,,0
+0,https://github.com/SULIU456/Testing-file-SULIU.git,logistics analysis data,,0
+0,https://github.com/UW-Madison-Biochemistry/blt2.git,Biochemistry Logistics Tool 2,,0
+0,https://github.com/powerful999/powerful.git,power of logistics,,0
+0,https://github.com/ncharbonneau/cargo-planning-optimizer.git,Cargo logistics optimizer,,0
+0,https://github.com/wardcj1/inventory-manager.git,"Manage inventory, manage logistics",,0
+0,https://github.com/allanoguis/Laravel-ProjectArns.git,Inventory and logistics system,,0
+0,https://github.com/gitstud/JavierProject.git,Python Logistics Application,,0
+0,https://github.com/NguyenVV/Noob-software.git,Rapid Logistics Solution,,0
+0,https://github.com/Zinenda/ICLM.git,Imperial Crown Logistics Mozambique,,0
+0,https://github.com/dbarrena/TerminalTRAK.git,Aplicación Gramosa Logistics,,0
+0,https://github.com/VidgarVii/tlm.git,Transport Logistics Management,,0
+0,https://github.com/LogMarine/USMC-Redonkulator.git,Logistics Planning Tool,,0
+0,https://github.com/vannvan/vue-logistics-management.git,Logistics Service Platform,,0
+0,https://github.com/Sebsterio/rolewicz.git,Logistics company brochure website,,0
+0,https://github.com/wakemank/LogisticsAnalyst.git,Logistics Analyst Resources,,0
+0,https://github.com/KARTON237/karton23.github.io.git,Last Mile Logistics Company ,,0
+0,https://github.com/Achilles45/logisticssolutions.git,Logistics website for Kingsley,,0
+0,https://github.com/ViliusZur/laigonas.git,A logistics website,,0
+0,https://github.com/arwin-gadgethunter/logistics.git,this is GH logistics,,0
+0,https://github.com/HugoCSM/ANALISIS_02_SALAZAR_HUGO.git,Análisis de Synergy Logistics,,0
+0,https://github.com/akp04/kbm.git,KBM GLOBAL LOGISTICS ,,0
+0,https://github.com/SetZero/LogisticsBPMN.git,Logistics Company BPMN Example,"bpmn,logistics,camunda",0
+0,https://github.com/mehdishamohammai/Testing-file-Mehdi.git,Logistics data analytics,,0
+0,https://github.com/brahimsen/chinamar.git,chinamar trading & logistics,,0
+0,https://github.com/sbuhl/tembologistics.git,Tembo Logistics Web Site,,0
+0,https://github.com/ktsalik/motorline.git,Cars Store Logistics Software,,0
+0,https://github.com/holdonowgo/ingress-logistics.git,Manage logistics for Ingress,,0
+0,https://github.com/3peakslogistics/3peakslogistics.github.io.git,3 Peaks Logistics Website,,0
+0,https://github.com/insafzakariya/sambole-logistics-android.git,Sambole Logistics Android ,,0
+0,https://github.com/utsav48/Logistics-Regression.git,Logistics regression in R. ,,0
+0,https://github.com/yagu4790/cw-logistics.git,CW LOGISTICS BETA,,0
+0,https://github.com/norfolkgo/logistics.git,"Talk submissions, logistics, ","go,golang,norfolk,norfolkgo",0
+0,https://github.com/MatteoPuzzolante/MatteoPuzzolante.git,Logistics Engineering student ,,0
+0,https://github.com/rtatu/loft_android.git,Lofty Logistics PO App,,0
+0,https://github.com/ChristoGH/logistics.git,Logistics work for Entelect,,0
+0,https://github.com/jmcgilvery/MakeNewEvents.git,Event RSVP/Logistics,,0
+0,https://github.com/kimsiwon42/testing-file-siwon.git,Logistics data analysis,,0
+0,https://github.com/SULIU456/Testing-file-SULIU.git,logistics analysis data,,0
+0,https://github.com/jiao1107/reimagined-funicular.git,delivery&logistics project,,0
+0,https://github.com/Donchi1/DonnyExpress.git,Cargo and logistics ,,0
+0,https://github.com/powerful999/powerful.git,power of logistics,,0
+0,https://github.com/UW-Madison-Biochemistry/blt2.git,Biochemistry Logistics Tool 2,,0
+0,https://github.com/ncharbonneau/cargo-planning-optimizer.git,Cargo logistics optimizer,,0
+0,https://github.com/wardcj1/inventory-manager.git,"Manage inventory, manage logistics",,0
+0,https://github.com/NguyenVV/Noob-software.git,Rapid Logistics Solution,,0
+0,https://github.com/allanoguis/Laravel-ProjectArns.git,Inventory and logistics system,,0
+0,https://github.com/gitstud/JavierProject.git,Python Logistics Application,,0
+0,https://github.com/Zinenda/ICLM.git,Imperial Crown Logistics Mozambique,,0
+0,https://github.com/dbarrena/TerminalTRAK.git,Aplicación Gramosa Logistics,,0
+0,https://github.com/LogMarine/USMC-Redonkulator.git,Logistics Planning Tool,,0
+0,https://github.com/VidgarVii/tlm.git,Transport Logistics Management,,0
+0,https://github.com/vannvan/vue-logistics-management.git,Logistics Service Platform,,0
+0,https://github.com/Sebsterio/rolewicz.git,Logistics company brochure website,,0
+0,https://github.com/Achilles45/logisticssolutions.git,Logistics website for Kingsley,,0

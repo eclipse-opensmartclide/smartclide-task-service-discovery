@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/chartjs/Chart.js.git,Simple HTML5 Charts using the <canvas> tag,"javascript,chart,html5,canvas,graph,html5-charts,hacktoberfest",53612
+0,https://github.com/pixijs/pixi.js.git,"The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.","canvas2d,pixijs,javascript,webgl,glsl,canvas,rendering,pixi,game,renderer,rendering-engine,rendering-2d-graphics,data-visualization",32765
+0,https://github.com/videojs/video.js.git,Video.js - open source HTML5 & Flash video player,"video,player,flash,hls,javascript,videojs,html,html5-video,html5-audio,html5,dash",31332
+0,https://github.com/photonstorm/phaser.git,"Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.","phaser,phaserjs,javascript,html5-game-development,webgl,game-frameworks,game-development,gamedev,canvas,phaser-development,facebook-instant-games",29596
+0,https://github.com/Modernizr/Modernizr.git,Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.,"modernizr,javascript,css3-features,javascript-library,feature-detection,hacktoberfest",24919
+0,https://github.com/sampotts/plyr.git,"A simple HTML5, YouTube and Vimeo player","html5-video,youtube,vimeo,javascript,plyr",19765
+0,https://github.com/bilibili/flv.js.git,HTML5 FLV Player,,19676
+0,https://github.com/libgdx/libgdx.git,Desktop/Android/HTML5/iOS Java game development framework,"libgdx,java,game,cross-platform,android,ios,html5,windows,linux,macosx,2d,3d,framework",18427
+0,https://github.com/eligrey/FileSaver.js.git,An HTML5 saveAs() FileSaver implementation,,16825
+0,https://github.com/paperjs/paper.js.git,"The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey",,12421
+0,https://github.com/DIYgod/DPlayer.git,":lollipop: Wow, such a lovely HTML5 danmaku video player","dplayer,video,player,danmaku,hls,flv,dash,webtorrent",11211
+0,https://github.com/browserstate/history.js.git,"History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.","html5-history-api,html5-history,javascript,polyfill,hashchange",10740
+0,https://github.com/bradtraversy/vanillawebprojects.git,"Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",,10217
+0,https://github.com/aFarkas/html5shiv.git,This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.,,9811
+0,https://github.com/mozilla/BrowserQuest.git,A HTML5/JavaScript multiplayer game experiment,,8678
+0,https://github.com/OnsenUI/OnsenUI.git,"Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.","onsen-ui,cordova,react,angular,monaca,hybrid-apps,javascript,webcomponents,customelements,vue,material,android,ios,html,pwa",8342
+0,https://github.com/react-dropzone/react-dropzone.git,Simple HTML5 drag-drop zone with React.js.,"react,drag-and-drop,file,file-upload",8136
+0,https://github.com/CreateJS/EaselJS.git,"The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.",,7800
+0,https://github.com/mediaelement/mediaelement.git,"HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.","html5-audio,html5-video,hls,video,streaming,html5,flash,dash,mp4,mp3,html5-video-player",7623
+0,https://github.com/tsayen/dom-to-image.git,Generates an image from a DOM node using HTML5 canvas,"canvas,html,dom,render,image,raster,vector,javascript,css,svg",7316
+0,https://github.com/szimek/signature_pad.git,HTML5 canvas based smooth signature drawing,"signature,signature-pad,canvas,javascript,drawing",6997
+0,https://github.com/sbstjn/timesheet.js.git,JavaScript library for HTML5 & CSS3 time sheets,"timesheet,javascript,library,chart,visualization,css,html,charting-library",6844
+0,https://github.com/tiff/wysihtml5.git,Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.,,6575
+0,https://github.com/blasten/turn.js.git,The page flip effect for HTML5,,6462
+0,https://github.com/zserge/lorca.git,Build cross-platform modern desktop apps in Go + HTML5,,6331
+0,https://github.com/konvajs/konva.git,Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.,"konva,javascript,shape,node-canvas,canvas,animation,drag-and-drop,graphics",6176
+0,https://github.com/librespeed/speedtest.git,"Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more","html5-speedtest,speedtest,web-worker,xhr,internet-speed,internet-speed-checker,php,librespeed,hacktoberfest",6094
+0,https://github.com/liftoff/GateOne.git,Gate One is an HTML5-powered terminal emulator and SSH client,,5977
+0,https://github.com/hiloteam/Hilo.git,A Cross-end HTML5 Game development solution developed by Alibaba Group,"canvas,webgl,game,hilo",5643
+0,https://github.com/DIYgod/APlayer.git,":lollipop: Wow, such a beautiful HTML5 music player","aplayer,music,player,html,html5",5552
+0,https://github.com/pa7/heatmap.js.git,🔥 JavaScript Library for HTML5 canvas based heatmaps,"heatmaps,data-visualization,heat-maps,dataviz,leaflet,google-maps,leaflet-plugins,openlayers,angularjs,canvas,density-visualization,heatmap,javascript,visualization,interactive",5522
+0,https://github.com/google/gumbo-parser.git,An HTML5 parsing library in pure C99,,4889
+0,https://github.com/fecshop/yii2_fecshop.git,"yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等","yii2-fecshop,yii2,fecshop,shop,cart,yii,ecommerce,shopping,vue,html5,php,b2c,fecmall",4701
+0,https://github.com/scottschiller/SoundManager2.git,"A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.",,4684
+0,https://github.com/remy/html5demos.git,Collection of hacks and demos showing capability of HTML5 apps,,4654
+0,https://github.com/jplayer/jPlayer.git,jPlayer : HTML5 Audio & Video for jQuery,,4571
+0,https://github.com/23/resumable.js.git,"A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.",,4309
+0,https://github.com/neilj/Squire.git,HTML5 rich text editor. Try the demo integration at,,4279
+0,https://github.com/nextapps-de/winbox.git,"WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!","window,windowmanager,frame,popup,desktop,windows,box,desktop-app,desktop-widget,window-manager,winbox",4112
+0,https://github.com/rishabhp/bideo.js.git,Fullscreen HTML5 Background Video for the Web.,,4091
+0,https://github.com/mathiasbynens/jquery-placeholder.git,A jQuery plugin that enables HTML5 placeholder behavior for browsers that aren’t trying hard enough yet,,4073
+0,https://github.com/bytedance/xgplayer.git,A HTML5 video player with a parser that saves traffic,"mp4,mp4box,fmp4,hls-player,flv-parser,dash,video-player,hls,flv,video,player,videoplayer,html5-video,html5-video-player",4027
+0,https://github.com/CreateJS/SoundJS.git,"A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.",,4017
+0,https://github.com/samyk/evercookie.git,"Produces persistent, respawning ""super"" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they\'ve removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.",,4009
+0,https://github.com/bebraw/jswiki.git,JavaScript wiki. Focuses mainly on JS/HTML5/WebGL related tech.,,3928
+0,https://github.com/ericdrowell/KineticJS.git,KineticJS is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.,,3897
+0,https://github.com/sarabander/sicp.git,HTML5/EPUB3 version of SICP,,3824
+0,https://github.com/brianchirls/Seriously.js.git,"A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL",,3760
+0,https://github.com/AngleSharp/AngleSharp.git,":angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.","anglesharp,dom,c-sharp,html,parser,library,angle-bracket,linq,hacktoberfest",3726
+0,https://github.com/serversideup/amplitudejs.git,"AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.","javascript,html5-audio,mit-license,web-audio,web-audio-library,html5",3681
+0,https://github.com/pixelsign/html5-device-mockups.git,"HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.",,3567
+0,https://github.com/appjs/appjs.git,(Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS,,3456
+0,https://github.com/meltingice/CamanJS.git,Javascript HTML5 (Ca)nvas (Man)ipulation,,3400
+0,https://github.com/tradingview/lightweight-charts.git,Financial lightweight charts built with HTML5 canvas,"financial-charting-library,charting-library,html5-charts,canvas,typescript,charting,charts",3372
+0,https://github.com/gustavoguanabara/html-css.git,Curso de HTML5 e CSS3,"curso,gratis,cursoemvideo,gustavoguanabara,html5,css3",3292
+0,https://github.com/turbulenz/turbulenz_engine.git,"Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.",,3150
+0,https://github.com/JoshuaKGoldberg/Old-Deleted-FullScreenMario.git,An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.,,3024
+0,https://github.com/chaplinjs/chaplin.git,HTML5 application architecture using Backbone.js,,2891
+0,https://github.com/AlloyTeam/AlloyImage.git,基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.,,2841
+0,https://github.com/flowjs/flow.js.git,"A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.",,2772
+0,https://github.com/jdan/isomer.git,Simple isometric graphics library for HTML5 canvas,"isometric-graphics,canvas",2745
+0,https://github.com/gimite/web-socket-js.git,HTML5 Web Socket implementation powered by Flash,,2711
+0,https://github.com/huytd/agar.io-clone.git,Agar.io clone written with Socket.IO and HTML5 canvas,,2684
+0,https://github.com/kimchi-project/kimchi.git,An HTML5 management interface for KVM guests,"libvirt,kvm,linux,web-application",2669
+0,https://github.com/inikulin/parse5.git,HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.,"html-parsing,html,html5,serialization,serializer,parser,whatwg",2651
+0,https://github.com/chromelyapps/Chromely.git,"Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS","cefsharp,cefglue,c-sharp,html5,chromium,cef,angular,desktop,react,vue,vuejs,cross-platform,browser,netcore2,winapi,dotnet,dotnetcore,electron,electron-vue,blazor",2567
+0,https://github.com/schmich/instascan.git,HTML5 QR code scanner using your webcam,"html5,qr-code,qrcode,quick-response,webcam,video,camera,javascript,zxing,emscripten,browser",2522
+0,https://github.com/cure53/H5SC.git,HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors,,2521
+0,https://github.com/xiangyuecn/Recorder.git,html5 js 录音 mp3 wav ogg webm amr 格式，支持pc和Android、ios部分浏览器、和Hybrid App（提供Android IOS App源码），微信也是支持的，提供H5版语音通话聊天示例 和DTMF编解码,"recorder,record,javascript,html5,h5,luyin,mp3,wav,amr,ogg,webm,webrtc,audio,recording,sound-record,dtmf",2470
+0,https://github.com/intel/appframework.git,The definitive HTML5 mobile javascript framework,,2461
+0,https://github.com/igrigorik/videospeed.git,HTML5 video speed controller (for Google Chrome),,2450
+0,https://github.com/easysoft/zui.git,ZUI is an HTML5 front UI framework.,,2429
+0,https://github.com/1000hz/bootstrap-validator.git,A user-friendly HTML5 form validation jQuery plugin for Bootstrap 3,,2409
+0,https://github.com/jagenjo/litegraph.js.git,"A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.","graph,modular,javascript,visual-programming,nodes,workflow,blueprints,nodejs,node-graph,webglstudio,visual,editor,graphs,canvas2d",2403
+0,https://github.com/paypal/accessible-html5-video-player.git,Accessible HTML5 Video Player,"html5-video-player,javascript,video,paypal,accessibility",2361
+0,https://github.com/telerik/kendo-ui-core.git,"An HTML5, jQuery-based widget library for building modern web apps.","jquery,widgets,kendo-ui,telerik,javascript",2346
+0,https://github.com/jhuckaby/webcamjs.git,HTML5 Webcam Image Capture Library with Flash Fallback,"webcamjs,camera,html5-getusermedia,actionscript,data-uri",2304
+0,https://github.com/murtaugh/HTML5-Reset.git,A simple set of best practices to get HTML5 projects off on the right foot.,,2300
+0,https://github.com/drichard/mindmaps.git,"An open source, offline capable, mind mapping application leveraging HTML5 technologies","mindmap,javascript,html5",2211
+0,https://github.com/nosir/obelisk.js.git,Build pixel isometric graphics with HTML5 canvas,"pixel-art,pixel,isometric,canvas",2185
+0,https://github.com/marceljuenemann/angular-drag-and-drop-lists.git,Angular directives for sorting nested lists using the HTML5 Drag & Drop API,,2168
+0,https://github.com/mozilla/popcorn-js.git,The HTML5 Media Framework. (Unmaintained. See https://github.com/menismu/popcorn-js for activity),,2156
+0,https://github.com/andreruffert/rangeslider.js.git,🎚 HTML5 input range slider element polyfill,"rangeslider,ui,range-slider,polyfill,jquery-plugin,javascript,jquery,sliders",2136
+0,https://github.com/video-react/video-react.git,A web video player built for the HTML5 world using React library.,"web-video-player,react-components,react-component,video-player,react-video,react-video-player",2129
+0,https://github.com/mozilla-b2g/gaia.git,"Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see",,2092
+0,https://github.com/storesafe/cordova-sqlite-storage.git,"A Cordova/PhoneGap plugin to open and use sqlite databases on Android, iOS and Windows with HTML5/Web SQL API",,2074
+0,https://github.com/shakiba/stage.js.git,2D HTML5 rendering and layout engine for game development,"javascript,html5,html5-game-development,game,game-2d",2065
+0,https://github.com/kolber/audiojs.git,A cross-browser javascript wrapper for the html5 audio tag,,2041
+0,https://github.com/adamzap/landslide.git,"Generate HTML5 slideshows from markdown, ReST, or textile",,2006
+0,https://github.com/cztomczak/phpdesktop.git,"Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite","chrome,chromium,php,php-compiler,php-framework,php-desktop,php-desktop-applications,phpdesktop",1981
+0,https://github.com/sapo/Ink.git,An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping,,1916
+0,https://github.com/NetDimension/NanUI.git,NanUI is an open source .NET project for .NET / .NET Core developers who want to use front-end technologies such as HTML5 / CSS3 to build user interfaces for Windows Form applications.,"cef,winforms-library,dotnet,dotnet-core,nanui,winforms-application,cefglue,formium,css3,html5",1887
+0,https://github.com/flowplayer/flowplayer.git,The HTML5 video player for the web,,1882
+0,https://github.com/dntzhang/cax.git,HTML5 Canvas 2D Rendering Engine - 小程序、小游戏以及 Web 通用 Canvas 渲染引擎,"canvas,svg,render,web,weapp,wegame,miniprogram,minigame,2d",1814
+0,https://github.com/Streamedian/html5_rtsp_player.git,html5 player for rtsp stream,,1782
+0,https://github.com/Hextris/hextris.git,Fast paced HTML5 puzzle game inspired by Tetris!,,1750
+0,https://github.com/walkor/workerman-todpole.git,"HTML5+WebSocket+PHP(Workerman) , rumpetroll server writen using php","workerman,websocket,realtime-chat,realtime-games",1721
+0,https://github.com/dushixiang/next-terminal.git,Next Terminal是使用Golang和React开发的一款HTML5的远程桌面网关，具有小巧、易安装、易使用、资源占用小的特点，支持RDP、SSH、VNC和Telnet协议的连接和管理。,"go,golang,react,antd,guacamole,antd-design,rdp,vnc,ssh,docker",1706
+0,https://github.com/diegocard/awesome-html5.git,:memo: A curated list of awesome HTML5 resources,"awesome-list,awesome,list",1695
+0,https://github.com/Tinywan/html5-dash-hls-rtmp.git,:sunflower: HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权,"rtmp,videojs,hls,m3u8,mediaelement,html5,dash,player,html5-video,webrtc",1683
+0,https://github.com/farhadi/html5sortable.git,Lightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API.,,1672
+0,https://github.com/photonstorm/phaser-examples.git,Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework.,"phaser,html5-game,canvas,webgl,particles,physics,javascript",1660
+0,https://github.com/be-fe/iSlider.git,"Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App",,1658
+0,https://github.com/rstaib/jquery-steps.git,A powerful jQuery wizard plugin that supports accessibility and HTML5.,,1656
+0,https://github.com/there4/markdown-resume.git,"Generate a responsive CSS3 and HTML5 resume with Markdown, with optional PDF output.",,1629
+0,https://github.com/phoboslab/Impact.git,HTML5 Game Engine,,1622
+0,https://github.com/vime-js/vime.git,"Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...","youtube,dailymotion,vimeo,html5,media,vime,video,player,audio,hls,dash,javascript,embed,web-components,stenciljs,react,angular,vue,svelte",1599
+0,https://github.com/HumbleSoftware/envisionjs.git,Dynamic HTML5 visualization,,1566
+0,https://github.com/webRTC-io/webRTC.io.git,An abstraction layer for webRTC. Aim is to simplify the HTML5 web standard webRTC in a similar manner to socket.io w/ websockets. Highly experimental technology,,1559
+0,https://github.com/freeciv/freeciv-web.git,"Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.","webgl,javascript,freeciv,html5,canvas,blender",1556
+0,https://github.com/justspamjustin/junior.git,A front-end framework for building html5 mobile apps with a native look and feel.,,1555
+0,https://github.com/Simbul/baker.git,The HTML5 ebook framework to publish interactive books & magazines on iPad & iPhone using simply open web standards ,,1554
+0,https://github.com/toddmotto/fireshell.git,"Fiercely quick front-end boilerplate and workflows, HTML5, Grunt, Sass.",,1549
+0,https://github.com/vthibault/roBrowser.git,"roBrowser is a free and open-source implementation of the Ragnarok Online MMORPG for web browsers written from scratch using the latest web standards (WebGL, HTML5, File API, Javascript, Threads, ...).",,1510
+0,https://github.com/montagejs/montage.git,"Montage is an elegant, open source HTML5 framework maintained by Montage Studio that rivals native SDKs, yet is easier to learn. It offers modular components, two-way data binding, and much more. Join us on irc.freenode.net#montage. Sign up for our beta to build Montage applications in the cloud.",,1508
+0,https://github.com/minirefresh/minirefresh.git,优雅的H5 下拉刷新。零依赖，高性能，多主题，易拓展。(A Graceful HTML5 Drop-Down-Refresh Plugin. ),"pulltorefresh,pull-to-refresh,minirefresh,pull-up-refresh,pull-up-loading,pull-down-refresh,pull-to-load,css3,js-framework,themes",1502
+0,https://github.com/videogular/videogular.git,The HTML5 video player for AngularJS,,1497
+0,https://github.com/jerrykuku/luci-theme-argon.git,"Argon is a clean HTML5 theme for OpenWrt LuCI. Users may setup their own favorite logins, including beautiful pics and customized mp4 videos.",,1483
+0,https://github.com/superpowers/superpowers-core.git,:octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects,,1478
+0,https://github.com/ebidel/filer.js.git,"A wrapper library for the HTML5 Filesystem API what reuses UNIX commands (cp, mv, ls) for its API.",,1478
+0,https://github.com/verekia/initializr.git,HTML5 Boilerplate Custom Builder running on Google App Engine (Java),,1473
+0,https://github.com/ankitrohatgi/WebPlotDigitizer.git,HTML5 based online tool to extract numerical data from plot images.,"javascript,webplotdigitizer,html,data-mining,visualization,reverse-engineering",1435
+0,https://github.com/DevExpress/DevExtreme.git,HTML5 JavaScript Component Suite for Responsive Web Development,"devexpress,html,javascript,responsive,widgets,datagrid,charting-library,chart,charts,scheduler,pivotgrid,ui-components,gantt,filemanager,treelist",1414
+0,https://github.com/digitalfruit/limejs.git,HTML5 game framework for web and iOS,,1412
+0,https://github.com/Mikhus/canvas-gauges.git,HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.,"javascript,gauge,html5-canvas,radial-gauge,linear-gauge,canvas-gauge",1410
+0,https://github.com/cykod/Quintus.git,HTML5 Game Engine,,1400
+0,https://github.com/lukasoppermann/html5sortable.git,VanillaJS sortable lists and grids using native HTML5 drag and drop API.,"vanillajs,sortable-lists,drag,javascript,vanilla-javascript,drag-and-drop,sortables",1398
+0,https://github.com/flowjs/ng-flow.git,Flow.js html5 file upload extension on angular.js framework,,1396
+0,https://github.com/FangWW/Document.git,📘  各种编程学习资料 (Android C C++ DataBase HTML5 JavaWeb ios python uml 人工智能 操作系统 数学 数据结构 程序员需要的技术 程序设计 编译原理 计算机组成与结构 计算机网络 设计模式 软件工程 面试经验),,1373
+0,https://github.com/iandevlin/html5bones.git,The HTML5 template that goes back to basics,,1322
+0,https://github.com/marcolago/flowtime.js.git,Flowtime.js HTML5/CSS3/JS Websites and Presentation Framework,,1315
+0,https://github.com/servo/html5ever.git,High-performance browser-grade HTML5 parser,,1276
+0,https://github.com/AlloyTeam/curvejs.git,Made curve a dancer in HTML5 canvas - 魔幻线条,"curvejs,canvas,bezier,animation,curve,dance,dancer",1255
+0,https://github.com/jackzhang1204/sewise-player.git,HTML5 Video Player,,1242
+0,https://github.com/cowboy/jquery-hashchange.git,This jQuery plugin enables very basic bookmarkable #hash history via a cross-browser HTML5 window.onhashchange event.,,1239
+0,https://github.com/davebalmer/jo.git,"Jo (0.5.0) is a thin (~16K) candy shell for making HTML5 apps. Jo works with: PhoneGap, Chrome, Safari, Opera, FireFox, iOS, Android, BlackBerry 10, Tizen, & Windows Phone 8+. Features include skinnable UI widgets, a clean event model and a light data layer.",,1219
+0,https://github.com/BKcore/HexGL.git,"Source code of HexGL, a futuristic HTML5 racing game",,1209
+0,https://github.com/gamelab/kiwi.js.git,Kiwi.js is a blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.,,1207
+0,https://github.com/maxogden/voxel-engine.git,3D HTML5 voxel game engine,,1206
+0,https://github.com/jaysalvat/buzz.git,Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade silently on non-modern browsers.,,1205
+0,https://github.com/photonstorm/phaser-ce.git,"Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.","phaser,canvas,webgl,html5-game-development,javascript",1193
+0,https://github.com/matvp91/indigo-player.git,"Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.","video,video-player,html5-video,mpeg-dash,dash,hls,shaka-player,hlsjs,drm",1187
+0,https://github.com/code4charity/YouTube-Extension.git,"YouTube Extension 🎧80+Features🧰Please⭐document, code or donate📌Tidy📌Longest-standing(2012)(Users>350,000)⚙️⋮⏯️🎞️☕🎛️🔴🎬🔊🎨🧩🧪📈Player: Repeat Screenshot Rotate; Hide related video distraction. Always expand video Description. Playback speed. Video Quality bandwidth H.264 electricity. Player Size Full Window. Themes Customization. Statistics. Playlist Reverse YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube Youtube enhancer YouTube app YouTube video YouTube YouTube YouTube api v3 YouTube playback YouTube player VP8 VP9 AV1 vidIQ tubebuddy download adblocker adblock ads sponsorblock addon youtube music ⭐ youtube premium css css4 html5 ytdl youtube-dl invidious iridium ParticleCore youtube+ youtube++ youtube-plus maia-yt youtube nonstop youtube control center vlogger vlog h264ify h264 m.youtube.com music.youtube.com studio.youtube youtube mobile youtube studio ⭐ kids Vanced gaming.youtube.com gaming youtubecenter freetube lite-youtube-embed newpipe youtube-dl-gui  mps-youtube nuclear pytube awesome youtubers youtube downloader 8k 4k 60fps 30fps youtubeexplode vidgear k-lite tubebuddy adobe apple ios iphone design simplify ffmpeg premiere designer annoyance  youtube upload ","js,extension,firefox-addon,chrome-extension,youtube,youtube-api,html5-video,playback,playback-speed,youtube-player,distraction-free,youtube-playlist,youtube-channel,subtitles,video,css,player,youtube-video,streaming,webextension",1171
+0,https://github.com/gitana/alpaca.git,"Alpaca provides the easiest way to generate interactive HTML5 forms for web and mobile applications. It uses JSON Schema and simple Handlebars templates to generate great looking, dynamic user interfaces on top of Twitter Bootstrap, jQuery UI, jQuery Mobile and HTML5.",,1158
+0,https://github.com/iamkun/tower_game.git,💒 盖楼游戏 html5 canvas tower building game 🏢🏬🏦🏯🏰,"canvas,html5,javascript,game",1132
+0,https://github.com/thinkpixellab/PxLoader.git,PxLoader is a simple JavasScript library for creating preloaders and resource downloaders for HTML5 apps.,,1108
+0,https://github.com/murtaugh/HTML5-Reset-WordPress-Theme.git,A style-free WordPress theme to get you started with proper HTML5 semantics and structures.,,1105
+0,https://github.com/BMSVieira/moovie.js.git,Movie focused HTML5 Player,"vanilla-javascript,vanillajs,player-video,player,player-controls,html5,moovie,captions,webtorrent,adjust-captions,dashjs",1078
+0,https://github.com/cedrozor/myrtille.git,A native HTML4 / HTML5 Remote Desktop Protocol and SSH client,"rdp-gateway,remote-desktop,browser,ssh,rdp,ssh-gateway,html,web",1075
+0,https://github.com/stefanerickson/covervid.git,Make your HTML5 video behave like a background cover image with this lightweight Javascript plugin / jQuery extension,,1068
+0,https://github.com/eligrey/Blob.js.git,An HTML5 Blob implementation,,1065
+0,https://github.com/bbc/VideoContext.git,An experimental HTML5 & WebGL video composition and rendering API.,"video,html5-video,javascript,graph,renderer,html5",1056
+0,https://github.com/h5ds/h5ds.git,H5DS (HTML5 Design software) 这是一款基于WEB的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀的H5制作、建站工具，示范网站：h5ds.com ,,1053
+0,https://github.com/kenshin54/popline.git,Popline is an HTML5 Rich-Text-Editor Toolbar,,1044
+0,https://github.com/wayou/HTML5_Audio_Visualizer.git,An audio spectrum visualizer built with HTML5 Audio API,"html5-audio-api,html5-audio-visualizer,audio,spectrum-analyzer,visualizer",1042
+0,https://github.com/draeton/stitches.git,HTML5 Sprite Sheet Generator,,1034
+0,https://github.com/red42/HTML5_Genetic_Cars.git,A genetic algorithm car evolver in HTML5 canvas.,,1033
+0,https://github.com/devote/HTML5-History-API.git,"HTML5 History API expansion for browsers not supporting pushState, replaceState",,1032
+0,https://github.com/h5bp/ant-build-script.git,"Ant build script intended for use with HTML5 Boilerplate. You may find something useful here, but this project is archived. ",,1014
+0,https://github.com/cprcrack/VideoEnabledWebView.git,"{""Android's WebView and WebChromeClient class extensions that enable fully working HTML5 video support""}",,987
+0,https://github.com/raphamorim/awesome-canvas.git,"A curated list of awesome HTML5 Canvas with examples, related articles and posts.","html5-canvas,canvas-element,canvas2d,particles,javascript,draw-graphics,awesome-list,awesome,awesome-canvas",982
+0,https://github.com/jamesallardice/Placeholders.js.git,A JavaScript polyfill for the HTML5 placeholder attribute,,966
+0,https://github.com/AdaptiveConsulting/ReactiveTrader.git,"Sample reactive UIs in WPF and HTML5, using RxNet/RxJS and SignalR",,966
+0,https://github.com/BaiduMusic/muplayer.git,"An open source web audio player from Baidu Music, support HTML5 and Flash engine on different platforms(百度音乐播放内核)",,956
+0,https://github.com/erikolson186/zangodb.git,MongoDB-like interface for HTML5 IndexedDB,,944
+0,https://github.com/milohuang/reverie.git,"{""Reverie is a versatile HTML5 responsive WordPress framework based on ZURB's Foundation.""}",,942
+0,https://github.com/PeakTai/vue-html5-editor.git,An html5 wysiwyg editor for vue,"vue,vue-html5-editor,html5-wysiwyg-editor,wysiwyg",941
+0,https://github.com/WebPlatformTest/HTML5test.git,How well does your browser support HTML5?,,927
+0,https://github.com/excaliburjs/Excalibur.git,🎮 An easy to use 2D HTML5 game engine written in TypeScript,"excalibur,game-development,game-engine,gamedev,typescript,html5-canvas,game-framework,hacktoberfest,games",927
+0,https://github.com/yyx990803/HTML5-Clear-v2.git,HTML5 Clear version 2,,922
+0,https://github.com/maciejczyzewski/hyhyhy.git,A tool for creating nice looking HTML5 presentations. :trollface:,,920
+0,https://github.com/antimatter15/jsgif.git,Save a HTML5 Canvas to GIF and Animations. A port of as3gif GIFPlayer to JS,,920
+0,https://github.com/Masterminds/html5-php.git,An HTML5 parser and serializer for PHP.,"xml-namespaces,php,html5-parser,dom,domdocument,html5-php,html5-document,html5lib",919
+0,https://github.com/paulrouget/dzslides.git,DZSlides is a one-file HTML template to build slides in HTML5 and CSS3.,,909
+0,https://github.com/othree/html5.vim.git,HTML5 omnicomplete and syntax,"rdfa,microdata,vim,html,wai-aria,syntax,mathml,svg",903
+0,https://github.com/paulmillr/exoskeleton.git,Faster and leaner Backbone for your HTML5 apps,,889
+0,https://github.com/barmalei/zebkit.git,"JavaScript library that follows easy OOP concept, provides HTML5 Canvas based Rich UI and includes Java to JavaScript converter tool",,882
+0,https://github.com/feross/filldisk.com.git,:floppy_disk: Masterful trolling with HTML5 localStorage,,881
+0,https://github.com/themadcreator/seen.git,Render 3D scenes into SVG or HTML5 Canvas.,,865
+0,https://github.com/jabbany/ABPlayerHTML5.git,Video Player for danmaku comments. ABPlayer in HTML5. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器,"html,bilibili,acfun,player,video-player,danmaku-comments,javascript,danmu",863
+0,https://github.com/bp74/StageXL.git,A fast and universal 2D rendering engine for HTML5 and Dart.,,863
+0,https://github.com/Jinjiang/h5slides.git,A Slides App based on HTML5,,861
+0,https://github.com/Aerolab/blockrain.js.git,HTML5 Tetris Game for jQuery,,855
+0,https://github.com/ruby0x1/realtime-multiplayer-in-html5.git,"Read the full article: http://buildnewgames.com/real-time-multiplayer/ An example using node.js, socket.io and HTML5 Canvas to explain and demonstrate realtime multiplayer games in the browser.",,852
+0,https://github.com/frankpf/gridless-boilerplate.git,"Gridless is an awesome HTML5 and CSS3 boilerplate for making responsive, cross-browser websites with beautiful typography",,849
+0,https://github.com/ramnathv/slidify.git,Generate reproducible html5 slides from R markdown,,848
+0,https://github.com/mitallast/diablo-js.git,Isometric minimal-code style game at html5 canvas and javascript,,847
+0,https://github.com/brianpeiris/RiftSketch.git,An HTML5 live-coding environment based on WebVR,,847
+0,https://github.com/brunobar79/J-I-C.git,J I C is a Javascript Image Compressor using HTML5 Canvas & File API that allows you to compress your jpeg & png images before uploading to the server (100% client-side and no extra libraries required!),,841
+0,https://github.com/rendro/vintageJS.git,Add a retro/vintage effect to images using the HTML5 canvas element,"vintage,javascript,retro,canvas,image-processing,instagram",828
+0,https://github.com/subtleGradient/Appify-UI.git,Create the simplest possible Mac OS X apps. Uses HTML5 for the UI. Supports scripting with anything and everything,,828
+0,https://github.com/jawerty/Hyro.git,A real-time desktop HTML5 editor -- view your html while you code it.,,815
+0,https://github.com/BuckyMaler/global.git,HTML5 website template,,811
+0,https://github.com/dsward2/macSVG.git,macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤,"macos,svg,animation,swift,objective-c,scalable-vector-graphics,graphics,html5,macos-webkit-framework,webkit,xml,smil,ios,morphing,bezier,editor,path,mac,vector-graphics,web-developer",806
+0,https://github.com/esterTion/Youku-HTML5-Player.git,一个适配优酷的简单易用的HTML5播放器,,800
+0,https://github.com/monkeecreate/jquery.simpleWeather.git,"{""A simple jQuery plugin to display current weather data for any location and doesn't get in your way. Now supports HTML5 GeoLocation!""}",,790
+0,https://github.com/bemusic/bemuse.git,"⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.","javascript,rhythm-game,react,redux,pixi,html5,bmson,bms",789
+0,https://github.com/dwyl/the-book.git,":green_book: THE Book on Full-Stack Web Application Development covering User Experience (UX) Design/Tests, HTML5, Responsive + Functional CSS, Functional JavaScript, Mobile/Offline/Security First, Progressive Enhancement, Node.js, Hapi.js, Redux, React (Native), Elm, Elixir+Phoenix, Continuous Integration/Deployment, Testing (UX/TDD/BDD), Performance-Driven-Development and much more!",,786
+0,https://github.com/diveintomark/diveintohtml5.git,Dive Into HTML5 online book ,,784
+0,https://github.com/techpines/bone.io.git,Realtime HTML5 Framework,,777
+0,https://github.com/DoubangoTelecom/sipml5.git,"{""The world's first HTML5 SIP client (WebRTC)""}",,771
+0,https://github.com/qiciengine/qiciengine.git,A free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games. http://www.qiciengine.com,,764
+0,https://github.com/NOtherDev/whatwebcando.git,An overview of the device integration HTML5 APIs,"html5-apis,html5,webplatform,mobile-web",759
+0,https://github.com/mwaylabs/The-M-Project.git,"{""'The-M-Project' is a Mobile HTML5 Application Framework.""}",,751
+0,https://github.com/raphamorim/origami.js.git,Powerful and Lightweight Library to create using HTML5 Canvas,"canary,canvas,html5-canvas,origami,canvas-game,css,animation,animation-engine,javascript",751
+0,https://github.com/mimo84/bootstrap-maxlength.git,"This plugin integrates by default with Twitter bootstrap using badges to display the maximum lenght of the field where the user is inserting text. Uses the HTML5 attribute ""maxlength"" to work.","maxlength,javascript,bootstrap,badge,bootstrap-maxlength,html5-attribute,twitter-bootstrap",748
+0,https://github.com/aduros/flambe.git,"Rapidly cook up games for HTML5, Flash, Android, and iOS.",,741
+0,https://github.com/elclanrs/jq-idealforms.git,The ultimate framework for building and validating responsive HTML5 forms.,,739
+0,https://github.com/mumuy/pacman.git,Pacman based on HTML5. 基于HTML5的吃豆人游戏 - 经典游戏开发样例,"html5,pacman,html5-game,canvas,javascript,javascript-game",738
+0,https://github.com/scanlime/zenphoton.git,"The ""Zen photon garden"", an HTML5 raytracing art-toy.",,722
+0,https://github.com/yyx990803/HTML5-Clear.git,[DEPRECATED] A replica of the Clear iphone app in HTML5,,720
+0,https://github.com/bubkoo/html-to-image.git,✂️ Generates an image from a DOM node using HTML5 canvas and SVG.,"screenshot,canvas,svg,dataurl,image,dom,picture,javascript",718
+0,https://github.com/andrewbanchich/forty-jekyll-theme.git,"A Jekyll version of the ""Forty"" theme by HTML5 UP.","jekyll,theme,html,static-site,ruby-gem,jekyll-theme,static-site-generator",717
+0,https://github.com/adityaravishankar/command-and-conquer.git,Command & Conquer in HTML5/Javascript,,717
+0,https://github.com/smarr/latex-to-html5.git,Scripts for Latex to HTML5 conversion,,716
+0,https://github.com/mrmrs/mnml.git,Start a responsive html5 site with postcss and browser-sync,,710
+0,https://github.com/agragregra/optimizedhtml-start-template.git,"OptimizedHTML is all-inclusive, optimized for Google PageSpeed start HTML5 template with Bootstrap (grid only), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Imagemin, Vinyl-FTP (+Rsync) and Bower (libs path) support. The template contains a .htaccess file with caching rules for web server.",,710
+0,https://github.com/dwa012/html5-qrcode.git,A cross platform HTML5 QR code reader.,,707
+0,https://github.com/jgthms/html-reference.git,HTML Reference: a free guide to all HTML5 elements and attributes,"html,reference,jekyll-site",699
+0,https://github.com/isnowfy/pydown.git,An HTML5 presentation builder written by python,,698
+0,https://github.com/iSpring/WebGlobe.git,基于HTML5原生WebGL实现的轻量级Google Earth三维地图引擎,"webgl,map,globe,earth,html5,typescript,opensource,google-earth,google-map",691
+0,https://github.com/thread-pond/signature-pad.git,A jQuery plugin for assisting in the creation of an HTML5 canvas based signature pad. Records the drawn signature in JSON for later regeneration.,,685
+0,https://github.com/videogular/videogular2.git,The HTML5 video player for Angular 2,"html5-video-player,angular2,angular,angular-2,video-player,video,angular-components",684
+0,https://github.com/AurelioDeRosa/HTML5-API-demos.git,A repository where you can find information about many JavaScript and HTML5 APIs.,,684
+0,https://github.com/x3dom/x3dom.git,X3DOM. A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.,,683
+0,https://github.com/elclanrs/jq-idealforms-old.git,The ultimate framework for building and validating responsive HTML5 forms.,,680
+0,https://github.com/ekelokorpi/panda-engine.git,Panda Engine - HTML5 Game Engine,,670
+0,https://github.com/lamberta/html5-animation.git,Foundation HTML5 Animation with JavaScript example code and book exercises.,"html5,javascript,animation,canvas,book,game-development",668
+0,https://github.com/sporkd/compass-html5-boilerplate.git,Compass version of the Html5 Boilerplate project by Paul Irish,,663
+0,https://github.com/luis-almeida/filtrify.git,Beautiful advanced tag filtering with HTML5 and jQuery,,649
+0,https://github.com/nikhilk/scriptsharp.git,"Script# Project - a C# to JavaScript compiler, to power your HTML5 and Node.js web development.",,648
+0,https://github.com/jh3y/ep.git,enhance your HTML5 progress bars with minimal effort!,"progress-bar,progressbar,html5,html5-progress,html5-elements,js-helpers,css-helper",647
+0,https://github.com/vbence/stream-m.git,An HTML5-compatible live streaming server supporting the WebM and H.264 formats.,"broadcast,live-streaming,html-video",644
+0,https://github.com/NASAWorldWind/WebWorldWind.git,The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.,"javascript,sdk,nasa,worldwind,3d,geospatial,earth,webgl,terrain,imagery,html5,globe,browser",641
+0,https://github.com/zohararad/audio5js.git,The HTML5 Audio Compatibility Layer,,638
+0,https://github.com/arnoappenzeller/PiPifier.git,PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode,,635
+0,https://github.com/increpare/PuzzleScript.git,Open Source HTML5 Puzzle Game Engine,"puzzlescript,javascript,html5,game-engine,scripting-language",632
+0,https://github.com/surikov/webaudiofont.git,"Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and mobile browser. See live examples.","sound,drums,soundfont,midi,player,sampler,wavetable,music,synth,instrument,music-composition,music-player,synthesizer,audio,audiocontext,play-instruments,play-sounds,pitch,midi-player",627
+0,https://github.com/zencoder/html5-boilerplate-for-wordpress.git,"{""The HTML5 Boilerplate adapted into a WordPress template, including Bruce Lawson's HTML5 blog markup. ""}",,625
+0,https://github.com/daleharvey/pacman.git,HTML5 Pacman,,616
+0,https://github.com/canalplus/rx-player.git,DASH/Smooth HTML5 Video Player,"dash,hss,player,html5,mse,eme,video-player,video,video-streaming,live-streaming,streaming",614
+0,https://github.com/browserstate/ajaxify.git,Ajaxify your entire website instantly with this simple drop-in script using the HTML5 History API with History.js and jQuery ScrollTo.,,613
+0,https://github.com/caleb531/jcanvas.git,A jQuery plugin that makes the HTML5 canvas easy to work with.,"javascript,jquery,jquery-plugin,canvas,jcanvas,javascript-library",612
+0,https://github.com/Manjaro-WebDad/jde.git,"Linux desktop environment built with HTML5, CSS, JavaScript and Python.","desktop,linux-desktop,html,javascript,python,css3,manjaro,webdad,css,linux,html-desktop,linux-desktop-environment,desktop-environment,css-desktop,javascript-library,python-desktop,dbus,gtk",608
+0,https://github.com/onury/geolocator.git,"A utility for getting geo-location information via HTML5 and IP look-ups, geocoding, address look-ups, distance and durations, timezone information and more...","geo-location,address,geocode,timezone,distance,matrix,coordinates,html5,js",604
+0,https://github.com/cshum/scm-music-player.git,Seamless music for your website. HTML5 music player with continuous playback cross pages.,,602
+0,https://github.com/use-init/init.git,"INIT extends HTML5 Boilerplate, adds more structure for SCSS and JavaScripts files, includes build tasks and a whole lot more.",,602
+0,https://github.com/LeaVerou/multirange.git,A tiny polyfill for HTML5 multi-handle sliders,,601
+0,https://github.com/zhongmiao0706/NumberOne-MM.git,"Java SSM 商户管理系统 客户管理 库存管理 销售报表 项目源码 本商品卖的是源码，合适的地方直接拿来使用，不合适的根据自己的需求二次开发 系统介绍： 1.系统采用主流的 SSM 框架 jsp JSTL bootstrap html5 (PC浏览器使用) 2.springmvc +spring4.2.5+ mybaits3.3 SSM 普通java web（非maven） 数据库：mysql 3.开发工具：myeclipse eclipse idea 均可, 没有限制. 我这边myeclipse 2014 导出来的项目源码 购买理由： 1.正好符合需求的 [应急] 正好符合需求的可以直接使用，需求差异不大的，稍微二次开发后再使用2.高手大神买来干私活用 [节约成本] 自己接个私活做个系统，全盘自己开发费事费力。不如129块钱一步到位 4.新手买来学习用 [学习] 模仿代码做一遍增删改查，研究下功能模块，学习下编程思路，会进步很快，少走弯路 5.外行人买了凑热闹 [不建议] 要求会java，能搭建java开发运行环境，并且有java的开发经验，不会java的还是别凑热闹了 这个价格不包教不包指导不包解答，只包原始代码正常运行，二次开发造成的问题不帮解决 业务模块 主页： 记录总进货额、总销售额、总销售利润、30天内销售金额 统计总客户数、30天新增客户数 图表统计(折线图和柱状图)展示从当前月份开始前12个月销售情况 1. 客户资料：记录客户资料，备注客户信息，跟踪记录客户状况 2. 客户备注：客户资料附属选项 3. 客户级别：客户资料附属选项 4. 商品列表：维护商品数据，有富文本编辑器，有明细表上传商品图片 5. 商品类别：商品附属选项 6. 品牌管理：商品附属选项 7. 计量单位：商品附属选项 8. 商品库存：展现商品库存情况，库存小的排最前 9. 商品入库：录入商品入库数据，数量、单价、入库时间。计算某时间范围内的进货总金额 10. 商品出库：(出库即销售)录入商品出库数量、销售价格、销售出库时间。计算某时间范围内的销售总金额 11. 库存盘点：柱状图展示商品库存情况，以便及时补仓 12. 销售报表：列表展示商品销售情况，可根据销量和销售额排序，以便掌握哪个商品卖的好并调整销售方案 系统模块 1. 权限管理：点开二级菜单进入三级菜单显示 角色(基础权限)和按钮权限 角色(基础权限): 分角色组和角色,独立分配菜单权限和增删改查权限。 按钮权限: 给角色分配按钮权限。 2. 按钮管理：自定义按钮管理，维护按钮权限标识等 3. 菜单管理：N级别自定义菜单，自定义菜单图标，业务菜单和系统菜单分离，菜单状态显示隐藏（递归处理） 4. 数据字典：N级别，支持多级别分类。内设编号，排序等 5. 在线管理：websocket技术，实时检测在线用户列表，统计在线人数,可强制用户下线 同一用户只能在一个客户端登录 6. 日志管理：记录用户登录退出和一些重要操作记录 7. 系统用户：对各个基本的用户增删改查，单发、群发站内信邮件短信，导入导出excel表格，查看商户经营状况 8. 性能监控：监控整个系统的性能，SQL监控，SQL防火墙，URL监控，SPRING监控，SESSION监控等 9. 图片管理：对批量上传的图片统一管理 ，点击放大，可打开多个，自由切换，绚丽预览效果 10. 图片爬虫：输入某网址，爬出其图片显示在页面上，可以放大预览。可保存到服务器上，到图片管理里面 11. 站内信：收信箱和发信箱， websocket技术通讯技术做的及时收信提醒，可配置语音提示来信 12. 系统设置：修改系统名称，邮件服务器配置，短信账号设置，图片水印配置 13. 数据库备份：可备份单表、整库，支持本地和远程数据库备份 14. 备份定时器：quartz 2.2 强大的任务调度，多线程备份数据库，任务启动关闭异步操作 15. 数据库还原：历史备份记录，还原数据库 or 单表 ，统计备份时间和文件大小 16. SQL编辑器：强大的SQL编辑器，支持编辑语句复杂查询语句，生成动态报表，可导出excel 菜单权限：分配给每个角色不同的菜单权限, 每个角色看到的菜单不同，N级别菜单 按钮权限：独立分配不同的角色不同的功能权限，增删改查权限分配具体到不同的菜单，自定义按钮管理 支持多用户分权限管理后台, 权限具体到不同的菜单不同的按钮 技术点 1. 导出 导入 excel 文件 2. IO 流上传下载文件 3. 群发邮件，可以发html、纯文本格式，可以发给任意邮箱(实现批量发送广告邮件) 4. 群发or单独 发送短信，支持两种第三方短信商接口 5. spring aop 事务处理 6. MD5加密 SHA加密（登录密码用此加密）接口加密身份校验 7. 数据库连接池 阿里的 druid。Druid在监控、可扩展性、稳定性和性能方面都有明显的优势,支持并发 8.加入安全框架 shiro (登录授权)(session管理) 9.根据汉字 解析汉字的全拼(拼音)和首字母(导入excel到用户表，根据用户的汉字姓名生成拼音的用户名) 10.java Quartz2.2 任务调度 11.Base64传输图片 12.图片加水印(图片水印，文字水印） 13.批量异步上传图片，可预览，有进度条，支持拖拽上传(百度webuploader )。列表动态滑动放大展示。 14.ehcache 自定义二级缓存 ，选择缓存存放目录，处理并发，增加系统性能 15.uploadify 上传插件，单条、批量上传多线程，带进度条，异步，图片、视频, 其它文件格式均可上传 16.tab标签页面功能，标签自由切换，不重复操作数据库 17.百度富文本编辑器，可上传图片 18.网页爬虫技术，可根据网页地址爬取图片和网页标题等信息(爬取某商城图片保存本服务器) 19.java websocket 即时通讯技术，点对点，群聊，单聊 20.HTML5 + JAVAEE WebSocket 通信技术，WebSocket 验证用户登录，强制某用户下线 21.站内信语音提醒，js控制音频播放 22.调用摄像头拍照技术，图片裁剪技术",,600
+0,https://github.com/whoisandy/react-rangeslider.git,A lightweight responsive react range slider component.A fast & lightweight react component as a drop in replacement for HTML5 input range slider element.,,596
+0,https://github.com/samsha/graph.editor.git,HTML5拓扑图编辑器,,591
+0,https://github.com/timdream/wordcloud.git,HTML5 Word Cloud,,589
+0,https://github.com/aredridel/html5.git,Event-driven HTML5 Parser in Javascript,,589
+0,https://github.com/shixy/Jingle.git,"Jingle UI是一个基于html5、css3开发轻量级的移动webapp 框架，提供一些基本交互方式，常用的组件(scroll,actionsheet,sidemenu,toggle,push2refresh......)，帮助您更方便的开发移动应用。",,588
+0,https://github.com/ericelliott/h5Validate.git,"An HTML5 form validation plugin for jQuery. Works on all major browsers, both new and old. Implements inline, realtime validation best practices (based on surveys and usability studies). Developed for production use in e-commerce. Currently in production with millions of users.",,588
+0,https://github.com/Triang3l/WebQuake.git,HTML5/WebGL source port of Quake.,,569
+0,https://github.com/diy/intercom.js.git,UNMAINTAINED: A client-side cross-window message broadcast library built on top of the HTML5 localStorage API.,,568
+0,https://github.com/HosseinKarami/fastshell.git,"Fiercely quick front-end boilerplate and workflows, HTML5, Gulp, Sass","gulp,fastshell,workflow,javascript,boilerplate,html,gulpjs,browsersync,sass",562
+0,https://github.com/MoePlayer/cPlayer.git,A beautiful and clean WEB Music Player by HTML5.,"cplayer,lyrics,music",561
+0,https://github.com/gloomyson/SC_Js.git,"Classic RTS game using html5 canvas and javascript, only js codes, all copyrighted materials removed",,549
+0,https://github.com/borela/naomi.git,"Sublime Text enhanced syntax highlighting for JavaScript ES6/ES7/ES2015/ES2016/ES2017+, Babel, FlowType, React JSX, Styled Components, HTML5, SCSS3, PHP 7, phpDoc, PHPUnit, MQL4. Basic: Git config files.","syntax,sublime,es6,flowtype,html5,es2015,php7,babel,es2016,es7,webpack,reactjs,react,flow,sass,postcss,babel-sublime,styled-components,cssnext",546
+0,https://github.com/onedayitwillmake/RealtimeMultiplayerNodeJs.git,Realtime Mutliplayer Game Engine using Node.js / websockets for HTML5 that uses a client-server approach in which the clients send only sampled input to the server,,543
+0,https://github.com/webcomm/magento-boilerplate.git,HTML5 Twitter Bootstrap 3.1 Magento Boilerplate Template,,536
+0,https://github.com/beakable/isometric.git,JSIso - An HTML5 Canvas Tile Engine ,,532
+0,https://github.com/kesiev/akihabara.git,"{""A game engine for making classic arcade style games using Javascript and HTML5. We're starting moving on a re-organized repo here: https://github.com/akihabara""}",,530
+0,https://github.com/quark-dev-team/quarkjs.git,An HTML5 Game Framework,,528
+0,https://github.com/PANmedia/raptor-editor.git,"Raptor, an HTML5 WYSIWYG content editor!",,527
+0,https://github.com/corysimmons/boy.git,":boy: A very opinionated, lightweight version of HTML5 Boilerplate with conditionally-loaded polyfills and an opinionated CSS reset for firing up web projects in no time.","html,boilerplate",526
+0,https://github.com/ableplayer/ableplayer.git,fully accessible cross-browser HTML5 media player. ,,524
+0,https://github.com/chiruom/DanmuPlayer.git,Html5弹幕视频播放器插件,,524
+0,https://github.com/Johni0702/mumble-web.git,An HTML5 Mumble client,,522
+0,https://github.com/alexgheorghiu/diagramo.git,Diagramo - pure HTML5 JavaScript diagram / flowchart editor,,522
+0,https://github.com/Tencent/Fanvas.git,Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key!,,522
+0,https://github.com/infews/keydown.git,An HTML5 presentation builder,,521
+0,https://github.com/williammalone/Simple-HTML5-Drawing-App.git,Simple drawing application created with HTML5 canvas and JavaScript,,520
+0,https://github.com/freegroup/draw2d.git,"Create Visio like drawings, diagrams or workflows with JavaScript and HTML5",,517
+0,https://github.com/zhw2590582/ArtPlayer.git,:art: ArtPlayer.js is a modern and full featured HTML5 video player,"player,video,html5,danmu,screenshot,contextmenu,layers,quality,thumbnails,subtitle,highlight",517
+0,https://github.com/simple-uploader/Uploader.git,"A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.",,508
+0,https://github.com/vasturiano/force-graph.git,Force-directed graph rendered on HTML5 canvas,"force-directed-graph,canvas,d3js,force,simulation",506
+0,https://github.com/ningbonb/HTML5.git,HTML5学习、总结、实践,"html5,css3,javascript,jquery,canvas,zepto,angularjs,es6,postcss",503
+0,https://github.com/timruffles/mobile-drag-drop.git,"{""A drop-in shim to allow you to use existing html5 drag'n'drop code with mobile browsers""}",,502
+0,https://github.com/mingcheng/chrome-plugin-to-replace-fuck-flash-player.git,将中国大陆主流视频网站的 Flash 播放器替换为 HTML5 播放器,,499
+0,https://github.com/mebjas/html5-qrcode.git,A cross platform HTML5 QR code reader,"html5,qrcode,camera",497
+0,https://github.com/cbrandolino/camvas.git,HTML5 webcam to canvas stream,,497
+0,https://github.com/daspinola/video-stream-sample.git,Node.js HTML5 streaming sample,,489
+0,https://github.com/o2team/elf.git,灵活可扩展的 HTML5 构建工具,"elf,html5,webpack,build-tool,nodejs,html",486
+0,https://github.com/ivopetkov/html5-dom-document-php.git,A better HTML5 parser for PHP.,"domdocument,html5,dom,queryselector,parser,html,queryselectorall,php,classlist",485
+0,https://github.com/lostdecade/simple_canvas_game.git,Quick tutorial on how to make a simple HTML5 Canvas game,,482
+0,https://github.com/lufylegend/lufylegend.js.git,a library for html5,,480
+0,https://github.com/gliffy/canvas2svg.git,Translates HTML5 Canvas draw commands to SVG,"svg,html5-canvas,node-canvas,javascript,nodejs",476
+0,https://github.com/Mevrael/bunny.git,"BunnyJS - Lightweight native (vanilla) JavaScript (JS) and ECMAScript 6 (ES6) browser library, package of small stand-alone components without dependencies: FormData, upload, image preview, HTML5 validation, Autocomplete, Dropdown, Calendar, Datepicker, Ajax, Datatable, Pagination, URL, Template engine, Element positioning, smooth scrolling, routing, inversion of control and more. Simple syntax and architecture. Next generation jQuery and front-end framework. Documentation and examples available.","vanilla-js,architecture,ajax,vanilla,vanilla-javascript,javascript,bunnyjs,framework,library,dom,datepicker,es6,autocomplete,smooth-scrolling,datatables,datatable,form-validation,validation,form-framework,form",476
+0,https://github.com/adaptlearning/adapt_framework.git,"A toolkit for creating responsive, accessible, multilanguage HTML5 e-learning courses.","elearning,html5,javascript,adapt,responsive,accessibility,scorm,xapi,html5-elearning-courses",474
+0,https://github.com/tlhunter/Cobalt-Calibur-3.git,DEFUNCT: HTML5 and Node.js multiplayer browser game from 2013,nodejs,472
+0,https://github.com/baseprime/grapnel.git,"The smallest JavaScript router with named parameters, HTML5 pushState, and middleware support",,471
+0,https://github.com/cping/LGame.git,"A cross-platform Java game Engine (Framework) , support JavaFX / Android / IOS / HTML5 / Linux / MAC / Windows","java,game,game-engine,android,ios,html5,framework,2d,multiplatform,web,dev,jfx,mobile",468
+0,https://github.com/ebidel/idb.filesystem.js.git,HTML5 Filesystem API polyfill using IndexedDB,,463
+0,https://github.com/sihorton/appjs-deskshell.git,SDK to build desktop apps using HTML5/CSS/JS for frontend and server script for backend ,,463
+0,https://github.com/amol-mandhane/htmlPy.git,"{""htmlPy is a wrapper around PySide's QtWebKit library. It helps with creating beautiful GUIs using HTML5, CSS3 and Javascript for standalone Python applications.""}","python,gui,javascript,html,css",463
+0,https://github.com/sydlawrence/jquery.videoBG.git,Adding HTML5 video backgrounds to websites,,462
+0,https://github.com/Tastenkunst/brfv4_javascript_examples.git,BRFv4 - HTML5/Javascript - examples project. Reference implementation for all other platform example packages.,"face,tracking,detection,javascript,emscripten,web,face-tracking,face-detection,brfv4,sdk",460
+0,https://github.com/2fps/recorder.git,html5 js 浏览器 web端录音,"javascript,recorder,audio,pcm,wav,html5,web,typescript,lu-yin,webaudio,mp3",459
+0,https://github.com/andreasgal/dom.js.git,Self-hosted JavaScript implementation of a WebIDL-compliant HTML5 DOM.,,458
+0,https://github.com/wesbos/HTML5-Face-Detection.git,HTML5 Video Face Detection with the CCV Javascript Library,,453
+0,https://github.com/capnmidnight/Primrose.git,A syntax-highlighting text editors that renders to an HTML5 Canvas,"javascript,html5,object-oriented,computer-graphics,syntax-highlighting,text-editor,text-editor-for-web",452
+0,https://github.com/debian-calibre/html5-parser.git,html5-parser debian packaging,,452
+0,https://github.com/kevinroast/phoria.js.git,"JavaScript library for simple 3D graphics and visualisation on a HTML5 canvas 2D renderer. It does not use WebGL. Works on all HTML5 browsers, including desktop, iOS and Android.",,451
+0,https://github.com/mderrick/react-html5video.git,A customizeable HTML5 Video React component with i18n and a11y.,"video,react,html5-video,reactjs",450
+0,https://github.com/sbiermanlytle/iioEngine.git,iio Engine: A JavaScript game engine for HTML5 Canvas,,449
+0,https://github.com/feross/drag-drop.git,HTML5 drag & drop for humans,"html5,javascript,drag-drop,drag-and-drop,browserify,browser",448
+0,https://github.com/answershuto/H5.git,📃an app which automatically generates HTML5 files.,"vue,vuejs2,nodejs",447
+0,https://github.com/contra/smog.git,HTML5/Node/WebSocket MongoDB panel,,447
+0,https://github.com/h5bp/html5boilerplate.com.git,Files for the HTML5 Boilerplate website.,,446
+0,https://github.com/wangpengfei15975/skPlayer.git,:musical_note: A simple & beautiful HTML5 music player,"es6,webpack,sass,music,player,music-player,audio-player,audio",438
+0,https://github.com/taitems/Front-End-Development-Guidelines.git,"Front end development guidelines related to best practices in: Accessibility, CSS & CSS3, HTML & HTML5, JavaScript & jQuery.",,438
+0,https://github.com/2881099/FightLandlord.git,.NETCore斗地主服务器 + HTML5前端,,435
+0,https://github.com/walkor/live-camera.git,Live camera based on HTML5+Canvas+Websocket+PHP (Workerman).,,433
+0,https://github.com/kothic/kothic-js.git,Kothic JS — a full-featured JavaScript map rendering engine using HTML5 Canvas,,431
+0,https://github.com/crnacura/AmbientCanvasBackgrounds.git,"{""Five ambient webpage backgrounds created using the HTML5 Canvas API and jwagner's Simplex Noise library.""}",,430
+0,https://github.com/goldfire/CanvasInput.git,HTML5 Canvas Text Input,,429
+0,https://github.com/boyvanamstel/html5-notifications.git,"{""A simple experiment, focussing on using HTML5 notification support in Chrome and Safari. Works with Mountain Lion's Notification Center.""}",,423
+0,https://github.com/foliojs/png.js.git,A (animated) PNG decoder in JavaScript for the HTML5 canvas element and Node.js,,421
+0,https://github.com/m90/seeThru.git,HTML5 video with alpha channel transparencies,"html5-video,canvas-element,alpha-channel",419
+0,https://github.com/tregoning/photoTilt.git,"{""HTML5 clone of the photo tilt feature/gesture/ux found in Facebook's Paper app""}",,418
+0,https://github.com/yujinjin/fans.git,这是一个app(android/iOS)项目，但页面视图全部都用的是html5页，没有使用app的原生页面。 前端h5是基于mui + vue2 + vue-router2 + es6 + webpack2 + vuex + signalR 的前端webApp单页项目框架，项目可以直接在PC上运行html5页面。  app打包技术是用HBuilder IDE工具一键打包成APP。,"vue2,vue-router,signalr,vuex2,webapp,vue2-demo,webpack2,es6,mui",418
+0,https://github.com/scottcorgan/pushstate-server.git,Static file server that works with HTML5 Pushstate.,"pushstate-server,html5-pushstate,node,server",417
+0,https://github.com/robertkleffner/mariohtml5.git,Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements,,413
+0,https://github.com/hejianxian/vddl.git,🦄 Vue components for modifying lists with the HTML5 drag & drop API. ,"vue-dnd,dnd,drag-and-drop,vue,vue-components",407
+0,https://github.com/oznu/docker-guacamole.git,"A self-contained guacamole docker container for x64 and ARM. Remotely connect over SSH, RDP or VNC using HTML5.","docker,docker-image,remote-desktop-services,guacamole,guacamole-server,html5,rpi,rdp,arm,x64",407
+0,https://github.com/emorikawa/boilerstrap.git,Instant webpage. Just add creativity. A mashup of HTML5 Boilerplate and Bootstrap,,404
+0,https://github.com/borismus/osmus.git,Multiplayer HTML5 Osmos,,403
+0,https://github.com/dragdropsite/waterpipe.js.git,waterpipe.js is a jQuery plugin for smoky backgrounds generation (HTML5 Canvas),,402
+0,https://github.com/atdt/escapes.js.git,Render ANSI art using HTML5 / JavaScript,,401
+0,https://github.com/googlearchive/webplatform-samples.git,HTML5 Samples/Demos,,399
+0,https://github.com/volkhin/RoadTrafficSimulator.git,Road traffic simulator and signals optimizer in CoffeeScript & HTML5,"simulator,visualization",399
+0,https://github.com/MoePlayer/vue-aplayer.git,🍰 A beautiful HTML5 music player for Vue.js,"vue,aplayer,vue-aplayer,typescript",399
+0,https://github.com/FreeRDP/FreeRDP-WebConnect.git,A gateway for seamless access to your RDP-Sessions in any HTML5-compliant browser,,399
+0,https://github.com/MattSurabian/DuckHunt-JS.git,DuckHunt ported to JS and HTML5,"pixijs,game,audio,tweening,gsap,javascript,duck-hunt,canvas,webgl",397
+0,https://github.com/GMOD/jbrowse.git,A modern genome browser built with JavaScript and HTML5.,"genomics,genome-browser,genome-annotation,protein-annotation,bioinformatics,biology",397
+0,https://github.com/michael-brade/LaTeX.js.git,JavaScript LaTeX to HTML5 translator,"latex,parser,javascript,html5,pegjs,translator,js,webcomponent,latex2html,tex",393
+0,https://github.com/linkingvision/h5stream.git,HTML5 RTSP paly a HTML5 streaming server,,392
+0,https://github.com/pakastin/nodegarden.git,HTML5 Node Garden,,389
+0,https://github.com/corehtml5canvas/code.git,Source code for Core HTML5 Canvas,,387
+0,https://github.com/gre/illuminated.js.git,Illuminated.js – 2D lights and shadows rendering engine for HTML5 applications,,386
+0,https://github.com/rushter/selectolax.git,Python binding to Modest engine (fast HTML5 parser with CSS selectors).,"python,html5,css,modest-engine,web-scraping,parser",385
+0,https://github.com/justinmc/react-audio-player.git,A simple React wrapper on the HTML5 audio tag,"react,audio,audio-tag",384
+0,https://github.com/ayusharma/birthday.git,"A Happy Birthday animation design in CSS3, HTML5 ","birthday,celebration",382
+0,https://github.com/ebidel/html5demos.git,HTML5 Demos,,381
+0,https://github.com/devin87/web-uploader.git,轻量级 web (html5 + html4) 文件上传组件，纯js，支持上传进度显示，支持秒传+分片上传+断点续传，支持图片预览及缩放，支持文件夹上传，支持 IE6+、Firefox、Chrome等,,381
+0,https://github.com/meloncholy/vid-streamer.git,"{""VidStreamer.js: A simple streamer for Flash and HTML5-style videos. Supports HTTP pseudostreaming and works with JW Player's bitrate switching.""}",,380
+0,https://github.com/sunng87/heatcanvas.git,Pixel based heatmap with html5 canvas.,,379
+0,https://github.com/gimite/web-socket-ruby.git,HTML5 Web Socket server/client implementation in Ruby,,379
+0,https://github.com/Arcticjs/Arctic.js.git,HTML5 game framework,,377
+0,https://github.com/fluid-player/fluid-player.git,Fluid Player - an open source VAST compliant HTML5 video player,"video-player,video-streaming,html5-video,html5-player,javascript-library,javascript",375
+0,https://github.com/RSamaium/CanvasEngine.git,Framework for HTML5 Canvas oriented 2D video games,,369
+0,https://github.com/htmllint/htmllint.git,Unofficial html5 linter and validator.,,368
+0,https://github.com/tfriedel6/canvas.git,Canvas is a Go drawing library based on OpenGL or using software rendering that is very similar to the HTML5 canvas API,"golang,go,opengl,canvas,canvas2d,drawing",366
+0,https://github.com/hugodias/railStrap.git,RailStrap is a HTML5 Ruby On Rails 4 Ruby 2.0.0 bootstrap,"ruby,twitter-bootstrap,rails",365
+0,https://github.com/mbitsnbites/soundbox.git,"SoundBox is an HTML5 synth music tracker/editor, suitable for creating music for small JavaScript demos (4K / 8K).",,364
+0,https://github.com/ippa/jaws.git,Jaws - HTML5 canvas javascript 2D Game Framework,,362
+0,https://github.com/johnpolacek/controldeck.js.git,control html5 presentations with node.js,,362
+0,https://github.com/wanghetommy/ichartjs.git,"ichartjs is a HTML5 canvas charting library. written in pure JavaScript, It uses the HTML5 canvas tag to bulid a variety of charting.offering interactive charts to your web site or web application. ichartjs currently supports line, area, column, bar, pie chart types.and pie and column also support 3D model.ichartjs is covered by the Apache License 2.0",,361
+0,https://github.com/unixpickle/muniverse.git,µniverse: RL environments for HTML5 games,,357
+0,https://github.com/stuicey/SSHy.git,HTML5 SSH Web Client,"ssh,javascript,client,encryption,websockets,html,html5,xterm,sjcl,jsbn",355
+0,https://github.com/chrisbobbe/jekyll-theme-prologue.git,"A Jekyll version of the ""Prologue"" theme by HTML5 UP","jekyll,jekyll-theme,jekyll-themes,prologue,blog,portfolio",354
+0,https://github.com/filamentgroup/jQuery-Visualize.git,HTML5 canvas charts driven by HTML table elements,,354
+0,https://github.com/cstoquer/pixelbox.git,A sandbox framework to fast-prototype tile-based games in HTML5 and JavaScript,,354
+0,https://github.com/balenalabs/balena-wpe.git,"Fullscreen WebKit browser with hardware accelerated CSS, WebGL, and HTML5 video for the RaspberryPi 3.","raspberrypi,browser,html5-video,javascript,raspberry-pi,webgl,wpe,pitft,webkit,balena",353
+0,https://github.com/dionyziz/canvas-tetris.git,A 2D tetris game in HTML5 canvas,,352
+0,https://github.com/tracy-e/OCGumbo.git,An Objective-C HTML5 parser based on Google Gumbo.,"objective-c,html5-parser",352
+0,https://github.com/angular-dragdrop/angular-dragdrop.git,Angular HTML5 Drag and Drop directive written in pure js with no dependency on JQuery.,,351
+0,https://github.com/drawapp8/cantk.git,功能强大的HTML5游戏引擎。配套在线开发工具：http://http://studio.holaverse.cn,,350
+0,https://github.com/tidwall/digitalrain.git,Matrix Digital Rain written in Go for HTML5 + Canvas,"graphics,toy",349
+0,https://github.com/podlove/podlove-web-player.git,"Podlove Web Player is a Podcast-optimized, HTML5-based audio player based on VueJS.",,349
+0,https://github.com/dannvix/ColorTunes.git,HTML5 version of the iTunes 11 album view,,348
+0,https://github.com/lijinke666/react-music-player.git,:musical_note: Maybe the best beautiful HTML5 responsive player component for react :),"react,component,html5,music,player,audio,audio-player,react-player,react-music,react-music-player,react-audio-player,react-jinke-music-player,react-h5-music-player,cd-player,lyrics",348
+0,https://github.com/yatil/accessifyhtml5.js.git,"While most browsers work all right with the new semantic elements of HTML5, they don’t add the ARIA accessibility attributes that the specification demands. This small JavaScript adds those attributes to enhance accessibility of web sites.",,345
+0,https://github.com/incompl/cloak.git,A network layer for HTML5 games using Node.js,,344
+0,https://github.com/pinceladasdaweb/Simple-PHP-Contact-Form.git,A Simple Contact Form developed in PHP with HTML5 Form validation.,"php,contact-form",339
+0,https://github.com/netease-im/NIM_Web_Demo_H5.git,"网易云信Web Demo Html5 移动端适配。#推荐客户得比特币,首次推荐得0.02BTC,连续推荐得0.03BTC/单,上不封顶。点击参与https://yunxin.163.com/promotion/recommend",,339
+0,https://github.com/voronianski/realtime-geolocation-demo.git,Realtime geolocation with HTML5 API and Socket.io,,338
+0,https://github.com/mediafront/osmplayer.git,"The Open Standard Media Player is an all-in-one media player for the web.  It is an industry changing, open source (MIT) media player that is built to dynamically deliver any type of web media, including HTML5, YouTube, Vimeo, and Flash.",,338
+0,https://github.com/h5bp/server-configs-node.git,Express / Connect middleware for websites. Goes well with HTML5 Boilerplate.,,337
+0,https://github.com/BlazorExtensions/Canvas.git,HTML5 Canvas API implementation for Microsoft Blazor,"blazor,html5-canvas,canvas,canvas-element,webassembly,web-assembly",336
+0,https://github.com/hejianxian/vue-drag-and-drop-list.git,🐴 Vue directives for modifying lists with the HTML5 drag & drop API. ,"vue,html5-drag",334
+0,https://github.com/getify/h5ive-DEPRECATED.git,**DEPRECATED** A collection of thin facade APIs wrapped around HTML5 JavaScript features.,"deprecated,inactive",332
+0,https://github.com/graememcc/micropolisJS.git,A port of Micropolis to JS/HTML5,"simulation,game,retro",327
+0,https://github.com/PsichiX/Oxygengine.git,Rust implementation of Oxygen Core HTML5 game engine,,327
+0,https://github.com/alexmingoia/sticky.git,"Simple, key/value pair browser-storage cache leveraging the latest HTML5 storage APIs.",,327
+0,https://github.com/tojrobinson/jurassicsystems.com.git,HTML5/JavaScript recreation of the original Jurassic Park movie computer system.,,326
+0,https://github.com/mailgyc/doudizhu.git,html5 斗地主游戏,"html5-game,phaser-game,tornado,websockets,python,mysql,aiomysql,asyncio,game-server",325
+0,https://github.com/ahuth/raycast.git,HTML5 raycasting demo using React,"react,html5,raycasting,first-person,raycast,javascript",324
+0,https://github.com/austinhallock/html5-virtual-game-controller.git,"An easy-to-implement, customizable virtual game controller for HTML5 games",,324
+0,https://github.com/ireaderlab/zyMedia.git,zyMedia是掌阅科技开源的一款基于HTML5的、轻量级的、实现移动端全平台统一UI的多媒体播放器，该播放器已经在千万级设备上适配使用,,324
+0,https://github.com/kyriesent/node-rtsp-stream.git,Stream any RTSP stream and output to websocket for consumption by jsmpeg (https://github.com/phoboslab/jsmpeg). HTML5 streaming video! Requires ffmpeg.,,323
+0,https://github.com/marcrobledo/savegame-editors.git,A compilation of console savegame editors made with HTML5 technologies.,,322
+0,https://github.com/summerstyle/summer.git,"Html image map editor based on javascript, html5, inline SVG (modern FF, Chrome, Opera and IE10+)",,321
+0,https://github.com/oldj/html5-tower-defense.git,HTML5 tower defense,,317
+0,https://github.com/willemmulder/Presenteer.js.git,Flexible HTML5 Presentation Tool,,315
+0,https://github.com/soundcloud/areweplayingyet.git,html5 audio benchmarks,,314
+0,https://github.com/ffranke/Laker-Compendium.git,"Laker is a compendium of files, frameworks, styles and tips for designing digital publications in HTML5.",,314
+0,https://github.com/rmcgibbo/slidedeck.git,Beautiful HTML5 slides in markdown. A easy-to-use fork of the google-io-2012 slide deck,,314
+0,https://github.com/hilongjw/vue-video.git,A HTML5 video player component for Vue.js,"vue-video,vue,video-player",310
+0,https://github.com/rlamana/Ventus.git,"A window manager written in Javascript, HTML5 and CSS3",,310
+0,https://github.com/marcj/angular2-localstorage.git,Angular 2+ decorator to save and restore variables/class properties to HTML5 LocalStorage automatically.,,308
+0,https://github.com/nealstewart/backbone.validations.git,"Declarative, HTML5 Attribute-Inspired Validations for Backbone",,307
+0,https://github.com/dannagle/HTML5GameEngines.git,Source code from the book HTML5 Game Engines,,307
+0,https://github.com/djyde/sinatine.git,weibo HTML5 for macOS,"weibo,electron",305
+0,https://github.com/christopher4lis/canvas-boilerplate.git,An HTML5 canvas boilerplate with ES6 and live-reloading with BrowserSync.,,305
+0,https://github.com/GianlucaGuarini/jquery.html5loader.git,"jQuery.html5Loader can preload images, SVGs, html5 video and audio sources, scripts, css, and text files.",,305
+0,https://github.com/zeljkoprsa/waterlee-boilerplate.git,Magento HTML5 Responsive Theme Boilerplate,,304
+0,https://github.com/naveenshaji/material.git,"{""An HTML5 responsive template incorporating Google's Material Design Standards along with Jekyll""}",,304
+0,https://github.com/udevbe/greenfield.git,HTML5 Wayland compositor  :seedling: ,"greenfield,wayland,html5,browser,javascript,remote-desktop,browser-wayland-compositor",303
+0,https://github.com/vshymanskyy/miband-js.git,MiBand 2 JS library for Node.JS and HTML5 (WebBluetooth),"miband2,miband,webbluetooth,nodejs,xiaomi",302
+0,https://github.com/dily3825002/EgerPro.git,Eger Pro is based on the development of Egret HTML5 4.x game development solutions,"javascript,typescript,egret,eger,egerpro,html5,html5-game,html",302
+0,https://github.com/amatsuda/html5_validators.git,"A gem/plugin for Rails 3, Rails 4, Rails 5, and Rails 6 that enables client-side validation using ActiveModel + HTML5 Form Validation","ruby,rails,html5,validations,activerecord,activemodel",302
+0,https://github.com/pzhgugu/goshop.git,分布式多店铺电商系统，使用技术：spring 、springmvc、mybatis、maven、html5、jquery、freemarker、Redis（缓存服务器）、Solr（搜索引擎）、Dubbo（调用系统服务）、Nginx（web服务器）、FastDFS（文件服务器）、Shiro（权限框架）、Zookeeper（分布式应用程序协调服务）,,302
+0,https://github.com/nathansmith/jQuery-Desktop.git,JavaScript desktop environment built with jQuery + HTML5.,,301
+0,https://github.com/arturadib/node-five.git,HTML5 graphics and audio for Node.js,,301
+0,https://github.com/cslarsen/mandelbrot-js.git,Fast rendering of the Mandelbrot set in HTML5 canvas using JavaScript,"mandelbrot,html5-canvas",299
+0,https://github.com/mhbseal/html5ImgCompress.git,html5图片压缩，支持pc，mobile（ios/android）和multiple,,299
+0,https://github.com/PhaserEditor2D/PhaserEditor.git,A friendly IDE to develop HTML5 games based on the Phaser framework.,"video-games,html5-game,editor-plugin,ide,phaser-editor",299
+0,https://github.com/codebushi/gatsby-starter-dimension.git,"Gatsby.js V2 starter template based on Dimension, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.",,298
+0,https://github.com/kljensen/golang-html5-sse-example.git,HTML5 Server Sent Events with Go,,297
+0,https://github.com/walkor/BrowserQuest-PHP.git,BrowserQuest server in PHP base on workerman. A PHP/HTML5/JavaScript multiplayer game experiment.,"game,php,browserquest,workerman",297
+0,https://github.com/warpech/sheetclip.git,Copy/paste from your HTML5 web app to a spreadsheet,,297
+0,https://github.com/kobalab/Majiang.git,HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」,,297
+0,https://github.com/cgiffard/Captionator.git,"HTML5 polyfill for closed captioning with the <track> element, and implements the WHATWG Timed Text Track specification.",,296
+0,https://github.com/ganlvtech/phaser-catch-the-cat.git,"{""An HTML5 game 'Catch The Cat' powered by Phaser 3""}","phaser3,typescript,game,javascript,phaser",295
+0,https://github.com/benschwarz/currency.io.git,"An offline-capable, html5 currency converter app for the iPhone",,295
+0,https://github.com/jimmywarting/FormData.git,HTML5 `FormData` polyfill for Browsers.,"formdata,html5,polyfill",294
+0,https://github.com/AlloyTeam/webtop.git,HTML5 本地App开发引擎,,289
+0,https://github.com/Wildhoney/ngDroplet.git,Angular.js HTML5 file uploading with drag & drop and image/file preview.,,288
+0,https://github.com/greggman/html5bytebeat.git,Bytebeats in HTML5,"bytebeat,audio,sound",282
+0,https://github.com/end3r/Gamedev-Canvas-workshop.git,Learn how to build 2D HTML5 Breakout game with pure JavaScript,,282
+0,https://github.com/NoisyWinds/Wallpaper.git,html5/c++实现桌面动态壁纸 (可hover交互 )  Make wallpaper with html，like Wallpaper Engine in steam,"wallpaper,html",282
+0,https://github.com/thinkpixellab/agent8ball.git,An HTML5 Pool Game...with bombs!,,280
+0,https://github.com/SaitoWu/linner.git,HTML5 Application Assembler,,279
+0,https://github.com/jaymorrow/validatr.git,Cross Browser HTML5 Form Validation.,,279
+0,https://github.com/Tairraos/Poker.JS.git,Poker.JS is a JS lib extend HTML5 canvas to draw vector poker card. (Poker.JS是通过扩展HTML5 Canvas实现的矢量扑克牌的JS库),,279
+0,https://github.com/naTmeg/ScriptedAmigaEmulator.git,Amiga Emulator in javascript and HTML5,,275
+0,https://github.com/e107inc/e107.git,"e107 Bootstrap CMS (Content Management System) v2 with PHP, MySQL, HTML5, jQuery and Twitter Bootstrap. Issue Discussion Room: https://gitter.im/e107inc/e107 ","php,cms,mysql,twitter-bootstrap,jquery,content-management,fast,bootstrap,e107,bootstrap4,bootstrap5,php8,mariadb,installation-wizard,newer",275
+0,https://github.com/openplayerjs/openplayerjs.git,Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads,"vast,html5-video-player,hls,dash,video,openplayerjs,audio,player,javascript,html5,html5-video,html5-audio,typescript",274
+0,https://github.com/SpatialServer/Leaflet.MapboxVectorTile.git,A Leaflet Plugin that renders Mapbox Vector Tiles on HTML5 Canvas.,,273
+0,https://github.com/wilk/ng-websocket.git,AngularJS HTML5 WebSocket powerful library,,272
+0,https://github.com/AlloyTeam/gopng.git,GoPng - a HTML5 css sprite generator with cool feature.,,272
+0,https://github.com/mcintyre321/FormFactory.git,"MVC5, Core or standalone - Generate rich HTML5 forms from your ViewModels, or build them programatically","asp-mvc,asp-net-core,form-builder,component-driven",272
+0,https://github.com/robhawkes/google-bouncing-balls.git,A HTML5 canvas version of the Google bouncing balls logo,,271
+0,https://github.com/itlwei/Chess.git,中国象棋 - in html5,,268
+0,https://github.com/themefisher/meghna-hugo.git,"Meghna Hugo is a responsive one-page business template built with HTML5/CSS3, Hugo, JavaScript, and JQuery. The template is minimalist, lightweight, and fast loading.","hugo,hugo-site,theme,bootstrap-4,contact-form,meghna-hugo,seo-friendly,hugo-blog-theme",268
+0,https://github.com/jamesliu96/damoo.git,Lightweight HTML5 Canvas Danmaku Engine,,267
+0,https://github.com/freqdec/fd-slider.git,An Unobtrusive Accessible Slider script that can also be used as an HTML5 Input Range polyfill solution,,267
+0,https://github.com/ckcz123/mota-js.git,HTML5魔塔样板，支持全平台游戏！ 即使完全不会编程的用户，按照模板和说明文档也能很快做出一个魔塔游戏！,,267
+0,https://github.com/voronianski/soundcloud-audio.js.git,:musical_note: SoundCloud tracks and playlists with HTML5 Audio API,"soundcloud,html5-audio",266
+0,https://github.com/circlecell/Snippets.git,"A collection of UI elements and widgets coded with HTML5, CSS3, and Sass.",,265
+0,https://github.com/neroneroffy/Dynamic_effect.git,平时练习的一些前端动效，基于HTML5，CSS3，Canvas，Svg,"canvas,css3,html5,3d,3d-banner,animation",264
+0,https://github.com/Ulterius/client.git,[WIP] Ulterius™ HTML5 react frontend. ,,263
+0,https://github.com/toidicode/template.git,Share 100 templates HTML5 CSS3 for developer or beginner,"template,html-css,design",263
+0,https://github.com/pureqml/qmlcore.git,"QML to Javascript/HTML5 translator, both for mobile and desktop targets","ui,declarative-ui,qml,html5,embedded,mobile-web,declarative-language,frontend,frontend-app,frontend-application,frontend-framework,web,html,web-ui,smart-tv,tv-apps,tv-applications,smarttv,web-template,js-template",263
+0,https://github.com/seerline/clchart.git,"A fast, simple and cross-platform(html5  react-native weex  wechat-applet) stock chart library created using canvas.","canvas,chart,stock-chart,data-visualization,javascript,graph,webpack,html-stock-chart,cross-platform,react-native,wechat-mini-program",261
+0,https://github.com/georgepaterson/jquery-videobackground.git,HTML5 video background jQuery plugin,,259
+0,https://github.com/shaojiankui/iOS-WebView-JavaScript.git,"iOS UIWebView,WKWebView 与html5 JavaScript的深度交互,iOS和安卓同时与html5 JavaScript的深度交互",,259
+0,https://github.com/syncfusion/ej2-javascript-ui-controls.git,"Syncfusion JavaScript UI controls library offer more than 50+ cross-browser, responsive, and lightweight HTML5 UI controls for building modern web applications.","ui-components,ui-library,ui-controls,aspnet-mvc,aspnet-core,material-design,bootstrap,office-ui-fabric,accessibility,module-pattern,javascript-ui,data-grid,charts,scheduler,diagram-generator,javascript,word-processor,data-visualization,form-controls,pivot-grid",259
+0,https://github.com/allensarkisyan/VideoFrame.git,VideoFrame - HTML5 Video SMPTE Time Code and Frame Seeking API,,258
+0,https://github.com/Bernardo-Castilho/dragdroptouch.git,Polyfill that enables HTML5 drag drop support on mobile (touch) devices.,,257
+0,https://github.com/Chive/django-multiupload.git,"{""Dead simple drop-in multi file upload field for Django forms using HTML5's multiple attribute.""}",,256
+0,https://github.com/svenkreiss/html5validator.git,Command line tool to validate HTML5 files. Great for continuous integration.,"html5,validation,linter",256
+0,https://github.com/coldnew/org-ioslide.git,Export org-mode to Google I/O HTML5 slide.,,255
+0,https://github.com/thedayhascome/Fluid-Baseline-Grid.git,HTML5 & CSS3 development kit that provides a solid foundation to quickly design websites with ease.,,254
+0,https://github.com/ChihChengYang/wfs.js.git,html5 player for raw h.264 streams,,252
+0,https://github.com/yisar/eplayer.git,:crystal_ball: A web-component html5 video player facing future,"player,html5-video,hls-player,html5-player,video-player,web-components,shadow-dom,scoped-css,custom-css",251
+0,https://github.com/Double-Lv/Huploadify.git,jQuery文件上传插件，HTML5版uploadify，保持与uploadify一致的API,,251
+0,https://github.com/plucked/html5-audio-editor.git,A small audio editor written in html5 and javascript without usage of external plugins,,250
+0,https://github.com/maccman/flarevideo.git,HTML5 & Flash Video Player,,248
+0,https://github.com/operasoftware/Emberwind.git,HTML5 port of the indie platform game Emberwind.,,248
+0,https://github.com/rheh/HTML5-canvas-projects.git,"HTML5 Canvas projects - including simple Thermometer, speedometer, map and compass.",,247
+0,https://github.com/blowsie/Pure-JavaScript-HTML5-Parser.git,A Pure JavaScript HTML5 Parser,,246
+0,https://github.com/mobilusoss/react-web-notification.git,React component with HTML5 Web Notification API,"react,notifications,desktop-notification",246
+0,https://github.com/hhxsv5/php-sse.git,"{""A simple and efficient library implemented HTML5's server-sent events by PHP, is used to real-time push events from server to client, and easier than Websocket, instead of AJAX request.""}","sse,server-sent-events,eventsource,events,sever-events,event-stream",246
+0,https://github.com/adityab/Awwation.git,"Prezi clone in HTML5, Js, and SVG. Can use different animation backends, for example impress.js. [I NO LONGER OWN AWWATION.COM]",,244
+0,https://github.com/axboot/ax-boot-framework.git,Full Stack Java Web Application Framework with Java & HTML5 ,"spring,spring-boot,java,framework,axboot-framework,html,enterprise,theme,ax5ui,ui,ui-components",243
+0,https://github.com/sourcefabric/Newscoop.git,"Newscoop is the open content management system for professional journalists. Features for the modern newsroom include multiple author management, issue-and-section based publishing, geolocation and multilingual content management. The enterprise-standard journalist’s dashboard and a templating engine supporting anything from HTML5 to mobile complete this fast production and publishing system.",,243
+0,https://github.com/tsquillario/Jamstash.git,HTML5 Music Streamer for Subsonic,,242
+0,https://github.com/moay/afterglow.git,HTML5 video player made easy.,"video,html5-video-player,deprecated",242
+0,https://github.com/zeljkoprsa/Magento-Boilerplate.git,Magento Theme Package based on HTML5 Bolierplate by Paul Irish coupled with CSS3PIE by 327 Creative LLC,,242
+0,https://github.com/addpipe/simple-recorderjs-demo.git, A simple HTML5/JS demo that uses Recorder.js to record audio as uncompressed pcm (wav) and POST it to a server side script.,"wav,record-audio,getusermedia,audio-recorder,javascript,pcm",242
+0,https://github.com/NeoGuo/html5-documents.git,All about HTML5 frameworks,,241
+0,https://github.com/openMF/community-app.git,"This is the default web application built on top of the Apache Fineract platform. The Mifos X Web App (formerly called Community App) is maintained by the Mifos Initiative as a reference solution for the financial inclusion community. It is a Single-Page App (SPA) written in web standard technologies like JavaScript, CSS and HTML5. It leverages common popular frameworks/libraries such as AngularJS 1.5, Bootstrap and Font Awesome",hacktoberfest,241
+0,https://github.com/sporkd/html5-rails.git,Generate Html5 Boilerplate for your Rails apps!,,240
+0,https://github.com/CordovaCn/CordovaCn.git,"{""Apache Cordova is an open-source mobile development framework. It allows you to use standard web technologies such as HTML5, CSS3, and JavaScript for cross-platform development, avoiding each mobile platforms' native development language. (Apache Cordova是一个开放源代码的移动开发框架，它允许你使用web技术如:JavaScript,HTML,CSS进行跨平台开发，避免使用原生开发。)""}","hybrid,cordova,javascript,html,css,plugin,ios,android,guide",240
+0,https://github.com/hprose/hprose-html5.git,Hprose is a cross-language RPC. This project is Hprose 2.0 Client for HTML5,"rpc,rpc-client,rpc-library,javascript,hprose,html5,cross-platform,cross-language,websockets,tcp,google-chrome,android,apicloud,cross-browser,cross-device,cross-domain,serialization,serialization-library,serialize",238
+0,https://github.com/lamberta/doodle-js.git,A JavaScript animation library for HTML5 Canvas.,,237
+0,https://github.com/arjunsk/ionic-firebase-shopping-cart.git,HTML5 shopping cart using Firebase,"firebase,html5,ionic",236
+0,https://github.com/melix/deck2pdf.git,Converts various HTML5 slide decks to PDF,,235
+0,https://github.com/ObaidUrRehman/ng-drag-drop.git,Drag & Drop for Angular - based on HTML5 with no external dependencies. :tada:,"draggable,droppable,drag-drop,angular,angular2,angular4,angular5,angular-components",233
+0,https://github.com/cursoemvideo/cursoemvideo-html5.git,Material do Curso de HTML5 e CSS3 do Curso em Vídeo,,233
+0,https://github.com/andrespagella/Making-Isometric-Real-time-Games.git,"The official codebase repository of the book Making Isometric Real-Time Games with HTML5, CSS3 and Javascript ",,233
+0,https://github.com/BladeRunnerJS/brjs.git,"BladeRunnerJS (BRJS) is an open source development toolkit and framework for modular construction of large single-page HTML5 apps. It consists of a set of conventions, supporting tools and micro-libraries that make it easy to develop, test, deploy and maintain complex JavaScript apps.",,233
+0,https://github.com/cferdinandi/bouncer.git,A lightweight form validation script that augments native HTML5 form validation elements and attributes.,"vanilla-js,javascript,javascript-plugin,form-validation",232
+0,https://github.com/niwinz/django-sse.git,HTML5 Server-Sent Events integration for Django ,,230
+0,https://github.com/Wildhoney/ngVideo.git,Modularised ~13KB HTML5 audio/video implementation using Angular.js,,230
+0,https://github.com/EnclaveGames/Enclave-Phaser-Template.git,Enclave Phaser Template - mobile template for HTML5 games created using the Phaser 3 game engine.,,229
+0,https://github.com/guanyuxin/baogame.git,一个html5的多人游戏，后台使用node，前端canvas，使用socket通信,,229
+0,https://github.com/wangpengfei15975/recorder.js.git,:microphone:HTML5 Recorder - mp3 output,"html5,recorder,audio,mp3",228
+0,https://github.com/ginader/HTML5-placeholder-polyfill.git,Small and robust polyfill for the HTML5 placeholder attribut. ,,228
+0,https://github.com/huihoo/e3-h5.git,灰狐E3 HTML5 App,,227
+0,https://github.com/cinely/mule-uploader.git,Stubborn HTML5 Amazon S3 uploader,,227
+0,https://github.com/playn/playn.git,"A Java game development framework that deploys to JVM, HTML5, Android and iOS.",,227
+0,https://github.com/zoltan-dulac/html5Forms.js.git,"Implements a subset of the HTML5 Forms module, including calendars, colour swatches, sliding widgets, client side validation and more.  ",,227
+0,https://github.com/atapas/html-tips-tricks.git,My Favorite HTML5 Tips and Tricks,"html5,javascipt",226
+0,https://github.com/cykod/CoderDeck.git,Create live-coding HTML5-based presentations and workshops,,225
+0,https://github.com/ZKjellberg/dark-souls-3-cheat-sheet.git,Checklist for Dark Souls 3 using HTML5 storage to retain progress,,225
+0,https://github.com/czekaj/ChromePlay.git,"AirPlay from Google Chrome - send YouTube, Vimeo and (almost) any HTML5 video to AppleTV via AirPlay",,225
+0,https://github.com/PaulKinlan/leviroutes.git,A basic routes framework for JS that hooks in to HTML5 history,,223
+0,https://github.com/sixrevisions/html5-template.git,"A Generic HTML5 Template: Simple markup boilerplate (blank HTML page) for your cross-platform (mobile, desktops, etc.) HTML5-capable web pages.",,222
+0,https://github.com/jbialobr/JsQRScanner.git,JavaScript QR Code scanner for HTML5 supporting browsers,"qrcode-scanner,qrcode,js,zxing,html5",220
+0,https://github.com/dhparkhub/resume-for-web-developer.git,HTML5 Résumé Template for Web Developer,,219
+0,https://github.com/ehzhang/sense-js.git,📱 html5 sensor interaction library for mobile,"html5,sensor,accelerometer,gyroscope",219
+0,https://github.com/scalad/LayIM.git,基于HTML5 WebSocket的一款IM即时通讯软件，使用Gradle集成了Scala、SpringBoot、Spring MVC、Mybatis、Redis等，前端使用了LayIm框架,"scala,spring-boot,layim,websocket,mybatis,druid",219
+0,https://github.com/alferov/angular-file-saver.git,An AngularJS service that provides cross-browser compatibility of HTML5 saveAs() - http://alferov.github.io/angular-file-saver,"angular,angular1,angularjs-service,filesaver,blob",218
+0,https://github.com/Eloston/disable-html5-autoplay.git,[CURRENTLY UNMAINTAINED] An extension for Chromium-based browsers that disables autoplay of HTML5 audio and video,,217
+0,https://github.com/fabiobiondi/angular-fullscreen.git,AngularJS HTML5 Fullscreen ,,216
+0,https://github.com/AirenSoft/OvenPlayer.git,OvenPlayer is Open-Source HTML5 Player. OvenPlayer supports WebRTC Signaling from OvenMediaEngine for Sub-Second Latency Streaming.,"webrtc,sub-second-latency-streaming,low-latency-http,mpeg-dash,hls,html5,ovenmediaengine",216
+0,https://github.com/walkor/live-ascii-camera.git,利用HTML5将摄像头视频转换为ascii字符，通过websocket实时传输给其它页面。服务端使用workerman,,216
+0,https://github.com/maboa/circleplayer.git,A CSS3 HTML5 audio player with a circular seekable progress bar and complete fallback,,215
+0,https://github.com/kibu-australia/pushy.git,Clojurescript library for quick and easy HTML5 pushState,"clojure,clojurescript,routing,html5-history",214
+0,https://github.com/jhiesey/videostream.git,Play html5 video when from a file-like object,,213
+0,https://github.com/yanhaijing/Painter.git,基于html5 Canvas 的画图程序,,213
+0,https://github.com/GWmodel-Developers/html5-rtsp.git,HTML5 播放 RTSP 示例仓库,,213
+0,https://github.com/timhutton/opengl-canvas-wasm.git,Minimal example of animating the HTML5 canvas from C++ using OpenGL through WebAssembly ,,213
+0,https://github.com/ericdrowell/concrete.git,"A lightweight Html5 Canvas framework that enables hit detection, layer support, pixel ratio management, exports, and downloads",,212
+0,https://github.com/horgh/videostreamer.git,Stream video (e.g. RTSP) to an HTML5 video element (MP4),"streaming-video,rtsp,ffmpeg,golang,video,streaming,ffmpeg-libraries,rtsp-feed",211
+0,https://github.com/mdn/violent-theremin.git,"Violent theremin uses the Web Audio API to generate sound, and HTML5 canvas for a bit of pretty visualization. The colours generated depend on the pitch and gain of the current note, which are themselves dependant on the mouse pointer position.",,211
+0,https://github.com/platzhersh/pacman-canvas.git,"An old classic, re-written in HTML5.",,210
+0,https://github.com/noamtcohen/AudioStreamer.git,HTML5 realtime audio streaming to nodejs,,210
+0,https://github.com/andreypopp/react-time.git,Component for React to render relative and/or formatted dates into <time> HTML5 element,,210
+0,https://github.com/zhaodabao/topology.git,"html5 network topology, base on SVG.",,209
+0,https://github.com/pnitsch/BitmapData.js.git,HTML5 Canvas API implementation of the AS3 BitmapData class.,,209
+0,https://github.com/benjipott/video.js-chromecast.git,Use chromecast with videojs html5 player,,208
+0,https://github.com/yorek/ssis-dashboard.git,HTML5 SQL Server Integration Services Dashboard,"ssis-dashboard,ssis,sql-server,integration-services,dashboard,python,bootstrap,flask",208
+0,https://github.com/geongeorge/Canvas-Txt.git,The better way to render text on HTML5 Canvas,,207
+0,https://github.com/harshalbenake/hbworkspace2-100.git,"(1) Name :- ActionBarSearchView Description :- Action bar search view.  (2) Name :- Adsfree Description :- Admob integration.  (3) Name :- AndroidDayDreamDemo Description :- Day dream demo.  (4) Name :- android query demo live Description :- Google play live app details parsing.  (5) Name :- Arc GIS map Description :- Arc gis map integration without hash key.  (6) Name :- aviarySdk Description :- Aviary integration for image operations.  (7) Name :- BetterGestureDetector Description :- Gesture accrate detection.  (8) Name :- BlinkText Description :- Blinking text.  (9) Name :- BuzzBoxSDKHelloWorld Description :- Buzz box integration cron scheduler.  (10) Name :- CircularProgressBar Description :- Circular progress bar.  (11) Name :- ContactNumbersDemo Description :- Get contact details from device.  (12) Name :- ControlViewheight Description :- Manage height of specific view.  (13) Name :- ControlViewHeightSeekbar Description :- Two listview manage appropriate hieght.  (14) Name :- DownloadManagerAndroid Description :- Download specific file online.  (15) Name :- Facebook Integration Description :- Facebook integration.  (16) Name :- Graphview Description :- Graphview demo.  (17) Name :- HB 1337 Description :- Virus and antivirus.  (18) Name :- HomeButtonEvent Description :- Block home button press.  (19) Name :- HomeLauncher Description :- Home launcher demo.  (20) Name :- InAppPurchaseTut Description :- InAppPurchase demo.  (21) Name :- KeyboardCustom Description :- Creating Custom keyboard demo.  (22) Name :- MapDemoGeofencing Description :- Location map for geo fencing.  (23) Name :- MapDemoV2Final Description :- Map demo for google version 2.  (24) Name :- OpenGLESSquare Description :- Opengl moving square.  (25) Name :- pagination numbering 2 Description :- Pagination type 2.  (26) Name :- Pagination numbering Description :- Pagination type 1.  (27) Name :- PhoneGapCordova Description :- Phone gap simple cordova demo.  (28) Name :- PhoneGapCordovaCamera Description :- Phone gap for camera.  (29) Name :- PhoneGapCordovaParsing Description :- Phone gap for parsing.  (30) Name :- PhoneGapCordovaSMS Description :- Phone gap for sending sms.  (31) Name :- RotatingWheel Description :- Rotating wheel by user interaction.  (32) Name :- RotatingWheelSocialsites Description :- Rotating wheel by user interaction for socialsites.  (33) Name :- RunningBackgroundServices Description :- Get Running services in background for package name/class name.  (34) Name :- SearchList Description :- Searching from a specific list.  (35) Name :- SearchViewContacts Description :- Search from contacts details.  (36) Name :- SlidingDrawer Description :- Sliding drawer from bottom over another activity.  (37) Name :- SpeechToTextDemo Description :- Convert speech to text.  (38) Name :- TextToSpeak Description :- Convert text to speech.  (39) Name :- TouchCordinates Description :- Get coordinate of user touch intergration.  (40) Name :- TreeViewListDemo Description :- Tree view integration demo.  (41) Name :- UninstallDeleteapp Description :- Uninstall another app from my app after removing admin permission.  (42) Name :- ViewPagerCustomWidthFragment Description :- Fragment in viewpager.  (43) Name :- WearableNotification Description :- Wearable notification.  (44) Name :- WearablePages Description :- Wearable pages.  (45) Name :- WidgetDemo Description :- Widget demo.  (46) Name :- CameraIntentAll Description :- Camera demo for picture as well as video demo.  (47) Name :- CameraOverlay Description :- Camera overlay image as aim shooting game.  (48) Name :- DrmIntegration Description :- Drm Integration library for authorize users apk file.  (49) Name :- SwipeRefreshLayout Description :- SwipeRefreshLayout Pulltorefresh like google.  (50) Name :- TwitterIntegration Description :- Twitter Integration.  (51) Name :- CameraADev Description :- Custom Camera for picture as well as video capture from android developer.  (52) Name :- DataBaseSQLiteCRUD Description :- Simple SQLite CRUD funtions for contact database.  (53) Name :- DataBaseSQLiteDBUtility Description :- Simple SQLite DBUtility all files and basic operations.  (54) Name :- CustomDropdownMenu Description :- Custom Dropdown/Poup Menu.  (55) Name :- CalenderSimpleView Description :- Simple calender view as well as timestamp using calender class.  (56) Name :- CalendarProviderADevIntent Description :- Calender provider Intent from android developer.  (57) Name :- AnimationTextViewAnimateLayoutChanges Description :- Animation of adding view inside another view using animatelayoutchanges.  (58) Name :- DragnDropLowVersion Description :- Drag n drop funtionality for low version.  (59) Name :- GoogleWalletAdev Description :- Google Wallet Integration from android developer.  (60) Name :- AndroidShootingGame Description :- Android Shooting Game without opengl.  (61) Name :- ViewPagerAnimation Description :- ViewPager page transformation for pages like alpha,scaling,rotation.  (62) Name :- GoogleCloudWirelessPrintingIntent Description :- Google cloud wireless printing integration from google developer.  (63) Name :- Barcode_or_QRCode_Scanner_openurl Description :- Barcord/QR code scanner from google play and open result url in browser.  (64) Name :- MSServerListSyncSample Description :- List Sync Sample using MS Server.  (65) Name :- SlidingMenuAPI Description :- Sliding Menu jeremyfeinstein library like facebook,gmail,etc.  (66) Name :- GCMIntegration Description :- Google cloud messageing integration for notification.  (67) Name :- NoiseAlert Description :- Detect noise or blow sound.  (68) Name :- GregorianCalendar Description :- Basic Gregorian Calendar information.  (69) Name :- getVariableName Description :- Get name of the variable not its value.  (70) Name :- GoogleAnalyticsV4Adev Description :- Google analytics integration V4.  (71) Name :- FlipboardAnimationAdev Description :- Animation like Flipboard.  (72) Name :- Html5Camera Description :- Camera in Html5 without phonegap.  (73) Name :- CopyPasteClipboard Description :- Copy & Paste Clipboard textual data.  (74) Name :- AndroidPhpMysql Description :- Php and Mysql data parsing in android.  (75) Name :- SpellChecker Description :- Check spelling and give appropriate suggestion for enter text.  (76) Name :- PdfReader Description :- Read pdf file.Barcode/QR code scanner.  (77) Name :- BarcodeQRcodeIntegration Description :- Barcode/QR code scanner using ZbarScanner lib and also Zxing lib without intent.  (78) Name :- InstagramIntegrationApi Description :- Instagram Integration using sample demo.  (79) Name :- Logger Description :- Read logger/logcat using api.  (80) Name :- SmsControl Description :- Control device via sms codes.  (81) Name :- EncryptDecryptString Description :- Encrypt string and Decrypt the same string.  (82) Name :- FloatingActionButton Description :- Floating Action Button.  (83) Name :- DownloadAndUnzipFile Description :- Download And Unzip File.  (84) Name :- MoPubAd Description :- MoPub Ad Banner integration .  (85) Name :- ListViewParsingDB_AndroidStudio Description :- ListView Parsing in android studio.  (86) Name :- CustomCamera_AS Description :- Custom Camera using surfaceview.  (87) Name :- ResizeableBox_AS Description :- Resizeable Box like crop.  (88) Name :- AudioRecorder_AS Description :- Audio Recorder.  (89) Name :- DateAndTimePicker_AS Description :- Date And Time Picker.  (90) Name :- CustomActionBar_AS Description :- Simple Custom ActionBar.  (91) Name :- CustomSpinner_AS Description :- Custom Spinner with default text item.  (92) Name :- SendEmail_AS Description :- Send email in background after authentication.  (93) Name :- GoogleAnalytics_AS Description :- GoogleAnalytics integration demo for crash and screen.  (94) Name :- BroadcastReciever_AS Description :- Broadcast Reciever for sms ,call and boot receiver.  (95) Name :- Azure Description :- Azure storage gsi credentials zip dowload.  (96) Name :- InAppPurchase_AS Description :- In App Purchase simple demo.  (97) Name :- iOS_Listview Description :- Simple Listview in ios.  (98) Name :- iOS_Database Description :- Sqlite Database in ios.  (99) Name :- MessangerList_AS Description :- Messanger Listview UI send and recieve.  (100) Name :- FindingFriend_AS Geofencing for enter and exit another pin.",,207
+0,https://github.com/CommandLineHeroes/hero-engine.git,Open-source HTML5 adventure game engine,,206
+0,https://github.com/pandao/planeui.git,The Modern HTML5 Cross-Device Responsive Front-end UI Framework.,,206
+0,https://github.com/libass/JavascriptSubtitlesOctopus.git,"Displays subtitles in .ass format via JavaScript. Supports all SSA/ASS features, easily integrates with HTML5 videos.","libass,html5-video,ass-format,video,subtitle-formats,subtitles,substation-alpha",206
+0,https://github.com/zenorocha/diveintohtml5.git,A portuguese translation of Dive Into HTML5 online book,,205
+0,https://github.com/grumdrig/jsfxr.git,Dead easy game sound effects generator. A port of sfxr to HTML5.,,205
+0,https://github.com/Wildhoney/Standalone.git,"{""Create framework agnostic components that are truly reusable and interoperable with all the benefits of the React ecosystem – using the HTML5 custom elements API to extend HTML's vocabulary.""}","react,reactjs,webcomponents,components,custom-elements",205
+0,https://github.com/codebushi/gatsby-starter-forty.git,"Gatsby.js V2 starter template based on Forty, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.",,204
+0,https://github.com/rossturner/HTML5-ImageUploader.git,An Image upload and client-side resize javascript library using only HTML5 APIs,,203
+0,https://github.com/kazuhikoarase/simcirjs.git,A circuit simulator in HTML5 and JavaScript,,202
+0,https://github.com/tclh123/commits-graph.git,Git commits graph widget using HTML5/Canvas.,,202
+0,https://github.com/Wildhoney/EmberDroplet.git,Ember.js HTML5 file uploading with drag & drop and image/file preview.,,202
+0,https://github.com/maxogden/bytewiser.git,a nodeschool workshop that teaches you the fundamentals of working with binary data in node.js and HTML5 browsers,,202
+0,https://github.com/lettertwo/appcache-webpack-plugin.git,Generate an HTML5 Application Cache for a Webpack build,"webpack,appcache",201
+0,https://github.com/krisrak/html5-canvas-drawing-app.git,"Sketchpad app using html5 canvas to draw using touch or mouse, works on iOS, Android, Window Phone and browser",,201
+0,https://github.com/pkrumins/node-video.git,A node.js module for streaming and recording HTML5 Theora videos,,201
+0,https://github.com/mozilla/html5-lint.git,"{""HTML Validation using Mozilla's HTML5 Validator instance""}",,199
+0,https://github.com/CKGrafico/Cordova-Multiplatform-Template.git,Cordova template for native look in HTML5 Apps with Ionic an Angular,,199
+0,https://github.com/bethrobson/Head-First-HTML5.git,Code for Head First HTML5 Programming by Eric Freeman and Elisabeth Robson,,198
+0,https://github.com/Orange-OpenSource/hasplayer.js.git,Http Adaptive Streaming javascript player based on HTML5 premium extensions (MSE/EME),,198
+0,https://github.com/timetocode/nengi.git,a node.js + html5 network engine for real-time multiplayer games,,198
+0,https://github.com/danielktaylor/fabric-js-editor.git,An HTML5 vector image editor built with Fabric.js,,197
+0,https://github.com/tidythemes/blankslate.git,This is the official and original BlankSlate HTML5 WordPress theme boilerplate most commonly known to designers and developers. Released under the GPL.,,197
+0,https://github.com/pubnub/real-time-stocks.git,This repository includes full app code for streaming stock quote data from PHP to a JavaScript HTML5 app.  The PubNub Real-time Network offers a Globally Distributed solution for streaming real-time data to millions of users in less than 0.25 seconds.  This provides developers the capability to utilize the Service Mediation aspect of the PubNub network to stream data over TCP socket connections using WebSockets and other protocols.  This repository is an HTML5 JavaScript and CSS3 example using live real-time data stream from a server.  Where PubNub fits in is in the mediation and brokering of the message stream in real-time to millions of people.  The PubNub Real-time Network provides highly reliable services for real-time data streams.  The PubNub Real-Time Network Build real-time apps quickly and scale them globally.,,197
+0,https://github.com/phonegap/phonegap-plugin-fast-canvas.git,"Fast, 2D, mostly-HTML5-canvas-compatible rendering surface for Android.",,196
+0,https://github.com/devbridge/html5-file-uploader.git,"{""JavaScript library that manages file uploads using html5 drag and drop and file API's.""}",,196
+0,https://github.com/BonsaiDen/NodeGame-Shooter.git,"Asteroids meets tons of color, meets multiplayer, meets HTML5 and falls in love with Node.",,196
+0,https://github.com/ekdevdes/storage.js.git,"Storage.js, Simple HTML5 Page Edits. A jQuery plugin around the localStorage api.","html5,jquery,jquery-plugin,javascript",196
+0,https://github.com/wsick/Fayde.git,Inspired by Silverlight; XAML engine using Javascript and rendering to the HTML5 Canvas.,,196
+0,https://github.com/cobookman/HTML5.MicIO.git,WORK IN PROGRESS: HTML5 powered Hardware Communication Bus using a microphone and headphone port.,,195
+0,https://github.com/Kaetram/Kaetram-Open.git,Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).,"html5,2d,mmo,browserquest,taptapadventure,game-engine,open-source,2d-game,multiplayer,game-server,html5-canvas,html5-game,gamedev,game-development,game,game-2d,demo,tilesheet,rendering-engine,tileset",194
+0,https://github.com/ShengxiangChen/MoonWarriors.git,Cocos2d-html5 Show Case : MoonWarriors,,193
+0,https://github.com/evanw/rapt.git,"Robots Are People Too, a platformer in HTML5",,193
+0,https://github.com/makinacorpus/Leaflet.FileLayer.git,"Loads files locally (GeoJSON, KML, GPX) as layers using HTML5 File API",,192
+0,https://github.com/Franslee/lucky-card.git,基于HTML5 Canvas的刮奖（刮刮卡）小控件(Scratch card based on HTML5 Canvas),,191
+0,https://github.com/robhawkes/rawkets.git,Massively multiplayer space game utilising HTML5 canvas and WebSockets,,191
+0,https://github.com/eyeos/spice-web-client.git,A full featured and high performance SPICE web client written in Javascript and HTML5,,191
+0,https://github.com/bmgdev/responsive-wedding.git,An HTML5 responsive design using jquery waypoints & scroll-to for a pleasant single-page navigation.  This template makes use of media queries and scales well for all mobile form-factors. ,,191
+0,https://github.com/pusher-community/html5-realtime-push-notifications.git,HTML5 Realtime Push Notifications,,190
+0,https://github.com/amanuel/JS-HTML5-QRCode-Generator.git,JavaScript-HTML5 QRCode Generator,,190
+0,https://github.com/ginpei/html5-youtube.js.git,YouTube Player API wrapper like HTML5 video API.,,190
+0,https://github.com/hustcc/ribbon.js.git,:ribbon: Only 1kb javascript gist to generate a ribbon in your website with HTML5 canvas.,"ribbon,javascript,html5,html5-canvas,canvas",190
+0,https://github.com/goat1000/TagCanvas.git,HTML5 canvas-based tag cloud,,189
+0,https://github.com/sensiolabs/ansi-to-html.git,An ANSI to HTML5 converter,,189
+0,https://github.com/IceCreamYou/HTML5-Canvas-Game-Boilerplate.git,Provides a set of default code that makes getting up and running with an HTML5 canvas game very easy.,"canvas,html5-canvas-game,html5-boilerplate,javascript,boilerplate-html,game-engine,game-development,game-2d,game-framework,boilerplate",189
+0,https://github.com/BlazorExtensions/Storage.git,HTML5 Storage API implementation for Microsoft Blazor,"blazor,html5-storage,storage,webassembly,web-assembly",188
+0,https://github.com/gokercebeci/droparea.git,droparea is a HTML5 drag and drop image/file uploader jQuery plugin,,188
+0,https://github.com/metachris/appengine-boilerplate.git,"Boilerplate setup for App Engine with html5-boilerplate 2.0, OpenID, memcache, user preferences, and more",,188
+0,https://github.com/PaulKinlan/formfactor.git,HTML5 Form-factor detection - formfactorjs.   Needs you to help write more detection specs.,,188
+0,https://github.com/uploadcare/uploadcare-widget.git,"Uploadcare Widget, an ultimate tool for HTML5 file upload supporting multiple file upload, drag&drop, validation by file size/file extension/MIME file type, progress bar for file uploads, image preview.","uploadcare,widget,uploader,filepicker,dialog,upload,store,file,files,image,images,file-upload,image-upload,file-validation,validation",188
+0,https://github.com/rheaton/carrierwave-video.git,carrierwave extension to use ffmpeg to transcode videos to html5-friendly format,,187
+0,https://github.com/dcloudio/H5P.Android.git,HTML5 Plus for Android,,186
+0,https://github.com/alandipert/storage-atom.git,ClojureScript atoms backed by HTML5 web storage.,,186
+0,https://github.com/dart-lang/html.git,Dart port of html5lib. For parsing HTML/HTML5 with Dart. Works in the client and on the server.,,186
+0,https://github.com/DominikGuzei/flawless.css.git,"{""A full stack html5 and css3 framework that uses less.js as it's core to provide a truly modular system with addons and other cute stuff ;-D""}",,185
+0,https://github.com/afshinm/50k.git,"A demo of HTML5 Web Worker, sorting 50K array with Bubble Sort.",,184
+0,https://github.com/chrisjpatty/react-dragtastic.git,A simple drag and drop library for React which uses the more stable mouseDown/mouseUp event pattern instead of the problematic HTML5 drag and drop API,"react,dnd,drag-and-drop,draggable,droppable",184
+0,https://github.com/bendangelo/EntityJS.git,HTML5 entity-component game engine,,183
+0,https://github.com/RoganMurley/hitagi.js.git,JavaScript HTML5 game development framework,"javascript,game-development,game-framework",183
+0,https://github.com/pubdreamcc/web-study.git,本仓库是自己总结的前端开发一些基础知识，包括html5，css3， canvas， jQuery， less ，ES6， webpack，Vue等，也包含了一些算法和数据结构方面的练习，同时也记录了自己工作中的踩坑总结，适合想要学习前端开发的伙伴，你可以clone项目到本地，然后一步一步跟着我的demo敲，希望大家都能全栈。,"html,css,javascript,jquery,vue,canvas,bootstrap3,less,video,webpack4,react",183
+0,https://github.com/westonruter/html5-audio-read-along.git,HTML5 Audio Read-Along,,182
+0,https://github.com/pughpugh/react-countdown-clock.git,HTML5 canvas countdown clock React component,"coffeescript,react,canvas,countdown-timer",181
+0,https://github.com/marianoguerra/rst2html5.git,"{""transform restructuredtext documents to html5 + twitter's bootstrap css, deck.js or reveal.js""}",,181
+0,https://github.com/newraina/mePlayer.git,一款简洁的HTML5音乐播放器,,180
+0,https://github.com/zachwill/flask-engine.git,"A Flask skeleton for Google App Engine, using html5 boilerplate templating.",,180
+0,https://github.com/robflaherty/html-slideshow.git,Lightweight HTML5-based slideshow ,,179
+0,https://github.com/codemix/htmling.git,Polymer / HTML5 templating syntax for node.js,,179
+0,https://github.com/MassiveHeights/Black.git,"{""World's fastest HTML5 2D game engine\xa0\xa0\xa0🛸""}","game-engine,2d,html5,canvas,particles,gcc,tween,math,sprite,cross-platform,spine,webaudio",179
+0,https://github.com/marcrobledo/RomPatcher.js.git,An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.,"patcher,rom,romhacking,ips,ups",179
+0,https://github.com/ina-foss/amalia.js.git,Metadata enriched HTML5 video player,,178
+0,https://github.com/LeaVerou/HTML5-Progress-polyfill.git,Polyfill for the HTML5 <progress> element,,178
+0,https://github.com/thomasdenney/ObjectiveGumbo.git,An Objective-C wrapper with utility functions around Gumbo for easy HTML5 parsing in Cocoa and Cocoa Touch,,178
+0,https://github.com/eikes/jquery.fullscreen.js.git,jQuery HTML5 Fullscreen Slideshow,,177
+0,https://github.com/mrob11/django-html5-boilerplate.git,No Longer Maintained | A starting template for Django websites using HTML5 boilerplate.,,177
+0,https://github.com/florianguenther/zui53.git,ZUI53 is a JavaScript Library to create powerfull webbased Zoomable User Interfaces (ZUIs) with new technologies like HTML5 and CSS3.,,177
+0,https://github.com/PexJS/PexJS.git,HTML5 Flash Lite 1.1 Runtime Engine,,176
+0,https://github.com/rubys/nokogumbo.git,A Nokogiri interface to the Gumbo HTML5 parser.,,176
+0,https://github.com/rprichard/x11-canvas-screencast.git,UNIX-to-HTML5-Canvas screencasting (X11 or OS X),,176
+0,https://github.com/paulrouget/html5dashboard.git,HTML5 Dashboard,,175
+0,https://github.com/petele/WebApp-CodeLab.git,HTML5 Web App Code Lab,,175
+0,https://github.com/fortes/history.js.git,"[Not Maintained!] HTML5 History APIs for legacy browsers. Implements window.history.pushState(), window.history.replaceState(), and the window.onpopstate event.",,175
+0,https://github.com/mobello/rip_mobello.git,HTML5 UI framwork for building mobile apps,,174
+0,https://github.com/ember-cli/ember-fetch.git,HTML5 fetch polyfill from github wrapped and bundled for ember-cli users.,,174
+0,https://github.com/dgileadi/zepto-page-transitions.git,"HTML5 Page Transitions similar to JQuery Mobile page transitions, but standalone (13k) and using Zepto.js",,174
+0,https://github.com/swooningfish/ffmpeg-web-gui.git,"This is a PHP script for FFmpeg which allows you to upload a video and convert it into html5 (mp4 h264, webm, ogv)",,174
+0,https://github.com/hyspace/flappy.git,flappy bird in html5,,173
+0,https://github.com/gunta/grunt-manifest.git,Generates HTML5 Cache Manifest files,,173
+0,https://github.com/rubenfonseca/twitter-amqp-websocket-example.git,Simple example of Twitter + AMQP + RabbitMQ + EventMachine + HTML5 WebSocket with no polling,,173
+0,https://github.com/adopted-ember-addons/ember-file-upload.git,HTML5 file uploads for Ember apps,"addon,ember,file-upload",172
+0,https://github.com/billerickson/EA-Genesis-Child.git,HTML5 base child theme for Genesis,,172
+0,https://github.com/Chimeejs/chimee-mobile-player.git,这是基于chimee集成的一套您可以直接使用的HTML5移动端播放器，提供有了默认样式。,,172
+0,https://github.com/ricricucit/html5admin.git,HTML5 ADMIN TEMPLATE,,171
+0,https://github.com/hughsk/game-modules.git,:green_book: A list of game-related modules and examples for writing HTML5 games with browserify,,171
+0,https://github.com/developit/preact-markup.git,":zap: Render HTML5 as VDOM, with Components as Custom Elements!","preact,html-renderer,xml,dom,markup,markdown,parse,jsx,preact-components",170
+0,https://github.com/janosgyerik/bashoneliners.git,"A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribute one-liners, request one-liners, search, rss feed, commenting, Open ID login. Open-source project, using Django, Python, jQuery, HTML5, Bootstrap from Twitter.",,170
+0,https://github.com/wojodesign/local-storage-js.git,Cross Browser HTML5 Local Storage Polyfill,,168
+0,https://github.com/bytedance/xgplayer-vue.git,"Vue component for xgplayer, a HTML5 video player with a parser that saves traffic",,168
+0,https://github.com/brion/yuv-canvas.git,JS class to draw YUV image frame buffers to an HTML5 canvas,,168
+0,https://github.com/indus/ncc.git,node-chrome-canvas || a simple to use and performant HTML5 canvas for Node.js,,168
+0,https://github.com/googleads/googleads-ima-html5.git,Samples for the HTML5 IMA SDK.,,167
+0,https://github.com/jordic/file_server.git,Portable filebrowser with mobile ui ( html5 + go ),"fileserver,go,html5,angular,golang",167
+0,https://github.com/leemark/better-simple-slideshow.git,"Another simple DIY responsive image slideshow made with HTML5, CSS3, and JavaScript",,167
+0,https://github.com/estudonauta/html-css-old.git,Material original do Curso de HTML5,,167
+0,https://github.com/Stryzhevskyi/rangeSlider.git,"Simple, small and fast vanilla JavaScript polyfill for the HTML5 `<input type=""range"">` slider element.","es6,range-slider,pure-javascript,vanilla-javascript,input-range,rangeslider",166
+0,https://github.com/shershen08/vuejs-sound-player.git,"▶️ 🎹 🎵 HTML5 <audio> tag sound player UI for Vue.js - supports single, loop, pause/stop modes etc","audio,sound,player,vuejs2",166
+0,https://github.com/egret-labs/Lark.git,Lark is an interactive mobile application framework which developers can use it to create rich and interactive mobile apps with HTML5. ,,166
+0,https://github.com/nathos/amicus.git,"Amicus is a clean project template for the Middleman static site generator. It includes HTML5 Boilerplate, the awesome Susy grid system, and lots of best practices.",,166
+0,https://github.com/dadiyang/jave.git,音频转码工具，主要用于将微信语音 amr 格式转换为 mp3 格式以便在 html5 的 audio 标签中进行播放,,165
+0,https://github.com/devgeeks/ExampleHTML5AudioStreaming.git,Example project showing audio streaming using HTML5 Audio with PhoneGap on iOS - https://build.phonegap.com/apps/242993,,164
+0,https://github.com/bit101/grid.git,"{""A library for drawing various types of grids on HTML5's Canvas.""}",,164
+0,https://github.com/namusyaka/gammo.git,A pure Ruby HTML5-compliant parser with XPath 1.0 traversal,,164
+0,https://github.com/ruricolist/spinneret.git,Common Lisp HTML5 generator,,163
+0,https://github.com/illuspas/NodePlayer.js.git,Pure JavaScrip HTML5 live stream player,"javascript,browser,livestream,player,flv,h264,h265,aac,speex,nellymoser",162
+0,https://github.com/bjnortier/shapesmith.deprecated.git,Open source HTML5 3D modelling,,162
+0,https://github.com/meta-magic/amexio.github.io.git,"{""Amexio is a rich set of Angular 7 (170+) components powered by HTML5 & CSS3 for Responsive Design and with 80+ Material Design Themes, UI Components, Charts, Gauges, Data Point Widgets, Dashboards. Amexio is completely Open Sourced and Free. It's based on Apache 2 License. You can use it in your production grade work today at no cost or no obligation. ""}","angular,bootstrap3,bootstrap4,angular-extensions,angular5,responsive-web-design,ui,components,datatable,charts,dashboard,typescript,angular6-component,angular-material,angular4,angular6-table,react,vue",162
+0,https://github.com/codeforscience/webdata.git,"Discussion on improving numeric computing/data science on the web (JavaScript, HTML5)",,161
+0,https://github.com/xqq/mpegts.js.git,HTML5 MPEG2-TS Stream Player,"html5,player,mpegts,mpeg-ts,mse,media-source-extensions,epgstation,livestream",160
+0,https://github.com/ShimmerPig/PigChat.git,Netty+SpringBoot+FastDFS+Html5实现聊天App,,159
+0,https://github.com/pupunzi/jquery.mb.audio.git,An audio API for mobile HTML5 that tries to actually work :-),,159
+0,https://github.com/jonstipe/number-polyfill.git,"A polyfill for implementing the HTML5 <input type=""number""> element in browsers that do not currently support it.",,159
+0,https://github.com/idevelop/camera.js.git,JavaScript wrapper for HTML5 camera input,,157
+0,https://github.com/maxogden/domnode.git,node style streams for HTML5 APIs,,157
+0,https://github.com/kasperkamperman/MobileCameraTemplate.git,"A HTML5, JS, CSS Camera interface template. Feel free to use it in your next Computer Vision or AI project. ","camera,canvas-2d-context,computer-vision,ai,mobile-first,javascript,webrtc-demos",157
+0,https://github.com/lelinhtinh/watermark.git,Add watermark on images use HTML5 and Javascript.,"html5,javascript,watermark,jquery-plugin-watermark,stamp,jquery-plugin,npm-package",156
+0,https://github.com/roots/wp-h5bp-htaccess.git,"{""WordPress plugin that adds HTML5 Boilerplate's .htaccess""}",,156
+0,https://github.com/FullScreenShenanigans/FullScreenPokemon.git,"A free HTML5 remake of the original Pokemon, expanded for modern browsing.","pokemon,typescript,javascript,html5-remake,game,gamestartr,fullscreenmario",156
+0,https://github.com/klugjo/hexo-theme-magnetic.git,Adaptation of http://pixelhint.com/magnetic-free-html5-responsive-photography-website-template/ for hexo,,156
+0,https://github.com/DerekRies/angular-notifications.git,An AngularJS component for easily creating notifications. Can also use HTML5 notifications.,,156
+0,https://github.com/phptal/PHPTAL.git,PHP Template Attribute Language — template engine for XSS-proof well-formed XHTML and HTML5 pages,"php,phptal,template-engine,template-language,templating",155
+0,https://github.com/zoomsphere/ngx-store.git,"Angular decorators to automagically keep variables in HTML5 LocalStorage, SessionStorage, cookies; injectable services for managing and listening to data changes and a bit more.","angular,localstorage,sessionstorage,cookies,decorators,typescript",154
+0,https://github.com/timhutton/sdl-canvas-wasm.git,Minimal example of animating the HTML5 canvas from C++ using SDL through WebAssembly ,,153
+0,https://github.com/devthenet/voyeur.git,Voyeur is a ruby gem that converts almost any video format into the common formats you need to display HTML5 video,,153
+0,https://github.com/TheSos/allegrojs.git,a HTML5 game making library,,152
+0,https://github.com/fjsantosb/Molecule.git,Html5 Game Framework to build cross-platform games on a fast and efficient way.,,152
+0,https://github.com/h5bp/create-html5-boilerplate.git,npx quick start for html5-boilerplate,"quickstart,html5-boilerplate,html,web",151
+0,https://github.com/studease/playease.git,"This is not only an HTML5 FLV Player, but also supports HTTP/WS-fMP4, MPEG-DASH, HLS and Original HTML5 Media Resources, with an independent UI framework.","flv,fmp4,mpeg-dash,player,html5-flv-player,flv-player,hls",151
+0,https://github.com/roboshoes/hair.git,HTML5 Canvas experiment,,150
+0,https://github.com/MrFrankel/ruler.git,HTML5 Canvas ruler for authoring tools,ruler,149
+0,https://github.com/philippbosch/haz.git,See at a glance which of the latest HTML5 and CSS3 features are supported in your browser,,149
+0,https://github.com/pipefail/angular-chartjs.git,Directive set for the ChartJS library. Supports data bindings and attribute-level specification for chart specific options. The only Angular ChartJS module that supports ALL chart options as HTML5 attributes :),,149
+0,https://github.com/Nurgak/Cube-engine.git,3D engine completely written in HTML5 without OpenGL,,148
+0,https://github.com/disjukr/croquis.js.git,HTML5 drawing tool library,"canvas,brush",147
+0,https://github.com/sanwebe/Chat-Using-WebSocket-and-PHP-Socket.git,Simple Example of Chat system using PHP socket and HTML5 WebSockets,,147
+0,https://github.com/solarkennedy/wine-x11-novnc-docker.git,Base Docker image to run wine programs in a web browser via noVNC (html5 vnc viewer) + Xvfb + x11vnc,,147
+0,https://github.com/janmyler/web-audio-editor.git,HTML5 based audio editor.,"html5,webaudio-api,canvas,audio-editor,javascript,audio-clips",146
+0,https://github.com/abduzeedo/ios7-blur-html5.git,iOS 7 Blur in HTML5,,146
+0,https://github.com/cubiq/hexagame.git,Open Source HTML5 Word Puzzle Game,,146
+0,https://github.com/kostya/myhtml.git,Fast HTML5 Parser with css selectors for Crystal language,"html,parser,fast,myhtml,crystal",146
+0,https://github.com/gjunge/rateit.js.git,"{""Rating plugin for jQuery.  Fast, Progressive enhancement, touch support, icon-font support, highly customizable, unobtrusive JavaScript (using HTML5 data-* attributes), RTL support, supports as many stars as you'd like, and also any step size.""}","star,rating-plugin,rateit,jquery,rating",146
+0,https://github.com/pnitsch/jsTerm.git,ANSI capable JavaScript terminal emulator using HTML5 Canvas/WebSocket/node.js,,145
+0,https://github.com/balint42/comic.js.git,Cartoon style drawing for HTML5 Canvas & Raphael.js & D3.js & SVG.js,,145
+0,https://github.com/ManzDev/roadmap-web-developer-2017.git,Front-end (HTML5/CSS3/Javascript related) technologies to learn in 2017,"frontend-web,html,html5,css,css3,js,javascript,frontend,front-end,front-end-development,developer",145
+0,https://github.com/wikimedia/VisualEditor.git,"✏ Standalone rich HTML5 editor, based on ContentEditable.  Mirror\xa0from\xa0https://gerrit.wikimedia.org/g/VisualEditor/VisualEditor. See\xa0https://mediawiki.org/wiki/Developer_access.","javascript,html-editor",145
+0,https://github.com/SpruceGabriela/30diasDeCSS.git,30 dias de CSS3 é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3,,145
+0,https://github.com/spbooks/html5games1.git,Code archive for the book HTML5 Games: Novice to Ninja,,144
+0,https://github.com/jwill/html5-game-book.git,"Code Samples and Demos for ""Learning HTML5 Game Programming""",,142
+0,https://github.com/endel/joy.js.git,A Joyful 2D HTML5 Game Engine.,,142
+0,https://github.com/dissimulate/jelly.git,A javascript/HTML5 canvas wobbly physics simulation,,142
+0,https://github.com/arahaya/ImageFilters.js.git,A Javascript Image filter library for the HTML5 canvas tag.,,142
+0,https://github.com/bytedance/danmu.js.git,HTML5 danmu (danmaku) plugin for any DOM element,"danmu,danmaku,bullet-screen,barrage,live-commenting,html5",142
+0,https://github.com/julien-maurel/js-storage.git,JS Storage is a plugin to simplify access to local and session storage in HTML5,,142
+0,https://github.com/cykod/AlienInvasion.git,Demo Game for Mobile HTML5 Game Development,,141
+0,https://github.com/akokubo/ThetaViewer.git,RICOH THETA like equirectangular projection panorama HTML5 viewer,,141
+0,https://github.com/russfrisch/h5bp-rails.git,Rails 3.1+ compatible Application Template based on the HTML5 Boilerplate project,,141
+0,https://github.com/markmarkoh/birdman.git,Using the HTML5 Web Audio APIs to recreate the Birdman opening credits,,141
+0,https://github.com/eirikb/gifie.git,Create a gif-selfie with HTML5 web cam,,140
+0,https://github.com/benvinegar/seamless-talk.git,"{""GothamJS 2012 talk on HTML5's seamless iframe attribute""}",,140
+0,https://github.com/jakesgordon/javascript-gauntlet.git,An HTML5 Gauntlet-style game,,139
+0,https://github.com/martindrapeau/backbone-game-engine.git,HTML5 Game Engine using Backbone.,,139
+0,https://github.com/rombdn/img-touch-canvas.git,Add touch gestures (pinch zoom) to images based on Canvas (vanilla HTML5 / JS),,139
+0,https://github.com/diervo/html5rubik.git,"{""Rubik's cube made in HTML5 using just CSS3 and Javascript. Optimized for Mobile and Tablet devices""}",,139
+0,https://github.com/MABelanger/react-html5-camera-photo.git,HTML5 camera photo,,138
+0,https://github.com/andchir/jquery-video-extend.git,HTML5 Video Extend,,138
+0,https://github.com/chasebgale/rocketcharts.git,Awesome open source HTML5 financial/statistical charts!,,138
+0,https://github.com/rm-hull/programming-enchiladas.git,"A ClojureScript-based HTML5 Canvas and SVG Graphics Playground, much like http://bl.ocks.org/ but specifically for showcasing small ClojuresScript code demos: The underlying agenda is to show how small simple functional programs can generate complex behaviour.",,138
+0,https://github.com/osis/simple_fb_html5_sidebar.git,A simple sliding menu in HTML5,,137
+0,https://github.com/rafikov/Simpliste.git,Simple responsive HTML5 template,,137
+0,https://github.com/wayou/selected.git,":musical_note: A collection of songs that I love, also shows how to sync lyric with HTML5 audio tag",,137
+0,https://github.com/SMUsamaShah/CanvasRecorder.git,Record HTML5 canvas to webm video with JavaScript,"javascript,canvas,webm,recorder,html5-canvas",136
+0,https://github.com/BigPig0/RelayLive.git,视频服务中继，转换传输协议。将rtsp、gb28181转为html5可以直接播放的协议。,,136
+0,https://github.com/codebushi/gatsby-starter-strata.git,"Gatsby.js V2 starter template based on Strata, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.",,136
+0,https://github.com/apsavin/jCanvaScript.git,HTML5 Canvas JavaScript library,,135
+0,https://github.com/react-dnd/react-dnd-html5-backend.git,HTML5 backend for React DnD [Legacy Repo],,135
+0,https://github.com/kirsle/flask-multi-upload.git,Simple demo of an HTML5 multi-uploader with Python/Flask.,,135
+0,https://github.com/infews/bulldog.git,"HTML5 task manager, built on todo.txt",,135
+0,https://github.com/phoboslab/TwoPointFive.git,3D View Plugin for the Impact HTML5 Game Engine,,135
+0,https://github.com/KaliedaRik/Scrawl-canvas.git,"Responsive, interactive and more accessible HTML5 canvas elements. Scrawl-canvas is a JavaScript library designed to make using the HTML5 canvas element a bit easier, and a bit more fun!","html5,canvas,javascript,html5-canvas-element,graphical-displays,animations,accessibility,responsive-web-design",135
+0,https://github.com/Stencyl/stencyl-engine.git,"{""Create Flash, HTML5, iOS, Android, and desktop games with no code with Stencyl. This is the source to Stencyl's Haxe-based engine.""}","stencyl,haxe,game-engine",135
+0,https://github.com/dcloudio/H5P.Core.git,HTML5 plus runtime,,134
+0,https://github.com/facebookarchive/powereditor.git,An HTML5 based application for managing Facebook ads.,,134
+0,https://github.com/Kitura/swift-html-entities.git,HTML5 spec-compliant character encoder/decoder for Swift,"swift,html,escape,decoder,encoder,html-entities",134
+0,https://github.com/dcneiner/html5-site-template.git,A simple HTML5 site template to save me some time when starting a new site design/development.,,134
+0,https://github.com/vladakilov/imagine.git,imagine.js is a lightweight HTML5 Canvas library,,134
+0,https://github.com/grassator/canvas-text-editor-tutorial.git,Simple text editor using html5 canvas,html5-canvas,133
+0,https://github.com/peterfinlan/Sedna.git,A free one page html5/css3 template by Peter Finlan,,133
+0,https://github.com/bluef/gitgraph.js.git,convert git log --graph to image with HTML5 canvas,,133
+0,https://github.com/huajiaofrontend/HJPlayer.git,"A HTML5 Player, can play flv and hls by Media Source Extension, based on typescript.","hls-stream-video,hls,player,video-element,mediadatasource,flv,demo,sei,video,http-live-streaming,mediasource,streaming,javascript,html,html5",132
+0,https://github.com/gordonknoppe/magento-cachebuster.git,"A Magento 1.x module which facilitates automatic purging of static assets from HTTP caches such as browser cache, CDN, Varnish, etc using best practices outlined within the HTML5 boilerplate community.",,132
+0,https://github.com/GwennaelBuchet/SceneGraph.js.git,HTML5 Canvas and Animation Framework,,131
+0,https://github.com/jplayer/react-jPlayer.git,Html5 audio and video player library for React,"audio,video,video-player,audio-player,react,redux,jplayer,javascript,html5,html,html5-video,media",131
+0,https://github.com/pfefferle/SemPress.git,"A highly semantic WordPress Theme with HTML5 templates, responsive and seo optimized. SemPress supports most of the new HTML5 tags, the new HTML5 input-types, microformats, microformats v2 and microdata (Schema.org).","microformats,microdata,html5,wordpress,wordpress-theme,theme,posh,semantic,microformat,microformats2",131
+0,https://github.com/nylas/inbox-scaffold-html5.git,The Inbox HTML5 App Scaffold - a foundation for building great mail apps.,,131
+0,https://github.com/MrSwitch/dropfile.git,"{""Dropfile is a shim which uses Silverlight to recreate the part of the HTML5 FileAPI which lets us drag files into the IE browser and read em'""}",,131
+0,https://github.com/skylicht-lab/skylicht-engine.git,"Skylicht Engine is C++ Game Engine based on Irrlicht 3D. We have upgraded to more features. Cross-Platform Framework (Android, IOS, UWP, HTML5)","skylicht-engine,irrlicht-engine,google-angle,opengles3,directx11,lightmapper,game-development,game-engine,particle",131
+0,https://github.com/williammalone/BlocksJS.git,A lightweight 2D HTML5 canvas game framework,,130
+0,https://github.com/iceddev/frozen.git,"Frozen is an open-source HTML5 game engine delivering ease-of-use, rapid development through tooling and modularity.",,130
+0,https://github.com/827652549/CanvasStudy.git,HTML5 Canvas的中文系列学习教程，也可作为查阅工具，简单上手。,,130
+0,https://github.com/knu/noreferrer.git,"{""Cross-browser support for HTML5's noreferrer link type.""}",,129
+0,https://github.com/hober/html5-el.git,HTML5 and XHTML5 tools in Emacs Lisp,,129
+0,https://github.com/larskarbo/napchart.git,Drag-and-drop time-planning library using HTML5 and the canvas element,"time,schedule",129
+0,https://github.com/surunzi/VisualMusic.git,HTML5 music visualization (Chrome only),,128
+0,https://github.com/PBS-KIDS/Platypus.git,2D tile based game framework in HTML5,,128
+0,https://github.com/tsand/responsive-sketchpad.git,"A completely responsive, HTML5 canvas sketchpad for use on desktop and mobile browsers","html5-canvas-sketchpad,responsive,mobile-sketchpad,canvas,javascript",128
+0,https://github.com/triceam/HTML5-Canvas-Brush-Sketch.git,"Sample sketch app using HTML5 Canvas that demonstrates lineTo drawing techniques, as well as brush images.",,128
+0,https://github.com/izuzak/pmrpc.git,HTML5 inter-window and Web workers RPC and publish-subscribe communication library ,,128
+0,https://github.com/zackproser/CanyonRunner.git,"A complete HTML5 game using the Phaser framework. Playable, buildable, and published as a tutorial for other game developers.",,128
+0,https://github.com/Wildhoney/Dory.git,"Dory is a responsive, universal, GitHub collaborated blogging platform built on React and powered by Express. By combining awesome features such as automatic RSS generation, HTML5 offline support, push notifications, with a powerful development environment using hot reloading, SASS and Markdown, Dory allows developers to quickly dive into the depths of blogging.",,128
+0,https://github.com/benfrain/rwd.git,"{""Code samples from the book 'Responsive web design with HTML5 and CSS3'""}",,127
+0,https://github.com/BGStock/jquery-background-video.git,Easily improve your HTML5 background videos with a single line of jQuery,,127
+0,https://github.com/markfarnan/go-canvas.git,"Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code",,127
+0,https://github.com/joelhans/Jekyll-AJAX.git,This basic Jekyll site enables dynamic content loading via AJAX with all the necessary HTML5 History support.,,127
+0,https://github.com/Metrological/buildroot.git,"Buildroot Environment for multiple TV WebKit ports using EGL and GLESv2, supporting WebGL, Canvas, HTML5 Video as a texture and more. One of the target devices supported is the Raspberry PI 2.",,127
+0,https://github.com/BlazorExtensions/Notifications.git,HTML5 Notifications API implementation for Microsoft Blazor,"blazor,blazor-extensions,blazor-interop,webassembly,web-assembly,html5,html5-notificationapi",126
+0,https://github.com/jwagner/Neonflames.git,Neon flames is a crazy online HTML5 drawing tool.,,126
+0,https://github.com/amberweinberg/Hijinks--A-Developer-s-Blank-WordPress-Theme.git,A great starter blank theme using basic HTML5 and semantic elements without the fluff. Includes commonly used WordPress functions.,,126
+0,https://github.com/clintbellanger/Karma-Slots.git,Simple HTML5/js/canvas slot machine game,,125
+0,https://github.com/MicrosoftEdge/Sudoku.git,"In this demo we take the well-known game of Sudoku, and demonstrate how developers can use HTML5 and JavaScript to create an efficient algorithm to solve these puzzles. The algorithms draw heavily on the Chakra engine’s support for ECMAScript 5 standard array operations to rapidly solve many Sudoku games. You can also manually solve Sudoku puzzles.",,125
+0,https://github.com/andrewbanchich/editorial-jekyll-theme.git,"A Jekyll version of the ""Editorial"" theme by HTML5 UP.","html,jekyll,theme,ruby-gem,jekyll-themes,static,static-site,editorial-theme",124
+0,https://github.com/haozki/luckyOne.git,HTML5&CSS3抽奖小程序,"lottery,javascript,css",124
+0,https://github.com/aantron/markup.ml.git,Error-recovering streaming HTML5 and XML parsers,"html,html5,xml,streaming,ocaml",124
+0,https://github.com/jakewp11/HTML5_Android_Template.git,A starting point for creating Android apps using HTML5 in Eclipse.,,124
+0,https://github.com/mikeswanson/Ai2Canvas.git,A plug-in for Adobe Illustrator that exports artwork and animation to a HTML5 canvas,,124
+0,https://github.com/ufna/VaQuoleUI.git,[DEPRECATED] Web UI framework plugin for Unreal Engine 4 - feel the power of HTML5!,,123
+0,https://github.com/andregoncalves/twitter-nodejs-websocket.git,Twitter streaming directly to browser with Node.js and HTML5 websockets,,123
+0,https://github.com/zhangxinxu/html5Validate.git,基于HTML5新特性新规范的表单验证jQuery插件,,123
+0,https://github.com/DamonOehlman/tile5.git,DEPRECATED: The Alternative HTML5 mapping library [see: https://github.com/Cloudmade/Leaflet],,123
+0,https://github.com/ranjithprabhuk/Angular-Bootstrap-Dashboard.git,"Angular Bootstrap Dashboard is a web dashboard application based on Bootstrap and AngularJS. All components included in this dashboard template has been developed to bring all the potential of HTML5 and Bootstrap plus a set of new features (JS and CSS) ideal for your next dashboard admin theme or admin web app project. Angular Bootstrap Dashboard can be used in any type of web applications dashboard: Single Page Application (SPA), project management system, ecommerce admin dashboard, CMS, CRM, SAAS, help desk; for personal and business purposes. Angular Bootstrap Dashboard uses ui-router for routing purposes.",,123
+0,https://github.com/MattMcFarland/react-darkroom.git,An HTML5 Image Editing Component built with ReactJS,,122
+0,https://github.com/mrcoles/javascript-piano.git,An HTML5 JavaScript synth piano that generates all of its sounds using data URIs.,,122
+0,https://github.com/SimonHung/LodeRunner_TotalRecall.git,Lode Runner - Total Recall (超級運動員-全面回憶) : Remake in HTML5,"game,javascript,classic-game,javascript-game",122
+0,https://github.com/Shyam-Chen/Vue-Starter.git,":poodle: A boilerplate for HTML5, Vue, Vue Router, i18n, Tailwind, Windi, Netlify, and Vite.","vue,material,babel,reactivex,webpack",122
+0,https://github.com/dciccale/placeholder-enhanced.git,Placeholder Enhanced enhance the use of HTML5 placeholder attribute providing cross-browser support & styling,,122
+0,https://github.com/wwwtyro/canvas-video-generator.git,Capture HTML5 canvas frames and render high quality video with FFMPEG.,,122
+0,https://github.com/caokang/waimai.git,"超级外卖 Super Cms是专业的外卖订餐系统，使用它，不用写代码，只要会打字，就可以管理网站。 前台设计采用采用html5与css3设计，兼容IE6+、Firefox、Chrome、Safari、Opera等主流浏览器. 并可以在微博，微信中完美显示。后台功能模块化设计，用户操作方便。 易于上手，即安即用。 适合餐馆，酒店，外卖平台，糕点店，海鲜店【此地址用于维护】,详细问题，见链接",,122
+0,https://github.com/vadimpronin/guacamole-lite.git,NodeJS replacement for guacamole-client (server-side Java servlet). Guacamole is a RDP/VNC client for HTML5 browsers.,"guacamole,rdp,vnc",121
+0,https://github.com/sams/Thematic-html5boilerplate.git,A Thematic theme for Wordpress using the goodness of HTML5 Boilerplate - loads of improvements soon,,121
+0,https://github.com/ahung89/bomb-arena.git,An HTML5 multiplayer arena-style combat game,,120
+0,https://github.com/wangleihd/freeBook-H5.git,:books: 免费:cn:的HTML5相关技术书籍，欢迎投稿...,,120
+0,https://github.com/saxap/clean-wp-template.git,Clean WordPress template with minimal bootstrap3 html5 markup for fast development starting.,,120
+0,https://github.com/lixk/easy-window.git,HTML5桌面应用程序开发通用工具,,120
+0,https://github.com/dret/HTML5-overview.git,Overview of HTML5 Standardization Activities.,,119
+0,https://github.com/Imaginea/matisse.git,A shared whiteboard using HTML5 Canvas with server on socket.io and node.js,,119
+0,https://github.com/wilk/ExtJS-WebSocket.git,Ext.ux.WebSocket is an extension to manage HTML5 WebSocket with ExtJS and SenchaTouch,,119
+0,https://github.com/h5bp/main.css.git,"A repository for the development of the HTML5 Boilerplate CSS file, main.css",,119
+0,https://github.com/patrickocoffeyo/BootstrapBlocks.git,Bootstrap/HTML5 boilerpate based starter theme for Drupal 7.x,,118
+0,https://github.com/hugodias/cakeStrap.git,CakeStrap is a bootstrap for CakePHP - HTML5 CakePHP2.x Bootstrap 3.0!,,118
+0,https://github.com/journey-ad/cPlayer-Typecho-Plugin.git,A typecho plugin for a beautiful html5 music player https://github.com/MoePlayer/cPlayer/tree/f9b593dcd89395f9d7dd08ccda428f7628ab9ab2,"cplayer,typecho,typecho-plugin,music,player,cloudmusic",118
+0,https://github.com/sriharshachilakapati/SilenceEngine.git,A cross platform 2D / 3D Java Game Engine (Desktop / Html5 / Android),"java,game-engine,windows,mac,linux,android,html5,opengl,openal",118
+0,https://github.com/oxfordinternetinstitute/InteractiveVis.git,"The InteractiveVis project, funded by JISC from May to September 2012, aims to allow easy creation of interactive visualisations for geospatial and network data using native web technologies (HTML5, CSS3, and SVG) and allow these visualisations to be self-contained so that they may run entirely offline in ebooks and other media. The project will survey existing solutions and build the necessary components to fill in missing features and smooth over incompatibilities in between existing libraries. The project will further provide online hosted wizards to allow for the easy creation of these interactive visualizations. All code is open source and released under the GNU GPL v3 license.",,118
+0,https://github.com/andresriancho/websocket-fuzzer.git,HTML5 WebSocket message fuzzer,"appsec,websocket,fuzzing,html5",117
+0,https://github.com/krisrak/appframework-templates.git,HTML5 Mobile App UI templates created using Intel App Framework,,117
+0,https://github.com/New-Bamboo/example-ajax-upload.git,An example of HTML5-powered Ajax file uploads,,117
+0,https://github.com/MarkRepo/wfs.js.git,use html5 video tag with MSE for  raw h264 live streaming.,,117
+0,https://github.com/NV/placeholder.js.git,Brings HTML5 placeholder attribute into all modern browsers (not maintained any more),,117
+0,https://github.com/kamilczujowski/least.js-2.git,This plugin is no longer maintained –\xa0 Random and Responsive HiDPI jQuery Gallery based on HTML5 and CSS3,,117
+0,https://github.com/mknecht/gridscrolling.js.git,"A layout for HTML5 articles, positioning sections and asides in a grid, allowing easy navigation with cursor keys.",,117
+0,https://github.com/tbfisher/sublimetext-Pandoc.git,"A Sublime Text plugin that uses Pandoc to convert text from one markup format into another. Pandoc can convert documents in markdown, reStructuredText, textile, HTML, DocBook, LaTeX, MediaWiki markup, OPML, or Haddock markup to XHTML, HTML5, HTML slide shows using Slidy, reveal.js, Slideous, S5, or DZSlides, Microsoft Word docx, OpenOffice/LibreOffice ODT, OpenDocument XML, EPUB version 2 or 3, FictionBook2, DocBook, GNU TexInfo, Groff man pages, Haddock markup, OPML, LaTeX, ConTeXt, LaTeX Beamer slides, PDF via LaTeX, Markdown, reStructuredText, AsciiDoc, MediaWiki markup, Emacs Org-Mode, Textile, or custom writers can be written in lua.",,117
+0,https://github.com/xuanfeng/draw.git,HTML5绘画板-轩枫阁,,116
+0,https://github.com/aui/popupjs.git, W3C HTML5 Dialog Plus,,115
+0,https://github.com/thomassturm/VideoSub.git,HTML5 Video with SRT Subtitles,,115
+0,https://github.com/ninjatronic/ngGeolocation.git,AngularJS support for HTML5 Geolocation,,115
+0,https://github.com/davejohnson/phonegap-windows.git,PhoneGap wrapper for running HTML5 apps as native Windows desktop apps,,115
+0,https://github.com/lamplightdev/compass.git,HTML5 Compass App,,114
+0,https://github.com/zya/granular.git,HTML5 Granular Synthesiser,"webaudio,webaudio-api,music,synthesizer,granular,synthesis,javascript",114
+0,https://github.com/peterfinlan/Boxify.git,A free one page html5/css3 template by Peter Finlan,,114
+0,https://github.com/qiao/ProgressCircle.js.git,A progress indicator in HTML5 canvas,,114
+0,https://github.com/borismus/game-asset-loader.git,"HTML5 Filesystem, offline capable loader for web game assets.",,114
+0,https://github.com/eisneim/react-html5-video.git,html5 video component for react.js app,,113
+0,https://github.com/k55k32/quaver.git,"a hot game ""Quaver Html5 Version"". Base on Vue2",,113
+0,https://github.com/justindeguzman/locstor.git,JavaScript helper library for HTML5 localStorage,,113
+0,https://github.com/tux21b/ChessBuddy.git,"Play chess with Go, HTML5, WebSockets and random strangers!",,113
+0,https://github.com/suyati/line-control.git,A Light Weight HTML5 Text Editor designed as  a JQuery Plugin,,113
+0,https://github.com/CartoDB/VECNIK.git,"Render Vector HTML5 maps using CartoDB and Carto as styling language, on top of Leaflet",,113
+0,https://github.com/Hivenfour/SeamlessLoop.git,Reproduce seamless/gapless audio loops on HTML5/JavaScript without specific browser Audio APIs,,113
+0,https://github.com/martinjackson/electron-run-shell-example.git,"{""An example of a standalone HTML5 app using GitHub's Electron project (Chrome Engine + Node.js).  This shows running a bash shell as a child process and pouring the output into HTML5 elements.""}",,113
+0,https://github.com/alluniq/validated-fields.git,"Set of Rails helpers for unobtrusive frontend validations using HTML5 attributes, Rails 3 validators and JavaScript.",,113
+0,https://github.com/ScottLogic/StockFlux.git,"StockFlux is a desktop application developed by Scott Logic that uses the OpenFin HTML5 container together with React, Redux, ES2015 and d3fc","react,redux,d3fc,d3,openfin",113
+0,https://github.com/egil/php-markdown-extra-extended.git,"An fork of the PHP Markdown (Extra) project, extended with extra syntax, especially focused on adding support for more HTML attributes to outputted HTML, and for outputting HTML5.",,113
+0,https://github.com/simurai/ZEN-Player.git,HTML5 Audio player,,112
+0,https://github.com/jbum/Whitney-Music-Box-Examples.git,"Example code for making Whitney Music Boxes in various languages (BASIC, ChucK, Flash AS2, HTML5/JS, perl, nyquist, processing, pyo, sonic pi, supercollider, syd)",,112
+0,https://github.com/acspike/ChordJS.git,Draw guitar chord diagrams on HTML5 canvas,,111
+0,https://github.com/pstadler/battery.js.git,A tiny wrapper for the HTML5 Battery Status API.,"javascript,battery,browser,library,html5",111
+0,https://github.com/dmfrancisco/slideshow.html.git,yet another HTML5 Presentation Assembler,,111
+0,https://github.com/html5-ninja/Bootstrap-video-player-jQuery-plugin.git,"A customizable HTML5 video player plugin for jQuery based on bootstrap UI , live demo available on ",,111
+0,https://github.com/dmotz/jade-html5-boilerplate.git,HTML5 Boilerplate ported to Jade. Great as a drop and go markup skeleton for Express apps.,"html5-boilerplate,jade,pug,html,boilerplate,template,express",111
+0,https://github.com/christophevg/UmlCanvas.git,UmlCanvas is an implementation around the HTML5 Canvas that allows generation of UML diagrams. Two interfaces are provided: an OO Javascript API and a textual DSL.,"javascript,html5-canvas,uml-diagrams",111
+0,https://github.com/straker/galaxian-canvas-game.git,A Galaxian Style HTML5 Canvas Game. Hosts all the files for the five part tutorial series on http://blog.sklambert.com/galaxian-html5-game/.,,110
+0,https://github.com/zenorocha/wormz.git,HTML5 Canvas Experiment featured in Chrome Experiments,,110
+0,https://github.com/lin-xin/sChart.js.git, :bar_chart: Small & simple HTML5 charts,"canvas,charts",110
+0,https://github.com/brunnolou/streaming-room.git,"Streaming room in Node.js, rtmp, hsl, html5 videojs player","rtmp,hsl,videojs,html5,node,streaming,chat,video,ffmpeg,rtmp-server,obs,vmix",110
+0,https://github.com/FMXExpress/Cross-Platform-Samples.git,"Delphi FireMonkey demos and examples for Android, IOS, MacOS, Windows, Linux, HTML5","delphi,firemonkey,android,ios,macos,windows,linux,html5",110
+0,https://github.com/PhaserEditor2D/PhaserEditor2D-v3.git,A web-based IDE for HTML5 game development. Powered by Phaser.,"phaser,phaser-editor,html5,videogames,ide,browser-game,typescript",110
+0,https://github.com/cycfi/artist.git,Cross Platform C++ Vector Graphics Library (Inspired by the HTML5 canvas API),,110
+0,https://github.com/43081j/funky.git,funky.js HTML5 camera video effects library,,109
+0,https://github.com/bagwanpankaj/humongous.git,"An standalone Mongo Browser for Ruby, using HTML5. Just run and forget.",,109
+0,https://github.com/greneholt/youtube5.git,Safari extension that converts YouTube videos on any site into HTML5 video tags,,109
+0,https://github.com/francescolaffi/elastic-google-io-slides.git,A mod of google html5 slides that scale down with css3 transform if view is smaller than the slide instead of cropping,,109
+0,https://github.com/segabito/ZenzaWatch.git,HTML5の何か,,108
+0,https://github.com/S-mohan/smusic.git,html5音乐列表播放器,"javascript,css3,audio,music,music-player,smusic",108
+0,https://github.com/jakesgordon/javascript-audio-fx.git,A Simple HTML5 Audio Helper Library,,108
+0,https://github.com/lutzroeder/textor.git,Experimental Text Editor using HTML5 canvas.,"typescript,html5,canvas,codeeditor",108
+0,https://github.com/mgechev/movement.js.git,Gesture recognition with JavaScript and HTML5.,,108
+0,https://github.com/studentIvan/dueljs.git,JavaScript HTML5 Master/Slave Browser Tabs Helper,,108
+0,https://github.com/sparsetech/pine.git,Functional HTML5 and XML library for the Scala platform,"scala,web-development,scalajs,scala-native,html5,rendering,manipulation",108
+0,https://github.com/luciopanepinto/pacman.git,Pac-Man game written in HTML5 + CSS3 + jQuery with Canvas. This WebApp is a Responsive Web Design (RWD) website.,"html5-css3-jquery,javascript,canvas,pacman-game,webapp,html5,jquery,buzz,game",108
+0,https://github.com/GothAck/javascript-x-server.git,"JavaScript X Server (current protocol prototyping in Node.js, hoping to port to HTML5 for graphics)",,108
+0,https://github.com/bostrt/wordcount.js.git,"{""Calculate file newlines, word, and byte counts on client side using HTML5 File API. (Emulates Linux's wc command)""}",,108
+0,https://github.com/andychase/gbajs2.git,gbajs2 is a Game Boy Advance emulator written in Javascript from scratch using HTML5 technologies like Canvas and Web Audio. It is freely licensed and works in any modern browser without plugins.,"emulator,javascript,html5,game-boy-advance",108
+0,https://github.com/impressivewebs/Easy-HTML5-Template.git,A simple starting point for your HTML5 projects.,,107
+0,https://github.com/sbidolach/video-live-streaming.git,Video live streaming with jpeg renders in html5 and nodejs,,107
+0,https://github.com/HanSolo/SteelSeries-Canvas.git,The HTML5 Canvas port of the SteelSeries component library. Mainly contains gauges.,,107
+0,https://github.com/ksky521/player.git,html5版本音乐播放器，支持iOS设备,,107
+0,https://github.com/desandro/CSS3.tmbundle.git,TextMate bundle for new CSS3 properties. Includes vendor specific properties and HTML5 elements,,107
+0,https://github.com/makeapp/cocoseditor-2048.git,"2048 demo made in JavaScript，base on Cocos2d-x and Cocos2d-JS，Develop by CocosEditor， Runs on Android, iOS，Html5 & PC",,107
+0,https://github.com/sjitech/sji-android-screen-capture.git,"(Project Stopped)  No-Root-Needed Android Fast Screen Capture&Caster&Recorder&Remote controller. Just with an HTML5 browser in PC(connected to device by USB/WiFi adb), you can easily live view and remote control by mouse click/swap in browser and record to MP4 in background then play in HTML5 video",,107
+0,https://github.com/drbdrb/zimei.git,自美智能系统是基于树莓派、Python、HTML5、PHP、微信小程序打造出的一款物联网人工智能系统,,107
+0,https://github.com/delphiki/Playr.git,Yet another HTML5 <video> player.,,106
+0,https://github.com/hacktoon/ink2canvas.git,Inkscape extension for generating HTML5 Canvas graphics.,,106
+0,https://github.com/icepy/loseYourself.git,移动端 HTML5 仿 iOS UIPickerView,"javascript,uipickerview,css",106
+0,https://github.com/AlloyTeam/CodeTank.git,"CodeTank（代码坦克）是全世界首款 Javascript 程序员的游戏, 由腾讯 AlloyTeam 用 HTML5、Javascript 等 Web 新技术来构建一个基于互联网的智能坦克机器人战斗仿真引擎",,106
+0,https://github.com/TelDragon/guacamole.git,Guacamole是无客户端的远程桌面网关。它支持VNC，RDP和SSH等标准协议。  我们称之为无客户端，因为不需要插件或客户端软件。  感谢HTML5，一旦Guacamole安装在服务器上，您访问桌面所需的全部功能就是一个Web浏览器。,"guacamole,guacamole-vnc,guacamole-ssh,guacamole-telnet,gucamole-rdp,ssh,telnet,rdp,vnc",106
+0,https://github.com/wumingjun/hplus4.1.git,H+是一个完全响应式，基于Bootstrap3.3.6最新版本开发的扁平化主题，她采用了主流的左右两栏式布局，使用了Html5+CSS3等现代技术，她提供了诸多的强大的可以重新组合的UI组件，并集成了最新的jQuery版本(v2.1.4)，当然，也集成了很多功能强大，用途广泛的jQuery插件，她可以用于所有的Web应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA等等,,106
+0,https://github.com/javanto/civem.js.git,Custom HTML5 validation error messages,,105
+0,https://github.com/mozilla/high-fidelity.git,"HTML5 podcast app (for the Web, including FirefoxOS)",,105
+0,https://github.com/marcrobledo/acnl-editor.git,An Animal Crossing: New Leaf savegame editor made in HTML5,,105
+0,https://github.com/h5o/h5o-chrome.git,HTML5 outliner (Chrome extension),,104
+0,https://github.com/robinma/videoplayer.git,this is a html5 video player,,104
+0,https://github.com/TEIC/CETEIcean.git,TEI in HTML5 Custom Elements,,104
+0,https://github.com/YAL-Haxe/openfl-bitfive.git,Alternative blitting-targeted HTML5 backend for OpenFL.,,104
+0,https://github.com/hakimel/Sphere.git,Tiny experiment which generates a particle Sphere on HTML5 canvas,,104
+0,https://github.com/davebalmer/turtlewax.git,"Logo-style turtle graphics in JavaScript using HTML5 Canvas. Basically, turtle graphics re-imagined for a JavaScript world. Current lib (with HSV color support) gzips down to <1K (about half that if you skip HSV color util), so there\'s no excuse *not* to put a little ""turtle"" in your web project.",,104
+0,https://github.com/braziljs/power-polygon.git,The definitive html5 presentation tool,,103
+0,https://github.com/srizon/Drifolio-Bootstrap.git,A free responsive HTML5 Dribbble portfolio template exclusively made for the Dribbble users,,103
+0,https://github.com/Pageclip/valid-form.git,HTML5 form validation helpers,,102
+0,https://github.com/nicupavel/openpanzer.git,Javascript/HTML5 rewrite of Panzer General 2 game,"openpanzer,game,html5,panzermarshal,strategy,browser-game,cross-platform,panzergeneral,turn-based",102
+0,https://github.com/arirusso/d3-audio-spectrum.git,Spectrum analysis demo using D3 and HTML5 audio,"audio,html5-audio,javascript,spectrum-analyzer-demo,demo,spectrum,d3,d3js,music",102
+0,https://github.com/ruven/iipmooviewer.git,IIPMooViewer is an advanced javascript HTML5 image viewer for streaming high resolution scientific images,"image-viewer,image-blending,iiif",102
+0,https://github.com/openlink/html5pivotviewer.git,"The HTML5 PivotViewer is a fork of a project that was started by LobsterPot Solutions as a cross browser, cross platform version of the Silverlight PivotViewer control produced by Microsoft. The control was written as a jQuery plug-in and utilises features available in HTML5.",,102
+0,https://github.com/h5o/h5o-js.git,HTML5 outliner (JavaScript),,101
+0,https://github.com/Morioh-Lab/morioh.git,"Morioh Responsive Template with Bootstrap 4, HTML5 and Vue.js","bootstrap,responsive,template,admin-dashboard,admin-template,admin-panel",101
+0,https://github.com/city41/particle.js.git,a particle system designer using HTML5 Canvas,,101
+0,https://github.com/loicdescotte/Play2-HTML5Tags.git,HTML5 form tags module for Play Framework,"play-framework,forms,validation,html5,templates,frontend,client-side",101
+0,https://github.com/legalthings/angular-signature.git,HTML5 canvas based smooth signature drawing as angularJS directive (http://szimek.github.io/signature_pad/),,101
+0,https://github.com/strongloop/angular-live-set.git,"{""Build realtime angular apps with html5's Server Sent Events""}",,101
+0,https://github.com/feross/Fullscreen-API-Attack.git,Demo of phishing attack on the native HTML5 full screen API.,,101
+0,https://github.com/PM5544/scoped-polyfill.git,"Vanilla JavaScript polyfill for scoped style in HTML5, also works with jQuery if you want to.",,101
+0,https://github.com/dparis/phzr.git,A ClojureScript wrapper for the Phaser HTML5 game framework,,101
+0,https://github.com/sjwilliams/grunt-responsive-videos.git,"Generate multiple video encodes at varying sizes for responsive, HTML5 video applications",,101
+0,https://github.com/huytd/node-js-game-server.git,"Easy to use Multiplayer Game Server based on Node.JS. Suitable with HTML5 Websocket, Unity3D (Web/PC, Android, iOS,...), Flash, C++/OpenGL/DirectX, XNA clients,...",,101
+0,https://github.com/matthew-andrews/ft-style-offline-web-app-part-1.git,The bare ingredients to create an FT style HTML5 app.,,100
+0,https://github.com/huntergdavis/quickgrapher.git,Quick Grapher is an HTML5 equation solver and graphing utility.  Feature updates and pull requests from downstream are always appreciated for the betterment of all :),,100
+0,https://github.com/anprogrammer/OpenRoads.git,"A modern implementation of the classic game SkyRoads.  Supports all of the original data-files (art, music, levels), and tries to remain faithful to the original.  It is written in TypeScript, and uses HTML5 technologies.  It also runs in NodeJS with Oculus Rift support.",,100
+0,https://github.com/AlloyTeamDev/Laro.git,a game engine based on html5 canvas,,99
+0,https://github.com/dashorst/dashboard.git,Dashboard for the coffee corner based on HTML5/CSS3,,99
+0,https://github.com/SpiderOak/SpiderOakMobileClient.git,"SpiderOak HTML5 / Javascript / CSS mobile client application, rebooted",,99
+0,https://github.com/McFunkypants/Ludus.git,Ludus HTML5 Platformer Game Starter Kit for Windows8 Store by Christer (McFunkypants) Kaitila,,99
+0,https://github.com/lixunn/H5-Promotion.git,(Stopped Maintenanced) H5营销经典小例子 (HTML5 Content Marketing Classic Example)，摇一摇、抽签、摇签、红包,,99
+0,https://github.com/nickgravelyn/dungeon.git,Simple HTML5 dungeon generator.,,98
+0,https://github.com/CodeExplainedRepo/Snake-JavaScript.git,"The Snake game, created using JavaScript, and The HTML5 canvas.",,98
+0,https://github.com/IceCreamYou/Nemesis.git,"A completely browser-based, HTML5 (WebGL) First-Person Shooter game. Originally built for AngelHack 2012 in 24 hours.",,98
+0,https://github.com/richtaur/audia.git,An HTML5 library that implements (and extends) the Audio object using the Web Audio API.,,98
+0,https://github.com/Shyam-Chen/Svelte-Starter.git,":icecream: A boilerplate for HTML5, Svelte, Material, Babel, and PostCSS. Webpack | Starter Kit | Svelte 3.0 | Svelte3 | Template | Router",svelte,98
+0,https://github.com/sandywalker/Tetris.git,Html5 Tetris game,,97
+0,https://github.com/iRath96/webNBT.git,An HTML5 NBT-editor based on emscripten,,97
+0,https://github.com/bjarnoldus/momovi-video-hls.git,Universal HLS HTML5 video player with flash fallback,,97
+0,https://github.com/Lallassu/badsanta.git,BadSanta - Multiplayer HTML5 Game (http://santa.qake.se),"phaser,gamedev,2d-game,pixelart,indiedev,javascript-game",97
+0,https://github.com/KonradIT/HeroProApp.git,"HeroPro App, the Free OpenSource HTML5 / Native app for GoPro HERO cameras",,97
+0,https://github.com/yangguangfu520/BeijingNews_1020.git,硅谷新闻项目是一款真实企业项目的改进，该项目主要功能包括实时浏览北京周边新闻，商城购物，在线支付等。项目中讲解的主流技术包括且不限于okHttp、Glide和Picasso 、RadioGroup+Fragment、消息推送、图片三级缓存、消息推送、html5与Android互调等技术。,,97
+0,https://github.com/dcloudio/H5P.iOS.git,HTML5 Plus for iOS,,96
+0,https://github.com/i8ramin/fb-menu.git,Facebook-like slide menu in HTML5 & CSS3,,96
+0,https://github.com/maxogden/javascript-editor.git,codemirror + esprima powered html5 javascript editor component,,96
+0,https://github.com/bensmithett/dragster.git,Better HTML5 drag events,,96
+0,https://github.com/citronneur/onlinetuner.co.git,Online tuner in javascript and HTML5,,96
+0,https://github.com/marmelab/sketch-by-phone.git,A proof-of-concept of Augmented Reality with HTML5,"augmented-reality,arjs,javascript,react,android",96
+0,https://github.com/aparshin/leaflet-fractal.git,"JavaScript fractals drawing using Leaflet, HTML5 Canvas and web workers",,96
+0,https://github.com/sdeleuze/opensnap.git,HTML5 SnapChat clone developed with Spring and AngularDart,,96
+0,https://github.com/JackGit/image-editor.git,"An image editor that can scale, rotate, move images, and merge images, based on HTML5 canvas",,96
+0,https://github.com/bobboteck/JoyStick.git,"A simple JoyStick that use HTML5, Canvas and Vanilla JavaScript, for touch and mouse interfaces (no JQuery required), preview at:","joystick,html5,javascript,vanilla-javascript,touchscreen",96
+0,https://github.com/mpalmerlee/HexagonTools.git,Code for drawing Hexagons and hex grids on an HTML5 canvas. Companion code to Hexagon Blog posts at http://www.mattpalmerlee.com,,96
+0,https://github.com/bruderstein/NppTidy2.git,HTML-Tidy plugin for Notepad++.  Uses tidy-html5 - http://github.com/w3c/tidy-html5,,95
+0,https://github.com/emi420/Mootor.git,HTML5 framework for mobile application development,,95
+0,https://github.com/maxogden/workerstream.git,use HTML5 web workers with the node stream API,,95
+0,https://github.com/sallar/led-matrix-simulator.git,:crystal_ball: A simple HTML5 LED Matrix Simulator for fun,"canvas,led-matrix-displays,ledmatrix,led-display,preact",95
+0,https://github.com/bitnenfer/tiny-canvas.git,Tiny-Canvas is a lightweight minimal implementation of a batched and stack matrix based canvas similar to HTML5 Canvas2D with WebGL backend.,,95
+0,https://github.com/cristurm/nyan-cat.git,Nyan Cat made with HTML5+CSS3+JavaScript,"nyan-cat,css,css3,css3-animations",94
+0,https://github.com/williammalone/HTML5-Paint-Bucket-Tool.git,Paint Bucket Tool created with HTML5 and JavaScript,,94
+0,https://github.com/richardshepherd/TwentyTenFive.git,Updates the WordPress TwentyTen theme to HTML5,,94
+0,https://github.com/lostdecade/web_view_example.git,How to embed HTML5 into a native Mac OSX app,,94
+0,https://github.com/ericwbailey/accessible-html-content-patterns.git,♿️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.,"html,accessibility,a11y,aria",94
+0,https://github.com/XervoIO/pulse.git,HTML5 & JavaScript Game Engine,,93
+0,https://github.com/matrix3d/spriteflexjs.git,"spriteflexjs ,a html5 engine build with apache-royale.",,93
+0,https://github.com/gregberge/angular-notification.git,Notification service for Angular using native HTML5 API.,,93
+0,https://github.com/KrofDrakula/microdata-tool.git,A drop-in script for testing and browsing HTML5 microdata,,93
+0,https://github.com/NightCatSama/My-Animate.git,使用 HTML5 / Canvas / CSS3 制作各种动画效果,"canvas,html5,css3",93
+0,https://github.com/chadpaulson/react-cassette-player.git,Simple ReactJS HTML5 audio player component built with SVG icons from The Noun Project.,"react,javascript,react-component,music-player,react-components,music,audio,svg,audio-player,html5,html5-audio,player,cassette,svg-icons",93
+0,https://github.com/maxogden/filereader-stream.git,Read an HTML5 File object (from e.g. HTML5 drag and drops) as a stream.,,92
+0,https://github.com/flyx/emerald.git,HTML5 templating engine for Nimrod,"nim,template-engine,html5",92
+0,https://github.com/ricardobcl/HTML5-Speedy-Video-Extension.git,This extension adds fine-grained playback speed control on HTML5 videos.,,92
+0,https://github.com/cri5ti/html5-bomberman.git,A HTML5+backbone+node bomberman,,91
+0,https://github.com/peterfinlan/Halcyon-Days.git,A free one page html5/css3 template by Peter Finlan,,91
+0,https://github.com/acrazing/html5parser.git,A super tiny and fast html5 AST parser.,"html5,ast,parser,html,html-parser,dom",91
+0,https://github.com/imalhasaranga/VideoRecorderJs.git,Pure Html5 script for recording video and audio within the browser,,91
+0,https://github.com/bartaz/taskboard-lite.git,"Light-weight client-side task-board (my HTML5, CSS3 and JavaScript playground)",,91
+0,https://github.com/peachananr/let_it_snow.git,Create and Control a Festive Snow on Your Website using HTML5 Canvas,,91
+0,https://github.com/OsBelief/Cocos2d-JS-Game.git,HTML5小游戏,,90
+0,https://github.com/eeandrew/gestures.git,HTML5 gestures detection using React,,90
+0,https://github.com/blockstrap/framework.git,"HTML5 Crypto-Developer Framework for Bitcoin, Litecoin, Dogecoin, and DashPay",,90
+0,https://github.com/iazrael/sketching.git,convert a picture to sketch by html5 canvas,,90
+0,https://github.com/devongovett/blob-stream.git,A Node-style writable stream for HTML5 Blobs,,90
+0,https://github.com/mpalourdio/SpringBootAngularHTML5.git,:hotsprings: Spring Boot 2 + Angular 12 + HTML5 router mode + HTTP interceptor + Lazy loaded modules,"angular2,angular4,font-awesome,spring-boot,maven,karma,jasmine,typescript,html5,angular,http-interceptor,angular5,angular6,angular7,angular10,angular11",90
+0,https://github.com/Braunson/laravel-html5-forms.git,"{""This package extends Laravel's FormBuilder to include some (soon all) HTML5 elements""}",,90
+0,https://github.com/mrmartineau/HTML5-Coda-Clips.git,"{""A selection of HTML5 snippets for use in Panic's Coda web dev app""}",,90
+0,https://github.com/whatwg/platform.html5.org.git,Sources for platform.html5.org,,89
+0,https://github.com/vampserv/node-poker-stack.git,node.js based poker game server and HTML5 web client,,89
+0,https://github.com/KrisHedges/fluidity.git,A Modern CSS3 & HTML5 Framework for Stylus ,,89
+0,https://github.com/Masth0/ScratchCard.git,ScratchCard is a js lib to simulated a scratchcard in browser with html5 and canvas.,,89
+0,https://github.com/wshuyi/markdown2slides.git,Tools for converting Markdown Source File to Reveal.js HTML5 slides,,89
+0,https://github.com/BrechtDeMan/WebAudioEvaluationTool.git,A tool based on the HTML5 Web Audio API to perform perceptual audio evaluation tests locally or on remote machines over the web.,"audio,web-audio-api,evaluation",89
+0,https://github.com/yyjhao/html5-hearts.git,Hearts card game with HTML5,,88
+0,https://github.com/hunzaboy/Ckin-Video-Player.git,Native Javascript HTML5 Video Player,"video-player,video,player,javascript-library,javascript,skin",88
+0,https://github.com/rhec/django-html5.git,HTML5 support for django ,,88
+0,https://github.com/skeelogy/ifc-ar-flood.git,Interactive HTML5 augmented reality flood simulation,,88
+0,https://github.com/dimpurr/Clearision.git,A HTML5 Double Style Wordpress Theme,,88
+0,https://github.com/rstacruz/details-polyfill.git,"Polyfill for the HTML5 <details> element, no dependencies",,88
+0,https://github.com/fraunhoferhhi/omaf.js.git,HTML5 MSE Playback of MPEG 360 VR Tiled Streaming,"omaf,hevc,tiles,vr,360,video,streaming",88
+0,https://github.com/pinceladasdaweb/Ajax-Contact-Form.git,A simple Ajax Contact Form developed in PHP with HTML5 Form validation and pure JavaScript,"ajax,php,contact-form",88
+0,https://github.com/teleject/HTML5-GeoLocation-jQuery-Plugin.git,A jQuery plugin for sorting a list of addresses using HTML5 GeoLocation.,,88
+0,https://github.com/dbox/html5-kitchen-sink.git,:potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css,"html,kitchen-sink,html5,normalize,reset",88
+0,https://github.com/vfasky/BlogCatke.git,"运行在 SAE 上,基于 tornado , html5 小巧高效的blog",,88
+0,https://github.com/luckyshot/twentyfive.git,TwentyFive is an HTML5 time tracking web app focused on speed and simplicity that encourages you to follow the Pomodoro Technique.,"javascript,pwa,html5,timer,simplicity,pomodoro-technique,html",88
+0,https://github.com/makzan/HTML5-Games-Examples.git,A collection of HTML5 games examples,,87
+0,https://github.com/bobiscool/Creative-Resume-Of-Karl.git,HTML5创意动画简历  🏃  🏔,"karl,resume-template,creative-coding,funny",87
+0,https://github.com/cbrandolino/local-audio-visualizer.git,HTML5 local music player + audio visualizer,,87
+0,https://github.com/makeapp/cocoseditor-flappybird.git,"FlappyBird demo made in JavaScript，base on Cocos2d-x and Cocos2d-html5，Develop by CocosEditor， Runs on  Android, iOS，Html5 & PC.",,87
+0,https://github.com/fatiherikli/image-glitcher.git,HTML5 Image Glitcher App,,87
+0,https://github.com/jakesgordon/javascript-boulderdash.git,An HTML5 implementation of the c64 classic Boulderdash game,,87
+0,https://github.com/frc/Frantic-S3-Browser.git,"File browser and uploader for Amazon S3. Fully HTML5 based, no server needed.",,87
+0,https://github.com/johnsorrentino/favicon.js.git,Given a HTML5 canvas return an ICO formatted favicon.,"javascript,favicon",87
+0,https://github.com/hy-dev/exim.git,"{""An ultra-lightweight Flux-like architecture for HTML5 apps using Facebook's React library.""}",,87
+0,https://github.com/f5io/fifer-js.git,A micro library for the HTML5 Audio API with flash fallback.,,87
+0,https://github.com/storesafe/cordova-sqlcipher-adapter.git,"A Cordova/PhoneGap plugin to create and access encrypted databases on Android, iOS, and Windows with API similar to HTML5/Web SQL API",,87
+0,https://github.com/rainner/soma-fm-player.git,This is a Vue.js web application for streaming radio stations from Somafm.com. This app uses the public SomaFM JSON channels API endpoint to pull in a list of stations and makes it easy to switch between stations. This app also uses Three.js and the HTML5 Web Audio Context API to sample audio data and create a visualizer effect for the selected station. ,"somafm,vuejs,threejs,javascript,spa,ui,audio,visualizer",87
+0,https://github.com/Ben987/Bondage-College.git,Bondage College Javascript/HTML5 game,,86
+0,https://github.com/watson-yan/vue-uploader.git,A html5 picture uploader,,86
+0,https://github.com/wtsi-web/Genoverse.git,HTML5 scrollable genome browser,,86
+0,https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5.git,Universal HamRadio Remote HTML5 interface ,,86
+0,https://github.com/zhouningyi/openWedding.git,开源的html5求婚、婚礼创意,,86
+0,https://github.com/daleharvey/helicopter.git,A remake of the helicopter game in HTML5,,86
+0,https://github.com/handsontable/handsontable-pro.git,"Handsontable Pro - Premium JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.",,86
+0,https://github.com/lzx8589561/zhai-music.git,宅音乐播放器，HTML5网页播放器，带后台管理及API调用，使用thinkphp编写,,86
+0,https://github.com/lolstring/window98-html-css-js.git,"Windows 98 on the Web using HTML5, CSS3 and JS.",,85
+0,https://github.com/aerohub/hugo-identity-theme.git,Little profile/card-style template for Hugo. Based on Identity by HTML5 UP.,"hugo,hugo-site,hugo-theme,card-template,personal-website,identity",85
+0,https://github.com/gamelab/Roguelike-Blueprint.git,An easy to use HTML5 Roguelike Game Blueprint for Kiwi.JS,,85
+0,https://github.com/tec27/seatcamp.git,HTML5-based ephemeral video chat. IRC with selfies! The official server of Meatspace,,85
+0,https://github.com/bestmediaplayer/mediaplayer.git,"Free Open Source No-Download HTML5 Media Player for Video, Music, Audio, Android, iPhone, FLV, MP4, WEBM",,85
+0,https://github.com/html5rocks/slides.html5rocks.com.git,The Original HTML5 Slide Deck,,84
+0,https://github.com/aralejs/upload.git,iframe and html5 file uploader,,84
+0,https://github.com/deltakosh/MVA3DHTML5GameDev.git,Game Development Series - 3D HTML5 Game Development,,84
+0,https://github.com/Joeynoh/HTML5-Minesweeper.git,Minesweeper game using jQuery and HTML5 canvas,,84
+0,https://github.com/wayou/MeowmeowPlayer.git,An HTML5 Music Player with Spectrum Visualizer,,84
+0,https://github.com/bevry-archive/html5edit.git,"{""Lightweight R&D project surrounding HTML5's contenteditable feature""}",webwrite,84
+0,https://github.com/city41/yokul.git,An (almost) drop in replacement for Google Chart images using HTML5 canvas,,84
+0,https://github.com/atashbahar/ecardcanvas.git,HTML5 Canvas eCard Editor,"html5,css3,javascript,canvas",83
+0,https://github.com/felipemanga/ProjectABE.git,ArduBoyEmulator in HTML5,,83
+0,https://github.com/trestletech/shinyStore.git,R package that adds HTML5 Local Storage support to Shiny,,83
+0,https://github.com/mavenium/PyEditorial.git,"A free, open-source Blog CMS based on the ""Django"" and ""Editorial"" HTML5 theme.","django,django-project,django-application,django-cms,cms,blog,html5,videocast,skill,podcast",83
+0,https://github.com/rse/componentjs.git,ComponentJS -- Powerful run-time Component System for structuring HTML5-based Rich Clients,"component,system,javascript,html5,spa",83
+0,https://github.com/CodeExplainedRepo/FlappyBird-JavaScript.git,"The Flappy Bird game, created using JavaScript, and The HTML5 canvas.",,82
+0,https://github.com/pabloads/curso-html5-css3-gustavo-guanabara.git,Site feito no curso de HTML5 e CSS3 de Gustavo Guanabara no site curso em video.,,82
+0,https://github.com/mafintosh/srt-to-vtt.git,Transform stream that converts srt files to vtt files (html5 video subtitles),,82

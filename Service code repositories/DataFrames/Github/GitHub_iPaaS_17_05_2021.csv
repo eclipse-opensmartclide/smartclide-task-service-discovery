@@ -1,0 +1,49 @@
+,Url,Description,Topics,Stars
+0,https://github.com/erda-project/erda.git,"Enterprise-grade application building, deployment, monitoring platform (An iPaaS).","go,golang,containers,devops,cmp,apm,kubernetes,docker,ci-cd,microservice",253
+0,https://github.com/cenit-io/cenit.git,:rocket: Cenit IO - 100% open source integration Platform (iPaaS),"ipaas,automation,backedless,data-flow,apis,integration-framework",192
+0,https://github.com/DevTestSolutions/TestDoubles.git,TestDoubles - Light Weight Service Virtualization for iPaaS and Microservices,,42
+0,https://github.com/fabric8io/fabric8-ipaas.git,This repository contains the iPaaS related apps that can be run as part of the fabric8 platform on any OpenShift v3 and Kubernetes environment,,15
+0,https://github.com/fabric8io/fabric8-forge.git,Supports JBoss Forge plugins for the Fabric8 iPaaS along with using Forge as a REST service inside Fabric8 DevOps,,10
+0,https://github.com/elasticio/elasticio.github.io.git,Documentation of the elastic.io iPaaS platform,,3
+0,https://github.com/syndesisio/redhat-ipaas.github.io.git,DEPRECATED. The official Red Hat iPaaS page. Please see: https://github.com/syndesisio/syndesis.io,,3
+0,https://github.com/fabric8io/django-examples.git,Camel iPaaS functionality examples,,2
+0,https://github.com/fabric8io/ipaas-platform.git,Generates the distribution of the ipaas platform,,2
+0,https://github.com/elasticio/microsoft-onedrive-component.git,elastic.io iPaaS integration component for Microsoft OneDrive,"elasticio,elasticio-component,onedrive,onedrive-client",2
+0,https://github.com/jbossdemocentral/jboss-keynote-demo-2014.git,This is an automated setup for running the JBoss Middleware Keynote demo from Summit 2014 in San Francisco. It was leveraging the iPaaS infrastructure as provided on Openshift and will also setup to be run locally on your own JBoss Fuse and JBoss BPM Suite installation. ,,2
+0,https://github.com/fabric8io/django.git,Camel iPaaS functionality,,1
+0,https://github.com/fabric8io/ipaas-multi-choice-pipeline.git,iPaaS release pipeline that allows us to release multiple projects together,,1
+0,https://github.com/elasticio/filter-component.git,Filtering component for elastic.io iPaaS,eio-component,1
+0,https://github.com/ccapellan/decodedclouds-ipaas-terraform.git,A repository to get you started using Terraform to bring up your Azure iPaaS components,,1
+0,https://github.com/elasticio/odata-component.git,OData component for elastic.io iPaaS,,0
+0,https://github.com/elasticio/podio-component.git,Podio API integration component template for elastic.io iPaaS,,0
+0,https://github.com/vcolo/ipaas_infrastructure.git,ipaas,,0
+0,https://github.com/soundararaja/ipaas.git,ipaas,,0
+0,https://github.com/rajdavies/ipaas-api.git,"{""The API for Red Hat iPaaS - a flexible, customizable, cloud-hosted platform that provides core integration capabilities as a service. It leverages Red Hat's existing product architecture using OpenShift Online/Dedicated and Fuse Integration Services.""}",,0
+0,https://github.com/yadav-nikhil/Boomi.git,Boomi-iPAAS,,0
+0,https://github.com/AlfredYang1986/bm-data-ipaas.git,bm-ipaas,,0
+0,https://github.com/PowellMike/Camel-Fuse.git,Camel iPaaS Quickstart,,0
+0,https://github.com/micdx001/mdlz-ipass.git,Informatica Ipaas Repository,,0
+0,https://github.com/kcbabo/ipaas-demo.git,iPaaS API integration demo,,0
+0,https://github.com/shamim-keyvalue/ipaas.git,Layout for Ipaas,,0
+0,https://github.com/mathi201028/IPaaS.git,IPaaS research and POC,,0
+0,https://github.com/bellasys/nodesi.git,Node AppServer iPAAS component,,0
+0,https://github.com/Pepperi-Addons/ipaas-webhooks.git,pepperi ipaas for webhooks connections,,0
+0,https://github.com/Lantern-Cloud-Services/demo-mtc-appdev-ipaas-opt-fun1.git,IPaaS order processing CosmosDB trigger function,,0
+0,https://github.com/vertigobr/openfaas-templates.git,Function templates used in the Vertigo iPaaS,,0
+0,https://github.com/SyNuOra/EMEAiPaaSEvents.git,Log and Track EMEA iPaaS Events,,0
+0,https://github.com/elasticio/dictionary-component.git,Dictionary component for elastic.io iPaaS,,0
+0,https://github.com/mullis623/iPaaSDemo.git,Microsoft Internal Repo for developing iPaaS Demo ,,0
+0,https://github.com/parvishmarmat/SpringBootHibernateIPaaS.git,"iPaaS service using Spring Boot, Maven, Hibernate",,0
+0,https://github.com/kvogel-lumeris/EMPICheck.git,Checks EMPIs between iPaaS and ODS,,0
+0,https://github.com/Axway-API-Management-Plus/colin-ipaas-test.git,A test repo for ipaas integrations,,0
+0,https://github.com/elasticio/twitter-component.git,Twitter component for the elastic.io iPaaS,,0
+0,https://github.com/vertigobr/keycloak-theme.git,Tema do iPaaS para o Keycloak,,0
+0,https://github.com/devonfw-forge/devon4j-integration.git,integration utilities for Apache Camel and more (iPaaS),,0
+0,https://github.com/vertigobr/safira.git,Safira CLI is a toolkit for Vertigo iPaaS,"cli,golang,safira",0
+0,https://github.com/devkimchi/Terraform-for-Azure-iPaaS-Sample.git,This provides Terraform scripts to setup Azure iPaaS infrastructure,,0
+0,https://github.com/straider/fis-origin-demo.git,Demo of Fuse Integration Services (FIS) on OpenShift Origin - iPaaS,,0
+0,https://github.com/kahboom/syndesis-site-test.git,Test website for the Syndesis open source iPaaS project.,,0
+0,https://github.com/elasticio/keenio-component.git,keen.io API component for elastic.io iPaaS,,0
+0,https://github.com/lhein/ipaas-datamapper.git,"Atlas data mapper, design support services and ipaas UI module",,0
+0,https://github.com/kaustubhpatil9/cloudsplunky.git,An ipaas log adapter that acts as a mediator between Mulesoft platform logs on Cloudhub and a Splunk instance.,,0
+0,https://github.com/VanceBerisford/iPaaSExternalIntegrationHelper.git,Provide a set of tools to assist in the development of third-party integrations using the iPaaS.com platform,,0

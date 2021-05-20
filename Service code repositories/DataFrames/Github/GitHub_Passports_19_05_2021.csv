@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/laravel/passport.git,Laravel Passport provides OAuth2 server support to Laravel.,"laravel,passport,oauth",2812
+0,https://github.com/jaredhanson/passport-local.git,Username and password authentication strategy for Passport and Node.js.,,2499
+0,https://github.com/mikenicholson/passport-jwt.git,Passport authentication using JSON Web Tokens,,1727
+0,https://github.com/bradtraversy/node_passport_login.git,"Node.js login, registration and access control using Express and Passport",,1383
+0,https://github.com/OmarElGabry/chat.io.git,"A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.","real-time,chat,nodejs,express,mongoose,socket,passport,redis",1336
+0,https://github.com/jaredhanson/passport-facebook.git,Facebook authentication strategy for Passport and Node.js.,,1255
+0,https://github.com/saintedlama/passport-local-mongoose.git,Passport-Local Mongoose is a Mongoose plugin that simplifies building username and password login with Passport,"passport,mongoose-plugin,javascript",1071
+0,https://github.com/jaredhanson/passport-http-bearer.git,HTTP Bearer authentication strategy for Passport and Node.js.,,908
+0,https://github.com/jwalton/passport-api-docs.git,Documentation for Passport.js.,,878
+0,https://github.com/pilwon/ultimate-seed.git,"{MEAN Stack on Steroids} The ultimate full-stack AngularJS + Node.js/Express seed (batteries included!) that makes web developers insanely productive. (Angular, AngularUI, Barbeque, Bootstrap, Bower, Browserify, Docker, Express, Font Awesome, Grunt, Handlebars, jQuery, JSHint, Karma/Mocha, LESS/LESSHat, Livereload, Lodash/Underscore, Modernizr, MongoDB/Mongoose, Passport for Facebook/Google/Twitter, Redis, SocketIO, Source Maps, Uglify, Winston)",,865
+0,https://github.com/rkusa/koa-passport.git,Passport middleware for Koa,"authentication,passport,javascript,koa,koa2",753
+0,https://github.com/jaredhanson/passport-google-oauth.git,Google authentication strategies for Passport and Node.js.,,712
+0,https://github.com/node-saml/passport-saml.git,SAML 2.0 authentication with Passport,,696
+0,https://github.com/rickyrauch/nodejs-starter.git,"{""Single Page App setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap.""}",,651
+0,https://github.com/jfromaniello/passport.socketio.git,access passport.js authenticated user information from socket.io connection,,649
+0,https://github.com/fivethree-team/nestjs-prisma-starter.git,"Starter template for NestJS 😻 includes GraphQL with Prisma Client, Passport-JWT authentication, Swagger Api and Docker","nestjs,prisma,prisma-client,passportjs,passport-jwt,bcrypt,nestjs-graphql,code-first,prisma2,type-graphql",634
+0,https://github.com/dozoisch/koa-react-full-example.git,"Full example using Koa, React, Passport, Mongoose, Webpack, Mocha, Babel",,632
+0,https://github.com/passport/express-4.x-local-example.git,Express 4.x app using Passport for authentication with username and password.,,619
+0,https://github.com/sahat/tvshow-tracker.git,AngularJS + Node + Gulp + Mongoose + Passport Authentication + TVDB API,,606
+0,https://github.com/dusterio/lumen-passport.git,Making Laravel Passport work with Lumen,"lumen,passport,jwt,oauth2",595
+0,https://github.com/jaredhanson/passport-google-oauth2.git,Google authentication strategy for Passport and Node.js.,,594
+0,https://github.com/mxstbr/passport-magic-login.git,Passwordless authentication with magic links for Passport.js.,"passport,express,authentication,magiclink",522
+0,https://github.com/jaredhanson/passport-github.git,GitHub authentication strategy for Passport and Node.js.,,509
+0,https://github.com/jaredhanson/passport-oauth2.git,OAuth 2.0 authentication strategy for Passport and Node.js.,,495
+0,https://github.com/jaredhanson/passport-twitter.git,Twitter authentication strategy for Passport and Node.js.,,442
+0,https://github.com/rishipr/mern-auth.git,MERN (+ Redux) user authentication boilerplate with Passport.js and JWT ,,438
+0,https://github.com/trailsjs/sails-permissions.git,"Comprehensive user permissions and entitlements system for sails.js and Waterline. Supports user authentication with passport.js, role-based permissioning, object ownership, and row-level security.",,429
+0,https://github.com/evermeer/PassportScanner.git,"Scan the MRZ code of a passport and extract the firstname, lastname, passport number, nationality, date of birth, expiration date and personal numer.","mrz,passport,scanner,ocr",422
+0,https://github.com/kasperisager/sails-generate-auth.git,Generate a Passport.js authentication layer for your Sails app that will Rock Your Socks™,,407
+0,https://github.com/MrChrisJ/World-Citizenship.git,Globally orientated citizenship with private passport services using available cryptographic tools,,400
+0,https://github.com/drudge/passport-facebook-token.git,Passport strategy for authenticating with Facebook access tokens using the OAuth 2.0 API.,,373
+0,https://github.com/dstroot/skeleton.git,Node Express MongoDB  Bootstrap Passport... all rolled up into juicy goodness,,373
+0,https://github.com/Shyam-Chen/Express-Starter.git,":truck: A boilerplate for Node.js, Express, Mongoose, Heroku, Atlas, Nodemon, PM2, and Babel. REST / GraphQL API Server | PaaS | SaaS | CI/CD | Jest | Supertest | Docker | MongoDB | PostgreSQL | Sequelize | Lodash | RxJS | JWT | Passport | WebSocket | Redis | CircleCI | Apollo | DevSecOps | Microservices | Backend Starter Kit | ES6","nodejs,express,mongoose,heroku,mlab,nodemon,pm2,babel",367
+0,https://github.com/rucken/core-nestjs.git,"A simple application demonstrating the basic usage of permissions with NestJS (JWT, Passport, Facebook, Google+, User, Group, Permission)","jwt,oauth,passport,facebook,google,user,group,permission,nestjs,heroku,typeorm,now,typedoc,rucken,angular,typescript,nrwl,nx,angular-schematics,schematics",355
+0,https://github.com/manjeshpv/node-express-passport-mysql.git,Login Express + Passport + MySQL,"mysql,passport,database,javascript",350
+0,https://github.com/hengkiardo/express4-bootstrap-starter.git,"Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4, MongoDB/Mongoose, Authentication with Passport.js, Jade and GruntJS as Task Automation",,320
+0,https://github.com/ARCANEDEV/noCAPTCHA.git,"{"":passport_control: Helper for Google's new noCAPTCHA (reCAPTCHA v2 & v3)""}","arcanedev,laravel,no-captcha,recaptcha,google-recaptcha",317
+0,https://github.com/passport/express-4.x-facebook-example.git,Express 4.x app using Passport for authentication with Facebook.,,289
+0,https://github.com/vesse/passport-ldapauth.git,LDAP authentication strategy for Passport,,288
+0,https://github.com/sfelix-martins/passport-multiauth.git,Add support to multi-authentication to Laravel Passport,"laravel-passport,passport-multi,passport-multiauth,multi-authentication",288
+0,https://github.com/liamcurry/passport-steam.git,Steam (OpenID) authentication strategy for Passport and Node.js.,"steam,openid,passport,node",282
+0,https://github.com/PlenipotentSS/SSStackedPageView.git,"Stacked Views paged on top of each other, inspired by iOS 7 Reminders and iOS 7 Passport",,278
+0,https://github.com/trailsjs/sails-auth.git,Passport-based User Authentication system for sails.js applications. Designed to work well with the sails-permissions module.,,277
+0,https://github.com/JMPerez/passport-spotify.git,Spotify authentication strategy for Passport and Node.js.,"spotify,passport,passportjs",272
+0,https://github.com/rkusa/koa-passport-example.git,koa-passport usage example,,263
+0,https://github.com/jaredhanson/passport-http.git,HTTP Basic and Digest authentication strategies for Passport and Node.js.,,258
+0,https://github.com/auth0/passport-auth0.git,Auth0 authentication strategy for Passport.js,"dx-sdk,passport",257
+0,https://github.com/konstantint/PassportEye.git,"Extraction of machine-readable zone information from passports, visas and id-cards via OCR",,251
+0,https://github.com/DaftMonk/angular-passport.git,"AngularJS + Express application that demonstrates: Authentication with Passport, CRUD interface for creating posts with mongoDB, server and client validations for account creation, and authorization for editing posts.",,250
+0,https://github.com/stefanbuck/sails-social-auth-example.git,Sails.js Social Auth example with Passport and MongoDB,,241
+0,https://github.com/nestjs/passport.git,Passport module for Nest framework (node.js) 🔑,"nestjs,nest,typescript,nodejs,javascript,passport,authentication",232
+0,https://github.com/LaravelDaily/Laravel-Passport-API-Server-Client-Demo.git,Demo project to show how Laravel Passport works - we have both Server and Client here.,,229
+0,https://github.com/thechutrain/mern-passport.git,A boilerplate example of using passport.js for authenticating a MERN application,"react,react-router-v4,mongoose,mongo,nodejs,express,passport,googleoauth",219
+0,https://github.com/jaredhanson/passport-remember-me.git,Remember Me cookie authentication strategy for Passport and Node.js,,215
+0,https://github.com/santiq/nodejs-auth.git,"Implementation of node.js authentication with social login ✌️, user impersonation 💅, and no passport.js required 💁","nodejs,authentication,passportjs,tutorial,social-login,oauth2,firebase-auth,firebase",210
+0,https://github.com/ngduc/node-rem.git,"Node REM - NodeJS Rest Express MongoDB and more: typescript, passport, JWT, socket.io, HTTPS, HTTP2, async/await, nodemailer, templates, pagination, docker, etc. Live Demo: https://node-rem-ngduc.vercel.app","nodejs,rest-api,express,mongoose,mongodb,typescript,boilerplate,es6,es2017,express-boilerplate,microservices",201
+0,https://github.com/entria/koa-passport-mongoose-graphql.git,Koa 2 server with Passport + Mongoose + GraphQL,"graphql,koa,passport,boilerplate",191
+0,https://github.com/Blizzard/passport-bnet.git,Passport Strategy for Battle.net Login,,187
+0,https://github.com/joselfonseca/lighthouse-graphql-passport-auth.git,Add GraphQL mutations to get tokens from passport for https://lighthouse-php.com/,"passport,graphql-mutations,lighthouse-graphql-passport",186
+0,https://github.com/jimmylee/next-postgres-sequelize.git,React 16.8.4 + NextJS 8.0.3 + Emotion + Sequelize 5/Postgres + Passport Local Auth + Google App Engine or Heroku Deployment,"nextjs,postgres,passport,sequelize,react,heroku,redux,emotion,google-app-engine",178
+0,https://github.com/tananaev/passport-reader.git,e-Passport NFC Reader Android app,"android,java,nfc",174
+0,https://github.com/auth0/passport-windowsauth.git,Windows Authentication strategy for Passport.js,,171
+0,https://github.com/rodrigogs/nodejs-web-jade-scaffold.git,"Web application featuring Node.js, Express, Jade, Passport, MongoDB and Bootstrap",,169
+0,https://github.com/jaredhanson/passport-instagram.git,Instagram authentication strategy for Passport and Node.js.,,160
+0,https://github.com/EricKit/nest-user-auth.git,"A starter build for a back end which implements managing users with MongoDB, Mongoose, NestJS, Passport-JWT, and GraphQL.","mongodb,mongoose,nodemailer,passportjs,passport-jwt,graphql,apollo-server,jest,supertest,nestjs,nodejs,node,nest,mongo,backend,authentication,user-management,joi",158
+0,https://github.com/didinj/node-express-mongoose-passport-jwt-rest-api-auth.git,"Node, express, mongoose, passport and JWT REST API authentication example","node,nodejs,express,expressjs,mongoose,mongoosejs,passport,passportjs,jwt,jwt-authentication,jwt-token,jwt-bearer-tokens,rest-api,restful-api,restful,rest,api",154
+0,https://github.com/EddyVerbruggen/SSLCertificateChecker-PhoneGap-Plugin.git,:passport_control: Prevent Man in the Middle attacks with this Cordova plugin,,153
+0,https://github.com/liangyali/passport-wechat.git,Passport strategy for authenticating with Wechat,,150
+0,https://github.com/roblevintennis/passport-api-tokens.git,A boiler-plate using Passport and JWT with REST API Auth Tokens,,150
+0,https://github.com/diki/nodejs-passport-boilerplate.git,nodejs passport boilerplate,,149
+0,https://github.com/stevebest/passport-vkontakte.git,VK.com authentication strategy for Passport and Node.js,"passport,vk,vkontakte,oauth2,authentication,nodejs",149
+0,https://github.com/jaredhanson/passport-openidconnect.git,OpenID Connect authentication strategy for Passport and Node.js.,,145
+0,https://github.com/oslabs-beta/onyx.git,"Onyx is authentication middleware for Deno, inspired by Passport.js",,143
+0,https://github.com/fiznool/passport-oauth2-refresh.git,A passport.js add-on to provide automatic OAuth 2.0 token refreshing.,,143
+0,https://github.com/jaredhanson/passport-google.git,Google (OpenID) authentication strategy for Passport and Node.js.,,142
+0,https://github.com/jaredhanson/passport-linkedin.git,LinkedIn authentication strategy for Passport and Node.js.,,142
+0,https://github.com/FaztTech/nodejs-notes-app.git,"A web app to create notes, and save it using Mongodb, plus authentication using passport.","nodejs,mongodb,express,javascript,bootstrap4,passport",142
+0,https://github.com/Credntia/CVScanner.git,An OpenCV based library for Android to scan ID documents or Passports.,"opencv,document-scanner",141
+0,https://github.com/wyntau/passport-weixin.git,passport oauth2 strategy for weixin,,139
+0,https://github.com/strongloop/loopback-component-passport.git,LoopBack passport integration to support third party logins and account linking,,139
+0,https://github.com/jaredhanson/passport-totp.git,TOTP authentication strategy for Passport and Node.js.,,136
+0,https://github.com/b-bly/simple-mern-passport.git,A template and tutorial for integrating passport to a MERN app.,,133
+0,https://github.com/nicholastay/passport-discord.git,Passport strategy for authentication with Discord (discordapp.com),,132
+0,https://github.com/0-duke/wdpassport-utils.git,WD Passport Ultra Linux Utilities,,129
+0,https://github.com/Arg0s1080/mrz.git,"Machine Readable Zone generator and checker for official travel documents sizes 1, 2, 3, MRVA and MRVB (Passports, Visas, national id cards and other travel documents)","mrz,icao,icao-codes,travel-documents,checker,td1,td2,td3,visas,mrva,mrvb,passport,id-card,transliteration",129
+0,https://github.com/nemanjam/mern-boilerplate.git,"Fullstack boilerplate with React, Redux, Express, Mongoose, Passport Local, JWT, Facebook and Google OAuth out of the box.","react,reactjs,mern,mern-boilerplate,redux,redux-thunk,authentication,authorization,oauth,passport,facebook-login,google-login,jwt,boilerplate,fullstack,mongodb,mongoose,express",127
+0,https://github.com/djizco/mern-boilerplate.git,"A Full MERN Stack Boilerplate for Web Apps including a local authentication system. Uses React, Express.js, MongoDB, Redux, Passport.js, Webpack, Testing, and more.","react,redux,webpack,css,bulma,ramda,passport,mongodb,eslint,enzyme",124
+0,https://github.com/jkettmann/graphql-passport.git,Strategy and utilities to use passport.js with GraphQL server,,122
+0,https://github.com/KenMacD/wdpassport-utils.git,Code and information on how to unlock a WD My Passport drive in Linux.,,121
+0,https://github.com/jaredhanson/passport-oauth.git,OAuth 1.0 and 2.0 authentication strategies for Passport and Node.js.,,117
+0,https://github.com/ProgrammationAndroid/Laravel-Passport-Android.git,Laravel + Passport for an Android App,"laravel,passport,android,authentication,token,java,php",116
+0,https://github.com/zachgoll/express-session-authentication-starter.git,"A basic authentication scheme with Express, MongoDB, and Passport Local Strategy",,109
+0,https://github.com/sadnub/laravel-tenancy-passport-demo.git,Laravel demo with Passport and Tenancy,"laravel,passport,php,vuejs,tenancy,laravel-demo",107
+0,https://github.com/passport/express-4.x-http-bearer-example.git,Express 4.x app using Passport for authentication via HTTP Bearer scheme.,,107
+0,https://github.com/jajaperson/nestjs-auth0.git,An example NestJS application that uses Auth0 via Passport for authentication.,"nestjs,auth0,jwt,passport,typescript",103
+0,https://github.com/mjpearson/passport-slack.git,Slack OAuth2 strategy for Passport,,102
+0,https://github.com/ilyankou/passport-index-dataset.git,"Passport Index 2021: visa requirements for 199 countries, in .csv","dataset,visa,passport,visa-requirements,jupyter-notebook,letter-codes,tidy",101
+0,https://github.com/auth0/passport-linkedin-oauth2.git,Passport Strategy for LinkedIn OAuth 2.0,,100
+0,https://github.com/eggjs/egg-passport.git,passport plugin for egg,"egg-plugin,egg-passport,egg",100
+0,https://github.com/ananay/passport-apple.git,Passport strategy for Sign in with Apple,,99
+0,https://github.com/passport/express-4.x-twitter-example.git,Express 4.x app using Passport for authentication with Twitter.,,96
+0,https://github.com/ridhamtarpara/express-es8-rest-boilerplate.git,"Node.js boilerplate for building RESTful APIs using Express, MongoDB, Passport, Mocha using ES2017(ES8) syntax",,96
+0,https://github.com/searsaw/vue2-auth.git,"Authentication using VueJS 2.0, Express, and Passport",,93
+0,https://github.com/Azure-Samples/active-directory-b2c-javascript-nodejs-webapi.git,A small Node.js Web API for Azure AD B2C that shows how to protect your web api and accept B2C access tokens using Passport.js. ,"microsoft,identity,azure-ad-b2c,azure-active-directory,javascript,webapi",93
+0,https://github.com/jaredhanson/passport-strategy.git,"{""An abstract class implementing Passport's strategy API.""}",,92
+0,https://github.com/ahmetuysal/nest-hackathon-starter.git,"Hackathon starter project for NestJS. Includes TypeORM, email verification, Passport-JWT authentication, Swagger and more","nest,mail-verification,typeorm,nodemailer,swagger,hackathons,jwt-authentication,typescript,boilerplate",92
+0,https://github.com/jaredhanson/passport-oauth2-client-password.git,OAuth 2.0 client password authentication strategy for Passport and Node.js.,,91
+0,https://github.com/jaredhanson/passport-openid.git,OpenID authentication strategy for Passport and Node.js.,,86
+0,https://github.com/eiriklv/express-passport-app.git,Express 4.x application with Passport and React (DEPRECATED),,86
+0,https://github.com/mbell8903/passport-custom.git,Custom logic authentication strategy for Passport and Node.js.,,85
+0,https://github.com/andycmaj/nextjs-passport-session-auth.git,Example of a Next.js application with api routes that enable passport.js authentication and cookie sessions.,,84
+0,https://github.com/vakinge/jeesuite-passport.git,Jeesuite-passport是面向企业级单点登录、统一认证的一站式解决方案。支持微信、企业微信、主流开放平台OAuth、Oauth2.0，JWT、SAML2.0多种认证集成模式。,"sso,oauth2,wechat,ucenter,passport",83
+0,https://github.com/jkvoorhis/userAuth.git,"User Authentication with express, passport, and orchestrate",,80
+0,https://github.com/madhurjain/passport-local-sequelize.git,passport-local-sequelize is a sequelize plugin for building username and password login with passport,"passport,javascript,sequelize,authentication",79
+0,https://github.com/fastify/fastify-passport.git,Use passport strategies for authentication within a fastify application ,,78
+0,https://github.com/JasanHdz/passportjs.git,Generating Sign-In and Sign-Out authentication strategies using Passport.js,,76
+0,https://github.com/leosuncin/nest-auth-example.git,Nest.js authentication with Passport. Realworld example,"nestjs,typescript,passport,rest-api,backend,postgresql",75
+0,https://github.com/jbasdf/react-kindling.git,"Boiler plate for getting started with React.js, node.js, and passport.js",,73
+0,https://github.com/xinbenlv/passport-weibo.git,Weibo authentication strategy for Passport and Node.js.,,71
+0,https://github.com/AndyShang/passport-qq.git,QQ connection authentication strategy for Passport and Node.js,,70
+0,https://github.com/jaredhanson/passport-http-oauth.git,HTTP OAuth authentication strategy for Passport and Node.js.,,70
+0,https://github.com/isaychris/reddit-clone.git,A reddit clone written using node.js / express.js / mongodb / passport.js. https://seiya-beddit.herokuapp.com/,"reddit,node-js,express-js,mongodb,passport-js,bcrypt,moment-js",70
+0,https://github.com/sails101/using-passport.git,How do I use Passport with my Sails app?,,69
+0,https://github.com/andranikbadalyan/Laravel-Passport-Vue-Auth.git,Vue SPA Authentication with Laravel Passport,,68
+0,https://github.com/exlinc/keycloak-passport.git,Production-ready multi-realm implementation of a Keycloak Passport Strategy ,,67
+0,https://github.com/designmynight/laravel-mongodb-passport.git,A package to get Laravel Passport working with MongoDB,"laravel-5-package,mongodb,laravel-mongodb,laravel-passport,laravel,shared",65
+0,https://github.com/kndt84/passport-cognito.git,Passport strategy for AWS Cognito User Pools,,65
+0,https://github.com/nicokaiser/passport-apple.git,Sign in with Apple strategy for Passport,,64
+0,https://github.com/Mattijah/QKMRZScanner.git,"Scan MRZ (Machine Readable Zone) from identity documents (passport, id, visa) using iPhone/iPad (iOS)","mrz,passport,scanner,swift,ios",64
+0,https://github.com/appintheair/documents-ocr-ios.git,Scans and parses machine-readable passport data using Tesseract,,60
+0,https://github.com/reedbarger/next-connect.git,"A Social Network built with Next.js, Express, Passport, Mongoose / MongoDB, and Material-UI",,60
+0,https://github.com/Scharkee/react-redux-passport-uikit-express-boiler.git,"A React+Redux boilerplate using Express as backend, UIKit for frontend, MongoDB for storage & Passport for auth.","react,redux,uikit,mongodb,passport,passportjs,express,webpack,babel,https,greenlock,greenlock-express,mongoose",60
+0,https://github.com/danielgynn/express-authentication.git,"Simple authentication app using express, node & passport.","passport,nodejs,express,javascript",58
+0,https://github.com/didinj/mern-stack-authentication.git,Secure MERN Stack CRUD Web Application using Passport.js Authentication,"secure,security,securing,authentication,login,mern,mern-stack,crud,web,application,mongo,mongodb,express,expressjs,react,reactjs,node,nodejs,passport,passportjs",58
+0,https://github.com/maybachlabs/express-typescript-seed.git,"Node API seed written in typescript using Express, Sequelize, Passport, and RabbitMQ","express,typescript,sequelize,rabbitmq,passportjs,supertest",58
+0,https://github.com/matt-tyler/oauth2-passport-angular.git,A simple demo project for showing OAuth2 authentication flows between third party providers using passport.,,58
+0,https://github.com/jaredhanson/passport-anonymous.git,Anonymous authentication strategy for Passport and Node.js.,,57
+0,https://github.com/saqueib/qtube.git,Create REST API with authentication using Laravel Passport  http://www.qcode.in/create-rest-api-authentication-using-laravel-passport/,,56
+0,https://github.com/krakenjs/kraken-example-with-passport.git,An example  integrating kraken with passport authentication,,55
+0,https://github.com/Azure-Samples/active-directory-javascript-nodejs-webapi-v2.git,A small Node.js Web API that is protected with Azure AD v2.0 to validate access tokens and accepts authorized calls using Passport.js,"javascript,oauth2,webapi,azure-ad,passport-js,nodejs",55
+0,https://github.com/estilles/keystone-social-login.git,Passport authentication plugin for KeystoneJS,,54
+0,https://github.com/drudge/passport-twitter-token.git,Passport strategy for authenticating with Twitter tokens using the OAuth 1.0a API.,,54
+0,https://github.com/nax3t/angular-express-passport-tutorial.git,A quick source code tutorial for adding passport authentication to a MEAN stack app (Facebook integration included),,54
+0,https://github.com/jllarraz/AndroidPassportReader.git,Android application to read passports with MRZ,,53
+0,https://github.com/mjhea0/passport-local-knex.git,adding passport to a node app,"passport,node,express,passport-local",53
+0,https://github.com/Kristories/novassport.git,A Laravel Nova tool to manage API Authentication (Passport),"laravel,nova,passport,oauth,oauth2,laravel-nova",53
+0,https://github.com/auth0/passport-azure-ad-oauth2.git,OAuth 2.0 authentication Passport strategies for Windows Azure Active Directory,,53
+0,https://github.com/Glamdring/epassport-reader.git,A sample android app that reads e-passports,,52
+0,https://github.com/jaredhanson/passport-browserid.git,BrowserID authentication strategy for Passport and Node.js.,,52
+0,https://github.com/webjames/sails-passport-example.git,A sails js  passport example,,51
+0,https://github.com/anil-sidhu/laravel-passport-poc.git,laravel passport poc,,50
+0,https://github.com/stribny/auth-quickstart.git,"Authentication Quickstart with Express, Passport and Sequelize","sequelize,nightwatch,passport,nodejs,express,javascript",50
+0,https://github.com/coolaj86/example-oauth2orize-consumer.git,This passport-strategy consumer showcases how to utilize a oauth2orize provider,,50
+0,https://github.com/appdotnet/ADNLogin-SDK-iOS.git,This is the App.net Login SDK for iOS. It allows users to forgo entering passwords into each app and instead authorize from the App.net Passport iOS application. Passport allows you to browse the App.net directory and perform account management functions.,,49
+0,https://github.com/jsdecena/laravel-passport-mutiauth.git,Laravel Passport Multi-Authentication Middleware,"laravel,laravel-passport,middleware,multi-auth,authentication,jwt,oauth2",48
+0,https://github.com/vinialbano/passport-magic-link.git,Magic Link authentication for Passport JS,,48
+0,https://github.com/niftylettuce/winston-raven-sentry.git,The maintained and well-documented Raven/Sentry transport for the winston logger with support for Koa/Express/Passport,"raven,sentry,winston,logger,koa,passport,express,transport",48
+0,https://github.com/hongymagic/k2.git,"Koa2 API template with passport, GraphQL, flowtype, knex and more.","koa2,koa2-start,graphql,passport,knex,flowtype,jest,postgresql,nodejs,starter-kit",48
+0,https://github.com/kevoj/nodetomic-api-swagger.git,"RESTful API Nodejs designed for horizontal scalability with support for cluster, based on Swagger, Redis, JWT, Passport, Socket.io, Express, MongoDB.","swagger-api,swagger,rest-api,scaling,cluster,redis,passport,node-restful,node-api,mongodb,api,authentication,auth,socket-io,socket-cluster,swagger-socket,auth-swagger",48
+0,https://github.com/MidoAhmed/nestjs-api-boilerplate.git,"Nestjs API Boilerplate  😍 💪 🔥 :  Typescript, Postgresql, TypeORM, Swagger for Api documentation, Passport-JWT authentication, Jest, Env configuration, Migrations,  Seeds, Docker, Redis, AWS S3, and best application architecture.","nestjs,typescript,swagger,typeorm,seeds,docker,postgres,passport-jwt-authentication,jest,docker-compose,logging,typeorm-seeding,crud,database-migrations,boilerplate,redis-cache,redis,compodoc,winston-logger,aws-s3",48
+0,https://github.com/overtrue/laravel-passport-cache-token.git,Make laravel/passport token cacheable.,"laravel-passport,cache,laravel-passport-cache,token-cache",47
+0,https://github.com/Slotos/passport-reddit.git,Reddit oauth2 authentication strategy for passport.js,,46
+0,https://github.com/alexeycrystal/laravel-passport-vue-authentication.git,Laravel & Vue.js - authentication with Laravel Passport (Laravel 7 + Passport 9.3 + Vue 2.6 + Vuex 3.5),"laravel-passport,laravel,vue,vuex",46
+0,https://github.com/antoniojps/graphql-authentication.git,Boilerplate : JWT authentication with Cookies - Passport & GraphQL with Apollo V2 & Express (Google),,46
+0,https://github.com/cdiaz/nest-passport.git,Nest authentication example using passport strategies,"nest,nestjs,passport,jwt",45
+0,https://github.com/schedula/laravel-passport-socialite.git,The missing social authentication plugin (i.e. SocialGrant) for laravel passport.,"laravel,social-login,laravel-passport,passport,laravel-socialite,socialite",45
+0,https://github.com/ryanwebber/sails-authorization.git,"Node with sails.js mvc framework, Using passport logins + token based security ",,45
+0,https://github.com/mintbridge/passport-ldap.git,LDAP authentication strategy for Passport and Node.js,,44
+0,https://github.com/sails101/even-more-passport.git,How might I integrate Passport with access control and authentication?,,44
+0,https://github.com/passport/www.passportjs.org.git,The official website of Passport.js.,,43
+0,https://github.com/gtramontina/passport-stub.git,Passport.js stub for testing.,,43
+0,https://github.com/eggjs/egg-passport-local.git,wrap passport-local strategy for egg-passport,"egg-passport,passport,egg-plugin",43
+0,https://github.com/Rigidflame/firebase-passport-login.git,Use Express Passport libraries for Firebase Authentication,,43
+0,https://github.com/didinj/node-express-passport-mongoose-auth.git,"Node.js, Express.js, Passport.js and Mongoose.js User Authentication Example",,43
+0,https://github.com/farhanchoudhary/PAN_Card_OCR_Project.git,"To extract details from Indian National Identification Cards such as PAN (completed) & Aadhar, Passport, Driving License (WIP) in a structured format","tesseract,pan-card,pan,pytesseract,ocr,optical-character-recognition,image-processing,image-to-text",43
+0,https://github.com/KevinNTH/express-jwt-mongoose-example.git,A basic example of express server with JWT authentication (passport.js) and user entity handled by Mongoose,,43
+0,https://github.com/jmreyes/passport-google-id-token.git,Google ID token authentication strategy for Passport and Node.js.,,42
+0,https://github.com/mjhea0/passport-local.git,user authentication to Node.js with Passport.js.,,42
+0,https://github.com/amoshaviv/mean.git,"MEAN - A Modern Stack: MongoDB, ExpressJS, AngularJS, NodeJS. (BONUS: Passport User Support).",,42
+0,https://github.com/kevoj/nodetomic-api.git,"RESTful API Nodejs designed for horizontal scalability with support for cluster, based on Express, MongoDB, Redis, JWT, Socket.io, Passport.","nodejs,es6,javascript,mongodb,expressjs,babel,nodejs-api,nodejs-server,nodejs-framework,nodejs-api-boilerplate,nodejs-mongodb,nodejs-boilerplate,node-api,nodejs-api-auth,nodejs-api-scalability,nodejs-backend,nodejs-server-api,nodejs-cluster,nodejs-redis,nodejs-authentication",42
+0,https://github.com/sadne/passport-cas.git,Cas authentication strategies for Passport.,,41
+0,https://github.com/woodburydev/passport-local-video.git,"Simple Passport Authentication Boilerplate with Passport.Js, Node.js and React.js. ",,41
+0,https://github.com/Abdallah-khalil/NodeJsWithPassport.git,nodejs application  for integration with passport strategies and oauth built with nestjs,"nodejs,expressjs,nestjs,typescript,passportjs,oauth2",40
+0,https://github.com/glrodasz/platzi-auth-passport.git,Curso de Autenticación con Passport.js,,39
+0,https://github.com/yuri-karadzhov/passport-hash.git,Hash authentication strategy for Passport.,,39
+0,https://github.com/mattgaidica/twitter-mongo.git,"Simple User Authentication with Node.js, Express, Mongoose, and Passport",,39
+0,https://github.com/kdelemme/budget-manager.git,"A simple Budget Manager application written with AngularJS, Node.js (express and passport) and MongoDB.",,39
+0,https://github.com/jpreecedev/passport-next-auth-tutorial.git,"Build an authentication system using Node.js, Express, and Passport.js","passportjs,passport-local,passport-google,passport-strategy,passport-facebook,mongodb,mongoose,javascript,react,nextjs",39
+0,https://github.com/rotoshine/passport-kakao.git,passport.j kakao module,"passport-kakao,kakao,passport",38
+0,https://github.com/auth0/passport-wsfed-saml2.git,passport strategy for both WS-fed and SAML2 protocol,,38
+0,https://github.com/kamwoh/DeepIPR.git,"This is the code repo of our NeurIPS2019 work that proposes novel passport-based DNN ownership verification schemes, i.e. we embed passport layer into various deep learning architectures (e.g. AlexNet, ResNet) for Intellectual Property Right (IPR) protection.",,38
+0,https://github.com/Schmoopiie/passport-twitch.git,Twitch (OAuth) authentication strategies for Passport.,,37
+0,https://github.com/jaredhanson/passport-soundcloud.git,SoundCloud authentication strategy for Passport and Node.js.,,37
+0,https://github.com/ripjar/passport-client-cert.git,Passport.js strategy for PKI client certificate authentication,,37
+0,https://github.com/didinj/mevn-stack-vue-2.git,Securing MEVN Stack (Vue.js 2) Web Application using Passport,"securing,secure,security,mevn,mongo,mongodb,express,expressjs,vue,vuejs,vue2,node,nodejs,stack,web,application,app,passport,passportjs",37
+0,https://github.com/pktharindu/nuxt-laravel-passport-example.git,Nuxt.js app as a first-party client powered by Laravel Passport API,"nuxt,laravel,nuxtjs,laravel-passport,password-grant,laravel-ui,api,client,passport,authentication",37
+0,https://github.com/fh1ch/passport-gitlab2.git,GitLab authentication strategy for Passport,,36
+0,https://github.com/jaredhanson/passport-amazon.git,Amazon authentication strategy for Passport and Node.js.,,36
+0,https://github.com/naver/passport-naver.git,A passport strategy for Naver OAuth 2.0,,36
+0,https://github.com/matt-allan/passport-socialite.git,A Laravel socialite driver for Laravel Passport,"laravel,oauth2,php",36
+0,https://github.com/johnkernke/passport-twitchtv.git,Twitch.tv authentication strategy for Passport and Node.js.,,36
+0,https://github.com/iliketomatoes/passport_with_sails.git,Basic implementation of Passport.js together with Sails.js framework,,36
+0,https://github.com/tutts/es6-express-mongoose-passport-rest-api.git,"Lightweight boilerplate for Node RESTful API, ES6, Express, Mongoose and Passport 🎁","node,boilerplate,es6,javascript,passport,mongoose,api,restful,express",36
+0,https://github.com/newtondev/mrz-parser.git,Parses the MRZ found of Passport and Travel Documents and returns the data in a human readable form.,,36
+0,https://github.com/Tony133/nestjs-api-boilerplate-jwt.git,An API Boilerplate to create a ready-to-use REST API in seconds with NestJS 7.x + TypeORM and Passport Auth JWT 😻,"nestjs,nest,js,javascript,node,boilerplate,jwt,rest-api,api-rest,apirest,typeorm",36
+0,https://github.com/alsenet-labs/mrz-scanner.git,"Detect, ocrize and parse (client or server side) the Machine Readable Zone of passports and other documents",,35
+0,https://github.com/QuePort/passport-sharepoint.git,SharePoint authentication strategy for Passport and Node.js.,,35
+0,https://github.com/UBIC-repo/core.git,UBIC: The crypto currency providing UBI for the masses using the E-Passport,"passport,ubi,e-passport,blockchain,nfc,sybil-resistance,cryptocurrency",35
+0,https://github.com/leepowelldev/passport-token.git,Username and token authentication strategy for Passport - modified from passport-local.,,34
+0,https://github.com/joshbirk/passport-forcedotcom.git,A passport.js oauth strategy for ForceDotCom/DatabaseDotCom,,34
+0,https://github.com/jaredhanson/passport-windowslive.git,Windows Live authentication strategy for Passport and Node.js.,,34
+0,https://github.com/mdoury/nestjs-auth-starter-kit.git,NestJS Auth Starter Kit (typescript / typeorm / swagger / passport / bcrypt),"typescript,nestjs,passport,swagger,bcrypt,typeorm",34
+0,https://github.com/ilich/passport-2fa-totp.git,TOTP based Two-Factor Authentication for Passport and Node.js,,34
+0,https://github.com/stormpath/passport-stormpath.git,Passport.js plugin for the Stormpath User Management Service,,34
+0,https://github.com/lughino/passport-unique-token.git,Unique token authentication strategy for Passport,"passport,express,passport-strategy,passport-unique-token,authentication-strategy",34
+0,https://github.com/jkup/hammer.git,":hammer: A Node, Express, MySQL, Passport and Jade Starter Kit",,34
+0,https://github.com/soha-moosa/node-auth-kit.git,"A starter boiler plate for node application with authentication, which includes Google, Facebook and email/password authentication strategies using passport & JWT.",,34
+0,https://github.com/mikemclin/passport-custom-request-grant.git,Custom Request Grant for Laravel Passport,,33
+0,https://github.com/dzt/MobilePassport.git,Authentication with Passport.js on Android and iOS.,,33
+0,https://github.com/jessedvrs/graphql-passport-example.git,NodeJS example of authentication in GraphQL using Passport,"nodejs,graphql,passport",33
+0,https://github.com/mtiger2k/react-redux-graphql-passport-starter.git,"React redux hot starter - apollo-graphql backend api, with mongo, passport-jwt supported",,33
+0,https://github.com/Abdallah-khalil/ContactManagerApp.git,"A Contact Manager App using Angular , Nestjs , Nodejs , Expressjs ,  Mongoose , Passport, JWT ","angular,nestjs,expressjs,nodejs,mongodb,mongoose,typescript",33
+0,https://github.com/beliolfa/vue-passport.git,A login component to handle authorization with Laravel Passport,,33
+0,https://github.com/djjorik/angular-chat.git,"Angular v.9, Node.js, Nest.js v.6, Mongoose, Socket.io, Passport, Angular Universal SSR (in progress...)","nestjs,nest,angular,chat,socket,socket-io,mongoose,nodejs",33
+0,https://github.com/jaredhanson/passport-fitbit.git,Fitbit authentication strategy for Passport and Node.js.,,32
+0,https://github.com/dpar39/ppp.git,A passport photo creation tool,,32
+0,https://github.com/jaredhanson/passport-tumblr.git,Tumblr authentication strategy for Passport and Node.js.,,32
+0,https://github.com/jaredhanson/chai-passport-strategy.git,Helpers for testing Passport strategies with the Chai assertion library.,,32
+0,https://github.com/florianheinemann/passport-dropbox-oauth2.git,Passport strategy for authenticating with Dropbox using the OAuth 2.0 API,,32
+0,https://github.com/heloufir/security-starter.git,"Security starter is a full implementation of laravel/passport and heloufir/simple-passport, containing all the implementations of the authentication and forgot password systems, which allows you to start your project from a good foundation, and only worry about the business logic of your application.","laravel,laravel-passport,middleware",32
+0,https://github.com/feathersjs-ecosystem/authentication-jwt.git,[MOVED] JWT authentication strategy for feathers-authentication using Passport,,31
+0,https://github.com/neoighodaro/Creating-OAuth-Server-Laravel-Passport.git,This is an Example of how to create an OAuth server using Laravel Passport,,31
+0,https://github.com/uxxSam/Node-MySQL-Rest-API-Passport-JWT.git,Simple RESTful API implementation on Node.js + Express + MySQL + Passport + JWT,,31
+0,https://github.com/codebarista/passport-jwt-cookiecombo.git,JSON Web Token (JWT) cookie combo authentication strategy for Passport and Node.js.,"jwt,passport,jsonwebtoken,passport-jwt-cookiecombo,strategy,tonic",31
+0,https://github.com/lydiahallie/codebuddy-fs.git,"🙋Personal Project: Social platform built with React, Redux, Node, Express, Passport, JWT, oAuth, MongoDB",,31
+0,https://github.com/izaakschroeder/express-authentication.git,Unopinionated express middleware for authentication. Alternative to passport.,,31
+0,https://github.com/nickbalestra/zero.git,A passwordless inspired strategy for passport,,30
+0,https://github.com/IvanWei/passport-line-auth.git,Line authentication strategy for Passport and Node.js.,"passport,line",30
+0,https://github.com/jaredhanson/passport-dropbox.git,Dropbox authentication strategy for Passport and Node.js.,,30
+0,https://github.com/TelegramPassport/passport-js.git, Telegram Unofficial authentication strategy for Passport and Node.js. ,"telegram,passport,auth,authentication,login,telepass",30
+0,https://github.com/bnolan/briefs.git,"👙 Microblogging service in node, express, passport, postgres + preact",,30
+0,https://github.com/webdevmatics/webdevlistapi.git,Complete api authentication with laravel passport,,29
+0,https://github.com/millsy/passport-strava.git,Strava authentication strategy for Passport.,,29
+0,https://github.com/trm313/mern-starter.git,"Boilerplate: Passport-local login w/ JWT validation. Express, React, React-Router, Webpack, Passport,",,29
+0,https://github.com/benbjurstrom/passport-custom-jwt-claims.git,Customize the JWT claims in Laravel/Passport access tokens,,29
+0,https://github.com/halrobertson/test-restify-passport-facebook.git,Short example implementation of passport-facebook and restify working together,,29
+0,https://github.com/godilite/FlutterLaravel.git,This is just a simple app to show how to Authenticate a flutter app with Laravel passport,"flutter,flutter-demo,flutter-app,dart,laravel,laravel-6x,laravel-passport",29
+0,https://github.com/alimertozdemir/EPassportNFCReader.git,ID Card and E-Passport Reader NFC Android Application - Sample Project with MLKit,"java,android,mrz,e-passport,id-card,id-card-recognition,ocr-recognition,mlkit",29
+0,https://github.com/geekhaidar/WD-Passport-Unlock-Linux.git,"{""Steps to Unlock the WD Passport Hard Disk on Linux or Ubuntu Operating System that doesn't support the WD Unlocker ""}",,29
+0,https://github.com/paulmillr/mnp.git,My new passport,,28
+0,https://github.com/jaredhanson/passport-paypal-oauth.git,PayPal (OAuth) authentication strategy for Passport and Node.js.,,28
+0,https://github.com/corbosman/laravel-passport-claims.git,Add claims to Laravel Passport JWT Tokens,,28
+0,https://github.com/skleeschulte/basic-to-passport-auth-http-proxy.git,HTTP proxy server that can access resources which use the Passport SSI Version 1.4 Protocol for authorization with credentials supplied by Basic HTTP authentication.,,28
+0,https://github.com/uwolfer/mrz-scanner.git, mrz-scanner is a PWA (progressive web app) for recognizing MRZ lines used on ID cards and passports,,27
+0,https://github.com/neoighodaro/laravel-passport-demo.git,Shows you how to turn your website to an Oauth2 server using Laravel Passport,"oauth2-server,oauth2,laravel-passport,laravel",27
+0,https://github.com/ksylvan/MyPassportWirelessHacks.git,Hacks for the Western Digital My Passport Wireless network attached storage device,,27
+0,https://github.com/AndrejGajdos/auth-flow-spa-node-react.git,"🔐 User authentication in SPA, built with Node.js and React (Koa, Passport, Redux, Redux-Saga and React Router). Local authentication – users can log in using username, passport and authentication through Facebook.","nodejs,node,reactjs,react,redux,redux-saga,passport,passportjs,passport-local,passport-facebook,reactrouter,koa,koajs,oauth,javascript",27
+0,https://github.com/civitaslearning/passport-lti.git,Passport-based LTI authentication for node.js,,26
+0,https://github.com/jay3dec/LocalAuthUsingPassport.git,Local Authentication using Passport for Node.js app,,26
+0,https://github.com/DaanVanVugt/tesseract-mrz.git,Demonstration of reading a passport with tesseract.js,,26
+0,https://github.com/heroicyang/passport-tqq.git,Tencent QQ authentication strategy for Passport and Node.js.,,26
+0,https://github.com/molekilla/hapi-passport-saml.git, A Hapi plugin that wraps passport-saml for SAML SSO (as SP),"passport-saml,saml,hapi-plugin",26
+0,https://github.com/X-SLAYER/Card-Holder-Wallet-Stouche-.git,"hold your cards, identity cards, student cards, bank cards, loyalty cards, credit ,gift,cheque,debit card, passport and more with original photo",,26
+0,https://github.com/GeneaLabs/nova-passport-manager.git,Manage Passport clients and tokens from within Nova.,,25
+0,https://github.com/jaredhanson/passport-bitbucket.git,Bitbucket authentication strategy for Passport and Node.js.,,25
+0,https://github.com/didinj/node-facebook-twitter-google-github-login.git,"Node, Express, Mongoose, Passport, Facebook, Twitter, Google and Github Authentication (Login)","node,express,mongoose,mongodb,passport,facebook,twitter,google,github,authentication,security,login,signin",25
+0,https://github.com/ramdannur/laravel-sso-passport.git,[DEPRECATED] A simple SSO (Single Sign On) system using the Laravel Framework with Passport API Authentication,"laravel,passport,sso,php,mysql",25
+0,https://github.com/akshaylive/live.io.git,"Live.io combines the power of the new Express 4.0, socket.io and passport! Empower your sockets!",,25
+0,https://github.com/bhoriuchi/passport-activedirectory.git,Active Directory strategy for passport.js,"passport,strategy,active-directory,authentication,verification",24
+0,https://github.com/drstearns/passport-uwshib.git,"{""Passport authentication strategy for University of Washington's Shibboleth service""}",,24
+0,https://github.com/esbenp/larapi-part-4.git,Code for blog post on Laravel Passport,,24
+0,https://github.com/desi-programmer/nodejs_authentication.git,"Here is a simple Local Authentication USing Node,Express And Passport with Password Encryption Using BcryptJS...",,24
+0,https://github.com/thejsj/passport-rethinkdb-tutorial.git,"A short, simple repo to explain how to use passport OAuth with RethinkDB.",,24
+0,https://github.com/ericwooley/graphql-typeorm-passport-boilerplate.git,"A boilerplate for passport, typeorm, and graphql",,24
+0,https://github.com/accimeesterlin/passport-examples.git,Passport Examples with different Database and strategies - MySQL | Sequelize | MongoDB | Mongoose,"passportjs,passportjs-authentication,passport-local-mongoose,passport-local,passport-twitter,passport-strategy,authentication-strategy,authentication-middleware,nodejs-authentication,expressjs-middleware,cookie-session,bcryptjs",24
+0,https://github.com/iamnotstatic/laravel-api-auth.git,A Laravel Package for easy API authentication setup with passport,"laravel,laravel-api,laravel-passport,laravel-authentication,oauth2-laravel",24
+0,https://github.com/jeremybenaim/passport-500px.git,500px authentication strategy for Passport and Node.js. ,,24
+0,https://github.com/TelegramMessenger/TGPassportJsSDK.git,Javascript SDK for Telegram Passport,,23
+0,https://github.com/jfromaniello/passport-hawk.git,Passport strategy for the Hawk authentication schema.,,23
+0,https://github.com/danteata/passport-shopify.git,Shopify authentication strategy for passport,,23
+0,https://github.com/didinj/mean-angular5-passport-authentication.git,Securing MEAN Stack (Angular 5) Web Application using Passport Authentication,"securing,security,secure,authentication,login,mean,stack,mongo,mongodb,express,expressjs,angular,angularjs,angular5,node,nodejs,web,application,webapp,example",23
+0,https://github.com/Blitss/passport-telegram-official.git,Passport strategy for Telegram Login widget,"telegram,passport,widget,strategy,telegram-authentication,nodejs",23
+0,https://github.com/NBlasko/mevn-auth.git,"Vue.js, Express.js, Node.js, MongoDB, OAuth app with local, facebook and google+ passport strategies",,23
+0,https://github.com/DemocracyOS/hub.git,"{""Single Page App setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap.""}",,23
+0,https://github.com/jefferyhoffman/project-3-starter.git,"Express, Passport & React Starter Project",,22
+0,https://github.com/mjpearson/passport-wordpress.git,Wordpress OAuth2 strategy for Passport,,22
+0,https://github.com/userapp-io/passport-userapp.git,Password and token authentication strategy using UserApp for Passport.,,22
+0,https://github.com/jaredhanson/passport-foursquare.git,Foursquare authentication strategy for Passport and Node.js.,,22
+0,https://github.com/devvid/sails-js-v1-passport-js-cheatsheet.git,Quick cheatsheet for Sails V1 and Passport implementation.,,22
+0,https://github.com/eddywashere/passport-keystone.git,OpenStack Keystone authentication strategy for Passport and Node.js,,22
+0,https://github.com/ghaiklor/passport-google-plus-token.git,Passport strategy for authenticating with Google Plus via OAuth2 access tokens,,22
+0,https://github.com/TelegramMessenger/TGPassportKit.git,TGPassportKit helps you easily integrate Telegram Passport requests into your iOS & macOS apps.,,22
+0,https://github.com/deepwritescode/hello-api.git,"A simple REST api built on nodejs with a mysql database, redis session store, and passport authentication","nodejs,sequelize,mysql-database,mysql,rest,restapi,rest-api,passport-authentication,database,restful-api,passportjs,expressjs,redis,passport-local",22
+0,https://github.com/dannyvassallo/sernjs.git,"React, Node, Express, Passport, and Material-ui boilerplate with live-reloading capability server and clientside. (Welcoming contributions!)",,22
+0,https://github.com/cantellir/laravel-api-auth.git,Pratical step-by-step how to do a RESTful API in Laravel 5.5 with authentication by email and password using Laravel Passport (OAuth 2.0),"laravel,laravel-api,laravel-passport,laravel-authentication,oauth2-laravel",22
+0,https://github.com/gmr/passport.git,"{""Passport generates templated configuration files using Consul's Service Discovery and Key/Value database tools""}",,22
+0,https://github.com/heloufir/simple-passport.git,"Simple passport, is a complete implementation of laravel/passport package, containing authentication, forgot passwort, recovery password, ... and all what you need to start your application that needs a complete authentication system","laravel,laravel-passport",22
+0,https://github.com/jovanidash21/chat-app.git,An Express React Redux Socket.IO Chat App that uses MongoDB with Mongoose driver as database and Passport for user authentication.,"react,redux,chat-app,socket-io,mongoose,express,passport",22
+0,https://github.com/tamalweb/twitter-clone-new.git,"MVC app made with Node.js, Express.js, MongoDB & Passport.js. This is my first fullstack project. I was always interested with social network, I made user profiles with user registration feature",,22
+0,https://github.com/deft/mrz-parser.git,Library to parse machine readable zones (MRZ) of passports and travel documents,,21
+0,https://github.com/Siedrix/passport-pocket.git,This is a passport strategy for pocket,,21
+0,https://github.com/bsspirit/nodejs-passport.git,Passport 模块案例,,21
+0,https://github.com/davidpoza/passport-jwt-example.git,passport-jwt example,,21
+0,https://github.com/Snapchat/express-4.x-passport-snapchat-example.git,Express 4.x app using Passport for authorization with Snapchat.,,21
+0,https://github.com/jaredhanson/passport-goodreads.git,Goodreads authentication strategy for Passport and Node.js.,,21
+0,https://github.com/sadnub/laravel-mongodb-passport-fix.git,Updates passport models to use the MongoDB Models,"laravel,laravel-passport,laravel-mongodb,php",21
+0,https://github.com/ajmueller/express-auth-session.git,A starter Express app using Passport for authentication and an ACL for authorization.,,21
+0,https://github.com/qiutuleng/laravel-passport-phone-verification-code-grant.git,Resource owner phone verification code credentials grant for Laravel Passport,"laravel-passport,oauth2-server,phone-verification-code,oauth2-authorization,laravel",21
+0,https://github.com/emersonlaurentino/express-es6-jwt-mongoose.git,":leaves: A basic project for an ES6 RESTful Express server with JWT, Passport and Mongoose.","jwt,mongoose,passport,express,nodejs,restful-api",21
+0,https://github.com/jlr7245/PERN-stack-auth-base.git,"Base for a PERN (postgres, express, react, node) stack with passport session-based local auth and redux.","postgresql,nodejs,express,expressjs,react,redux,react-router,boilerplate,authentication",21
+0,https://github.com/jaredhanson/passport-oauth1.git,OAuth 1.0 authentication strategy for Passport and Node.js.,,20
+0,https://github.com/coopermaruyama/passport-web3.git,Web3 authentication strategy for passport,,20
+0,https://github.com/evanejtucker/react-auth-simple.git,"Authentication app built with MongoDB, Express, React, Node, and Passport.js",,20
+0,https://github.com/orobogenius/laravel-oauth2-social-grant-demo.git,Authenticate Social Users on your OAuth2 Server using Laravel Passport,,20
+0,https://github.com/caomingkai/Online-Exam-System.git,"💯 A MERN stack online examination application, providing features like JWT authentication random questions generation, timer automatic grading. ##Tech Stack: React/Redux, Node.js, Express, MongoDB, JWT, Passport.js",,20
+0,https://github.com/jaredhanson/passport-yahoo-oauth.git,Yahoo! (OAuth) authentication strategy for Passport and Node.js.,,19
+0,https://github.com/aoberoi/passport-slack.git,Slack authentication strategy for Passport,,19
+0,https://github.com/appdevdesigns/passport-cas.git,CAS strategy for Passport.js authentication,,19
+0,https://github.com/TelegramMessenger/TGPassportPHPSample.git,PHP Sample for Telegram Passport,,19
+0,https://github.com/bithound/passport-bitbucket-oauth2.git,Bitbucket OAuth2 authentication strategy for Passport and Node.js.,,19
+0,https://github.com/deoxxa/passports.git,Multi-tenancy (read: virtual hosts) for Passport.JS,,19
+0,https://github.com/jaredhanson/passport-persona.git,Mozilla Persona authentication strategy for Passport and Node.js.,,19
+0,https://github.com/seanfisher/passport-microsoft.git,An Authentication strategy for passport.js that uses the Microsoft Graph API,"passportjs,microsoft-graph,authentication,passport,nodejs",19
+0,https://github.com/timtamimi/node.js-passport.js-template.git,A template for a node.js app using PostgresQL + Passport for authentication,,19
+0,https://github.com/hardlifeofapo/node-passport-couchbase-redis.git,"Sample node.JS application using express 3, passport, couchbase and redis to log-in users",,19
+0,https://github.com/jkettmann/authentication-with-graphql-passport-and-react-starter.git,This is a starter project for a series of articles on authentication with GraphQL and Passport.js,,19
+0,https://github.com/skogsmaskin/passport-vercel.git,Passport.js strategy for authenticating with Vercel (previously ZEIT) using the OAuth 2.0 API,,19
+0,https://github.com/rm2kdev/PLEB-Stack.git,Locomotive Express Mongoose Passport\nSimple no obtrusive application bootstrap.\n\nFollows standards set by locomotive/express while integrating mongoose and passport authentication seamlessly,,19
+0,https://github.com/steve-jansen/passport-reverseproxy.git,Reverse HTTP proxy authentication strategy for Passport and Node.js,,19
+0,https://github.com/openbadgefactory/salava.git,Open Badge Passport community edition,,18
+0,https://github.com/jlabusch/oauth2-server.git,OAuth 2.0 server based on Passport and Oauth2orize,,18
+0,https://github.com/jaredhanson/passport-runkeeper.git,RunKeeper authentication strategy for Passport and Node.js.,,18
+0,https://github.com/didinj/secure-node-express-postgresql-passport.git,"Secure Node.js, Express.js and PostgreSQL API using Passport.js","secure,security,authentication,login,signin,signup,register,nodejs,expressjs,postgresql,sequelizejs,passportjs",18
+0,https://github.com/feathersjs-ecosystem/feathers-authentication-ldap.git,LDAP authentication strategy for feathers-authentication using Passport,,18
+0,https://github.com/xtrinch/jwt-express-react-example.git,"Example ""popularity"" app developed with React & Express & Passport & Node","react,express,jwt,redux",18
+0,https://github.com/passport/express-3.x-http-basic-example.git,Express 3.x app using Passport for authentication via HTTP Basic scheme.,,18
+0,https://github.com/jkettmann/authentication-with-graphql-passport-and-react.git,This demo project belongs to a series of articles on authentication with GraphQL and Passport.js,,18
+0,https://github.com/magiclabs/passport-magic.git,Magic is a Passport.js strategy that enables passwordless authentication middleware for any Express.js based application.,"expressjs,nodejs,passportjs,identity,javascript,authentication,passwordless",18
+0,https://github.com/hgranlund/passport-keycloak-bearer.git,HTTP Bearer authentication strategy for Passport and Keycloak,,18
+0,https://github.com/pandark/passport-42.git,Passport strategy for authenticating with 42 using the OAuth 2.0 API,"passport,passportjs,passport-42,42,42school,42born2code,born2code,42api,passport-js",18
+0,https://github.com/geddy/geddy-passport.git,Geddy integration for Passport auth,,17
+0,https://github.com/gurugray/passport-yandex.git,Yandex authentication strategy for Passport and Node.js.,"yandex,passport,strategy,yandex-authentication,passport-yandex",17
+0,https://github.com/yogeshkoli/laravel-passport.git,Basic Usage of Laravel Passport Package with Laravel 5.5,"laravel5,php7",17
+0,https://github.com/emaitee/jwt-passport-mysql.git,A basic implementation of JsonWebToken with passport and Sequelize & MySQL ,"passport,sequelize,jsonwebtoken,mysql",17
+0,https://github.com/missinglink/passport-facebook-canvas.git,Facebook Canvas authentication strategy for Passport and Node.js.,,17
+0,https://github.com/openpitrix/iam.git,:id::passport_control::accept: Identity and Access Management System,"openpitrix,rbac,iam",17
+0,https://github.com/zapstar/node-sequelize-passport.git,"Boilerplate to get started with Node.js, Express, Sequelize and Passport.js. User authentication example.",,17
+0,https://github.com/ikkyotech/hapi-passport.git,Passport strategy wrapper for hapi,,16
+0,https://github.com/QuePort/passport-azure-oauth.git,Passport strategy for authenticating with Azure OAuth 2.0 API.,,16
+0,https://github.com/jaredhanson/passport-intuit-oauth.git,Intuit (OAuth) authentication strategy for Passport and Node.js.,,16
+0,https://github.com/castilloedwin/curso-laravel-passport.git,Curso gratuito de Laravel Passport,,16
+0,https://github.com/FriendsOfFlarum/passport.git,The Laravel passport compatible oauth extension for your Flarum forum.,"flarum,flarum-extension,laravel-passport,sso,flagrow",16
+0,https://github.com/ferdiansyah0611/system_information_school.git,"Build website using laravel as backend, vue js as front end  and full request using api with middleware api passport.","passport,laravel,vue,bootstrap4",16
+0,https://github.com/sgnh/my-passport-wireless-pro-custom-fw.git,Custom firmware for Western Digital My Passport Wireless Pro,,16
+0,https://github.com/oakinogundeji/express4.x-LocalAuth.git,A repo which demonstrates how to implement local auth with express 4.x and passport.js,,16
+0,https://github.com/vishalnagda1/mern-jwt-auth.git,Minimal full-stack MERN app with authentication using passport and JWTs.,,16
+0,https://github.com/dstroot/express-bootstrap-passport.git,"express 3.0.x, bootstrap 2.2.x and passport authentication (local strategy) to couchDB - fully working!",,16
+0,https://github.com/louie007/passport-keycloak-oauth2-oidc.git,A Passport.js strategy for authenticating with Keycloak using the OAuth2/OIDC API,,16
+0,https://github.com/AbhishaShah/Registration-and-Login-using-MERN-stack.git,Registration and Login user authentication via passport and JWTs,"reactjs,nodejs,mongodb,jwt-authentication,pasword,redux",16
+0,https://github.com/DenzelCode/nest-auth.git,NestJS MongoDB Passport JWT Authentication,"nestjs,passport,jwt,mongodb,nestjs-authentication,nestjs-passport,nestjs-backend,nest",16
+0,https://github.com/tsaxena4k/Next.js-Mongodb-Authentication-App.git,"An operating , self-reliable Authentication app build using Next.js , mongodb and passport.js","nextjs,mongodb,passportjs,full-stack,nodejs,materializecss,vercel-serverless,middleware,api-routes,javascript",16
+0,https://github.com/alimertozdemir/IDCardPassportNFCReader.git,Read ID Card / E-Passport From Chip for iOS 13 Devices - Sample Application,"ios,swift,nfc-core,nfc-tag,e-passport,id-card,mrz,reader,nfc-card-reader",16
+0,https://github.com/gedrick/vue-node-passport.git,Example of implementing Twitch login via Passport in Vue.js,,16
+0,https://github.com/hnjaman/spring-boot-microservices.git,"A microservice application with User authentication, sms service, contact service, location service, National Id and Passport service and some other service are under processing like payment service etc. All of the services are separate application which can be operated in a single page Angular UI. All the services can be reused to any other application.","spring-boot,microservices,cross-origin-resource-sharing,angular,jpa,jwt-authentication,spring-cloud,resttemplate,rest-api,mysql",16
+0,https://github.com/samuelcardillo/abcpolymer.git,"ABC Polymer mean ""Application BaseCode for Polymer"". It give you the possibility to start a project on a neat base using technologies such as NodeJS (Express.JS, Socket.IO & Passport/JWToken) and Polymer (Polymer Starter Kit).",,16
+0,https://github.com/mjhea0/koa-passport-example.git,koa + passport,"koa,passport,passport-local,koa-passport,koa-router",15
+0,https://github.com/italia/spid-passport.git,Passport authentication provider for SPID,"spid,javascript,passport,node",15
+0,https://github.com/shake-apps/passport-mocked.git,Mock Strategy for Passport.js,,15
+0,https://github.com/alphagov/passport-verify.git,:passport_control: :crown: :ballot_box_with_check: A passport.js strategy for GOV.UK Verify,verify,15
+0,https://github.com/flicher-com/laravel-auth-passport.git,Authentication System by using Laravel Passport,,15
+0,https://github.com/maidsafe-archive/MaidSafe-Passport.git,"The Passport API provides a self-certifying Public Key Infrastructure, PKI, independent of the requirement for any central directory",,15
+0,https://github.com/jaredhanson/passport-evernote.git,Evernote authentication strategy for Passport and Node.js.,,15
+0,https://github.com/AndrewKeig/passport-azure-oauth2.git,Passport strategy for authenticating with Azure OAuth 2.0 API.,,15
+0,https://github.com/chunkai1312/egg-passport-jwt.git,jwt passport plugin for egg,,15
+0,https://github.com/yashodeepchikte/Keep-Watching.git,"Keep-Watching is a movie recommendation and review app build using React for the front-end, express for the back-end, flask for handling the recommendations and similar movies section, mongoDB for the database, passport.js for handling social media logins","react,reactjs,recommender-system,recommendation-system,nodejs,passportjs,jwt-authentication,mongodb",15
+0,https://github.com/helabenkhalfallah/node-express-mongoose-sqlize.git,"node, express, mongoose, sqlize, passport, jwt","node,express-js,mongoose,sqlize,passport-js,jwt-token,mongodb,postgresql",14
+0,https://github.com/bluedge/passport-box.git,box oauth 2.0 authentication strategy for Passport,,14
+0,https://github.com/peterpetrus/passport-token.git,Dirty Decoder for Laravel Passport (Bearer) Access Token,"laravel,access-token,laravel-passport,decoder,authentication",14
+0,https://github.com/LaurenceHo/angular4-express-mysql.git,"[DEPRECATED] Fullstack web application using Angular4, Bootstrap4, Primeng, Express, Mysql, Gulp and Passport","angular,primeng,gulp,nodejs,passport,expressjs",14
+0,https://github.com/kylewhittemore/react-sequelize-template.git,Full-stack react with passport js local strategy for authentication,"react,react-router,passportjs,sequelize,express,node,template",14
+0,https://github.com/analog-nico/passport-pinterest.git,Passport strategy for authenticating with Pinterest using the OAuth 2.0 API.,,14
+0,https://github.com/athieme/passport-ping.git,Passport strategy for authenticating with PingFederate using the OAuth 2.0 API,,14
+0,https://github.com/ZenitechSoftware/visa-js.git,Simple and flexible Access Control Manager that works well with Express and Passport or independently.,,14
+0,https://github.com/jaredhanson/passport-meetup.git,Meetup authentication strategy for Passport and Node.js.,,14
+0,https://github.com/dozoisch/koa-passport-example.git,"Example using Koa and Passport, for a more in depth example see my repo /dozoisch/koa-react-full-example",,14
+0,https://github.com/rocco/node-base.git,"node.js boilerplate ft. express, passport, mongoose, bootstrap. clean structure to use as a starting point, good for hackathons too",,14
+0,https://github.com/alesium/passport-openam.git,Passport OpenAm module,,13
+0,https://github.com/BalasubramaniM/react-nodejs-passport-app.git,MERN stack app uses Google passport authentication.,,13
+0,https://github.com/FloeDesignTechnologies/passport-http-jwt-bearer.git,HTTP JWT Bearer authentication strategy for Passport.,,13
+0,https://github.com/vcwen/passport-wechat-enterprise.git,Passport for wechat enterprise,,13
+0,https://github.com/bullhorn/passport-bullhorn.git,Bullhorn (OAuth) authentication strategy for Passport,,13
+0,https://github.com/hq-af/osu-relife.git,Standalone Passport/DejaVu/Ban Bypass/Server Switcher for osu!,,13
+0,https://github.com/jihokoo/passport-venmo.git,Authentication for Venmo using passport.,,13
+0,https://github.com/GM456742/PassportJS_Auth_Tutorial.git,Building a simple NodeJS Application with authentication using passport,"passportjs,sequelize,nodejs,express,passport-strategy,passport-local,sql,bcrypt-node",13
+0,https://github.com/hamzaali00001/laravel-passport-authentication.git,This repository is created for the Laravel Passport - Create REST API with authentication,"laravel,laravel-passport",13
+0,https://github.com/stanleyeosakul/mean-auth-app-universal.git,MEAN stack project w/ auth (Passport) and SSR (Angular Universal),"mean,authentication,passport-jwt,angular,mongodb,nodejs,angular-universal",13
+0,https://github.com/passport/express-4.x-openidconnect-example.git,Express 4.x app using Passport for authentication via OpenID Connect.,,13
+0,https://github.com/authv/authv.git,"A simple, secure php authentication & OAuth 2.0 authorization server using Laravel, Socialite and Passport",,13
+0,https://github.com/jaymascarenas/node-passport-sequelize.git,"Simple local auth passport app using sequelize, mysql, express and handlebars",,13
+0,https://github.com/rajaraodv/passport-cloudfoundry.git,Cloud Foundry UAA OAuth2 authentication strategy for Passport library and Node.js.,,13
+0,https://github.com/krakenjs/react-redux-krakenjs-swaggerize-express.git,"React client app, redux stage management, passport oauth2, paypal rest api and swagger based krakenjs node.js server",,13
+0,https://github.com/harsh5692/quiz-time.git,"A Real Time Multiplayer Quiz Application built using Node.js, Express, Mongoose, Socket.io & Passport.",,13
+0,https://github.com/Azure-Samples/ms-identity-nodejs-webapi-azurefunctions.git,"Node.js Azure Function web API secured by Azure AD, uses Express.js and passport-azure-ad.","azure-functions,passport-azure-ad,msal-js,azure-app-service,pkce-flow,webapi",13
+0,https://github.com/maxutter/up-api-auth-demo.git,Demo of Jawbone UP authentication and API access using passport and the jawbone-up Javascript API wrapper,,13
+0,https://github.com/hydra-newmedia/passport-headerapikey.git,"Api key authentication strategy for Passport, which only handles headers (not body fields).",,13
+0,https://github.com/eiriklv/fluxity-starter-auth.git,"Starter-kit with React, (custom) Flux, React Router and Passport. So isomorphic that you can even turn off browser JavaScript.",,13
+0,https://github.com/Fcmam5/mini-express-boilerplate.git,"A minimal Express boilerplate with passport user authentication, mongoose and some security setup configured","expressjs,nodejs,mongoose,passportjs,ejs",13
+0,https://github.com/FaztWeb/login-node.git,"A nodejs login using express, mongodb, and passport.js",,12
+0,https://github.com/KrunalLathiya/NodeJSPassportAuth.git,"Simple Nodejs Authentication System Using Passport is today’s leading topic. In this tutorial, you will learn how to use a passport.js to authenticate the user. So, what is Passport.js? Passport.js is a simple, unobtrusive Node.js authentication middleware for Node.js.Passport.js can be used in any Express.js-based web application. ",,12
+0,https://github.com/jaumard/trailpack-passport.git,:package: Trailpack to allow passport authentification to Trails application,,12
+0,https://github.com/heitortsergent/passport-local-mongoose-email.git,Passport-Local Mongoose Email is a Mongoose plugin that simplifies building username and password login with an authentication token and Passport,,12
+0,https://github.com/derrickpelletier/passport-strava.git,Passport auth module for Strava API,,12
+0,https://github.com/Jhnbrn90/socialite-passport.git,Easy socialite authentication using Laravel passport identity provider.,,12
+0,https://github.com/timfpark/passport-publickey.git,Public key authentication with signed nonce for passport.,,12
+0,https://github.com/Gurenax/express-mongoose-passport-jwt.git,Express Mongoose Passport JWT,,12
+0,https://github.com/kwiss/hasura-boilerplate.git,hasura boilerplate with koa passport jwt and roles,,12
+0,https://github.com/phoenixtoday/express-sequelize-passport-postgres-template.git,"A Node.js web app template using express 4, sequelize with postgres db, passport for login handling",,12
+0,https://github.com/eugeniop/passport-uber.git,passport-uber,,12
+0,https://github.com/supercede/passport-auth-express.git,A repo for my article on setting up Passport with Express https://medium.com/@mahyor.sam/handling-authentication-in-nodejs-express-with-passport-part-1-project-setup-2c736c3a651d?source=your_stories_page---------------------------,,12
+0,https://github.com/apostrophecms/apostrophe-passport.git,"Allows users to log into Apostrophe CMS sites via Google, Gitlab, etc. Works with most passport strategy modules.",,12
+0,https://github.com/bachp/passport-xing.git,Xing authentication strategy for Passport and Node.js.,,12
+0,https://github.com/tizzo/auth-proxy.git,"A simple authenticating proxy server written in node.js on top of express, passport, and node-http-proxy.",,12
+0,https://github.com/nahidulhasan/laravel-passport-api.git,Laravel with Passport Authentication for API development,"laravel,passport,authentication,api",12
+0,https://github.com/RelativeMedia/express-api-boilerplate.git,"Express 4, Mongoose, Bcrypt, Passport-Local, and JWT Tokens. Built for API development.",,12
+0,https://github.com/andybiar/express-passport-redis-template.git,This is a tiny tiny Node.js application which uses Passport Facebook authentication and Redis session storage to demonstrate log-in and persistent sessions.,,12
+0,https://github.com/pixiv/passport-pixiv.git,pixiv authentication strategy for Passport and Node.js.,,12
+0,https://github.com/jaredhanson/passport-hotp.git,HOTP authentication strategy for Passport and Node.js.,,12
+0,https://github.com/brudex/ExpressPassportSequelize.git,Nodejs/Express boilerplate using Passport and Sequelize. Use this to kickstart your node apps.,,12
+0,https://github.com/square1-io/laravel-passport-firebase-auth.git,Let Google Firebase create and authenticate users to your Laravel API using Laravel Passport,,12
+0,https://github.com/Azure-Samples/active-directory-node-webapi-basic.git,Restify API Application Secured with Passport and passport-azure-ad,,11
+0,https://github.com/savanihd/Laravel-8-Rest-API-with-Passport.git,Laravel 8 Rest API with Passport,laravel,11
+0,https://github.com/ripple/passport-client-certificate.git,Passport strategy for authenticating using client certificates.,,11
+0,https://github.com/dmansfield/passport-negotiate.git,Negotiate (kerberos) authentication strategy for Passport.,,11
+0,https://github.com/lmarkus/passport-saml-encrypted.git,A strategy for Passport authentication that supports encrypted SAML responses,,11
+0,https://github.com/rojo2/passport-cookie.git,Cookie authentication strategy for Passport,,11
+0,https://github.com/camme/passport-http-2legged-oauth.git,Oauth 2-legged strategy for passport,,11
+0,https://github.com/BalasubramaniM/react-nodejs-passport-server.git,MERN stack app uses Google passport authentication - Server.,"nodejs,passport-google",11
+0,https://github.com/patmood/passport-photo.git,Passport Photo Maker,,11
+0,https://github.com/mbrennan/passport-eveonline.git,EVE Online authentication strategy for Passport.,,11
+0,https://github.com/nitzo/passport-line.git,Line (Messenger App) Authentication Plugin for Passport,,11
+0,https://github.com/SK-CSE/userLogin.git,login module written completely in Node JS with Passport JS,"userlogin,passport-js,node-js,mongodb,mongoose,express,login,login-system",11
+0,https://github.com/NishiGaba/User-Login-System.git,User Login and Registration System created in Node JS using Mongoose ORM and Passport User Authentication.,"javascript,mongodb,mongoose,nodejs,express,express-validator,bcrypt,user-registration,jade-templates,passport",11
+0,https://github.com/f0rr0/koa-passport-jwt.git,Stateless Auth with JWT and Passport Strategies in Koa,,11
+0,https://github.com/jsarafajr/passport-atlassian-oauth2.git,Passport strategy for authenticating with Atlassian (Jira) using OAuth 2.,"passport,jira,oauth2,passport-strategy,atlassian,atlassian-oauth",11
+0,https://github.com/fuwaneko/passport-trello.git,Trello authentication provider for passport,,11
+0,https://github.com/erreina/passport-jwt.socketio.git,A Socket.IO middleware for authenticating with a JSON Web Token based on passport-jwt.,,11
+0,https://github.com/qirolab/laravel-passport-api-authentication-example.git,"How to create API Token Authentication using Laravel Passport, Vue.js, Vuex?","laravel,laravel-passport,vue,vuejs,vuejs2,vuex",11
+0,https://github.com/r1/Full-Login-Dashboard.git,"Login/Reg Dashboard Using MongoDB, Node.js, Express.js, Passport.js ⭐️ ",,11
+0,https://github.com/prashantnirgun/express-mysql-passport-jwt-api.git,"Create a API server with mysql table crud without ORM, Passport, JWT","node,express,rest-api,rest,passport,mysql,swagger3,handlebars",11
+0,https://github.com/qbakozak/react-passport-auth.git,React front end with Nodejs + Passport.js backend,,11
+0,https://github.com/GitbookIO/passport-gitbook.git,GitBook authentication strategy for Passport and Node.js.,,11
+0,https://github.com/pierrocknroll/lavarel-passport-purge-command.git,This command purges expired access/refresh tokens for Laravel Passport,,11
+0,https://github.com/hsbalar/electron-with-express.git,"Express application in electron with passport authentication, session management, nunjucks, mLab DB, Rich UI with materializecss",,11
+0,https://github.com/alqamabinsadiq/node-api-kit.git,"Starter kit for node.js server using express, passport and jasonwebtoken.","nodejs,apikit,javascript,express,mongodb,mongoose,api,passportjs,jsonwebtoken,joi,joi-validation",11
+0,https://github.com/isaackearl/doctrine-passport-demo.git,laravel with doctrine and passport,,11
+0,https://github.com/appdotnet/ADNLogin-SDK-Android.git,This is the App.net Login SDK for Android. It allows users to forgo entering passwords into each app and instead authorize from the App.net Passport Android application. Passport allows you to browse the App.net directory and perform account management functions.,,11
+0,https://github.com/romaannaeem/mern-boilerplate.git,"MERN project set up with Create React App, local authentication (passport local), and using antd for the UI. For quick bootstrapping of MERN projects.","react,mern-stack,boilerplate-template",11
+0,https://github.com/stavelmashally/node-express-mongoose-todo-api.git,"Todo App API built using Node.JS with Express, Mongoose, Passport & Async\\Await syntax. Android app: https://github.com/stavelmashally/android-mvp-todoapp","nodejs,express,passport,mongodb",11
+0,https://github.com/anwarhahjjeffersongeorge/passport-etsy.git,Etsy (OAuth) authentication strategy for Passport and Node.js,,11
+0,https://github.com/ichiwa/nuxt-twitter-auth.git,Login twitter by using passport in nuxt.js,"passport-twitter,nuxtjs",11
+0,https://github.com/rand-net/visa-cli.git,A python script to lookup Passport Index Dataset,"passport,visa,travel,visa-requirements",11
+0,https://github.com/deepstreamIO/ds-tutorial-passport-auth.git,A basic example on how to integrate facebook auth using the amazing passport.js library and use-express-middleware,,11
+0,https://github.com/cicorias/react-azuread-passport.git,Example of React using Passport and Azure Active Directory and Authorization Code Flow,"react,azure,active-directory,passport,oauth2,nodejs",11
+0,https://github.com/James-Sangalli/metamask-passport-client.git,A service to verify your token holdings to gain access. The ethereum version of facebook passport login.,,11
+0,https://github.com/robertvunabandi/guide-on-mitopenid.git,How to set up OAuth 2.0 from MIT OpenID using Passport.js and selected guides on understanding OAuth 2.0.,"javascript,nodejs,express,passportjs,oauth2,oauth2-server,passport-oauth2,oauth,openid,mit-openid,oidc,kerberos,passport-mitopenid,passport-js,expressjs,express-js,express-middleware,mongodb,catbook,passport",11
+0,https://github.com/clocked0ne/passport-outlook.git,Outlook REST API authentication strategy for Passport,,10
+0,https://github.com/TelegramBots/Telegram.Bot.Extensions.Passport.git,Allows you to process Telegram passports,"telegram,telegram-bot,telegram-bot-api,telegram-passport",10
+0,https://github.com/ariadnext/wzmrtd.git,wzMRTD is a software library that reads electronic passports (also well known as E-Passports or biometric passports). This is a fork of http://www.waazaa.org/wzmrtd/. The goal is to provide the solution to read all different kind of electronic or biometric passport.,,10
+0,https://github.com/jaredhanson/passport-yammer.git,Yammer authentication strategy for Passport and Node.js.,,10
+0,https://github.com/markustripp/mongo.git,"MongoDB driver, auth, passport for Laravel",,10
+0,https://github.com/edhemphill/passport-discourse.git,A Passport strategy for authenticating using a Discourse forum,,10
+0,https://github.com/simpleTechs/dpd-passport.git,GitHub clone of https://bitbucket.org/simpletechs/dpd-passport,,10
+0,https://github.com/malikov/passport-parse.git,A passport strategy for those of you out there using Parse.com and nodejs (passport) for authentication :),,10
+0,https://github.com/DavidSpriggs/passport-arcgis.git,passport strategy for arcgis.com oauth2,,10
+0,https://github.com/travist/flatiron-passport.git,A Passport.js integration with the Flatiron.js web framework.,,10
+0,https://github.com/artema/passport-oauth2-middleware.git,Passport OAuth2 middleware for Express that automatically handles the token refresh.,,10
+0,https://github.com/wintercms/wn-passport-plugin.git,Laravel Passport integration for Winter CMS,,10
+0,https://github.com/adobe/passport-adobe-oauth2.git,Passport strategy for authenticating users with an AdobeId using OAuth2.,"adobe,oauth2,authentication,middleware,passport-strategy,passport",10
+0,https://github.com/droganaida/passport-js-express-architecture.git,Basic architecture Express + Passport.js,,10
+0,https://github.com/christianboutin/passportjs-dynamodb.git,Passport.js using DynamoDB for Authentication with Express,,10
+0,https://github.com/jaredhanson/passport-paypal.git,PayPal (OpenID) authentication strategy for Passport and Node.js.,,10
+0,https://github.com/zombiQWERTY/koa2-starter-kit.git,Koa 2 server with passport and mongoose,,10
+0,https://github.com/jdwong415/hotel-booking.git,"An internal hotel management application using Node.js, Express, Sequelize, Handlebars.js and Passport.js",,10
+0,https://github.com/greghesp/sails-passport.git,"A Sails.js template that includes Passport authentication for local, Facebook and Google",,10
+0,https://github.com/herusdianto/passport_auth_client.git,Laravel Passport 5.x & VueJS 2.x Authentication (Client Side Code) Example,,10
+0,https://github.com/shaozi/express-passport-ldap-mongoose.git,A library to use ldap-authentication and passport to authenticate and save users,"ldap-authentication,ldap,passportjs,authentication",10
+0,https://github.com/ShakilAhmedShaj/EasyTask_Laravel_REST_API.git,Rest API for Android App - EasyTask using Laravel & Passport,"laravel,rest-api,passport,laravel-framework",10
+0,https://github.com/ghaiklor/passport-instagram-token.git,Passport strategy for authenticating with Instagram via OAuth2 access tokens,,10
+0,https://github.com/HassanChaudary/Passport-Field-extraction-using-PassportEye-PYTHON.git,"Passports have some fields with credentials that are of utmost importance.These fields can be used to verify the document to enhance security measures.So, fields are extracted using python instead of traditional OCR method.",,10
+0,https://github.com/fmwww/passport-wechat-oauth-grant.git,Wechat Oauth Grant For Passport,"passport,grant,wechat-oauth",10
+0,https://github.com/jmcdo29/nestjs-oauth.git,"{""An OAuth Module the mimics Passport's functionality without some of passport's wonkiness""}",,10
+0,https://github.com/philipbrack/express-passport-facebook-token-example.git,Express 4.x app using Passport for facebook oauth jwt (passport-facebook-token).,,10
+0,https://github.com/vicapow/sails-passport.git,an example sails app using passport,,10
+0,https://github.com/zgid123/passport-google-oauth-token.git,Google access token authentication strategy for Passport,,10
+0,https://github.com/afhaque/PassportExamples.git,"A few examples of passport authentication with various strategies (Facebook,  GitHub, Twitter, etc.)",,10
+0,https://github.com/nunogois/express-mssql-jwt.git,A minimalist Node JS API showcasing an example with Express + MSSQL (SQL Server) + Passport + JWT,"nodejs,express,api,mssql,passport,jwt,javascript,node,sqlserver",10
+0,https://github.com/obscure-web/passport-oauth2-cognito.git,Passport strategy for authenticating and fetching profile data from AWS Cognito User pools using OAuth2 and the Amazon SDK,,10
+0,https://github.com/mhshajib/node_authentication.git,"Basic Node.js Authentication example with passport.js, handlebars.js, express.js and mongodb.","nodejs,node,passport,mongodb,mongoose,express,handlebars,authentication,middleware",10
+0,https://github.com/18F/identity-oidc-expressjs.git,"An example Login.gov client application which authenticates users via OpenID Connect (OIDC). Built with Node.js, Express.js, and Passport.js.","login-gov,nodejs,expressjs,passportjs,oidc,oidc-client",10
+0,https://github.com/zmarcantel/koa-passport-mongo.git,Modular Koa boilerplate backed with Mongo and Passport auth,,10
+0,https://github.com/oauth-everything/passport-discord.git,A Passport strategy for authenticating with https://discordapp.com/,"nodejs,passportjs,discord,discordapp,authentication",10
+0,https://github.com/ananay/passport-apple-example.git,Passport Strategy for Sign in with Apple Example,,10
+0,https://github.com/jeremykenedy/laravel-passport.git,"Laravel-passport is a basic API server build using Laravel, Passport, and Vue.js License Build Status  This will act as the API server for laravel-consume. It is recommended that you setup and use Laravel Homestead as your development environment for this project.  Personal Token Scoped with middleware for API routes is configured and ready to go.  Included Laravel Scaffolding User, Editor, and Administrator Authentication with CRUD (Create, Read, Update, Delete) user management.",,10
+0,https://github.com/alajusticia/laravel-auth-tracker.git,"Track and manage sessions, Passport tokens and Sanctum tokens in Laravel.",,10
+0,https://github.com/mtiger2k/react-redux-graphql-starter.git,"Full-stack GraphQL application with React, redux-saga, and Apollo 2, with full backend passport and mongo support","react16,redux,redux-form,redux-thunk,redux-promise-middleware,react-router-v4,passport-jwt,mongoose,apollo-client-v2,apollo-upload,graphql-subscription,redux-saga,react-boilplate",10
+0,https://github.com/eggjs/egg-passport-github.git,github passport plugin for egg,"egg-plugin,egg-passport,passport-github",9
+0,https://github.com/pimplesushant/laravelsocialiteapi.git,Laravel Passport + Socialite for API ,"laravel,laravel-passport,laravel-socialite,laravel-passport-socialite,laravel-api,laravel-passport-socialite-api,laravel-api-access-token,laravel-social-signup-api,laravel-facebook-signup-api,laravel-facebook-signin-api,laravel-google-places-api,laravel-google-signin-api",9
+0,https://github.com/developmentseed/passport-dummy.git,Dummy authentication strategy for Passport,,9
+0,https://github.com/bognix/express-passport-google-oauth-exmple.git,Simple implementation of express application with Google OAuth using passport.,,9
+0,https://github.com/jaredhanson/passport-dwolla.git,Dwolla authentication strategy for Passport and Node.js.,,9
+0,https://github.com/niftylettuce/koa-better-flash.git,Flash message middleware for Koa and Passport,"koa,flash,messaging,node,info,messages,queue,sessions,redis,cookies,cookie,passport",9
+0,https://github.com/jaredhanson/passport-intuit.git,Intuit (OpenID) authentication strategy for Passport and Node.js.,,9
+0,https://github.com/kumartarun/JWT-with-Node-JS.git,JSON Web Token excellent example with passport JS ,,9
+0,https://github.com/kitseno/luna.git,Luna is a Laravel Passport Socialite ReactJS Boilerplate,,9
+0,https://github.com/nutanix/passport-wso2.git,WSO2 Identity Server authentication strategy for Passport and Node.js.,,9
+0,https://github.com/tradier/passport-tradier.git,Tradier strategy for Passport and Node.js.,,9
+0,https://github.com/brainflake/passport-mailchimp.git,MailChimp authentication strategy for Passport,,9
+0,https://github.com/roblouie/user-management-bookshelf.git,Authentication and authorization in Express with Passport and Bookshelf,,9
+0,https://github.com/johnnyhalife/passport-flickr.git,Passport strategy for authenticating with Flickr using the OAuth 1.0a API.,,9
+0,https://github.com/jaredhanson/passport-openstreetmap.git,OpenStreetMap authentication strategy for Passport and Node.js.,,9
+0,https://github.com/shobhitsinghal624/passport-google-authcode.git,Passport strategy for authenticating with Google one time authorization code using the OAuth 2.0 API.,,9
+0,https://github.com/Niweera/men-pp-template.git,"MongoDB, Express, NodeJS template with Passport authentication.","mongodb,express,nodejs,javascript,passportjs,jsonwebtoken,mongoose",9
+0,https://github.com/chill117/passport-lnurl-auth.git,Passport strategy that uses lnurl-auth,,9
+0,https://github.com/TusharRoy23/todoAppOnNestJs.git,"Simple Todo Application ( NestJs, Passport, Swagger, Docker )",,9
+0,https://github.com/paoyong/postgres-oauth-example.git,An example passport auth node app with postgres database backend. For self learning and later reference.,,9
+0,https://github.com/tmobile/passport-tmobileid.git,T-Mobile ID enabled authentication strategy for Passport and Node.js,,9
+0,https://github.com/amel-true/nest-openid-client-passport.git,nest example for openid-client and passport ,,9
+0,https://github.com/goranlisak/openid-connect-sample.git,"This is a sample application showing how to configure and enable OpenID Connect middleware in a Node.js web application with Express, openid-client and Passport.","openid-connect,openid-client,nodejs,passportjs,expressjs,javascript",9
+0,https://github.com/mydearxym/Angular_love_Sails.git,Angular + Sails with  passport.js + JWT(json web token) + role based permission + chat demo,,9
+0,https://github.com/cabinjs/parse-request.git,Parse requests in the Browser and Node (with added support for multer and passport). Made for Cabin.,"parse,request,requests,koa,express,node,javascript,passport,logging,utility,logger,req,middleware,route,parser,multer,stream,buffer,arraybuffer",9
+0,https://github.com/sirrodgepodge/cruddyAuthBlog-react-redux.git,demonstrating basic auth and crud operations with Node.js+MongoDB+Express.js+Mongoose.js+Passport.js+React.js+Redux,,9
+0,https://github.com/Vincent440/hotel-worx.git,An employee facing hotel reservation system/CMS. React SPA client. Express (Node.js) back-end connected to a MySQL Database. Using Passport and the Passport-local strategy to authenticate employees of varying access levels.,"react,javascript,nodejs,html5,css3,mysql-database,mysql,express,express-js,model-view-controller,mvc,react-bootstrap,express-router,react-router,react-context-api,passport-local,passport",9
+0,https://github.com/apollo-passport/react.git,"React UI for apollo-passport, like Meteor Accounts loginButtons",,9
+0,https://github.com/mko/passport-withings.git,Withings authentication strategy for Passport and Node.js,,9
+0,https://github.com/dexterlabora/excap-social.git,Cisco Meraki Captive Portal with Social Passport support using the ExCAP API. This for demonstration purposes and comes with no guarantee or official support,,9
+0,https://github.com/JamesMGreene/passport-json.git,A Passport.js strategy for username/password authentication via JSON from the request body,,9
+0,https://github.com/Wtower/express-experiment.git,"Learning express.js with Angular, Sequelize, Passport for people coming from Django.","learning,nodejs,expressjs,orm",9
+0,https://github.com/godcrampy/Express-Local-Auth-Template.git,"🚆 Starter template for local authentication with validation using passport, express, node and mongodb","express,passport,passportjs,passport-local,nodejs,mongodb,mongoose,sass,webpack,eslint,template,ejs,starter,starter-kit,starter-template,javascript",9
+0,https://github.com/jfromaniello/passport-sharejs.git,Use passport.js user profile from session to authorize operations on Share.js documents.,,9
+0,https://github.com/lukevanhorn/documentdb-passport-boilerplate.git,"Starter template for Microsoft Azure Websites that uses the new DocumentDB NoSQL datastore, passport, bootstrap",,9
+0,https://github.com/cyrossignol/laravel-passport-dingo-sample.git,Demonstrates how to use Passport for authentication with a Dingo API.,,9
+0,https://github.com/jmcilhargey/react-redux-express-mongo-starter.git,"In development - Universal (isomorphic) boilerplate starter for personal projects that incorporates React, Redux, React Router, Express, Mongoose, Sessions, Passport, Webpack, Babel, Karma",,9
+0,https://github.com/PabloSzx/Next-API-Middleware-Passport-Sequelize-TypeScript.git,"This is a template which uses Next.js 9 API Routes, Middleware support using Express, Passport.js, Sequelize and everything written in TypeScript",,9
+0,https://github.com/apilaravue/apilaravue.git,"This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backend integrated with laravel passport and laravel cors, Vuejs as frontend and the two communicate via API calls. It also include redis already installed and configured in the backend and frontend, a node server already created and configure for realtime communication and some vue packages are also install in the frontend such as vue-router, vue-resource, vue-socket.io, and sweetalert.",,9
+0,https://github.com/jozzhart/passport-youtube.git,Youtube strategy for passport,,8
+0,https://github.com/german-alvarez-dev/express-generator-auth.git,Boilerplate |  ExpressJS server + Passport auth,"boilerplate,expressjs,passportjs,generator-template",8
+0,https://github.com/sjlouji/Passport-Strategies---Medium.git,Passport Strategies ,"passportjs,nodejs,expressjs,joan-louji-medium",8
+0,https://github.com/IvanAquino/Ionic-Auth-Starter-with-Laravel-Passport.git,Ionic project using authentication with Laravel passport,"laravel-passport,ionic,laravel",8
+0,https://github.com/intercom/passport-intercom.git,Passport strategy for Intercom OAuth 2,,8
+0,https://github.com/leftmostcat/passport-oauth2-password-grant.git,OAuth 2.0 password grant authentication strategy for Passport.,,8
+0,https://github.com/auth0/express-passport-logout.git,express middleware to logout from passport,,8
+0,https://github.com/Blackening999/passport-linkedin-token-oauth2.git,This is the plugin for torii and passport integration,,8
+0,https://github.com/djibba22/MERN_Auth_Plate.git,Full Stack REACT / Node project with Authentication in Passport Local Strategy,,8
+0,https://github.com/humanapi/passport-humanapi.git,HumanAPI passport module for expressjs,,8
+0,https://github.com/jaredhanson/passport-angellist.git,AngelList authentication strategy for Passport and Node.js.,,8
+0,https://github.com/Capevace/passport-apple-sign-in.git,"{""Use Apple's brand new sign-in service with Passport.""}",,8
+0,https://github.com/ricopella/patient-stack.git,"Health management system built with Express, Node, MySQL, Sequelize, Socket.io, and Passport.","nodejs,expressjs,mysql,sequelize,socket-io,passport,bcrypt-node,chartjs,handlebars",8
+0,https://github.com/neilstuartcraig/ah-passport-plugin.git,An actionhero plugin for the passport authentication middleware,,8
+0,https://github.com/ghaiklor/passport-github-token.git,Passport strategy for authenticating with GitHub via OAuth2 access tokens,,8
+0,https://github.com/osipov/ibm-sso-nodejs-sample.git,Passport and Express based module for OAuth2.0 authorization using IBM Single Sign On (SSO) service on Bluemix.net,,8
+0,https://github.com/artema/passport.socketcluster.git,SocketCluster Passport.js authentication middleware.,,8
+0,https://github.com/sidx1024/lumen-passport-api.git,A working example for Lumen API with Laravel Passport (OAuth 2.0),"lumen,passport,laravel",8
+0,https://github.com/passport/express-3.x-http-digest-example.git,Express 3.x app using Passport for authentication via HTTP Digest scheme.,,8
+0,https://github.com/imagina/quser.git,"Quasar Framework, AsgardCMS, Laravel Passport Authentication, Module with CRUD for users, and Profile Admin",,8
+0,https://github.com/zaro/passport-telegram-login.git,Passport.js strategy for the telegram login widget,,8
+0,https://github.com/AngelaDaddyRoy/express-passport-mongoose-example.git,一个express4+passport+mongoose示例工程,,8
+0,https://github.com/wesleytodd/express-session-passport-cleanup.git,Clean up after passport when using it with express-session ,,8
+0,https://github.com/jbit/wdled.git,Control the LED on WD My Passport Disks,"linux,western-digital,usb-drive,usb",8
+0,https://github.com/emathieu13/passport-workwell.git,Workwell passport.js strategy,,8
+0,https://github.com/AriGonzo/passportNodeHandlebarsExample.git,"Throwing together a quick example to show local authentication using node, passport, handlebars, mysql, and express",,8
+0,https://github.com/eggjs/egg-passport-weibo.git,weibo passport plugin for egg,"egg-plugin,egg-passport,passport-weibo",8
+0,https://github.com/uxtx/angular-ldap-auth.git,A fork of https://github.com/fnakstad/angular-client-side-auth. Using ldapjs and ldap-auth passport middleware,,8
+0,https://github.com/jaumard/sails-hook-passport.git,Implement basic passport strategies into sails server,,8
+0,https://github.com/hiro1107/nestjs-supabase-auth.git,NestJS Passport Strategy for Supabase Auth,,8
+0,https://github.com/wisekaa03/portal.git,"Nest.js, TypeORM, GraphQL, LDAP Service, Passport, Next.js (v10), React.js, Material UI (v4)","nestjs,typeorm,graphql,ldap,passportjs,nextjs,reactjs,material-ui,react",8
+0,https://github.com/maoberlehner/implementing-an-authentication-flow-with-passport-and-netlify-functions.git,This is an example project for the following article: https://markus.oberlehner.net/blog/implementing-an-authentication-flow-with-passport-and-netlify-functions/,,8
+0,https://github.com/darrenmothersele/koa-jwt-api-typeorm-example.git,"An example API using typeorm, Passport, JWT, and Koa",,8
+0,https://github.com/diadal/passport.git,Convert client_id to Uuid in Laravel Passport,,8
+0,https://github.com/andrewda/passport-securelogin.git,A Passport strategy and Express middleware for SecureLogin authentication,"passport,passportjs,securelogin,auth,authentication,middleware",8
+0,https://github.com/imballinst/kanim-app.git,Online passport registration for lazy users (like me),,8
+0,https://github.com/kriasoft/jwt-passport.git,Passport.js framework that uses JWT for sessions,"authentication,jwt,jwt-authentication,jwt-token,jwt-auth,passport,passportjs,jsonwebtoken,passport-strategy,login",8
+0,https://github.com/buddy-works/passport-buddy.git,Buddy authentication strategy for Passport and Node.js.,,8
+0,https://github.com/Radiokot/physical-object-layout.git,"{""An Android layout that properly scales it's content in order to design physical objects such as credit cards, passports, etc.""}","android,layout,ui,credit-card",8
+0,https://github.com/nax3t/facebook-auth-express.git,Learn how to set up Facebook authentication with Passport and Express JS,,8
+0,https://github.com/trulymittal/role-based-access-control.git,"This is a Role Based Access Control application using Nodejs, Express, Passport Js, etc. ",,8
+0,https://github.com/outlandishideas/nodejs-mean-with-brunch-sass-passport.git,"An Outlandish Example MEAN Web Application using Brunch, Sass, and Passport",,8
+0,https://github.com/fortunar/nodejs-backend-boilerplate.git,"Fully functional NodeJS & Express REST backend showcasing JWT Passport authentication, Winston logging Sequelize ORM.",,8
+0,https://github.com/danlars/nestjs-boilerplate.git,NestJS Boilerplate with seed command. Set up with TypeORM & Passport HTTP Bearer,,8
+0,https://github.com/acekyd/laravel5api-starter-with-dingoapi-passport.git,Easily get started building modern REST API using Laravel 5.4 + DingoAPI + Laravel Passport,,8
+0,https://github.com/Debarshi-Choudhury/oAuthPassport.git,this is a web app implementing oAuth with passport and google strategy,,8
+0,https://github.com/Yifdaddy/miniAirbnb.git,"This is the project that uses Javascript, Node.js, Express, Passport.js, MongoDB and HTML, will have couple different versions",,8
+0,https://github.com/rohan-paul/SignUp-Form-with-Passport.git,"Simple MERN Passport Template for a sign-in and sign-up form built with Mongo, Express, ReactJS, Node.js.",,8
+0,https://github.com/displayLi/Resume-project-interface.git,express + passport + jwt + MongoDB 实现个人简历库接口 (类似于boss直聘),,8
+0,https://github.com/akspan12/Yelp_camp_website.git,"A fully working website with login feature along with google maps API and many more features built using node.js,express,mongodB,bootstrap,passport,etc.",,8
+0,https://github.com/mirkco/Laravel-Passport-Facebook-Login.git,A Facebook Token Grant Client for Laravel Passport 2.0,"facebook-login,laravel-passport",7
+0,https://github.com/Tschuck/passport-passwordless.git,Allows to use passwordless authentication with passport.,,7
+0,https://github.com/quangdatpham/sources_sharing.git,Express_passport_mongodb_cloudinary,"nodejs,passport,passport-facebook,role-based-authorization,logging,csrf-protection,expressjs,mongoose,hash",7
+0,https://github.com/mtimmermann/Boilerplate-Role-Based-Permissions-Nodejs.git,"Boilerplate role based permissions, local passport authentication",,7
+0,https://github.com/tetrahydra/SolidusMRZ.git,"PHP Parse MRZ from Passport, Visa or ID-1",,7
+0,https://github.com/developmentseed/bones-passport.git,Authentication middleware for Bones using the Passport framework.,,7
+0,https://github.com/TryGhost/passport-ghost.git,Passport adapter for logging in with Ghost.org,,7
+0,https://github.com/sfelix-martins/passport-multiauth-demo.git,This project is an implementation sample using the package Laravel Passport-Multiauth,,7
+0,https://github.com/jryu01/angular-express-session-authentication.git,"Basic cookie session based authentication for angularjs app with node.js, express, passport, and mongoose.",,7
+0,https://github.com/mahbodkh/mrz-generator.git,you can easily generate mrz at passport (Machine Readable Zone),,7
+0,https://github.com/Webschool-io/Module-User-passport-node.js.git,Módulo de login para o Passport utilizando nossa arquitetura atômica,,7
+0,https://github.com/martinavagyan/mean-ts-auth.git,"MEAN stack boilerplate, TypeScript codebase, Passport.js with JWT authentication","mean-stack,mongodb,mongoose,angular6,nodejs,express,passportjs,passport-local,authentication,typescript",7
+0,https://github.com/adamhsparks/Import_and_Visualise_Data_from_PDF_Using_R.git,Ingest and visualise Nomad Passport Index data,"r,pdf,data-visualisation,data-visualization",7
+0,https://github.com/Vincent440/passport-mern-mysql.git,"MySQL Express React Node.js application using passport with passport-local strategy to log a user in, Saving sessions with Express-sessions express-mysql-session ","passport,passport-local,passport-js,passport-mysql,mysql2,react,reactjs,react-router,react-bootstrap,react-router-dom,express,express-session,nodejs,node-js,node,javascript,mern-stack,express-mysql-session,react-context-api,react-router-v5",7
+0,https://github.com/90rdon/Brunch-Ember-Socket.io.git,"Node.js app with Ember.js, socket.io, passport, deploying on Heroku. ",,7
+0,https://github.com/chatter/passport-hmac.git,HMAC authentication strategy for Passport and Node.js,,7
+0,https://github.com/godilite/laravelPassport.git,this repository contains laravel API endpoints with authentication using passport,,7
+0,https://github.com/kevinvalk/android-hce-applet-passport.git,Host Based Card Emulation applet for electronic e-passports,,7
+0,https://github.com/sbrannstrom/nestjs-passport-ldap-example.git,NestJS Passport LDAP example,"nestjs,passport-ldap",7
+0,https://github.com/alextanhongpin/passport.git,Passport implementation for golang,"golang,passport,auth,password,microservice",7
+0,https://github.com/sadam1807/laravel-auth-passport.git,laravel-auth-passport,,7
+0,https://github.com/jkettmann/password-based-authentication-with-graphql-and-passport.git,Articles on authentication with GraphQL and Passport.js: password-based authentication,,7
+0,https://github.com/sandeepstw/react-api-server.git,"Seed application for react API server based on node.js, express.js, mongodb including json web token and passport.js authentication for user access and roles. ","reactjs,react-router,expressjs,mongodb,passportjs,passport-local,jwt-authentication,role-based-access-control",7
+0,https://github.com/streamich/react-passport.git,React context for client-passport,,7
+0,https://github.com/antesko/vue-laravel-blog-spa.git,A single-page demo blog project built with Laravel 5.4 + Vue.js 2. Authentication with Laravel Passport.,,7
+0,https://github.com/beaujeant/ePassportViewer.git,Python tool to read and check the security of electronic passports,,7
+0,https://github.com/jboxman/koa-passport-oauth2-testing.git,example testing setup for passport and oauth2,,7
+0,https://github.com/shoul10/auth-passport.git,"Node.js login, registration and access control using Express and Passport","nodejs,express,mongoose,passport,bcryptjs,pug,login,registration,access-control,register,logout,git,mlab,user,router,mit-license,mongodb,javascript,bootstrap4,jquery",7
+0,https://github.com/johnschimmel/DWD-NodeJS-Passport-Demo.git,Example using Passport Local Mongo on Heroku ,,7
+0,https://github.com/johnantoni/express-passport-boilerplate.git,"My take on an express/react boilerplate, with passport & session-auth built in","react,nodejs,express,passport,passport-local-mongoose,session-cookie,authentication,cors",7
+0,https://github.com/jkettmann/facebook-login-with-graphql-and-passport.git,Articles on authentication with GraphQL and Passport.js: Facebook login,,7
+0,https://github.com/lablayers/passport-deviantart.git,:key: @DeviantArt authentication strategy for Passport and Node.js. ,,7
+0,https://github.com/jaimerosales/passport-forge-oauth2.git,Autodesk Forge authentication strategy for Passport and Node.js.,,7
+0,https://github.com/leifdalan/iso-auth-boilerplate.git,"Boilerplate example of shared client/server code and routing with auth flow using Fluxible, react-router, passport, and Express.",,7
+0,https://github.com/marcbachmann/passport-light.git,A passport authenticator without all the session handling and monkey patching,"passportjs,passport,authenticator,authentication,authorization,strategy,nodejs",7
+0,https://github.com/swinarta/node-poc-api-server.git,"NodeJs Sample API Server with session manager using restify, passport and mongoose",,7
+0,https://github.com/AmarShaked/microservices-boilerplate.git,"microservices-boilerplate - Microservices starter kit (React, Express, Redux, MongoDB, Mongoose, Passport)  big start for large projects","react,redux,express,mongodb,mongoose,redux-thunk,passportjs,microservices",7
+0,https://github.com/two-n/generator-express-coffee.git,"A Yeoman generator that makes a boilerplate express app, in CoffeeScript, with passport login.",,7
+0,https://github.com/jake-rigby/microbe.git,"Encapsulates express, passport.io, socket.io and redis in a node module for a quick start",,7
+0,https://github.com/DanielMil/Authentication-Server.git,Containerized authentication server for user registration and login. Uses Passport.js and MongoDB.,,7
+0,https://github.com/tonguetech/express-typescript-seed.git,"Boilerplate of ExpressJS and other popular toolkits (e.g. Mongoose, Passport.js, NodeMailer) developed in TypeScript.","typescript,inversifyjs,inversify-express,inversifyjs-express,passportjs,passport-local,passport-facebook,mongoose,nodemailer,swagger,swagger-ui",7
+0,https://github.com/passport/develop.git,A forum for discussing topics related to the development of Passport.js.,,7
+0,https://github.com/uniquesolution29/onfido-service-app.git,"simple OCR webapp with Onfido, accurate verification of any type of documentation such as ID card, passport","react,redux-form,express,material-ui,onfido,nodejs",7
+0,https://github.com/imuble/Node-Passport-Mongoose-JWT-Seed.git,A simple node webserver using express. The seed has a register and login function already implemented using passport-local strategy.,,7
+0,https://github.com/Ideas2IT/reactjs-sails-redis.git,"RSR is a framework that provides an easy starting point for ReactJS, Sails(Node.js), and Redis server based applications. It is designed to give you a quick and organized way to start developing RSR based web apps with useful modules like Waterline(ORM) and Passport pre-bundled and configured. Here we have used Socket.IO for enabling real-time bidirectional event-based communication.",,7
+0,https://github.com/leafingio/monolithic-node-seed.git,"NodeJS API REST, Mongoose, Dotenv, Morgan, Passport, JWT, Rate limit, Apidocs, Joi, Graphql, Grunt, CORS, Helmet, Boom, Ok, Mocha, Istanbul, Seed",,7
+0,https://github.com/ipenywis/express-login-register-api.git,Express API Server for login and register with JWT Authentication using Passport.js it also uses Sequelize and Mysql. Explained on video tutorial on CoderOne channel,,7
+0,https://github.com/qirolab/laravel-passport-oAuth2-example.git,Laravel Passport OAuth2 Tutorial:,"laravel,laravel-passport,laravel-tutorial,oauth2",6
+0,https://github.com/octoblu/passport-xero.git,Passport Authentication for Xero,,6
+0,https://github.com/nomadnt/lumen-passport.git,Lumen porting of Laravel Passport,,6
+0,https://github.com/anhpham1509/eCommerceWeb.git,node.js express passport mysql,,6
+0,https://github.com/techstars-archive/passport-okta-oauth.git,Passport strategy for authenticating with Okta using OAuth 2.0.,,6
+0,https://github.com/docusign/passport-docusign.git,The official DocuSign Passport package,"docusign,passport,electronic-signatures,signature,oauth2",6
+0,https://github.com/jorilallo/passport-moves.git,Moves authentication strategy for Passport and Node.js.,,6
+0,https://github.com/devvid/sails-js-v1-passport-js-example.git,Basic implementation of Passport.js with Sail.js Version 1,,6
+0,https://github.com/jaredhanson/passport-familysearch.git,FamilySearch authentication strategy for Passport and Node.js.,,6
+0,https://github.com/jay3dec/OpenAuthInNodejs.git,Open Auth Implementation in Node.js using Passport,,6
+0,https://github.com/yaquawa/laravel-passport-binary-uuid-adapter.git,This package enables Laravel Passport to utilize binary UUID.,,6
+0,https://github.com/intercom/passport-intercom-example-app.git,Example web app using passport-intercom,,6
+0,https://github.com/Foundation-Devices/passport-firmware.git,Firmware for Passport v1,,6
+0,https://github.com/IDScanNet/MrzScannerExample.git,Passport MRZ Scanner (Example) ,"java,apache2,scanning-id-cards,mrz",6
+0,https://github.com/jaredhanson/passport-rdio.git,Rdio authentication strategy for Passport and Node.js.,,6
+0,https://github.com/jaredhanson/passport-37signals.git,37signals authentication strategy for Passport and Node.js.,,6
+0,https://github.com/mdobydullah/laravel-restful-api-crud-using-passport.git,"In this tutorial, I showed how to build Laravel RESTful API with authentication using the passport.",,6
+0,https://github.com/pollmix/laravel-passport.git,API authentication using laravel passport,"passport,laravel,authentication,rest-api",6
+0,https://github.com/Foundation-Devices/passport-electronics.git,Electronics designs for Passport v1,,6
+0,https://github.com/saintedlama/passport-local-authenticate.git,Encapsulates methods used to hash and verify user credentials for use in a passport-local strategy.,,6
+0,https://github.com/olymbytes/z00s.git,A login proxy for Laravel using laravel/passport.,,6
+0,https://github.com/ripjar/passport-trusted-header.git,Passport.js strategy for authentication by a trusted HTTP header,,6
+0,https://github.com/angelo-chan/koa2-starter.git,"A koa2 startkit powered by graphql, mongoose, jwt, passport etc",,6
+0,https://github.com/mjzac/SailsAuthServer.git,Bare minimum sails server to support various passport strategies.,,6
+0,https://github.com/bgao/express-boilerplate.git,"Express boilerplate integrated Passport, Nodemailer and Initializr(Bootstrap)",,6
+0,https://github.com/fdaciuk/Passport-Facebook-Express-4.git,Boilerplate to authenticate with Passport Facebook + Express 4,,6
+0,https://github.com/jeff-blaisdell/passport-smartthings.git,A Passport.js OAuth 2.0 strategy for Smart Things.,,6
+0,https://github.com/webdevmatics/api-passport.git,Api on Laravel using Passport: Tutorial on youtube: https://www.youtube.com/watch?v=isTZTfJV0-I&list=PLzz9vf6075V06Vf-ytOUVOSyYQoi3jWOa,,6
+0,https://github.com/gabumoh/book-api.git,Adding laravel/passport authentication to your api,,6
+0,https://github.com/kslimani/laravel-passport-grant.git,Laravel Passport custom grant types provider,"laravel,passport,grant,oauth2",6
+0,https://github.com/patrick-randria/passport-reader.git,A very simple python backend API to extract text informations from a passport image file.,"docker,ocr,python3",6
+0,https://github.com/ljmerza/passport-social-auth.git,"Node.js Passport authentication syncing for local login, Google, Facebook, Github, Twitter, Instagram, and LinkedIn",,6
+0,https://github.com/SinghDigamber/laravel-passport-auth.git,create a secure REST API using Passport in Laravel 8,,6
+0,https://github.com/asanchezdelc/loopback-gateway2.git,"Loopback gateway example with oAuth2, Passport, and ACL working together. ",,6
+0,https://github.com/CardContact/eID-sim.git,Simulation and test environment for eID cards and passports,,6
+0,https://github.com/mindfreakthemon/passport-imgur.git,"{""Passport strategy for authenticating with imgur's API using the OAuth 2.0 API.""}",,6
+0,https://github.com/mobiosolutions/laravel-rest-api-with-passport.git,A step by step example of how to Create Rest API in Laravel 6 Using Passport?,"passport-authentication,laravel-passport,laravel,laravel-framework",6
+0,https://github.com/PauloLuan/node-express-seed.git,[DEPRECATED] Seed project for NodeJS (With Express + Mongosse + Passport Login) following an amazing friendly development environment,,6
+0,https://github.com/passport/express-3.x-http-basic-and-digest-example.git,Express 3.x app using Passport for authentication via HTTP Basic and Digest schemes.,,6
+0,https://github.com/bspiritxp/laravel-passport-mongodb.git,Laravel passport in mongodb,,6
+0,https://github.com/thisismahabadi/lapas.git,Laravel Passport Sample,"laravel,passport,rest,api,php,oauth2",6
+0,https://github.com/Morphexe/fusion-plugin-passport.git,FusionJS Passport Plugin,"fusionjs,passportjs",6
+0,https://github.com/joewoodhouse/passport-meetup-oauth2.git,Meetup OAuth2 Strategy for Passport,,6
+0,https://github.com/sahlhoff/PassportLocalTwitter.git,An example of using Passport Local and passport twitter.  Uses Mongodb for storage.,,6
+0,https://github.com/safiahmed4cs/Larave-Passport-with-Vue-Vue-Router-and-axios.git,"This contains the Laravel Application, Laravel Passport, Vue, Vue Router, Axios, Vue Resource. This is for SPA",,6
+0,https://github.com/dynastic/accounts-provider.git,A Passport OAuth2 strategy for easily authenticating users with Dynastic Accounts.,,6
+0,https://github.com/yeaha/passport.git,RESTFul passport service base on lysine framework,,6
+0,https://github.com/nowk/cobbler.js.git,Mocking Passport OAuth for integration tests,,6
+0,https://github.com/talkative/compound-fb-mongodb.git,Boilerplate for Compound with Facebook auth (using passport) and MongoDB database.,,6
+0,https://github.com/AndreaPontrandolfo/node.js-authentication-boilerplate.git,Boilerplate for server-side authentication with passport-JWT in postgres database.,"nodejs,jwt,postgresql,winston,morgan,passportjs,express",6
+0,https://github.com/patrickvaler/express-jwt-acl-mongoose-starter.git,"Basic setup of express with JWT authentication (passport, passport-jwt), access control lists (node_acl) and Mongoose, written in ES6.","express,jwt,acl,mongoose,jsonwebtoken,es6",6
+0,https://github.com/shahid28/passport-salesforce-oauth2.git,Salesforce authentication strategy for Passport and Node.js.,,6
+0,https://github.com/krkchaitanya/nodeAuth---Passportjs.git,"Authentication, bcryptjs,hash,connect-flash,handlebars,passport,mongoose,mongodb","handlebars,passport,connect-flash",6
+0,https://github.com/leandroleo02/passport-jwt-google-auth-library.git,Node module to validate google jwt token via passport strategy,,6
+0,https://github.com/feathersjs-ecosystem/feathers-authentication-custom.git,Custom authentication strategy for feathers-authentication using Passport,,6
+0,https://github.com/thihenos/node-loginPassport.git,Node login example using Sequelize and Passport JS,,6
+0,https://github.com/slugbay/passport-onedrive.git,Microsoft One Drive oauth 2.0 authentication strategy for Passport,"onedrive,strategy,passport,passport-onedrive,passportjs,slugbay,microsoft,nodejs",6
+0,https://github.com/mattdean1/nodejs-oidc-client-example.git,OpenID Connect authentication in Node.js with Passport,"oidc,sso,passportjs,mongodb",6
+0,https://github.com/jaredhanson/passport-fido-u2f.git,FIDO U2F authentication strategy for Passport and Node.js.,,6
+0,https://github.com/Cron-J/Passport-Auth-Hapi.js-Mongoose.git,Auth in Hapi.js project using passport module,,6
+0,https://github.com/jfrux/nodejs-express-mongodb-mincer-passport-singly.git,"This is a base app containing my current workflow stack of express v3, mongoose/mongodb, mincer (assets), passport (auth), singly (centralized oauth), email templates / support",,6
+0,https://github.com/RightBrainTechBD/nuxiopress.git,"A Nuxt PWA starter template with Encrypted Cookies, Express.js, Axios, Vue Router, Vuex, Passport.js.","nuxt,nuxt-template,nuxtjs,nuxt2,express-js,vuex-store,axios,passportjs,nuxtjs-project,encrypted-cookies,vue-router,vue-cli-template,pwa-boilerplate,pwa,vuejs2,vuex",6
+0,https://github.com/cuigeg/laravel_passport.git,laravel中安全管理passport包的测试,,6
+0,https://github.com/sw-yx/AuthApiTesting.git,Testing Passport.js Authentication gated API routes with Mocha/Chai/Supertest,,6
+0,https://github.com/benatkin/just-tweet.git,a simple express & passport app that provides a secure interface to send a tweet,,6
+0,https://github.com/joshbirk/socialnode.git,"More complete demo of using Passport (Node) with different sources (Force.com, Facebook)",,6
+0,https://github.com/raulrene/react-express-passport-boilerplate.git,"Boilerplate with React Hooks, Express, Passport, Mongoose and role-based routing (based on react-scripts)","boilerplate,boilerplate-react,mongoose,express,react-hooks,passport,react-scripts",6
+0,https://github.com/ForbesLindesay-Unmaintained/passport-photo.git,A project aiming to provide for profile photos what passport provides for authentication,,6
+0,https://github.com/ivan-kleshnin/express-passport-react.git,Express + Passport + React. A sandbox to experiment with different auth techniques.,,6
+0,https://github.com/skogsmaskin/passport-netlify.git, Passport.js strategy for authenticating with Netlify using the OAuth 2.0 API.,,6
+0,https://github.com/inerd89/passport-ember-auth.git,"{""Passport module for authenticating via the 'ember-auth' authentication framework for ember.js""}",,6
+0,https://github.com/meanie/passport-refresh-strategy.git,"A refresh token authentication strategy for Passport, for use with Meanie Express Seed projects",,6
+0,https://github.com/energywebfoundation/iam-client-examples.git,Example web applications which demonstrate the usage of iam-client-lib with passport-did-auth,,6
+0,https://github.com/bschmitz9/ProTalk.git,"Real time chat for fans of the MLB, NBA, NHL, and NFL. HTML5, LESS, Bootstrap, Javascript, jQuery, Socket.IO, Express, Node.JS, MongoDB with Mongoose, Facebook Auth 2.0, Passport.JS, Hogan.JS, ",,6
+0,https://github.com/paulmhan/AllChat-v2.git,"The second iteration of AllChat. Built in Redux, uses Passport.js, Socket.IO, and Google Translate API to have a chat room available for all!",,6
+0,https://github.com/stillNovice/task-manager.git,"A Web app that manages your day to day task. Made With Love using Node.js, Express.js, JWT, Mongoose, MongoDB, mLab, Node-Mailer, Gmail-API, Passport.js, Express-Handlebars, Bootstrap, jQuery, HTML5 & CSS","nodejs,expressjs,express-validator,express-session,express-handlebars,passportjs,nodemailer,nodemon,gmail-api,bycrypt,bootstrap,jquery,html,css,mlab,mongoose,mongodb,jsonwebtoken,commonjs",6
+0,https://github.com/Shubhankerism/Social-Network.git,"Social Networking platform developed using MERN Stack. It comprises of features such as like, dislike, comment, posts, etc. State management through Redux. Other backend features such as validation, login authentication via passport-jwt, etc.",,6
+0,https://github.com/keenwilson/ChristmasList-Vue-Express-Passport.git,A Vue.js/Express.js web application for creating a Christmas list by searching items from product catalog and save those items to a list on MySQL Database This app also have `User Authentication` for registration and login powered by Passport and JSON Web Tokens (JWTs),"vue,vue-router,vuex,passport,jwt-token,express",6
+0,https://github.com/saivinaya/Cruise-Management-System.git,"Narnia Cruise Lines has several ships and a variety of cruise itineraries, each involving several ports-of-call. The company wants to maintain information on the sailors and other people who currently work on each of its ships. It also wants to keep track of both its past and future cruises and of the passengers who sailed on the former and are booked on the latter. Each ship has many sailors on it including a captain, engineers, doctors and cooks. The unique identifier of each ship is its ship number. Other ship attributes include ship name, weight, year built, and passenger capacity. Each sailor has a unique sailor identification number, as well as a name, date-of-birth, salary, and nationality. Some of the sailors are in supervising positions, supervising several other sailors and earn 20% more than sailors. Each sailor reports to just one supervisor. The base salary of sailors is $50,000 and the captain gets $300,000. Engineers and cooks make $80,000. A cruise is identified by a unique cruise serial number. Other cruise descriptors include a sailing date, a return date, and a departure port (which is also the cruise’s ending point.) Clearly, a cruise involves exactly one ship and over time a ship sails on many cruises. Each cruise stops at one or usually several ports-of-call, each of which is normally host to many cruises, over time. In addition, the company wants to maintain information about ports that it has not as yet used in its cruises but may use in the future. A port is identified by its name and the country that it is in. Other information about a port includes its population, whether a passport is required for the passengers to disembark there, and its current docking fee, which is assumed to be $20,000 if the ship’s weight is less than 30000 tons, $50,000 if between 30000-50000 tons and $100,000 if the ship’s weight is over 50000 tons. A cruise typically has many passengers on it and on average a ticket costs $900. Passenger information includes a unique passenger number, name, home address, nationality, date-of- birth, money they paid for joining the cruise and moneySpentOnCruise (calculated by totalling amount of money spent by the passenger on-board cruise). Hoping for return business, the company wants to keep track of passengers that may have sailed on several of its cruises (and/or may be booked for a future cruise.) For a person to be of interest to the company, he or she must have sailed on or be booked on at least one of the company’s cruises. The company wants to keep track of how much money each passenger paid for each of their cruises, as well as their satisfaction rating of the cruise, if it has been completed.  1|Page Tasks Design a complete object-oriented system for cruise management based on the above specification. Your system must in the least provide the following features through a console based menu system: 1. Create a cruise with ship, sailors and ports randomly. 2. Add passengers to a cruise. Both manual and random options must be given. 3. Provide reports on the following areas: a. Revenue generated from the cruise passengers by nationality and age b. Details of all Sailors that worked on a cruise and the total cost of paying their salaries and the total cost of docking at different ports c. List of passengers with their details sorted by moneySpentOnCruise d. Cruise evaluation by passengers (assume each passenger completes a 5 question survey at the end of the cruise and generate/store random responses) e. Did the ship make a profit? Use the expenses and earnings from passengers. 4. Information about the cruise including employees, passengers, ports-of-call, and money spent by employees on the cruise must be stored in text files once the cruise is over. Note that this project is open-ended and therefore you are free to implement any additional functionality that you think is necessary based on your design. Most important requirement is the application of OBJECT-ORIENTED DESIGN principles.",,6
+0,https://github.com/PredixDev/passport-predix-oauth.git,Predix UAA authentication strategy for Passport.,,5
+0,https://github.com/julianduque/dude-where-is-my-auth.git,An authentication example with Express and Passport,,5
+0,https://github.com/interledger-deprecated/passport-http-signature.git,passport strategy for HTTP signatures,,5
+0,https://github.com/jmchaves/node-passport-jwt-example-app.git,Node - Using JWT with Passport authentication,"nodejs,expressjs,javascript,jwt-bearer-tokens,passport-jwt",5
+0,https://github.com/magnetik/passport-webid.git,WebID authentication strategy for Passport.,,5
+0,https://github.com/brainflake/passport-hubspot.git,A Passport strategy for HubSpot,,5
+0,https://github.com/tphuocthai/passport-ldapjs.git,NodeJS Passport LDAP authentication using ldapjs,,5
+0,https://github.com/GluuFederation/gluu-passport.git,Gluu interface to Passport.js to support social login and inbound identity.,"passport,social-login,oidc,oauth2,saml,passport-js,authentication,authorization,authz,authn,inbound,identity",5
+0,https://github.com/developer79433/passport_mrz_detector_cpp.git,Detects Machine Readable Zones in images of identity documents such as passports.,opencv,5
+0,https://github.com/dondido/express-mongoose-passport-token-login.git,"User session and token authentication Node.js app with express, mongoose, passport, passport-local and passport-local-mongoose.",,5
+0,https://github.com/baipgydx729/passport-dingtalk.git,dingtalk authentication strategy for passport,,5
+0,https://github.com/xinbenlv/passport-renren.git,Renren authentication strategy for Passport and Node.js.,,5
+0,https://github.com/MonsantoCo/passport-ping-oauth2.git,Ping OAuth 2.0 authentication strategy for Passport.,,5
+0,https://github.com/mick/passport-heroku.git,Passport strategy for authenticating with Heroku using the OAuth 2.0 API.,,5
+0,https://github.com/ladjs/passport.git,Passport for Lad,,5
+0,https://github.com/cszatmary/passport-mock-strategy.git,Mock passport authentication strategy for testing Node.js applications.,,5
+0,https://github.com/jaredhanson/passport-vimeo.git,Vimeo authentication strategy for Passport and Node.js.,,5
+0,https://github.com/MrVelociti/discord-auth.git,"Library for interacting with Discord OAuth2.0, using passport strategy. ","discord-oauth,d",5
+0,https://github.com/Nimblr/passport-drchrono.git,DrChrono authentication strategy for Passport,,5
+0,https://github.com/sujanchhetri/NodeAuthenticationwithPassport.js.git,Node authentication using passport.js,"passport,nodejs,node-passport-mongoose,node-passport,oauth,passport-facebook,passport-local,passport-twitter",5
+0,https://github.com/athiththan11/Passport-SAML-WSO2.git,An Express Application with Passport-SAML for WSO2 SAML2 SSO,"wso2,wso2-identity-server,saml2,passport-saml,wso2-saml-sso",5
+0,https://github.com/auth0/passport-auth0-openidconnect.git,Passport strategy for authenticating with Auth0 using OpenID Connect.,,5
+0,https://github.com/passport/express-4.x-oauth2-userinfo-example.git,Express 4.x app using Passport for authentication via OAuth 2.0.,,5
+0,https://github.com/herusdianto/passport_auth_server.git,Laravel Passport 5.x & VueJS 2.x Authentication (Server Side Code) Example,,5
+0,https://github.com/Technoblazed/passport-faceit.git,passport-faceit,"passport,nodejs,express,session,faceit,csgo,login,javascript",5
+0,https://github.com/jennschiffer/twitter-passport-example.git,an example app implementing twitter oauth with passport,"glitch,twitter,passport-twitter,twitter-oauth,twitter-passport,cookie",5
+0,https://github.com/jaredhanson/passport-ssl-certificate.git,SSL certificate authentication strategy for Passport and Node.js.,,5
+0,https://github.com/cezarneaga/apollo-cra-authenticated.git,"Starter boilerplate CRA, Apollo-GraphQL and Passport Auth",,5
+0,https://github.com/jobilla/laravel-passport-revoke.git,Revoke Laravel Passport tokens with an Artisan command,,5
+0,https://github.com/Taerarenai/node-ts-express-jwt-boilerplate.git,"BoilerPlate Rest API using : NodeJS (Express), TypeORM, Passport-JWT, MySQL.",,5
+0,https://github.com/qddegtya/passport-ldap.git,:key: LDAP authentication strategy for Passport and Node.js,"ldap-authentication-strategy,passport-ldap,express-middleware,express",5
+0,https://github.com/hewmen/passport-twitter-oauth2.git,Passport Twitter Strategy with OAuth 2.0 support,,5
+0,https://github.com/johnschimmel/DWD-User-Authentication.git,"User auth example with NodeJS, Express, Passport and Mongo",,5
+0,https://github.com/da-revo/genPassportScore.git,Ranks civilian passports of countries based on their GDP Access,,5
+0,https://github.com/gauti123456/GoogleAuthPassportNode.git,This is a sample Node.js Google Auth App Built with Passport,,5
+0,https://github.com/gowthaman-murugan/go-with-node-angular.git,simple Web application with 1.angularjs 2.nodejs 3.express  4.passport authentication 5.gulp,,5
+0,https://github.com/kkkkyue/egg-passport-weixin.git,egg-passport-weixin,,5
+0,https://github.com/LiamMartens/passport-figma.git,Figma Strategy for passport,,5
+0,https://github.com/monto100/NODEJS.git,NODEJS_EXPRESS_PASSPORT_MYSQL,,5
+0,https://github.com/DBCDK/passport-unilogin.git,Passport strategy for UNI-Login,,5
+0,https://github.com/colearnr/passport-shibboleth.git,Shibboleth authentication strategy for passport,,5
+0,https://github.com/oknoorap/html5-validator.git,:passport_control: W3 HTML5 Validator,"validator,html5,cli,nodejs",5
+0,https://github.com/baymyo/node-shopping-cart.git,"Node JS, bootstrap@4, express, express-session, express-validator, express-handlebars (helpers), mongoDB (mongoose), connect-mongo, cookie, passport (local), csurf.",,5
+0,https://github.com/iftruereturn/notepad-online.git,"Single page app with React, Redux, React-Router, Koa, Passport, Mongoose","react,koa,redux,nodejs,react-router,javascript,passport,mongoose,mongodb,reactjs,node-js,js,koajs,passportjs",5
+0,https://github.com/giorgosavgeris/passport-zoom-oauth2.git,Passport Strategy for Zoom OAuth 2.0,"passport,strategy,zoom,oauth2,passport-oauth2",5
+0,https://github.com/GoodDollar/GoodPassport.git,Ethereum Zero Knowledge Proof of Passport,,5
+0,https://github.com/DataHiveDevelopment/Laravel-Introspection.git,Provides OAuth Introspection capabilities for Laravel Passport,,5
+0,https://github.com/LeonardoVieiraNeto/AutenticacaoUsandoMongoDB.git,"Projeto de estudos usando express, mongodb, passport","express,express-js,nodejs,node,passportjs,mongodb",5
+0,https://github.com/johnbiundo/nestpasspr94.git,@nest/passport PR#94 test case,,5
+0,https://github.com/kehers/passport-slack.git,Slack OAuth v2 strategy for Passport js,,5
+0,https://github.com/BlinkID/blinkid-c-sdk.git,"Powered by AI, BlinkID C SDK enables scanning, data extraction and OCR of various identity documents and passports.",,5
+0,https://github.com/davewilliamson/passport-yubico.git,A Yubico provider for the passport authentication library,,5
+0,https://github.com/harryhan1989/passport-wechat-work.git,企业微信passport， work 微信,,5
+0,https://github.com/kckolz/node-sequelize-passport.git,Express app implementing oAuth2 with Passport.js and Sequelize,,5
+0,https://github.com/laosteven/fantastic-umbrella.git,Passport Photos validation tool with Google Vision API,,5
+0,https://github.com/fcaivano/ionic-passport-app.git,Ionic Framework App consuming API (Laravel API + Passport Oauth2),,5
+0,https://github.com/tlip/oauthentic.git,An authentication server built in Typescript with Passport & Oauth2orize ,"oauth,oauth2,authentication,node,typescript,typeorm,redis,express,users,javascript,js,razzle,authorization,login,oauth2orize,oauth2-server,oauth2-provider",5
+0,https://github.com/bryantobing12/NodeJS-MongoDB-Auth-Passport.git,Authentication application. Register and Login using Passport and Save session.,,5
+0,https://github.com/fcaivano/laravel-passport-api.git,Ionic Framework + Laravel API with Passport Oauth2 Server implementation,,5
+0,https://github.com/hamedov93/passport-multiauth.git,Multi auth and custom grants for laravel passport,,5
+0,https://github.com/slugbay/passport-google-drive.git,Google Drive oauth 2.0 authentication strategy for Passport,"google-drive,strategy,passport,authentication,nodejs,drive,drive-authentication,slugbay",5
+0,https://github.com/dzt/steam-boilerplate.git,Node.js Boilerplate for Steam that features Passport.js Authentication.,,5
+0,https://github.com/neilodiaz/vue-cli-laravel.git,Personal Vue CLI and Laravel 5.4 with Passport Boilerplate,"vue-cli,laravel,passport",5
+0,https://github.com/JosephScript/API-Node-Mongo-Passport.git,"A simple Node.js API. Users are created and stored in a local database using Mongo, and they are authenticated using Passport and Passport-LocalAPIKey.",,5
+0,https://github.com/Prepager/Ally.git,An attempt at creating Laravel team billing as an API. Inspired by Laravel Spark and built with Laravel Passport and Cashier.,"laravel,laravel-passport,laravel-cashier,subscription,teams,billing",5
+0,https://github.com/energywebfoundation/passport-did-auth.git,Node.js Passport authentication and authorisation strategy using DIDs(Decentralised Identifiers) and VCs(Verifiable Credentials),,5
+0,https://github.com/neat-soft/node-express-mysql-sequelize.git,"A simple node app using express, mysql, sequelize, passport for beginners","nodejs,express,mysql,sequelize,pm2,passport,server",5
+0,https://github.com/dailycred/passport-dailycred.git,An NPM module for using an authentication strategy with Dailycred on Passport,,5
+0,https://github.com/vedi/oauthifizer.git,Easy-to-integrate OAuth2 implementation based on passport and its strategies.,,5
+0,https://github.com/ebuychance/passport-cognito-oauth2.git,Node Express Passport Strategy for AWS Cognito using the Oauth2 Strategy,,5
+0,https://github.com/nemanjam/react-material-passport.git,"Authentication boilerplate with React, Material-UI and Local, Facebook, Google and JWT Passport strategies.","boilerplate,reactjs,material-ui,express,mongodb,passport,authentication",5
+0,https://github.com/Roms1383/nest-auth-sample.git,Nest sample for nestjs/passport using local-strategy and url redirection,,5
+0,https://github.com/kriasoft/create-data-api.git,"Project template for authoring data API backends with PostgreSQL, Redis, Passport.js and GraphQL.",,5
+0,https://github.com/ChristophSchmidl/laravel-5.4-dingo-passport-boilerplate.git,"REST API boilerplate based on Laravel 5.4, Laravel Passport and Dingo",,5
+0,https://github.com/mattlehrer/nest-starter-pg-auth.git,"NestJS REST API Starter with Postgres, Passport Local and Social Auth","postgres,nestjs,boilerplate,rest-api,nestjs-backend,passport,authentication,jwt-authentication,typeorm,typescript",5
+0,https://github.com/ruhartm/jwt-passport-acl.git,"Using Express with JWT authentication (passport-jwt), access control lists (node-acl) and Mongoose written in ES6.",,5
+0,https://github.com/LDSorg/backend-oauth2-node-passport-example.git,A minimal example using passport lds-connect with io.js / node.js to get a user profile.,,5
+0,https://github.com/sirrodgepodge/cruddyAuthBlog-react.git,demonstrating basic auth and crud operations with Node.js+MongoDB+Express.js+Mongoose.js+Passport.js+React.js,,5
+0,https://github.com/sirrodgepodge/cruddyAuthBlog.git,"demonstrating basic auth and crud operations with Node.js+MongoDB+Express.js+Mongoose.js+Passport.js, live here:",,5
+0,https://github.com/havenS/ladderjs.git,"NodeJS fullstack MVC framework using Express, Sequelize, passport ... Complete documentation can be found here: https://havens.gitbooks.io/ladderjs/content/",,5
+0,https://github.com/RoyLH/passport.git,passport包的源码分析 很值得学习一下的源码设计,,5
+0,https://github.com/tiandaye/lumen-quick-start.git,快速开始lumen项目，集成passport+dingo，并解决跨域问题，统一返回数据格式，例子包含用户中心。,,5
+0,https://github.com/cdthomp1/mongo-express-node-template.git,This template is designed to help kick start Node.js applications that would use MongoDB as a database and Passport.js as an authentication middleware.,,5
+0,https://github.com/RichardStyles/LaravelPassportAPI.git,Messing around with Laravel 5.3 and Laravel/Passport to create a OAuth2 API which could be used with an ExtJS frontend.,,5
+0,https://github.com/rohan-paul/react-theme-kids-school.git,"A Landing Page Theme (for a school website) built with React, including Login Functionality with json-web-token and Passport middleware authentication",,5
+0,https://github.com/Razzstep/libmsauth.git,An authentication library for MapleStory written in C#. Authenticates accounts and obtains the passport token to spawn a new MapleStory instance or authorize a login attempt.,,5
+0,https://github.com/ianhaggerty/sails-boilerplate.git,"An opinionated server configuration for sailsjs. Includes jasmine tests, passport authentication, compass styles (with sprite configuration), coffee-script server side, jade templates, marionette front-end, cron jobs & Backbone.Sails. ",,5
+0,https://github.com/SergiiShapoval/CarRental.git,"# WebCarRental\nCar rental WebApp.\nCustomer can choose a car for reservation from a list \nby filling out the order form: passport data, reservation terms.\nAdministrator registers the return of the vehicle.\nIn the case of damage to the vehicle, Administrator makes information and an invoice for the repairs.\nThe administrator may reject the reservation, stating the reason for refusal.\n\nUsed FrameWorks, libraries: Maven, Apache Tiles, Bootstrap, Log4j, Servlet-JSP-api, BeanUtils, Javax.Mail.\n\nPrerequisites for installation: MySql server, with carrental database created, installed maven.\nTo deploy: checkout repository, go to downloaded dir, with pom.xml in cmd.exe and start the app by ""mvn clean  tomcat:run-war"".\n\nSee short overview here - https://www.youtube.com/watch?v=GYlZDrNa72E",,5
+0,https://github.com/Inn4ki/chatapp.git,"{""NODE.JS WEB APPS WITH EXPRESS by Wes Higbee  In this Node.js Web Apps with Express training course, expert author Wes Higbee will teach you how to create web applications and APIs with Express. This course is designed for users that are already familiar with HTML, CSS, and JavaScript.  You will start by learning how to set up a web app, then jump into learning about the Jade view engine. From there, Wes will teach you about CRUD, including how to add the chat room view, respond with JSON, and edit chat rooms. This video tutorial also covers routers, middleware, APIs, and logging and debugging. Finally, you will learn about auth with passport, including passport user validation, protecting admin routes, and query string parameters.  Once you have completed this computer based training course, you will have learned how to create web applications and APIs with Express. Working files are included, allowing you to follow along with the author throughout the lessons.  About the Publisher  Presented in stunning HD quality, the Infinite Skills range of video based training provides a clear and concise way to learn computer applications and programming languages at your own speed. Delivered to your Desktop, iPad ...  More about Infinite Skills Table of Contents Setting Up A Web App What You Will Learn 00:03:28 About The Author 00:01:23 Project Setup 00:02:14 Spinning Up Our Server From Scratch 00:05:11 Serving Index.HTML 00:04:32 Serving Bootstrap Assets 00:05:52 Styling Our Site 00:01:16 How To Access Your Working Files 00:01:15 The Jade View Engine Why View Engines? 00:02:10 The Jade View Engine 00:06:32 HTML Tags In Jade 00:02:16 Attributes Classes And Ids In Jade 00:02:06 Serving Up Jade Views 00:04:24 HTML Reuse In Jade 00:06:26 Code In Jade Views 00:02:37 Passing Data To View Rendering 00:02:01 Setting A Default View Engine 00:00:37 String Interpolation In Jade 00:02:30 Generating Tables In Jade 00:03:50 Tabs And Spaces Oh My 00:01:21 Demystifying Jade 00:02:21 Crud Setting The Stage 00:01:01 Add Chat Room View 00:04:21 Post Chat Room Form 00:06:56 Parsing Form Data From The Request Body 00:04:22 Responding With JSON 00:03:20 Admin Chat Rooms Workflow 00:02:21 Named Route Parameters To Delete Rooms 00:05:59 Edit Chat Rooms 00:06:01 Edit Chat Rooms Part - 2 00:02:00 Responding With 404 Not Found 00:01:39 Wrap Up 00:01:23 Routers Extracting An Admin Module 00:04:47 Modular Admin Router 00:04:00 Pluggable Admin Mount Path 00:03:15 Stumbling Block - Relative Redirects 00:02:49 Chaining Routes 00:01:57 Middleware Understanding Routing And Middleware 00:05:45 Adding Custom Logging Middleware 00:02:15 Understanding Next() 00:01:31 Middleware To Fetch Data 00:07:24 Order Matters.Av 00:01:09 Scoping Middleware 00:03:53 What To Do With Errors 00:03:01 Last Thoughts 00:03:19 APIs A Client Side Chat App 00:01:55 Setup The Client Side Chat App 00:03:01 Creating An API 00:05:42 Modules Are Singletons 00:01:50 Postman To Test API 00:01:24 API Get Room Messages 00:05:49 Posting To An API 00:03:37 API To Delete Messages 00:03:15 Parsing JSON In The Request Body 00:03:25 Logging And Debugging Express-Debug 00:03:03 Logging With Morgan 00:01:45 File Access Log With Morgan 00:01:28 Built-In Express Debugging 00:01:57 When Things Go Wrong Throwing An Error In A Route Handler 00:01:39 Errors In Production 00:01:53 Custom Error Handlers 00:02:40 Browser Hangs 00:00:58 Hanging Async Request Handlers 00:01:17 Errors In Callbacks 00:03:32 Don't Swallow Callback Errors 00:02:46 Auth With Passport Auth With Passport 00:01:49 Login Form 00:06:31 Passport User Validation 00:05:20 Passport Session Serialization 00:01:49 Logging In 00:06:23 Logout 00:03:52 Authorizing Access To Block Anonymous Users 00:03:40 Protecting Admin Routes 00:02:04 Using User Information 00:02:48 Bypassing Login In Development 00:03:11 Query String Parameters 00:02:34 Auth Cookies 00:02:17 Last Thoughts 00:05:45  Publisher: Infinite Skills Release Date: March 2016 ISBN: 9781491958933 Running time: 4:09:49 Topic: Node.js""}","jade,middleware,node-js",5
+0,https://github.com/kdszafranski/prime-passport-lectures.git,Express/Passport Lecture Starting Files,,4
+0,https://github.com/moeen-basra/laravel-passport-mongodb.git,Laravel Passport for MongoDB,"laravel-passport,mongodb,laravel,authentication",4
+0,https://github.com/suciptoid/passport-sample.git,Laravel Passport sample,,4
+0,https://github.com/TelegramPassport/localization.git,Localization files for Telegram Passport,,4
+0,https://github.com/jaredhanson/passport-yahoo.git,Yahoo! (OpenID) authentication strategy for Passport and Node.js.,,4
+0,https://github.com/justsml/oauth-code-along.git,"Express, OAuth, Passport example project & live code-along.","express,oauth2,passportjs,passport,passport-jwt",4
+0,https://github.com/auth0/passport-heroku-addon.git,Passport strategy for heroku addons,,4
+0,https://github.com/Techofficer/passport-apple.git,Apple authentication strategy for Passport and Node.js.,"passport,passport-js,passport-apple,apple,nodejs,node,express,express-js",4
+0,https://github.com/manjeshpv/passport-local-express4-mongoose-example.git,"Express 4 Authentication with Passport, Mongoose",,4
+0,https://github.com/jaredhanson/passport-tripit.git,TripIt authentication strategy for Passport and Node.js.,,4
+0,https://github.com/Jeff-Tian/passport-weapp.git,Passport for wechat mini program,"passport,passport-weapp,strategy,wechat-mini-program,oauth2",4
+0,https://github.com/NatLibFi/passport-atlassian-crowd-js.git,Passport strategy for Atlassian Crowd,,4
+0,https://github.com/onshape/passport-onshape.git,Onshape authentication strategy for Passport and Node.js.,,4
+0,https://github.com/Webschool-io/Atomic-Module-Passport-API.git,An API to use Passport <3,,4
+0,https://github.com/manjufy/node-express-session-passport.git,Node Express Passport Session,,4
+0,https://github.com/M-Yankov/passport-cookie.git,passport-cookie authentication,"cookie,passport,passport-cookie,passport-strategy,nodejs,node-js,javascript,authentication",4
+0,https://github.com/73rhodes/passport-opentoken.git,Passport strategy for authenticating with PingFederate using the OpenToken API,,4
+0,https://github.com/theinventorshouse/Hackerspaces_Passport_Spanish.git,Hackerspaces Passport Version in Spanish,"passport,hackerspaces-passport,hackerspace",4
+0,https://github.com/mjpearson/passport-vimeo-oauth2.git,Vimeo OAuth2 Strategy for Passport,,4
+0,https://github.com/vchaptsev/vue-telegram-passport.git,Vue component for Telegram passport,"vue,vue-component,telegram,telegram-passport",4
+0,https://github.com/evanejtucker/react-auth.git,react app with passport auth,,4
+0,https://github.com/aaronlynn155/PassportMRZ-OCR.git,Optical Character Recognition of Passport Machine Readable Zones,,4
+0,https://github.com/jaredhanson/passport-smugmug.git,SmugMug authentication strategy for Passport and Node.js.,,4
+0,https://github.com/devmayor/NestJs-apikey-authentication-using-passport.git,A simple implementation of authentication on NestJS using passport js,,4
+0,https://github.com/GraydonScates/mern-passport-app.git,Starter MERN application with Passport user authentication using Javascript Web Tokens and Redux,,4
+0,https://github.com/pandeysoni/passport-authentication-in-node.js.git,User authentication using passport in Node.js,,4
+0,https://github.com/nickls/passport-asana.git,Asana API OAuth2 authentication strategy for Passport,,4
+0,https://github.com/dvpnt/passport-ok-strategy.git,passport strategy for authenticating with odnoklassniki,,4
+0,https://github.com/arvindr21/react-redux-apollo-graphl-mongodb-boilerplate.git,React Redux Apollo GraphQL Mongo Passport boilerplate,,4
+0,https://github.com/jwalton/passport-strategy-runner.git,Run a Passport strategy without Passport.,,4
+0,https://github.com/nambar12/passport-spnego.git,passport authentication strategy using Kerberos authentication with keytab,,4
+0,https://github.com/allan2012/IPRS-PHP-Integration.git,"{""IPRS (Integrated Population Registration System (IPRS) provides a soap based API to query citizen's data via National ID and Passport. ""}",,4
+0,https://github.com/kirtithorat/angular_node_authentication.git,User authentication in  Node.js + AngularJS + MongoDB application using Passport,,4
+0,https://github.com/UKHomeOffice/passports-prototype-v2.git,Prototype for passport journeys. This is version 2 of the prototype.,,4
+0,https://github.com/sru-thy/expressjs-passport-login.git,simplified passport local auth using passport local mongoose,"passportjs,passport-local,passport-local-mongoose,login,expressjs",4
+0,https://github.com/mfiyalka/telegram-passport.git,Library for Telegram Passport,,4
+0,https://github.com/SamyPesse/passport-gumroad.git,Gumroad authentication strategy for Passport.,,4
+0,https://github.com/kkleokrish/passport-ntlm.git,NTLM authentication support for passport,,4
+0,https://github.com/mgmourgos/react-blog-cms.git,"React, Redux, Express, Passport, MongoDB","react,mongodb,redux,nodejs,expressjs",4
+0,https://github.com/Jeff-Tian/egg-passport-wechat.git,Wechat passport plugin for egg,"wechat,oauth2,eggjs,egg-plugin,passportjs,passport-wechat",4
+0,https://github.com/EmmanuelBeja/simple-passport-local-signup-login-app.git,user authentication done using passport,,4
+0,https://github.com/lybenson/Passport.js-cn.git,Passport.js中文版,,4
+0,https://github.com/devlato/machine-readable-zone.git,Machine-readable passport code generator,"machine-readable-zone,machine,reading,generator,generate,cli,command-line,command-line-tool,library,javascript,nodejs,node-js,node,node-module,typescript,ts,typescript-library,typings,mrz",4
+0,https://github.com/kanterjoe/passportTemplate.git,A template for Passport Authentication.,,4
+0,https://github.com/michaelwong753/OCR-KTP-Passport_Web.git,"Web Version of OCR Indonesian ID card (KTP) & Indonesian Passport using Tesseract 4.0.0 , ImageMagick and LSTM traineddata",,4
+0,https://github.com/caesar-team/caesar.team.git,"Caesar is the open-source solution for safe work with sensitive data (passwords, passports, docs etc)",,4
+0,https://github.com/mustafamuratcoskun/passport-local-authentication.git,Login & Register Functionality and Authorization With Using Passport & Express & Mongo Db,,4
+0,https://github.com/ewdave/passport-nylas.git,Nylas authentication strategy for Passport using the OAuth 2.0 API,,4
+0,https://github.com/daniel7912/node-passport-sequelize-angular-stack.git,"A starting point for an app using node, passport, sequelize, angular.",,4
+0,https://github.com/Beetermyself/laravelx.git,集成passport+api认证,,4
+0,https://github.com/andrejewski/bottle.git,"sample node, express, passport, mongoose app",,4
+0,https://github.com/cheikhshift/gop.git,Go-Passport : Authentication and service security.,"golang,go-server,authentication-middleware,passport-client,ldap-authentication",4
+0,https://github.com/phpno1/phpno1-passport.git,laravel passport 简化扩展包,,4
+0,https://github.com/rrbe/egg-passport-qq.git,egg-passport plugin for qq-oauth-login,,4
+0,https://github.com/ragebite/passport-xbox.git,Xbox Live authentication strategy for Passport.,,4
+0,https://github.com/tareque20/nodejs-authentication-passport.git,Node.js Login System With Passport,"nodejs,expressjs,mongodb,mongoose,joi,handlebars,bootstrap,passportjs",4
+0,https://github.com/jaab30/passport_mysql_sequelize_boiler_plate.git,"This is a ready to use boiler plate that uses Passport for User Authentication and MySQL with Sequelize for Data Storage. Web Tools: HTML, CSS, Javascript (ES6), Bootswatch, Node.js, Express, Passport, MySQL, Sequelize.","javascript,nodejs,express,mysql,mysql-database,sequelize,bootswatch,passport-js,html5,css3,es6-javascript",4
+0,https://github.com/goldtime1989/passportDetection.git,This script scan passport to detect machine-readable zones in passport images http://www.pyimagesearch.com/2015/11/…,,4
+0,https://github.com/matthiku/chatter.git,"Messenger PWA based on Laravel 5.6 + Passport, with Laravel Echo, Pusher and Vue.js (Vuex + Vue-Router)","chat-application,pusher,chatter,vue,echo,laravel,messenger",4
+0,https://github.com/hellozach/laravel-passport-bootstrap4.git,Porting the laravel/passport .vue components to use Bootstrap 4.,,4
+0,https://github.com/Bioblaze/passport-twitch.js.git,Passport strategy for authentication with Twitch (Twitch.tv),"twitch,twitchtv,oauth2,passportjs,passport-twitch,passport,bioblaze",4
+0,https://github.com/hellozach/laravel-passport-bootstrap4.git,Porting the laravel/passport .vue components to use Bootstrap 4.,,4
+0,https://github.com/Bioblaze/passport-twitch.js.git,Passport strategy for authentication with Twitch (Twitch.tv),"twitch,twitchtv,oauth2,passportjs,passport-twitch,passport,bioblaze",4
+0,https://github.com/kitak/passport-suzuri.git,SUZURI authentication strategy for Passport and Node.js.,,4
+0,https://github.com/tusbar/passport-idn.git,La Poste IDN (Identité Numérique) authentication strategy for Passport,,4
+0,https://github.com/xskit/passport-client.git,An authorized http client based on the lararvel passport.,,4
+0,https://github.com/eugenehp/example-dating-backend-app.git,Node.JS+Express+JWT+Passport+Mongodb+Mongoose+Babel,,4
+0,https://github.com/aranfatih/react-express-mongodb.git,"Boilerplate of React, Express, MongoDB, Passport and Axios.","reactjs,expressjs,nodejs,mongodb,mongoose,passportjs,axios,javascript",4
+0,https://github.com/oct8cat/passport-mock.git,Mocks passport.js login under /login/test/:user_id,,4
+0,https://github.com/jaredhanson/passport-readability.git,Readability authentication strategy for Passport and Node.js.,,4
+0,https://github.com/remotestack377/laravel-passport-rest-api-example.git,Build Laravel Passport CRUD REST API in Laravel,,4
+0,https://github.com/techfeed/passport-mastodon.git,Mastodon authentication strategy for Passport and Node.js.,"passport,mastodon",4
+0,https://github.com/mmlin/passport-mongoose.git,MongoDB username and password authentication strategy for Passport using Mongoose.,,4
+0,https://github.com/jaredhanson/passport-geoloqi.git,Geoloqi authentication strategy for Passport and Node.js.,,4
+0,https://github.com/VirgilSecurity/virgil-passport-pythia.git, Passport strategy for authenticating with the Virgil Pythia PRF service,,4
+0,https://github.com/Excalibur79/Passport_User_Authentication_Starter_Files.git,"NodeJS, passport, Express and Reactjs User Authetication Starter Files.",,4
+0,https://github.com/bertrandom/passport.git,My last ten years according to my passport,,4
+0,https://github.com/ForbesLindesay-Unmaintained/passport-photo-gravatar.git,Passport-Photo strategy for retrieving gravatar profile pictures.,,4
+0,https://github.com/anandpatel504/Passport-Strategies.git,"Defined four passport strategies- Google, Facebook, LinkedIn, and GitHub.","express,mysql,knex,jwt,passport",4
+0,https://github.com/fxkjd/sails-generate-login.git,A sails generator for user management using passport.js,,4
+0,https://github.com/ZacharyChim/nodejs-passport.git,A Node.js example of using Passport for user authentication,,4
+0,https://github.com/MahediSabuj/react-authentication-boilerplate.git,"Boilerplate code for Authentication using React, PostGraphile and Passport","react,nodejs,graphql,postgresql,postgraphile,passportjs",4
+0,https://github.com/hishamhaniffa/LoginSystem.git,Login system using Node JS + Passport + Express + Express handlebars,,4
+0,https://github.com/dominusbelli/passport-mymlh.git,MyMLH Authentication Strategy for Passport and Node.js,,4
+0,https://github.com/sagardere/password-reset-nodejs.git,"{""Implement Password Reset In Node.js. In this Application, we'll go over how to create a forgot your password feature using Express, MongoDB, Passport and Sendgrid. We will build a complete application.""}",,4
+0,https://github.com/almatrass/passport-opskins.git,A simple passport strategy for authenticating users through the OPSkins platform,,4
+0,https://github.com/jsoncz/letterface.git,"attempt to draw over a face with letters, like on a british passport photo.",,4
+0,https://github.com/jmnunezizu/passport-discogs.git,Passport strategy for authenticating with Discogs using the OAuth 1.0a API.,,4
+0,https://github.com/sangit0/VUE-JS-authentication-passport-laravel.git,VueJS laravel Passport authentication and CRUD vue JS single page application showcase,,4
+0,https://github.com/pactode/laravel-janitor-passport-demo.git,A demo application of how to setup authentication with Laravel Janitor using Passport as a driver.,,4
+0,https://github.com/appoly/PassportKit.git,Swift library used for quick and easy authentication using Laravel passport.,"laravel,swift,ios,oauth,swift-library,keychain",4
+0,https://github.com/LukeWlodarczyk/FeedbackApp.git,"Express, Mongoose, React, React Router, Redux, Redux Thunk, Redux Form, Passport, OAuth 2.0, Stripe, SendGrid","express,mongoose,passport,oauth2,stripe,sendgrid,react,redux,redux-form,react-stripe-checkout",4
+0,https://github.com/mtiger2k/nextjs_apollo_starter.git,"starter app using next.js and apollo, plus adminlte, mongo and passport",,4
+0,https://github.com/aibim/vue-lumen-tutorial.git,"Vue Lumen Tutorial - SPA mit Vue.js, vuetify, Laravel Lumen and Passport","php,laravel58,laravel,javascript,npm,lumen,vuex,vuetify,vuejs2-tutorial,vuejs,laravel-passport,passport,laravel-lumen,webpack,webpack4,axios,vue-router",4
+0,https://github.com/roziscoding/hello-passport-auth.git,Simple app to demonstrate authenticating with telegram and Facebook through passport,,4
+0,https://github.com/ahmetserefoglu/RestApiProject.git,"Laravel Framework,RestApiProject,Redis,Queues,Passport ,Email Verify,ResetPassword,Login,Register,Twillio Api,Notification,Mysql,Swagger","laravel-framework,javascript,adminlte-template,php,mysql,restful-api,rest-api,backend,passport,token,swagger,twilio-api",4
+0,https://github.com/jaredhanson/passport-oauth2-userinfo.git,"{""OAuth 2.0 authentication strategy for Passport using OpenID Connect's UserInfo endpoint for profile.""}",,4
+0,https://github.com/SpaceG/oAuthy-SailsJS-PassportJS-MongoDB-Authentication.git,oAuthy - Get Implement Passport.js authentication with Sails.js 1.0.1,,4
+0,https://github.com/rupalipemare/Mongoose-Demo.git,Express Mongoose Demo having simple CRUD using mongodb validation operations and authentication using passport,"nodejs-mongodb,passport,crud",4
+0,https://github.com/vittau/todoapp.git,"Simple todo app using Express, Sequelize/Postgre and Passport with Google OAuth and JWT",,4
+0,https://github.com/rahil-1407/Session-based-Authentication-Using-Passport-in-Node.js.git,Implemented Session Based Login System using Passport Authentication middleware in Node.js. ,"nodejs,expressjs,html-css-javascript,hashing,mongodb",4
+0,https://github.com/ddawx123/DCP_SingleSignOn.git,DCP_SingleSignOn(SSO) is a web passport system based on php,,4
+0,https://github.com/jmcdo29/fastify-jwt.git,A sample application to show Fastify plus JWT with Nest without Passport,,4
+0,https://github.com/DaniOtero/jwt-express-demo.git,Demo API REST using JSON Web Tokens with Express.js and Passport.js writen in TypeScript,,4
+0,https://github.com/colingoodale/mern-passport-boi.git,This is a template MERN app using passport-local for authentication,,4
+0,https://github.com/jaysingh/reset-password-node.git,"Login provider written on the top of Node.js, Express, Mongoose, Passport",,4
+0,https://github.com/nukturnal/us_passport_tracker.git,CommandLine tool to check the status of your VISA & Passport collection after approval,"visa,consulate,embassy,commandline,passport",4
+0,https://github.com/maykbrito/user-api-jwt-passport.git,A scaffold node express server. User API auth using jwt with passport,,4
+0,https://github.com/sehrsethi/ChemistryPassportProject.git,"The Chemistry Passport Program provides kits at local libraries. Parent/child teams check these out and get a stamp on their passport. Kids get prizes for the stamps on their passport. To help the program expand beyond the reach that Mount Holyoke Students could physically visit the libraries, it would be great to have some kits converted to online web apps. ",,4
+0,https://github.com/Blitz-Mobile-Apps/laravel-graphql-passport-auth-fileupload.git,"It is a GraphQL project with Laravel Lighthouse Package, Passport Authentication, Single file and Multi files Upload Mutations .",,4
+0,https://github.com/xkiller838/laravelApiRes-con-laravel-passport.git,una simple api rest con los metodos de registrar login y logout creados en laravel 5.7 y laravel passport,,4
+0,https://github.com/matthiku/shnatr.git,"(Schnatter) Messenger PWA based on Laravel 5.6 + Passport, with Laravel Echo, Pusher and Vue.js (Vuex + Vue-Router)",,4
+0,https://github.com/brijeshgzp05/nodejs-mysql.git,"This is a full project of login and registration system on nodejs,express,passport and database mysql",,4
+0,https://github.com/baijunyao/laravel-passport-encrypt-user-id-demo.git,laravel passport加密jwt格式的access_token中的sub(user_id)字段,,4
+0,https://github.com/fjb040911/node-oauth2-server.git,"基于 node.js, oauth2orize, passport, mongoose, connect-ensure-login 等实现的OAuth2服务",,4
+0,https://github.com/imdhruv99/Blog-OAuth2-Nodejs.git,"This is working blog website backend with OAuth2 functionlity implemented in Nodejs using express, passport and oauth2orize",,4
+0,https://github.com/eveasian88/The-Bike-Shepherd.git,"Heroku deployed full stack app built with Node.js, Express Web Framework, Passport.js, bCrypt.js, Handlebars, MySQL2 and Sequelize ORM. Mocha and Chai for QA Testing.",,4
+0,https://github.com/HIEofOne/Trustee-Immunity-Passport.git,"Trustee Immunity Passport is a fork of the HIE of One universal health record.  TIP demos decentralized governance and interop for symptom reporting, contact tracing, and similar apps.",,4
+0,https://github.com/onenationxyz/onecrystal.git,"One Crystal is a decentralized network of emancipated human being. A web of trust where individuals can create and store their own ID (One Nation Passport, ...)",,4
+0,https://github.com/JosephLivengood/ConquerJS.git,"Node/Express, MongoDb, ReactJS, Passport Authentication boilerplate for use in future projects for anyone wanting to jump right into making great content with scalability.","node,express,mongodb,boilerplate,modular,webpack,reactjs,passport-authentication-boilerplate,scalability",4
+0,https://github.com/m809745357/mini-program-laravel.git,使用 Laravel 中的 passport 组件来完成，小程序的注册和更新用户信息。,,4
+0,https://github.com/XhinoKurtaj/Chat-Laravel.git,"Full chat application builded with Laravel using real-time socket with laravel echo, interaction with third-part api pusher facebook login, full builded api with passport authentication and documented with swagger",,4
+0,https://github.com/authenticus/auth-backend-laravel.git,"The Laravel backend for the Authenticus auth boilerplate. Authenticus is the ULTIMATE lightweight Auth for your Laravel + SPA / SSR Application, having email authentication with secure JWT and Social oAuth using Laravel Passport+Socialite (for Facebook, Google, Linkedin, Twitter, etc).","laravel,passport,socialite,vue,vuejs,vuex,vue-router,vue-cli,nuxt,axios,php,js,javascript,auth,authentication,api,spa,jwt,token,boilerplate",4
+0,https://github.com/haggarwal90/contactform.git,"A website with a contact form and an administrative section, accessible only to logged in users, that will allow them to view the contact form submissions through a list. Technology : React, Redux, Express, Passport, JWT, MongoDB, Meteor",,4
+0,https://github.com/aadhar54/storybookz.git,"{""This is a crud application StoryBooks app which uses Node.js, Express, MongoDB, Passport with a Google OAuth strategy .This is inspired by Brad Traversy's project with the same name but whole project has been done from scratch .Functionality : User can create public and private posts( stories ) and can also add new stories , edit and delete old stories .User can also view public stories of other users but there is functionality for comments because who wants other's opinions.""}",,4
+0,https://github.com/Musfiqur01/PIIRedact.git,"Redacts the PII information. This package uses Stanford NER package to identify and scrub PII data. It redacts email,ssn,driver license,passport no. It aggressively removes any number with more than 4 consecutive digits. Use AddToWhitelist to whitelist any pattern.","redactor,stanford-ner,scrub,pii",4
+0,https://github.com/omeedth/NodeJS_Backend_Starter.git,"This is an example backend application that uses mongoose and mongodb and uses OAuth for Google using passport. Additionally it is built using the Express framework! This is for an easy start to a project, pick either plain Mongo or Mongoose",,4
+0,https://github.com/authenticus/auth-frontend-nuxt.git,"The Nuxt.js (vue.js framework) frontend for the authenticus auth boilerplate. Authenticus is the ULTIMATE lightweight Auth for your Laravel + SPA / SSR Application, having email authentication with secure JWT and Social oAuth using Laravel Passport+Socialite (for Facebook, Google, Linkedin, Twitter, etc).","laravel,passport,socialite,vue,vuejs,vuex,vue-router,vue-cli,nuxt,axios,php,js,javascript,auth,authentication,api,spa,jwt,token,boilerplate",4
+0,https://github.com/iamrraj/PHP_Online-Exam.git,"Php Online Exam Project and in this Project Student Can register For exam And Student will get random password  , And Admin Can Add Student Also And Provie To Student Username And Passport Which will generate AutoMatically And ThenAdmin Can Add Exam Based On Subject And And Class And Assign to sudent With Date Deadline And Time Based  And Also reatand date is student will fail The Student and admin can see Result and and print details","php,mysql,javascript,css",4
+0,https://github.com/hi-craft/mt-web.git,基于VUE.js的仿美团官网项目，项目中使用了VUE全家桶，包括vue-router，vuex，vue-cli，axios。部分数据采用NUXT.js组件进行ssr服务端渲染。服务端使用NODE.js+Koa搭建，数据存储采用MoogoDB，redis存储，项目中还实现了登录拦截，Passport登录安全校验，前端数据加密。,,4
+0,https://github.com/DevMountain/FacebookViewer.git,A mini-project to practice Passport/Node.js,,3
+0,https://github.com/platzi/escuelajs-reto-11.git,Reto 11 Noviembre 9: Curso de Autenticación con Passport.js,,3
+0,https://github.com/passport/passport-stripe.git,A Passport Strategy for Stripe Connect,,3
+0,https://github.com/Consensas/information-passport.git,Information / COVID Passport Validator,,3
+0,https://github.com/xiaoao/passport-baidu.git,Baidu authentication strategy for Passport.,,3
+0,https://github.com/octoblu/passport-square.git,Passport provider for square,,3
+0,https://github.com/fedwiki/wiki-security-passportjs.git,Passport based security plug-in for Federated Wiki.,,3
+0,https://github.com/ubersensei/passport-ajax-login.git,Ajax request for passport.js,,3
+0,https://github.com/sebabelmar/passport-dribbble.git,Dribbble authentication strategy for Passport.,,3
+0,https://github.com/Amsterdam/decode_passport_scanner.git,Decode Passport Scanner,,3
+0,https://github.com/ForbesLindesay/passport-raven.git,Raven (University of Cambridge) authentication module for passport,,3
+0,https://github.com/manashcse11/laravel-rest-passport.git,Laravel REST API using Passport for authentication,,3
+0,https://github.com/scottylogan/passport-stanford.git,Passport-SAML support for Stanford University,,3
+0,https://github.com/xyingsoft/laravel-nova.git,Laravel + REST API + Passport + Docker,,3
+0,https://github.com/nkzawa/socket.io-passport.git,Passport middleware for Socket.IO,,3
+0,https://github.com/UKHomeOffice/passports-prototype.git,Passport journeys,,3
+0,https://github.com/krachot/passport-deezer.git,Deezer authentication strategy for Passport and Node.js.,,3
+0,https://github.com/Uninett/passport-dataporten.git,Passport Strategy for Dataporten,,3
+0,https://github.com/kizzlebot/passport-lastfm.git,Last.fm authentication strategy for Passport and Node.js.,,3
+0,https://github.com/girliemac/passport-lyft.git,Lyft authentication strategy for Passport and Node.js.,,3
+0,https://github.com/metacommunications/passport-behance.git,Behance authentication strategy for Passport,,3
+0,https://github.com/Burke9077/passport-office365-oauth2.git,OAuth 2.0 authentication Passport strategy for Office 365 (azure).,,3
+0,https://github.com/jiaweichiu/node-react-passport.git,Demonstrate use of passport in Node + a small dose of React,"react,postgres,nodejs,expressjs,tape,axios,bootstrap,toastr,supertest,passportjs,passport,passport-local",3
+0,https://github.com/mikicoding/node-rest-auth-arangodb.git,"Creating API with JWT user authentication using Express, Passport JWT and ArangoDB",,3
+0,https://github.com/vaccine-passport/docs.git,Documentation for the Vaccine Passport project,,3
+0,https://github.com/omever/SSO-Passport-project.git,SSO Passport project for your site.,,3
+0,https://github.com/fresh5447/Fullstack-JavaScript-Starter-Template.git,"Out of the box ready to go configuration using React, Node, Webpack, Passport Authentication, and more...",,3
+0,https://github.com/srinivasKandukuri/MEAN-Angular-material.git,"Node js, Express js,  Mysql DB, Angular- Material design with Passport js Auth",,3
+0,https://github.com/rnixik/invalid-passports-go.git,A service to check validity of passports,,3
+0,https://github.com/rnixik/invalid-passports.git,A service to check validity of passports,,3
+0,https://github.com/ghaiklor/passport-vkontakte-token.git,Passport strategy for authenticating with Vkontakte via OAuth2 access tokens,,3
+0,https://github.com/viyancs/Chat-Nodejs.git,simple chat application using nodejs integration with passport,,3
+0,https://github.com/girliemac/passport-uber-v2.git,Uber authentication strategy for Passport and Node.js,,3
+0,https://github.com/angeal185/express-nunjucks-admin-template.git,nodejs express admin-template with nunjucks stylus mongodb and passport,,3
+0,https://github.com/mko/passport-appdotnet.git,App.net authentication strategy for Passport and Node.js,,3
+0,https://github.com/DimensionSoftware/authentic-server.git,A Composable Express.js App for Authentication using Passport,,3
+0,https://github.com/harbur/passport-digitalocean.git,DigitalOcean authentication strategy for Passport and Node.js.,,3
+0,https://github.com/KTH/kth-node-passport-cas.git,Node.js module with CAS strategy for Passport.,,3
+0,https://github.com/hackerb9/passportpix.git,Take a passport photo of proper dimensions using computer vision,,3
+0,https://github.com/limkhashing/ID-Document-Image-Classification.git,"Using Keras and OCR to classify Identity Card, Driving License and Passport","keras,tensorflow,classify-images,ocr-recognition",3
+0,https://github.com/lukepolo/laravel-passport-one-time-token.git,Gives the ability to create one time tokens easily with Laravel Passport,,3
+0,https://github.com/mfong/node-neo4j-passport-template.git,seed for a node (express 4) neo4j v2 project with passport,,3
+0,https://github.com/lhc/Hackerspace-Passport.git,Hackerspace Passport,,3
+0,https://github.com/florinpop17/passport-auth.git,Passport authentication,,3
+0,https://github.com/hkm007/Login-System.git,Passport.js,,3
+0,https://github.com/fabrix-app/spool-passport.git,Spool: Passport,"fabrix,spools,passport,passwords,authentication,nodejs,typescript,spool",3
+0,https://github.com/Harsh0/passport-go.git,passport library for golang inspired by passport (nodejs),,3
+0,https://github.com/sanoofp/nodejs-passportjs-authentication-boilerplate.git,"Nodejs and passport js authentication boilerplate. using express js, passport local authentication strategy, express-hanldebars for the views, mongoDB for the database.","nodejs,expressjs,mongodb,passportjs,boilerplate",3
+0,https://github.com/kenhkan/noflo-passport.git,Authentication using Passport.js,,3
+0,https://github.com/lee715/passport-dingding.git,passport for dingding,,3
+0,https://github.com/Restaurant-passport-2/BE.git,Backend for Restaurant Passport,,3
+0,https://github.com/desouzas/passport-ldap-strat.git,ldap strategy for passport,,3
+0,https://github.com/dereklakin/new-site.git,"A simple NodeJS + Express site all set up and ready to go with username+password authentication using Passport and Passport-Local, persistent local cookies using Passport-Remember-Me-Extended, persistent session using Express-Session and MongoDB via Mongoose and view templates using EJS.",,3
+0,https://github.com/heika/passportphoto.git,for making passport photo,,3
+0,https://github.com/jpcaparas/laravel-passport-demo.git,Laravel Passport demo.,"laravel,oauth2,api,php",3
+0,https://github.com/trquoccuong/Node-blog.git,Simple Express-sequelize-passport Blog ,,3
+0,https://github.com/AravindVasudev/Babble.git,"A Real Time Chat Application built using Node.js, Express, Handlebars, Mongoose, Socket.io, Passport, & express-mvc-h5bp","chat-application,chatroom,nodejs,mongodb,socketio,passport,handlebars,mongoose",3
+0,https://github.com/jgostylo/passport-metamask.git,Metamask strategy for Passport.js,,3
+0,https://github.com/exegesis-js/exegesis-passport.git,Passport-based authentiation for Exegesis.,,3
+0,https://github.com/christiannwamba/cl-auto-passport.git,Building an auto passport generator,,3
+0,https://github.com/cloudsdaleapp/passport-cloudsdale.git,NodeJS Passport Strategy for @cloudsdaleapp ,,3
+0,https://github.com/KShewengger/ngx-express-passport-setup.git," An Angular 5 & Node Express with SequelizeJS and PostgreSQL setup for Passport authentication via Google+, Facebook, Twitter and Local",,3
+0,https://github.com/SwiftBlue/simple-express-acl.git,"{""Dead simple Express ACL middleware that also works well with JSON Web Token's (JWT) and Passport's JWT strategy""}",,3
+0,https://github.com/sebastiendb/passport-bufferapp.git,Bufferapp authentication strategy for Passport,,3
+0,https://github.com/markreid/esp.git,express-socket.io-passport boilerplate,,3
+0,https://github.com/ZholobovSS/photostock.git,"Node.js, WebSocket, Passport.js",,3
+0,https://github.com/discrete/loopback-react-materialui-redux.git,"boilerplate backend(loopback,passport,mongodb) + frontend(react, material-ui, redux, redux-form, react-route)",,3
+0,https://github.com/maliksahil/expressjs-passport-azure-ad.git,An example project using ExpressJS and Passport Azure AD demonstrating authentication using the v2 endpoints,,3
+0,https://github.com/podemos-info/faker-spanish_document.git,Generates random spanish DNI and NIE numbers. Also generates generic random passport numbers.,,3
+0,https://github.com/passport/express-4.x-oauth1-userinfo-example.git,Express 4.x app using Passport for authentication via OAuth 1.0.,,3
+0,https://github.com/idonthavename/TCL_videoChat.git,laravel5.6+passport+oauth2.0+tx_cloud+qiniu_cloud+mongodb+redis实时音视频,,3
+0,https://github.com/SinghVikram97/EcommerceCart.git,Ecart with backend on NodeJs using Sequelize. Passport.js for authentication.,,3
+0,https://github.com/philstopford/PassPort_LScript.git,"{""Update of Jeremy Hardin's Passport plugin (LScript). No longer maintained.""}",,3
+0,https://github.com/TheFreck/AwesomeFolks.git,"This is a gift registry using NodeJS, Handlebars, MySQL and Passport",,3
+0,https://github.com/kristianmandrup/github-falcor.git,FalcorJS wrapper API for Github using Octokat.js and Koa application Server with Passport,,3
+0,https://github.com/muradaliyev/passport-eve.git,Eve Online SSO strategy for passport.js,,3
+0,https://github.com/ningsuhen/passport-linkedin-token.git,LinkedIn token authentication strategy for Passport.,,3
+0,https://github.com/tmyt/passport-fido2.git,WIP: Passport strategy for FIDO 2.0,passportjs,3
+0,https://github.com/Shutya/passport-test.git,Test project for presentation passport.js,,3
+0,https://github.com/cdiaz/nestjs-graphql-authguard.git,Test @nestjs/graphql and @nestjs/passport,,3
+0,https://github.com/BaselNsralla/react-form-validation.git, :passport_control: React simple form validation,"react,props,textarea,input,form,validation",3

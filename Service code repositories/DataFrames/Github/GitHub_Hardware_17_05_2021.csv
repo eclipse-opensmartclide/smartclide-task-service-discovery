@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/nolimits4web/swiper.git,Most modern mobile touch slider with hardware accelerated transitions,"swipe,swiper,gallery,touch,touch-events,mobile,slider,carousel",27292
+0,https://github.com/apache/arrow.git,"Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.",arrow,7907
+0,https://github.com/fulldecent/system-bus-radio.git,Transmits AM radio on computers without radio transmitting hardware.,"radio,equipment,software-defined-radio,exfiltration,security,transmission,transmitter,airgap,low-level,radiation,communication,communication-protocol,electrical-engineering,engineering,microprocessor",5662
+0,https://github.com/pervognsen/bitwise.git,Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.,,4785
+0,https://github.com/zephyrproject-rtos/zephyr.git,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.","rtos,iot,embedded,real-time,mcu,microcontroller",4515
+0,https://github.com/NervanaSystems/neon.git,Intel® Nervana™ reference deep learning framework committed to best performance on all hardware,"deep-learning,python,neon,mkl,performance,fast,neural-network",3852
+0,https://github.com/openhardwaremonitor/openhardwaremonitor.git,Open Hardware Monitor,,3707
+0,https://github.com/cirosantilli/x86-bare-metal-examples.git,Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置,"x86,x64,x86-64,bare-metal,baremetal,assembly",3343
+0,https://github.com/alevchuk/vim-clutch.git,A hardware pedal for improved text editing in Vim,,3161
+0,https://github.com/blynkkk/blynk-library.git,"Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.","arduino,esp8266,esp32,particle-photon,embedded,hardware,mbed,raspberry-pi,bluetooth,bluetooth-low-energy,serialport,ethernet-shield,gsm,ota,iot,internet-of-things,espressif,iot-platform,wifi",3115
+0,https://github.com/bijection/sistine.git,Turn a MacBook into a Touchscreen with $1 of Hardware,"opencv,touchscreen,sistine",3006
+0,https://github.com/2factorauth/twofactorauth.git,"List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.","twofactorauth,two-factor,security,authentication",2717
+0,https://github.com/pytorch/glow.git,Compiler for Neural Network hardware accelerators,,2469
+0,https://github.com/oshi/oshi.git,Native Operating System and Hardware Information,"operating-system,hardware-information,java,jna,serialnumbers,cpu-usage,memory-usage,disk-utilization,process-list,system-monitoring,processor,usb-devices,hacktoberfest",2448
+0,https://github.com/Kobzol/hardware-effects.git,Demonstration of various hardware effects.,,2388
+0,https://github.com/blynkkk/blynk-server.git,"Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes","java,iot,netty,blynk-server,internet-of-things,arduino,raspberry-pi,mqtt,esp8266,iot-platform,http,websockets,home-automation,ota,blynk,esp32,particle-photon,rest-api,ssl-certificate,hardware",2216
+0,https://github.com/openfans-community-offical/Debian-Pi-Aarch64.git,"This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: 4B,3B+,3B,3A+)","pi,raspberry,raspberry-pi-3,arm64,arm64v8,armv8,aarch64,pi-64,pi64,raspberrypi,raspberry-pi,raspberry-pi-3b,raspberry-pi-3b-plus,pi-4b,deepin,raspberry-pi-4,pi4,rpi-4b,pi-64bit,rpi64",2161
+0,https://github.com/xoreaxeaxeax/rosenbridge.git,Hardware backdoors in some x86 CPUs,,2126
+0,https://github.com/rogerclarkmelbourne/Arduino_STM32.git,"Arduino STM32. Hardware files to support STM32 boards, on Arduino IDE 1.8.x including LeafLabs Maple and other generic STM32F103 boards",,2084
+0,https://github.com/autorope/donkeycar.git,Open source hardware and software platform to build a small scale self driving car.,"self-driving-car,raspberry-pi,tensorflow,keras,python,cv2,vision,donkeycar,jetson-nano",2083
+0,https://github.com/facebook/Surround360.git,"{""Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.""}",,2081
+0,https://github.com/intel/haxm.git,Intel® Hardware Accelerated Execution Manager (Intel® HAXM),,2038
+0,https://github.com/apple/swift-corelibs-libdispatch.git,"The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware",,2035
+0,https://github.com/Tencent/Hardcoder.git,"Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.","android,mobile,wechat",1844
+0,https://github.com/chipsalliance/chisel3.git,Chisel 3: A Modern Hardware Design Language,"chisel,chisel3,scala,firrtl,rtl,chip-generator,verilog",1782
+0,https://github.com/google/periph.git,Go·Hardware·Lean,"golang,hardware,1-wire,apa102,beaglebone,bme280,chip,ds18b20,ds2482,gpio,i2c,odroid-c1,raspberry-pi,spi,ssd1306,tm1637,lepton,bmp180,bmp280",1646
+0,https://github.com/allegro/ralph.git,Ralph is the CMDB / Asset Management system for data center and back office hardware.,"dcim,django,python3,cmdb,data-center,backoffice,assets-management,inventory-management,inventory,hacktoberfest",1561
+0,https://github.com/nicinabox/superslides.git,"A fullscreen, hardware accelerated slider for jQuery.",,1534
+0,https://github.com/codyogden/killedbygoogle.git,"{""Part guillotine, part graveyard for Google's doomed apps, services, and hardware.""}","react,google,product,front-end,open-data,json",1478
+0,https://github.com/zeffy/wufuc.git,"Disables the ""Unsupported Hardware"" message in Windows Update, and allows you to continue installing updates on Windows 7 and 8.1 systems with Intel Kaby Lake, AMD Ryzen, or other unsupported processors.","windows-7,windows-8-1,windows-server,windows-updates,reverse-engineering,intel,amd,intel-kaby-lake,amd-ryzen",1468
+0,https://github.com/greatscottgadgets/ubertooth.git,"Software, firmware and hardware designs for Ubertooth",,1457
+0,https://github.com/fossasia/pslab-hardware.git,PSLab Hardware Design and Schematics https://pslab.io,,1445
+0,https://github.com/fossasia/susi_linux.git,Hardware for SUSI AI https://susi.ai,"virtual-assistant,artificial-intelligence,raspberry-pi,embedded",1435
+0,https://github.com/fossasia/neurolab-hardware.git,Neurolab Hardware,,1397
+0,https://github.com/fossasia/pslab-firmware.git,Firmware for PSLab Open Hardware Platform https://pslab.io,,1397
+0,https://github.com/fossasia/pslab-test-jig.git,PSLab Test Jig - Boards to test PSLab hardware https://pslab.io,,1373
+0,https://github.com/theseus-os/Theseus.git,"Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware in order to maximally leverage the power of language safety, and thus shift OS responsibilities (resource management) into the compiler.","operating-system,rust,kernel,research,theseus",1350
+0,https://github.com/ArcadeRenegade/SidebarDiagnostics.git,A simple sidebar for Windows desktop that displays hardware diagnostic information.,,1346
+0,https://github.com/phillipberndt/autorandr.git,Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr,"xrandr,x11,configuration-management",1340
+0,https://github.com/j4velin/Pedometer.git,Lightweight pedometer app for Android using the hardware step sensor,,1332
+0,https://github.com/fossasia/neurolab-firmware.git,Firmware for Neurolab Hardware,,1331
+0,https://github.com/signalwire/freeswitch.git,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.","freeswitch,signalwire,open-source,source-code,voip,webrtc,telephony,sip,iot",1308
+0,https://github.com/blinker-iot/blinker-library.git,"An IoT Solution,Blinker library for embedded hardware. Works with Arduino, ESP8266, ESP32.","arduino,esp8266,esp32,blinker,iot,embedded,hardware,wifi,websockets,ble,mqtt,wifiduino,nbiot",1289
+0,https://github.com/google/swiftshader.git,SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics.,,1237
+0,https://github.com/mit-han-lab/proxylessnas.git,[ICLR 2019] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware,"automl,specialization,hardware-aware,acceleration,on-device-ai,efficient-model",1233
+0,https://github.com/paparazzi/paparazzi.git,Paparazzi is a free and open-source hardware and software project for unmanned (air) vehicles. This is the main software repository.,"paparazzi,uav,uas,pprzlink,drones,autopilot,pprz",1200
+0,https://github.com/uraimo/SwiftyGPIO.git,A Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.,"spi-interface,gpio,iot,swift,pwm,lcd-display,uart,serialport,i2c,1-wire,led-strips,neopixel,spi,led,raspberry-pi",1197
+0,https://github.com/scanlime/fadecandy.git,Easy to use open source hardware to drive WS2811 LEDs with high-quality color,,1162
+0,https://github.com/rakyll/go-hardware.git,"A directory of hardware related libs, tools, and tutorials for Go","hardware,cgo,tutorials,embedded,go",1158
+0,https://github.com/le0pard/pgtune.git,Pgtune - tuning PostgreSQL config by your hardware,"javascript,pgtune,hardware,postgresql,pwa,rdbms,database,tunning,performance,performance-tuning",1127
+0,https://github.com/aws/aws-fpga.git,Official repository of the AWS EC2 FPGA Hardware and Software Development Kit,,1112
+0,https://github.com/fashiontec/openwash-hardware.git,OpenWash Hardware Schematics,,1099
+0,https://github.com/OLIMEX/OLINUXINO.git,"OLINUXINO is Open Source / Open Hardware, low cost from EUR 24 Linux Industrial grade Single Board Computer capable to operate -25+85C",,1095
+0,https://github.com/amperka/ino.git,Command line toolkit for working with Arduino hardware,,1088
+0,https://github.com/lmirosevic/GBDeviceInfo.git,"Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.",,1073
+0,https://github.com/enjoy-digital/litex.git,"Build your hardware, easily!",,1041
+0,https://github.com/WICG/webusb.git,Connecting hardware to the web.,,1025
+0,https://github.com/upekkha/AppleHardwareTest.git,Apple Hardware Test Download Links,,975
+0,https://github.com/jaypipes/ghw.git,Golang hardware discovery/inspection library,"hardware,discovery,golang-hardware-discovery,inspection-library,golang-library",964
+0,https://github.com/keroro824/HashingDeepLearning.git,"Codebase for ""SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems""",,956
+0,https://github.com/18601949127/DiDiCallCar.git,"这是我自己做的一个类似滴滴打车的Android出行项目，主要针对滴滴等出行平台一直饱受质疑的“人车不符”问题，以及当前越发火热的或计划和出海战略，给出行项目增加了下面几个功能：  1. RFID识别验证功能：在司机证件或者车内识别硬件嵌入RFID识别芯片，乘客使用手机读取到芯片信息，并且通过网络发送到出行平台数据库进行验证（我用JNI加了一个C语言的MD5加密算法对识别到的信息进行了加密）。如果不是合规的“人”或“车”，则不能完成订单并向平台或监管单位汇报当前位置。（为了方便读者测试，可以使用手机读取任何一个加密或非加密RFID芯片，比如银行卡、公交卡等，我在代码中的验证前阶段把芯片信息都换成我自己的司机信息，确保读者测试时可以收到服务器的回复） 2. 海外版功能：点击切换当前语言。 3. 司机证件号码识别功能：读取司机证件上的证件号码，也可以用来与出行平台数据库的接单司机信息进行。I complete this whole project on my own . Including Android application programming，web server ( Apache + PHP + MySQL),  and UI.  1．Map route planing。You can use mobile phone choose pick up & destination address，application provide address name hint and draw optimized route for user , then call car for you. 2．RFID authentication function：User can use application to scan driver license or other RFID hardware, then use NDK MD5 algorithm encrypt RFID number, and send it to Web Server Database, check with driver information and authenticate ID number , if ID number coherent with driver info , send back driver information to User and continue call car order . record user location  and alert if ID not coherent. 3．Driver License Number Recognition : Application can recognize driver license digit number ,and also can send to web server for authentication & feed back result to user. ","android,rfid,nfc,mobile,uber,didi,ocr,map,car,call,java",951
+0,https://github.com/NVIDIA/open-gpu-doc.git,Documentation of NVIDIA chip/hardware interfaces,,931
+0,https://github.com/baidu-research/DeepBench.git,Benchmarking Deep Learning operations on different hardware,,929
+0,https://github.com/vlang/ved.git,1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.,"v,text-editor",924
+0,https://github.com/openpnp/openpnp.git,Open Source SMT Pick and Place Hardware and Software,,877
+0,https://github.com/ksvc/KSYLive_iOS.git,金山云直播SDK [ iOS推流+播放 ]融合版 支持美颜滤镜(Beauty Filter)、美声(Beauty Voice)、软硬编(Software/Hardware Encoder) 、网络自适应(Network Auto Adapt)、混音(Audio Mixer)、混响(Reverb)、画中画(PIP),"livestream,recoder,ios-sdk,gpuimage,cocoapods,video-streaming,aac,rtmp,h264,h265,beautyfilter",869
+0,https://github.com/WasmEdge/WasmEdge.git,"WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for cloud, AI, and blockchain applications.","webassembly,wasm,artificial-intelligence,rust-lang,blockchain,ethereum,polkadot,qualcomm",855
+0,https://github.com/blinker-iot/blinker-py.git,"Blinker python library for hardware. Works with Raspberry Pi, Banan Pi, Linux devices","blinker,wifi,websocket,ble,mqtt,respberry-pi,linux,windows,embedded,hardware",854
+0,https://github.com/m-labs/migen.git,A Python toolbox for building complex digital hardware,,850
+0,https://github.com/GPUOpen-LibrariesAndSDKs/RadeonRays_SDK.git,Radeon Rays is ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU,,833
+0,https://github.com/wdas/reposado.git,Host Apple Software Updates on the hardware and OS of your choice.,,833
+0,https://github.com/GuitarML/SmartGuitarAmp.git,Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.,,832
+0,https://github.com/ksvc/KSYMediaPlayer_Android.git,金山云Android播放SDK（KSYUN Live Streaming player SDK），支持RTMP HTTP-FLV HLS 协议（supporting RTMP HTTP-FLV HLS protocol），直播延时2-3秒（Living delay 2 or 3 seconds），supporting jitter control，software&hardware decode,"player,player-recording,player-api",818
+0,https://github.com/shinyorg/shiny.git,"A Xamarin Framework for Backgrounding & Device Hardware Services (iOS, Android, UWP, Tizen, tvOS, watchOS, & more coming soon)","xamarin,ios,android,uwp,bluetoothle,ble,gps,geofences,sensors,notifications,tizen",816
+0,https://github.com/omriharel/deej.git,Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux,"arduino,diy,gaming,golang,go,audio,volume-control",804
+0,https://github.com/blinker-iot/blinker-js.git,"Blinker node.js library for hardware. Works with Raspberry Pi, Banana Pi, linux. ","typescript,linux,raspberry-pi,mqtt,iot",791
+0,https://github.com/blinker-iot/blinker-esp-idf.git,"An IoT Solution,Blinker library for embedded hardware. Works with ESP8266, ESP32 (idf)",,776
+0,https://github.com/iamdustan/react-hardware.git,A React renderer for Hardware.,,764
+0,https://github.com/LibreHardwareMonitor/LibreHardwareMonitor.git,"Libre Hardware Monitor, home of the fork of Open Hardware Monitor","hardware,monitoring,monitor,system,open-source,opensource,hardware-monitoring,system-monitor,system-monitoring,free,libre-hardware-monitor",755
+0,https://github.com/kdrag0n/safetynet-fix.git,A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.,"android,safetynet,magisk",742
+0,https://github.com/keirf/FlashFloppy.git,Floppy drive emulator for Gotek hardware,,734
+0,https://github.com/trebonian/visual6502.git,Transistor level 6502 Hardware Simulation in Javascript,,728
+0,https://github.com/ytai/ioio.git,"Software, firmware and hardware of the IOIO - I/O for Android",,724
+0,https://github.com/nodejitsu/haibu.git,"[Deprecated] a node.js application server - spawn your own node.js clouds, on your own hardware",,714
+0,https://github.com/sauce-archives/isign.git,"Code sign iOS applications, without proprietary Apple software or hardware",,706
+0,https://github.com/ksvc/KSYStreamer_Android.git,金山云Android采集推流SDK(Livestream SDK)，支持内置/自定义美颜(Beauty Filter)、美声(Beauty Voice)、软硬编(Software/Hardware Encoder) 、网络自适应(Network Auto Adapt)、混音(Voice Mixer)、混响(Reverb)、画中画(PIP)、连麦(RTC)、动态贴纸(Sticker)、大眼瘦脸(Bigger Eyes and Smaller Faces),"livestream,recorder,beautyfilter",703
+0,https://github.com/fishwjy/VideoCompressor.git,A High-performance video compressor for Android using Hardware decoding and encoding API(MediaCodec).,"video,compressor,mediacodec",686
+0,https://github.com/pixhawk/Hardware.git,PX4 Hardware designs,,666
+0,https://github.com/kzlekk/HWSensors.git,HWSensors is a software bundle that includes drivers and applications that allow you to access information from hardware sensors available on your Mac,,650
+0,https://github.com/NVIDIA/nvvl.git,A library that uses hardware acceleration to load sequences of video frames to facilitate machine learning training,,647
+0,https://github.com/rapid7/ssh-badkeys.git,A collection of static SSH keys (public and private) that have made their way into software and hardware products.,,642
+0,https://github.com/facebookarchive/opencompute.git,"A community of engineers whose mission is to design and enable the delivery of the most efficient server, storage and data center hardware designs for scalable computing.",,631
+0,https://github.com/eclipse/upm.git,UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through calls to MRAA APIs.,"actuators,sensor,iot,internet-of-things,c,cpp,java,python,nodejs,upm",623
+0,https://github.com/parasyte/pixels.git,A tiny hardware-accelerated pixel frame buffer. :crab:,"game-development,emulators,gpu,rust,pixel-perfect",622
+0,https://github.com/john-h-k/MathSharp.git,A vector and matrix library written in C# using hardware intrinsics,"hardware-intrinsics,vector,csharp,dotnet,dotnet-core,3d-graphics,matrix,vector-graphics",618
+0,https://github.com/wertarbyte/autorandr.git,Auto-detect the connect display hardware and load the appropiate X11 setup using xrandr or disper,,617
+0,https://github.com/ndeadly/MissionControl.git,Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.,,615
+0,https://github.com/ChillingVan/AndroidInstantVideo.git,"展现Android硬编码下的视频数据流动，可以对视频做处理，例如加滤镜，加水印等，做直播推流（用RTMP）。  Show the stream of Android video hardware encode, including video processing and video publishing by RTMP.","android,opengl,video,encoder",604
+0,https://github.com/axle-h/Retro.Net.git,Retro hardware libraries in .NET Core with an Angular front end,,601
+0,https://github.com/giltene/jHiccup.git,"jHiccup is a non-intrusive instrumentation tool that logs and records\nplatform ""hiccups"" - including the JVM stalls that often happen when\nJava applications are executed and/or any OS or hardware platform noise\nthat may cause the running application to not be continuously runnable.",,584
+0,https://github.com/guxiaonian/MobileInfo.git,"【Android】Hardware Information. For detailed network diagnosis, please refer to【HttpInfo】",mobinfo,580
+0,https://github.com/MCUdude/MiniCore.git,"Arduino hardware package for ATmega8, ATmega48, ATmega88, ATmega168, ATmega328 and ATmega328PB","arduino,avr,atmel,microcontroller,atmega168,atmega88,atmega48,atmega8,atmega328,atmega328pb",572
+0,https://github.com/los-cocos/cocos.git,"graphic library for games and multimedia, for python language on PC-like hardware",,571
+0,https://github.com/rust-embedded/embedded-hal.git,A Hardware Abstraction Layer (HAL) for embedded systems,,565
+0,https://github.com/lab-ml/labml.git,🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱,"machine-learning,deep-learning,pytorch,experiment,analytics,visualization,tensorboard,mobile,keras,tensorflow,tensorflow2,keras-tensorflow",559
+0,https://github.com/fruxo/turbobadger.git,Small footprint UI library for hardware accelerated games & applications,,556
+0,https://github.com/EttusResearch/uhd.git,The USRP™ Hardware Driver Repository,"uhd,usrp,sdr,driver,fpga",555
+0,https://github.com/ionescu007/SpecuCheck.git,"SpecuCheck is a Windows utility for checking the state of the software mitigations and hardware against  CVE-2017-5754 (Meltdown), CVE-2017-5715 (Spectre v2), CVE-2018-3260 (Foreshadow), and CVE-2018-3639 (Spectre v4)","meltdown,spectre,intelbug,kernel,windows,internals,cpu,kaiser,kpti",544
+0,https://github.com/kreeben/resin.git,Hardware-accelerated vector similarity search engine. Available as a HTTP service or as an embedded library.,"information-retrieval,search-engine,vector-space-model,machine-learning,nlu-engine,nlu,search,search-algorithms,resin,vector-space",532
+0,https://github.com/whily/yalo.git,Lisp OS running on bare metal x86-64 hardware (WIP),,527
+0,https://github.com/m-labs/nmigen.git,A refreshed Python toolbox for building complex digital hardware,"fpga,hdl,yosys,nmigen",526
+0,https://github.com/rasbt/watermark.git,"An IPython magic extension for printing date and time stamps, version numbers, and hardware information","python,magic-extension,jupyter,ipython",522
+0,https://github.com/Xilinx/Vitis-AI.git,"Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Alveo cards.",,516
+0,https://github.com/puppetlabs/razor-server.git,Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning,,511
+0,https://github.com/joelambert/morf.git,A Javascript work-around for hardware accelerated CSS3 transitions with custom easing functions,,504
+0,https://github.com/ccoenraets/PageSlider.git,A simple library providing hardware accelerated page transitions for Mobile Apps,,502
+0,https://github.com/RUB-SysSec/kAFL.git,Code for the USENIX 2017 paper: kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels,"fuzzing,kernel,intel-pt,processor-trace,kernel-fuzzing,intelpt",489
+0,https://github.com/cryptoadvance/specter-desktop.git,A desktop GUI for Bitcoin Core optimised to work with hardware wallets,,483
+0,https://github.com/PatrickHallek/automated-irrigation-system.git,This is the software of an open source automated irrigation system. The complete setup including hardware can be found in the README.,"automation,irrigation,watering,system,smart-home,iot,gardening,garden-automation,raspberry-pi,esp8266,electronics-engineering,electronics,irrigation-system,nodemcu,nodemcu-esp8266,arduino,docker,nodejs,react",466
+0,https://github.com/Redcrafter/verilog2factorio.git,This project will compile verilog (a hardware description language) into factorio blueprints.,"verilog,factorio,compiler",465
+0,https://github.com/google/jax-md.git,"Differentiable, Hardware Accelerated, Molecular Dynamics",,456
+0,https://github.com/asido/SystemMonitor.git,"iOS application providing you all information about your device - hardware, operating system, processor, memory, GPU, network interface, storage and battery, including OpenGL powered visual representation in real time. ",,456
+0,https://github.com/Lembed/Awesome-arduino.git,"A curated list of awesome Arduino hardwares, libraries and softwares with update script","arduino,arduino-library",453
+0,https://github.com/microsoft/DirectML.git,"DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm.",,452
+0,https://github.com/kclyu/rpi-webrtc-streamer.git,"{""This repo's objective is providing something like Web Cam server on the most popular Raspberry PI hardware. By integrating  [WebRTC](https://webrtc.org/native-code/) and Raspberry PI, we can stream the Raspberry camera feed to browser or native client which talks WebRTC.""}","webrtc,raspberry-camera,webrtc-streamer,raspberry-pi-camera,webrtc-video,raspberry-webrtc,raspberry-pi,h264,video-streaming",449
+0,https://github.com/koutto/hardware-hacking.git,Some stuff about Hardware Hacking,,440
+0,https://github.com/openbci-archive/OpenBCI_Python.git,The Python software library designed to work with OpenBCI hardware.,,438
+0,https://github.com/NixOS/nixos-hardware.git,A collection of NixOS modules covering hardware quirks.,,436
+0,https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance.git,"Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber","vulnerability,guidance,spectre,meltdown,nessus,audit,cve,cve-2017-5753,cve-2017-5754,cve-2017-5715,cve-2018-3639,cve-2018-3640,cve-2018-3665,cve-2018-3693",432
+0,https://github.com/firesim/firesim.git,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud","fpga,risc-v,simulation,datacenter,hardware,firesim,rocket-chip,boom,cloud",431
+0,https://github.com/natario1/Transcoder.git,"🎞 Hardware-accelerated video transcoding using Android MediaCodec APIs. Supports cropping, concatenation, clipping, audio processing, video speed and much more.","android,android-library,video-processing,video-compressor,egl,opengl,opengl-es,mediacodec,hardware-acceleration,mp4,h264,transcoding,crop-video,video-crop,video-speed,video-concatenation,audio-samples,video-editing,video-compression",431
+0,https://github.com/MCUdude/MightyCore.git,"Arduino hardware package for ATmega1284, ATmega644, ATmega324, ATmega324PB, ATmega164, ATmega32, ATmega16 and ATmega8535","arduino,atmel,avr,microcontroller,atmega1284,atmega644,atmega324,atmega164,atmega32,atmega16,atmega8535,atmega324pb",427
+0,https://github.com/sensepost/USaBUSe.git,Universal Serial aBUSe is a project to demonstrate the risks of hardware bypasses of software security by Rogan Dawes at SensePost.,,426
+0,https://github.com/Redherring32/OpenTendo.git,An Open-Source HardWare (OSHW) recreation of the original 1985 front-loading NES Motherboard,"nes,reverse-engineering,open-source,openhardware,motherboard,research",422
+0,https://github.com/nmigen/nmigen.git,A refreshed Python toolbox for building complex digital hardware,"fpga,hdl,yosys,nmigen",420
+0,https://github.com/romanz/trezor-agent.git,Hardware-based SSH/PGP agent,"python,ssh,gpg,agent,trezor,keepkey,ledger,crypto,hardware,pgp,gnupg",418
+0,https://github.com/webusb/arduino.git,WebUSB demos running on Arduino (and compatible) hardware.,,418
+0,https://github.com/sparkfun/OpenLog.git,Open Source Hardware Datalogger,"sparkfun-products,data-logging",410
+0,https://github.com/drom/awesome-hdl.git,Hardware Description Languages,"awesome,awesome-list,hardware-description-language,verilog,vhdl,hdl,hacktoberfest",409
+0,https://github.com/Photonsters/anycubic-photon-docs.git,This repo  aims to collect curate and compile information on anycubic photon hardware software and use,,401
+0,https://github.com/ayeks/SGX-hardware.git,This is a list of hardware which is supports Intel SGX - Software Guard Extensions. ,"intel,sgx,sgx-hardware",400
+0,https://github.com/xueb96/C_O_D_5th.git,"计算机组成与设计 硬件/软件接口 第5版 ; Patterson, Hennessy: Computer Organization and Design:The Hardware/Software Interface,5th Edition.",,390
+0,https://github.com/OLIMEX/DIY-LAPTOP.git,"{""Do It Yourself Open Source Hardware and Software Modular Hacker's Friendly Laptop""}",,386
+0,https://github.com/DroneBridge/DroneBridge.git,"DroneBridge is a system based on the WifiBroadcast approach. A bidirectional digital radio link between two endpoints is established using standard WiFi hardware and a custom protocol. DroneBridge is optimized for use in UAV applications and is a complete system. It is intended be a real alternative to other similar systems, such as DJI Lightbridge or OcuSync.","msp,telemetry,wifibroadcast,dronebridge,aerial-imagery,inav,arial-photography,drone,multiwii,quadcopter,multicopter,rc,lightbridge,mavlink,hdfpv,fpv,hd,ardupilot,long-range,qgroundcontrol",383
+0,https://github.com/dstamoulis/single-path-nas.git,Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours,,381
+0,https://github.com/RackHD/RackHD.git,RackHD™ provides hardware management and orchestration services,"rackhd,hardware-management,orchestration,dell-emc,serves,conduct",380
+0,https://github.com/imalimin/HardwareVideoCodec.git,"HardwareVideoCodec is an efficient video recording library for Android. Supports software and hardware encode. With it, you can record a video at any resolution, no need to care about camera resolution. Everything is so easy.","android,filter,recorder,rtmp-stream,hwvc",380
+0,https://github.com/IFL-CAMP/easy_handeye.git,"Automated, hardware-independent Hand-Eye Calibration","hand-eye-calibration,robot,camera,ros,hand-eye,calibration",379
+0,https://github.com/Tarsnap/scrypt.git,The scrypt key derivation function was originally developed for use in the Tarsnap online backup system and is designed to be far more secure against hardware brute-force attacks than alternative functions such as PBKDF2 or bcrypt.,,378
+0,https://github.com/rust-osdev/x86_64.git,Library to program x86_64 hardware.,,376
+0,https://github.com/WukLab/LegoOS.git,"Disseminated, Distributed OS for Hardware Resource Disaggregation. USENIX OSDI 2018 Best Paper.","disaggregation,datacenter,operating-system,rdma,whiskey",370
+0,https://github.com/particle-iot/core.git,"Hardware design files for the Spark Core, a tiny Wi-Fi development kit.",,367
+0,https://github.com/peterh/pyobd.git,Fixes to pyobd for modern hardware interfaces,,363
+0,https://github.com/peterhinch/micropython-async.git,Application of uasyncio to hardware interfaces. Tutorial and code.,"micropython,asyncio,embedded",363
+0,https://github.com/MCUdude/MicroCore.git,An light-weight Arduino hardware package for ATtiny13,"arduino,atmel,avr,boards-manager,attiny13,attiny13a",358
+0,https://github.com/pms67/HadesFCS.git,Complete flight control system designed from scratch. Hardware designed with KiCad.,,355
+0,https://github.com/alibaba/CicadaPlayer.git,"CicadaPlayer is the player core of AliPlayer, which support multiple platform Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is providing a player core which support multi platform, hardware accelerator, customizable and extensible features. Which support WideVine drm and LHLS.","mediaplayer,ffmpeg,widevine,lhls,webassembly,fairplay",354
+0,https://github.com/balenalabs/balena-wpe.git,"Fullscreen WebKit browser with hardware accelerated CSS, WebGL, and HTML5 video for the RaspberryPi 3.","raspberrypi,browser,html5-video,javascript,raspberry-pi,webgl,wpe,pitft,webkit,balena",353
+0,https://github.com/douglashill/KeyboardKit.git,A framework that makes it easy to add hardware keyboard control to iOS and Mac Catalyst apps.,,353
+0,https://github.com/PaulStoffregen/TimerOne.git,TimerOne Library with optimization and expanded hardware support,,349
+0,https://github.com/0xM3R/cgPwn.git,"A lightweight VM for hardware hacking, RE (fuzzing, symEx, exploiting etc) and wargaming tasks","cgpwn,vm,vagrant,ctf-tools,symbolic-execution",348
+0,https://github.com/theinvisible/openfortigui.git,"VPN-GUI to connect to Fortigate-Hardware, based on openfortivpn",,345
+0,https://github.com/facebookresearch/deepfloat.git,"An exploration of log domain ""alternative floating point"" for hardware ML/AI accelerators.",,343
+0,https://github.com/simonarvin/eyeloop.git,"EyeLoop is a Python 3-based eye-tracker tailored specifically to dynamic, closed-loop experiments on consumer-grade hardware.","neuroscience,eye-tracking,senses,video-oculography,neurology,psychology,visual",343
+0,https://github.com/philogb/v8-gl.git,A Toolkit for creating Desktop Hardware Accelerated Graphics with JS.,,340
+0,https://github.com/dsmrreader/dsmr-reader.git,"DSMR-protocol reader, telegram data storage and energy consumption visualizer. Can be used for reading the smart meter DSMR (Dutch Smart Meter Requirements) P1 port yourself at your home. You will need a cable and hardware that can run Linux software. Free for non-commercial use. A Docker implementation can be found here: https://github.com/xirixiz/dsmr-reader-docker","raspberry-pi,non-commercial,dsmr5,dsmr4,dsmrp1,dsmr-reader,telegram-data-storage,energy-consumption-visualizer",338
+0,https://github.com/fhunleth/elixir_ale.git,"Interact with hardware in Elixir - GPIOs, I2C and SPI","elixir,i2c,gpio,spi,nerves",337
+0,https://github.com/gnif/vendor-reset.git,Linux kernel vendor specific hardware reset module for sequences that are too complex/complicated to land in pci_quirks.c,,337
+0,https://github.com/auser/poolparty.git,"Run a self-healing, auto-scaled and monitored cloud simply, in the clouds, on nearly any hardware, such as EC2, eucalyptus and vmware",,329
+0,https://github.com/YITechnology/YIOpenAPI.git,YI Open API provides mobile SDKs and reference designs for software developers and hardware makers to build cool apps and products with YI 4K Action Cameras,,327
+0,https://github.com/carrotIndustries/pluto.git,Pluto is a programmable digital watch that re-uses case and LCD panel of the Casio® F-91W. (Hardware),,321
+0,https://github.com/KyberNetwork/KyberSwap.git,"Codebase for KyberSwap that helps users convert tokens instantly and directly from their own hardware wallets, metamask and so on. No setup, No deposit, no withdrawal needed. Try it out on https://kyberswap.com or join telegram for developers https://t.me/KyberDeveloper.","react,ethereum,ethereum-wallet,financial-services,dapps,javascript",319
+0,https://github.com/ReactiveCircus/android-emulator-runner.git,"A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.","android-emulators,github-actions,testing,ci",318
+0,https://github.com/jcchurch13/Mechaduino-Firmware.git,Hardware available here:,,316
+0,https://github.com/Kode/Kinc.git,Modern low level game library and hardware abstraction.,,316
+0,https://github.com/google/openhtf.git,The open-source hardware testing framework.,,315
+0,https://github.com/linklayer/cantact-hw.git,Hardware design files for the CANtact tool,,315
+0,https://github.com/AsahiLinux/docs.git,Hardware and software docs / wiki,,315
+0,https://github.com/mrmorphic/hwio.git,"Go library for hardware I/O control, in the programming style of Arduino",,314
+0,https://github.com/tommythorn/Reduceron.git,"{""FPGA Haskell machine with game changing performance. Reduceron is Matthew Naylor, Colin Runciman and Jason Reich's high performance FPGA softcore for running lazy functional programs, including hardware garbage collection.  Reduceron has been implemented on various FPGAs with clock frequency ranging from 60 to 150 MHz depending on the FPGA.  A high degree of parallelism allows Reduceron to implement graph evaluation very efficiently. This fork aims to continue development on this, with a view to practical applications. Comments, questions, etc are welcome.""}","haskell,fpga,verilog,compiler,lava",314
+0,https://github.com/emsec/hal.git,HAL – The Hardware Analyzer,"reverse-engineering,hardware,hal,security,integrated-circuits,fpga,netlist,embedded-security",308
+0,https://github.com/open-mpi/hwloc.git,Hardware locality (hwloc),"c,topology,hardware,locality,hacktoberfest",304
+0,https://github.com/janestreet/hardcaml.git,Hardcaml is an OCaml library for designing hardware.,,304
+0,https://github.com/ksvc/KSYLive_Android.git,"Android播放&推流融合版本[Android Play and LiveStreaming SDK] 直播延时2-3秒（Living delay 2 or 3 seconds），supporting jitter control，software&hardware decode, 支持内置/自定义美颜(Beauty Filter)、美声(Beauty Voice)、软硬编(Software/Hardware Encoder) 、网络自适应(Network Auto Adapt)、混音(Voice Mixer)、混响(Reverb)、画中画(PIP) 、连麦(RTC)、动态贴纸(Sticker)",,302
+0,https://github.com/linuxhw/hw-probe.git,"Probe for hardware, check operability and find drivers",,301
+0,https://github.com/jpsim/JPSVolumeButtonHandler.git,JPSVolumeButtonHandler provides an easy block interface to hardware volume buttons on iOS devices. Perfect for camera apps!,,296
+0,https://github.com/captain-amygdala/pistorm.git,68k Hardware Emulator ,"amiga,raspberry",293
+0,https://github.com/tkaitchuck/aHash.git,aHash is a non-cryptographic hashing algorithm that uses the AES hardware instruction,"rust,hash,hashing,aes",287
+0,https://github.com/PyHDI/Pyverilog.git,Python-based Hardware Design Processing Toolkit for Verilog HDL,"verilog-hdl,hardware,compiler,parser,dataflow-analyzer,control-flow-analyzer,code-generator,python",286
+0,https://github.com/cutiepi-io/cutiepi-board.git,Open source hardware design for the CutiePi tablet,,285
+0,https://github.com/Freetz/freetz.git,Freetz firmware extension/modification for the \u200bAVM FRITZ!Box series and devices with identical hardware,,285
+0,https://github.com/jcchurch13/Mechaduino-Hardware.git,Mechaduino hardware design files.     Project logs:,,283
+0,https://github.com/mit-fast/FlightGoggles.git,A framework for photorealistic hardware-in-the-loop agile flight simulation using Unity3D and ROS. Developed by MIT FAST Lab.,,283
+0,https://github.com/DragonJoker/Ashes.git,"Drop-in replacement for Vulkan shared library, for older hardware compatibility","cpp17,vulkan,opengl,direct3d11",279
+0,https://github.com/SAP-archive/cloud-platform-iot-starterkit.git,This repository provides information and code for working with SAP Cloud Platform Internet of Things. It enables users to get an end-to-end IoT solution with either real hardware or simulators up and running fast and start their own extensions and usage based on this.,"sample,sample-code,sap-cloud-platform,iot,scp-iot",278
+0,https://github.com/linkedin/LiTr.git,Lightweight hardware accelerated video/audio transcoder for Android.,,272
+0,https://github.com/ZackFreedman/Somatic.git,Open-hardware data glove,,271
+0,https://github.com/fabianschuiki/llhd.git,Low Level Hardware Description — A foundation for building hardware design tools.,,265
+0,https://github.com/stevenyao/iOSHardwareDecoder.git,iOS hardware decoder demo,,264
+0,https://github.com/matthiasgasser/IOKitBrowser.git,Hardware Browser for iOS,,264
+0,https://github.com/neophob/PixelController.git,"(LED) Matrix Control Software, supports various Hardware, Keywords: LED Matrix, OSC, Realtime, VJ, Arduino, Teensy, RPI",,262
+0,https://github.com/bitcoin-core/HWI.git,Bitcoin Hardware Wallet Interface,,261
+0,https://github.com/OpenWatch/H264-RTSP-Server-iOS.git,"Unofficial mirror of ""Hardware Video Encoding on iPhone — RTSP Server example""",,256
+0,https://github.com/lthiery/SPI-Py.git,Hardware SPI as a C Extension for Python,,253
+0,https://github.com/mit-han-lab/haq.git,"[CVPR 2019, Oral] HAQ: Hardware-Aware Automated Quantization with Mixed Precision","quantization,automl,mixed-precision,efficient-model",253
+0,https://github.com/fahrulazmi/UIDeviceHardware.git,"{""Category to check hardware version that's running iOS""}",,252
+0,https://github.com/zcalusic/sysinfo.git,Sysinfo is a Go library providing Linux OS / kernel / hardware system information.,"golang,sysinfo",252
+0,https://github.com/graycatlabs/PyBBIO.git,A Python library for Arduino-style hardware IO support on the Beaglebone,,249
+0,https://github.com/parallelbgls/Modbus.Net.git,A high extensible hardware communication platform using C#,"extensible,modbus,c-sharp,protocal,tcp,com,siemens,communication,opc,platform",247
+0,https://github.com/xboot/libonnx.git,"A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.","onnx,inference,c,embedded,baremetal,library,deep-learning,embedded-systems,portable,lightweight,dedeep-neural-networks,neural-network,machine-learning,hardware-acceleration,ai",247
+0,https://github.com/manishganvir/iOS-h264Hw-Toolbox.git,Simple iOS8 app which uses new iOS8 based hardware acceleration for H264 (Using videotoolbox),,244
+0,https://github.com/michel-pi/GameOverlay.Net.git,Draw hardware accelerated graphics using our Direct2D1 renderer and create transparent click-through windows.,"sharpdx,csharp,graphics,direct2d1-drawing-library,transparent-windows,direct2d1,overlay,overlay-window",244
+0,https://github.com/ehzhang/nunchuck.git,📲 multi-device hardware data synchronization for mobile browsers,"html5,accelerometer,phone",241
+0,https://github.com/paradajz/OpenDeck.git,Software and hardware platform for simpler building of MIDI controllers.,"midi-controller,midi,webmidi",240
+0,https://github.com/MauriceGit/Partikel_accelleration_on_GPU.git,"Particle accelleration with OpenGL 4.3, using the compute shader to calculate particle movement on graphics hardware.","particle-simulation,opengl,compute-shaders,particles,c,glsl",238
+0,https://github.com/smeighan/xLights.git,"xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers. ",,236
+0,https://github.com/kata-containers/agent.git,Kata Containers version 1.x agent (for version 2.x see https://github.com/kata-containers/kata-containers). Virtual Machine agent for hardware virtualized containers,,233
+0,https://github.com/PaulStoffregen/AltSoftSerial.git,Software emulated serial using hardware timers for improved compatibility,,228
+0,https://github.com/Lombiq/Hastlayer-SDK.git,Turning .NET assemblies into FPGA hardware for faster execution and lower power usage. See the Readme and https://hastlayer.com.,"fpga,lombiq,hardware,dotnet,performance",228
+0,https://github.com/PoCInnovation/Workshops.git,"Workshops organized to introduce students to security, AI, AR/VR, hardware and software","security,ai,arvr,hardware,software,workshops,prisma2,react,firebase,go,graphql,rest-api",227
+0,https://github.com/antmicro/jetson-nano-baseboard.git,"{""Antmicro's open hardware baseboard for the NVIDIA Jetson Nano and Jetson Xavier NX""}","nvidia,ai,open-hardware,open-source",224
+0,https://github.com/adafruit/Adafruit_Blinka.git,Add CircuitPython hardware API and libraries to MicroPython & CPython devices,,223
+0,https://github.com/biomurph/Mouse.git,Repository for Open Source Mouse Firmware and Hardware,"computermouse,opensource,hardware,open-source-hardware,computer-mouse,mouse,mousewheel,3d-printing,osh2018,arduino,arduino-leonardo,diy-mouse",222
+0,https://github.com/prusa3d/Original-Prusa-MINI.git,Original Prusa MINI 3D printer hardware,,221
+0,https://github.com/mit-han-lab/hardware-aware-transformers.git,[ACL 2020] HAT: Hardware-Aware Transformers for Efficient Natural Language Processing,"hardware-aware,transformer,specialization,efficient-model,natural-language-processing,machine-translation",221
+0,https://github.com/Coldcard/firmware.git,❄️ Firmware and simulator for Coldcard Hardware Wallet,"bitcoin,bitcoin-wallet,cryptocurrency,cryptography,security",217
+0,https://github.com/MCUdude/MegaCore.git,"Arduino hardware package for ATmega64, ATmega128, ATmega640, ATmega1280, ATmega1281, ATmega2560, ATmega2561, AT90CAN32, AT90CAN64 and AT90CAN128","arduino,avr,atmel,boards-manager,atmega64,atmega128,atmega640,atmega1280,atmega1281,atmega2560,atmega2561,at90can32,at90can64,at90can128",217
+0,https://github.com/nezticle/RaspberryPi-BuildRoot.git,"The objective of this project is to provide an SDK and root file system for the Raspberry Pi that is lightweight and takes full advantage of the hardware available. The resulting image produced is small distro known as Bsquask (linux).  The Bsquask SDK provides a GCC 4.6.3 toolchain for building armv6 binaries with the hardfloat ABI, as well as bootloaders, kernel image, rootfs, and development sysroot for the Raspberry Pi.",,215
+0,https://github.com/dragino/Lora.git,Hardware / Software source about Lora,,213
+0,https://github.com/openenergymonitor/emonpi.git,"Raspberry Pi Based Energy Monitor. Hardware, Firmware & related software for the PI.","emonpi,hardware-designs,raspberry-pi,energy-monitor,arduino,emoncms",210
+0,https://github.com/ThePhD/infoware.git,"C++ Library for pulling system and hardware information, without hitting the command line.",,210
+0,https://github.com/dwilches/Ardity.git,Assets for integrating Arduino and Unity (or Unity and any hardware that communicates over a COM port),,210
+0,https://github.com/lemire/fastmod.git,A C/C++ header file for fast 32-bit division remainders (and divisibility tests) on 64-bit hardware.,performance,208
+0,https://github.com/i5ik/discohash.git,:dancers: Discohash - A super fast and simple hash. 5GB/s serial (depending on hardware). Also in NodeJS,"cryptohash,hash,cryptography",208
+0,https://github.com/open-sdr/openwifi-hw.git,FPGA/hardware design of openwifi,"fpga,ofdm,wi-fi,802-11,zynq,linux,mac80211,csma,dma,verilog,hls,xilinx,analog-devices,openwifi,ad9361,sdr,software-defined-radio,ieee80211,vivado",206
+0,https://github.com/kamgurgul/cpu-info.git,CPU Info provides information about device hardware and software,,205
+0,https://github.com/martinpitt/umockdev.git,Mock hardware devices for creating unit tests and bug reporting,,203
+0,https://github.com/jaburns/NintendoSpy.git,"Live controller viewer for Nintendo consoles.  Includes viewer application for Windows, and Arduino sketch for hardware interface.",,201
+0,https://github.com/RC2014Z80/RC2014.git,Official RC2014 repository for hardware schematics / software and more!,,197
+0,https://github.com/islog/liblogicalaccess.git,"C++ RFID / NFC Library for Windows/Linux/Mac/Android. For PC/SC, NFC, ISO compliant and proprietary hardware",,197
+0,https://github.com/cobookman/HTML5.MicIO.git,WORK IN PROGRESS: HTML5 powered Hardware Communication Bus using a microphone and headphone port.,,195
+0,https://github.com/Zero-Tang/NoirVisor.git,Hardware-Accelerated Hypervisor solution for complex functions and purposes.,"hypervisor,amd-v,virtualization,vt-x,uefi",194
+0,https://github.com/codepo8/CSS3-Rainbow-Dividers.git,No longer must your rainbow dividers be images slowing down your computer! Make them hardware accelerated!,,194
+0,https://github.com/mcanet/knitic.git,The open hardware knitting machine (at the moment based in electronic Brother knitting machines),,193
+0,https://github.com/dividiti/ck-caffe.git,"Collective Knowledge workflow for Caffe to automate installation across diverse platforms and to collaboratively evaluate and optimize Caffe-based workloads across diverse hardware, software and data sets (compilers, libraries, tools, models, inputs):","collaborative-optimization,reproducible-experiments,customizable-workflows,portable-package-manager,caffe,windows,linux,android,json-api,dnn-as-a-service,opencl,cuda,collective-knowledge,performance-portability,accuracy,resources,costs,dnn-optimization",193
+0,https://github.com/mbad0la/Architect.git,Hardware Description and Emulation Library in JavaScript,,192
+0,https://github.com/pebri86/esplay-retro-emulation.git,"Retro Emulation Collection for ESPlay Hardware, an ESP32 based game console","sms,gb,gameboy,gbc,esp32,retro,console,emulator,gamegear,odroid-go,nes",191
+0,https://github.com/tigard-tools/tigard.git,An FTDI FT2232H-based multi-protocol tool for hardware hacking,,188
+0,https://github.com/GrapheneOS/Auditor.git,Hardware-based attestation / intrusion detection app for Android devices. It provides both local verification with another Android device via QR codes and optional scheduled server-based verification with support for alert emails. It uses hardware-backed keys and attestation support as the foundation and chains trust to the app for software checks.,"security,attestation,cryptography,verifiedboot,remote-attestation,hsm,android,grapheneos,strongbox,monitoring,integrity,authenticity,secure-boot,secureboot",188
+0,https://github.com/PyHDI/veriloggen.git,Veriloggen: A Mixed-Paradigm Hardware Construction Framework,"verilog-hdl,python,pyverilog,high-level-synthesis,hardware,hardware-construction-language,compiler",187
+0,https://github.com/monome/norns-shield.git,"minimal/tiny open-source/DIY shield for Raspberry Pi boards, providing hardware compatibility with the norns ecosystem.",,187
+0,https://github.com/OpenROV/openrov-hardware.git,Hardware for OpenROV. Include lasercut parts and other diagrams ,,183
+0,https://github.com/var-mar/circular_knitic.git,"Circular Knitic, an open hardware knitting machine",,183
+0,https://github.com/EttusResearch/fpga.git,The USRP™ Hardware Driver FPGA Repository,,182
+0,https://github.com/Ttl/sam_board.git,Hardware and software files for custom AT91SAM9N12 Linux board,,181
+0,https://github.com/particle-iot/photon.git,"{""Hardware design files for the Photon, Particle's Broadcom BCM43362 Wi-Fi development kit.""}",,181
+0,https://github.com/zhxnlai/ZLHistogramAudioPlot.git,"A hardware-accelerated audio visualization view using EZAudio, inspired by AudioCopy.",,181
+0,https://github.com/IBM/AccDNN.git,A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration.,,180
+0,https://github.com/cornell-brg/pymtl.git,Python-based hardware modeling framework,,179
+0,https://github.com/anselal/antminer-monitor.git,Cryptocurrency ASIC mining hardware monitor using a simple web interface,"antminer-monitor,bitmain,antminer,monitor,cryptocurrency,bitcoin,litecoin,dash,python,mining,mining-monitor,bitcoin-mining,asic,avalon,innosilicon,hacktoberfest",179
+0,https://github.com/bgbennyboy/USB-Disk-Ejector.git,"A program that allows you to quickly remove drives in Windows. It can eject USB disks, Firewire disks and memory cards. It is a quick, flexible, portable alternative to using Windows\' ""Safely Remove Hardware"" dialog. ","usb,usb-drive,eject-disks,card-reader,pascal,removable-drives,memory-card,pendrive,disk,portable",178
+0,https://github.com/tessel/hardware.git,[UNMAINTAINED] Hardware documentation for the Tessel 1,,174
+0,https://github.com/cryptoadvance/specter-diy.git,DIY airgapped hardware wallet that uses QR codes for communication with the host,,173
+0,https://github.com/profi200/open_agb_firm.git,open_agb_firm is a bare metal app for running GBA homebrew/games using the 3DS builtin GBA hardware.,"gba,3ds,3ds-homebrew",171
+0,https://github.com/usb-tools/ViewSB.git,open-source USB analyzer toolkit with support for a variety of capture hardware,,170
+0,https://github.com/iliasam/OpenLIDAR.git,Open Hardware scanning triangulation laser rangefinder,"laser,rangefinder,lidar,stm32,triangulation",169
+0,https://github.com/Kobzol/hardware-effects-gpu.git,Demonstration of various hardware effects on CUDA GPUs.,,169
+0,https://github.com/secworks/sha256.git,Hardware implementation of the SHA-256 cryptographic hash function,,168
+0,https://github.com/sectool/redteam-hardware-toolkit.git,🔺 Red Team Hardware Toolkit 🔺,"redteam,redteaming,redteam-hardware,redteam-hardware-tool,redteam-hardware-toolkit,hardware,hardware-hacking,hardware-hackers,hacker,pentester,pentesters,hackers,synack,bugbounty,hacking,hacking-tool,hacking-tools,hack,hacker-tool,hacker-tools",167
+0,https://github.com/solokeys/solo-hw.git,Hardware sources for Solo 1,,165
+0,https://github.com/mjwheatley/cordova-plugin-android-fingerprint-auth.git,A cordova plugin for fingerprint authentication using the hardware fingerprint scanner on devices running Android 6+,,165
+0,https://github.com/rnayabed/PCHWRM_Server.git,PC Hardware Resource Monitor for Raspberry Pi,"java,javafx,raspberrypi,lcd",164
+0,https://github.com/nickbabcock/OhmGraphite.git,Export Open Hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb,"graphite,openhardwaremonitor,grafana,hardware-sensors,gpu-monitoring,influxdb,prometheus,timescaledb",164
+0,https://github.com/SukkoPera/Raemixx500.git,Open Hardware Remake of the Commodore Amiga 500+ Mainboard,"commodore,amiga,amiga500,retrogaming,retrocomputing,retrocomputer,retro,board,mainboard,kicad,amiga-mainboards,schematics,openhardware,open-hardware,open-hardware-electronics",163
+0,https://github.com/botletics/Reflowduino.git,Arduino-compatible wireless reflow oven controller ecosystem of open-source hardware,"arduino-ide,arduino,arduino-platform,atmega32u4,diy,electronics,pcb,c-plus-plus,reflow-oven-controller",163
+0,https://github.com/crashfort/SourceDemoRender.git,"Multithreaded, hardware accelerated solution to create high quality movies for the Source engine.","source-engine,valve,steam",163
+0,https://github.com/hardenedlinux/cheap-pcb.git,Cheap PCB: Better understanding the current status of hardware supply chain,,163
+0,https://github.com/toymakerlabs/kenburns.git,"A Jquery gallery featuring CSS3 hardware accelerated pan-and-zoom, Ken Burns style transitions. ",,162
+0,https://github.com/NNgen/nngen.git,NNgen: A Fully-Customizable Hardware Synthesis Compiler for Deep Neural Network,"neural-network,high-level-synthesis,hardware,veriloggen,pyverilog,deep-learning,compiler,verilog-hdl,python,onnx",162
+0,https://github.com/bcattle/hardh264.git,A hardware h264 video encoder written in VHDL. Designed to be synthesized into an FPGA. Initial testing is using Xilinx tools and FPGAs but it is not specific to Xilinx.,,162
+0,https://github.com/pwittchen/ReactiveSensors.git,Android library monitoring device hardware sensors with RxJava,"android,hardware,sensors,rxjava,rxjava2,rxjava3,rxandroid",161
+0,https://github.com/notahat/midi_patchbay.git,"Hook up MIDI software and hardware and pass MIDI data between them, applying assorted filters on the way.",,161
+0,https://github.com/MetalPhreak/ESP8266_SPI_Driver.git,Driver code to interface with ESP8266 built-in hardware SPI functions. ,,160
+0,https://github.com/sifive/Kami.git,"Kami - a DSL for designing Hardware in Coq, and the associated semantics and theorems for proving its correctness. Kami is inspired by Bluespec. It is actually a complete rewrite of an older version from MIT",,159
+0,https://github.com/wipy/wipy.git,"The WiPy libraries, releases, hardware files and docs",,158
+0,https://github.com/pichenettes/shruthi-1.git,"Firmware and hardware description files for the Shruthi-1, an hybrid monosynth",,158
+0,https://github.com/maierfelix/dawn-ray-tracing.git,Hardware Ray tracing extension for Chromium Dawn / WebGPU,,157
+0,https://github.com/acidanthera/Shiki.git,Protected video playback support and hardware video acceleration on various hardware.,,156
+0,https://github.com/devicehive/esp8266-firmware.git,DeviceHive esp8266 firmware. Control hardware via clouds with DeviceHive!,"iot,devicehive,firmware,embedded,esp8266,sdk",156
+0,https://github.com/openmoko/openmoko-usb-oui.git,USB Product ID allocations for Free Software / Open Hardware,"oshw,usb-devices,usb,oui,ethernet,mac-address",155
+0,https://github.com/tjclement/esp-dimmer-hardware.git,Custom hardware designs for a super tiny $5 WiFi (RGB enabled) LED dimmer module based on the ESP8266,,155
+0,https://github.com/emilbjornson/massivemimobook.git,"Book PDF and simulation code for the monograph ""Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency"" by Emil Björnson, Jakob Hoydis and Luca Sanguinetti, published in Foundations and Trends in Signal Processing, 2017.",,155
+0,https://github.com/CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter.git,Hardware & Software documentation for the CircuitSetup Expandable 6 Channel ESP32 Energy Meter,,153
+0,https://github.com/zapta/simple_stepper_motor_analyzer.git,A DYI minimalist hardware stepper motor analyzer with graphical touch screen.,,153
+0,https://github.com/nuclearcat/cedarkey.git,$2 hardware SSH keys storage ,"ssh,ssh-key,stm32,rsa",150
+0,https://github.com/UnexpectedMaker/ReflowMaster.git,Reflow Master is an open source Toaster Oven reflow controller that includes both hardware and software.,,150
+0,https://github.com/natinusala/borealis.git,"A hardware accelerated, controller and TV oriented UI library for PC and Nintendo Switch (libnx).","nintendo-switch,gui,ui,library,cpp,cpp-library,glfw,opengl,homebrew,meson,hacktoberfest,controller,gamepad,tv,touch,nanovg,yoga-layout,cross-platform",150
+0,https://github.com/AvtechScientific/ASL.git,Advanced Simulation Library -  hardware accelerated multiphysics simulation platform.,"computational-fluid-dynamics,virtual-sensing,image-guided-surgery,computer-aided-engineering,crystallography,design-space-exploration,scientific-computing,gpgpu,high-performance-computing",149
+0,https://github.com/SaschaWillems/VulkanCapsViewer.git,Vulkan hardware capability viewer,vulkan,148
+0,https://github.com/openbci-archive/_DEPRECATED_OpenBCI-V2hardware.git,This repository contains the core OpenBCI hardware and software frameworks.,,148
+0,https://github.com/JulianKemmerer/PipelineC.git,A C-like hardware description language (HDL) adding HLS(high level synthesis)-like automatic pipelining as a language construct/compiler feature.,"fpga,hardware-description-language,vhdl,pipelines,c,python,hardware,hardware-description,high-level-synthesis,hls,fpga-programming,fpga-acceleration,fpga-accelerators,open-source-hardware",148
+0,https://github.com/masagrator/Status-Monitor-Overlay.git,Monitor many stats of Nintendo Switch hardware,,147
+0,https://github.com/hwcrypto/hwcrypto.js.git,Browser JavaScript library for working with hardware tokens,,145
+0,https://github.com/Qiskit/qiskit-ignis.git,"Ignis provides tools for quantum hardware verification, noise characterization, and error correction.",,145
+0,https://github.com/loxodes/vna.git,Under development open hardware microwave vector network analyzer,"network-analyzer,vna,rf,kicad,hardware,synthesizer",144
+0,https://github.com/linklayer/cantact-app.git,Desktop application for CANtact hardware interface,,143
+0,https://github.com/BlameTheNetwork/NetPi.git,NetPi Network Analyzer based on Raspberry Pi b+/2 hardware,,142
+0,https://github.com/intel/libyami.git,"Yet Another Media Infrastructure. it is core part of media codec with hardware acceleration, it is yummy to your video experience on Linux like platform.",,142
+0,https://github.com/containers/virtcontainers.git,A Go package for building hardware virtualized container runtimes,,141
+0,https://github.com/SymbiFlow/symbiflow-arch-defs.git,FOSS architecture definitions of FPGA hardware useful for doing PnR device generation.,"fpga,ice40,sphinx,documentation,verilog,hdl,xilinx-fpga,artix,kintex7,architecture-definitions,verilog-simulator,vpr,primitives,lattice,toolchain,synthesis,python,artix7,verilog-simulations,symbiflow",141
+0,https://github.com/monkeyswarm/MobMuPlat.git,MobMuPlat is an iOS & Android app to host PureData patches with custom visual interfaces and hardware access.,,141
+0,https://github.com/billhsu/MiniQ.git,Mini Quadcopter: Hardware design & Software algorithm,,140
+0,https://github.com/sowbug/weblight.git,"WebUSB LED. Hardware, software, and firmware.",,140
+0,https://github.com/djhohnstein/WireTap.git,".NET 4.0 Project to interact with video, audio and keyboard hardware.",,140
+0,https://github.com/NVlabs/matchlib.git,SystemC/C++ library of commonly-used hardware functions and components for HLS.,,138
+0,https://github.com/PickNikRobotics/ros_control_boilerplate.git,Provides a simple simulation interface and template for setting up a hardware interface for ros_control,,137
+0,https://github.com/felixwilhelm/xenpwn.git,Xenpwn is a toolkit for memory access tracing using hardware-assisted virtualization,,137
+0,https://github.com/elizabethsiegle/Bay_Area_tech_meetups.git,"{""iOS, Android, web, hardware, bots...you name it, there's a meetup for you!""}","meetup,meetups,meetup-talk,webdevelopment,sanfrancisco,silicon-valley,community,networking,developer-experience,relationships,devrel,apis,swift,bay-area,tech-meetups,top-meetups,lightning-talk,speaker,office,study-groups",137
+0,https://github.com/JChristensen/tinySPI.git,"Arduino hardware SPI library for ATtiny44/84, 45/85, 461/861, 2313/4313.","arduino-library,attiny,spi,arduino",136
+0,https://github.com/CloverHackyColor/HWMonitorSMC2.git,Application for monitoring hardware health in macOS,,135
+0,https://github.com/asantee/ethanon.git,"{""Free 2D game development tool focused on the recent video cards for hardware acceleration and shader effects. It may be used to develop any style of game, such as top-down view RPG's, side scrollers and shoot'em up games. The main goal of this engine is to provide high-quality lighting, shadow and particle effects with an easy to use visual interface and a simple and direct scripting system.""}",,135
+0,https://github.com/pymtl/pymtl3.git,"Pymtl 3 (Mamba), an open-source Python-based hardware generation, simulation, and verification framework","pymtl,hardware-generation,python,hdl,verilog,systemverilog,open-source-hardware,multi-level-modeling,cycle-level-modeling,rtl,open-source-eda",134
+0,https://github.com/tinypico/tinypico-hardware.git,Hardware design files for TinyPICO and Shields,,133
+0,https://github.com/aluzzardi/pam_usb.git,[UNMAINTAINED] Hardware authentication for Linux using ordinary USB Flash Drives. ,,133
+0,https://github.com/fabianschuiki/moore.git,A hardware compiler based on LLHD.,,133
+0,https://github.com/timvideos/HDMI2USB.git,HDMI2USB: Open video capture hardware + firmware,,133
+0,https://github.com/nsacyber/Control-Flow-Integrity.git,A proposed hardware-based method for stopping known memory corruption exploitation techniques. #nsacyber,"control-flow,control-flow-analysis,control-flow-integrity",133
+0,https://github.com/lyonel/lshw.git,lshw: HardWare LiSter for Linux,,131
+0,https://github.com/geolink/opentracker.git,OpenTracker - open source GPS/GLONASS hardware,"opentracker,arduino,opensource,gps,glonass,gps-tracker,arduino-ide,industrial-automation,industry-4",131
+0,https://github.com/Gekkio/gb-hardware.git,Game Boy -related custom hardware by gekkio,"gameboy,game-boy-hardware,hardware-designs,kicad,kicad-schematics",131
+0,https://github.com/rnayabed/PCHWRM_Client.git,PC Hardware Resource Monitor For Raspberry Pi,"javafx,java,openhardwaremonitor,raspberrypi",130
+0,https://github.com/QuantumBadger/Speedy2D.git,"Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API.",,130
+0,https://github.com/GregBowyer/ManagedRuntimeInitiative.git," The Managed Runtime Initiative is an open development and integration initiative launched by Azul Systems with the aim of improving the execution of managed runtimes (.e.g. Java, Ruby, .Net) by enhancing interfaces and functionality across vertical components of the systems stack (e.g. managed runtime, OS kernel, hypervisor and hardware layer)",,130
+0,https://github.com/Involt/Involt.git,Inject hardware interactions directly into HTML layout.,"arduino,html,css,prototype,hardware-interactions,jquery,javascript,framework,design,cordova,mobile,phonegap,prototyping,prototyping-html-layouts,prototyping-interactions,layout,hardware",129
+0,https://github.com/gitmachtl/scripts.git,"StakePool Operator Scripts. Learn how to create and manage your StakePool with these simple scripts. Hardware-Ledger Support, Offline-Mode and more...","cardano-node,cardano,cardano-cli,haskell,cardano-hw-cli,stakepool,multiwitness,stakepool-operator,mainnet,testnet,hardware-wallet,ledger,trezor,catalyst,catalyst-voting",129
+0,https://github.com/MatterHackers/MatterSlice.git,MatterSlice is a C# console application that generates GCode (hardware control) for 3D printing. It was originally ported from CuraEngine (another great open source 3D printing engine). It is the primary slicing engine for MatterSlice and under constant development.,,129
+0,https://github.com/paul-pias/Object-Detection-and-Distance-Measurement.git,Using yolov3 & yolov4 weights objects are being detected from live video frame along with the measurement of the object from the camera without the support of any extra hardware device.,"distance-measurement-using-camera,real-time-distance-measurement,object-distance-using-camera,object-detection-using-yolov3,real-time-object-detection,yolov3,video-object-detection,webcam-object-detection,yolov4",129
+0,https://github.com/htruong/hackable-consumer-hardware.git,List of hackable consumer hardware products,,128
+0,https://github.com/UCSBarchlab/PyRTL.git,"A collection of classes providing simple hardware specification, simulation, tracing, and testing suitable for teaching and research.  Simplicity, usability, clarity, and extendability rather than performance or optimization is the overarching goal.",,127
+0,https://github.com/Ultimaker/Ultimaker3.git,Ultimaker 3 hardware source files,,126
+0,https://github.com/Zhen-Dong/HAWQ.git,"Quantization library for PyTorch. Support low-precision and mixed-precision quantization, with hardware implementation through TVM.","quantization,tvm,model-compression,distillation,quantized-neural-networks,pytorch,hardware-aware,mixed-precision,efficient-neural-networks,8-bit,4-bit,tensorcore,hessian",126
+0,https://github.com/paparazzi/paparazzi-hardware.git,Paparazzi UAV hardware,,125
+0,https://github.com/DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample.git,This sample project demonstrates how to use FFmpeg for video frame parsing and to use MediaCodec for hardware decoding on DJI Products.,,125
+0,https://github.com/lspoplove/Deauther-Project.git,We open sourced the hardware part of deauther project,,123
+0,https://github.com/smarthomefans/z2m_partner.git,Hardware module for iobroker.zigbee,,122
+0,https://github.com/ps2/rileylink.git,Sub-1 GHz to BLE bridge hardware and firmware,,120
+0,https://github.com/nogasm/nogasm.git,Software and hardware for Arduino-based orgasm prediction / detection,,120
+0,https://github.com/google/php-crc32.git,"PHP CRC32 implementations (support all crc32 polynomials, and hardware acceleration)",,120
+0,https://github.com/e-radionicacom/Inkplate-6-hardware.git,Open Source Hardware (OSH) files for e-paper display Inkplate 6 ,,120
+0,https://github.com/GuitarML/SmartGuitarPedal.git,Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.,,120
+0,https://github.com/ujamjar/hardcaml.git,[Deprecated see github.com/janestreet/hardcaml] Register Transfer Level Hardware Design in OCaml,,120
+0,https://github.com/FeCastle/tiptop.git,"Tiptop is a performance monitoring tool for Linux.  It provides a dynamic real-time view of the tasks running in the system. tiptop is very similar to the top utility, but most of the information displayed comes from hardware counters.",,120
+0,https://github.com/bbcmicrobit/hardware.git,Hardware designs for the BBC micro:bit,,119
+0,https://github.com/scravy/node-macaddress.git,Get the MAC addresses (hardware addresses) of the hosts network interfaces.,,119
+0,https://github.com/meme/apple-tools.git,A collection of tools for working with Apple software/hardware,,119
+0,https://github.com/iDoka/awesome-canbus.git,":articulated_lorry: A curated list of awesome CAN bus tools, hardware and resources","can,can-bus,canbus,canfd,can-fd,logger,sniffer,slcan,socketcan,car-hacking,bus-monitoring,lawicel,elm327,obd2,canutils,automotive,embedded,j2534,stm32,arduino",119
+0,https://github.com/b3ll/Pseudo3DTouch.git,"{""Mimicking Apple's 3D touch on hardware that doesn't have it.""}",,119
+0,https://github.com/LedgerHQ/ledger-javacard.git,Ledger Unplugged - Java Card implementation of Ledger Bitcoin Hardware Wallet,,118
+0,https://github.com/cambridgehackers/connectal.git,Connectal is a framework for software-driven hardware development.,"bluespec,hardware,fpga,zynq,verilog",118
+0,https://github.com/GlenPickle/Chimera.git,Chimera Keyboard software and hardware,,118
+0,https://github.com/guyc/py-gaugette.git,Python library to support building hardware gadgets with the Raspberry Pi and BeagleBone Black,,118
+0,https://github.com/ben-marshall/awesome-open-hardware-verification.git,A List of Free and Open Source Hardware Verification Tools and Frameworks,"hardware,verification,vhdl,verilog,formal-verification,constrained-random-verification,python,awesome,awesome-list,coverage",118
+0,https://github.com/cdsteinkuehler/beaglebone-universal-io.git,Device tree overlay and support scripts for using most available hardware I/O on the BeagleBone without editing dts files or rebuilding the kernel,,118
+0,https://github.com/Legion-Engine/Legion-Engine.git,Legion-Engine is a data-oriented C++17 OpenGL game engine built to make optimal use of modern hardware.,"cpp17,opengl,game-development,game-engine,ecs,async,legion-engine,legion,game,scheduling,data-oriented,audio,physics,rendering,rendering-engine,physics-engine,3d-audio,3d-graphics,3d-engine",118
+0,https://github.com/cfallin/treeos.git,"Christmas tree demo on bare PC hardware (no OS), in 16-bit assembly",,118
+0,https://github.com/brettbuddin/lectric.git,"A touch-enabled, hardware-accelerated, slider. (unmaintained)",,117
+0,https://github.com/acl21/Mouse_Cursor_Control_Handsfree.git,"This HCI (Human-Computer Interaction) application in Python(3.6) will allow you to control your mouse cursor with your facial movements, works with just your regular webcam. Its hands-free, no wearable hardware or sensors needed.","human-computer-interaction,mouse-controller,facial-landmarks,deep-learning",117
+0,https://github.com/firefly/wallet.git,The Firefly hardware wallet source code,,116
+0,https://github.com/btcpayserver/BTCPayServer.Vault.git,Sign with software or hardware wallets,,116
+0,https://github.com/jim17/memtype.git,Memtype -- Open Hardware Password & Data Manager,,116
+0,https://github.com/luigifcruz/kimera.git,Low-latency hardware accelerated codec based video streaming utility.,"raspberry-pi,libav,nvenc,hevc,opengl,opengl-es",116
+0,https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD.git,Cosmos OpenSSD + Hardware and Software source distribution,,115
+0,https://github.com/charcole/Z3.git,A Verilog implementation of the Infocom Z-Machine V3. With BIOS and benchmarks. Verified in hardware.,,115
+0,https://github.com/trezor/trezor-hardware.git,:wrench: Hardware design of Trezor,"bitcoin,trezor,hardware,design",114
+0,https://github.com/kanzure/diyhpluswiki.git,"a wiki for do-it-yourself biohacking, open source hardware and transhuman tech",,114
+0,https://github.com/masc-ucsc/livehd.git,"Live Hardware Development (LiveHD), a productive infrastructure for Synthesis and Simulation","live,synthesis,fpga,asic,simulation,hdl,lgraph",114
+0,https://github.com/girst/sendHID-mirror-of-git.gir.st.git,"https://git.gir.st/sendHID.git - Seldomly Updated Mirror: A hardware password manager, built around a Paspberry Pi Zero and passwordstore.org",,114
+0,https://github.com/SukkoPera/OpenFlops.git,Open-Hardware Floppy Drive Simulator,"floppy,floppy-disks,floppy-drives,open-hardware,open-hardware-electronics,retrocomputing,retrogaming,amiga,amiga-hardware",113
+0,https://github.com/fiigii/PacketTracer.git,The SIMD-accelereted ray tracing in C# powered by Intel hardware intrinsic of .NET Core.,"simd,raytracer,avx,intrinsic,netcore",113
+0,https://github.com/egreenfield/M2D.git,hardware accelerated 2D engine built on Molehill for flash,,112
+0,https://github.com/makerbase-mks/MKS-SERVO42B.git,"{""MKS SERVO42B is 3d printer closed loop stepper motor NEMA17 MKS SERVO42 developed by Makerbase that prevents losing steps. CPU is STM32F103C8T6 ARM 32-bit Cortex™-M3 CPU Core,72 MHz. Magnetic encoder is Allegro's A1333LLETR-T Contactless 0° to 360° angle sensor IC ,12bit .This Project open source hardware and code,support platformio build and upload firmware...""}",,111
+0,https://github.com/alan4186/Hardware-CNN.git,A convolutional neural network implemented in hardware (verilog),,110
+0,https://github.com/SeydX/homebridge-fritz-platform.git,"AiO Homebridge dynamic platform plugin for AVM hardware like Fritz!Box, Fritz!Repeater etc.","fritzbox,homebridge,plugin,dynamic,repeater,dect,smarthome,han-fun,comet,fritz",110
+0,https://github.com/euphy/polargraph.git,Software and hardware designs for Polargraph robot drawing machines,,109
+0,https://github.com/mafredri/vyatta-wireguard-installer.git,"Install, upgrade or remove WireGuard (WireGuard/wireguard-vyatta-ubnt) on Ubiquiti hardware","wireguard,ubiquiti,ubiquiti-router,usg,edge-router,unifi,security-gateway",109
+0,https://github.com/pastasfuture/com.hauntedpsx.render-pipelines.psx.git,A scriptable render pipeline for emulating Playstation-1-style graphics on contemporary hardware.,,109
+0,https://github.com/Peppermint-Lab/Peppermint.git,"A ticket management system  which aims to have a nice UI with easy to use features, lightweight infrastructure & the ability to run on any hardware you want 🍵","self-hosted,docker,javascript,nodejs,full-stack,ticketing-system,ticket-management,mern-stack,mongodb,react,customer-relationship-management,crm,peppermint",109
+0,https://github.com/openSUSE/hwinfo.git,Hardware information tool,,108
+0,https://github.com/tpm2-software/tpm2-pkcs11.git,A PKCS#11 interface for TPM2 hardware,"tpm,tpm2,signing,crypto,cryptography,pkcs11,security",108
+0,https://github.com/adplug/adplug.git,Hardware-independent AdLib sound player library,,108
+0,https://github.com/axenox/onscan.js.git,On-scan events for hardware barcode scanners in vanilla JS,,108
+0,https://github.com/VoronDesign/Voron-Hardware.git,Cool Hardware designed by the Voron Design group,,108
+0,https://github.com/ftramer/slalom.git,"Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware",,108
+0,https://github.com/udacity/camera-mount.git,A mount to support a lens and camera body that can be mounted using standard GoPro hardware,,108
+0,https://github.com/ALSchwalm/pISO.git,Hardware and software source for the pISO,"usb,kickstarter,flash-drive",107
+0,https://github.com/groupgets/kimchi-micro.git,An open hardware embedded SBC for the NXP i.MX8M Mini application processor,,107
+0,https://github.com/zueblin/Polaron.git,A DIY drum machine for the teensy microcontroller (hardware / software) ,"teensy,teensyduino,audio,synthesizer,drummachine,diy,hardware,polaron,arduino,sequencer",107
+0,https://github.com/zsszatmari/MagicKeys.git,"This is a preference pane for Mac OS X 10.7+ that enables hardware media keys (prev, play, next) to be routed to 3rd-party sandboxed applications in a nice way, without unwanted side effects. This has been specifically created with G-Ear, a native Google Music player for Mac in mind, but any suggestion or patch is welcome!",,107
+0,https://github.com/Decawave/dwm1001-examples.git,Simple C examples for Decawave DWM1001 hardware,"decawave,rtls,indoor,localization,dwm1001,dw1000,embedded-studio",106
+0,https://github.com/cryptodev-linux/cryptodev-linux.git,Cryptodev-linux is a Linux-kernel device that allows user-space access to hardware cryptographic accelerators.,,106
+0,https://github.com/CherryPill/system_info.git,Hardware information tool for Windows,"cpp,windowsapi,windows,wmi,x64,smbios,speccy",105
+0,https://github.com/Lotlab/Lot60-BLE-Keyboard.git,A 60% bluetooth keyboard (Hardware),"keyboard,hardware,nrf51822,nrf52810,ch551,ble,dual-mode",105
+0,https://github.com/MCUdude/MegaCoreX.git,"An Arduino hardware package for ATmega4809, ATmega4808, ATmega3209, ATmega3208, ATmega1609, ATmega1608, ATmega809 and ATmega808",,105
+0,https://github.com/EnviroDIY/Arduino-SDI-12.git,"An Arduino library for SDI-12 communication with a wide variety of environmental sensors. This library provides a general software solution, without requiring any additional hardware.","arduino-library,environmental-sensors,environmental-monitoring",105
+0,https://github.com/hydrabus/hydrabus.git,"HydraBus an open source multi-tool hardware for researcher, hackers, students, embedded software developers or anyone interested in debugging/hacking/developing/penetration testing","hydrabus-board,eagle,firmware,micropython,dfu,hardware,kicad-breakout-board,nfc-reader,nandflash,flash,hydrafw,hydrabus",105
+0,https://github.com/zhen-zen/YogaSMC.git,ACPI driver for OEM hardware.,,104
+0,https://github.com/CloverHackyColor/FakeSMC3_with_plugins.git,Driver for emulation SMC device with hardware sensors support,,103
+0,https://github.com/espressif/esp32-doom.git,A proof-of-concept port of PrBoom to the ESP32. Needs psram hardware.,,103
+0,https://github.com/Open-Smartwatch/open-smartwatch-light.git,"Hardware design files. Light version (no GPS, no uSD) of the open-smartwatch",kicad,103
+0,https://github.com/leaflabs/maple.git,LeafLabs Maple Hardware Design Files,,102
+0,https://github.com/WifWaf/MH-Z19.git,"For Arduino Boards (&ESP32). Additional Examples/Commands., Hardware/Software Serial","mh-z19,mh-z19b,mhz19b,mhz19,esp32,arduino,sensor,analog,uart",102
+0,https://github.com/vietanhdev/open-adas.git,"An open source advanced driver assistance system (ADAS) that uses Jetson Nano as the hardware. Features: Traffic sign detection, Forward collision warning, Lane departure warning.","adas,object-detection,semantic-segmentation,jetson-nano,lane-lines-detection",102
+0,https://github.com/testaco/whitebox.git,A cross between a smartphone and a software radio with an open hardware & software license.  Built to set the Internet FREE from its bondage to wires.,,102
+0,https://github.com/nucular/raspi-keygen.git,Reverse-engineering efforts to generate license keys for Raspberry Pi hardware video decoding,,101
+0,https://github.com/Open-Smartwatch/open-smartwatch-gps.git,Hardware design files for the GPS version of the open-smartwatch,"kicad,gerber-files",101
+0,https://github.com/iqlusioninc/armistice.git,Hardware private key storage for next-generation cryptography (e.g. BLS) supporting USB armory MkII devices,,101
+0,https://github.com/manna-harbour/crkbd.git,Crkbd Keymap by Manna Harbour (Extras).  This keymap includes crkbd-specific hardware feature support.  This repository provides additional content outside QMK.,,101
+0,https://github.com/open-bldc/open-bldc-hardware.git,OpenSource Brushless Drive Controller Hardware,,100
+0,https://github.com/JeffDeCola/my-cheat-sheets.git,A place to keep all my cheat sheets for the complete development of ASIC/FPGA hardware or a software app/service.,"cheatsheet,cheat-sheets,vagrant,visual-studio-code,oauth2,microservices,postgresql,concourse,docker,packer,terraform,consul,kubernetes,marathon,mesos,grafana,google-cloud-platform,amazon-web-services,microsoft-azure,iaas",100
+0,https://github.com/tech-quantum/Amplifier.NET.git,"Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code. Write your function in .NET and Amplifier will take care of running it on your favorite hardware.","opencl,cuda-kernels,opencl-kernels,compiler,gpgpu,gpgpu-computing,gpgpu-sim,simd",100
+0,https://github.com/electro-smith/libDaisy.git,Hardware Library for the Daisy Audio Platform,"daisy,stm32,hardware,embedded,sound,audio,midi",99
+0,https://github.com/kelu124/un0rick.git,smallish ice40 / raspberrypi ultrasound hardware,"fpga,hardware,spi,raspberry-pi,lattice,hx4k,ftdi,ultrasound,ndt,imaging,pulseecho",99
+0,https://github.com/bareboat-necessities/my-bareboat.git,Opensource hardware and software solutions for sailing and sailboats,"sailing,opensource-hardware,marine,bareboat,boat,navigation,opencpn,raspberry,pi,chartplotter,charts,cockpit,sdr,nmea,gps,ais,wifi",99
+0,https://github.com/franckmarini/KnxDevice.git,Allow to turn your Arduino into a self-made KNX device using the hardware TPUART interface,,99
+0,https://github.com/digitalinteraction/openmovement.git,"Open Movement devices are miniature, embeddable, open source sensors developed at Newcastle University, UK. The source code for the firmware and software is available under a BSD 2-clause license, and the hardware (PCB designs, layouts and schematics), enclosure designs and documentation are available under a Creative Commons 3.0 BY Attribution License.",,99
+0,https://github.com/ciaa/Hardware.git,Hardware de la CIAA,,98
+0,https://github.com/MrYsLab/s2a_fm.git,A Scratch Hardware Extension For Arduino,,98
+0,https://github.com/Telecominfraproject/OpenCellular.git,"OpenCellular (OC) is open source access platform with main focus on rural connectivity. OC is an eco-system of open-source project(s) focusing on hardware, software, testing automation, manufacturing and building tools for ease of deployments and operations.",,98
+0,https://github.com/Wunkolo/qreverse.git,A small study in hardware accelerated AoS reversal,"simd,optimization",97
+0,https://github.com/mit-plv/kami.git,A Platform for High-Level Parametric Hardware Specification and its Modular Verification,"coq,hardware-verification,bluespec,proof-assistant,hardware-description-language",97
+0,https://github.com/PikeDev/Go2D.git,"GoLang 2D Game Library based on SDL 1.3. This can be used to easily write games using Go (www.golang.org) using SDL 1.3 for hardware-accelerated rendering (OpenGL or DirectX9). This will also be the core engine for the MMORPG ""Pokemon Universe""  (https://code.google.com/p/pokemon-universe)",,97
+0,https://github.com/Freescale/meta-freescale.git,Layer containing NXP hardware support metadata,"nxp,yocto-bsp,openembedded-layer,imx,qoriq,arm,ppc",96
+0,https://github.com/jingwood/d2dlib.git,"A .NET library for hardware-accelerated, high performance, immediate mode rendering via Direct2D.","direct2d,dotnet,library,hardward,acceleration,drawing,rendering,gpu,performance,immediate,draw,bitmap,direct2d-api,memory-bitmap,graphics-context,direct2d-bitmap",96
+0,https://github.com/meisenzahl/elementary-os-unofficial.git,This repository is a playground to port elementary OS to new hardware platforms,,96
+0,https://github.com/3drobotics/Pixhawk_OS_Hardware.git,Design files for the open hardware designs used by 3DR,,95
+0,https://github.com/pebri86/esplay_micro_hardware.git,"Micro version of esplay hardware, ESP32 based gaming console","esp32,wrover,tft,ili9341,esplay,odroid-go,game,console,development",95
+0,https://github.com/pytorch/kineto.git,A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters. ,,95
+0,https://github.com/ruuvi/ruuvitag_hw.git,RuuviTag hardware projects,,94
+0,https://github.com/profesorfalken/jSensors.git,Monitorize all the hardware sensors of your PC using Java,,94
+0,https://github.com/deep-fry/mayo.git,Mayo: Auto-generation of hardware-friendly deep neural networks. Dynamic Channel Pruning: Feature Boosting and Suppression.,"deep-learning,machine-learning,hardware-acceleration,model-compression,channel-pruning",94
+0,https://github.com/brendanalford/zx-diagnostics.git,Firmware to allow functional testing of ZX Spectrum hardware and related clones. See the wiki for full details.,,94
+0,https://github.com/spec-chum/Amiga-Scoopex-C.git,"{""An on-going conversion of Scoopex's incredible Amiga Hardware Programming Series on YouTube into C""}",,94
+0,https://github.com/ipa320/cob_driver.git,"The cob_driver stack includes packages that provide access to the Care-O-bot hardware over ROS messages and services. E.g. for mobile base, arm, camera_sensors, scanners, etc...",,94
+0,https://github.com/jamhamster/TZX-Cassette-Mod.git,A guide for putting TZXDuino/MaxDuino/Arduitape hardware into a Cassette Tape,,93
+0,https://github.com/astralis3d/HLSLexplorer.git,See how hardware understands your HLSL,"direct3d,hlsl,shaders,d3d11,d3d12,asm,shader,graphics",92
+0,https://github.com/sinobitorg/hardware.git,Hardware designs for the sino:bit,,92
+0,https://github.com/lulinchen/cnn_open.git,"A hardware implementation of CNN,  written by Verilog and synthesized  on FPGA","cnn,lenet,rtl,verilog,fpga",92
+0,https://github.com/brunohorta82/BH_OnOfre.git,"O projeto BH OnOfre, é uma solução IoT baseada em ESP8266 com o objetivo de tornar a automação domiciliar muito mais simples, de forma aberta e sem restrições. Todo o código fonte é aberto bem como Hardware.",,92
+0,https://github.com/open-power/snap.git,CAPI SNAP Framework Hardware and Software,,91
+0,https://github.com/redaxmedia/chroma-feedback.git,Turn your RGB powered hardware into an build indicator for continuous integration,"continuous-integration,build-status",91
+0,https://github.com/littlewire/Little-Wire.git,Little Wire is multi-featured USB controlled open source hardware tool packed in a minimal form factor designed by ihsan Kehribar.,,91
+0,https://github.com/Spaceman/SpaceboardsHardware.git,Hardware that has been designed by @Spaceman,"keyboard,open-source,kicad",89
+0,https://github.com/PopcornComputer/PocketPC-Hardware.git,Hardware Design Files for Pocket P.C. by Popcorn Computer,,89
+0,https://github.com/Wyliodrin/WyliodrinSTUDIO.git,Wyliodrin STUDIO is a Chrome based IDE for software and hardware development in IoT and Embedded Linux,"iot,ide,raspberry-pi,arduino,raspberrypi,python,arduino-yun,firmware",89
+0,https://github.com/jmontineri/OpeNITHM.git,Open-Source hardware Seaurchin/Qnithm/Laverita controller,,88
+0,https://github.com/CentecNetworks/Lantern.git,Centec open source OpenFlow hardware implementation project (Lantern ),,88
+0,https://github.com/MuntashirAkon/DPCIManager.git,Simple OS X app for viewing PCI hardware info,"pci,lspci,dspci,dpcimanager,pci-id",88
+0,https://github.com/j0ono0/pinout.git,An open source Python package that generates hardware pinout diagrams as SVG images.,"python,svg,electronics,hardware,diagram",88
+0,https://github.com/eyaler/avatars4all.git,"Live real-time avatars from your webcam in the browser. No dedicated hardware or software installation needed. A pure Google Colab wrapper for live First-order-motion-model, aka Avatarify in the browser. And other Colabs providing an accessible interface for using FOMM, Wav2Lip and Liquid-warping-GAN with your own media and a rich GUI.","google-colab,webcam,avatarify,deep-fake",88
+0,https://github.com/neogeodev/NeoGeoFPGA-sim.git,Simulation only cartridge NeoGeo hardware definition,"neogeo,fpga,verilog,logic,snk,arcade,mvs,chip,simulation,neo-geo",87
+0,https://github.com/thewtex/docker-opengl-nvidia.git,Docker image for running X GUI apps with OpenGL hardware acceleration via the nvidia driver.,,87
+0,https://github.com/lawmurray/LibBi.git,"Bayesian state-space modelling on high-performance hardware, including multicore, GPUs and distributed clusters.",,87
+0,https://github.com/natario1/GIFCompressor.git,"An Android tool to compresses your GIFs into lightweight MP4 video using fast, hardware-accelerated encoders. Supports cropping, rotation, GIF concatenation and much more.","android,gif,gif-decoder,gif-creator,gif-maker,gif-recorder,mediacodec,mp4,mp4-video,compression,gif-compressor,opengl,opengl-es",87
+0,https://github.com/shapeoko/ShapeOko.git,Open Hardware desktop CNC machine.,,86
+0,https://github.com/jpiat/hard-cv.git,A repository of IPs for hardware computer vision (FPGA),,86
+0,https://github.com/luoxubin/BlueTooth4.0.git,A Demo show how to control a hardware by iPhone use Bluetooth4.0,,86
+0,https://github.com/I-SYST/EHAL.git,Embedded Hardware Abstraction Library,"c,c-plus-plus,embedded,arm,osx,windows,sensortag,iot,mcu,bluetooth-low-energy,usb,sensor,imu-driver,linux",85
+0,https://github.com/duo-labs/android-webauthn-authenticator.git,A WebAuthn Authenticator for Android leveraging hardware-backed key storage and biometric user verification.,"android,android-library,webauthn,webauthn-library,android-security,fido2",85
+0,https://github.com/azonenberg/starshipraider.git,Open hardware test equipment,,84
+0,https://github.com/ninjablocks/hardware.git,Hardware Designs for the Ninja Block,,84
+0,https://github.com/blacksphere/blackmagic-hardware.git,Hardware design files for the Black Magic Probe,,84
+0,https://github.com/ottoragam/SimplePnP.git,Your personal open-hardware PCB assembly machine,,84
+0,https://github.com/toolboc/Intelligent-Video-Analytics-with-NVIDIA-Jetson-and-Microsoft-Azure.git,A repository demonstrating an end-to-end architecture for Intelligent Video Analytics using NVIDIA hardware with Microsoft Azure,,84
+0,https://github.com/mvallim/live-custom-ubuntu-from-scratch.git,This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.,"linux,live-cd,scratch,bootstrap,bios,uefi,ubuntu,focal,bionic",84
+0,https://github.com/girst/hardpass-passwordmanager-mirror-of-git.gir.st.git,"https://git.gir.st/hardpass.git - Seldomly Updated Mirror: Hardpass is a Raspberry Pi Zero based hardware password manager, using passwordstore.org. ",,84
+0,https://github.com/openenergymonitor/Hardware.git,OpenEnergyMonitor Open Source Hardware,,83
+0,https://github.com/jpraus/arduino-opentherm.git,Arduino library and hardware shield to send and receive data from Opentherm devices,,83
+0,https://github.com/QuixomTech/DeviceInfo.git,DevInfo is a detailed specification of your phone which includes all the possible hardware configurations and other required details about your own device.,,83
+0,https://github.com/cforler/Ada-Crypto-Library.git,"The libadacrypt-dev is a crypto library for Ada with a nice API. It is written for the i386 and x86_64 hardware architecture and supports AES, Twofish, 3DES, Serpent SHA-1/256/384/512, DSA, OAEP-RSA, HMAC, CMAC, SIV, OCB, Nonces, Elliptic Curves. etc. It also contains  regression tests consisting of over 400 tests.   Dependencies: make and gnat-4.9. ",,83
+0,https://github.com/kunalg123/vsdflow.git,"VSDFLOW  is  an  automated  solution  to  programmers, hobbyists and small scale semiconductor technology entrepreneurs who can craft their ideas in RTL language, and convert the design to hardware using VSD (RTL-to-GDS) FLOW. VSDFLOW  is  completely  build  using OPHW tools, where the user gives input RTL in verilog. From here on the VSDFLOW takes control, RTL is synthesized (using Yosys). The synthesized netlist is given to PNR tool (Qflow) and finally Sign-off is done with STA tool (using Opentimer). The output of the flow is GDSII layout and performance & area metrics of your design. VSDFLOW also provide hooks at all stages for users working at different levels of design flow. It is tested for 30k instance count design like ARM Cortex-M0, and can be further tested for multi-million instance count using hierarchical or glue logic.",,83
+0,https://github.com/Siguza/APRR.git,Apple hardware secrets,,82
+0,https://github.com/erikengervall/parallax-vanilla.git,Seamless and lightweight parallax scrolling library implemented in pure JavaScript utilizing Hardware acceleration for extra performance.,"javascript,css,hardware-acceleration,parallax-vanilla,parallax,front-end,typescript",82
+0,https://github.com/mossmann/cc11xx.git,Hardware designs for CC11xx,,81
+0,https://github.com/monero-project/kastelo.git,The Sekura Monero Hardware Wallet,,81
+0,https://github.com/zacmanchester/kicksat.git,A tiny open source/open hardware spacecraft project,,81
+0,https://github.com/jrowberg/keyglove.git,"Hardware, firmware, and software design sources for the Keyglove wearable input device",,81
+0,https://github.com/periph/gohci.git,"Go on Hardware CI: 100% free open source CI to run on RPis, macOS and Windows","ci,hardware,golang,free",81
+0,https://github.com/cucapra/calyx.git,Intermediate Language (IL) for Hardware Accelerator Generators,"high-level-synthesis,fpga-programming,open-source-hardware,intermediate-language,dahlia",80
+0,https://github.com/madires/Transistortester-Warehouse.git,"{""The Transistortester's warehouse for firmware, hardware, documentation and more.""}",,80
+0,https://github.com/sarnau/Inside-The-Loxone-Miniserver.git,Inside The Loxone Miniserver – various documentation about the Loxone Link/Tree protocol and hardware,,80
+0,https://github.com/ev3dev-lang-java/ev3dev-lang-java.git,A project to learn Java and create software for Mindstorms Robots using hardware supported by EV3Dev & the LeJOS way.,"ev3dev,java,lejos,robotics,ev3-robot,ev3,pistorms,brickpi,robots,mindstorms,lego,motor,raspberry-pi,robot,ros,opencv,frc,mobile-robots,ev3dev-lang-java,wro",80
+0,https://github.com/whiteblue3/HTTPLiveStreaming.git,iOS / Mac OSX H.264 / AAC Hardware Encoding and Streaming over RTP / RTSP using Video Tool Box,,80
+0,https://github.com/linux4life798/safetyfast.git,An Go library of synchronization primitives to help make use of hardware transactional memory (HTM),"go-library,tsx,htm,hardware-transactional-memory,thread-safety,multithreading,rtm,hle,synchronization",80
+0,https://github.com/bobc/bobc_hardware.git,Various hardware projects,,79
+0,https://github.com/arkeus/Axel.git,"An open source, hardware accelerated 2D flash game library",,79
+0,https://github.com/egony/cc2652p_E72-2G4M20S1E.git,Hardware and firmware development for Ebyte E72-2G4M20S1E module,,79
+0,https://github.com/sparky8512/starlink-grpc-tools.git,Random scripts and other bits for interacting with the SpaceX Starlink user terminal hardware,"starlink,python,grpc",79
+0,https://github.com/LGTMCU/Larduino_HSP.git,Hardware support package for Larduino ,,78
+0,https://github.com/Quantum-TII/qibo.git,A framework for quantum computing with hardware acceleration.,"quantum,quantum-circuit,quantum-computing,quantum-algorithms,gpu,quantum-annealing",78
+0,https://github.com/Qiskit/qiskit-metal.git,Quantum Hardware Design. Open-source project for engineers and scientists to design superconducting quantum devices with ease. ,"quantum,device,hamiltonian,quantum-computing,superconducting,qubits,eda,gds,simulation-modeling",78
+0,https://github.com/nickmqb/wyre.git,Hardware definition language that compiles to Verilog,,78
+0,https://github.com/AdnanHodzic/android-sdk-installer.git,"Linux utility which aims to automatically install and configures Android SDK, Eclipse ADT Plugin, adds hardware support for devices and enables full MTP support.","android-sdk,linux-utility,installer,sdk,android,shell,linux,debian,debian-linux",78
+0,https://github.com/bittorf/kalua.git,"hardware-independent openWRT-extension (using POSIX-shell as main-language) for setting up, monitor and manage many, large wifi-mesh-networks for different locations including billing, captive portal / splash screen / weblogin, accounting, data retention and layer7/8-QoS",,78
+0,https://github.com/blarney-lang/blarney.git,Haskell library for hardware description,"haskell,hardware-description,fpga,verilog,rtl",77
+0,https://github.com/BLEduino/bleduino-hardware.git,All of the hardware design files for the BLEduino and Shield-Shield.,,77
+0,https://github.com/rickytan/GPUUtilization.git,measure GPU hardware utilization on iOS Devices ,"gpu,ios,utilization,device,iokit,utility,usage,system-monitor,gpu-utilization",76
+0,https://github.com/crownstone/bluenet.git,"Bluenet is the in-house firmware on Crownstone hardware. Functions: switching, dimming, energy monitoring, presence detection, indoor localization, switchcraft.","crownstone,smartphone,bluenet,wearables,bluetooth-low-energy,bluetooth,firmware,nrf52,smart-home,smart-plug",76
+0,https://github.com/8BitMixtape/8Bit-Mixtape-NEO.git,New Attiny85 based edition with Bootloader to program it via sound. Add this to your additional hardware manager: http://8bitmixtape.github.io/package_8bitmixtape_index.json or directly program by playing the .wav files from this website:,,76
+0,https://github.com/divideconcept/FluidLite.git,"Very light version of FluidSynth designed to be hardware, platform and external dependency independant.",,75
+0,https://github.com/gwilken/ariadne-io.git,"A wireless hardware and software IoT project that monitors multiple streams of data from a sailboat.  Access realtime information on any web enabled device. Built with React, Node.js, MongoDB, and Express",,75
+0,https://github.com/Nuand/bladeRF-adsb.git,bladeRF ADS-B hardware decoder,,74
+0,https://github.com/Tinkerforge/kicad-libraries.git,"KiCad library for all Tinkerforge hardware projects (Bricks, Bricklets etc.)",,74
+0,https://github.com/syntithenai/hermod.git,"voice services stack from audio hardware through hotword, ASR, NLU, AI routing and TTS bound by messaging protocol over MQTT","hermod-server,rasa,audio,speech-recognition,hermod-services,hermod",74
+0,https://github.com/TheRainDoodle/Phenom-II-Benchmark.git,Small set of low level benchmarks for testing hardware speed against a Phenom II 810 Quad Core,,74
+0,https://github.com/Antharia/awesome-lowtech.git,Low tech software and hardware. Low resources. Recycling.,lowtech,74
+0,https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows.git,"Free and fast, open source, full-featured, statically-linked mouse auto clicker for Windows written in vanilla C++. Uses hardware-limited arrayed Win32 SendInput() calls to reach up to 100000 clicks/s. Supports command line, random clicks and sequences of clicks (since v.2.5.3.2).","fastest,auto-clicker,windows",74
+0,https://github.com/jglim/CCManager.git,Hardware + Software for RF Hacking,,73
+0,https://github.com/shapeshift/hdwallet.git,A library for interacting with hardware wallets from JS/TS.,,73
+0,https://github.com/gklingler/docker3d.git,build and run docker images with hardware accelerated (DRI) 3d support,,73
+0,https://github.com/chipsalliance/aib-phy-hardware.git,Advanced Interface Bus (AIB) die-to-die hardware open source,,72
+0,https://github.com/ModalityTeam/Modality-toolkit.git,A SuperCollider toolkit to simplify the creation of personal (electronic) instruments utilising hardware and software controllers of any kind.,"supercollider,modality,modality-toolkit,supercollider-quark,modal-interfaces,hardware",72
+0,https://github.com/thinkoco/c5soc_opencl.git,"DE1SOC DE10-NANO DE10-Standard OpenCL hardware that support VGA and desktop. And Some applications such as usb camera YUYV to RGB , Sobel and so on.","opencl,vga,usb-cameras,sobel,fpga,altera,intelfpga,de1-soc,de10-nano,mandelbrot",72
+0,https://github.com/swift-nav/piksi_hardware.git,Piksi hardware design.,,71
+0,https://github.com/sqfmi/watchy-hardware.git,Watchy Hardware CAD Files,,71
+0,https://github.com/sparkfun/ESP32_Miscellany.git,"A grab bag of ESP32-related documentation, example code, hardware diagrams, and more.",,71
+0,https://github.com/ResEnv/SensorTape.git,Hardware and Software source files for sensor tape project,,71
+0,https://github.com/WindowsNT/ScreenCapture.git,A DirectX hardware video + audio capture with mixing capabilities and Media Foundation file encoding (Windows 8+),"cplusplus,win32,directx,media-foundation,mp3,screenshot,screen-capture,screen-recorder",71
+0,https://github.com/korginc/nts-1-customizations.git,Official repository for hardware customizations of the Nu:Tekt NTS-1 digital kit,,71
+0,https://github.com/A-suozhang/awesome-quantization-and-fixed-point-training.git,Neural Network Quantization & Low-Bit Fixed Point Training For Hardware-Friendly Algorithm Design,"quantization,fixed-point,network-compression",71
+0,https://github.com/penguintrace/penguintrace.git,penguinTrace is a tool to show how code runs at the hardware level,,71
+0,https://github.com/qmk/qmk_hardware.git,Hardware resources for projects using QMK,,70
+0,https://github.com/stm32-rs/stm32l4xx-hal.git,A Hardware abstraction layer for the stm32l432xx series chips written in rust.,"arm,stm32,rust,embedded,embedded-rust",70
+0,https://github.com/PedroLopes/openEMSstim.git,openEMSstim: open-hardware module to adjust the intensity of EMS/TENS stimulators.,"muscle,stimulation,hci,bluetooth,ems,ems-toolkit,hardware,board,ems-signal,uist2016,uist,human-computer-interaction,unity,open-source,open-hardware,openemsstim",70
+0,https://github.com/maxuino/maxuino.git,"{""Software connection between Cycling '74's Max, Arduino compatible hardware, and Ableton Live, through Firmata""}",,70
+0,https://github.com/tinylabs/openfixture.git,Open Source Hardware Test/Programming Fixture,,69
+0,https://github.com/SaschaWillems/glCapsViewer.git,C++ port of the OpenGL hardware capability viewer,opengl,69
+0,https://github.com/cs217/cs217.github.io.git,"Course Webpage for CS 217 Hardware Accelerators for Machine Learning, Stanford University",,69
+0,https://github.com/mholling/rpirtscts.git,Enable hardware flow control signals on the Raspberry Pi serial port.,,68
+0,https://github.com/MaJerle/lwow.git,Lightweight onewire protocol library optimized for UART hardware on embedded systems,"1-wire,onewire,uart,usart,protocol,hardware,stm32,dma,ds18b20,sensors,ibutton,lightweight",68
+0,https://github.com/openvlc/OpenVLC.git,"OpenVLC is an open-source, flexible, and low-cost Visible Light Communication platform. Both software and hardware are open.",,68
+0,https://github.com/imc-trading/dock2box.git,Apply Docker host images to Bare-Metal hardware using PXE boot,,68
+0,https://github.com/MozOpenHard/CHIRIMEN.git,Hardware Informations about The First Prototype MozOpenHard CHIRIMEN,,68
+0,https://github.com/exploitagency/ESP-RFID-Thief.git,"!!! Deprecated, see www.rfid-tool.com instead !!! The ESP-RFID-Thief is a port of the Tastic RFID Thief to the ESP12S chip with the addition of a web interface and various new features. Repository includes files for both the hardware and software.",,68
+0,https://github.com/Riscure/Rhme-2017.git,Riscure Hack Me embedded hardware CTF 2017-2018.,"hacking,hardware,ctf,avr,fault-injection,side-channel",67
+0,https://github.com/joel16/VITAident.git,The first system/hardware identity tool for the PS VITA.,"ps-vita,joel16,vitaident,homebrew",67
+0,https://github.com/Integreight/1Sheeld-Android-App.git,"{""An Android app used along with our hardware shield to either control Arduino, read your smartphone's sensors in your Arduino sketch, post on social media, or even control your smartphone. It enables you to scan, connect, and interact with nearby 1Sheelds using our custom protocol.""}",,67
+0,https://github.com/OpenEVSE/OpenEVSE_PLUS.git,OpenEVSE Hardware,,66
+0,https://github.com/Nitrokey/nitrokey-pro-hardware.git,Hardware design of the Nitrokey Pro device,,66
+0,https://github.com/GStreamer/gstreamer-vaapi.git,"Hardware-accelerated video decoding, encoding and processing on Intel graphics through VA-API",,66
+0,https://github.com/charliegerard/gestures-ml-js.git,[WIP] - Gesture recognition using hardware and Tensorflow.js ,"machine-learning,tensorflow-js,arduino,javascript,front-end-development,creative-coding",66
+0,https://github.com/david-oswald/hwsec_lecture_notes.git,Lecture notes for the Hardware and Embedded Systems Security lecture,,66
+0,https://github.com/linuxhw/Trends.git,Trends in Hardware,,66
+0,https://github.com/cucapra/dahlia.git,Time-sensitive affine types for predictable hardware generation,"high-level-synthesis,fpga-programming,open-source-hardware,dahlia",66
+0,https://github.com/jotego/jt_gng.git,"{""CAPCOM arcade hardware accurately replicated on MiST and MiSTer FPGA platforms. It covers Ghosts'n Goblins, 1942, 1943, Commando, F1-Dream, GunSmoke, Tiger Road, Black Tiger, Bionic Commando, Higemaru, Street Fighter, Vulgus and The Speed Rumbler.""}","arcade,fpga",66
+0,https://github.com/PaulStoffregen/TimerThree.git,TimerThree Library with optimization and expanded hardware support,,65
+0,https://github.com/gkraynov/nexus-4-navfix.git,Fix making Nexus 4 navigation buttons working after enigmatic hardware issue,,65
+0,https://github.com/daschl/hwloc-rs.git,"This crate provides Rust bindings for the Open MPI Portable Hardware Locality ""hwloc"" library",,65
+0,https://github.com/dlew/android-hw-layers-sample.git,Sample project showing how to use hardware layers for great good,,65
+0,https://github.com/awesome-vacuum/awesome-vacuum.git,A curated list of free and open source software and hardware to build and control a robot vacuum.,"vacuum,vacuum-cleaner,robot,robots,robotics,robot-vacuum,robot-vacuums,awesome-list,awesome-vacuum,hacktoberfest,lists",65
+0,https://github.com/roccat-linux/roccat-tools.git,Roccat hardware support for Linux,,64
+0,https://github.com/opendous/Upconverter1v3.git,Upconverter 125MHz v1.3 - Passive Upconverter Hardware Design for SDR,,64
+0,https://github.com/SteScho/manubulon-snmp.git,Set of Icinga/Nagios plugins to check hosts and hardware with the SNMP protocol.,"snmp,perl,icinga,icinga2,plugins",64
+0,https://github.com/hydrabus/hydranfc.git,"HydraNFC is an open source NFC (13.56MHz) Shield hardware for researcher, hackers, students, embedded software developers or anyone interested in debugging/hacking/developing/penetration testing NFC hardware.","nfc,shield-hardware,hydranfc-shield,hydrabus-board,spi,tutorial,eagle,hardware",64
+0,https://github.com/bmartini/zynq-axis.git,"Hardware, Linux Driver and Library for the Zynq AXI DMA interface ",,64
+0,https://github.com/m-r-s/hearingaid-prototype.git,Instructions for building an almost consumer hardware based prototype of a hearing aid,"hearing,hearing-aids,signal-processing,jack,prototype,openmha,consumer-hardware,dynamic-compression",64
+0,https://github.com/inforion/kopycat.git,Kopycat is an emulator of hardware platforms of various architectures,,64
+0,https://github.com/project-oak/silveroak.git,"Formal specification and verification of hardware, especially for security and privacy.","formal-verification,coq,hardware",64
+0,https://github.com/ucsb-seclab/pretender.git,Automatic modeling of hardware to enable the rehosting of embedded firmware,,64
+0,https://github.com/RehabMan/OS-X-Intel-Backlight.git,A backlight control kext replacing AppleBacklight for Intel integrated graphics hardware,,64
+0,https://github.com/dekay/DavisRFM69.git,An Arduino library for the RFM69 transceiver module that enables communications with Davis Instruments weather station hardware.,,64
+0,https://github.com/OrangeGangsters/StepSensor.git,A library containing a custom Service allowing to collect data from the Sensor.TYPE_STEP_COUNTER introduced with Android 4.4 (available only for devices that supports this hardware feature),,64
+0,https://github.com/zuocheng-liu/pni.git,"PHP Native Interface(PNI), a PHP extension that enables PHP code to call and be called by native applications (programs specific to a hardware and operating system platform) and libraries written in other languages such as C, C++ and assembly.",,64
+0,https://github.com/digitalbitbox/bitbox02-firmware.git,Firmware code of the BitBox02 hardware wallet,,63
+0,https://github.com/matrix-io/matrix-creator-hal.git,Hardware Abstraction Layer for MATRIX Creator & MATRIX Voice,,63
+0,https://github.com/ssvb/cpuburn-arm.git,A collection of cpuburn programs tuned for different ARM hardware,,63
+0,https://github.com/smartlockpicking/BLE_HackMe.git,Bluetooth Low Energy hardware-less HackMe,,63
+0,https://github.com/SukkoPera/OpenC64Cart.git,Open Hardware 8Kb Cartridge for the Commodore 64,"commodore,commodore-64,cartridge,eprom,eeprom,open-hardware,open-hardware-electronics,retrogaming,retrocomputing",63
+0,https://github.com/JoeyByrnes/OpenLeg.git,Hardware and Software for an Open Source Robotic Leg,,63
+0,https://github.com/Toporin/SatochipApplet.git,Open source javacard applet implementing a Bitcoin hardware wallet with full BIP32 support,,63
+0,https://github.com/nrpatel/SnowGlobe.git,Software and hardware to create a cheap DIY spherical projection system,,63
+0,https://github.com/bmellink/IBusBM.git,Arduino library for RC IBUS protocol - servo (receive) and sensors/telemetry (send) using hardware UART,"arduino,servo,ibus,rc-car",63
+0,https://github.com/opencryptoki/opencryptoki.git,PKCS#11 library and tools for Linux. Includes tokens supporting TPM and IBM crypto hardware as well as a software token.,"pkcs11,crypto,hsm,tpm",63
+0,https://github.com/nathany/bobblehat.git,"A Go library to support Raspberry Pi HATs (Hardware Attached on Top), starting with the Sense HAT.",,63
+0,https://github.com/xemantic/shader-web-background.git,Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.,"shaders,web,background,design,web-design,web-development,shadertoy,glsl,glsl-shaders,fragment-shaders,javascript,library,javascript-library,framework,javascript-framework,closure-compiler,webgl,webgl2,shadertoy-compatibility",63
+0,https://github.com/digitalbitbox/mcu.git,MCU code for the BitBox01 hardware wallet,,62
+0,https://github.com/arduino/ArduinoCore-API.git,Hardware independent layer of the Arduino cores,,62
+0,https://github.com/VaclavSynacek/RF24SN.git,Connects sensors/actuators to MQTT broker. Simpler than MQTT-SN. Runs on nRF24L01 hardware.,,62
+0,https://github.com/nullsecuritynet/papers.git,"Papers about known hacking, security, hardware, software, computer, network and other ressources.","security,hacking,paper,ressources",62
+0,https://github.com/jarikomppa/dxwrapper.git,DirectX 1-7 wrapper project for making old games run on new hardware,,62
+0,https://github.com/PineconePi/Pinecone_Pi_Nano.git,"PineconePi Nano is a development board that meets all the good ideas of 8051 MCU enthusiasts and creators: low cost, small size, size only 52 mm x 18 mm (DIP40); faster core: ultra-high speed 8051 core (1T), 12 times faster than traditional 8051; wide range of use: working voltage: 2.0V ~ 5.5V (built-in LDO), working temperature: - 40 ~85 (℃); rich peripherals and hardware resources. Source: One-button cold start, 8-channel LED, two SMT digital tubes, onboard Ch330N; 64K Flash, 5-way TIM, 8-way Pwm, 15-way high-speed ADC; easy to use, support C language, assembly, direct insertion breadboard; multi-expansion, a variety of peripheral modules. ",,62
+0,https://github.com/MinnowBoard-org/design-files.git,MinnowBoard.org Official Hardware Design Files,,61
+0,https://github.com/C00kie-/workshop-materials.git,Presented hardware reverse engineering workshops since 2019,,61
+0,https://github.com/unchained-capital/ethereum-multisig.git,"Ethereum 2/3-multisig smart contract & dApp for cold storage, hardware wallets.",,61
+0,https://github.com/moodlehq/moodle-performance-comparison.git,Set of shell scripts to run Moodle performance tests using different hardware and configurations and compare results.,,61
+0,https://github.com/AcutronicRobotics/HRIM.git,An information model for robot hardware. Facilitates interoperability across modules from different robot manufacturers. Built around ROS 2.0,"robotics,robots,ros,robotic-modules,infrastructure,communication,manufacturer,ros2,standard,hal4rt,opc-ua,information-model,model",61
+0,https://github.com/grovdata/Amiga_Sources.git,A compiled list of sources and hardware related to classic Commodore Amiga computers.,"amigaos,amiga-development,amiga-game,amiga-library,amiga,commodore-amiga-computers",61
+0,https://github.com/alainmarcel/UHDM.git,"Universal Hardware Data Model. A complete modeling of the IEEE SystemVerilog Object Model with VPI Interface, Elaborator, Serialization, Visitor and Listener. Used as a compiled interchange format in between SystemVerilog tools. Compiles on Linux gcc, Windows msys2-gcc & msvc, OsX","vpi-api,vpi-interface,systemverilog,listener,serialization,ieee-standard",61
+0,https://github.com/opencord/voltha.git,Virtual OLT Hardware Abstraction,,60
+0,https://github.com/Lora-net/sx1302_hal.git,SX1302/SX1303 Hardware Abstraction Layer and Tools (packet forwarder...),"sx1302,sx1303,gateway,corecell",60
+0,https://github.com/gbdev/hardware.inc.git,RGBDS include file for Game Boy hardware definitions,"rgbds,game-boy-development,hardware",60
+0,https://github.com/riverloopsec/apimote.git,ApiMote IEEE 802.15.4/ZigBee Sniffing Hardware,,60
+0,https://github.com/sparkfun/Tiny-AVR-Programmer.git,Hardware files for the Tiny AVR Programmer,,59
+0,https://github.com/rdobson/python-hwinfo.git,A library for inspecting hardware info using standard linux utilities.,,59
+0,https://github.com/Bertrand256/dash-masternode-tool.git,"Tool for managing Dash masternodes with a hardware wallet (Trezor, Keepkey, Ledger Nano S)",,59
+0,https://github.com/jenkie/Arduino-Pedelec-Controller.git,"Software for the Pedelec/E-Bike controller based on Arduino hardware, see www.pedelecforum.de ""ForumsController""",,59
+0,https://github.com/gohai/processing-glvideo.git,Hardware accelerated video playback using GL textures (for Processing on Raspberry Pi),,59
+0,https://github.com/DIY-Beatmungsgerat/diy-beatmungsgeraet.git,CPAP Beatmungsgerät selbst gebaut - basierend auf einem Open Source und Open Hardware Entwurf,,59
+0,https://github.com/MobyGamer/total-dos-launcher.git,A system for easily loading and running thousands of DOS programs on vintage hardware,,59
+0,https://github.com/nccchirag/yeelight-ble-rotary-dimmer.git,YLKG08YL Yeelight bluetooth dimmer rotary switch protocol (#TODO reverse engineer) and hardware details.,"ble,yeelight,dimmer,switch,smarthome,rotary-dimmer",59
+0,https://github.com/mariolukas/openexposer.git,"Open Exposer - Hardware, Slicer, Host, Firmware",,58
+0,https://github.com/galexrt/dellhw_exporter.git,Prometheus exporter for Dell Hardware components using Dell OMSA.,"prometheus-exporter,dell,omsa,dellhw-exporter,dell-omsa,hacktoberfest",58
+0,https://github.com/open-dynamic-robot-initiative/master-board.git,Hardware and Firmware of the Solo Quadruped Master Board,,58
+0,https://github.com/peterderivaz/pyopengles.git,Python wrappers for Raspberry Pi hardware 3d acceleration,,58
+0,https://github.com/stm32-rs/stm32l0xx-hal.git,A hardware abstraction layer (HAL) for the STM32L0 series microcontrollers written in Rust,,58
+0,https://github.com/tuupola/hagl.git,Hardware Agnostic Graphics Library for embedded,"graphics-library,gd32v,rp2040,esp32,raspberry-pi-pico,esp-idf",58
+0,https://github.com/ARM-software/HWCPipe.git,Hardware counters interface,,57
+0,https://github.com/mkeller0815/MEEPROMMER.git,EEPROM / EPROM programmer based on Arduino hardware,,57
+0,https://github.com/zynthian/zynthian-hw.git,"Zynthian hardware stuff: PCBs, schemes, parts specifications, pin assignment, ...",,57
+0,https://github.com/justinmoon/junction.git,UI For Using Hardware Wallets With Bitcoin Core,,57
+0,https://github.com/openAVproductions/openAV-Ctlra.git,A plain C library to program with hardware controllers.,"linux-audio,controllers,midi,usb-hid,music,devices",57
+0,https://github.com/moonglow/pcan_pro_x.git,:alien: PCAN PRO/PRO FD/FD USB2CAN firmware implementation for cheap STM32F4 hardware,"pcan,stm32f4,busmaster,pcanview,canutils,socketcan,usb2can",57
+0,https://github.com/marcmerlin/FastLED_NeoMatrix_SmartMatrix_LEDMatrix_GFX_Demos.git,Various Arduino 2D demos that work all hardware backends supported by FrameBuffer::GFX,,57
+0,https://github.com/StefanSredojevic/Deep-Neural-Network-Hardware-Accelerator.git,SystemVerilog HDL and TB code Deep Neural Network Hardware Accelerator implementation on zybo 7010 FPGA and also C code for Vivado SDK Software,,57
+0,https://github.com/WilliamParks/Hardware_Neural_Net.git,Artificial Neural Network in hardware,,56
+0,https://github.com/westlicht/performer-hardware.git,PER|FORMER Eurorack Sequencer - Hardware Design Files,,56
+0,https://github.com/elrepo/packages.git,"{""Kernel module (driver) packages to improve RHEL's hardware support""}",,56
+0,https://github.com/Blockstream/Jade.git,Jade hardware wallet,,56
+0,https://github.com/amazeui/swiper.git,Most modern mobile touch slider with hardware accelerated transitions.,,56
+0,https://github.com/OutbreakInc/Galago.git,Galago hardware designs,,56
+0,https://github.com/dukelec/cdpga.git,FPGA core boards / evaluation boards based on CDCTL hardware,,56
+0,https://github.com/gzorin/RSXGL.git,Hardware accelerated 3D graphics library for the PS3.,,56
+0,https://github.com/SaltyCybernaut/PocketCHIP-flash-utils.git,Bootstrap the process of locally flashing your pocketchip/chip hardware.,,56
+0,https://github.com/tomverbeure/rt.git,A Full Hardware Real-Time Ray-Tracer,,56
+0,https://github.com/chinahbcq/ffmpeg_hw_decode.git,video stream hardware decoding and color space conversion by ffmpeg and cuda. thread safe.,,56
+0,https://github.com/Floyd-Fish/ST7789-STM32.git,"{""using STM32's Hardware SPI to drive a ST7789 based IPS displayer""}",,56
+0,https://github.com/microsoft/InQRy.git,"A robust, cross-platform inventory utility that generates a QR code containing system hardware specs.","python,barcode,inventory,audit,windows,macos,qrcode,snipeit,hardware-specs",56
+0,https://github.com/buttplugio/stpihkal.git,Sex Toys Protocols I Have Known And Loved - Documentation of Reverse Engineered Protocols for Commercial Sex Hardware,,56
+0,https://github.com/masaleiro/HacKeyboard.git,Open hardware mechanical keyboard,,55
+0,https://github.com/xairy/hardware-village.git,Materials for my Hardware Village talks,,55
+0,https://github.com/mcrute/ubntmfi.git,Web controller for Ubiquiti mFi hardware,,55
+0,https://github.com/lkesteloot/alice.git,Website documenting a hardware project from the 1990s.,,55
+0,https://github.com/ubuntu/ubuntu-report.git,Report hardware and other collected metrics like installer or upgrade information,,55
+0,https://github.com/hxlnt/oledjs-designer.git,"Draw in the browser, display on an OLED hardware screen.","oled,javascript,johnny-five",55
+0,https://github.com/hackerhouse-opensource/pyongyang_2407.git,"Pyongyang 2407 - Android ROM from North Korea, modified to run on WBW5511_MAINBOARD_P2 devices. Releases contains an archived ROM with all needed tools to boot DPRK Android on compatible hardware. This repository contains installation instructions, hardware documentation and exploits for disabling censorship tools of North Korea Android.",,55
+0,https://github.com/IBM/aihwkit.git,IBM Analog Hardware Acceleration Kit,"ai,analog-devices,pytorch,neural-networks,cuda",54
+0,https://github.com/MissionMarsFourthHorizon/operation-max.git,Create a support bot for assisting in repairing Mars hardware,,54
+0,https://github.com/arcbtc/bowser-bitcoin-hardware-wallet.git,ESP32 Hardware Wallet,,54
+0,https://github.com/chenm001/x266.git,Hardware implement of HEVC/WC,,54
+0,https://github.com/Jmeyer1292/gl_depth_sim.git,Stand-alone depth camera simulation using opengl for hardware acceleration,"camera-simulation,depth-camera,ros,ros-industrial,point-cloud",54
+0,https://github.com/ipa320/cob_apps.git,"The cob_apps stack provides example applications, mainly for testing the Care-O-bot hardware drivers.",,54
+0,https://github.com/itoshkov/nand2tetris-emu.git,Nand2Tetris Software Suite - hardware simulator and CPU and VM emulators,"nand2tetris,vm-emulator,hardware-simulator",54
+0,https://github.com/so87/Home-Lab.git,"This is the network diagrams, configuration guides, and hardware used for my home lab.","network-diagram,buying,lab,hardware-buying-guide,homelab,netsec",54
+0,https://github.com/AidanHockey5/YM2151_VGM_STM32.git,A hardware arcade video game music player based on the STM32 platform driving a YM2151 ,,54
+0,https://github.com/tinkrmind/programmable-air.git,A hardware kit to experiment with inflatable and vacuum based soft robotics.,"experimentation,inflatables,hardware,pcb,soft,robotics,pressure,sensor",54
+0,https://github.com/majbthrd/pico-debug.git,"virtual debug pod for RP2040 ""Raspberry Pi Pico"" with no added hardware","cmsis-dap,arm,microcontroller,rp2040,raspberry-pi-pico,debug,tinyusb,cortex-m,debugging,pico",54
+0,https://github.com/v-zhuravlev/zbx_template_pack.git,"Sandbox style repository for all templates that may eventually end up in Zabbix. Includes network switches, routers, hardware servers, OS, applications. Created by template generator","zabbix,zabbix-templates,mikrotik,cisco,dlink,juniper,ubiquiti,brocade,qtech,huawei,snmp,extreme,dell-force,mellanox,intel,qlogic,infiniband,tp-link,h3c,netgear",54
+0,https://github.com/SCIInstitute/SCI-Solver_FEM.git,SCI-Solver_FEM is a C++/CUDA library written to solve an FEM linear system. It is designed to solve the FEM system quickly by using GPU hardware.,,54
+0,https://github.com/cylonbrain/VDADecoderCheck.git,"{""Check the support of your graphics card to support Apple's Video Decode Acceleration framework and play h264 content with hardware acceleration.""}",,54
+0,https://github.com/medievalghoul/hwid-checker-mg.git,"{""hwid-checker-mg is simple, proof-of-concept, hardware id checker made in C++ that utilizes the SMBIOS/DMI standards to output information that's been described by the BIOS.""}","gamehacking,hwid,hwid-checker,smbios,hwid-spoofer-poc,hwid-checker-mg",54
+0,https://github.com/yandex/fastops.git,"This small library enables acceleration of bulk calls of certain math functions on AVX and AVX2 hardware. Currently supported operations are exp, log, sigmoid and tanh. The library is designed with extensibility in mind.",,54
+0,https://github.com/khoih-prog/ESP32TimerInterrupt.git,"{""This library enables you to use Interrupt from Hardware Timers on an ESP32-based board. It now supports 16 ISR-based timers, while consuming only 1 hardware Timer. Timers' interval is very long (ulong millisecs). The most important feature is they're ISR-based timers. Therefore, their executions are not blocked by bad-behaving functions or tasks. This important feature is absolutely necessary for mission-critical tasks.""}","hardware-timers,loop,isr,accuracy,wifi,millis,board,arduino-libraries,measure,mission-critical-tasks,esp32,esp32-library,esp32-arduino,espressif,interrupt,mission-critical,timers,non-blocking,timerinterrupt,timerinterrupt-library",54
+0,https://github.com/Ylianst/MeshCommander.git,"{""MeshCommander is a Intel(R) Active Management Technology (Intel(R) AMT) remote management tool. It's feature rich and includes a built-in remote desktop viewer for Hardware-KVM, a Serial-over-LAN terminal, IDER-Redirection support and much more. MeshCommander is built on web technologies and runs on many plaforms. In addition to being available as a stand-alone tool, MeshCommander was built to be very space efficient to that it can be uploaded into Intel AMT flash space to have it served diretly from the Intel AMT web serve.""}",,54
+0,https://github.com/NiklasFauth/ottercontrol.git,Hardware files for OtterControl BLDC motor controller,,53
+0,https://github.com/BramRausch/PiPod.git,PiPod Hardware and Software,,53
+0,https://github.com/DmitrySoshnikov/hdl-js.git,"Hardware description language (HDL) parser, and Hardware simulator.",,53
+0,https://github.com/Arlet/Freecut.git,Free cutting firmware replacement for cricut hardware,,53
+0,https://github.com/nategreco/DAPrototype.git,Prototype driver assist based on Raspberry Pi hardware,,53
+0,https://github.com/JuliaBerry/PiGPIO.jl.git,Manage external hardware using GPIO pins on the Raspberry Pi,,53
+0,https://github.com/pololu/zumo-32u4-arduino-library.git,Library to help interface with the on-board hardware of the Pololu Zumo 32U4 robot.,,53
+0,https://github.com/lod/seek-thermal-documentation.git,Unofficial documentation on iteracting with the Seek Thermal hardware,,53
+0,https://github.com/beaker-project/beaker.git,Hardware integration testing system and lab automation for Fedora and RHEL,"python,testing,beaker,lab-automation,pxe,netboot,provisioning,infrastructure",53
+0,https://github.com/Triggertrap/mobile-dongle.git,Hardware Open Source for creating a clone of a Triggertrap compatible Mobile Dongle,,53
+0,https://github.com/TimvanScherpenzeel/detect-features.git,Detect and report browser and hardware features.,"features,reporting,detection,hardware,browser,webgl,webgl2,device-detection,extensions,web-worker",53
+0,https://github.com/nwertzberger/OpenPLC.git,"OpenPLC is an open source PLC Hardware board.  Think Arduino, but change the language used, up the voltage levels, and add a built-in Ethernet port.",,53
+0,https://github.com/MickMad/Teensy3-USBAudio.git,Collection of software and hardware design to transform a Teensy 3.0 in a USB compliant audio device,,53
+0,https://github.com/mit-plv/koika.git,A core language for rule-based hardware design 🦑,"coq,programming-languages,formal-methods,semantics,hardware-description-language,compilation",53
+0,https://github.com/ManiacalLabs/AllPixel.git,Firmware and Board Designs for the AllPixel LED Controller Board: Please direct questions and support requests to https://forum.maniacallabs.com/c/hardware - The Issues list here should be reserved for actual bugs.,,53
+0,https://github.com/pellepl/spiflash_driver.git,Hardware agnostic generic spi flash driver,,52
+0,https://github.com/evillabs/EvilSploit.git,EVILSPLOIT – A UNIVERSAL HARDWARE HACKING TOOLKIT,"hardware-hacking,hardware-hackers,firmware,minicom,target-hardware,openocd,car",52
+0,https://github.com/jean343/RPI-GPU-rdpClient.git,Hardware accelerated raspberry pi client for windows PC,,52
+0,https://github.com/mudassar-tamboli/ESP32-OV7670-WebSocket-Camera.git,Demonstrates Video Streaming from ESP32+OV7670 hardware using WebSocket protocol,,52
+0,https://github.com/FlyGlas/WMRP.git,Hardware and Software for a DIY solder station with WMRP tips,,52
+0,https://github.com/bigtreetech/BIGTREETECH-TouchScreenHardware.git,This library contains all the open source materials of BIGTREETECH touch screen hardware.,,52
+0,https://github.com/hwstar/HW-AC-Emeter.git,Hardware for an ESP8266 or Arduino based AC power meter using the Atmel 90E24 energy management chip,,52
+0,https://github.com/toxsedyshev/imBMW.git,BMW iBus .NET MF SDK and hardware,"ibus,bluetooth,bmw-ibus,bmw-audio,dbus,bmw,wt32,wt32i,ovc3860,win10,windowsphone,uwp,windows-phone,car,carpc,pccar,tablet,ds2,netmf,can-bus",51
+0,https://github.com/flutterwireless/FlutterHardware.git,Hardware for Flutter Wireless,,51
+0,https://github.com/sifive/duh.git,👾 Design ∪ Hardware,"duh,hacktoberfest",51
+0,https://github.com/onyxbits/dummydroid.git,Google Play checkin utility. Creates a configurable hardware profile and gets a GSF ID for it.,,51
+0,https://github.com/SnoopWare/usbsnoop.git,Log USB packets going from Windows device driver to hardware device and vice-versa,"usb,usb-devices,windows,drivers,sniffer",51
+0,https://github.com/piperwallet/Piper.git,Piper: A bitcoin hardware paper wallet printer and so much more.  Check out piperwallet.com for more info!,,51
+0,https://github.com/AidanHockey5/Teensy_3_5_VGM_Player_YM2612_SN76489.git,A hardware Sega Genesis / Master system video game music player based on the Teensy 3.5,,51
+0,https://github.com/aws-deepracer/aws-deepracer-launcher.git,Build robotics applications with AWS DeepRacer device software and hardware: https://www.amazon.com/dp/B07JMHRKQG,,51
+0,https://github.com/CANBus-Triple/CANBus-Triple-Hardware.git,Eagle CAD files for CANBus Triple Hardware,,50
+0,https://github.com/MrYsLab/s2aio.git,Scratch 2 Offline Editor Hardware Extension for Arduino,,50
+0,https://github.com/cucapra/approx-vision.git,Designing image processing hardware and software for computer vision,,50
+0,https://github.com/ccelio/chisel-style-guide.git,A Style Guide for the Chisel Hardware Construction Language,,50
+0,https://github.com/lucaspiller/dcpu-specifications.git,Specifications for the fictional hardware of the game 0x10c,,50
+0,https://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware.git,Automatically exported from code.google.com/p/dangerous-prototypes-open-hardware,,50
+0,https://github.com/nicbedford/CardBrowser.git,Browse the contents of EMV smart cards using PCSC compliant hardware,,50
+0,https://github.com/projectara/Android-wiki.git,Wiki to describe Android changes for Project Ara reference hardware platform,,50
+0,https://github.com/mooz/ikeysnail.git,iKeySnail provides fully-configurable hardware keyboard functionalities for web browsing on iOS (iPadOS),"ipad,overleaf,scrapbox,ios,emacs,cocoa,jsbox",50
+0,https://github.com/apertus-open-source-cinema/beta-hardware.git,AXIOM Beta Hardware,,49
+0,https://github.com/LibreRouterOrg/board.git,LibreRouter hardware repository,"mesh,open-hardware,wifi,openwrt,libremesh",49
+0,https://github.com/zester/Quantum.git,"The Quantum Project is a Hardware, Software & Operating System Development Framework. ",,49
+0,https://github.com/intel/cri-resource-manager.git,Kubernetes Container Runtime Interface proxy service with hardware resource aware workload placement policies,"kubernetes,container-runtime-interface,hardware-topology",49
+0,https://github.com/Gutenshit/CANBadger.git,CANBadger - Hardware & Firmware Repository - An open-source automotive security research platform.,,49
+0,https://github.com/FaradayRF/Fox-1-MPPT.git,AMSAT Fox-1 satellite Maximum Power Point Tracker hardware design files,,49
+0,https://github.com/conal/talk-2015-haskell-to-hardware.git,From Haskell to Hardware via CCCs,,49
+0,https://github.com/saurvs/hypervisor-rs.git,Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization,virtualization,49
+0,https://github.com/jameshegarty/rigel.git,"Rigel is a language for describing image processing hardware embedded in Lua. Rigel can compile to Verilog hardware designs for Xilinx FPGAs, and also can compile to fast x86 test code using Terra.",,49
+0,https://github.com/pkourany/SparkIntervalTimer.git,Interval Timer Library using Core hardware timers ,,48
+0,https://github.com/iyawat/M5Stack_libra_hw_wallet.git,Libra Hardware wallet using M5stack & M5StickC,,48
+0,https://github.com/secondstory/ofxWMFVideoPlayer.git,Video player for openFrameworks using Windows Media Foundation API and hardware acceleration capabilities,,48
+0,https://github.com/maldroid/hardware-hacking.git,Hands-on workshop on the basics of hardware hacking.,,48
+0,https://github.com/justinmoon/bitboy.git,"A stateless, QR-airgapped hobbyist hardware wallet",,48
+0,https://github.com/pili-engineering/PLAudioStreamingKit.git,"Pili Live Streaming SDK for iOS, AAC hardware encoding and RTMP publishing supported.",,48
+0,https://github.com/RespiraWorks/Ventilator.git,"RespiraWorks open source ventilator monorepo for all systems, hardware and software design. This project is ongoing and incomplete.","ventilator,medical,covid-19,cad,pcb-design,software,ventilator-designs,manufacturing,hardware,medical-devices",48
+0,https://github.com/joewalnes/webconnect.git,JavaScript APIs to allow web-apps to connect to hardware devices.,,48
+0,https://github.com/phhusson/vendor_hardware_overlay.git,This includes hardware-specific overlays for Treble ROM,,47
+0,https://github.com/pitronicteam/FOC_ESC-hardware.git,FOC_ESC hardware design repository,"betaflight,bldc,field-oriented-control,hardware-designs,esc,brushless",47
+0,https://github.com/samyuu/EvenMoreLegitArcadeController.git,Emulation components to operate Project DIVA Arcade on unintended hardware,,47
+0,https://github.com/pulp-platform/bender.git,A dependency management tool for hardware projects.,,47
+0,https://github.com/cinderblock/3-Phase-Driver.git,Hardware design for a 3 Phase BLDC controller,,47
+0,https://github.com/openenergymonitor/emontx3.git,"EmonTx V3.4.x Hardware and older discreet firmware, see EmonTxV3CM repo for latest",,47
+0,https://github.com/gehrleib/MPC-BE-with-madVR.git,Better upscaling quality than VLC and quicker on old hardware.,,47
+0,https://github.com/alexkachanov/performance.git,Collection of documents related tunings for performance of Java low-latency trading systems: from hardware up to application level,"tuning,tuning-guides,java,linux,rhel,solarflare,tcp,intel,hpe,redhat,performance,latency,trading,hft",47
+0,https://github.com/joosteto/ws2812-spi.git,"python routines to program the WS2812 RGB LED chips on the raspberry, using the hardware SPI MOSI.",,47
+0,https://github.com/jbaumann/attiny_daemon.git,Hardware and Software for a Raspberry UPS based on an ATTiny,,47
+0,https://github.com/dbrgn/embedded-hal-mock.git,Mocks for testing embedded-hal based drivers without hardware access.,,46
+0,https://github.com/myriadrf/Novena-RF.git,A 300 MHz to 3800 MHz RF module for the Novena Open Hardware Computing Platform,,46
+0,https://github.com/haberman/vtparse.git,A library to parse terminal escape sequences exactly how the real hardware does.,,46
+0,https://github.com/qix67/uVGA.git,"uVGA is a 100% hardware VGA driver for teensy 3.6, 3.2 (& probably 3.5)",,46
+0,https://github.com/nodebots/nodebots-interchange.git,Project related to creating hardware backpacks for your nodebot to make them more capable.,"backpack-firmware,custom-firmata,arduino,nodebots-interchange,board,nodebot,i2c-devices,neopixels,interchange,firmata,backpack,firmware",46
+0,https://github.com/XanaduAI/blackbird.git,"{""Blackbird is a quantum assembly language for continuous-variable quantum computation, that can be used to program Xanadu's quantum photonics hardware and Strawberry Fields simulator.""}","quantum,quantum-computing,quantum-programming-language,quantum-optics,quantum-algorithms,parser,antlr4",46
+0,https://github.com/modelica-3rdparty/Modelica_DeviceDrivers.git,"Free library for interfacing hardware drivers to Modelica models. There is support for joysticks, keyboards, UDP, TCP/IP, LCM, MQTT, shared memory, AD/DA converters, serial port and other devices.","modelica,modelica-library,mqtt,mqtt-client,iot,hacktoberfest",46
+0,https://github.com/gbulmer/openstm32hw.git,"Open Source Hardware for STM32, complementing openstm32",,45
+0,https://github.com/machinekit/machinekit-hal.git,Universal framework for machine control based on Hardware Abstraction Layer principle,"machinekit,hal,standard",45
+0,https://github.com/domination/gvr-services-emulator.git,Google VR Services Emulator for non Android N to get working Daydream Development Kit hardware,,45
+0,https://github.com/raspberrypilearning/python-picamera-setup.git,Get started with the Python picamera library and set up a hardware button to take a picture,,45
+0,https://github.com/peopleplusrobots/robo-op.git,Robo.Op is an open hardware / open software platform for hacking industrial robots.,,45
+0,https://github.com/paxapos/fiscalberry.git,[JSON ↔ HW]  Connect things using JSON API with the fiscalberry websocket server interact easily with any kind of Hardware. Another IoT solution...,"raspberry-pi,raspberry-pi-3,iot,fiscal-printer,impresora-fiscal,imprimir,json,servidor,epson,hasar,receipt,receipt-printer,receipt-print,barcode,barcode-scanner,pos",45
+0,https://github.com/Mindwerks/opl3-soundfont.git,A SoundFont designed to simulate the classic MIDI sound of the Sound Blaster 16 and other YM262 enabled hardware.,,45
+0,https://github.com/nilesh-patil/MITx-Foundations-of-Computer-Science.git,"The Foundations of Computer Science XSeries, offered by the M.I.T. Department of Electrical Engineering and Computer Science, is a sequence of courses that introduce key concepts of computer science and computational thinking. Students apply these concepts and build their engineering skills by completing software and hardware design problems. Additionally, students test their understanding by taking a series of exams.",,45
+0,https://github.com/UAVCAN/platform_specific_components.git,Low-level components and hardware drivers for various UAVCAN-related projects,"uavcan,mcu,platform-driver,bare-metal-drivers,drivers,drivers-library,microcontroller,example,examples,reference,low-level",44
+0,https://github.com/gd32v-rust/gd32vf103-hal.git,Hardware abstract layer (HAL) `embedded-hal` for RISC-V microcontroller GD32VF103 in Rust. Contributions welcomed!,"rust,rust-embedded,embedded-hal,gd32v,gd32vf103,risc-v,microcontroller",44
+0,https://github.com/NJU-ProjectN/abstract-machine.git,"A minimal, modularized, and machine-independent hardware abstraction layer",,44
+0,https://github.com/seemoo-lab/nexmon_debugger.git,Debugger with hardware breakpoints and memory watchpoints for BCM4339 Wi-Fi chips,,44
+0,https://github.com/AudioMorphology/Europi.git,Opensource sequencer software for Raspberry Pi equipped with Eurorack-compatible hardware,"raspberry-pi,eurorack,sequencer",44
+0,https://github.com/khoih-prog/ESP8266TimerInterrupt.git,"{""This library enables you to use Interrupt from Hardware Timers on an ESP8266-based board. It now supports 16 ISR-based timers, while consuming only 1 hardware Timer. Timers' interval is very long (ulong millisecs). The most important feature is they're ISR-based timers. Therefore, their executions are not blocked by bad-behaving functions or tasks. This important feature is absolutely necessary for mission-critical tasks.""}","hardware-timers,isr,loop,wifi,accuracy,arduino,arduino-libraries,delay,millis,board,non-blocking,mission-critical,esp8266,esp8266-arduino,espressif,interrupt,timers,timerinterrupt,timerinterrupt-library",44
+0,https://github.com/cbecker/openahrs.git,Open AHRS Software/Hardware,,43
+0,https://github.com/WRTnode/WRTnodePCB.git,The hardware project of WRTnode,,43
+0,https://github.com/betrusted-io/betrusted-hardware.git,Hardware design files for Betrusted,,43
+0,https://github.com/q3k/TPM2137.git,Hardware task for WCTF2019,,43
+0,https://github.com/Napsty/check_esxi_hardware.git,Monitoring Plugin to check the hardware of VMware ESXi servers.,"nagios-plugins,monitoring-plugins,vmware,vmware-esxi,esx,esxi,esxi-server,hardware,server,monitoring-plugin,monitoring,python,esxi-servers",43
+0,https://github.com/Ledger-Donjon/scaffold.git,Donjon hardware tool for circuits security evaluation,,43
+0,https://github.com/pengshulin/mcush.git,"MCUSH application platform (personal toolkit: firmware platform, debugger, hardware, test and application framework)",,43
+0,https://github.com/jamarju/c64_test_tools.git,Test your Commodore 64 hardware with an Arduino,,43
+0,https://github.com/wklenk/lmic-rpi-lora-gps-hat.git,"{""Hardware Abstraction Layer (HAL) for IBM's LMIC 1.6 communication stack targeted to RPi and Dragino LoRA/GPS HAT.""}","lorawan,lmic,raspberrypi,thethingsnetwork",43
+0,https://github.com/alex3dbros/ICUVent.git,A repository made for an opensource hardware and software for ICU Ventilator,,43
+0,https://github.com/Open360cam/360CamHardware.git,"The Open 360 Camera Project hardware info including BOM, drawings, pricing",,43
+0,https://github.com/Ultrawipf/OpenFFBoard-hardware.git,This contains the hardware designs of the OpenFFBoard,,43
+0,https://github.com/snipsco/snips-skill-respeaker.git,"Official Snips Animation Feedback For Makers Kits/Dev Kits, supporting all kinds of APA102 based LED hardwares.",,43
+0,https://github.com/gregdavill/d20-hardware.git,Hardware design files for the icosahedran d20 build.,,43
+0,https://github.com/futuretap/DeviceColors.git,DeviceColors uses a private API to retrieve the hardware color of iOS devices.,,43
+0,https://github.com/brentjackson/OpenRespirator.git,A shortage of intubation devices is a critical concern for the COVID-19 pandemic. The purpose of this open source hardware project is to develop designs whereby makers can assist with the fabrication of intubation devices that could be used by medical personne.,"covid-19,hardware-designs,opensourceforgood,openhardware,medical",43
+0,https://github.com/ashtuchkin/u2f-client.git,U2F Client: access hardware USB keys,,42
+0,https://github.com/myriadrf/reference-development-kit.git,The Myriad-RF Reference Hardware design files and firmware,,42
+0,https://github.com/Handibot/handibot-hardware.git,Open Source Hardware for the Handibot Smart Tool,,42
+0,https://github.com/shamansystems/Cheap-FOCer.git,BLDC Motor Controller based on the VESC 4.12 hardware,"bldc-motor-controller,foc,vesc,field-oriented-control,motor-controller",42
+0,https://github.com/egermano/open-home.git,Projeto de automação residencial usando softwares e hardwares open source.,"home-assistant,home-automation,mqtt",42
+0,https://github.com/sofroniewn/electron-johnny-five-examples.git,Example electron apps using johnny-five to control hardware,,42
+0,https://github.com/cyanogen/uchroma.git,An advanced driver for Razer Chroma hardware in Linux,"chroma,linux,driver,userspace,hardware,python,animation,led,color,blade,keyboard,mouse,razer,razer-chroma,python-library",42
+0,https://github.com/sdague/amt.git,"{""Python tools for interacting with Intel's AMT hardware control interfaces""}",,42
+0,https://github.com/frank26080115/Arduino-UsiSerial-Library.git,Arduino library to implement hardware serial using USI,,42
+0,https://github.com/dmohindru/cod5e.git,Repository for exercises for Computer Organization and Design: The Hardware/Software Interface 5th Edition,,42
+0,https://github.com/analogdevicesinc/EVAL-ADICUP360.git,"Detailed User Guide for the EVAL-ADICUP360, showing how to use the software and hardware in combination.  As well as a link to download the CrossCore Embedded Studio IDE.",,42
+0,https://github.com/misterpeddy/Digital-Logic-Design.git,A high-level overview of the bridge between hardware and software,,42
+0,https://github.com/mattcurrie/gb-save-states.git,Patches to add save state support to Game Boy games when playing on the original hardware,"gameboy,assembly-language,game-boy",42
+0,https://github.com/homebridge/ffmpeg-for-homebridge.git,Static ffmpeg binaries for Homebridge with support for audio (libfdk-aac) and hardware decoding (h264_omx).,"ffmpeg,homebridge,camera,libfdk-aac,omx,h264-omx,homekit,multiarch",42
+0,https://github.com/electro-smith/oopsy.git,gen~ to Daisy: exporting Max Gen patchers for the ElectroSmith Daisy hardware platforms,,42
+0,https://github.com/midwire/bash.env.git,"{""Bash.env is a cascading Bash environment system for those who work on different hardware and OS environments.  Similar to oh-my-zsh but for Bash, and special sauce for those who work 'ssh' on remote machines.""}","bash,shell,solaris,osx,linux,environment,development-environment,macos,shell-script,bash-hacks,bash-prompt,bash-configuration,bash-scripting,bash-alias,bashrc,bash-profile,bash-completion",42
+0,https://github.com/udotdevelopment/ATSPM.git,"Automated Traffic Signal Performance Measures (ATSPM) are a series of visual aids that display the high-resolution data from signal controllers. They are a valuable asset management tool, aiding personnel in the control of both signal hardware and signal timing and coordination. They allow analysis of data collected 24 hours a day, 7 days a week, improving the accuracy, flexibility, and performance of signal equipment and the system as a whole. ATSPM are used to optimize mobility, manage traffic signal timing and maintenance, reduce congestion, save fuel costs and improve safety.",,42
+0,https://github.com/newaetech/phywhispererusb.git,PhyWhisperer-USB: Hardware USB Trigger,"glitch,hardware-triggering,oshw,fpga,usb",41
+0,https://github.com/SukkoPera/OpenKickstartSwitcher.git,Open Hardware Kickstart Switcher for Amiga Computers,"commodore,amiga,kickstart,switcher,open-hardware,open-hardware-electronics,retrogaming,retrocomputing",41
+0,https://github.com/pulp-platform/bigpulp.git,"RISC-V manycore accelerator for HERO, bigPULP hardware platform",,41
+0,https://github.com/electro-smith/Hardware.git,Documentation and resources for Electrosmith Hardware ,,41
+0,https://github.com/RICE-EIC/ShiftAddNet.git,[NeurIPS 2020] ShiftAddNet: A Hardware-Inspired Deep Network,,41
+0,https://github.com/intel/ffmpeg_libyami.git,Enable FFmpeg to use Libyami/VAAPI for hardware offload of video transcode on the Intel GPU,,41
+0,https://github.com/nibbleteam/nibble.git,Fantasy console designed to run on real hardware,,41
+0,https://github.com/libcala/cala.git,Cross-platform system interface for hardware IO,"rust-library,gui-library,game-library,app-engine,library,graphics-library,platform-agnostic,cross-platform,speaker,sound,microphone,hardware-io,hardware,bluetooth,audio,video,android,rust,cala,gui",41
+0,https://github.com/swkrueger/Thrifty.git,Thrifty is proof-of-concept SDR software for TDOA positioning using inexpensive SDR hardware such as the RTL-SDR.,"rtl-sdr,raspberry-pi,sdr",41
+0,https://github.com/Justasic/Kernel.git,"{""I'm completely insane now, I am writing my own kernel to learn how low-level hardware programming works.""}",,41
+0,https://github.com/adafruit/Pi_Internet_Thing_Videos.git,"{""Example code to go along with video series on building an internet 'thing' with a Raspberry Pi.  Demonstrates building a web app in Python that controls the Pi hardware with a web interface.""}",,41
+0,https://github.com/Jieqiio/BaseJay.git,"BaseJay is part of The Open EdgeComputing Hardware Project. Create your own software with BaseJay Docker Development Kit on linux, Mac and windows.",,41
+0,https://github.com/ctuning/ctuning-programs.git,"Collective Knowledge extension with unified and customizable benchmarks (with extensible JSON meta information) to be easily integrated with customizable and portable Collective Knowledge workflows. You can easily compile and run these benchmarks using different compilers, environments, hardware and OS (Linux, MacOS, Windows, Android). More info:","open-benchmarks,common-benchmarks,customizable-benchmarking,collaborative-benchmarking,collaborative-optimization,json-metadata,json-api,collective-knowledge,reproducible-research,reproducible-workflows,c,cpp,fortran,opencl,cuda,crowd-benchmarking,crowd-tuning",41
+0,https://github.com/nodejs/hardware.git,Hardware Working Group,"nodejs,node",40
+0,https://github.com/OpenBCI/Ganglion_Hardware_Design_Files.git,General repo for Ganglion hardware files ,,40
+0,https://github.com/fpgasystems/doppiodb.git,doppioDB - A hardware accelerated database,"database,fpga,hardware-acceleration",40
+0,https://github.com/AnaviTechnology/anavi-docs.git,Documents for all ANAVI open source hardware products,hacktoberfest,40
+0,https://github.com/axbryd/FlowBlaze.git,FlowBlaze: Stateful Packet Processing in Hardware,,40
+0,https://github.com/twteamware/raspberrypi-ptp.git,How to run IEEE-1588 on RaspberryPi hardware,"ptp,raspberry-pi,raspbian",40
+0,https://github.com/wovo/hwlib.git,C++ OO micro-controller library for close-to-the-hardware programming,"c-plus-plus,microcontroller,hardware,arduino-uno",40
+0,https://github.com/blaa/WaveSync.git,Multi-room synchronised audio playback over shaky network connections and cheap (rasbperry pi) hardware.,,40
+0,https://github.com/psobot/SampleScanner.git,Convert hardware MIDI instruments into software instruments from the command line.,"midi,sampler,python,audio,vst,music",40
+0,https://github.com/OneRNG/hardware.git,Hardware designs for OneRNG,,40
+0,https://github.com/NidalFikri/The-HACK-General-Purpose-Computer.git,"Using HDL, from Boolean algebra and elementary logic gates to building a Central Processing Unit, a memory system, and a hardware platform, leading up to a 16-bit general-purpose computer. Then, implementing the modern software hierarchy designed to enable the translation and execution of object-based, high-level languages on a bare-bone computer hardware platform; Including Virtual machine,Compiler and Operating system.","computer-architecture,hardware-description-language,arithmetic-logic-unit,nand2tetris,nand,cpu,assembler,machine-language,virtual-machine,compiler,operating-system",40
+0,https://github.com/m1k1o/go-transcode.git,Live on-demand transcoding in go using ffmpeg. Also with NVIDIA GPU hardware acceleration.,"gpu,streams,ffmpeg,live-streaming,golang,transcoding,demand-transcoding,docker,nvidia-cuda",40
+0,https://github.com/ScalableMachinesResearch/JXPerf.git,"Java inefficiency detection tool based on CPU performance monitoring counters and hardware debug register. The tool detects dead writes, silent stores, and redundant loads.",,40
+0,https://github.com/blur-network/blur.git,"The Blur Network is a privacy-oriented peer-to-peer network, built upon the premise that privacy is incompatible with centralization. BLUR employs a custom mining algorithm called CryptoNight-Dynamic.  Iterations adjust approximately once every five seconds, with a goal of maintaining CPU advantages over specialized mining hardware.","cryptocurrency,cryptonote,cpu-mining,mining,privacy,blur,xmr,decentralized,crypto,anonymity,experimental,monero",40
+0,https://github.com/thagrol/fakewake.git,"{""Fakewake is a software and hardware project that allows network remote control of a PC's power and reset buttons.  Wake-on-LAN allows remote start of a PC but has its limitations and does not provide a mechanism to shutdown or reboot the PC. Fakewake provides a web and WOL interface that allows remote power on, power off, and reset.""}",,40
+0,https://github.com/PandoCloud/pando-embedded-framework.git,a middleware between server and hardware driver,,39
+0,https://github.com/cleanflight/blackbox-firmware.git,Blackbox firmware for the OpenLog hardware,,39
+0,https://github.com/UnaPibaGeek/thebicho.git,Hardware backdoor for CAN bus.,,39
+0,https://github.com/ziad-saab/hw-parallax.git,Hardware-accelerated parallax scrolling plugin for jQuery,,39
+0,https://github.com/dkarunakaran/robocar.git,Buillt on top of ROS and donkeycar hardware,"ros-kinetic,python-3,raspberry-pi-3,deep-learning,convolutional-neural-networks,pwm",39
+0,https://github.com/769484623/MahonyAHRSWithMPU9250.git,MahonyAHRS with  STM32F0 & MPU9250 & MS5611 (Using hardware I2C),,39
+0,https://github.com/riscv-rust/k210-hal.git,"{""Rust's hardware abstract layer (HAL) for K210 chip, a dual RV64GC SoC with hardware accelerated AI peripherals. Contributions welcomed!""}","rust,rust-embedded,embedded-hal,k210,kendryte,riscv",39
+0,https://github.com/nocko/tdcs.git,Open tDCS: tDCS Regulation Circuits - Open Source Hardware,,39
+0,https://github.com/asyncvlsi/act.git,ACT hardware description language and core tools.,"hardware-description-language,asynchronous-vlsi,eda,vlsi-cad,asynchronous-circuits,cad,hdl,circuit-simulator,design-automation,vlsi,chp,communicating-hardware-processes,prs,production-rules,dataflow,dataflow-programming,language",39
+0,https://github.com/Multibit-Legacy/multibit-hardware.git,"The MultiBit HD support library for Bitcoin hardware wallets (e.g. Trezor, KeepKey etc)",,39
+0,https://github.com/DLTcollab/dcurl.git,"Hardware-accelerated Multi-threaded IOTA PoW, drop-in replacement for ccurl","iota,nonce,trytes,pearldiver,tangle,biilabs,pow,fpga,opencl,simd",39
+0,https://github.com/Piyush3dB/awesome-deep-computation.git,"A curated list of Deep Learning hardware, cycle/memory optimisation techniques",,39
+0,https://github.com/tonarino/panel-firmware.git,"Firmware for the volume control hardware, targeting an STM32F4 board",,39
+0,https://github.com/Isotel/mixedsim.git,Hardware Design Tool - Mixed Signal Simulation with Verilog,,39
+0,https://github.com/esp-rs/esp8266-hal.git,A experimental hardware abstraction layer for the esp8266 written in Rust.,,39
+0,https://github.com/ArtemioUrbina/MDFourier.git,A Fourier Analysis analysis tool to compare audio produced by gaming hardware,,39
+0,https://github.com/makerbase-mks/MKS-SGEN_L-V2.git,"MKS SGEN_L V2.0 is powerful 32-bit 3D printer control board. The CPU is LPC1769 120MHZ, SGEN_L V2 hardware Integrated 4KB EEPROM, 5AXIS and dual Z interface, has 2 way FANs and Dc12/24V out interface, support TMC UART and SPI mode...",,39
+0,https://github.com/Jinjinov/Hardware.Info.git,"Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapter, printer, sound card - audio card, graphics card - video card. Hardware.Info is a .NET Standard 2.0 library and uses WMI on Windows, /dev, /proc, /sys on Linux and sysctl, system_profiler on macOS.","computer,device,hardware,info,information,net-standard,windows,linux,macos",39
+0,https://github.com/openblockcc/openblock-desktop.git,Graphic programming software for hardware.,"scratch,scratch3,arduino,hardware,openblock,microbit",38
+0,https://github.com/analogdevicesinc/pyadi-iio.git,Python interfaces for ADI hardware with IIO drivers (aka peyote),,38
+0,https://github.com/resibots/dynamixel_control_hw.git,Hardware interface for ros_control and the Dynamixels actuators,,38
+0,https://github.com/Robbbert/hbmame.git,Emulator of homebrew and hacked games for arcade hardware,,38
+0,https://github.com/rainforestautomation/Eagle-Http-API.git,"{""Libraries for accessing Rainforest Automation's Eagle hardware""}",,38
+0,https://github.com/buserror/rf_bridge.git,RF (433Mhz) to MQTT Bridge - with hardware,"mqtt,rf,433mhz,c,arduino,linux,home-automation,firmware,avr,kicad",38
+0,https://github.com/hamza121star/tech-companies-in-pakistan.git,"A list of technology companies that hire software developers, product designers, data scientists and hardware engineers",,38
+0,https://github.com/MCUdude/microUPDI.git,DIY UPDI programmer with open source hardware!,,38
+0,https://github.com/OliviliK/STM32F103.git,"Cortex M3 hardware descriptions, library software, and some applications for ST and GD F103 platforms",,38
+0,https://github.com/SukkoPera/OpenAmiga600RamExpansion.git,Open Hardware 1 MB Chip RAM Expansion for the Commodore Amiga 600 Computer,"commodore,amiga,amiga-hardware,open-hardware,open-hardware-electronics,retrogaming,retrocomputing,memory,expansion,board",38
+0,https://github.com/TurtleZhong/Visual-Inertial-Synchronization-Hardware.git,This project aims to hardware-synchronize camera and IMU so that both use the same (millisecond precise) time base.,"visual-inertial,synchronisation,visual-inertial-odometry,stereo-vision,mpu6050",38
+0,https://github.com/droserasprout/lenovo-yoga-c930-linux.git,Varions fixes to provide full hardware support of Lenovo Yoga C930 on Linux,,38
+0,https://github.com/dragontamer/AESRand.git,Random Number Generator based on hardware-accelerated AES instructions,"rng,simd,aes",38
+0,https://github.com/OLIMEX/ESP32-DevKit-LiPo.git,"Open Source Hardware OSHW ESP32 development board designed with KiCAD to be pin to pin compatible with Espressif ESP32-DevKitC, but with additional LiPo charger and battery",,38
+0,https://github.com/weiju/amiga_hardware_in_c.git,"Example source code for Youtube series ""Amiga Hardware Programming in C""",,38
+0,https://github.com/intel-go/avx512counters.git,"AVX-512 hardware counters collector written in Go, based on Go toolchain","avx512,golang,go,hardware-counters,perf,ocperf,evaluation,collector,intel",38
+0,https://github.com/jasonsikes/QLogo.git,QLogo is a rewrite of the UCBLogo language and user interface with UCB compatibility. It is cross-platform and uses hardware-accelerated graphics.,"logo,ucblogo,language,cpp,qt,qt5,opengl,opengl-es",38
+0,https://github.com/dragino/modules.git,"Software/Hardware relates to Arduino modules, nodes, accessories. ",,37
+0,https://github.com/profesorfalken/jHardware.git,Get crossplatform hardware details with Java,,37
+0,https://github.com/IC3DPrinters/filament-extrusion.git,Open Source Hardware: 3D Printing Filament,,37
+0,https://github.com/osefrance/SolarConcentrator.git,Open Hardware Solar concentrator - Linear Fresnel Reflector,,37
+0,https://github.com/plumbee/nvidia-hw-accelerated-box.git,Setup for a hardware accelerated EC2 g2 instance,,37
+0,https://github.com/curiousinventor/VMeter.git,VMeter Touch Music Controller and Display Source Software and Hardware,,37
+0,https://github.com/John-Nagle/ttyloopdriver.git,Hardware device for driving antique Teletype machines,,37
+0,https://github.com/SphinxEVK/RT1052V2.git,"SphinxEVK hardware design files, including PDF schematics and AltiumDesigner PCB layout.",,37
+0,https://github.com/IBM/hdl-tools.git,Facilitates building open source tools for working with hardware description languages (HDLs),"rtl,hdl,verilog,verilator,gtkwave",37
+0,https://github.com/kanzure/skdb.git,open source hardware package management system (apt-get for real stuff),,37
+0,https://github.com/StickSports/ANE-Silent-Switch.git,Air native extension for iOS to mute sounds if the hardware silent switch is on.,,37
+0,https://github.com/jiangzhw/MachineCodeCal.git,"Get the hardware information such cpu id ,cpu sn,mac,motherboard sn etc, then calculate the machine code,this method is useful in Software Registration.",,37
+0,https://github.com/sonysuqin/WebRTCOBSEncoder.git,"{""Implment WebRTC H264 encoder by calling OBS's internal encoder in order to use x264 and some hardware H264 encoders for 1080P acceleration.""}",,37
+0,https://github.com/iobroker-community-adapters/ioBroker.deconz.git,"Connects to deConz software developed by dresden-elektronik. This software aims to be a universal ZigBee Gateway solution, using hardware from dresden-elektronik the ConBee USB stick and RaspBee a modul for the Raspberry Pi.","dresden-elektronik,deconz,iobroker,hardware,raspberry-pi,xiaomi-sensors",37
+0,https://github.com/wmanley/pulsevideo.git,Allows multiplexing access to webcams such that more than one application can read video from a single piece of hardware at a time.,,37
+0,https://github.com/eldruin/driver-examples.git,"Rust example programs for many of my hardware device drivers running on STM32F3 Discovery or STM32F103 ""Blue Pill"" boards","rust,example,driver,embedded-hal,embedded-hal-driver,i2c,spi,no-std,embedded",37
+0,https://github.com/jaym910/polyphonic_track.git,"Polyphonic pitch tracking in real time using machine learning algorithms implemented in Python and an audio engine using Pure Data. Note tracking data is converted to MIDI and can be sent to DAWs, midi-capable hardware, etc.",,37
+0,https://github.com/via-intelligent-vision/VIA-AI.git,"The VIA-AI open source driver assistance app supports Adaptive Cruise Control (ACC), Lane Keeping Assist System (LKAS), and CAN Bus integration functions. It enables the development of driver assistance capabilities for selected vehicles using a modern Android smartphone and hardware connectors. ",,37
+0,https://github.com/MatrixAINetwork/Sampling-Model.git,Hardware of sampling model,,36
+0,https://github.com/redhat-cip/hardware.git,Python module for hardware detection and classification,,36
+0,https://github.com/whizzosoftware/SIO2Arduino.git,An Atari 8-bit device emulator for Arduino hardware,,36
+0,https://github.com/arunmagesh/hw_hacking_cheatsheet.git,Hardware Hacking Cheatsheet infograph,,36
+0,https://github.com/FaradayRF/FaradayRF-Hardware.git,Faraday hardware design files,,36
+0,https://github.com/myriadrf/cellular-network-configs.git,Configurations for using LimeSDR hardware with Osmocom and OpenAirInterface etc.,"limesdr,osmocom,openairinterface,ran,cellular",36
+0,https://github.com/gz/rust-perfcnt.git,Rust library to program hardware performance counter.,,36
+0,https://github.com/gz/rust-perfcnt.git,Rust library to program hardware performance counter.,,36
+0,https://github.com/CTSRD-CHERI/beri.git,The BERI and CHERI processor and hardware platform,,36
+0,https://github.com/execuc/esp-hw-monitoring.git,"Hardware monitoring (ESP8266 + 2.8"" ILI9341  LCD + DHT22)",,36
+0,https://github.com/BlockchainCommons/lethekit.git,Open source DIY hardware box for offline cryptographic tools.,,36
+0,https://github.com/keesj/saleae-logic-libusb.git,Open Source libs to access the saleae logic analyzer hardware http://www.saleae.com/logic/,,36
+0,https://github.com/citrix/citrix-k8s-node-controller.git,Integrates the hardware/virtualized Citrix ADC with the Kubernetes overlay / underlay,"netscaler,kubernetes,network,vxlan,ingress,overlay-network",36
+0,https://github.com/cesarediaz/inventory.git,web system to manage a hardware inventory,,36
+0,https://github.com/rayshobby/squarewear.git,"SquareWear is an open-source wearable electronics controller board. This repository contains the hardware design files, software library, and software demo.",,36
+0,https://github.com/DavidPhillipOster/LevelsOfPressure.git,"iOS app for iOS 8 and up, showing pressure sensitivity of touches for pre-6S hardware",,36
+0,https://github.com/emilbjornson/deep-learning-channel-estimation.git,"Simulation code for “Channel Estimation in Massive MIMO under Hardware Non-Linearities: Bayesian Methods versus Deep Learning,” by Özlem Tugfe Demir, Emil Björnson, IEEE Open Journal of the Communications Society, To appear.",,36
+0,https://github.com/skalenetwork/sgxwallet.git,"sgxwallet is the first-ever opensource high-performance hardware secure crypto wallet that is based on Intel SGX technology.  First opensource product on Intel SGX whitelist. Scales to 100,000+ transactions per second. Currently supports ETH and SKALE, and will support BTC in the future.  Sgxwallet is under heavy development and use by SKALE network.","sgx,wallet,ubuntu,trusted-computing,trusted-execution-environment,ethereum,blockchain,bls-signature,ecdsa,proof-of-stake,hardware-crypto-wallet",36
+0,https://github.com/ctuning/ck-caffe2.git,"Integration of Caffe2 to Collective Knowledge workflow framework to provide unified CK JSON API for AI (customized builds across diverse libraries and hardware, unified AI API, collaborative experiments, performance optimization and model/data set tuning):","json-api,common-ai-api,experimental-workflows,customized-builds,universal-package-manager,collective-knowledge,collaborative-optimization",36
+0,https://github.com/TricksterGuy/nin10kit.git,"{""(Formerly brandontools) A set of tools for doing homebrew game development, includes look up table generators and and image to C exporter for Nintendo's Gameboy Advance, DS, and 3DS systems.  In addition the GUI version of the program allows you to see what the image would look like on real hardware before exporting.  Coming soon the ability to edit the bitmap/palette/tilemaps before exporting to the GBA.""}",,36
+0,https://github.com/flutter-moum/flutter_hardware_buttons.git,Flutter plugin for detecting all hardware buttons,,35
+0,https://github.com/bfolder/UIDevice-HardwareModel.git,Determines hardware type of current iOS device. ,,35
+0,https://github.com/citrus3000psi/DCHDMI-Hardware.git,Hardware Design for Chriz2600 Dreamcast Firmware,,35
+0,https://github.com/openstack/ironic-inspector.git,Hardware introspection daemon for OpenStack Ironic. Mirror of code maintained at opendev.org.,,35
+0,https://github.com/open-ephys/acquisition-board.git,Hardware interface for streaming up to 512 channels of neural data via USB,"electrophysiology,hardware,neuroscience",35
+0,https://github.com/fablabbcn/smartcitizen-kit-20.git,Smart Citizen Kit 2.0 hardware and firmware,"firmware,sck,smartcitizen,hardware",35
+0,https://github.com/xorbit/LiFePO4wered-USB-OSHW.git,LiFePO4wered/USB power module open source hardware design files,,35
+0,https://github.com/kanflo/aaduino-zero.git,Hardware and software for the Arduino Zero,"arm,rfm69cw,arduino,tmp102,wireless-sensor-networks,open-hardware,stm32l0",35
+0,https://github.com/ANSSI-FR/chipsec-check.git,Tools to generate a Debian Linux distribution with chipsec to test hardware requirements,"chipsec,intel,secureboot-key",35
+0,https://github.com/prophesee-ai/openeb.git,Open source modules to interface Metavision Intelligence Suite with event-based vision hardware equipment,"computer-vision,event-based,event-based-camera,sdk,camera-api",35
+0,https://github.com/sipeed/bl602-hal.git,Hardware Abstract Layer for BL602 RISC-V WiFi + BLE SoC in embedded Rust,"rust,hal,embedded-hal,bl602,wifi,ble,bouffalo",35
+0,https://github.com/unknowndomain/Open-Source-Vacuum-Cleaner.git,This is the home of the Open Source Hardware Vacuum Cleaner Project.,,35
+0,https://github.com/zeta0134/pikmin-nds.git,A tech demo showcasing a multipass rendering setup with high polygon counts on NDS hardware.,,35
+0,https://github.com/NVIDIA/NVIDIAOpticalFlowSDK.git,"Optical Flow SDK exposes the latest hardware capability of Turing GPUs dedicated to computing the relative motion of pixels between images. The hardware uses sophisticated algorithms to yield highly accurate flow vectors, with robust frame-to-frame intensity variations and tracks the true object motion faster and more accurately.",,35
+0,https://github.com/sammcj/the_best_of.git,"{""At the end of every year I do a bit of summary of the best applications, hardware & websites I've enjoyed & depended on throughout the year (and often for some time before).""}",,35
+0,https://github.com/fransschreuder/usbpicprog.git,Open Source Open Hardware USB Pic Programmer,,34
+0,https://github.com/jakplugg/motivation_radio_hardware.git,ESP32 eurorack hardware platform.,,34
+0,https://github.com/circuitvalley/ttyMAY_linux_board.git,PCB Hardware/ Design Document For ttyMay DIY linux board,"linux,embedded,diy",34
+0,https://github.com/Piker-Alpha/MacSerials.git,Serial number end of Apple hardware ,,34
+0,https://github.com/CCHS-Melbourne/iotuz-esp32-hardware.git,Project for the InternetOfTuz (LCA2017 Open Hardware Mini-Conference),,34
+0,https://github.com/SukkoPera/OpenAmigaVideoHybrid.git,Open Hardware implementation of the Commodore Amiga Video Hybrid,,34
+0,https://github.com/thedarknet/hhvkit.git,DefCon Hardware Hacking Village Learn To Solder Kit,,34
+0,https://github.com/xmixahlx/pbp-tools.git,"pinebook pro tools: tools for system management, hardware acceleration, and wayland environment for the pinebook pro.",,34
+0,https://github.com/techjacker/Backbone-Responsive-CSS3-Page-Transitions.git,CSS3 hardware accelerated page transitions optimised for fluid layouts,"css3,backbone,page-transitions,animations,mobile",34
+0,https://github.com/afborchert/pointer-chasing.git,"Utilities to measure read access times of caches, memory, and hardware prefetches for simple and fused operations",,34
+0,https://github.com/btittelbach/go-bbhw.git,"BeagleBone Hardware Controls (GPIO,PWM,TTY,DTO) for the go language",,34
+0,https://github.com/waterfoxfox/HWcodec.git,hardware codec for windows using ffmpeg (nvi qsv enc\\dxva2 dec) 使用ffmpeg进行Qsv硬编码、Nvi硬编码、DXVA硬解码的封装API,"hardware-codec,ffmpeg,dxva,qsv,nvi,codec",34
+0,https://github.com/jonhoo/curb.git,Run a process on a particular subset of the available hardware.,,34
+0,https://github.com/NiklasFauth/sony-scopeman.git,Hardware Design files of a replacement mainboard for the Sony Watchman FD-10. This turns it into a bluetooth and WiFi-enabled vector display.,,34
+0,https://github.com/cyphunk/sectk.git,## No more updates as of early 2010. ## Security Toolkit for hardware and software reverse engineering.   Online information is not forever and some tools are too important to loose so I started archiving the important ones I use. I comment and link to the originals religiously so be sure to check the README in each directory.,,34
+0,https://github.com/hydrabus/rhme-2016.git,"The RHme2 (Riscure Hack me 2) is a low level hardware CTF challenge that comes in the form of an Arduino Nano board. The new edition provides a completely different set of new challenges to test your skills in side channel, fault injection, cryptoanalysis and software exploitation attacks. ","crypto,reverse,side-channel,fault-injection,hardware-hacking,challenge,hydrabus-board,security",34
+0,https://github.com/wisp/wisp5-hw.git,WISP 5 hardware design repository,,33
+0,https://github.com/G6EJD/ESP32-Using-Hardware-Serial-Ports.git,How to use ESP32 hardware serial ports,,33
+0,https://github.com/google/myelin-acorn-electron-hardware.git,"{""Phillip Pearson's retro hardware projects for the Acorn Electron""}",,33
+0,https://github.com/icibici/smartphone-bci-hardware.git,Hardware Repository for the Hardware used in the smartphone BCI Project,,33
+0,https://github.com/kennethlimcp/oshw-design.git,Open-source hardware projects that everyone can use!,,33
+0,https://github.com/johngarchie/xmas-icetube.git,Alternative Ice Tube Clock firmware and hardware revision,,33
+0,https://github.com/SukkoPera/Open2327RomAdapter.git,Open Hardware 2364-27xxx (E)EPROM Adapter PCB,"commodore,commodore-64,eprom,eeprom,open-hardware,open-hardware-electronics,hacktoberfest,kernal,kernal-rom,adapter-pcb",33
+0,https://github.com/carrotIndustries/energytrace-util.git,Utility for reading EnergyTrace data from TI debug hardware,,33
+0,https://github.com/nshadov/screensaver-mouse-jiggler.git,"Hardware arduino based mouse emulator, preventing screen saver locking (eg. during forensic investigation)","security,forensics,forensics-investigations,screensaver-mouse-jiggler,screensaver,arduino-device",33
+0,https://github.com/probonopd/previous.git,NeXT hardware emulator for a NeXT Cube and NeXT Station. Mirrored from SourceForge,,33
+0,https://github.com/tau-adl/RemoteSLAM.git,"Provide  building blocks (software, hardware and algorithms) for implementing SLAM using small sensors",,33
+0,https://github.com/patcito/mindwallet.git,"{""mindwallet helps you create brain wallets with the strongest encryption algorithm in existence so that you don't need to spend money on expensive proprietary hardware wallets that require you to memorize a passphrase anyway. ""}","bitcoin,bitcoin-wallet,ethereum,ethereum-wallet,monero,monero-wallet,litecoin,litecoin-wallet,golang,argon2,javascript,webworker,cryptocurrency",33
+0,https://github.com/wadetb/warptrace.git,Code for recording warp timing in OpenGL 4.5 on NVIDIA hardware,,33
+0,https://github.com/elementzonline/RaspberryPi-Sample-Codes.git,samples codes for interfacing RaspberryPi with hardware modules by Elementz,"python,raspberry-pi,raspberry-pi-3,raspberrypi,raspberry-pi-library",32
+0,https://github.com/mcmilk/UniFi-HotSpot-Manager.git,A HotSpot Manager for Ubiquiti UniFi Hardware,"hotspot-manager,unifi,unifi-controller,ubiquiti,ubnt",32
+0,https://github.com/PolyArch/dsa-framework.git,Release of stream-specialization software/hardware stack.,,32
+0,https://github.com/dellcloudedge/crowbar-sledgehammer.git,Hardware discovery and configuration component of Crowbar,,32
+0,https://github.com/pierrekilly/docker-ros-box.git,The dockerized ROS box with hardware accelerated X11 support,,32
+0,https://github.com/kmani314/ATMega32u4-HID-Keyboard.git,ATMega32u4 HID Keyboard implemented using hardware USB.,,32
+0,https://github.com/Nitrokey/nitrokey-storage-hardware.git,Hardware project of the Nitrokey Storage device,,32
+0,https://github.com/google/certtostore.git,Hardware Backed Keys and Certificate Store Management on Windows,,32
+0,https://github.com/Clam-/TraditionalT9.git,T9 English IME input for Android using hardware keypad. (e.g. SoftBank 007SH),,32
+0,https://github.com/davcs86/csharp-uhwid.git,C# class to generate an Unique Hardware ID.,,32
+0,https://github.com/kevinmehall/rust-soapysdr.git,"Rust bindings for SoapySDR, the vendor-neutral software defined radio hardware abstraction layer","soapysdr,rust-bindings,sdr,software-defined-radio",32
+0,https://github.com/FastVPSEestiOu/storage-system-monitoring.git,"Toolkit for checking health of different storage systems: linux software raids, hardware raids (Adaptec, LSI) and dmesg",,32
+0,https://github.com/openmv/tensorflow-lib.git,TensorFlow package for Cortex-M4 and Cortex-M7 CPUs with hardware floating point.,,32
+0,https://github.com/julien8/PoEPi-hardware.git,The hardware for the Raspberry Pi Zero power over Ethernet devices,,32
+0,https://github.com/nix-community/nixos-install-scripts.git,collection of one-shot scripts to install NixOS on various server hosters and other hardware. [maintainer=@happysalada],nixos,32
+0,https://github.com/maierfelix/chromium-ray-tracing.git,Chromium build with hardware accelerated Ray tracing,,32
+0,https://github.com/RICE-EIC/HW-NAS-Bench.git,[ICLR 2021] HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark,,32
+0,https://github.com/ctuning/ck-mlperf.git,"Collective Knowledge repository to automate MLPerf - a broad ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms:",,32
+0,https://github.com/msolajic/c64-magic-desk-512k.git,Hardware design of Magic Desk compatible C64 cartridge up to 512k,"c64,commodore-64,commodore64,commodore-128,c128,hardware,cartridge",32
+0,https://github.com/KAIST-NCL/Accelerator-Docker.git,Accelerator-Docker : provides common interface for automatic passthrough of heterogeneous hardware accelerators in docker ,"docker,fpga,gpu,passthrough,container-fpga,container-gpu,fpga-runtime,gpu-runtime,docker-runtime",32
+0,https://github.com/oshwa/certification-mark.git,"{""A graphic mark, or logo, for OSHWA's Open Hardware Certification program, with a style guide and different design file formats for easy use""}",,32
+0,https://github.com/particle-iot/app-notes.git,Technical application notes for hardware and software designs and best-practices.,,32
+0,https://github.com/drojaazu/chrgfx.git,Converts to and from tile based graphics from retro video game hardware,"retrogaming,sega,nintendo,nintendo-snes,sega-mega-drive,sega-genesis,graphics,game-development,16bit,snes,megadrive,neogeo,snk,capcom,famicom,nes,gameboy,retro-hardware-systems",32
+0,https://github.com/gateware-ts/gateware-ts.git,"Hardware definition library and environment for designing and building digital hardware for FPGAs, using only open source tools","gateware,typescript,verilog,hdl,hardware,simulation,fpga",32
+0,https://github.com/leonyuhanov/WOWPixelDriver.git,"A hardware based animation library,pixel driver & dynamic led mapping system for addressable LEDs","led-mapping,led-controller,led-controlling,neopixel-matrix,apa102,sk9822,ws2812b,ws2812,neopixels,espnow,esp8266,led-animation,pixel-animation",32
+0,https://github.com/nonken/humanapi.git,"Bringing the browser as a platform to the real world. Enabling you to write mobile web apps (JavaScript, HTML, CSS) and letting them connect to real hardware",,32
+0,https://github.com/fjp/diffbot.git,"{""DiffBot is an autonomous 2wd differential drive robot using ROS Noetic on a Raspberry Pi 4 B. With its SLAMTEC Lidar and the ROS Control hardware interface it's capable of navigating in an environment using the ROS Navigation stack and making use of SLAM algorithms to create maps of unknown environments.""}","ros,diffbot,robot,raspberry,raspberrypi4,python,cpp,noetic,differential,drive,differential-drive-robot,smart,chassis,gazebo,rviz,teensy,navigation-stack,ros-control,gazebo-simulation,jetson-nano",32
+0,https://github.com/Sakitoshi/retropie-crt-tvout.git,set of configurations to get a picture as close to real hardware as possible with the built-in composite tv-out of the raspberry pi,,32
+0,https://github.com/adafruit/Tweet-a-Watt.git,"{""This project documents my adventures in learning how to wire up my home for wireless power monitoring. I live in a rented apartment so I don't have hacking-access to a meter or breaker panel. Since I'm still very interested in measuring my power usage on a long term basis, I built wireless outlet reporters. Building your own power monitor isn't too tough and can save money but I'm not a fan of sticking my fingers into 120V power. Instead, I'll used the existing Kill-a-watt power monitor, which works great and is available at my local hardware store.""}",,32
+0,https://github.com/openeew/openeew-sensor.git,Hardware for an OpenEEW sensor,"earthquakes,eew,sensor,iot,seismology,accelerometer,call-for-code,linux-foundation,openeew",31
+0,https://github.com/ethz-asl/libvisensor.git,Low level hardware driver for the visual inertial SLAM sensor.,,31
+0,https://github.com/librespacefoundation/upsat-comms-hardware.git,COMMS Hardware for UPSat,,31
+0,https://github.com/Hack-a-Day/basic-badge.git,2018 Hackaday Belgrade Hardware Badge,,31
+0,https://github.com/Smoothieware/Smoothieboard2.git,"Hardware files for the Smoothieboard v2, and extension boards",,31
+0,https://github.com/openstenoproject/stenosaurus.git,Stenosaurus software and hardware,,31
+0,https://github.com/openxc/reference-vi.git,Open Source Hardware Schematics for OpenXC Vehicle Interface,,31
+0,https://github.com/reynico/arduino-wardriving.git,Tupperware based ESP8266 wardriving hardware,"esp8266,esp8266-arduino,wardriving",31
+0,https://github.com/SukkoPera/OpenC64Cart16K.git,Open Hardware 16 KB Cartridge for the Commodore 64,"commodore,commodore-64,cartridge,eprom,eeprom,open-hardware,open-hardware-electronics,retrogaming,retrocomputing",31
+0,https://github.com/drotek/SMARTNAV-RTK.git,Drotek SMARTNAV RTK - Hardware and Software - Open Source centimeter level positioning ,,31
+0,https://github.com/rseal/GnuRadar.git,Open-source software defined radar based on the USRP 1 hardware.,,31
+0,https://github.com/wendlers/msp430-harduart.git,Hardware UART example for MSP430G2553 on TI Launchpad using mps430-gcc on Linux,,31
+0,https://github.com/ayeowch/bitnodes-hardware.git,Ready-to-run all-inclusive Bitcoin full node hardware powered by ODROID-C1+ single-board computer.,,31
+0,https://github.com/isand3r/openOBD.git,An open source (Hardware+software) OBD reader and sensor device for vehicle data collection.,,31
+0,https://github.com/hexagon5un/klangorium.git,Hardware and tutorials for the Hackaday / Logic Noise Klangorium demo board,,31
+0,https://github.com/Archomeda/lightfx-extender.git,"{""Allows gamers to take advantage of LightFX on hardware other than Alienware's""}",,31
+0,https://github.com/gholomia/Awesome-CS-Books.git,"A curated list of awesome computer science books; mainly focused on hardware acceleration, deep learning, machine learning and brain computer interface.","computer-science,fpga,cuda,tensorflow,python,neural-network,machine-learning,qt-creator",31
+0,https://github.com/ellysh/InpOut32.git,This is a mirror. InpOut32 is a windows DLL and Driver to give direct access to hardware ports (for example the parallel and serial port from user level programs.,,31
+0,https://github.com/mtiutiu/Hardware_Playground.git,Hardware projects using KiCad,"hardware,cad",30
+0,https://github.com/Infineon/Blockchain.git,Hardware-based security for Blockchain applications,,30
+0,https://github.com/OLIMEX/DuinoMite.git,Open Source Open Hardware Single Board BASIC computer,,30
+0,https://github.com/unprovable/FTDI-Oh-My.git,FTDI FT232H tools for hardware hacking,,30
+0,https://github.com/sparkfun/Simon-Says.git,Example firmware and hardware files for the Simon Says kit. ,,30
+0,https://github.com/mareklinka/SafeNetTokenSigner.git,A SignTool alternative that can automatically unlock SafeNet hardware tokens,,30
+0,https://github.com/tomverbeure/math.git,SpinalHDL Hardware Math Library,,30
+0,https://github.com/aallan/DataSensingLab.git,Code and hardware for the Data Sensing Lab.,,30
+0,https://github.com/jago85/UltraPIF_Hardware.git,N64 PIF Replacement Hardware (KiCad),"hardware,n64",30
+0,https://github.com/STMicroelectronics/STMems_Android_Sensor_HAL_IIO.git,This repository contains ST Android sensor Hardware Abstraction Layer (HAL) for MEMS Linux IIO drivers,,30
+0,https://github.com/dillonhuff/clockwork.git,A polyhedral compiler for hardware accelerators,,30
+0,https://github.com/suda-morris/FreeECAT.git,"EtherCAT Slave(XMC4800) and Master(IgH), Open source both in hardware and software","ethercat,xmc4800,igh-ethercat-master",30
+0,https://github.com/marcoesposito1988/easy_handeye_demo.git,"Virtual demonstration of a hand-eye calibration with easy_handeye, no hardware required",,30
+0,https://github.com/op1hacks/docs.git,Documentation and research on the OP-1 firmware and hardware.,,30
+0,https://github.com/nlsynth/iroha.git,Intermediate Representation Of Hardware Abstraction (LLVM-ish for HLS),"verilog,fpga",30
+0,https://github.com/obilaniu/Benzina.git,Benzina is an image-loader package that greatly accelerates image loading onto GPUs using their built-in hardware codecs.,"python-library,scientific-computing,data-loader,science,utility-library",30
+0,https://github.com/athalhammer/danker.git,Compute PageRank on >3 billion Wikipedia links on off-the-shelf hardware.,"wikipedia,pagerank,wikidata,ranking,rank,entity",30
+0,https://github.com/MaibornWolff/clean-air.git,Firmware and hardware construction plans for the MaibornWolff Clean Air device,,30
+0,https://github.com/Poofjunior/fpga_fast_serial_sort.git, a parallel sorting algorithm implemented in hardware that sorts data in linear time as it arrives serially,,30
+0,https://github.com/anujdeshpande/awesome-hardware-production.git,List of awesome resources for going to production with a hardware product,,30
+0,https://github.com/DependableSystemsLab/TensorFI.git,TensorFI is a fault injection framework for injecting both hardware and software faults into applications written using the TensorFlow framework. You can find more information about TensorFI in the paper below.,"fault,injection,machine,learning,tensorflow",30
+0,https://github.com/sparkfun/SparkFun_Artemis.git,"{""World's first open source hardware module using a Cortex-M4F capable of running TensorFlow models and Arduino sketches..""}",,30
+0,https://github.com/monomadic/dd-core.git,Rust-based VST plugin development library with hardware accelerated GUI support.,"rust,conrod,vsts,vst,vst2,vsti,audio,audio-effect,audio-plugin",30
+0,https://github.com/CyanogenMod/android_device_samsung_d2-common.git,Common configuration for Samsung D2 hardware (USA Galaxy S3),,29
+0,https://github.com/PX4/HIL.git,Hardware in the loop tools for PX4 Firmware,,29
+0,https://github.com/PHZ76/webrtc-native-demo.git,WebRTC with hardware accelerated video encoding.,"webrtc,nvenc,nvidia",29
+0,https://github.com/kkuchera/canalyze-fw.git,Firmware for the CANalyze hardware.,,29
+0,https://github.com/transistorgrab/OSSI.git,"Open Source Solar Inverter - Software, Hardware, Mechanics",,29
+0,https://github.com/arduino-bitcoin/simple_hardware_wallet.git,A minimalistic bitcoin hardware wallet for Arduino,,29
+0,https://github.com/gstrauss/plasma.git,portability macros for compiler and hardware micro operations,,29
+0,https://github.com/FPGAwars/Collection-Jedi.git,Icestudio collection with the blocks of the FPGA Jedi hardware Academy,,29
+0,https://github.com/facebookincubator/contest.git,Run continuous and on-demand system testing for real and virtual hardware,,29
+0,https://github.com/Opentrons/ot2.git,Open source hardware documentation for the OT-2 liquid handling robot,,29
+0,https://github.com/esden/floss-jtag.git,Free Libre Open-Source/-Hardware JTAG/UART adapter based on FTDI2232H,,29
+0,https://github.com/lab11/raspberrypi-cc2520.git,"Code, hardware, and instructions to use the TI CC2520 with the Raspberry Pi.",,29
+0,https://github.com/jmdaly/CO60.git,"KiCad design files for the CO60, an open hardware 60% keyboard PCB",,29
+0,https://github.com/htaiwan/HWDecoder.git,This class demo how to use VideoToolbox to make iOS hardware decode,,29
+0,https://github.com/evantahler/nodePhidgets.git, Node.js JavaScript library to interface with the Phidgets line of hardware boards.,,29
+0,https://github.com/Ashark/davinci-resolve-checker.git,Check your system configuration and hardware for ability to successfully run DaVinci Resolve,,29
+0,https://github.com/rgw3d/1KCubeSat_Hardware.git,Hardware design files for my $1000 CubeSat.,"cubesat,space",29
+0,https://github.com/wahoofitness/ELEMNT-Mount.git,Open Source hardware mount used with the ELEMNT bike computer,,29
+0,https://github.com/whatdevice/whatdevice.github.io.git,"Progressive Web App that displays hardware and software information, with one-click sharing.","web,webapp,pwa",29
+0,https://github.com/tegansnyder/Zepto-Mobile-Slide-Menu.git,A neat example of a sliding drawer menu similar to Facebook or Path using Zepto.js and hardware accelerated CSS.,,29
+0,https://github.com/bmitc/nand2tetris.git,"Original course HDL solutions, F# implementations for the software stack, and VHDL implementations for the hardware stack for the nand2tetris course and The Elements of Computing Systems book.",,29
+0,https://github.com/offgridsystems/Documents.git,"Data sheet and assembly manual,  component data sheets, busbars and files needed to build no-weld wireless BMS DKblock style battery packs.   Here is a YouTube video, courtesy of Nick Jobbitt of a 10 block build, sped up: https://www.youtube.com/watch?v=V05_WOhEqQg&feature=youtu.be    ................    Assembled boards and hardware available on ebay. Search ""DKBLOCK""","battery,cell,bms,lithium,wireless,welding,cc1310,powerwall,ev,electric-vehicle,dkblock,no-weld",29
+0,https://github.com/OpenSprinkler/OpenSprinkler-Hardware.git,OpenSprinkler Hardware Design files,,28

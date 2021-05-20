@@ -1,0 +1,1021 @@
+,Url,Description,Topics,Stars
+0,https://github.com/mojs/mojs.git,The motion graphics toolbelt for the web,"web,graphics,motion,toolbelt,mojs,javascript,animation,library,es6,webpack,modern,svg,design,motion-graphics,burst,swirl,shape,timeline,mo-js",16702
+0,https://github.com/rough-stuff/rough.git,"Create graphics with a hand-drawn, sketchy, appearance","draw,canvas,graphics,svg,html5-canvas,svg-path",15524
+0,https://github.com/fivethirtyeight/data.git,Data and code behind the articles and graphics at FiveThirtyEight,data,14752
+0,https://github.com/adobe-webplatform/Snap.svg.git,The JavaScript library for modern SVG graphics.,"javascript,javascript-library,snap,svg,svg-animations",13129
+0,https://github.com/paperjs/paper.js.git,"The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey",,12420
+0,https://github.com/ssloy/tinyrenderer.git,A brief computer graphics / rendering course,"opengl,c-plus-plus,picture,graphics,software-rendering,shaders,rendering,learning,fun,images,pixels,computer-graphics,rasterizer,rendering-engine,rendering-pipeline,engine,tutorial,3d,3d-graphics,cpp",10686
+0,https://github.com/bkaradzic/bgfx.git,"Cross-platform, graphics API agnostic, ""Bring Your Own Engine/Framework"" style rendering library.","engine,rendering,graphics,directx,vulkan,metal,opengl,d3d9,d3d11,d3d12,gles,webgl,glfw,sdl,gamedev,directx-11,directx-12,vulkan-api,webgpu,dawn",9356
+0,https://github.com/metricsgraphics/metrics-graphics.git,A library optimized for concise and principled data graphics and layouts.,,7412
+0,https://github.com/romannurik/AndroidAssetStudio.git,"{""A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.""}",,5904
+0,https://github.com/exyte/Macaw.git,Powerful and easy-to-use vector graphics Swift library with SVG support,"ios,ios-animation,drawing,graphics,svg,ui,transition,swift,animation",5603
+0,https://github.com/baldurk/renderdoc.git,RenderDoc is a stand-alone graphics debugging tool.,"opengl,vulkan,vulkan-api,directx,direct3d,d3d11,d3d12,graphics-programming,graphics,debugger,renderdoc",5380
+0,https://github.com/tidyverse/ggplot2.git,An implementation of the Grammar of Graphics in R,"r,visualisation,data-visualisation",4915
+0,https://github.com/SixLabors/ImageSharp.git,":camera: A modern, cross-platform, 2D Graphics library for .NET","image-processing,drawing,c-sharp,jpeg,gif,bmp,png,netcore,exif,graphics,hacktoberfest",4739
+0,https://github.com/spritejs/spritejs.git,A cross platform high-performance graphics system.,"webgl,webgl2,3d,2d,rendering,canvas",4469
+0,https://github.com/jagenjo/webglstudio.js.git,"A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.","3d,webgl,editor,graph-editor,scene-graph,webtool,webapp,rendering,shaders",4348
+0,https://github.com/google/draco.git,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.,"point-cloud,3d-graphics,compression,mesh",4158
+0,https://github.com/konvajs/react-konva.git,React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.,"konva,draw-graphics,react,canvas,konva-framework,visualization",3947
+0,https://github.com/microsoft/DirectX-Graphics-Samples.git,This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.,,3772
+0,https://github.com/jagregory/abrash-black-book.git,"{""Markdown source for Michael Abrash's Graphics Programming Black Book""}",,3762
+0,https://github.com/ssloy/tinyraytracer.git,A brief computer graphics / rendering course,"c-plus-plus,graphics,software-renderer,shaders,rendering,learning,fun,images,computer-graphics,rendering-engine,tutorial,3d,3d-graphics,cpp,raytracer,raytracing,raytracing-engine",3753
+0,https://github.com/mosra/magnum.git,Lightweight and modular C++11 graphics middleware for games and data visualization,"c-plus-plus-11,opengl,webgl,emscripten,ios,android,graphics-engine,game-engine,c-plus-plus,gamedev,cmake,glfw,sdl,magnum,webassembly,vulkan,3d,game,graphics,spir-v",3486
+0,https://github.com/vega/vega-lite.git,"A concise grammar of interactive graphics, built on Vega.","visual-analysis,visualization-grammar,visualization,vega,charts,declarative-language,vega-lite,plot",3306
+0,https://github.com/LWJGL/lwjgl3.git,"LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan), audio (OpenAL), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR) applications.","lwjgl,kotlin,opengl,opencl,openal,vulkan,bindings,java,glfw,vr,opengl-es",3194
+0,https://github.com/stackgl/shader-school.git,:mortar_board: A workshopper for GLSL shaders and graphics programming,,2909
+0,https://github.com/KhronosGroup/MoltenVK.git,"{""MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on iOS and macOS.""}",,2838
+0,https://github.com/fogleman/gg.git,Go Graphics - 2D rendering in Go with a simple API.,"graphics,go,2d,2d-graphics,rendering",2787
+0,https://github.com/watabou/pixel-dungeon.git,Traditional roguelike game with pixel-art graphics and simple interface,,2781
+0,https://github.com/asciimoo/drawille.git,Pixel graphics in terminal with unicode braille characters,,2779
+0,https://github.com/jdan/isomer.git,Simple isometric graphics library for HTML5 canvas,"isometric-graphics,canvas",2745
+0,https://github.com/has2k1/plotnine.git,A grammar of graphics for Python,"plotting,grammar,graphics,python,data-analysis",2691
+0,https://github.com/servo/pathfinder.git,"A fast, practical GPU rasterizer for fonts and vector graphics",,2563
+0,https://github.com/hackerb9/lsix.git,"Like ""ls"", but for images. Shows thumbnails in terminal using sixel graphics.","sixel-graphics,graphics,imagemagick,montage,thumbnails,ls,files,terminal,terminal-graphics,xterm,vt340",2540
+0,https://github.com/tensorflow/graphics.git,TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow,,2457
+0,https://github.com/nosir/obelisk.js.git,Build pixel isometric graphics with HTML5 canvas,"pixel-art,pixel,isometric,canvas",2185
+0,https://github.com/incanter/incanter.git,"Clojure-based, R-like statistical computing and graphics environment for the JVM",,2182
+0,https://github.com/mono/SkiaSharp.git,"{""SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.""}","xamarin,graphics,dot-net,ios,android,windows,macos,cross-platform,skia,dotnet,skiasharp,hacktoberfest",2177
+0,https://github.com/apitrace/apitrace.git,"Tools for tracing OpenGL, Direct3D, and other graphics APIs","opengl,direct3d,opengl-es,d3d9,d3d11,d3d12,debugging-tool",2066
+0,https://github.com/alandefreitas/matplotplusplus.git,Matplot++: A C++ Graphics Library for Data Visualization 📊🗾,"plot-categories,data-visualization,contour-plots,polar-plots,matplot,data-analysis,charts,charting-library,graphics,data-science,scientific-computing,scientific-visualization,graphs,visualization,plots,graphics-library",2062
+0,https://github.com/mpld3/mpld3.git,D3 Renderings of Matplotlib Graphics,,2048
+0,https://github.com/ssloy/tinykaboom.git,A brief computer graphics / rendering course,"graphics,graphics-programming,rendering,shaders,learning,fun,rendering-engine,c-plus-plus,3d-graphics,cpp,raytracer,raytracing,raytracing-engine,computer-graphics,tutorial,3d",2017
+0,https://github.com/xelatihy/yocto-gl.git,Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics,"path-tracer,gltf,graphics,physically-based-rendering,computer-graphics,rendering,path-tracing,cplusplus,cpp,3d-graphics",1977
+0,https://github.com/uxebu/bonsai.git,BonsaiJS is a graphics library and renderer,,1976
+0,https://github.com/yuanming-hu/taichi_mpm.git,"High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)",,1929
+0,https://github.com/mypaint/mypaint.git,MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.,"painting,drawing,art,mypaint,python,libmypaint,graphics-tablet,brushes,distraction-free,infinite-scroll,creative",1886
+0,https://github.com/google/gapid.git,Graphics API Debugger,"gpu,debugger,golang,gles,gles2,vulkan,vulkan-api,graphics-api,android,linux,macos,replay,trace,windows,opengl-es,opengles",1862
+0,https://github.com/ejoy/ejoy2d.git,A 2D Graphics Engine for Mobile Game,,1847
+0,https://github.com/JacquesLucke/animation_nodes.git,Node based visual scripting system designed for motion graphics in Blender.,"blender,python,animation-nodes",1811
+0,https://github.com/DiligentGraphics/DiligentEngine.git,A modern cross-platform low-level graphics library and rendering framework,"gamedev,opengl,opengl-es,graphics-engine,vulkan,d3d11,d3d12,vulkan-game-engine,renderer,graphics-programming,graphics-library,rendering,3d-engine,directx,directx11,directx12,pbr,ibl,raytracing,ray-tracing",1779
+0,https://github.com/Overv/VulkanTutorial.git,Tutorial for the Vulkan graphics and compute API,"vulkan,tutorial,cpp,graphics-programming,computer-graphics,reference",1690
+0,https://github.com/thomasp85/gganimate.git,A Grammar of Animated Graphics,"rstats,ggplot2,animation,transition,data-visualization,ggplot-extension",1675
+0,https://github.com/GiovineItalia/Gadfly.jl.git,Crafty statistical graphics for Julia.,"julia,graphics,plotting,ggplot2,gadfly,hacktoberfest",1657
+0,https://github.com/alibaba/GCanvas.git,A lightweight cross-platform graphics rendering engine. (超轻量的跨平台图形引擎) https://alibaba.github.io/GCanvas,"opengl,canvas,2d,graphics,webgl",1621
+0,https://github.com/adafruit/Adafruit-GFX-Library.git,"{""Adafruit GFX graphics core library, this is the 'core' class that all our other graphics libraries derive from""}",,1614
+0,https://github.com/mellinoe/veldrid.git,"A low-level, portable graphics library for .NET.","graphics,opengl,direct3d,vulkan,game-development,metal",1575
+0,https://github.com/ekzhang/graphics-workshop.git,Learn computer graphics by writing GPU shaders!,"glsl,shaders,graphics,webgl,javascript,raytracing,rasterization,2d,3d",1564
+0,https://github.com/codykrieger/gfxCardStatus.git,"gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand.",,1517
+0,https://github.com/codrops/Animocons.git,"Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot [""Like Animation""](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Ginn.",,1472
+0,https://github.com/microsoft/Win2D.git,"Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration. It is available to C#, C++ and VB developers writing apps for the Windows Universal Platform (UWP). It utilizes the power of Direct2D, and integrates seamlessly with XAML and CoreWindow.",,1438
+0,https://github.com/RehabMan/OS-X-Clover-Laptop-Config.git,Some Clover config.plist files for common Intel graphics configurations,,1415
+0,https://github.com/zheng95z/fun-with-computer-graphics.git,"This is a collection of computer graphics related courses, books, tutorials, articles, blogs, resources, researcher homepages, lab homepages, video channels, open source projects, websites, etc.",computer-graphics,1412
+0,https://github.com/nical/lyon.git,2D graphics rendering on the GPU in rust using path tessellation.,,1366
+0,https://github.com/bijection/g9.git,Automatically Interactive Graphics 🖼✨💯,,1352
+0,https://github.com/yannickl/YLProgressBar.git,UIProgressView replacement with an highly and fully customizable animated progress bar in pure Core Graphics,,1254
+0,https://github.com/google/swiftshader.git,SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics.,,1237
+0,https://github.com/artursapek/mondrian.git,Web-based vector graphics editor,,1233
+0,https://github.com/hundredrabbits/Ronin.git,Experimental Graphics Terminal,"lisp,graphics,repl",1079
+0,https://github.com/LukasBanana/LLGL.git,"Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal","renderer,d3d11,d3d12,opengl,directx,vulkan,metal",1056
+0,https://github.com/00-Evan/shattered-pixel-dungeon.git,Traditional roguelike game with pixel-art graphics and simple interface,,1054
+0,https://github.com/doyubkim/fluid-engine-dev.git,Fluid simulation engine for computer graphics applications,"physics-engine,fluid-simulation-engine,computer-graphics,computational-physics,animation,c-plus-plus,computational-fluid-dynamics",1049
+0,https://github.com/vydd/sketch.git,"A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.","common-lisp,sketch,2d,graphics,games,visual,art,hci",1036
+0,https://github.com/hadley/ggplot2-book.git,ggplot2: elegant graphics for data analysis,,1015
+0,https://github.com/olikraus/u8glib.git,Arduino Monochrom Graphics Library for LCDs and OLEDs,,996
+0,https://github.com/erich666/GraphicsGems.git,"Code for the ""Graphics Gems"" book series",,967
+0,https://github.com/sebcrozet/kiss3d.git,"Keep it simple, stupid 3d graphics engine for Rust.",,961
+0,https://github.com/stefanhaustein/TerminalImageViewer.git,Small C++ program to display images in a (modern) terminal using RGB\xa0ANSI codes and unicode block graphics characters,"terminal-graphics,ansi-colors,cpp,ascii-graphics",957
+0,https://github.com/mntmn/amiga2000-gfxcard.git,"MNT VA2000, an Open Source Amiga 2/3/4000 Graphics Card (Zorro II/III), written in Verilog",,945
+0,https://github.com/recp/cglm.git,📽 Highly Optimized Graphics Math (glm) for C,"math,vector,matrix,euler,c,affine-transform-matrices,opengl,opengl-math,simd,sse,avx,neon,marix-inverse,matrix-decompositions,3d,3d-math,glm-for-c,frustum,bounding-boxes,bezier",944
+0,https://github.com/cdglabs/apparatus.git,A hybrid graphics editor and programming environment for creating interactive diagrams.,,944
+0,https://github.com/AnyChart/GraphicsJS.git,"A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.","svg,javascript,vector-graphics,anychart,vml,javascript-library,google-closure,google-closure-library",940
+0,https://github.com/Unity-Technologies/Graphics.git,Unity Graphics - Including Scriptable Render Pipeline,,937
+0,https://github.com/junyanz/CatPapers.git,"Cool vision, learning, and graphics papers on Cats!","machine-learning,computer-vision,papers,cat,computer-graphics,cats,deep-learning,papers-collection,awesome-list",933
+0,https://github.com/grimfang4/sdl-gpu.git,"A library for high-performance, modern 2D graphics with SDL written in C.",,906
+0,https://github.com/blend2d/blend2d.git,2D Vector Graphics Engine Powered by a JIT Compiler,"2d-graphics,rasterization,asmjit,jit,cpp",890
+0,https://github.com/microsoft/DirectXMath.git,DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps,"microsoft,directx,simd,neon,cpp-library,sse,avx,avx2,clang,msvc,xbox,directxmath,desktop,uwp",883
+0,https://github.com/ggambetta/computer-graphics-from-scratch.git,"Text, diagrams, and source code for the book Computer Graphics from scratch.",,869
+0,https://github.com/astrofox-io/astrofox.git,Astrofox is a motion graphics program that lets you turn audio into amazing videos.,"audio,video,audio-visualizer,motion-graphics,music-visualizer",843
+0,https://github.com/thomasp85/ggraph.git,Grammar of Graph Graphics,"graph-visualization,ggplot2,visualization,network-visualization,r,ggplot-extension",839
+0,https://github.com/hpjansson/chafa.git,📺🗿 Terminal graphics for the 21st century.,"ansi,terminal-graphics,terminal-based,unicode-characters,image-processing,images,image-viewer,terminal,graphics,graphics-library,cli,sixel",820
+0,https://github.com/ericjang/awesome-graphics.git,Curated list of computer graphics tutorials and resources,,817
+0,https://github.com/jasonmorrissey/JMTabView.git,Stylish and animated tab view for iOS rendered entirely using core graphics.,,813
+0,https://github.com/nodecg/nodecg.git,Create broadcast graphics using Node.js and a browser,,811
+0,https://github.com/rustgd/cgmath.git,A linear algebra and mathematics library for computer graphics.,"rust,linear-algebra,matrix,vector,computer-graphics,simd,simd-vector,mathematics-library",807
+0,https://github.com/dsward2/macSVG.git,macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤,"macos,svg,animation,swift,objective-c,scalable-vector-graphics,graphics,html5,macos-webkit-framework,webkit,xml,smil,ios,morphing,bezier,editor,path,mac,vector-graphics,web-developer",806
+0,https://github.com/DIGImend/digimend-kernel-drivers.git,DIGImend graphics tablet drivers for the Linux kernel,,793
+0,https://github.com/Cyclenerd/ethereum_nvidia_miner.git,"💰 USB flash drive ISO image for Ethereum, Zcash and Monero mining with NVIDIA graphics cards and Ubuntu GNU/Linux (headless)","ethereum,nvidia,nvidia-gpus,nvidia-gpu,cuda,ubuntu,ubuntu1604,linux,iso,nvidia-card,iso-image,nvidia-smi,graphics-card,mining,ethereum-mining,ethminer,monero,monero-mining,zcash,zcash-mining",787
+0,https://github.com/design4use/gb-sketch-segmentcircle.git,"Sketch plugin creates circular graphics for diagrams, instrumentation and analytics.",,780
+0,https://github.com/iafan/goplayspace.git,"Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more","go,golang,gopherjs,vecty,react,frontend",780
+0,https://github.com/hardmaru/sketch-rnn.git,Multilayer LSTM and Mixture Density Network for modelling path-level SVG Vector Graphics data in TensorFlow,,757
+0,https://github.com/pents90/svg-android.git,Support for scalable vector graphics in Android,,756
+0,https://github.com/WeakAuras/WeakAuras2.git,World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.,"world-of-warcraft,lua,addon,flexible-framework,extension,weakauras,scripting,framework,discord,trigger,custom-textures,warcraft-addon",752
+0,https://github.com/glouw/littlewolf.git,A tiny software graphics and game engine,"raycaster,ray,casting,doom,wolfenstein,graphics,engine",749
+0,https://github.com/paroj/gltut.git,Learning Modern 3D Graphics Programming ,"opengl,tutorial",724
+0,https://github.com/konvajs/vue-konva.git,Vue & Canvas - JavaScript library for drawing complex canvas graphics using Vue.,"vue,konva,canvas,canvas-animation,konvajs,shape,vue-styleguidist,graphics",707
+0,https://github.com/rstudio/ggvis.git,Interactive grammar of graphics for R,,700
+0,https://github.com/stathissideris/ditaa.git,"{""ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.""}",,700
+0,https://github.com/Onix-Systems/RainyRefreshControl.git,Simple refresh control for iOS based on SpriteKit and Core Graphics,,689
+0,https://github.com/glennrp/libpng.git,"LIBPNG: Portable Network Graphics support, official libpng repository",,686
+0,https://github.com/Schmavery/reprocessing.git,ReasonML graphics library inspired by Processing,,686
+0,https://github.com/dankamongmen/notcurses.git,blingful character graphics/TUI library. definitely not curses.,"terminal-emulators,ncurses",668
+0,https://github.com/phaazon/luminance-rs.git,"Type-safe, type-level and stateless Rust graphics framework","shaders,luminance,gpu,opengl,tessellation,framebuffer,texture,buffer,vertex",661
+0,https://github.com/rlguy/GridFluidSim3D.git,"A PIC/FLIP fluid simulation based on the methods found in Robert Bridson\'s ""Fluid Simulation for Computer Graphics""","simulation,fluid-simulation,animation",661
+0,https://github.com/heestand-xyz/PixelKit.git,Live Graphics Framework,"swift,metal,live,graphics,ios,macos",660
+0,https://github.com/platomav/MEAnalyzer.git,Intel Engine & Graphics Firmware Analysis Tool,,660
+0,https://github.com/linebender/piet.git,An abstraction for 2D graphics.,,649
+0,https://github.com/praeclarum/NGraphics.git,NGraphics is a cross platform library for rendering vector graphics on .NET. It provides a unified API for both immediate and retained mode graphics using high quality native renderers.,,644
+0,https://github.com/intel/compute-runtime.git,Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver,"intel,opencl,gpu,compute,gpgpu,intel-hd-graphics",621
+0,https://github.com/libgd/libgd.git,GD Graphics Library,,618
+0,https://github.com/keijiro/Retro3D.git,A shader that imitates low grade 3D graphics.,,614
+0,https://github.com/datenwolf/linmath.h.git,"a lean linear math library, aimed at graphics programming. Supports vec3, vec4, mat4x4 and quaternions",,611
+0,https://github.com/reanimate/reanimate.git,Haskell library for building declarative animations based on SVG graphics,"animations,haskell,2d,svg,gif",604
+0,https://github.com/CasparCG/server.git,"CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs. It has been in 24/7 broadcast production since 2006. Ready-to-use downloads are available under the Releases tab https://casparcg.com.","casparcg,casparcg-server,c-plus-plus,professional,broadcast,broadcasting,video-player,video-recording,video-streaming,streaming-video,graphics,graphics-engine",593
+0,https://github.com/mesa3d/mesa.git,Mesa 3D graphics library (read-only mirror),,591
+0,https://github.com/JoeyDeVries/Cell.git,OpenGL C++ Graphics Engine ,,590
+0,https://github.com/tomkrcha/drawscript.git,"Turn Illustrator shapes into graphics code - Obj-C, C++, JavaScript, Processing, ActionScript 3, JSON, raw bezier points",,590
+0,https://github.com/fdivitto/FabGL.git,"Display Controller (VGA, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal for the ESP32","esp32,graphics-library,game-engine,vt100,ansi-terminal,audio-engine,graphics-engine,gui,vga-interface,terminal-emulators,synthesizer,widget-library,vga,ansi,sound-engine,vt-terminal,mouse,ps2,keyboard,boards",573
+0,https://github.com/IndieVisualLab/UnityGraphicsProgrammingSeries.git,書籍「Unity Graphics Programming」シリーズのPDFコレクション,,572
+0,https://github.com/microsoft/chart-parts.git,"A flexible, React-friendly, Grammar of Graphics for data visualization","datavis,react,react-native",567
+0,https://github.com/romainguy/kotlin-math.git,Set of Kotlin APIs to make graphics math easier to write,,566
+0,https://github.com/HandmadeMath/Handmade-Math.git,A simple math library for games and computer graphics. Compatible with both C and C++.,"math,game-engine,game-development,single-header-lib,graphics",559
+0,https://github.com/Zulko/gizeh.git,Simple Vector Graphics for Python,,554
+0,https://github.com/dingjikerbo/Android-Camera.git,"Android Camera, OpenGL, Graphics",,549
+0,https://github.com/dalboris/vpaint.git,Experimental vector graphics and 2D animation editor,,541
+0,https://github.com/adamfairhead/webicons.git,Webicons is a set of resolution-independent social icons for use on your website. They use feature-detected SVG graphics (with PNG fallbacks) to display the icons over their appropriate negatively indented anchor titles.,,537
+0,https://github.com/jrmuizel/raqote.git,Rust 2D graphics library,,535
+0,https://github.com/2dom/PxMatrix.git,Adafruit GFX compatible graphics driver for LED matrix panels,,534
+0,https://github.com/gonetz/GLideN64.git,"A new generation, open-source graphics plugin for N64 emulators.",,533
+0,https://github.com/megamarc/Tilengine.git,Free 2D graphics engine with raster effects for retro/classic style game development,,533
+0,https://github.com/asicguy/gplgpu.git,GPL v3 2D/3D graphics engine in verilog,,515
+0,https://github.com/juj/MathGeoLib.git,A C++ library for linear algebra and geometry manipulation for computer graphics.,,514
+0,https://github.com/dsbGenius/WhiteBoard.git,"SketchBoard是一个可涂鸦、绘图、添加文字、图像（可旋转缩放）、背景的Fragment，其中主要由SketchView利用matrix完成所有图形绘制操作。 SketchBoard is a Fragment that  can add a graffiti, graphics, text, images (rotating and scaling), or background 。",,513
+0,https://github.com/openrndr/openrndr.git,"OPENRNDR. A Kotlin/JVM library for creative coding, real-time and interactive graphics","creative-coding,jvm,kotlin,shaders,java",511
+0,https://github.com/termhn/ultraviolet.git,A wide linear algebra crate for games and graphics.,,500
+0,https://github.com/davidgohel/ggiraph.git,"{""make 'ggplot' graphics interactive""}",,497
+0,https://github.com/Syntopia/Fragmentarium.git,Fragmentarium is a cross-platform application for exploring pixel based graphics on the GPU.,,485
+0,https://github.com/toadstorm/MOPS.git,"Motion OPerators for Houdini, a motion graphics toolkit.",,479
+0,https://github.com/powervr-graphics/Native_SDK.git,"C++ cross-platform 3D graphics SDK. Includes demos & helper code (resource loading etc.) to speed up development of Vulkan, OpenGL ES 2.0 & 3.x applications",,473
+0,https://github.com/bitshifter/glam-rs.git,A simple and fast linear algebra library for games and graphics,"rust,simd,3d-math-libraries,sse2",469
+0,https://github.com/lb377463323/GraphicsTestBed.git,Learn Android Graphics.,,463
+0,https://github.com/microsoft/Mesh-processing-library.git,C++ library and programs that demonstrate mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998,,461
+0,https://github.com/vue-gl/vue-gl.git,Vue.js components rendering 3D WebGL graphics reactively with three.js,"vuejs,vuejs2,vue2,vue-components,threejs,three-js,three,vue,3d,3d-graphics,webgl,graphics,tags,tag,element,elements,custom,html,web",454
+0,https://github.com/3dmol/3Dmol.js.git,WebGL accelerated JavaScript molecular graphics library,"molecular-graphics,molecular-modeling,computational-biology,computational-chemistry",451
+0,https://github.com/google/graphicsfuzz.git,A testing framework for automatically finding and simplifying bugs in graphics shader compilers.,"fuzzing,vulkan,spirv,opengl,glsl",451
+0,https://github.com/kevinroast/phoria.js.git,"JavaScript library for simple 3D graphics and visualisation on a HTML5 canvas 2D renderer. It does not use WebGL. Works on all HTML5 browsers, including desktop, iOS and Android.",,451
+0,https://github.com/khrome/ascii-art.git,"A Node.js library for ansi codes, figlet fonts, ascii art and other ASCII graphics","javascript,ascii-art,ansi-styles,ascii,ansi-codes,tables,figlet,images,compositing,terminal-graphics,command-line-tool",449
+0,https://github.com/Witko/nvidia-xrun.git,Utility to run separate X with discrete nvidia graphics with full performance,,445
+0,https://github.com/Bumblebee-Project/bbswitch.git,Disable discrete graphics (currently nvidia only),,444
+0,https://github.com/alexandre01/deepsvg.git,"[NeurIPS 2020] Official code for the paper ""DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation"". Includes a PyTorch library for deep learning with SVG data.","deep-learning,pytorch,svg,svg-animations,transformer,library,python,deep-svg,machine-learning,autoencoder,sketches,sketch-rnn,svg-vae",438
+0,https://github.com/trashhalo/imgcat.git,a tool to output images as RGB ANSI graphics on the terminal,"terminal,image,hacktoberfest",431
+0,https://github.com/propublica/weepeople.git,"A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.","font,people,silhouette",418
+0,https://github.com/holtzy/D3-graph-gallery.git,A collection of simple graphics made with D3.js,,410
+0,https://github.com/danini-the-panini/mittsu.git,3D Graphics Library for Ruby.,,409
+0,https://github.com/ashiguruma/patternomaly.git,Easily generate patterns for use in data graphics,,407
+0,https://github.com/jpbruyere/vkvg.git,Vulkan 2D graphics library,"vulkan,2d,vector,graphics-library,drawing-library,cairo",404
+0,https://github.com/simple2d/simple2d.git,":video_game: Simple, open-source 2D graphics for everyone","2d-graphics,graphics-engine,game-development,opengl,c,sdl2",403
+0,https://github.com/Tom94/tev.git,High dynamic range (HDR) image comparison tool for graphics people. With an emphasis on OpenEXR images.,"openexr,exr,hdr,image,rendering,openexr-images,tev,screenshot,image-comparison",402
+0,https://github.com/supereggbert/GLGE.git,A javascript webGL graphics library,,399
+0,https://github.com/textext/textext.git,Re-editable LaTeX graphics for Inkscape,"inkscape,latex,extension,plugin",396
+0,https://github.com/EthicalML/vulkan-kompute.git,"General purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases.","vulkan,vulkan-compute,vulkan-example,vulkan-tutorial,vulkan-demos,vulkan-compute-tutorial,vulkan-compute-framework,vulkan-compute-example,cpp,machine-learning,machine-learning-gpu,deep-learning,deep-learning-gpu,gpgpu,gpu-computing",395
+0,https://github.com/PistonDevelopers/graphics.git,"A library for 2D graphics, written in Rust, that works with multiple back-ends","2d-graphics,rust,piston,piston-game-engine",394
+0,https://github.com/hhoppe/Mesh-processing-library.git,C++ library and programs that demonstrate mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998,,377
+0,https://github.com/lightdesign/LDProgressView.git,[Stale] A flat or gradient progress view with a simple color setter and customizable options written in pure Core Graphics,,373
+0,https://github.com/lukelbd/proplot.git,"🎨 A lightweight matplotlib wrapper for making beautiful, publication-quality graphics",,370
+0,https://github.com/erich666/jgt-code.git,"Code developed for articles in the ""Journal of Graphics Tools""",,369
+0,https://github.com/chiuki/android-graphics-demo.git,Android Graphics Demo,,366
+0,https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders.git,"{""An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing.""}",,366
+0,https://github.com/ShadyElyaski/ios-filter-control.git,An iOS Filter UIControl Subclass. Zero Graphics. Highly Customizable.,"objective-c,uicontrol-subclass",361
+0,https://github.com/IceCreamYou/THREE.Terrain.git,A procedural terrain generation engine for use with the Three.js 3D graphics library for the web.,"terrain,heightmap,javascript,noise,threejs,scene,materials,procedural-generation,procedural,diamond-square-algorithm,generative",361
+0,https://github.com/grz0zrg/fbg.git,Lightweight C 2D graphics API agnostic library with parallelism support,"framebuffer,lightweight,multithreading,multi-core,multithreaded,graphics,graphics-library,library,2d-graphics,graphics-rendering,gba,fbdev,opengl,embedded",360
+0,https://github.com/projectstorm/react-canvas.git,A pluggable layout and graphics system aimed at powering desktop publishing as well as storm-react-diagrams,"react,typescript,canvas,geometry,library,coordinates,pluggable",360
+0,https://github.com/vectorgraphics/asymptote.git,2D & 3D TeX-Aware Vector Graphics Language,,353
+0,https://github.com/mikaelvesavuori/figmagic.git,"Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.","figma,figma-api,design-specs,design-tokens,tokens,ux,theo",351
+0,https://github.com/mhkeller/layercake.git,graphics framework for sveltejs,"sveltejs,graphics,dataviz,layers,cake,dessert,delicious,layercake,charts,svelte",350
+0,https://github.com/kosua20/Rendu.git,A simple realtime graphics playground for experimentations.,"opengl,template,computer-graphics,graphics-programming,graphics-engine,gpu",350
+0,https://github.com/jdryg/vg-renderer.git,"A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)",vector-graphics,344
+0,https://github.com/vovoid/vsxu.git,Visual programming language; Real-time OpenGL graphics; Embeddable; GPL/LGPL Licensed; Audio/Music Visualizer; Animation tool,,341
+0,https://github.com/philogb/v8-gl.git,A Toolkit for creating Desktop Hardware Accelerated Graphics with JS.,,340
+0,https://github.com/Grille/2D-isometricRenderer.git,A program to generate isometric graphics from elevation data,,338
+0,https://github.com/micahpearlman/MonkVG.git,MonkVG is an OpenVG 1.1 like vector graphics API implementation optimized for game use currently using an OpenGL ES backend that should be compatible with any HW that supports OpenGL ES 2.0 which includes most iOS and Android devices. ,,336
+0,https://github.com/wdas/SeExpr.git,"SeExpr is an embeddable, arithmetic expression language that enables flexible artistic control and customization in creating computer graphics images. Example uses include procedural geometry synthesis, image synthesis, simulation control, crowd animation, and geometry deformation. Our library is licensed under the Apache License, Version 2.0.",,335
+0,https://github.com/benl23x5/gloss.git,"Painless 2D vector graphics, animations and simulations.",,329
+0,https://github.com/planetchili/hw3d.git,C++ 3D graphics engine under Direct3D 11. Developed in a Planet Chili video tutorial series that can be found on YouTube. https://youtu.be/_4FArgOX1I4,,327
+0,https://github.com/exult/exult.git,"{""Exult is a project to recreate Ultima 7 for modern operating systems, using the game's original plot, data, and graphics files.""}","ultima,ultima7,rpg-game-engine,c-plus-plus-14,ultima-vii,serpent-isle,black-gate,games,windows-snapshot,forge-of-virtue,silver-seed,serpent-isle-beta",324
+0,https://github.com/embedded-graphics/embedded-graphics.git,A no_std graphics library for embedded applications,"embedded-graphics,no-std",322
+0,https://github.com/abey79/vpype.git,The Swiss-Army-knife command-line tool for plotter vector graphics.,"generative-art,pen-plotters,svg,vector-graphics,python3,python-3,plotters,hacktoberfest,hacktoberfest2020,vpype,multi-layer-svg,svg-files",316
+0,https://github.com/nicklockwood/VectorMath.git,"A Swift library for Mac and iOS that implements common 2D and 3D vector and matrix functions, useful for games or vector-based graphics",,316
+0,https://github.com/JuliaGraphics/Luxor.jl.git,"Simple drawings using vector graphics; Cairo ""for tourists!""","graphics,vector-graphics,drawing,diagrams,julia,luxor,cairo,simple,2d-graphics,visualization,turtle-graphics",314
+0,https://github.com/creativetimofficial/paper-dashboard.git,Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.,,314
+0,https://github.com/prefuse/Flare.git,"Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques. ",,308
+0,https://github.com/arturadib/node-five.git,HTML5 graphics and audio for Node.js,,301
+0,https://github.com/udacity/cs291.git,Interactive 3D Graphics class code,,300
+0,https://github.com/BachiLi/diffvg.git,Differentiable Vector Graphics Rasterization,,294
+0,https://github.com/StarlingGraphics/Starling-Extension-Graphics.git,flash.display.Graphics style extension for the Starling Flash GPU rendering framework,,289
+0,https://github.com/EricR/image_sorcery.git,A ruby Image/Graphics Magick library. Note: This project is no longer maintained.,,289
+0,https://github.com/cpp-io2d/P0267_RefImpl.git,"Reference Implementations of P0267, the proposed 2D graphics API for ISO C++",,284
+0,https://github.com/head-first-csharp/fourth-edition.git,Code and graphics for the projects in the 4th edition of Head First C#,,282
+0,https://github.com/DiligentGraphics/DiligentCore.git,A modern cross-platform low-level graphics API,"opengl,opengl-es,direct3d,graphics,graphics-engine,d3d11,d3d12,shaders,vulkan,vulkan-api,vulkan-engine,directx-11,directx-12,directx11,directx12,ray-tracing,raytracing",281
+0,https://github.com/GJNilsen/YPDrawSignatureView.git,Capture signature view in Swift and export it as a vector graphics or bitmap,"swift,signature,capture-signature,signature-capture,drawing,ios",280
+0,https://github.com/nprapps/dailygraphics.git,"{""NPR Visuals' rig for deploying daily graphics projects in responsive iframes.""}",,279
+0,https://github.com/plotdevice/plotdevice.git,Create 2D graphics on the Mac with Python code,,276
+0,https://github.com/elishacloud/Silent-Hill-2-Enhancements.git,"A project designed to enhance Silent Hill 2 (SH2)  graphics and audio for the PC.  It also includes scripts to build or modify SH2 audio files (SFX, BGM and Dialog).",silent-hill,273
+0,https://github.com/microsoft/graphics-driver-samples.git,This repository contains graphics driver samples used to demonstrate how to write graphics driver for the windows platform.,,272
+0,https://github.com/visioncortex/vtracer.git,Raster to Vector Graphics Converter,"svg,image-procesing,rust",269
+0,https://github.com/mrachinskiy/commotion.git,Blender add-on for motion graphics,"blender-addon,motion-graphics",268
+0,https://github.com/dcf21/star-charter.git,"A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.",,268
+0,https://github.com/Kodrin/URP-PSX.git,PSX retro graphics plugin for URP with Shadergraph in Unity,"unity,retro,psx,ps1,graphics,urp,shadergraph",266
+0,https://github.com/stathissideris/dali.git,"dali is a Clojure library for representing, exporting and manipulating the SVG graphics format.",,266
+0,https://github.com/tipam/pi3d.git,"Simple, yet powerful, 3D Python graphics library for beginners and school children running on the Raspberry Pi.",,265
+0,https://github.com/DevonCrawford/A-Pathfinding-Visualization.git,First attempt at an efficient pathfinding algorithm in Java. I made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface.,,265
+0,https://github.com/meyfa/php-svg.git,Vector graphics (SVG) library for PHP,"svg,php,svg-images,vector-graphics,parser,png,library,php-svg,rasterizing,rendering,rasterizer",264
+0,https://github.com/marcan/openlase.git,Open source realtime laser graphics framework,,264
+0,https://github.com/SteveMacenski/spatio_temporal_voxel_layer.git,A new voxel layer leveraging modern 3D graphics tools to modernize navigation environmental representations,"ros,navigation,robot,voxel,openvdb,tbb",261
+0,https://github.com/grevolution/SHLineGraphView.git,SHLineGraphView is a simple and efficient reusable UIView subview which you can use to create line graphs. It uses Core Graphics and Core Animation to create the light weight graphs. it is easy to use/understand and completely customizable.,,260
+0,https://github.com/interl0per/Console-Graphics.git,A full blown 3D graphics engine that runs in a windows console window,,259
+0,https://github.com/ysymyth/3D-SDN.git,[NeurIPS 2018] 3D-Aware Scene Manipulation via Inverse Graphics,"3d-sdn,pytorch,deep-learning,3d-vision,generative-adversarial-networks,gans,disentangled-representations",256
+0,https://github.com/pqwy/notty.git,Declarative terminal graphics for OCaml,,254
+0,https://github.com/sciapp/gr.git,GR framework: a graphics library for visualisation applications,,252
+0,https://github.com/autotrace/autotrace.git,bitmap to vector graphics converter,,251
+0,https://github.com/BradWBeer/clinch.git,Common Lisp 3D/2D Graphics Engine for OpenGL,,251
+0,https://github.com/kaelig/hidpi.git,Serve high resolution graphics to high density (Retina-like) displays with Sass.,,251
+0,https://github.com/wch/extrafont.git,Tools for using fonts in R graphics,,250
+0,https://github.com/ecere/ecere-sdk.git,"Ecere SDK (eC Language, Ecere IDE, Cross platform GUI, graphics, and more) — http://ec-lang.org — ","cross-platform-development,cross-platform,cross-platform-ide,programming-language,cross-platform-gui,3d-graphics-engine,binding-generator,game-engine,ec-language,ide,sdk,ec,vr,hololens,magicleap,android,gui-toolkit",250
+0,https://github.com/egorodet/MethaneKit.git,🎲 Modern 3D graphics made simple with C++17 cross-platform app framework and rendering abstraction API on top of DirectX 12 & Metal (Vulkan is coming),"graphics,graphics-api,graphics-programming,3d-graphics,directx,directx12,d3d12,metal,cross-platform,windows-desktop,windows-10,macos,native-apps,c-plus-plus,objective-c,cmake,modern-3d-graphics,shaders,game-development,gamedev",250
+0,https://github.com/react-native-art/art.git,React Native module that allows you to draw vector graphics.,,249
+0,https://github.com/creativescala/doodle.git,Compositional vector graphics in Scala / Scala.JS,,248
+0,https://github.com/ddiakopoulos/polymer.git,🎨 graphics + interaction engine,"game-engine,graphics,rendering,cpp11,cpp14,opengl,openvr,virtual-reality,augmented-reality,vr,ar",245
+0,https://github.com/ft-interactive/visual-vocabulary.git,Small examples of data driven graphics -- to be used as starting points.,,244
+0,https://github.com/michel-pi/GameOverlay.Net.git,Draw hardware accelerated graphics using our Direct2D1 renderer and create transparent click-through windows.,"sharpdx,csharp,graphics,direct2d1-drawing-library,transparent-windows,direct2d1,overlay,overlay-window",244
+0,https://github.com/graphics32/graphics32.git,"Graphics32 is a graphics library for Delphi and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives. In most cases Graphics32 considerably outperforms the standard TBitmap/TCanvas methods.","graphics,2d,vector-graphics,low-level,delphi,fpc,object-pascal,components,graphics-library,lazarus,delphinuspackage",244
+0,https://github.com/vmcall/dxgkrnl_hook.git,C++ graphics kernel subsystem hook,,243
+0,https://github.com/MicBosi/VisualizationLibrary.git,"Visualization Library is a C++ middleware for high-performance 2D and 3D graphics applications based on OpenGL 1.x-4.x supporting Windows, Linux and Mac OS X.",,242
+0,https://github.com/aap/librw.git,A re-implementation of the RenderWare Graphics engine,"reimplementation,reverse-engineering,3d-engine,renderware-graphics",238
+0,https://github.com/MauriceGit/Partikel_accelleration_on_GPU.git,"Particle accelleration with OpenGL 4.3, using the compute shader to calculate particle movement on graphics hardware.","particle-simulation,opengl,compute-shaders,particles,c,glsl",238
+0,https://github.com/cmu462/Scotty3D.git,"3D graphics software for mesh editing, path tracing, and animation",,235
+0,https://github.com/mindbrix/TurtleBezierPath.git,Turtle Graphics app and drawing library for iOS,,230
+0,https://github.com/cntools/rawdraw.git,"{""CNLohr's Platform Agnostic Graphics Library""}",,229
+0,https://github.com/ollelogdahl/ConsoleGameEngine.git,.NET Console Graphics Engine,"unlicense,graphics,console,console-framework,console-graphics,graphics-library,draw,game-loop,hacktoberfest,consoleengine",227
+0,https://github.com/nimgl/nimgl.git,NimGL is a Nim library that offers bindings for popular libraries used in computer graphics,"nimgl,nim,bindings,opengl,glfw,imgui,vulkan,computer-graphics",225
+0,https://github.com/stefansl/image-shrinker.git,App for macOS. Minify your images and graphics with just one drop. Autorenamed in the same place where it comes from. Immediately!,"minify-images,minification,shrink-images,tiny-image,compressor,image-compression,image-minify,electron-app,pngquant,svgo,electron,image-shrinker,mozjpeg,spectre-css,minify",224
+0,https://github.com/baku89/pentool.git,Vector graphics editor with programmable pen tools,,223
+0,https://github.com/ICT-VGL/ICT-FaceKit.git,"{""ICT's Vision and Graphics Lab's morphable face model and toolkit""}",,222
+0,https://github.com/lovyan03/LovyanGFX.git,SPI LCD graphics library for ESP32 (ESP-IDF/ArduinoESP32) / SAMD51(Seeed ArduinoSAMD51),"tft-espi,spi-lcd,graphics-library,dma,lcd,gfx,m5stack,odroid-go,lovyangfx,esp-idf,esp-idf-tft-ili9341,wio-terminal",215
+0,https://github.com/Evidlo/remarkable_mouse.git,use your reMarkable as a graphics tablet,"remarkable-tablet,graphics-tablet,wacom",214
+0,https://github.com/agordon/d3export_demo.git,Export d3js graphics to PDF/PNG/SVG,,213
+0,https://github.com/mysterioustrousers/MTGeometry.git,"An extension to Core Graphics Geometry. Intersections, scaling, etc.",,212
+0,https://github.com/Hi-Rez/Satin.git,"{""A 3D Graphics Framework built on Apple's Metal""}","swift,3d,graphics,metal,metalkit,augmented-reality,shaders,metalapi,gfx,satin,xcode,3d-graphics-framework,apple-metal",212
+0,https://github.com/willwhitney/dc-ign.git,The Deep Convolutional Inverse Graphics Network,,211
+0,https://github.com/davideberly/GeometricTools.git,"A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics.",,209
+0,https://github.com/d-ronnqvist/SCNBook-code.git,"The sample code for the different chapters in ""3D Graphics with Scene Kit"" (which I call ""SCNBook"" as a joke)",,208
+0,https://github.com/jasonmorrissey/JMSlider.git,A decorated iOS slider control to extend the functionality of a single button by sliding it. Created using only Core Graphics to make it easy to import into projects.,,208
+0,https://github.com/rstudio/thematic.git,"Theme ggplot2, lattice, and base graphics based on a few simple settings.",,206
+0,https://github.com/intel/intel-vaapi-driver.git,VA-API user mode driver for Intel GEN Graphics family,,204
+0,https://github.com/Mon-Ouie/ray.git,A Ruby library for games — supporting audio spatialization and 2D (and even 3D!) graphics,,204
+0,https://github.com/GiovineItalia/Compose.jl.git,Declarative vector graphics,"julia,vector-graphics,graphics,gadfly,hacktoberfest",202
+0,https://github.com/bootsoon/ng-circle-progress.git,A simple circle progress component created for Angular based on SVG Graphics.,,202
+0,https://github.com/dotnet/Microsoft.Maui.Graphics.Controls.git,"Experimental Microsoft.Maui.Graphics.Controls - Build drawn controls (Cupertino, Fluent and Material)","xamarin,xamarin-forms,drawn,controls,material,fluent,cupertino,drawn-controls",198
+0,https://github.com/martin-pr/possumwood.git,"Possumwood is a graph-based procedural authoring tool, in concept not dissimilar to popular CG packages like Houdini, Blender or Maya. It is intended to serve as a sandbox for computer graphics algorithms and libraries, providing a user-friendly and coding-free UI for libraries that would otherwise be inaccessible for an average user.","qt,graphics,animation,nodegraph,opengl,sandbox,cgal,glsl",198
+0,https://github.com/fbergama/pigfx.git,PiGFX is a bare metal kernel for the Raspberry Pi that implements a basic ANSI terminal emulator with the additional support of some primitive graphics functions.,,196
+0,https://github.com/melax/sandbox.git,"sandbox for various 3d math, geometry, graphics and physics code",,195
+0,https://github.com/masagrator/NXGraphicsPatches.git,Graphics Patches for Nintendo Switch games,,195
+0,https://github.com/Eyescale/Equalizer.git,"Equalizer is the standard middleware to create and deploy parallel OpenGL-based applications. It enables applications to benefit from multiple graphics cards, processors and computers to scale the rendering performance, visual quality and display size. An Equalizer application runs unmodified on any visualization system, from a simple workstation to large scale graphics clusters, multi-GPU workstations and Virtual Reality installations.  ",,190
+0,https://github.com/rsms/uilayer.git,"CALayer-style API for building rich, high-performance UI graphics in WebKit",,190
+0,https://github.com/entronad/graphic.git,A Flutter data visualization library based on Grammar of Graphics.,"flutter,flutter-package,flutter-widget,dart,data-visualization,visualization,charts,chart,charting-library,graphic,graph,dartlang",189
+0,https://github.com/Kudo/react-native-skia.git,Cross platform React Native solution to draw graphics based on Skia,,189
+0,https://github.com/romsson/dragit.git,A toolkit to enable the manipulation of data graphics,,188
+0,https://github.com/jfree/jfreesvg.git,"A fast, lightweight Java library for creating Scalable Vector Graphics (SVG) output.","svg,java-library,java,java2d",186
+0,https://github.com/CasparCG/client.git,"Client software primarily used with the CasparCG Server software for audio and video playout, to control graphics and recording, but it can also be used for other tasks within television broadcast.","casparcg,casparcg-client,c-plus-plus,qt",186
+0,https://github.com/Ubpa/UGM.git,Ubpa Graphics Mathematics,"cpp,cpp17,vs2019,math,graphics,cg,simd,sse,vec,transform,matrix,float4,mathematics",185
+0,https://github.com/LingDong-/psvg.git,Programmable Scalable Vector Graphics -- drawings that draw themselves,"svg,programming-language,vector-graphics,image-format",185
+0,https://github.com/mosra/magnum-examples.git,Examples for the Magnum C++11/C++14 graphics engine,"android,cmake,c-plus-plus,c-plus-plus-11,c-plus-plus-14,emscripten,ios,osx,windows,linux,game-engine,gamedev,graphics-engine,opengl,webgl,opengl-es,magnum,webassembly",184
+0,https://github.com/karottc/sgi-stl.git,"SGI(Silicon Graphics Computer Systems, Inc.) implement STL(C++ Standard Libirary).",,183
+0,https://github.com/Ubpa/USTC_CG.git,00106501: Computer Graphics (Spring-Summer 2020),,182
+0,https://github.com/fogleman/pg.git,Python OpenGL Graphics Framework,,182
+0,https://github.com/hecomi/uWindowCapture.git,This allows you to use Windows Graphics Capture / PrintWindow / BitBlt in Windows to capture multiple windows individually and easily use them as Texture2D in Unity.,"unity,native-plugin",182
+0,https://github.com/ncsoft/React-UMG.git,A React renderer for Unreal Motion Graphics With Unreal.js,"react,javascript,unrealengine",180
+0,https://github.com/luisnts/awesome-computer-graphics.git,:small_red_triangle::sunglasses: A curated list of awesome stuff to learn computer graphics,"awesome-list,awesome,computer-graphics,graphics,computer-science,programming,math,raytracer",180
+0,https://github.com/praeclarum/CrossGraphics.git,Cross-platform Graphics Library for .NET,,179
+0,https://github.com/Renanse/Ardor3D.git,"Ardor3D is a free Java based, professionally oriented, open source 3D graphics engine.",,176
+0,https://github.com/nyorain/rvg.git,High level vulkan 2D vector-like graphics api (C++),"vulkan,graphics,vector",176
+0,https://github.com/battlesnake/neural.git,LATEX: TikZ package for drawing neural networks.  Also available on CTAN at http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork,"graphics,directed-graphs,neural-networks,visualisation,illustration,latex,pgf,tikz,tex",176
+0,https://github.com/a2flo/floor.git,A C++ Compute/Graphics Library and Toolchain enabling same-source CUDA/Host/Metal/OpenCL/Vulkan C++ programming and execution.,"c-plus-plus,compute,graphics,cuda,opencl,metal,vulkan,spir,spir-v",173
+0,https://github.com/bartwronski/CSharpRenderer.git,C#/.NET DirectX11 based graphics framework for rapid visual effects and algorithms prototyping,,172
+0,https://github.com/CallMeZhou/Puresoft3D.git,Software programmable graphics pipeline (scanline rasterzation based 3D renderer),,171
+0,https://github.com/cloudhead/rgx.git,Modern mid-level 2D graphics library,"graphics,rust,wgpu,2d,vulkan,pixel-art",171
+0,https://github.com/PixelsCommander/FlashJS.git,JavaScript graphics and games engine with API similar to Flash one. Just look to examples sources.,,171
+0,https://github.com/liebke/analemma.git,Analemma is a Clojure library for generating charts and Scalable Vector Graphics (SVG),,171
+0,https://github.com/sk1project/sk1-wx.git,sK1 2.0 cross-platform vector graphics editor,,169
+0,https://github.com/manatlan/guy.git,"Graphics User Ynterface : a simple module for making GUI applications (with html/js) for py3 ... to target windows, linux, mac & android",,169
+0,https://github.com/riscy/shx-for-emacs.git,An Emacs shell-mode (and comint-mode) extension that enables displaying small plots and graphics and lets users write shell commands in Emacs Lisp.,"shell,emacs,comint-mode",169
+0,https://github.com/alievk/npbg.git,Neural Point-Based Graphics,"point-cloud,neural-rendering",168
+0,https://github.com/kmgrant/macterm.git,"Terminal emulator for macOS with 24-bit color, bitmap and vector graphics.","terminal,terminal-emulators,macos,vector-graphics,sixel,python",168
+0,https://github.com/ricardoduarte/python-for-developers.git,"This book is geared toward those who already have programming knowledge. It covers topics that include: creation of user interfaces, computer graphics, internet applications, distributed systems, among other issues.",,167
+0,https://github.com/android/graphics-samples.git,Multiple samples showing the best practices in graphics on Android.,,166
+0,https://github.com/rezaali/Fragment.git,Live Code Graphics via GLSL Fragment Shaders,,166
+0,https://github.com/NYRDS/remixed-dungeon.git,Traditional roguelike game with pixel-art graphics and simple interface - Remixed Pixel Dungeon,"roguelike,android,pixel-art,game,remixed,dungeon,dungeon-crawler-game",164
+0,https://github.com/discosultan/VulkanCore.git,Vulkan 1.0 graphics and compute API bindings for .NET Standard,"vulkan,netstandard,c-sharp,graphics,gpgpu,gpu,dotnet-standard",164
+0,https://github.com/mesh-js/mesh.js.git,A graphics system born for visualization 😘.,"graphics,visualization,webgl,webgl2,canvas",162
+0,https://github.com/Haydend/ConsoleDraw.git,C# Console Graphics Library,,161
+0,https://github.com/MikePopoloski/SharpBgfx.git,C# bindings for the bgfx graphics library,"bgfx-graphics-library,c-sharp,interop,graphics,rendering,netcore",161
+0,https://github.com/achlubek/venginenative.git,Graphics API wrapper written in C++ using Vulkan api,,161
+0,https://github.com/maxkonovalov/MKGradientView.git,🌈 Highly customizable Core Graphics based gradient view for iOS,"gradient,conical-gradient,bilinear-gradient,linear-gradient,axial-gradient,circular-gradient,four-point-gradient,ios,swift,gradient-view",160
+0,https://github.com/microsoft/D3D12TranslationLayer.git,A library containing utilities for mapping higher-level graphics work to D3D12,,158
+0,https://github.com/sammycage/plutovg.git,Tiny 2D vector graphics library in C,"c,2d,graphics,canvas,vector,svg,plutovg",155
+0,https://github.com/Unity-Technologies/vector-graphics-samples.git,SVG and Vector Graphics Sample Project,,154
+0,https://github.com/JohnCoene/g2r.git,📈 Grammar of graphics for interactive visualisations,"r,rstats,visualization",151
+0,https://github.com/premasagar/pablo.git,"{""Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.""}",,151
+0,https://github.com/kitao/divsugar.git,A CSS-based 3D graphics library,,150
+0,https://github.com/nhmkdev/cardmaker.git,An application that generates graphics via data sources.,"cardmaker,google-spreadsheet,csv,generates-graphics,board-game,business-card",150
+0,https://github.com/saitoha/PySixel.git,View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/kermit/RLogin/tanasinn/yaft),,150
+0,https://github.com/tdhock/animint.git,animated and interactive web graphics,,147
+0,https://github.com/OSAS/strapping-mediawiki.git,"base skin for MediaWiki, based on Bootstrap — layer your own style (fonts, graphics, color) on top",,147
+0,https://github.com/mitchmindtree/elmesque.git,"{""An attempt at porting Elm's incredibly useful, purely functional std graphics modules.""}",,146
+0,https://github.com/diagrams/diagrams.git,Embedded domain-specific language for declarative vector graphics (wrapper package),,145
+0,https://github.com/replit/play.git,The easiest way to start coding games and graphics projects in Python,,145
+0,https://github.com/clbustos/rinruby.git,"{""Ruby library that integrates the R interpreter in Ruby, making R's statistical routines and graphics available within Ruby.""}",,144
+0,https://github.com/r-lib/svglite.git,A lightweight svg graphics device for R,"r,svg",142
+0,https://github.com/mholt/golang-graphics.git,Community-contributed Go graphics files,,140
+0,https://github.com/polydraw/polydraw.git,2D graphics engine written in Rust,,140
+0,https://github.com/ThingPulse/minigrafx.git,ESP8266 graphics library,"graphics-library,framebuffer,esp8266,esp32,epaper,e-ink",139
+0,https://github.com/liu2guang/LittlevGL2RTT.git,The littlevgl graphics library for RT-Thread. | 基于 RT-Thread 移植的littlevgl图形库.,"rt-thread,littlevgl,env",139
+0,https://github.com/DDKnoll/SVGeneration.git,Generate SVG background graphics and patterns,,138
+0,https://github.com/theia-ide/sprotty.git,A next-gen web-based graphics framework,,138
+0,https://github.com/rm-hull/programming-enchiladas.git,"A ClojureScript-based HTML5 Canvas and SVG Graphics Playground, much like http://bl.ocks.org/ but specifically for showcasing small ClojuresScript code demos: The underlying agenda is to show how small simple functional programs can generate complex behaviour.",,138
+0,https://github.com/tom-p-reichel/svg-is-turing-complete.git,An implementation of rule 110 in Scalable Vector Graphics,,137
+0,https://github.com/line/apng-drawable.git,A lightweight and fast Animated Portable Network Graphics (APNG) image decoder for Android,"android,apng,image-decoder",136
+0,https://github.com/tapharmonic/QuartzDemos.git,Demos of the using the Quartz framework (aka Core Graphics) on iOS,,135
+0,https://github.com/McNopper/GraphicsEngine.git,OpenGL 4 Graphics Engine,,134
+0,https://github.com/treeform/pixie.git,Full-featured 2d graphics library for Nim.,,134
+0,https://github.com/stetre/moonlibs.git,Lua libraries for graphics and audio programming,"graphics,audio,lua,lua-bindings,gpu-programming,fsm",134
+0,https://github.com/skywind3000/pixellib.git, High Quality 2D Graphics Library ,,133
+0,https://github.com/FluffyStuff/riichi-mahjong-tiles.git,Vector graphics of riichi mahjong tiles,,131
+0,https://github.com/preddy5/Im2Vec.git,[CVPR 2021 Oral] Im2Vec Synthesizing Vector Graphics without Vector Supervision ,"vector-graphics,computer-vision,computer-graphics,cvpr2021",131
+0,https://github.com/OpenNewsLabs/news-graphics-team.git,A list of all the graphics teams in newsrooms around the world.,,130
+0,https://github.com/yuanming-hu/spgrid_topo_opt.git,"Narrow-Band Topology Optimization on a Sparsely Populated Grid, ACM Transactions on Graphics (SIGGRAPH Asia 2018)",,130
+0,https://github.com/robmikh/SimpleRecorder.git,A simple screen recorder using both the Windows.Graphics.Capture and Windows.Media.Transcoding APIs.,,129
+0,https://github.com/alex520biao/Learning-OpenGL-ES-for-iOS.git,(源码)OpenGL ES应用开发实践指南：iOS卷 /Learning OpenGL ES for iOS:A Hands-On Guide to Modern 3D Graphics Programming  /书籍:http://product.china-pub.com/3768099#qy,,128
+0,https://github.com/servo/surfman.git,Accelerated offscreen graphics for WebGL,,127
+0,https://github.com/CatOnly/CrashNote.git,A Note for Computer Graphics,"computer-graphics,linear-algebra",127
+0,https://github.com/joericioppo/MyStyledView.git,A generic styled view class for rendering simple graphics on the desktop.,,127
+0,https://github.com/nickcam/FlareClusterLayer.git,ArcGIS javascript custom graphics layer. Create clusters...with flares.,"arcgis,esri-jsapi,cluster,flares,typescript",126
+0,https://github.com/melling/ComputerGraphics.git,"Computer Graphics Topics: Bézier curves, OpenGL, Ray Tracing, etc",,126
+0,https://github.com/enricocid/VectorifyDaHome.git,📱 Minimal app to apply wallpapers from a vast (400+) collection of vector graphics 🙃 :trollface:,"wallpapers,vector-graphics,wallpaper-changer,wallpaper-app,android-app,android-application,android,android-ui,kotlin-android,vectors,vector-drawable",126
+0,https://github.com/kbroman/d3examples.git,Examples of interactive graphics using d3.js,,125
+0,https://github.com/FNA-XNA/FNA3D.git,FNA3D - 3D Graphics Library for FNA,"windows,macos,linux,gamedev,steamos,direct3d,opengl,metal,vulkan",125
+0,https://github.com/cemyuksel/cyCodeBase.git,An open source programming resource intended for graphics programmers.,,125
+0,https://github.com/head-first-csharp/third-edition.git,Code and graphics for the projects in the 3rd edition of Head First C# (2013),,125
+0,https://github.com/erkkah/tigr.git,"A fork of TIGR - the TIny GRaphics library, with added Linux and Android support","tigr,tiny-graphics-library,cross-platform,linux,windows,osx,android,2d-graphics",125
+0,https://github.com/clementfarabet/gfx.js.git,A graphics backend for the browser (with a Torch7 client).,,124
+0,https://github.com/perrysmotors/sketch-potrace.git,Potrace for Sketch is a bitmap tracing plugin. It converts bitmap images into monochrome vector graphics.,"sketch-plugin,sketch-app,sketch",124
+0,https://github.com/ffd8/xyscope.git,"XYScope is a library for Processing to render graphics on a vector display (oscilloscope, laser) by converting them to audio.",,124
+0,https://github.com/aparis69/Segment-Tracing.git,Source code for the Computer Graphics Forum paper: Segment Tracing Using Local Lipschitz Bounds. Presented at Eurographics 2020. ,,124
+0,https://github.com/friendly/SAS-macros.git,SAS macros for statistics and graphics,,122
+0,https://github.com/GraphicsReplicability/replicability.graphics.git,Code Replicability in Computer Graphics,,122
+0,https://github.com/qst0/ft_libgfx.git,Guide for 42 School Graphics Custom Library,,122
+0,https://github.com/bazhenovc/sigrlinn.git,An abstract graphics API library,,121
+0,https://github.com/erwincoumans/experiments.git,"testbeds, random bits, snippets mainly for real-time physics/graphics development. The GPU rigid body pipeline is moved to a separate repository at http://github.com/bulletphysics/bullet3",,121
+0,https://github.com/mono/SkiaSharp.Extended.git,"SkiaSharp is a cross-platform, comprehensive 2D graphics API for all .NET platforms. And, here is where you will find all sorts of extras that you can use with it.","xamarin,graphics,dot-net,ios,android,windows,macos,cross-platform,skia,skiasharp",121
+0,https://github.com/LunarG/gfxreconstruct.git,Graphics API Capture and Replay Tools for Reconstructing Graphics Application Behavior,,120
+0,https://github.com/SL-RU/MakiseGUI.git,Graphics and GUI library for embed systems.,,120
+0,https://github.com/aardvark-platform/aardvark.base.git,"Aardvark is an open-source platform for visual computing, real-time graphics and visualization. This repository is the basis for most platform libraries and provides basic functionality such as data-structures, math and much more.","math,aardvark,aardvark-platform,geometry,graphics,attribute-grammars,linear-algebra,tensors,matrices,incremental-evaluation,datastructures,persistent-data-structure,functional-programming,fsharp",118
+0,https://github.com/1wheel/swoopy-drag.git,Artisanal label placement for d3 graphics,,116
+0,https://github.com/poke1024/tove2d.git,Animated vector graphics for LÖVE.,"nanosvg,vector-graphics,game-development,love2d",116
+0,https://github.com/renard314/ListView3d.git,Simple example showing the use of android.graphics.Camera to make an 3D-ListView,,116
+0,https://github.com/wch/rgcookbook.git,R Graphics Cookbook ,,115
+0,https://github.com/brightdigit/Speculid.git,Easily Manage Graphics in Xcode Projects,"graphics,xcode,shell,icons,graphics-library,asset-management,bundle,swift",115
+0,https://github.com/otuncelli/Scalable-Vector-Graphics-Plugin-for-Paint.NET.git,Paint.NET filetype plugin for loading SVG (Scalable Vector Graphics) and its compressed variant SVGZ files.,"paint-net,paintdotnet,paintdotnet-plugin,svg,vector-graphics",115
+0,https://github.com/arkenthera/YumeEngine.git,My hobby project of learning graphics programming,,114
+0,https://github.com/LuminoEngine/Lumino.git,Lumino is a framework for building real-time graphics applications.,"game-engine,graphics-engine,c-plus-plus,ruby,multi-platform,vulkan,directx-12",114
+0,https://github.com/Wren6991/RISCBoy.git,"Portable games console, designed from scratch: CPU, graphics, PCB, and the kitchen sink","risc,cpu,pcb,risc-v,gameboy,fpga",113
+0,https://github.com/math1as/Windows-GDI-fuzzer.git,Windows Graphics Device Interface (GDI+) fuzzer,,112
+0,https://github.com/bgrabitmap/bgrabitmap.git,📜 BGRABitmap graphics library made with Lazarus (Free Pascal).,"bgrabitmap,lazarus,graphics,graphics-library,svg,opengl,pascal",112
+0,https://github.com/KevinKelley/nanovg-rs.git,Rust-language binding for the NanoVG vector graphics library,,111
+0,https://github.com/linebender/piet-metal.git,Experimental Metal-based GPU renderer for piet 2D graphics.,,110
+0,https://github.com/cycfi/artist.git,Cross Platform C++ Vector Graphics Library (Inspired by the HTML5 canvas API),,110
+0,https://github.com/Trinkle23897/Computational-Graphics-THU-2018.git,Computational Graphics - THU Spring 2018,"graphics,graphics-engine,image-processing,bezier-surface,path-tracing,computer-graphics",109
+0,https://github.com/mmacklin/sandbox.git,"Graphics and physics research, snippets, demos",,109
+0,https://github.com/pastasfuture/com.hauntedpsx.render-pipelines.psx.git,A scriptable render pipeline for emulating Playstation-1-style graphics on contemporary hardware.,,109
+0,https://github.com/peterhellberg/gfx.git,Convenience package for dealing with graphics in my pixel drawing experiments.,"graphics,go,drawing,vectors,matrix,polygons,palettes,simplex,noise,signed-distance-functions,blocks,gfx",109
+0,https://github.com/GothAck/javascript-x-server.git,"JavaScript X Server (current protocol prototyping in Node.js, hoping to port to HTML5 for graphics)",,108
+0,https://github.com/phaazon/luminance.git,"Type-safe, type-level and stateless Haskell graphics framework",,108
+0,https://github.com/westoncb/under-game.git,Under: A simple game with procedural graphics in JavaScript and GLSL,,108
+0,https://github.com/lagerspetz/linux-stuff.git,"Useful Linux Stuff, such as linux hybrid graphics scripts for LMDE.",,107
+0,https://github.com/hacktoon/ink2canvas.git,Inkscape extension for generating HTML5 Canvas graphics.,,106
+0,https://github.com/MirageYM/3DModels.git,"A ""Free"" 3D models project for Computer Graphics Researcher and Students. ",,106
+0,https://github.com/graphitemaster/normals_revisited.git,revisiting a known normal transformation in computer graphics,,106
+0,https://github.com/andrejnau/FlyCube.git,Graphics API wrapper is written in C++ on top of Directx 12 and Vulkan. Provides main features including ray tracing.,"d3d12,directx12,directx-12,dxr,vulkan,rtx,graphics-api,graphics-programming,raytracing,graphics-engine,renderer,rendering,gamedev,directx,vulkan-api,ray-tracing,direct3d,graphics-library",106
+0,https://github.com/lipojs/lipo.git,":lips: Free image manipulation API service built on top of Sharp (an alternative to Jimp, Graphics Magic, Image Magick, and PhantomJS)","sharp,image,manipulation,resize,crop,scale,trim,auto,enhance,sharpen,manipulate,jimp,graphics,magick,gm,magic,img,node,javascript,nodejs",106
+0,https://github.com/devolonter/Pretty-Painter.git,Graphics editor for Android.,"android,java,paint,paintcode,drawing,canvas",105
+0,https://github.com/WSJ/scroll-watcher.git,A small JavaScript library for scroll-based data-driven graphics.,,105
+0,https://github.com/devkitPro/deko3d.git,Homebrew low level graphics API for Nintendo Switch (Nvidia Tegra X1),"devkitpro,nx,nintendo-switch,nvidia,3d,graphics,deko3d,low-level,lightweight,homebrew,horizon-os",105
+0,https://github.com/soravux/pytorch_tutorial.git,"Quick PyTorch introduction and tutorial. Targets computer vision, graphics and machine learning researchers eager to try a new framework.",,105
+0,https://github.com/singuerinc/overlay.git,"Set of tools for devs and designers to measure, align and overlay on-screen graphics and layouts.","measuring,aligning,on-screen,tool,overlay,electron-app",104
+0,https://github.com/davebalmer/turtlewax.git,"Logo-style turtle graphics in JavaScript using HTML5 Canvas. Basically, turtle graphics re-imagined for a JavaScript world. Current lib (with HSV color support) gzips down to <1K (about half that if you skip HSV color util), so there\'s no excuse *not* to put a little ""turtle"" in your web project.",,104
+0,https://github.com/gavinsimpson/gratia.git,ggplot-based graphics and useful functions for GAMs fitted using the mgcv package,"r-package,generalized-additive-models,ggplot2,mgcv,gam,glm,lm,random-effects,smoothing",103
+0,https://github.com/bbc/rcookbook.git,"{""Reference manual for creating BBC-style graphics using the BBC's bbplot package built on top of R's ggplot2 library""}",,103
+0,https://github.com/horita-yuya/GPUOperator.git,"Simplifies Metal setup. Can be used for graphics shader, realtime video processing and image processing, like computation of two image difference.",,103
+0,https://github.com/ungerik/go-cairo.git,Go binding for the cairo graphics library,,102
+0,https://github.com/nx10/httpgd.git,Asynchronous http server graphics device for R.,,101
+0,https://github.com/bitshifter/mathbench-rs.git,Comparing performance of Rust math libraries for common 3D game and graphics tasks,,100
+0,https://github.com/GameTechDev/stardust_vulkan.git,The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles.,,100
+0,https://github.com/calebwin/stdg.git,"A command-line tool for cross-language, cross-platform 2D graphics",stdg,100
+0,https://github.com/chadmv/cgcmake.git,CMake modules for common applications related to computer graphics,,99
+0,https://github.com/PacktPublishing/Real-Time-3D-Graphics-with-WebGL-2.git,"Real-Time 3D Graphics with WebGL 2, published by Packt",,99
+0,https://github.com/avem-labs/ol3d.git,A tiny portable 3D graphics lib for micro controllers,"arduino,microcontroller,graphics,3d-graphics,esp32-arduino,esp32",99
+0,https://github.com/ratcave/ratcave.git,"A Simple Python 3D Graphics Engine extension for Pyglet, Psychopy, and PyGame.",,99
+0,https://github.com/jfrascon/SLAM_AND_PATH_PLANNING_ALGORITHMS.git,"This repository contains the solutions to all the exercises for the MOOC about SLAM and PATH-PLANNING algorithms given by professor Claus Brenner at Leibniz University. This repository also contains my personal notes, most of them in PDF format, and many vector graphics created by myself to illustrate the theoretical concepts. Hope you enjoy it! :)","slam,algorithm,youtube-playlist,path-planning,robotics,motion-planning,kalman-filtering,extended-kalman-filters,particle-filter,fast-slam",99
+0,https://github.com/aap/skygfx.git,Bringing the PS2 graphics of GTA San Andreas to PC,,98
+0,https://github.com/kenamick/game-off-2017.git,"{""👊  8-bit Retro Beat 'em up with Game Boy graphics ""}","gameoff2017,html5-game,phaserjs,beat-em-up,fighter,action-game",97
+0,https://github.com/alecjacobson/computer-graphics-csc418.git,Course Page for Computer Graphics course,,96
+0,https://github.com/shibukawa/lightpng.git,PNG optimization tool for game graphics,,96
+0,https://github.com/kof/emoticons.git,Parse text emoticons and replace them by graphics.,,96
+0,https://github.com/y-a-v-a/node-gd.git,🎨 GD graphics library (libgd) C++ bindings for Node.js.,"libgd,javascript,node-gd,gd-graphics-library,graphics,image-manipulation",96
+0,https://github.com/syntra/gatsby-remark-social-cards.git,Gatsby remark plugin for generating social card graphics,"gatsby,twitter-cards,react,social-media,seo",96
+0,https://github.com/cscheid/lux.git,Lux is an EDSL for WebGL graphics and shading,,96
+0,https://github.com/kjpgit/fireworks.git,"Fireworks Graphics Demo (Swift, Metal, macOS)",,96
+0,https://github.com/ptrelford/FunSharp.git,"Fun cross-platform graphics library, based on the Small Basic library, made specifically for F# and C#.",,96
+0,https://github.com/nlguillemot/flythrough_camera.git,Single-header single-function C/C++ immediate-mode camera for your graphics demos,,95
+0,https://github.com/lieff/lvg.git,Lion Vector Graphics,"swf,vector,flash,opengl,opengl-es,gles,gles2,svg,cross-platform,webgl,web,small-size-league,tiny",94
+0,https://github.com/ComputerNerd/Retro-Graphics-Toolkit.git,Retro Graphics Toolkit is a free software program that allows graphics to be created for a wide variety of platforms (geared primarily towards retro video game consoles). Retro Graphics Toolkit also provides amazing interoperability between different platforms making cross platform developing faster and easier.,,94
+0,https://github.com/jsa-aerial/saite.git,Interactive document creation for exploratory graphics and visualizations. 咲いて (in bloom). Built on top of hanami vega/vega-lite library with CodeMirror and self hosted ClojureScript,"clojure,clojurescript,vega,vega-lite,visualization-tools,plotting,charting-application,reagent,recom,codemirror",94
+0,https://github.com/coolbutuseless/devout.git,Write R graphics output devices in plain R,,93
+0,https://github.com/creotiv/hdrnet-pytorch.git,"{""Unofficial PyTorch implementation of 'Deep Bilateral Learning for Real-Time Image Enhancement', SIGGRAPH 2017 https://groups.csail.mit.edu/graphics/hdrnet/""}",,93
+0,https://github.com/jjgomera/pychemqt.git,"pychemqt intended as a free software tool for calculation and design of unit operations in chemical engineering. The goal is to obtain an equivalent free software to CHEMCAD or hysys. It is written in python using qt as graphics libraries, so is cross-platform.",,92
+0,https://github.com/armak/pbr-devour.git,Revision 2019 4k procedural graphics competition entry,,91
+0,https://github.com/devkitPro/citro2d.git,"{""Library for drawing 2D graphics using the Nintendo 3DS's PICA200 GPU""}","gpu,pica200,nintendo,nintendo-3ds,libctru,citro3d,citro2d,devkitpro,homebrew,graphics,2d,sprite,sprites",91
+0,https://github.com/korlibs/korim.git,"Korim: Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin","bitmap,svg,vector-graphics,kotlin,png,bmp,jpeg,psd,ico,dds,dxt,dxt5,ttf",91
+0,https://github.com/wkjarosz/rendering-bib.git,"My master bibliography file with publications mostly in computer graphics, rendering, transport theory, and statistics.",,91
+0,https://github.com/shoebot/shoebot.git,Easy vector graphics with Python,"python,graphics,computer-graphics,creative-coding,live-coding,gedit-plugin,nodebox",90
+0,https://github.com/chestm007/amdgpu-fan.git,Fan controller for AMD graphics cards running the amdgpu driver on Linux,,90
+0,https://github.com/radkovo/WebVector.git,"WebVector is an HTML to SVG, PDF or PNG convertor. It converts a HTML document into a vector image in SVG format or a bitmap image in PNG format. The Standard Vector Graphics (SVG) files can be further edited by a variety of vector graphics editors.",,90
+0,https://github.com/mayankk2308/purge-nvda.git,Optimize external graphics for macs with discrete NVIDIA GPUs.,"graphics,nvidia,sierra,high-sierra,macbook-pro",89
+0,https://github.com/volkerp/fitCurves.git,"Python implementation of Philip J. Schneider\'s ""Algorithm for Automatically Fitting Digitized Curves"" from the book ""Graphics Gems""",,89
+0,https://github.com/nicebyte/nicegraf.git,An abstraction layer for low-level platform-specific graphics APIs.,,88
+0,https://github.com/mike-bourgeous/mb-geometry.git,Recreational Ruby tools for graphics and geometry.,,88
+0,https://github.com/nickconnors/RTX-3070-Best-Buy-Bot.git,Selenium WebDriver Python script to auto checkout RTX 3070 graphics card when in stock,,87
+0,https://github.com/endavid/VidEngine.git,3D graphics for iOS using Metal and Swift,"metal,swift,gpu,xcode,metalkit,shaders,ios",87
+0,https://github.com/lunasorcery/Blossom.git,4K Executable Graphics framework,,86
+0,https://github.com/tyoma/agge.git,Anti-Grain Evolution. 2D graphics engine for Speed and Quality in C++.,"cpp,graphics,2d-graphics,cross-platform-graphics,cross-platform-2d,android-library",86
+0,https://github.com/xmonad/X11.git,A Haskell binding to the X11 graphics library.,,85
+0,https://github.com/sk1project/uniconvertor.git,UniConvertor is a cross-platform universal vector graphics translator,,85
+0,https://github.com/storm-enroute/macrogl.git,Scala macro-based frontend for OpenGL for structured and efficient graphics code.,,85
+0,https://github.com/AcademySoftwareFoundation/Imath.git,"Imath is a C++ and python library of 2D and 3D vector, matrix, and math operations for computer graphics","computer-graphics,3d-vector,matrix,openexr",85
+0,https://github.com/Huion-Linux/DIGImend-kernel-drivers-for-Huion.git,"This is a collection of huion graphics tablet drivers for the Linux kernel, produced and maintained by the DIGImend project. ",,85
+0,https://github.com/TuomoKu/SPX-GC.git,"SPX-GC is a graphics control client for live video productions and live streams using CasparCG, OBS, vMix, or similar software.","casparcg,client,controller,server,obs-studio,vmix,graphics,templates,nodejs,spx-gc,graphic-templates,playout,html-templates",85
+0,https://github.com/srsran/srsGUI.git,A graphics library for software radio.,,84
+0,https://github.com/CMU-Graphics/Scotty3D.git,Base code for 15-462: Computer Graphics at Carnegie Mellon University ,,84
+0,https://github.com/chrislondon/9-Patch-Image-for-Websites.git,UNMAINTAINED -- Javascript file to allow 9 patch images on the web. For a more detailed explanation of 9-patch images read here: http://developer.android.com/guide/topics/graphics/2d-graphics.html#nine-patch,,84
+0,https://github.com/matus-chochlik/oglplu2.git,"Wrapper for OpenGL, OpenAL and EGL including utilities for writing applications with graphics and/or audio rendering.",,84
+0,https://github.com/wilkelab/gridtext.git,Improved text rendering support for grid graphics in R ,,83
+0,https://github.com/Unity-Technologies/XRAutomatedTests.git,"XRAutomatedTests is where you can find functional, graphics, performance, and other types of automated tests for your XR Unity development. ","unity,performance,benchmark,automation,tests,unity-test-runner,xr-unity-development,functional-testing",83
+0,https://github.com/brucefan1983/GPUMD.git,Graphics Processing Units Molecular Dynamics,"molecular-dynamics-simulation,heat-transport,cuda,molecular-dynamics,gpumd,phonon,gpu",82
+0,https://github.com/joearms/SEBG.git,Simple Erlang Browser Graphics,,82
+0,https://github.com/kbroman/qtlcharts.git,R/qtlcharts: An R package for interactive QTL graphics,,82
+0,https://github.com/thackl/gggenomes.git,A grammar of graphics for comparative genomics,"comparative-genomics,ggplot2,biological-data,ggplot-extension,genomics-visualization",82
+0,https://github.com/powervr-graphics/WebGL_SDK.git,WebGL 3D graphics demos and helper code written in Javascript. Optimized for PowerVR devices,,82
+0,https://github.com/dmilford/rust-3d-demo.git,An example of how you can do 3D graphics in the browser with Rust and WebGL.,,82
+0,https://github.com/lukaslueg/railroad.git,A library to produce syntax diagrams as Scalable Vector Graphics,,82
+0,https://github.com/AmoebeLabs/flex-horseshoe-card.git,"Flexible Horseshoe card for Home Assistant Lovelace UI. A card with a flexible layout,  a horseshoe-like donut graph, multiple entities or attributes, graphics and animations!","lovelace-ui,lovelace-card,lovelace-custom-card,home-assistant-frontend,home-assistant-custom,home-assistant",82
+0,https://github.com/CodingSha/SPMathKit.git,"Render math exercises for your view. Contains the rendering of mathematical formulas and mathematical graphics, as well as the general text","mathml,mathjax,katex,latex,rendering-engine,mathematical-formulas,ios",82
+0,https://github.com/amadvance/scale2x.git,A real-time graphics effect able to increase the size of small bitmaps guessing the missing pixels without blurring the images,,82
+0,https://github.com/aardvark-platform/aardvark.rendering.git,"The dependency-aware, high-performance aardvark rendering engine. This repo is part of aardvark - an open-source platform for visual computing, real-time graphics and visualization.","aardvark-rendering-engine,aardvark-platform,visualization,shader,gpu,gpgpu,rendering,functional-programming,dsl,fsharp",82
+0,https://github.com/dustmop/makechr.git,makechr is a tool for generating NES graphics,,81
+0,https://github.com/konvajs/ng2-konva.git,Angular & Canvas - JavaScript library for drawing complex canvas graphics using Angular.,"ng2,angular2,angular,canvas,canvas-animation,konvajs,konva,shape",81
+0,https://github.com/techcentaur/Flocking-Simulation.git,Flocking simulation of starling murmuration using web graphics library (webGL) and openGL shader language in javascript.,"boids-simulation,flocking-simulation,javascript,threejs",80
+0,https://github.com/OpenVisualCloud/Dockerfiles.git,"Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.","ffmpeg,gstreamer,rtmp,vaapi,container,nginx,analytics,openvino,encoding,media,webrtc,svt,vcac-a,media-analytics,media-delivery,docker-images,dockerfiles,stack-images,inferencing-engine",80
+0,https://github.com/temoki/TortoiseGraphics.git,A turtle graphics (a key feature of the Logo ) engine written in Swift.,"swift,turtle-graphics,logo",80
+0,https://github.com/Discontinuity-srl/DSGraphicsKit.git,Objective-C utilities for common and advanced graphics operations.,,79
+0,https://github.com/cmkilger/CKImageAdditions.git,Additional functions and methods for working with Core Graphics and UIImages on iOS.,,79
+0,https://github.com/Ericson2314/Voxlap.git,"Making Ken Silverman\'s ""Voxlap"" voxel graphics engine run on any platform with SDL.",,78
+0,https://github.com/piccolbo/altair_recipes.git,"A selection of statistical graphics for vega in python, based on altair.",,78
+0,https://github.com/gpeyre/2015-SIGGRAPH-convolutional-ot.git,"J. Solomon, F. de Goes, G. Peyré, M. Cuturi, A. Butscher, A. Nguyen, T. Du, L. Guibas. Convolutional Wasserstein Distances: Efficient Optimal Transportation on Geometric Domains. ACM Transactions on Graphics (Proc. SIGGRAPH 2015), 34(4), pp. 66:1–66:11, 2015",,78
+0,https://github.com/ggobi/cranvas.git,"Interactive graphics in R using Qt interfaces, a descendant of ggobi software",,77
+0,https://github.com/Bodmer/TFT_ILI9341.git,A fast Arduino IDE compatible graphics and fonts library including a driver for the ILI9341 based TFT displays.,,77
+0,https://github.com/npiegdon/immediate2d.git,A C++ drawing framework for Windows that makes simple graphics programming as fun and easy as the days when computers booted directly to a BASIC prompt,"windows,cpp,drawing",77
+0,https://github.com/ufoym/wavelet-rasterization.git,"Python implementation of [Manson, Josiah, and Scott Schaefer. ""Wavelet rasterization."" Computer Graphics Forum. Vol. 30. No. 2. Blackwell Publishing Ltd, 2011].",,77
+0,https://github.com/NCCA/NGL.git,The NCCA Graphics Library,,76
+0,https://github.com/garrettgman/ggsubplot.git,Embed subplots in ggplot2 graphics in R,,76
+0,https://github.com/jaroslavstehlik/svgimporter.git,Unity plugin for importing SVG graphics in to Unity,,76
+0,https://github.com/yantis/docker-wine.git,Wine on Docker with Dynamic Graphics drivers and VirtualGL support for with both local and remote access.,,76
+0,https://github.com/chmille4/Scribl.git,HTML5 canvas genomic graphics library,,74
+0,https://github.com/raysan5/challenges.git,graphics programming challenges,"raylib,opengl,blocks,dungeons,maze,videogames",74
+0,https://github.com/mfikes/bocko.git,Simple Clojure imperative graphics,,74
+0,https://github.com/DjangoGirls/resources.git,"Repository containing resources (graphics, presentations, texts) for Django Girls organizers",,73
+0,https://github.com/Baughn/Dwarf-Fortress--libgraphics-.git,The graphics segment of Dwarf Fortress,,73
+0,https://github.com/bigtimebuddy/pixi-svg.git,SVG to Graphics DisplayObject for pixi.js,"pixi,svg,pixi-svg,draw,html5-canvas,webgl,pixijs",73
+0,https://github.com/markd2/GrafDemo.git,A little demo program showing off various Core Graphics features.,,73
+0,https://github.com/PMheart/CoreDisplayFixup.git,Enable 4K or greater resolution for all graphics under macOS,,73
+0,https://github.com/JuliaGraphics/Immerse.jl.git,Dive deeper into your data with interactive graphics,"gadfly,julia,interactive-graphics",73
+0,https://github.com/earowang/sugrrants.git,SUpporting GRaphics with R for ANalysing Time Series,"r,statistical-graphics,time-series",73
+0,https://github.com/chilons/gosgl.git,Modern OpenGL GPU-based resolution-independent graphics library.,,73
+0,https://github.com/kooparse/zalgebra.git,Linear algebra library for games and real-time computer graphics.,"math,linear-algebra,zig,graphics,gamedev,matrix,quaternion,ziglang,vec3,vectors,mat4",73
+0,https://github.com/nskrypnik/kivy3.git,3D graphics framework for Kivy.,,72
+0,https://github.com/llfjfz/LiveRender.git,A Cloud Gaming System Based on Compressive Graphics Streaming,,72
+0,https://github.com/kosua20/PtahRenderer.git,A small software graphics renderer,"rasterization,graphics-rendering,computer-graphics,swift,software-rendering",72
+0,https://github.com/daniele-salvagni/color-goggles.git,Saturation manager (up to 320%) utility for Intel™ and Dual-Graphics laptops,"csgo,vibrance,saturation,dual-graphics-laptops,intel-hd-graphics,intel,igfx,laptop",72
+0,https://github.com/Const-me/Vrmac.git,"Vrmac Graphics, a cross-platform graphics library for .NET. Supports 3D, 2D, and accelerated video playback. Works on Windows 10 and Raspberry Pi4.",,72
+0,https://github.com/Clapeysron/Mycraft.git,A minecraft clone project based on modern OpenGL completed in ZJU computer graphics course.,"minecraft,opengl,macos,cpp,minecraft-clone",72
+0,https://github.com/mosra/magnum-bootstrap.git,Bootstrap projects for Magnum C++11/C++14 graphics engine,"android,c-plus-plus,c-plus-plus-11,c-plus-plus-14,cmake,emscripten,game-engine,gamedev,graphics-engine,ios,linux,opengl,opengl-es,osx,webgl,windows,magnum,webassembly",71
+0,https://github.com/JacquesLucke/Blender-Camera-Addon.git,Professional camera animations for motion graphics.,,71
+0,https://github.com/devOpifex/g2r.git,Grammar of graphics for interactive visualisation using G2.js,"r,rstats,visualization",71
+0,https://github.com/jfahrenkrug/Raphuccino.git,A Cappuccino & Objective-J wrapper for the awesome RaphaelJS vector graphics library ,,71
+0,https://github.com/polymonster/maths.git,"Linear algebra library with vector swizzling, intersection tests and useful functions for games and graphics dev.","math,math-library,linear-algebra-library,swizzle,shader-swizzle,cpp,vector-swizzle,matrix,quaternion,scalar-math",71
+0,https://github.com/Traumflug/Visolate.git,"{""Visolate is an application for calculating machining toolpaths (G-code) for manufacturing printed circuit boards (PCBs) by isolation milling. As an outstanding feature, this calculation is done on the computer's screen, using the features of 3D graphics drivers.""}",,71
+0,https://github.com/gadenbuie/gentle-ggplot2.git,📊 A Gentle Guide to the Grammar of Graphics with ggplot2,,70
+0,https://github.com/david-cako/T430-Hackintosh.git,Fully functional Lenovo T430 Hackintosh with discrete NVS5400M graphics.,"hackintosh,thinkpad,macos",70
+0,https://github.com/jangko/nimPNG.git,PNG (Portable Network Graphics) decoder and encoder written in Nim,"png,png-encoder,png-decoder,graphics,apng-image,image,image-compression",70
+0,https://github.com/dobyrch/libtermboy.git,A graphics library for text mode consoles,,70
+0,https://github.com/nlguillemot/arcball_camera.git,Single-header single-function C/C++ immediate-mode camera for your graphics demos,,70
+0,https://github.com/congard/nvidia-system-monitor-qt.git,Task Manager for Linux for Nvidia graphics cards,"task-manager,nvidia-smi,nvidia,nvidia-gpu,linux,system-monitor,qt,nvidia-graphics-cards,arch-linux",69
+0,https://github.com/robmikh/Win32CaptureSample.git,A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.,,69
+0,https://github.com/rybotron/EMIT-Quartz-Composer-Library.git,A Quartz Composer library designed for the easy creation of reactive and generative graphics,,69
+0,https://github.com/gboisse/gfx.git,A minimalist and easy to use graphics API.,,69
+0,https://github.com/moxuse/Kusabi.git,Coding environment 3D graphics with PureScript.,"purescript,webgl,3d-graphics,threejs",69
+0,https://github.com/mosra/magnum-plugins.git,Plugins for the Magnum C++11/C++14 graphics engine,"android,c-plus-plus,c-plus-plus-11,c-plus-plus-14,cmake,emscripten,game-engine,gamedev,graphics-engine,ios,linux,opengl,opengl-es,osx,webgl,windows,opengex,harfbuzz,magnum,webassembly",68
+0,https://github.com/VoxxxelAR/ARVoxelKit.git,Voxel graphics framework using ARKit + SceneKit,"swift,arkit,voxel,scenekit",68
+0,https://github.com/haolange/InfinityRenderPipeline.git,Extreme Graphics Research for Unity Scriptable Render Pipeline(SRP).,,68
+0,https://github.com/Soulghost/SGGestureRecognizer.git,An graphics gesture recognizer for iOS based on dollar one algorithm. 基于$1算法的图形手势识别器。,,68
+0,https://github.com/little-core-labs/axis3d.git,Functional 3d graphics library,"regl,glslify,stackgl,webgl,graphics,functional,vr",67
+0,https://github.com/integeruser/jgltut.git,Learning Modern 3D Graphics Programming with LWJGL 3 and JOML,"3d-graphics,tutorials,java,lwjgl3,joml",67
+0,https://github.com/ArtPoon/ggfree.git,ggplot2-style plots with base R graphics,,67
+0,https://github.com/masagrator/ReverseNX.git,SaltyNX plugin forcing docked or handheld graphics settings,,67
+0,https://github.com/cargomoose/ggraptR.git,Rapid and Pretty Things in R : A shiny graphical user interface for your favourite ggplot graphics in R,,67
+0,https://github.com/hadley/gg2v.git,Render ggplot2 graphics using vega,,66
+0,https://github.com/umlaeute/Gem.git,Graphics Environment for Multimedia (official repository),,66
+0,https://github.com/copperspice/cs_paint.git,Vulkan rendering library for graphics and text,"vulkan,gpu,text,graphics,shaders",66
+0,https://github.com/GStreamer/gstreamer-vaapi.git,"Hardware-accelerated video decoding, encoding and processing on Intel graphics through VA-API",,66
+0,https://github.com/mosra/magnum-integration.git,Integration libraries for the Magnum C++11/C++14 graphics engine,"android,c-plus-plus,c-plus-plus-11,c-plus-plus-14,cmake,emscripten,game-engine,gamedev,graphics-engine,ios,linux,opengl,opengl-es,osx,webgl,windows,bullet-physics,oculus-rift,magnum,webassembly",66
+0,https://github.com/F1LT3R/axel.git,"AXEL is a Node.js graphics library for drawing graphics to your console with ASCII characters. AXEL has been designed to help create games, retro graphics and spice up the terminal components of your Node.js applications.",,66
+0,https://github.com/mlfarrell/VGL-Vulkan-Core.git,Vulkan core for the Verto Studio Graphics Library (VGL) Engine,,66
+0,https://github.com/imazen/Graphics-vNext.git,The future of server-side graphics in ASP.NET,,66
+0,https://github.com/Optiroc/SuperFamiconv.git,"Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.",,66
+0,https://github.com/vector-js/vector.git,A javascript for creating interactive graphics.,"vector,vector-graphics,interactive,animation,visualization",65
+0,https://github.com/Dominaezzz/kgl.git,Thin multiplatform wrappers for graphics.,"kotlin,kotlin-native,kotlin-multiplatform,vulkan,glfw3,vulkan-api,kgl,graphics,opengl",65
+0,https://github.com/recp/gk.git,"🎥 Graphics Kernel: flexible, highly configurable, extensible render engine (realtime + offline)","opengl,shader,glsl,rendering,rendering-engine,rendering-3d-graphics,rendering-2d-graphics,graphics,graphics-engine,graphics-library,graphics-rendering,rendering-kernel,3d,3d-graphics,transparency,c-render-engine,pbr,shadow-mapping,graphics-kernel,engine",65
+0,https://github.com/migueldeicaza/SkiaKit.git,Swift Bindings to the Skia 2D graphics Library,"skia,swift,swift-library,graphics2d,ios,tvos,macos",65
+0,https://github.com/aaronkahlhamer/the-zurb-clambake.git,"The Clambake - Add retina-ready graphics, like your logo, to a responsive email.",,65
+0,https://github.com/bitbank2/oled_96.git,A simple C library (Linux + Arduino) for drawing text and graphics on SSD1306/SH1106 OLED displays,,65
+0,https://github.com/cristoper/wav2vec.git,"Python package to convert wave files (WAV or AIFF) to vector graphics (SVG, PostScript, CVS)","wav,waveform,svg,postscript,graphics,aiff,audio",65
+0,https://github.com/qwook/graphical.git,Draw dynamic graphics straight to the browser from NodeJS.,,65
+0,https://github.com/dbuenzli/vg.git,Declarative 2D vector graphics for OCaml,,64
+0,https://github.com/kyamagu/skia-python.git,Python binding to Skia Graphics Library,"skia-python-binding,python,skia-library,graphics,skia",64
+0,https://github.com/peterc/trtl.git,Tk-powered Ruby turtle graphics,"tk,turtle,turtle-graphics,logo,ruby,graphics,ruby-turtle-graphics,hacktoberfest",64
+0,https://github.com/substack/svg-pencil.git,pencil tool for drawing on scalable vector graphics,,64
+0,https://github.com/RehabMan/OS-X-Intel-Backlight.git,A backlight control kext replacing AppleBacklight for Intel integrated graphics hardware,,64
+0,https://github.com/TimArt/3DAudioVisualizers.git,An OpenGL Audio Visualizer suite in C++ using JUCE for Audio and GUI. This was used as my final project in Computer Graphics class at Baylor University.,,64
+0,https://github.com/AlloSphere-Research-Group/GLV.git,Graphics Library of Views,,63
+0,https://github.com/1kingja/graphics.git,Code for my OpenGL graphics on YouTube,,63
+0,https://github.com/rev22/svgl.git,Render SVG graphics with OpenGL (library),,63
+0,https://github.com/davydotcom/retina_tag.git,"Rails image_tag addon for retina graphics, with cache support.",,63
+0,https://github.com/pi3d/pi3d_demos.git,Demos and support files for pi3d (3D graphics python package for the raspberry pi),,63
+0,https://github.com/slackmoehrle/Computer-Graphics-Through-OpenGL-2nd.git,"Computer Graphics Through OpenGL: From Theory to Experiments, Second Edition (Sumanta Guha)",,63
+0,https://github.com/anton-k/processing-for-haskell.git,Graphics for kids and artists. Processing implemented in Haskell,,63
+0,https://github.com/DarthMike/indielib-crossplatform.git,"IndieLib is a cross-platform Game Graphics engine. Main focus is OpenGL ES 2.0 for mobile iOS operating system, and OpenGL desktop. **NOT SUPPORTED ANYMORE**","graphics,opengl,opengl-es,directx,2d-rendering-engine",63
+0,https://github.com/arthurealike/turtle.lua.git,Turtle graphics library for LÖVE.,"turtle,turtle-library,lua,drawing,pure-lua,lua-library,simple",62
+0,https://github.com/q2apro/keyboard-keys-speedflips.git,"Free Keyboard Graphics and Key Icons for Screencasts (SVG, PNG)",,62
+0,https://github.com/RudolphRiedel/FT800-FT813.git,"Multi-Platform C code Library for EVE graphics controllers from FTDI / Bridgetek (FT810, FT811, FT812, FT813, BT815, BT816, BT817, BT818)","ft813,bt815,ft81x,bt81x,eve2,eve3,tft,avr,atsam,spi-display,touch,arduino,stm32,risc-v,bt817,bt818,eve4,esp32,dma,rp2040",62
+0,https://github.com/ckarcz/GraphicsEngine.git,A windows console 3D graphics engine written in C#.,,62
+0,https://github.com/w0lya/fsharp-3d-and-gamedev.git,Resources on 3D Graphics Programming and Game Development in F#,"fsharp,functional-programming,3d-graphics,game-development",62
+0,https://github.com/protoman/rockbot.git,"An open-source, SDL based, game engine to replicate old style NES games, mostly Megaman ones, and an editor made with Qt, for custom graphics, weapons, bosses, enemies and level creation.",,62
+0,https://github.com/idovelemon/GraphicsLabtory.git,This project is for computer graphics learning,,61
+0,https://github.com/XiangyunHuang/MSG-Book.git,:book: 现代统计图形 Modern Statistical Graphics,"bookdown,modern-statistical-graphics,ggplot2,lattice,grid,r,data-visualization",61
+0,https://github.com/ps2dev/gsKit.git,gsKit is a C interface to the PS2 Graphics Synthesizer,,61
+0,https://github.com/ft-interactive/visual-vocabulary-templates.git,Library of data driven graphics -- to be used as starting points.,,61
+0,https://github.com/Hopson97/CellularAutomaton.git,A collection of varios Cellular automaton programs written in C++using SFML for graphics,,61
+0,https://github.com/expo/expo-2d-context.git,"{""A pure-js implementation of the W3C's Canvas-2D Context API that can be run on either Expo Graphics or WebGL""}",,61
+0,https://github.com/wuhanstudio/rt-u8g2.git,U8g2 for rt-thread - a monochrome graphics library,"u8g,rt-thread,ssd1306,spi,i2c",60
+0,https://github.com/GuangchuangYu/emojifont.git,:lollipop:Emoji and fontawesom in both base and ggplot2 graphics,"emoji,ggplot2,r,visualization,font-awesome",60
+0,https://github.com/jslee02/awesome-graphics-libraries.git,:sunglasses: A curated list of 3D graphics libraries and resources,"awesome-list,graphics-library,graphics-engine,game-engine,3d-graphics,graphics-libraries,3d-game-engine",60
+0,https://github.com/TrevorPage/TPSVG_Android_SVG_Library.git,"SVG image parser for Android. Converts image to list of native android.graphics objects which can then be speedily rendered on Canvas, and provides callbacks to allow image elements to be manipulated programmatically.",,60
+0,https://github.com/awgreenblatt/css-graphics.git,"There are several CSS graphics-related properties that provide the bulk of support for Clipping, Masking, Filters and whatnot.  The purpose of this repo is to hopefully provide some insight into what the current state of affairs is with various browsers. ",,60
+0,https://github.com/Granipouss/vue-pixi.git,Vue.js components rendering 2D graphics reactively via pixi.js,,59
+0,https://github.com/felselva/gfw.git,Pure C Minimal Graphics Framework (OpenGL),"c,game-development,framework,opengl,2d,3d,demoscene,demos",59
+0,https://github.com/graysonwhite/gglm.git,Grammar of Graphics for Linear Model Diagnostic Plots,"r,linear-model-diagnostics,diagnostic-plots,grammar-of-graphics",59
+0,https://github.com/servo/rust-azure.git,"{""Rust bindings to mozilla-central's graphics abstraction layer""}",,58
+0,https://github.com/tuupola/hagl.git,Hardware Agnostic Graphics Library for embedded,"graphics-library,gd32v,rp2040,esp32,raspberry-pi-pico,esp-idf",58
+0,https://github.com/satcy/centiscript.git,Live coding environment for creating experimental graphics and sound,,58
+0,https://github.com/bartbutenaers/node-red-contrib-ui-svg.git,A Node-RED widget node to show interactive SVG (vector graphics) in the dashboard,,58
+0,https://github.com/2youyou2/ccc.raphael.git,Extension for cc.Graphics of Cocos Creator.,,57
+0,https://github.com/zmlabe/IceVarFigs.git,Weather and climate graphics for science communication,"arctic-sea-ice,sea-ice-thickness,climate-change,scicomm,climate-variability",57
+0,https://github.com/androdlang/TFTShape.git,2D graphics library for ESP8266/ESP32 ,"esp8266-arduino,esp32-arduino,wrover,ili9341,2d-graphics,odroid-go,arduino-library",57
+0,https://github.com/adlr/formulatepro.git,Overlay text and graphics on PDF documents. Great for filling out forms.,,57
+0,https://github.com/atilimcetin/path-rendering.git,High quality 2D vector graphics rendering library for OpenGL and OpenGL ES.,,57
+0,https://github.com/mattetti/macruby_graphics.git,"{""Cocoa's Core Graphics & Core Image wrapper for MacRuby (see original author's branch in the link below)""}",,57
+0,https://github.com/cbabuska/curses_city.git, Basic Sim City style game written in C++ using ncurses for ascii graphics ,,57
+0,https://github.com/SwiftGFX/SwiftBGFX.git,"Swift bindings to bgfx – a cross-platform, graphics API agnostic, ""Bring Your Own Engine/Framework"" style rendering library","swift-bindings,cross-platform,swift,bgfx",57
+0,https://github.com/researchops/research-skills.git,"Data, graphics, and insights from the ReOps ""Research Skills Framework"" project. Also includes workshop package and guide materials from the 2019 Workshop Series.",,57
+0,https://github.com/amesgames/RenderDevice.git,A demonstration of a graphics library abstraction layer that you might see in a typical rendering engine for games and simulations.,,57
+0,https://github.com/JuliaGraphics/Cairo.jl.git,Bindings to the Cairo graphics library.,,56
+0,https://github.com/gzorin/RSXGL.git,Hardware accelerated 3D graphics library for the PS3.,,56
+0,https://github.com/timjs/elm-collage.git,Create interactive vector graphics and position them relative to each other,"elm,graphics,composition,functional-programming,svg",56
+0,https://github.com/tapio/infiniverse.git,A game of procedurally generated universe with character graphics,,56
+0,https://github.com/BretJohnson/XGraphics.git,"Cross platform UWP-inspired graphics primitives, for XAML and code",,56
+0,https://github.com/CorsixTH/CorsixTH-Graphics.git,New graphics for CorsixTH to replace the ones from Theme Hospital,,56
+0,https://github.com/blurrypiano/littleVulkanEngine.git,Code repo for video tutorial series teaching Vulkan and computer graphics,,56
+0,https://github.com/saschagehlich/pixi-svg-graphics.git,Draws SVG documents on PIXI.Graphics objects,,55
+0,https://github.com/BurntSushi/graphics-go.git,Automatically exported from code.google.com/p/graphics-go,,55
+0,https://github.com/jumpingrivers/prettyB.git,Prettified base graphics,"rstats,r,graphics",55
+0,https://github.com/keijiro/LightProbeUtility.git,Unity example: applying light probes to a mesh drawn with Graphics.DrawMesh,,55
+0,https://github.com/ft-interactive/starter-kit.git,A template for graphics pages,,54
+0,https://github.com/Bodmer/TFT_ST7735.git,Arduino graphics library for ST7735 displays with propotional fonts,,54
+0,https://github.com/rogeralsing/gophers.git,random gopher graphics,,54
+0,https://github.com/coolbutuseless/devoutsvg.git,Bespoke SVG graphics output device with pattern fill support,,54
+0,https://github.com/prideout/parg.git,tiny C library of various graphics utilities and GL demos,,54
+0,https://github.com/vpython/visual.git,Visual is a 3D graphics module for Python with a friendly API. The source repository has moved to https://github.com/BruceSherwood/vpython-wx. Also see,,54
+0,https://github.com/cylonbrain/VDADecoderCheck.git,"{""Check the support of your graphics card to support Apple's Video Decode Acceleration framework and play h264 content with hardware acceleration.""}",,54
+0,https://github.com/jbryer/timeline.git,Create timeline plots using a grammar of graphics.,,53
+0,https://github.com/prographon/graphics-developer-roadmap.git,roadmap to becoming a graphics developer,,53
+0,https://github.com/rm-hull/wireframes.git,A lightweight 3D graphics rendering engine in Clojure & ClojureScript.,,53
+0,https://github.com/matthewepler/ComputerGraphicsAndArt.git,"Code listings, implementations, and translations of code in the ""Computer Graphics And Art"" magazine (1976-1978).",,53
+0,https://github.com/KhronosGroup/siggraph2012course.git,"Presentations for SIGGRAPH 2012 course ""Graphics Programming on the Web"" covering HTML5 technologies (Canvas, CSS, etc.), WebGL and WebCL",,53
+0,https://github.com/gree/tesspathy.git,JS library for converting vector graphics paths into triangles for GL-like APIs,,53
+0,https://github.com/PacktPublishing/OpenGL-Build-High-Performance-Graphics.git,"OpenGL Build High Performance Graphics, by Packt",,52
+0,https://github.com/wernsey/bitmap.git,A C module for manipulating bitmap graphics,"bitmap,sdl2,c,graphics,graphics-programming,file-format",52
+0,https://github.com/nixos-rocm/nixos-rocm.git,NixOS support for the ROCm graphics stack (rocm.github.io),,52
+0,https://github.com/blackencino/EncinoWaves.git,"Implementation of ""Empirical Directional Wave Spectra for Computer Graphics"" paper by Christopher Horvath",,52
+0,https://github.com/kbladin/ElkEngine.git,Simple graphics engine used as submodule in many of my projects,"rendering,rendering-engine,rendering-3d-graphics,graphics,graphics-engine,graphics-rendering,graphics-library,opengl,opengl-shading-language,physically-based-rendering,cplusplus,cplusplus-14,cplusplus-11,assimp,glsl,glfw,glfw3,freeimage",52
+0,https://github.com/FergusGriggs/Fegaria-Remastered.git,"Similar to my other project Fegaria, but with improved graphics, collisions and terrain generation. ","pygame,terraria,sandbox,survival,terrain-generation,tile-based",52
+0,https://github.com/let-def/wall.git,(mirror) A vector graphics renderer like NanoVG in OCaml,,52
+0,https://github.com/seokg/awesome-papers.git,"a list of papers and codes in graphics, computer vision, and HCI","siggraph,cvpr,iccv,eccv,chi,uist,pg,eg",52
+0,https://github.com/alecjacobson/computer-graphics-bounding-volume-hierarchy.git,Computer Graphics Assignment about Bounding Volume Hierarchies,,51
+0,https://github.com/SagarGaniga/computer-graphics.git,"Beginners Guide to Computer Graphics in C/C++, OpenGL, JavaFX","dda,bresenham,midpoint,computer-graphics,transformations,opengl,algorithm,pyramid,cube,draw,bazier,animation",51
+0,https://github.com/ldo/qahirah.git,A more Pythonic binding for the Cairo graphics library,"cairo-drawing,ctypes-wrapper,ctypes,libcairo",51
+0,https://github.com/rygorous/trip_gfx.git,A Trip Through The Graphics Pipeline,,51
+0,https://github.com/2dom/P10_matrix.git,ESP8266 Adafruit GFX compatible graphics driver for P10 32x16 LED matrix,,51
+0,https://github.com/bitbank2/Thermal_Printer.git,Arduino library to draw text and graphics on BLE thermal printers,,51
+0,https://github.com/ZILtoid1991/pixelperfectengine.git,2D graphics engine written in D,,51
+0,https://github.com/daoleno/tgraph.git,A Go package for drawing basic graphics in a terminal,"go,terminal,graphics",51
+0,https://github.com/tomasAlabes/raphael-boilerplate.git,Raphael JS vector graphics library boilerplate,"raphaeljs,svg",50
+0,https://github.com/vvanirudh/IRL-Toolkit.git,IRL Toolkit developed by Sergey Levine (Taken from https://graphics.stanford.edu/projects/gpirl/),,50
+0,https://github.com/kuldar/figma-looper.git,🌀 A Figma plugin for creating trippy generated graphics.,"figma-plugin,figma",50
+0,https://github.com/shnhrrsn/ImagePalette.git,"{""Swift/iOS port of Android's Palette https://developer.android.com/reference/android/support/v7/graphics/Palette.html""}",,50
+0,https://github.com/bloomberg/wsk.git,A straightforward and maintainable build system from the Bloomberg Graphics team.,"nodejs,vanillajs,chokidar,bloomberg-graphics",50
+0,https://github.com/z56402344/Android_Graphics_Instance_One.git,"This Demo is through the Canvas on the Graphics class Adnroid, Paint, the Path to map the instance of project, for your reference",,50
+0,https://github.com/jaantollander/Markdown-Templates.git,"Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.","markdown,pandoc,template,latex,essay,slides,citations,scientific-writing",50
+0,https://github.com/avantcontra/coding-druid.git,"""Coding Druid"" series is my horizontal programming practice notes, each part around a topic (mathematical physics electronic graphics sound...), implemented in several programming languages.",,50
+0,https://github.com/vibhoothiiaanand/CNotepad.git,A GUI Notepad completely made from scratch using C++ native library and Graphics library coupled with mouse events as part my 12th Grade Project in 2015,"c-plus-plus,computer-science",50
+0,https://github.com/DFgraphics/DFgraphics.git,Dwarf Fortress Graphics repo,,49
+0,https://github.com/fgaz/shine.git,Declarative graphics for the browser,"haskell,graphics,declarative,declarative-graphics,draw,canvas,hacktoberfest",49
+0,https://github.com/olikraus/U8g2_for_Adafruit_GFX.git,Add U8g2 fonts to any Adafruit GFX based graphics library.,,49
+0,https://github.com/tobbebex/GPipe.git,A functional graphics API for programmable GPUs,,49
+0,https://github.com/janba/GEL.git,A library of geometry processing tools for computer graphics,,49
+0,https://github.com/woden-engine/woden.git,World Dynamic Engine - A 3D graphics engine for Pharo,"pharo,smalltalk,3d-engine,3d-graphics",49
+0,https://github.com/maidenone/ORGFXSoC.git,"An Example implementation of Open Source Graphics Accelerator, (A fixed point, fixed function pipeline GPU)",,49
+0,https://github.com/Rangi42/redstarbluestar.git,An upgrade to Pokémon Red/Blue. Ports graphics and features from the Space World 1997 Gold/Silver prototype.,"pokemon,game,gameboy,gbz80",49
+0,https://github.com/pr0g/sdl-bgfx-imgui-starter.git,"A starter project for graphics applications using SDL, bgfx and Dear ImGui",,49
+0,https://github.com/NVIDIA/tegra-nouveau-rootfs.git,"{""Manifests to create an Arch Linux ARM rootfs augmented with Nouveau and the OSS graphics stack for NVIDIA's Jetson TK1/TX1 boards""}",,49
+0,https://github.com/jvoigtlaender/circuits.git,exploring elm interactive graphics,,49
+0,https://github.com/IntelSoftware/OpenGLBestPracticesfor6thGenIntelProcessor.git, Game developers often use OpenGL to handle the rendering chores for graphics-intensive games. OpenGL is an application programming interface for efficiently rendering two- and three-dimensional vector graphics. The code samples are a series from Grahics API developer guide for for 6th generation Intel® Core™ processor (https://software.intel.com/en-us/articles/6th-gen-graphics-api-dev-guide) that demonstrates how to get the most out of OpenGL 4.4 and higher.,,49
+0,https://github.com/ArnoAnsems/CatacombGL.git,"CatacombGL is a Windows source port with OpenGL graphics for Catacomb 3D (1991), The Catacomb Abyss (1992), The Catacomb Armageddon (1992) and The Catacomb Apocalypse (1993).","retrogaming,sdl2,opengl,source-port,first-person-shooter",49
+0,https://github.com/sdsgisd/HGF.git,"An implementation of the paper “A Hyperbolic Geometric Flow for Evolving Films and Foams” Sadashige Ishida, Masafumi Yamamoto, Ryoichi Ando, and Toshiya Hachisuka, Transactions on Graphics (SIGGRAPH Asia 2017).",,49
+0,https://github.com/Alon-L/wumpcraft.git,Minecraft recreated in Discord using emojis. Based on Minecraft physics and graphics. Complete all in-game achievements and become a winner!,,49
+0,https://github.com/alxm/faur.git," :hammer_and_pick::sparkles: My personal C games framework. 2D graphics, sound, inputs, states, ECS, and misc utils for data, files, math, memory, strings, time, and more. Builds for Linux, Windows, Web, and embedded devices.","c,c99,caanoo,gamedev,gamedev-framework,gp2x,gp2x-wiz,linux,mingw,pandora-console,sdl,sdl2,emscripten,gamebuino-meta,arduino-library,odroid-go,arduino",49
+0,https://github.com/dikalo/lienzo-core.git,Lienzo Structure Graphics GWT Toolkit,,48
+0,https://github.com/lragnarsson/Emerald-Engine.git,3D graphics engine using OpenGL,,48
+0,https://github.com/pop-os/nvidia-graphics-drivers.git,Pop!_OS NVIDIA Graphics Drivers,,48
+0,https://github.com/ChrisNikkel/SharpVG.git,Create SVG vector graphics in F#,"graphics,fable,svg,vector-graphics,jupyter,animation",48
+0,https://github.com/awesomebytes/alienware15r3_ubuntu14.git,"Instructions on how to install Ubuntu 14.04 on the Alienware 15 R3 (and installing cuda, tensorflow and disabling intel graphics card)",,48
+0,https://github.com/gosling-lang/gosling.js.git,Grammar of Scalable Linked Interactive Nucleotide Graphics,"gehlenborglab,grammar,dataviz,higlass,genomics,visualization,webgl,typescript,gosling",48
+0,https://github.com/cjdowner/interfaces.git,A diverse set of royalty-free user avatars to be used for marketing graphics and application screenshots.,"avatar,cc0,picture,user-interface,marketing,user-profile,ui,face,profile-picture,web",48
+0,https://github.com/fifengine/fifechan.git,"{""Fifechan is a C++ GUI library designed for games. It comes with a standard set of 'widgets' and can use several different objects for displaying graphics and capturing user input.""}",,48
+0,https://github.com/toleda/graphics_Intel_framebuffers.git,OS X Intel HD Graphics,,47
+0,https://github.com/svenkapudija/Android-FancyChart.git,FancyChart (line chart) with nice graphics,,47
+0,https://github.com/Lorenalgm/AmazingGraph.git,DevChallenge template - Landing page to create amazing graphics,,47
+0,https://github.com/petercollingridge/Pygame3D.git,Set of modules that use Pygame to display 3D graphics,"python27,pygame,3d-graphics,python",47
+0,https://github.com/jmdejong/Asciifarm.git,Multiplayer ascii-graphics based RPG/farming game,,47
+0,https://github.com/MikiLoz92/pyqx.git,Multiplatform graphics editor made with Python and PyQt and specializing in Pixel Art,"pixel-art,image-editor,qt,python",47
+0,https://github.com/mysterioustrousers/MTPencil.git,"Draw animated lines (like an invisible pencil) with Core Graphics. (Prototype, will get much better).",,47
+0,https://github.com/drywolf/react-umg.git,A React renderer for Unreal Motion Graphics (https://docs.unrealengine.com/latest/INT/Engine/UMG/),,47
+0,https://github.com/michal-z/pbr-test.git,"Graphics demo (DirectX 12, PBR, IBL, C++20 modules).",,47
+0,https://github.com/aap/skygfx_vc.git,Bringing the PS2 graphics of GTA III and Vice City to PC,,47
+0,https://github.com/vinniefalco/LayerEffects.git,Photoshop Layer Effects for juce::Graphics,,46
+0,https://github.com/GamesDoneQuick/agdq18-layouts.git,The on-stream graphics used during Awesome Games Done Quick 2018,,46
+0,https://github.com/Erkaman/cloud_gen.git,Procedural Generation of Clouds with Vector Graphics,"procedural-generation,procedural,c-plus-plus,bezier,bezier-curves,svg,ellipse,cloud,vector-graphics,demo",46
+0,https://github.com/QuantScientist/ncnnRay.git,"{""ncnnRay++ is a CMake based integration of raylib and the very popular Tencent ncnn Deep Learning library. ncnn is written in C++ and designed (but not only) for edge computing devices. The project depends on the Vulkan SDK (Vulakn is Khronos' API for Graphics and Compute on GPUs).""}","vulkan,ncnn,ncnn-framework,neural-style-transfer,generative-art,artificial-intelligence,deep-learning,waifu2x,pytorch,vulkan-sdk,raylib,cmake,wasm,emscripten,html,webassembly",46
+0,https://github.com/behumble/excanvas.git,extending android.graphics.Canvas,,45
+0,https://github.com/Spade-Editor/Spade.git,Cross-platform raster graphics editor inspired by Paint.NET,,45
+0,https://github.com/skuhl/opengl-examples.git,OpenGL code for virtual reality applications and computer graphics education (moved to gitlab),,45
+0,https://github.com/OpenRCT2/OpenGraphics.git,A project to create free replacements for the graphics in Rollercoaster Tycoon 2,"hacktoberfest,openrct2,graphics,blender,3d",45
+0,https://github.com/thunil/mantaflow.git,mantaflow is an open-source framework targeted at fluid simulation research in Computer Graphics and Machine Learning.,,45
+0,https://github.com/rasteri/PiPU.git,Project to use a Raspberry Pi as a NES graphics accelerator,,45
+0,https://github.com/wliusjtu/Real-time-Image-Smoothing-via-Iterative-Least-Squares.git,This is the released code for the paper Real-time Image Smoothing via Iterative Least Squares accepted to ACM Transactions on Graphics,"image-smoothing,image-processing,real-time,tone-mapping,image-decomposition",45
+0,https://github.com/excelbrium/algorithms-and-data-structures.git,This repository explains data structures in a hopefully understandable way by using a lot of graphics and JavaScript to implement them and their corresponding algorithms.,"algorithms,dats-structures,js,javascript",45
+0,https://github.com/PegasusEngine/Pegasus.git,Demoscene graphics engine.,,44
+0,https://github.com/wolfgangfengel/graphicsdemoskeleton.git,Playground for DirectX 11 / 12 simple graphics demo examples ...,,44
+0,https://github.com/Aeva/m.grl.git,Midnight Graphics & Recreation Library,"javascript,webgl,game-engine",44
+0,https://github.com/Napoleon314/Venus3D_old.git,"{""A simple mobile engine designed by the man who's addicted to realtime computer graphics""}",,44
+0,https://github.com/Rezmason/drivey.git,"An ECMAScript port of the graphics demo ""Drivey""",,44
+0,https://github.com/nimious/vulkan.git,"Nim bindings for Vulkan, the API for access to graphics and compute on GPUs.",,44
+0,https://github.com/dmitmel/sorting-visualization.git,A Rust program for visualizing sorting algorithms which uses Piston for graphics. Inspired by https://github.com/Hopson97/Sort-Algorithm-Visualiser,"rust,visualization,sorting-algorithms,piston,graphics",44
+0,https://github.com/deepayan/lattice.git,Trellis Graphics for R,,43
+0,https://github.com/poke1024/godot_vector_graphics.git,Basic vector graphics in the Godot Editor,,43
+0,https://github.com/tiarno/psmonitor.git,Monitor a server using psutil (python) + MongoDB + JavaScript for graphics,,43
+0,https://github.com/YuLab-SMU/plotbb.git,Grammar of Graphics for base plot,,43
+0,https://github.com/flightcrank/pong.git,The classic pong game. Coded in C using SDL for graphics,,43
+0,https://github.com/ysimonson/canvas.js.git,A wrapper for <canvas> to do simple graphics,,43
+0,https://github.com/marco-calautti/Rainbow.git,"{""A texture format converter for different consoles' graphics formats.""}",,43
+0,https://github.com/Tape-Worm/Gorgon.git,A modular set of libraries for .Net that are useful for graphics and video game development.,"c-sharp,graphics,gorgon,direct3d,dotnet,2d,video-game-development,sharpdx",43
+0,https://github.com/tympanix/pattern-lock-js.git,An android inspired pattern lock in scalable vector graphics and pure javascript,"pattern-lock,android,authentication,javascript,web,svg,touch,smartphone,tablet",43
+0,https://github.com/monitor1394/XUGL.git,UGUI Graphics Library for Unity.  一款 UGUI 图形库。,,43
+0,https://github.com/bkainz/ShaderLabFramework.git,The Shader Lab Framework is a teaching tool to solidify the fundamentals of Computer Graphics with OpenGL 4.0 and GLSL.,,43
+0,https://github.com/mikeyk730/Rogue-Collection.git,Retro Rogue Collection: Six versions of the classic Rogue game with customizable retro graphics. Now with Rogomatic support!,"game,roguelike,rogue,rogomatic,retro-rogue-collection,unix-rogue,pc-rogue",43
+0,https://github.com/ArturoNereu/ComputerGraphics.git,A repository documenting Computer Graphics for real time applications,"computer-graphics,graphics-programming,shader-development,math",43
+0,https://github.com/PencilCode/jquery-turtle.git,Turtle Graphics for JQuery,,42
+0,https://github.com/Hrnchamd/MGE-XE.git,Morrowind Graphics Extender XE; distant views and improved graphics for Morrowind,,42
+0,https://github.com/eXponenta/gstatsjs.git,Graphics statistic (DrawCalls and  TextureCount) for WebGL ,"pixijs,phaser,statistics,webgl,drawcalls",42
+0,https://github.com/nakov/TurtleGraphics.NET.git,C# Turtle Graphics library - for teaching kids to code,"turtle-graphics,csharp,library",42
+0,https://github.com/dibenedetto/SpiderGL.git,SpiderGL is a JavaScript library for Computer Graphics,,42
+0,https://github.com/xerpi/gxmfun.git,"{""PSVita's 3D Graphics API (GXM) fun""}","c,graphics-programming,3d-graphics,homebrew",42
+0,https://github.com/cdegroot/uderzo_poncho.git,Poncho-style project for Uderzo graphics for Elixir,,42
+0,https://github.com/nicrohobak/AnsiGL.git," A modern ""graphics"" API for text-based applications ",,42
+0,https://github.com/johnpayne-dev/LLGDK.git,A Vulkan library built for general purpose graphics programming.,"vulkan,graphics,rendering,graphics-library",42
+0,https://github.com/danielearwicker/baltar.git,Example graphics editor using MobX,"mobx,bidi-mobx,json-mobx,serialization,reconciliation",42
+0,https://github.com/afainer/cleven.git,Cleven is an experimental game engine with volume graphics written in Common Lisp.,,42
+0,https://github.com/IndieVisualLab/UnityGraphicsProgrammingFrontCover.git,技術同人誌「Unity Graphics Programming vol.1」 表紙グラフィックス作成のためのUnityプロジェクト,,42
+0,https://github.com/skyhacker2/iOS-Core-Graphics-Test.git,iOS Core Graphics Test,,41
+0,https://github.com/matze/inkdrop.git,Artsy pixel image to vector graphics converter,,41
+0,https://github.com/l-yohai/cub3d.git,"{""Porting Lode's Computer Graphics Tutorial - Raycasting to C and Minilibx for 42 Subject Cub3D""}",,41
+0,https://github.com/ticki/rugra.git,An ultra minimal graphics engine in Rust,,41
+0,https://github.com/mackron/minidraw.git,Single file 2D graphics library written in C.,,41
+0,https://github.com/ryichando/shiokaze.git,A research-oriented fluid solver for computer graphics,,41
+0,https://github.com/caramelli/higfxback.git,History of graphics backends on Linux system,,41
+0,https://github.com/louipc/opennurbs.git,"Provides CAD, CAM, CAE, and computer graphics software developers the tools to accurately transfer 3-D geometry between applications. Mirror of Rhino C++ openNURBS SDK. New releases at https://github.com/mcneel/opennurbs/releases",,41
+0,https://github.com/SpongePowered/math.git,"Immutable math library for Java that offers easy conversion between math types, fast trigonometric functions, vectors, matrices, complex numbers, quaternions, and operation chaining, with a focus on games and computer graphics.",,41
+0,https://github.com/MiguelVis/RetroProjects.git,"My retro programming projects for some targets including the Amstrad PCW, the CP/M operating system and the Z80 cpu. Includes a Small-C compiler, Z80 assembler, text editor, graphics, Unix-like shell...","amstrad-pcw,z80,assembler,small-c,cpm,cp-m,unix-like,games,retro-programming,amstrad-cpc,text-editor,shell,c-compiler,smallc",41
+0,https://github.com/SafetyGraphics/safetyGraphics.git,Clinical Trial Safety Graphics with R,,40
+0,https://github.com/fkeck/editheme.git,Palettes and graphics matching your RStudio editor,,40
+0,https://github.com/Pavo-IM/AGPMInjector.git,Apple Graphics Power Management (AGPM)Injector Kext Generator,,40
+0,https://github.com/shomali11/gridder.git,A Grid based 2D Graphics library,"grid,2d-graphics,2d,graphics,gridder,draw,paint",40
+0,https://github.com/Bunny67/WeakAuras-WotLK.git,World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.,,40
+0,https://github.com/bkaradzic/SwiftShader.git,SwiftShader CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs,,40
+0,https://github.com/Marzac/le3d.git,A straightforward and easy to use 3D software renderer for real-time retro graphics.,,40
+0,https://github.com/glowcoil/ochre.git,high-quality anti-aliased vector graphics rendering on the GPU,,40
+0,https://github.com/dmnsgn/raf-perf.git,RAF loop with an adaptive fps and performance ratio calculated from either a sample count or a sample duration. Typically used when doing intensive graphics computation in canvas.,"raf,fps,adaptive,throttle,performance,tick,ticker,loop,requestanimationframe",40
+0,https://github.com/ClickerMonkey/Ents.git,"A hybrid of the Entity-Component-System and Model-View-Controller patterns with new concepts developed specifically for games. Ents is easy to integrate into your game, is developed to be decoupled from a graphics library, and is very memory conscious compared to similar frameworks.","entity,entity-component-system,java,game,model-view-controller,cpp",40
+0,https://github.com/RT-Thread-packages/gui_engine.git,Graphics Engine (GE) in RT-Thread,,39
+0,https://github.com/hnhaefliger/pyEngine3D.git,3D graphics engine in vanilla python3,,39
+0,https://github.com/AlexBenton/Teaching.git,"Sample code for Further Graphics lectures, Cambridge University.",,39
+0,https://github.com/MacCASOutreach/graphicsvg.git,Graphics library authored by Chris Schankula and Dr. Christopher Anand,"elm,graphics-library,education,outreach,research,drawing,animation,game-creation,functional-programming",39
+0,https://github.com/Panda-Lewandowski/Computer-graphics.git,:mortar_board: BMSTU computer graphics (3D and 2D) course (2017),"graphics,lab,computer-graphics,bmstu",39
+0,https://github.com/creaceed/CeedMath.git,Computer graphics math library for Mac & iOS,,39
+0,https://github.com/JuliaPlots/GGPlots.jl.git,Grammar of Graphics interface to Plots.jl,,39
+0,https://github.com/hanjianwei/ACG-Localizer.git,mirrored from http://www.graphics.rwth-aachen.de/software/image-localization,,39
+0,https://github.com/Aaron-SP/mgl.git,Minimal Graphics Library,,39
+0,https://github.com/vintagedave/transparent-canvas.git,"A Delphi alpha-aware graphics class similar to TCanvas, for transparent drawing.",,39
+0,https://github.com/GamesDoneQuick/sgdq18-layouts.git,The on-stream graphics used during Summer Games Done Quick 2018,,39
+0,https://github.com/Jinjinov/Hardware.Info.git,"Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapter, printer, sound card - audio card, graphics card - video card. Hardware.Info is a .NET Standard 2.0 library and uses WMI on Windows, /dev, /proc, /sys on Linux and sysctl, system_profiler on macOS.","computer,device,hardware,info,information,net-standard,windows,linux,macos",39
+0,https://github.com/raimohanska/turtle-roy.git,Turtle Roy == Roy with Turtle Graphics,,38
+0,https://github.com/zonble/flutter_turtle.git,Turtle graphics for Flutter.,,38
+0,https://github.com/ssteinberg/ste.git,3D graphics engine,"rendering,opengl,three-d,c-plus-plus-11,c-plus-plus,shaders,glsl,vulkan,graphics-engine,graphics-rendering",38
+0,https://github.com/artursgirons/spen-digitizer.git,Galaxy Note as digitizer or graphics tablet for PC,,38
+0,https://github.com/bernhardfritz/libxd.git,A simple 2D graphics library for C++.,"c-plus-plus,graphics,education,learning,art,design,creative-coding,processing,p5js",38
+0,https://github.com/poweic/Bit-Twiddling-Hacks-By-Sean-Eron-Anderson.git,A salute to http://graphics.stanford.edu/~seander/bithacks.html.,,38
+0,https://github.com/adragonite/math3d.git,"Vectors, Quaternions, Matrices and Transforms for 3D graphics in Node.js",,38
+0,https://github.com/jdmclark/jkgfxmod.git,Graphics enhancement and compatibility tool for Dark Forces II,"jedi-knight,dark-forces,lucasarts",38
+0,https://github.com/GamesDoneQuick/agdq16-layouts.git,The on-stream graphics used during Awesome Games Done Quick 2016,,38
+0,https://github.com/nint22/3DTutorial.git,"Lesson source code for the book ""3D Computer Graphics: Software Revealed""",,38
+0,https://github.com/zzkt/fluxus.git,"A rapid prototyping, livecoding and playing/learning environment for 3D graphics, sound and games.",,38
+0,https://github.com/laaglu/lib-gwt-svg.git,a general purpose SVG library for GWT. The goal is to make it easy to do SVG graphics in a GWT application,,38
+0,https://github.com/C-Chads/tinygl.git,The ultimate portable graphics library,"tinygl,fabrice-bellard,opengl,rasterizer,embedded,c,cpp,c99,portable",38
+0,https://github.com/attilathedud/gba_explorer.git,"Explore GameBoy Advanced ROMs and see and hear all their data, text, graphics, and sounds. ","rom-hacking,romhacking,gameboy-advance,electron",38
+0,https://github.com/TheCodeTherapy/plexus-shaders.git,A WebGL Chrome Experiment created with ThreeJS + Fragment and Vertex Shaders as a stress-test music visualizer for modern graphics cards.,,38
+0,https://github.com/aardvark-platform/aardvark.media.git,"Serverside, functional (ELM style) front-end and UI for aardvark, an open-source platform for visual computing, real-time graphics and visualization.","aardvark,aardvark-platform,elm,rendering-engine,graphics,3d-renderings,visualization,mvu,gpu,functional-programming",38
+0,https://github.com/jasonsikes/QLogo.git,QLogo is a rewrite of the UCBLogo language and user interface with UCB compatibility. It is cross-platform and uses hardware-accelerated graphics.,"logo,ucblogo,language,cpp,qt,qt5,opengl,opengl-es",38
+0,https://github.com/schell/gelatin.git,"{""A nice Haskell graphics API. There's always room for jello.""}",,38
+0,https://github.com/lwjglgamedev/vulkanbook.git,Online book will introduce the main concepts required to write graphics games or any other applications using Vulkan in Java by using the LWJGL library.,"vulkan,java,lwjgl",38
+0,https://github.com/endless-sky/endless-sky-high-dpi.git,High-DPI graphics for Endless Sky.,,37
+0,https://github.com/blacktm/r2d.git,2D Graphics for Ruby,,37
+0,https://github.com/steveonjava/MaryHadALittleLambda.git,Sample project to demonstrate lambda features using JavaFX and the very finest retro 8-bit graphics.,,37
+0,https://github.com/SingularInversions/FaceGenBaseLibrary.git,A simple cross-platform C++11 library for developing computational 3D graphics applications.,,37
+0,https://github.com/bernhardfritz/piksel.git,A simple 2D graphics library for C++,"c-plus-plus,webassembly,creative-coding,processing,p5js",37
+0,https://github.com/CHCTW/DirectX12-Framework-.git,A framework for learning DirectX12 and demonstrate graphics techniques ,,37
+0,https://github.com/martgnz/d3-snippets.git,An Atom package with D3v5 snippets. Accelerate your graphics!,,37
+0,https://github.com/robertgallup/python-bmp2hex.git,"Python utility to convert 1-, 4-, 8- and 16-bit bitmap files to hex. Used to embed graphics in Arduino/C code, primarily for display.","python,arduino,graphics,bitmap,xbm,bytes",37
+0,https://github.com/SwiftEducation/FingerPainter.git,"DEPRECATED. An iOS app that lets users draw with a finger, as a means of exploring touches, touch events, and Core Graphics.",,37
+0,https://github.com/Madsy/Computer-Graphics-Explained.git,Code examples for my CGE article series about computer graphics theory,,37
+0,https://github.com/aparis69/Rock-fracturing.git,"Source code for the paper: Modeling Rocky Scenery using Implicit Blocks, published in The Visual Computer and presented at Computer Graphics International 2020.",,37
+0,https://github.com/deck-of-cards/standard-deck.git,Standard deck graphics for deck.of.cards,,36
+0,https://github.com/syoyo/nanocanvas.git,"NanoCanvas, portable JavaScript vector graphics engine.",,36
+0,https://github.com/zacanger/doc.git,"UNMAINTAINED Cheat-sheets, guides, graphics, etc.; for myself, DevMountain folks, and whoever else might want them.","cheat-sheets,docs,doc,markdown,manpages,man",36
+0,https://github.com/teropa/ng-gfx-demos.git,Demos for my NG-BE talk about SVG and Canvas graphics and animations in Angular 2.,,36
+0,https://github.com/lprez/Ombra.git,Graphics engine written in Haskell.,"haskell,graphics,rendering-engine,browser,webgl,work-in-progress,experimental",36
+0,https://github.com/cpvrlab/SLProject.git,SLProject is a platform independent 3D computer graphics scene graph library. Read more on:,"realtime,opengl,computergraphics,rendering,c-plus-plus,frameworks",36
+0,https://github.com/joshmarinacci/aminogfx.git,Amino Graphics library for NodeJS on Raspberry Pi,,36
+0,https://github.com/vinivendra/metal-metaballs.git,"{""A 'playground' project for rendering metaball-like graphics in metal.""}",,36
+0,https://github.com/Chris00/ocaml-cairo.git,"Binding to Cairo, a 2D Vector Graphics Library.","cairo,ocaml,stroke,drawing,tutorial,cairo-drawing,dune,ocaml-bindings",36
+0,https://github.com/cmkilger/CKSVG.git,A Cocoa SVG parser and drawer using Core Graphics.,,36
+0,https://github.com/fredldotme/amd-indicator.git,Indicator applet for Ubuntu laptop users with AMD/Intel switchable graphics,,36
+0,https://github.com/adamredwoods/minib3d-monkey.git,"3d graphics engine + framework for cerberus (ex-monkey, ex-blitz3d) coders",,36
+0,https://github.com/k-stz/arcsynthesis.git,"Common Lisp port of code from Jason L. McKesson\'s Book: ""Learning Modern 3D Graphics Programming""",,36
+0,https://github.com/cdgiessen/VulkanRenderer.git,Personal repo for learning the vulkan graphics api,"vulkan,graphics-programming,glm,fastnoisesimd,game-development,game-engine-development,procedural-terrain,procedural-generation,glsl,cpp,imgui",36
+0,https://github.com/egoal/darkest-pixel-dungeon.git,Traditional roguelike game with pixel-art graphics and simple interface ,"game,pixel-art,pixel-dungeon,kotlin-android,mobile-game,kotlin-game-development",36
+0,https://github.com/icebreaker/2dimagefilter.git,"A collection of image filters, some especially suited to scale-up low res computer graphics.",,36
+0,https://github.com/ckuhlmann/lt2circuitikz.git,Python (3.5) tool to convert .asc files into circuiTikz graphics,"python35,circuitikz,asc,text",36
+0,https://github.com/intel/pti-gpu.git,Profiling Tools Interfaces for GPU (PTI for GPU) is a set of Getting Started Documentation and Tools Library to start performance analysis on Intel(R) Processor Graphics easily,,36
+0,https://github.com/Emergya/redmine_cmi.git,"CMI is a Redmine plugin to have a summarized view of the projects. It calculates and shows with graphics different metrics as actual effort, cost, progress or deviation from the goals of the projects.",,36
+0,https://github.com/npruehs/hostile-worlds.git,"Hostile Worlds is a multiplayer real-time tactics game for the PC which puts the player in charge of a small squad of human soldiers facing enemy players, brutal aliens and even hostile terrain. The game is based on the approved Unreal Engine 3 in order to provide unique graphics and visuals in the real-time tactics genre.",,36
+0,https://github.com/piccolo2d/piccolo2d.java.git,Structured 2D Graphics Framework,,35
+0,https://github.com/zkarcher/FancyEPD.git,Display fancy graphics on ePaper.,,35
+0,https://github.com/dbuenzli/gg.git,Basic types for computer graphics in OCaml,,35
+0,https://github.com/nikodemus/sb-cga.git,Computer graphics algebra library for SBCL,,35
+0,https://github.com/gibsjose/BitHacks.git,"{""Markdown/PDF Versions of Sean Anderson's http://graphics.stanford.edu/~seander/bithacks.html""}",,35
+0,https://github.com/c-koi/libboard.git,"A vector graphics C++ library to produce EPS, SVG, and FIG files.",,35
+0,https://github.com/kayru/librush.git,Graphics prototyping framework,vulkan,35
+0,https://github.com/kaos/QtErl.git,QtErl is a erlang GUI library for doing Qt-based graphics.,,35
+0,https://github.com/asciimoo/lua-drawille.git,Pixel graphics in terminal using unicode braille characters,,35
+0,https://github.com/soegaard/metapict.git,A graphics library for producing Racket picts in a MetaPost/TikZ style.,"racket,tikz,metapost,diagrams,illustrations,metapict",35
+0,https://github.com/NikhilCodes/VirtualBLU.git,A Virtual Assistant for Windows PC with wicked Qt Graphics.,"virtual-assistant,keras-implementations,natural-language-processing,pyqt5-desktop-application,chatbot,home-assistant,desktop-app,desktop-application,desktop-assistant,tensorflow-experiments,tensorflow-implementations,deep-learning,nlp-parsing,nlp",35
+0,https://github.com/capnramses/gfx_expmts.git,"Graphics programming experiments. Play-around, demos. Some good, some bad.",,35
+0,https://github.com/ajayjain/VectorAscent.git,Generate vector graphics from a textual caption,,35
+0,https://github.com/dagostinelli/hypatia.git,"{""A header-only, pure-C math library for 2D/3D graphics (matrix, vector, quaternion) Seeks to be close to C89/C90 compliant for portability. It's like a BLAS, but easier to use.""}","math-library,3d-graphics,c,matrix3d,quaternion,vector,vector2d,single-header-lib,hypatia",35
+0,https://github.com/Thavasidurai/TDRatingScale.git,"The TDRatingScale is similar to regular UISlider except that it has some best custom graphics which is more intuitive.The purpose of this custom slider is to provide mechanism for getting input from the user that represents a range from the UI point of view, this control provides a best enhancements and highly customizable UI components that can be easily matched to any graphic theme,Its a complete package of custom entity.",,35
+0,https://github.com/freehep/freehep-vectorgraphics.git,FreeHEP Vector Graphics,,34
+0,https://github.com/AquaTerm/AquaTerm.git,Mac OS X graphics terminal,,34
+0,https://github.com/isuperqiang/MultiMediaLearning.git," Learn Android multimedia, including video, audio and graphics.",,34
+0,https://github.com/edap/ofxLSystem.git,3D turtle graphics interpretation of L-Systems,"tree,addon,shaders,3d,algorithmic-botany",34
+0,https://github.com/sgidevnet/sgug-rse.git,Silicon Graphics User Group RPM Software Environment,"irix,gcc,rpm,sgug",34
+0,https://github.com/ocaml/graphics.git,"The Graphics library from OCaml, in a standalone repository",,34
+0,https://github.com/ifinver/FinEngine.git,Android simple graphics interface for Unity or Cocos2d,"android,unity,cocos2d,face-swap,opengl,opencv,video-filter,video-effects,gles,glsl-shader",34
+0,https://github.com/libcg/gLib2D.git,"A simple, fast, light-weight 2D graphics library for PSP.",,34
+0,https://github.com/jtauber/web-graphics.git,utilities for generating website graphics like gradients and textures,,34
+0,https://github.com/Freakow/RageSpline.git,Scalable Vector Graphics creation and drawing component for Unity,,34
+0,https://github.com/Fannon/svg-generator.git,An online SVG Graphics Generator with the ability to export to SVG.,"svg,generated,graphics,generator,javascript,svg-generator",34
+0,https://github.com/GamesDoneQuick/agdq19-layouts.git,The on-stream graphics used during Awesome Games Done Quick 2019,,34
+0,https://github.com/avh4/codevember-2016.git,"30 Elm graphics experiments (WebGL, SVG, HTML)",,34
+0,https://github.com/yomboprime/colorator.git,Graphic editor for ZX Spectrum graphics. It supports HI-color screens.,,34
+0,https://github.com/cbiffle/bare-metal-wasm-example.git,"Full code from my ""Tiny WebAssembly graphics demos"" blog post. http://cliffle.com/blog/bare-metal-wasm/",,34
+0,https://github.com/zonble/TurtleBuilder.git,Turtle graphics library built on Swift function builders,"functionbuilder,swift,logo,turtle-graphics",34
+0,https://github.com/DevonCrawford/A-Pathfinding-in-C-command-line.git,Recreation of my A* pathfinding algorithm except this time in C! Instead of a graphics interface this is meant to run on the command line and analyze a maze given by a .txt file,,34
+0,https://github.com/aiti-ghana-2012/python-graphics-lab.git,Bonus lab to use python graphics,,33
+0,https://github.com/nodebox/vg.js.git,JavaScript library for vector graphics,,33
+0,https://github.com/medialab-ku/openGLESbook.git,Introduction to Computer Graphics with OpenGL ES,,33
+0,https://github.com/goessner/g2.git,A 2d graphics command queue micro-library.,,33
+0,https://github.com/hongxin/CGCourse-2018.git,"Computer Graphics Course in ZJU, 2018",,33
+0,https://github.com/johnjosephhorton/gg2d3.git,Project to turn some ggplot2 graphics into their d3.js equivalents ,,33
+0,https://github.com/lighttroupe/luz.git,Live motion graphics editor and performer.,,33
+0,https://github.com/rbyte/Vogo.git,Direct Manipulation of Turtle Graphics,,33
+0,https://github.com/brendanberg/interfascia.git,A graphical user interface library for the Processing graphics programming environment,,33
+0,https://github.com/dpettigrew/Artisan.git,A Swift Vector Graphics Drawing Library inspired by Raphael.js,,33
+0,https://github.com/Pomax/svg-path-reverse.git,"This is a JavaScript SVG path to ""something"" converter, turning a path into hookable graphics instructions for arbitrary conversion ",,33
+0,https://github.com/revery-ui/reason-skia.git,Reason bindings for the skia 2D graphics library https://skia.org/,,33
+0,https://github.com/ronsaldo/abstract-gpu.git,The Abstract GPU is a cross platform low-level 3D graphics API.,,33
+0,https://github.com/yongjun21/st-scrolly.git,Opensource scrollytelling components used by Straits Times Interactive Graphics Team,,33
+0,https://github.com/styluslabs/nanovgXC.git,Lightweight vector graphics library implementing exact-coverage antialiasing in OpenGL,,33
+0,https://github.com/bartvbl/A-Hitchhikers-Guide-to-OpenGL.git,A guide to OpenGL I wrote as part of my graphics course related teaching duties.,,33
+0,https://github.com/davedawkins/Fable.React.DrawingCanvas.git,A Fable React wrapper for the HTML canvas element that makes it easy to create drawings and graphics,,33
+0,https://github.com/ImpetusGames/UE4-Settings.git,Persistent Graphics Settings in UE4 using C++,,32
+0,https://github.com/vandadnp/Graphics-and-Animation-on-iOS.git,"{""O'Reilly's Graphics and Animation on iOS Example Codes""}",,32
+0,https://github.com/waitin2010/awesome-computer-graphics.git,A curated list of awesome computer graphics. ,,32
+0,https://github.com/unclejimbo/Klein.git,Qt3D based graphics library,"qt,qt3d,visualization,graphics,rendering,opengl",32
+0,https://github.com/franko/graph-toolkit.git,Lua Graphics Toolkit,,32
+0,https://github.com/0xc0dec/demos.git,OpenGL and Vulkan graphics experiments and samples,"stb-truetype,opengl,cplusplus-14,stb-image,graphics-demo,vulkan,imgui",32
+0,https://github.com/deanm/pregl.git,PreGL is a graphics math and WebGL library.,,32
+0,https://github.com/wmannis/cl-svg.git,Produce Scalable Vector Graphics files with Common Lisp,"svg,common-lisp",32
+0,https://github.com/Dovyski/opengl-demos.git,A list of small OpenGL applications to demonstrate concepts of Computer Graphics,"opengl,opengl-tutorial,computer-graphics,cg",32
+0,https://github.com/cleak/VoxelPerf.git,Performance testing sandbox for voxel graphics,,32
+0,https://github.com/tpn/windows-graphics-programming-src.git,"{""Source Code for Feng Yuan's excellent book: Windows Graphics Programming.""}",,32
+0,https://github.com/JLoewy/MMPGraphView.git,A versatile core graphics graph for iOS in swift,,32
+0,https://github.com/rmmh/papert.git,"a logo interpreter in javascript, with turtle graphics, hosted on GAE",,32
+0,https://github.com/carlso70/UE4-Minecraft.git,"Created Minecraft in unreal engine 4, with high res graphics and gameplay.","ue4,ue4-minecraft",32
+0,https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book.git,📕 A clone of @rygorous series of posts on the graphics pipeline.,"gpu,graphics-pipeline,book,ebook",32
+0,https://github.com/connor-create/ebay_trades.git,buys ethereum based on graphics card moving average price on ebay,,32
+0,https://github.com/nylki/aframe-lsystem-component.git,L-System/LSystem component for A-Frame to draw 3D turtle graphics. Using Lindenmayer as backend.,"lindenmayer,procedural-generation,aframe,fractal,lsystem,turtle-graphics",32
+0,https://github.com/drojaazu/chrgfx.git,Converts to and from tile based graphics from retro video game hardware,"retrogaming,sega,nintendo,nintendo-snes,sega-mega-drive,sega-genesis,graphics,game-development,16bit,snes,megadrive,neogeo,snk,capcom,famicom,nes,gameboy,retro-hardware-systems",32
+0,https://github.com/no-carrier/ProcessingTextmodeEngine.git,"The Processing Textmode Engine renders output in Processing to a full color text display, reminiscent of early computer or BBS graphics.",,32
+0,https://github.com/tv42/bella.git,Bella renders text to graphics and prints it on a label maker using IPP/CUPS.,,32
+0,https://github.com/pjcozzi/Articles.git,Various graphics articles,,31
+0,https://github.com/pmur002/gridgraphics.git,Redraw base graphics as grid graphics,,31
+0,https://github.com/othieno/GPBB.git,Graphics Programming Black Book by Michael Abrash.,,31
+0,https://github.com/erikwilson/import-dxf.git,EAGLE ULP for importing vector graphics,,31
+0,https://github.com/nprapps/dailygraphics-next.git,"{""NPR's daily graphics rig, 2.0""}",,31
+0,https://github.com/hadley/productplots.git,Product graphics for categorical data,,31
+0,https://github.com/joshb/triangleraster.git,A graphics demo written in C++ that demonstrates triangle rasterization.,,31
+0,https://github.com/dannye/pokered-gen-II.git,Disassembly of Pokémon Red/Blue with 2nd Gen. Graphics,,31
+0,https://github.com/sunglab/StarEngine.git,"3D Graphics Engine for IOS, ANDROID, MAC and WINDOWS",,31
+0,https://github.com/evanw/cs224final.git,Final project for CS 224: Interactive Computer Graphics,,31
+0,https://github.com/briancullinan/planet_quake.git,Combination of graphics and features from many different games.,,31
+0,https://github.com/RockJesus/Alienware-17-R4-I7-7700HQ-MacOS-High-Sierra.git,👽Alienware 17 R4 I7-7700HQ NV1060 Dual Graphics MacOS 🍎 High Sierra Hackintosh,"macos,alienware,highsierra,mac,macosx,hackintosh",31
+0,https://github.com/eyeon/Fixture.git,"A no-bullshit, free and open source raster graphics editor.","qt,cpp,image-editor,image-processing,desktop-application,photoshop,photo-editor,photo-editing",31
+0,https://github.com/eltanin-engine/lirith.git,Graphics engine written in Crystal.,"crystal,opengl,engine",31
+0,https://github.com/david-cao/pi-stream.git,Use AWS to stream graphics intensive applications to a raspberrypi.,,31
+0,https://github.com/hieplpvip/AppleBacklightSmoother.git,A Lilu plugin that patches Apple Intel graphics drivers to get smooth backlight transition,,31
+0,https://github.com/dvdt/xvsy.git,Grammar of graphics plotting for Clojure,,31
+0,https://github.com/turric4n/PascalTileEngine.git,OOP Pascal Wrapper and bindings for Tilengine 2D retro graphics engine ,,31
+0,https://github.com/heestand-xyz/VoxelKit.git,Volumetric realtime graphics,,31
+0,https://github.com/nyalloc/Neko.git,Under construction C header only graphics library.,,31
+0,https://github.com/r00ster91/lime.git,A library for drawing graphics on the console screen,"lime,terminal,console,graphics,graphics-library,crystal,drawing,draw-graphics,cursor,mouse,window",31
+0,https://github.com/DavidBenko/TutorialView.git,"A UIView subclass that will draw arrows and instructions to the screen for use in tutorial overlays. In iOS, uses Core Data, Core Animation, and Core Text. On Android, uses Path and other android.graphics.* classes.",,31
+0,https://github.com/schmelczerandras/sdf-2d.git,A graphics library to enable the real-time rendering of 2D signed distance fields on the web.,"sdf-2d,webgl,webgl2,circle-tracing,2d,raytracing,webpack,typescript,glsl,graphics-library",31
+0,https://github.com/Kirilllive/tuesday-js.git,"Tuesday is a free open source engine for creating visual novels, interactive stories and text-based adventure games. Written in JavaScript without using any third party libraries. There is support for the Apache Cordova framework for building native mobile and desktop applications. The engine uses standard Html document elements like div and img, which makes it possible to use almost any media format supported by browsers, including vector graphics in svg format, gif animations and the use of extensive css styles.","visual-novels,engine,creating-visual-novels,browser,js,javascript,interactive-fiction,game-engine,vector-graphics,html,visual-novel-engines",31
+0,https://github.com/dimv36/QCustomPlot-PyQt5.git,Bindings for graphics lib QCustomPlot for PyQt5,,30
+0,https://github.com/kobalicek/simdtests.git,SIMD optimizations related to 2D computer graphics,,30
+0,https://github.com/kimtaikee/resizeAnimation.git,Playing with Qt widget animation & graphics effect ,,30
+0,https://github.com/Teddy0/ScalabilityUIPlugin.git,A launcher for UnrealEngine that has graphics performance options,,30
+0,https://github.com/Sharpie/RTikZDevice.git,A R package for producing graphics output as PGF/TikZ code for use in TeX documents.,,30
+0,https://github.com/meadiode/flappy.git,A Python graphics library,,30
+0,https://github.com/speps/GX-EncinoWaves.git,Graphics Experiment - FFT Ocean Water Simulation,"computer-graphics,fft,unity3d",30
+0,https://github.com/cbm80amiga/ST7789_3D_Filled_Vector_Ext.git,ST7789/ST7735 and STM32 3D Filled Vector Graphics,,30
+0,https://github.com/thecreation/web-icons.git,"{""It's a full suite of popular web icons for easy scalable vector graphics on websites.""}","icons,iconfont",30
+0,https://github.com/deckar01/InkMotion.git,A graphics editor with native Leap Motion integration.,,30
+0,https://github.com/dolphin-emu/fifoci.git,Continuous integration service running Dolphin FIFO logs to find graphics rendering regressions,,30
+0,https://github.com/GamesDoneQuick/agdq17-layouts.git,The on-stream graphics used during Awesome Games Done Quick 2017,,30
+0,https://github.com/Illation/GLFramework.git,Discontinued OpenGL graphics framework. See https://github.com/Illation/ETEngine,,30
+0,https://github.com/LingDong-/r1b.git,"A thermal-printer-oriented, 1-bit graphics rasterizer for 2D and 3D","1-bit,thermal-printer,computer-graphics,2d,3d,c-library",30
+0,https://github.com/jpemberthy/ezgraphix.git,"{""[NOT MAINTAINED] A rails plugin to generate flash based graphics using a free and customizable chart's set.""}",,30
+0,https://github.com/mvoelk/nn_graphics.git,Artificial Neural Network related TikZ Graphics,,30
+0,https://github.com/EgorOrachyov/Berserk.git,[WIP] High performance 3D graphics game engine,"game-engine,game-development,open-source,cpp11,opengl,3d-graphics",30
+0,https://github.com/sawickiap/WinFontRender.git,Small single-header C++ library that renders Windows fonts in graphics applications,"rendering,font,text,direct3d,directx,opengl,vulkan,graphics,windows,winapi,fonts",30
+0,https://github.com/Spaxe/BVG.js.git,Bindable Vector Graphics — an experimental SVG library for the web. ,,30
+0,https://github.com/iftodebogdan/GITechDemo.git,Global illumination technical demo - a continuation of the Synesthesia3D (ex-LibRenderer) graphics engine used in https://github.com/iftodebogdan/ShaderEditor,"graphics-engine,global-illumination,physically-based-rendering,directx-9,hdr,tech-demo,deferred-rendering,shadow-mapping,bokeh,screen-space-reflections,brdf,cook-torrance,blinn-phong,motion-blur,bloom,anamorphic-lens-flare,filmic-tone-mapping,ashikhmin-shirley,ward,volumetric-lighting",30
+0,https://github.com/dmurdoch/rgl.git,"  rgl is a 3D visualization system based on OpenGL. It provides a medium to high level interface for use in R, currently modelled on classic R graphics, with extensions to allow for interaction.","rgl,webgl,opengl",30
+0,https://github.com/anak10thn/qt5-tutorials.git,graphics dojo Qt5,"qt5,qtcreator,qt-quick,qt-gui,qtwebengine",29
+0,https://github.com/mocircle/cidrawing.git,A vector graphics library for Android,"drawing,vector-graphics,shape,canvas2d,graphics",29
+0,https://github.com/FASTSHIFT/XC-OS.git,Open source graphics operating system for microcontroller,"os,embedded,freertos,stm32,littlevgl,lvgl,lua",29
+0,https://github.com/spatialillusions/milgraphics.git,Military Tactical Graphics,"military,military-tactical-graphics",29
+0,https://github.com/DIGImend/uclogic-tools.git,UC-Logic graphics tablet diagnostic tools,,29
+0,https://github.com/dandehavilland/mg-line-brushing.git,A stepwise brushing extension for line charts in metrics-graphics.,,29
+0,https://github.com/kitao/catcake.git,A cross-platform 3D graphics engine,,29
+0,https://github.com/stil/graf3d.git,Simple 3D graphics rendering engine written in C#,"rendering-engine,3d,csharp",29
+0,https://github.com/Apress/practical-wpf-charts-graphics.git,"{""Source code for 'Practical WPF Charts and Graphics' by Jack Xu""}",,29
+0,https://github.com/helghareeb/gfx19.git,Computer Graphics Course - Faculty of Computers and Information Sciences - Mansoura University - Egypt - 2018 / 2019,"python,computer,graphics,bezier,jupyter-notebook,mathematics,games,programming,opengl,opencv-python",29
+0,https://github.com/DominiLux/GPUMAGIC.git,A C++ Nix AMD Graphics Card Control Server And Client,,29
+0,https://github.com/DominiLux/GPUMAGIC.git,A C++ Nix AMD Graphics Card Control Server And Client,,29
+0,https://github.com/CodeGuppyPrograms/TurtleGFX.git,Turtle Graphics for p5.js / JavaScript,,29
+0,https://github.com/uparlayan/Graphics32_RBC.git,Graphics Extension that extend of Graphics32 Library for Delphi XE6 and up (and maybe Lazarus) by Uğur PARLAYAN,"delphi,graphics,dashboard,widget,widgets,widget-library,pascal,chart,graph",29
+0,https://github.com/mathigon/world-of-mathematics.git,"Using beautiful graphics and interactive simulations, this award winning textbook makes advanced mathematical ideas accessible to the general public.",,29
+0,https://github.com/reignstudios/Orbital-Framework.git,"Graphics / Video, Audio and Input frameworks. (Agnostic / Portable / Easy / Powerful / Fast)","csharp,graphics,gpu,gpu-computing,video,audio,input,dotnet,api,framework,agnostic,legacy,portable,orbital-framework,directx,direct3d,vulkan,opengl,gles",29
+0,https://github.com/GeorgeAdamon/ModernComputerGraphicsResources.git,"A collection of blogs, personas and publications that act as reference points for the latest developments in Computer Graphics",,29
+0,https://github.com/DalyaG/PyGraphicsGui.git,"A ""CookieCutter"" for a Pythonic GUI with custom graphics - clone this to jump-start your project and learn how to integrate between ModernGL and Tkinter on Python3.6.","python,moderngl,tkinter,graphics,gui,glsl",29
+0,https://github.com/wuyr/CanvasX.git,脱离Android模拟器，在Java程序中使用Android下的Canvas、Paint、Bitmap等Graphics类（提取自Android Studio）,,29
+0,https://github.com/gaorongchao/R_Graphics_Cookbook.git,翻译以及R Graphics Cookbook的代码,,28
+0,https://github.com/InvictusGraphics/Invictus_Textures.git,Crisp contemporary Minecraft graphics. ,,28
+0,https://github.com/tseliot/nvidia-graphics-drivers.git,Packaging scripts for nvidia-graphics-drivers in Ubuntu,,28
+0,https://github.com/mdsteele/azimuth.git,A metroidvania with vector graphics,"game,metroidvania",28
+0,https://github.com/kaiwenzha/3D-Teeth-Reconstruction-from-CT-Scans.git,SJTU-CS337 Computer Graphics Course Project,,28
+0,https://github.com/2047241149/SDEngine.git,Simple Dog 3D Graphics Rendering Engine,,28
+0,https://github.com/yihui/MSG.git,Modern Statistical Graphics (my Chinese book),"r,r-package,statistical-graphics,chinese-book",28
+0,https://github.com/tehmaze/ansi.git,ANSI cursor movement and graphics in Python,"python,ansi,terminal,color,colors,colour,colours,ecma-048",28
+0,https://github.com/crystice-softworks/QeffectsGL.git,Graphics Mod for OpenGL Games,,28
+0,https://github.com/DKGL/DKGL.git,Cross platform 3D Game & Graphics Library,"cross-platform,game-engine,vulkan,vulkan-game-engine,apple-metal,graphics-engine,game-framework,3d-game-engine",28
+0,https://github.com/cameronbracken/pgfSweave.git,Quality graphics and speedy compilation with Sweave,,28
+0,https://github.com/vz-risk/dbir.git,public repo for github pages to display graphics,,28
+0,https://github.com/alecjacobson/computer-graphics.git,Computer Graphics Course,,28
+0,https://github.com/LinkClinton/Code-Red.git,A Graphics Interface for DirectX12 and Vulkan,"directx12,vulkan,graphics-library,graphics-interface,imgui,demos",28
+0,https://github.com/SIZMW/unity-raytracer.git,Raytracing project in Unity for computer graphics graduate credit.,"unity,c-sharp,raytracer,phong-lighting,bilinear-interpolation",28
+0,https://github.com/flightcrank/asteroids.git,The classic asteroids game. Coded in C using SDL for graphics,,28
+0,https://github.com/Reedbeta/gfx-workshops.git,"Materials for intro graphics programming workshops, using C++ and OpenGL.",,28
+0,https://github.com/dogo/oslibmodv2.git,"OldSchool Library (OSLib) MODv2, a 2D graphics library for the PSP.","oslib-modv2,oldschool-library,psp,graphic-library",28
+0,https://github.com/hevs-isi/gdx2d.git,"A simple to use Java library for games and graphics, for desktop (PC, Linux and Mac) and Android.","java,libgdx-framework,graphics-library,game-2d",28
+0,https://github.com/maccasoft/propeller-graphics-card.git,Add-on board and firmware for the RC2014 computer to provide graphics capabilities,"rc2014,parallax-propeller-microcontroller,graphics,sprites,vga,pal,ntsc,rgb",28
+0,https://github.com/MagerValp/fifogfx.git,Open source graphics card,,28
+0,https://github.com/tim-neville/Snow-Tracks-ShaderGraph-Unity-2019.1.git,"Vehicle snow tracks shader graph test using unity ""custom render texture"", unable to get Graphics.Blit to work for a render texture/",,28
+0,https://github.com/seuqaj114/paig.git,Code for the paper Physics-as-Inverse-Graphics: Joint Unsupervised Learning of Objects and Physics from Video,,28
+0,https://github.com/Nikaoto/deep.git,Queue and execute actions in sequence (add Z axis to 2D graphics frameworks),,28
+0,https://github.com/statsmaths/ggimg.git,ggimg: Graphics Layers for Plotting Image Data with ggplot2,"r-package,ggplot2-geom,image-analysis",28
+0,https://github.com/NovikovRoman/gorough.git,"Create graphics with a hand-drawn, sketchy, appearance. Based on Rough.js",,28
+0,https://github.com/haskell-game/bgfx.git,"Haskell bindings to bgfx, a cross-platform, graphics API agnostic, ""Bring Your Own Engine/Framework"" style rendering library.",,28
+0,https://github.com/MentorEmbedded/meta-mentor.git,OpenEmbedded/Yocto Distribution layer for Mentor Graphics,,27
+0,https://github.com/gtkforphp/cairo.git,PHP extension for Cairo Graphics Library,,27
+0,https://github.com/unknown-horizons/gfx.git,All graphics sources are stored here,,27
+0,https://github.com/kivra/emagick.git,Wrapper for Graphics/ImageMagick command line tool.,,27
+0,https://github.com/iPenguin/CrochetCharts.git,Graphics design software for Crochet pattern designers,,27
+0,https://github.com/wuhanstudio/u8g2-arm-linux.git,  U8g2 for arm linux - a monochrome graphics library,"u8g2,arm,linux,i2c,spi",27
+0,https://github.com/codestation/mhtools.git,"MH tools: string tables, graphics, savedata and quest decrypter",,27
+0,https://github.com/iondune/ionEngine.git,3D graphics engine designed for rapid prototyping and extensibility,"opengl,developer-experience,math",27
+0,https://github.com/embedded-graphics/embedded-text.git,Multiline TextBox for the embedded-graphics Rust crate,"embedded-graphics,textview",27
+0,https://github.com/cryptoparty/artwork.git,"a collection of public domain artwork and graphics, where possible, with source files to help others remix and reuse to make slides, handouts and flyers for  cryptoparties",,27
+0,https://github.com/hatninja/Playmat.git,Mode7-style Graphics Library for the LÖVE framework,"graphics-library,love2d-framework",27
+0,https://github.com/alaingalvan/CrossWindow-Demos.git,"🥪 Examples of how to use CrossWindow for things like rendering graphics, listening to events, etc.","triangle,demo,vulkan,metal,opengl,directx12,directx11,directx,directx-11,directx-12",27
+0,https://github.com/diharaw/dwSampleFramework.git,A simple C++ framework for implementing graphics technique samples using OpenGL and Vulkan.,"graphics-programming,shaders,framework,cross-platform,opengl,vulkan",27
+0,https://github.com/emacsfodder/emacs-mainline.git,A fork of powerline.el (based on an old uncredited version of powerline.el - origin is unclear.) - this fork has multiple separator graphics.,,27
+0,https://github.com/foretspaisibles/blueprint.git,The Blueprint project aims at delivering a full featured library of high quality graphics and diagrams for project managers and system desginers.,,27
+0,https://github.com/mkwong98/HDNes.git,A NES emulator with the ability to replace graphics and music,,27
+0,https://github.com/femmebot/Gutenberg-SVG.git,"Editable, vector SVG graphics that have been converted by hand from Project Gutenberg images ","svg-images,vector-graphics,svg",27
+0,https://github.com/vlad-the-compiler/microgl.git,"{""A high-quality graphics library for embedded devices that doesn't exist yet""}","graphics-library,esp32-arduino,embedded-devices,quality-graphics-library,video",27
+0,https://github.com/steiza/postscript_fractals.git,"Short PostScript programs to make fractals as vector graphics for CNC machines, laser cuters, vinyl cutters, etc",,27
+0,https://github.com/pinumbernumber/SetGPU.git,"Force a game to use your preferred GPU; allows the use of FreeSync while gaming on Nvidia graphics cards under certain circumstances. If you would like interactive help or can spare some time for testing, please join this Discord: https://discord.gg/CKJn8mA  || Compatibility spreadsheet: https://docs.google.com/spreadsheets/d/1X2LQYw0xZ0QDoGH0PcGEzlq4hiozW6ylv66x09BARfY/edit?usp=sharing",,27
+0,https://github.com/rick2785/JavaCode.git,"{""I specifically cover the following topics: Java primitive data types, declaration statements, expression statements, importing class libraries, excepting user input, checking for valid input, catching errors in input, math functions, if statement, relational operators, logical operators, ternary operator, switch statement, and looping.   How class variables differ from local variables, Java Exception handling, the difference between run time and checked exceptions, Arrays, and UML Diagrams.  Monsters gameboard, Java collection classes, Java ArrayLists, Linked Lists, manipulating Strings and StringBuilders, Polymorphism, Inheritance, Protected, Final, Instanceof, interfaces, abstract classes, abstract methods.  You need interfaces and abstract classes because Java doesn't allow you to inherit from more than one other class.  Java threads, Regular Expressions, Graphical User Interfaces (GUI) using Java Swing and its components, GUI Event Handling, ChangeListener, JOptionPane, combo boxes, list boxes, JLists, DefaultListModel, using JScrollpane with JList, JSpinner, JTree, Flow, Border, and Box Layout Managers.  Created a calculator layout with Java Swing's GridLayout, GridBagLayout, GridBagConstraints, Font, and Insets.  JLabel, JTextField, JComboBox, JSpinner, JSlider, JRadioButton, ButtonGroup, JCheckBox, JTextArea, JScrollPane, ChangeListener, pack, create and delete files and directories. How to pull lists of files from directories and manipulate them, write to and read character streams from files. PrintWriter, BufferedWriter, FileWriter, BufferedReader, FileReader, common file exceptions  Binary Streams - DataOutputStream, FileOutputStream, BufferedOutputStream, all of the reading and writing primitive type methods, setup Java JDBC in Eclipse, connect to a MySQL database, query it and get the results of a query.  JTables, JEditorPane Swing component. HyperlinkEvent and HyperlinkListener.  Java JApplet, Java Servlets with Tomcat, GET and POST methods, Java Server Pages, parsing XML with Java, Java XPath, JDOM2 library, and 2D graphics.   *Created a Java Paint Application using swing, events, mouse events, Graphics2D, ArrayList  *Designed a Java Video Game like Asteroids with collision detection and shooting torpedos which also played sound in a JFrame, and removed items from the screen when they were destroyed.  Rotating polygons, and Making Java Executable.  Model View Controller (MVC) The Model is the class that contains the data and the methods needed to use the data. The View is the interface. The Controller coordinates interactions between the Model and View.  DESIGN PATTERNS:  Strategy design patternis used if you need to dynamically change an algorithm used by an object at run time. The pattern also allows you to eliminate code duplication. It separates behavior from super and subclasses.  The Observer pattern is a software design pattern in which an object, called the subject (Publisher), maintains a list of its dependents, called observers (Subscribers), and notifies them automatically of any state changes, usually by calling one of their methods.  The Factory design pattern is used when you want to define the class of an object at runtime. It also allows you to encapsulate object creation so that you can keep all object creation code in one place  The Abstract Factory Design Pattern is like a factory, but everything is encapsulated.  The Singleton pattern is used when you want to eliminate the option of instantiating more than one object. (Scrabble letters app)  The Builder Design Pattern is used when you want to have many classes help in the creation of an object. By having different classes build the object you can then easily create many different types of objects without being forced to rewrite code. The Builder pattern provides a different way to make complex objects like you'd make using the Abstract Factory design pattern.  The Prototype design pattern is used for creating new objects (instances) by cloning (copying) other objects. It allows for the adding of any subclass instance of a known super class at run time. It is used when there are numerous potential classes that you want to only use if needed at runtime. The major benefit of using the Prototype pattern is that it reduces the need for creating potentially unneeded subclasses.  Java Reflection is an API and it's used to manipulate classes and everything in a class including fields, methods, constructors, private data, etc. (TestingReflection.java)  The Decorator allows you to modify an object dynamically. You would use it when you want the capabilities of inheritance with subclasses, but you need to add functionality at run time. It is more flexible than inheritance. The Decorator Design Pattern simplifies code because you add functionality using many simple classes. Also, rather than rewrite old code you can extend it with new code and that is always good. (Pizza app)  The Command design pattern allows you to store a list of commands for later use. With it you can store multiple commands in a class to use over and over. (ElectronicDevice app)  The Adapter pattern is used when you want to translate one interface of a class into another interface. Allows 2 incompatible interfaces to work together. It allows the use of the available interface and the target interface. Any class can work together as long as the Adapter solves the issue that all classes must implement every method defined by the shared interface. (EnemyAttacker app)   The Facade pattern basically says that you should simplify your methods so that much of what is done is in the background. In technical terms you should decouple the client from the sub components needed to perform an operation. (Bank app)  The Bridge Pattern is used to decouple an abstraction from its implementation so that the two can vary independently. Progressively adding functionality while separating out major differences using abstract classes. (EntertainmentDevice app)  In a Template Method pattern, you define a method (algorithm) in an abstract class. It contains both abstract methods and non-abstract methods. The subclasses that extend this abstract class then override those methods that don't make sense for them to use in the default way. (Sandwich app)  The Iterator pattern provides you with a uniform way to access different collections of Objects. You can also write polymorphic code because you can refer to each collection of objects because they'll implement the same interface. (SongIterator app)  The Composite design pattern is used to structure data into its individual parts as well as represent the inner workings of every part of a larger object. The composite pattern also allows you to treat both groups of parts in the same way as you treat the parts polymorphically. You can structure data, or represent the inner working of every part of a whole object individually. (SongComponent app)  The flyweight design pattern is used to dramatically increase the speed of your code when you are using many similar objects. To reduce memory usage the flyweight design pattern shares Objects that are the same rather than creating new ones. (FlyWeightTest app)  State Pattern allows an object to alter its behavior when its internal state changes. The object will appear to change its class. (ATMState)  The Proxy design pattern limits access to just the methods you want made accessible in another class. It can be used for security reasons, because an Object is intensive to create, or is accessed from a remote location. You can think of it as a gate keeper that blocks access to another Object. (TestATMMachine)  The Chain of Responsibility pattern has a group of objects that are expected to between them be able to solve a problem. If the first Object can't solve it, it passes the data to the next Object in the chain. (TestCalcChain)  The Interpreter pattern is used to convert one representation of data into another. The context cantains the information that will be interpreted. The expression is an abstract class that defines all the methods needed to perform the different conversions. The terminal or concrete expressions provide specific conversions on different types of data. (MeasurementConversion)  The Mediator design pattern is used to handle communication between related objects (Colleagues). All communication is handled by a Mediator Object and the Colleagues don't need to know anything about each other to work together. (TestStockMediator)  The Memento design pattern provides a way to store previous states of an Object easily. It has 3 main classes: 1) Memento: The basic object that is stored in different states.  2) Originator: Sets and Gets values from the currently targeted Memento. Creates new Mementos and assigns current values to them.  3) Caretaker: Holds an ArrayList that contains all previous versions of the Memento. It can store and retrieve stored Mementos. (TestMemento)  The Visitor design pattern allows you to add methods to classes of different types without much altering to those classes. You can make completely different methods depending on the class used with this pattern. (VisitorTest)""}",,27
+0,https://github.com/alecjacobson/computer-graphics-kinematics.git,Computer Graphics Assignment about Kinematics,,26
+0,https://github.com/lstein/Perl-GD.git,Perl GD module for bitmap graphics,,26
+0,https://github.com/longnguyen1997/comp_graphics.git,"{""Coursework for 6.837, MIT's Computer Graphics course.""}",,26
+0,https://github.com/MeeBlip/meeblip-design.git,"MeeBlip Panels, Layout, and Graphics",,26
+0,https://github.com/alpheccar/HPDF.git,Haskell library for PDF generation (graphics and typesetting),,26
+0,https://github.com/Meloman19/PersonaEditor.git,"Persona 3/4/5 File Editor: Text, Graphics, Containers.",,26
+0,https://github.com/ButchDean/interactive_computer_graphics.git,Interactive Computer Graphics by Edward Angel Linux Versions,"opengl,graphics,cpp,linux,shaders,edward-angel",26
+0,https://github.com/sswatson/MultivariableCalculus.tex.git,A multivariable calculus text with interactive 3D graphics,,26
+0,https://github.com/jeapostrophe/mode-lambda.git,mode-lambda - sprite-based 2D graphics engine,,26
+0,https://github.com/jimhourihan/gto.git,Production Kitchen Sink Computer Graphics File Format ,,26
+0,https://github.com/wonder-sk/qt3d-experiments.git,Experiments with 3D graphics using Qt3D framework,"qt5,qt3d,3d",26
+0,https://github.com/m22spencer/HxGL.git,haXe cross platform graphics library,,26
+0,https://github.com/visioncortex/visionmagic.git,Collection of vision & graphics algorithms,"computer-vision,computer-graphics",26
+0,https://github.com/johnBuffer/ZombieV.git,Top down Zombie shooter game in C++ using SFML as graphics library,"cpp11,cpp,sfml-game,sfml2,video-game,2d-game,zombie-survival-shooter,zombie",26
+0,https://github.com/DougLau/footile.git,A 2D vector graphics library written in Rust,"2d,vector,graphics,rust",26
+0,https://github.com/visioncortex/visioncortex.git,Core library for computer graphics & vision applications,"computer-vision,computer-graphics,rust",26
+0,https://github.com/jeremykross/to-glsl.git,For those who love graphics programming and hate shading languages,,26
+0,https://github.com/AdamHarte/ReMX.git,2D arcade game framework that uses the AS3 Stage3D API for GPU accelerated graphics rendering,,26
+0,https://github.com/triumphalLiu/DrawingBoard.git,NJU_Graphics_Homework / 计算机图形学课程大作业,"qt5,opengl,graphics,drawingboard",26
+0,https://github.com/rsanchezsaez/gltut-glfw.git,Xcode + GLFW 3 adaptation of the Learning Modern 3D Graphics Programming (http://www.arcsynthesis.org/gltut/) tutorials.,,26
+0,https://github.com/fanhuanji/rtl8125-driver-for-unraid-6.8.2.git,Unraid 6.8.2 & RTL8125 driver & Intel 10th Gen Integrated Graphics driver,unraid,26
+0,https://github.com/jhund/raphael.handdrawn.js.git,"A RaphaelJS plugin to give your vector graphics a hand drawn style. Great for sketch diagrams, charts and illustrations.",,26
+0,https://github.com/golang-ui/cairo.git,"Package cairo provides full Go bindings for Cairo, a 2D graphics library.","cairo,golang,gui,drawing,glfw,bindings",26
+0,https://github.com/Leterax/Visualization.git,A collection of demos related to graphics,,26
+0,https://github.com/microsoft/MixedReality-GraphicsTools-Unreal.git,Graphics tools and components for developing Mixed Reality applications in UE4.,,26
+0,https://github.com/ThomasMiz/TrippyGL.git,"A simple, lightweight yet highly versatile OpenGL graphics library","opengl,graphics,gamedev,csharp,3d-graphics,3d,graphics-library,game-development",26
+0,https://github.com/thesephist/typogram.git,"Small, minimalistic graphics for powerful ideas in a few words","torus-dom,paper-css,html2canvas",26
+0,https://github.com/syaltamimi/image-to-vector.git,Convert Pixel Image into Vector Graphics using Wolfram Language,,26
+0,https://github.com/michaeljclark/glkitty.git,Port of the OpenGL gears demo to kitty terminal graphics protocol,,26
+0,https://github.com/tmthrgd/ditaa-ditaa.git,ditaa-ditaa is a Jekyll plugin that leverages ditaa to convert diagrams drawn using ascii art into proper bitmap graphics. [Not maintained].,"jekyll,jekyll-ditaa,plugin,liquid,ditaa,diagram,ascii-art,ruby,kramdown,jekyll-plugin",26
+0,https://github.com/bchallenor/funslang.git,Funslang is a pure functional shading language for graphics processors. It borrows heavily from ML and Haskell.,,26
+0,https://github.com/bjpop/js-turtle.git,Turtle graphics in Javascript using HTML5 canvas,,25
+0,https://github.com/cdcseacave/VCG.git,The Visualization and Computer Graphics Library (VCG) fork of,,25
+0,https://github.com/jasongorski/libbpg-xcode.git,libbpg (BPG: Better Portable Graphics) Xcode iOS OSX Project,,25
