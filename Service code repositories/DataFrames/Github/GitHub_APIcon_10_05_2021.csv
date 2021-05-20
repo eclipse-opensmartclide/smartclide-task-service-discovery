@@ -1,11 +1,3 @@
-,Url,Description,Topics,Stars
-0,https://github.com/rdhyee/consuming-apis-with-python.git,Materials for my APICon 2014 talk (http://www.apiconsf.com/apiconschedule#how-to-consume),,7
-1,https://github.com/apicon-cc/Greeting.git,Hello Apicon!,,1
-2,https://github.com/api-stuff/hands-on-with-spectral.git,"Show-and-tell demo materials for APIcon, 14th April 2021",,1
-3,https://github.com/APICon-io/docs.git,This is the docs for APICon.io - The complete back-end of your software.,,1
-4,https://github.com/kaplanoah/camcam.git,"Intelligent surveillance system with alerts, built at APIcon SF by Programmable Web",,0
-5,https://github.com/internetchris/apicon-customer.git,apicon-customer,,0
-6,https://github.com/apicon-cc/go-api-sdk.git,Apicon API SDK for Go,,0
-7,https://github.com/HackCovid19brasil/hackathon-apicon-2020-plimm.git,hackathon-apicon-2020-plimm created by GitHub Classroom,,0
-8,https://github.com/bkkater/hackathon-apicon-2020-team-connect.git,hackathon-apicon-2020-team-connect created by GitHub Classroom,,0
-9,https://github.com/elgui1886/WebApiWithAngular.git,"Web Apicon asp net core (net framwork), angular ed entity framework code first",,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:508e6e377a9f0ef146c152e71cc856c2e7177d1e6cc5fc9957f72a8dd2e31441
+size 1167
