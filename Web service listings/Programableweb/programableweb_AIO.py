@@ -11,7 +11,6 @@
 !pip install lxml
 
 """
-
 import time
 from datetime import datetime
 import os
@@ -23,8 +22,9 @@ import concurrent.futures
 import requests
 import requests_random_user_agent
 from bs4 import BeautifulSoup
-import threading
+import re
 
+pd.options.mode.chained_assignment = None
 # List url processing
 
 
@@ -90,7 +90,7 @@ class ProgWeb:
         if df_temp.empty or forceListUpdate == True:
             print("List file " + listName +
                   " not found or force updated, downloading now.")
-            
+
             urls = []
             # Generate the new list
             for i in range(numPages):
@@ -106,12 +106,13 @@ class ProgWeb:
             #urls_splited = list(filter(None, urls_splited))
 
             tasks = []
-            
+
             with concurrent.futures.ThreadPoolExecutor(len(urls_splited)) as executor:
                 for split in range(len(urls_splited)):
-                    print("task launched")
-                    tasks.append(executor.submit(ProgWeb._download_list, urls_splited[split]))
-                        
+                    # print("task launched for list")
+                    tasks.append(executor.submit(
+                        ProgWeb._download_list, urls_splited[split]))
+
                 # Union
                 for result in tasks:
                     df_temp = df_temp.append(result.result())
@@ -120,7 +121,7 @@ class ProgWeb:
             print("List " + listName + " generated at: ", str(FILES_PATH))
 
             df_temp = df_temp.reset_index(drop=True)
-            
+
             df_temp.to_csv(str(FILES_PATH) + '/' + listName + '_' +
                            datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
 
@@ -129,24 +130,27 @@ class ProgWeb:
 
     # Meta url processing
     @staticmethod
-    def _download_meta_url(df_temp, batchName):
+    def _download_meta_url(df_temp, batchName, isAPI2):
         """
         Iterates over the input dataframe and accesses the metaurl 
         to collect data based in listType imput using requests and BeautifulSoup
 
         :param df_temp: DataFrame
         :param batchName: str
+        :param isAPI2: int
         :return DataFrame:
         """
-        print("_download_meta_url")
+    
         df_temp = df_temp.reset_index(drop=True)
 
         for i in range(len(df_temp)):
-            
-            meta_url = df_temp['Meta_Url'][i]
-            
-            
-            time.sleep(1) # sleep random?    
+
+            if isAPI2:
+                meta_url = df_temp['Meta_Meta_Url'][i]
+            else:
+                meta_url = df_temp['Meta_Url'][i]
+
+            time.sleep(1)  # sleep random?
             rq = requests.get(meta_url)
 
             while rq.status_code == 429:  # Too many rq
@@ -160,25 +164,32 @@ class ProgWeb:
             meta_soup = BeautifulSoup(meta_data, 'html.parser')
 
             # Update Description from the meta url, api-library LIB do not have description
-            if batchName == LIB_BATCH:
-                None
+            if batchName == LIB_BATCH:                
+                df_temp['Description'] = ""
+                meta_description = ""
             elif batchName == MASH_BATCH:
                 # TODO: simplificar
                 meta_description = str(meta_soup.find('div', class_='tabs-header_description')).partition(
-                    '">')[2].partition('</')[0].partition('">')[2].partition('">')[2].partition('">')[2]
-                df_temp['Description'][i] = meta_description
-            else:  # CODE, SDK, FRAME
+                    '">')[2].partition('</')[0].partition('">')[2].partition('">')[2].partition('">')[2]                
+            else:  # CODE, SDK, FRAME, API
                 meta_description = str(meta_soup.find(
-                    'div', class_='tabs-header_description')).partition('">')[2].partition('</')[0]
-                df_temp['Description'][i] = meta_description
+                    'div', class_='tabs-header_description')).partition('">')[2].partition('</div>')[0]
+        
+            # unicode escaping
+            df_temp['Description'][i] = [bytes(meta_description, 'utf-8').decode('unicode_escape') ]
 
-            # Get section specs and iterate the labels
-            meta_specs = meta_soup.find('div', class_='section specs')
-            
-            if meta_specs == None:
-             continue
-          
-            for lab in meta_specs.select("label"):
+            if (batchName == API_BATCH) and (df_temp['Meta_Meta_Url'][i] == ""):
+                meta_specs = meta_soup.find('div', class_='version-result-set')
+                selected = meta_specs.select("a")
+            else:
+                # Get section specs and iterate the labels
+                meta_specs = meta_soup.find('div', class_='section specs')
+                selected = meta_specs.select("label")
+
+            if selected == None:
+                continue
+
+            for lab in selected:
 
                 if batchName == MASH_BATCH:
                     # Search for Related APIs
@@ -378,9 +389,91 @@ class ProgWeb:
                         df_temp['Response Formats'][i] = lab.find_next_sibling().text
                         continue
                     continue
+
+                if batchName == API_BATCH:
+                    # GRAB META META URL
+                    if (str(lab).find("href=") > -1):
+                        r1 = re.findall(r"href ?= ?.(.*?)\"", str(lab))
+                        if (len(r1) < 0):
+                            # print("empty")
+                            continue
+                        else:
+                            # print(r1[0])
+                            head = "https://www.programmableweb.com"
+                            meta_meta_url = r1[0]
+                            df_temp['Meta_Meta_Url'] = head + meta_meta_url
+                            break
+
+                    # META META URL data
+                    if (lab.text.lower().find("endpoint") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Endpoint'][i] = lab.find_next_sibling().text
+                        continue
+
+                    if (lab.text.lower().find("portal") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Portal'][i] = lab.find_next_sibling().text
+                        continue
+
+                    if (lab.text.lower().find("primary") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Category'][i] = lab.find_next_sibling().text
+                        continue
+
+                    if (lab.text.lower().find("secondary") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        secondary = lab.find_next_sibling().text
+                        df_temp['Category'][i] = (
+                            df_temp['Category'][i] + secondary)
+                        continue
+
+                    if (lab.text.lower().find("provider") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Provider'][i] = lab.find_next_sibling().text
+                        continue
+
+                    if (lab.text.lower().find("authentication ") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Authentication'][i] = lab.find_next_sibling().text
+                        continue
+
+                    if (lab.text.lower().find("version status") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Version status'][i] = lab.find_next_sibling().text
+                        continue
+
+                    if (lab.text.lower().find("version") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Version'][i] = lab.find_next_sibling().text
+                        continue
+
+                    if (lab.text.lower().find("type") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Type'][i] = lab.find_next_sibling().text
+                        continue
+
+                    if (lab.text.lower().find("architectural ") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Architectural'][i] = lab.find_next_sibling().text
+                        continue
+
+                    if (lab.text.lower().find("request formats") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Request Formats'][i] = lab.find_next_sibling().text
+                        continue
                     
-               
-        print("List " + batchName + " generated at: ", str(FILES_PATH) + "\\"+ batchName)
+                    if (lab.text.lower().find("response formats") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Response Formats'][i] = lab.find_next_sibling().text
+                        continue
+
+                    if (lab.text.lower().find("unofficial") > -1):
+                        # print(lab.text + ": " + lab.find_next_sibling().text)
+                        df_temp['Unofficial'][i] = lab.find_next_sibling().text
+                        continue
+
+        print("List " + batchName + " generated at: ",
+              str(FILES_PATH) + "\\" + batchName)
         # Export the metacsv for handle updates
         df_temp.to_csv(str(FILES_PATH) + '/' + batchName + '/_' + str(len(df_temp)) + "_" + batchName + "_" +
                        datetime.now().strftime('%H_%M_%S_%f__%d_%m_%Y') + '.csv', index=True, header=True)
@@ -388,7 +481,7 @@ class ProgWeb:
         return df_temp
 
     @staticmethod
-    def download_meta_url(df, numSplits, listType, batchName):
+    def download_meta_url(df, numSplits, listType, batchName, isAPI):
         """
         Splits a dataframe and uses simultaneous executions to access the metaurl
         wirh _download_meta_url the information is collected and returned reseting the index
@@ -397,11 +490,12 @@ class ProgWeb:
         :param numSplits: int
         :param listType: str
         :param batchName: str
+        :param isAPI: int
         :return DataFrame:
         """
-    
+
         df_temp = pd.DataFrame()
-       
+
         # Split dataframe
         dt_splited = np.array_split(df, numSplits)  # max workers
 
@@ -411,15 +505,14 @@ class ProgWeb:
         # Batch folder to store the splits
         Utils.create_relative_folder(batchName)
         
-        print(len(dt_splited))
-        
         tasks = []
-        
+
         with concurrent.futures.ThreadPoolExecutor(len(dt_splited)) as executor:
             # Download splited dataframes with jobs
-            for split in range(len(dt_splited)):   
-                print("task launched")
-                tasks.append(executor.submit(ProgWeb._download_meta_url, dt_splited[split], batchName))
+            for split in range(len(dt_splited)):
+                # print("task launched")
+                tasks.append(executor.submit(
+                    ProgWeb._download_meta_url, dt_splited[split], batchName, not isAPI))
 
             # Union
             for result in tasks:
@@ -428,8 +521,9 @@ class ProgWeb:
         df_temp = df_temp.reset_index(drop=True)
 
         # Export the union of the splits
-        df_temp.to_csv(str(FILES_PATH) + '/' + listType + '_' +
-                       datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
+        if not isAPI:
+            df_temp.to_csv(str(FILES_PATH) + '/' + listType + '_' +
+                           datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
 
         return df_temp
 
@@ -509,7 +603,7 @@ def download_data(dataType, url, numPages, numWorkers, listName, batchName, forc
     df_temp = ProgWeb.download_list(url, numPages, numWorkers,
                                     listName, forceListUpdate)
 
-    #time.sleep(120)  # ?
+    # time.sleep(120)  # ?
     # Creates new columns based on type
 
     if dataType == FRAME_TYPE:
@@ -547,10 +641,33 @@ def download_data(dataType, url, numPages, numWorkers, listName, batchName, forc
         df_temp['URL'] = ""
         df_temp['Company'] = ""
         df_temp['App Type'] = ""
+    elif dataType == API_TYPE:
+        df_temp['Meta_Meta_Url'] = ""
+        df_temp['Category'] = ""
+        df_temp['Endpoint'] = ""
+        df_temp['Portal'] = ""
+        df_temp['Provider'] = ""
+        df_temp['Authentication'] = ""
+        df_temp['Version'] = ""
+        df_temp['Version status'] = ""
+        df_temp['Type'] = ""
+        df_temp['Architectural'] = ""
+        df_temp['Request Formats'] = ""
+        df_temp['Response Formats'] = ""
+        df_temp['Unofficial'] = ""
+        
+        # 1 call to get the meta meta URL, 2 call to get the data
+        print("download_meta_meta_url API")
+        df_temp = ProgWeb.download_meta_url(
+            df_temp, numWorkers, dataType, batchName, 1)
+        
+        df_temp.to_csv(str(FILES_PATH) + '/' + dataType + '_Meta2Url_' +
+                       datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
+
 
     print("download_meta_url")
     df_temp = ProgWeb.download_meta_url(
-        df_temp, numWorkers, dataType, batchName)
+        df_temp, numWorkers, dataType, batchName, 0)
 
     return df_temp
 
@@ -567,7 +684,7 @@ LIB_BATCH = "LIB_batch"
 LIB_TYPE = "LIB"
 
 MASH_URL = "https://www.programmableweb.com/category/all/mashups?page="
-MASH_PAGES =  ProgWeb.getNumPages(MASH_URL)  # 258
+MASH_PAGES = ProgWeb.getNumPages(MASH_URL)  # 258
 MASH_LIST = "MASH_list"
 MASH_BATCH = "MASH_batch"
 MASH_TYPE = "MASH"
@@ -579,19 +696,24 @@ FRAME_BATCH = "FRAME_batch"
 FRAME_TYPE = "FRAME"
 
 CODE_URL = "https://www.programmableweb.com/category/all/sample-source-code?page="
-CODE_PAGES =  ProgWeb.getNumPages(CODE_URL)  # 616
+CODE_PAGES = ProgWeb.getNumPages(CODE_URL)  # 616
 CODE_LIST = "CODE_list"
 CODE_BATCH = "CODE_batch"
 CODE_TYPE = "CODE"
 
 SDK_URL = "https://www.programmableweb.com/category/all/sdk&page="
-SDK_PAGES =  ProgWeb.getNumPages(SDK_URL)  # 776
+SDK_PAGES = ProgWeb.getNumPages(SDK_URL)  # 776
 SDK_LIST = "SDK_list"
 SDK_BATCH = "SDK_batch"
 SDK_TYPE = "SDK"
 
-"""### Wait btw types to avoid 429
+API_URL = "https://www.programmableweb.com/category/all/apis?page="
+API_PAGES = ProgWeb.getNumPages(API_URL)  # 892
+API_LIST = "API_list"
+API_BATCH = "API_batch"
+API_TYPE = "API"
 
+"""### Wait btw types to avoid 429
 TODO?: handle 429 with proxys?
 
 """
@@ -609,16 +731,20 @@ TODO?: handle 429 with proxys?
 # print("\nSDK")
 # df_frame = download_data(SDK_TYPE, SDK_URL, SDK_PAGES, 20,
 #                          SDK_LIST, SDK_BATCH, True)
-time.sleep(3600)  # 1h
+# time.sleep(3600)  # 1h
 
-print("\nMASH")
-df_frame = download_data(MASH_TYPE, MASH_URL, MASH_PAGES, 20,
-                         MASH_LIST, MASH_BATCH, False)
-time.sleep(3600) 
+# print("\nMASH")
+# df_frame = download_data(MASH_TYPE, MASH_URL, MASH_PAGES, 20,
+#                          MASH_LIST, MASH_BATCH, False)
+# time.sleep(3600)
 
-print("\nCODE")
-df_frame = download_data(CODE_TYPE, CODE_URL, CODE_PAGES, 20,
-                         CODE_LIST, CODE_BATCH, False)
+# print("\nCODE")
+# df_frame = download_data(CODE_TYPE, CODE_URL, CODE_PAGES, 20,
+#                          CODE_LIST, CODE_BATCH, False)
+# time.sleep(3600)
 
-print("\nFin")
+# print("\nAPI")
+# df_api = download_data(API_TYPE, API_URL, API_PAGES, 20,
+#                        API_LIST, API_BATCH, False)
 
+# print("\nFin")
