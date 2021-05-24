@@ -1,26 +1,37 @@
 # -*- coding: utf-8-sig -*-
-import subprocess, requests, re, concurrent.futures
+import subprocess, requests, re, concurrent.futures, requests_random_user_agent
 import pandas as pd
 import numpy as np
+from datetime import datetime
 
-base_url2 = "https://github.com/"
-base_url = "https://hub.docker.com/r/"
+# Initial vars
 limit = 100
+keywords = []
+base_url_gh = "https://github.com/"
+base_url_dk = "https://hub.docker.com/r/"
 
-def search_dockerhub_files(keyword):
-    print(keyword)
-    process = subprocess.Popen(['docker', 'search', '--limit', str(limit),'--no-trunc', keyword],
-                            stdout=subprocess.PIPE,
-                            universal_newlines=True) # stdout.decode('utf-8')
+def getInfoReposFromKw(keyword):
+    """
+    Create json list with all information from bitbucket search with keyword
 
+    :param keyword: str
+    :return List:
+    """
+    # Initial vars
     data = []
+
+    # Get data from keyword
+    print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \t"+keyword +" >> \tEMPEZANDO ")
+    process = subprocess.Popen(['docker', 'search', '--limit', str(limit),'--no-trunc', keyword], stdout=subprocess.PIPE, universal_newlines=True)
+
+    # Iterate all repos
     for i in range(1,limit):
-        print(str(i)+" / "+keyword)
+        print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \t"+keyword + " >> \t"+str(i))
         try:
-            output2 = process.stdout.readline()
+            datarepo = process.stdout.readline()
+            output = " ".join(re.split("\s+", datarepo, flags=re.UNICODE))
 
-            output = " ".join(re.split("\s+", output2, flags=re.UNICODE))
-
+            # Some fix response
             linea=output.split(" ")
             linea.append('')
             linea.append('')
@@ -28,11 +39,12 @@ def search_dockerhub_files(keyword):
             name = linea[0]
             linea[0] = ""
 
+            # If not first line
             if(name!="NAME"):
                 rx = re.compile(r'-?\d+(?:\.\d+)?')
-                nums = rx.findall(output2)
+                nums = rx.findall(datarepo)
                 if(len(nums)!=0):
-                    line = output2.split(nums[len(nums)-1])
+                    line = datarepo.split(nums[len(nums)-1])
                     if(len(line[1])==18):
                         off = "1"
                         aut = "0"
@@ -63,9 +75,9 @@ def search_dockerhub_files(keyword):
                         stars = 0
                         print(linea)
                         descr = linea
-                    url = f"{base_url}{name}"
-                    url2 = f"{base_url2}{name}"
-                    if(url!="{ base_url }"):
+                    url = f"{base_url_dk}{name}"
+                    url2 = f"{base_url_gh}{name}"
+                    if(url!="{ base_url_dk }"):
                         r = requests.get(url2)
                         if(r.status_code==404 or r.status_code==403):
                             url2 = "not found"
@@ -80,41 +92,49 @@ def search_dockerhub_files(keyword):
                         }
                         data.append(datarepo)
         except UnicodeDecodeError:
-            print("error")
+            print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \t"+keyword + " >> \tError")
     return data
 
-df_temp = []
+def getdata(keywords, num_Splits):
+    """
+    Get all data from keywords
 
-def process_(bulk, num_Splits):
-    global df_temp
-    # Split
-    bulk_splited  = np.array_split(bulk, num_Splits) # max workers
-
+    :param keywords: List
+    :param num_Splits: int
+    :return List:
+    """
+    # Initial function vars
+    data = []
     tasks = []
 
-    for split in range(len(bulk_splited)):
-        with concurrent.futures.ThreadPoolExecutor(max_workers = len(bulk_splited)) as executor:
-            for data in bulk_splited[split]:
-                tasks.append(executor.submit(search_dockerhub_files, data))
+    # Split keywords on max_workers
+    keywords_split  = np.array_split(keywords, num_Splits)
+
+    # Create all threads
+    for split in range(len(keywords_split)):
+        with concurrent.futures.ThreadPoolExecutor(max_workers = len(keywords_split)) as executor:
+            for kw in keywords_split[split]:
+                tasks.append(executor.submit(getInfoReposFromKw, kw))
 
             # iterate results
             for result in tasks:
-                if(type(result.result() is not list)):
+                if(type(result.result() is list)):
                     if(result.result() is not None):
-                        df_temp += result.result()
-            df = pd.json_normalize(data=df_temp)
-            df.to_csv('output_dockerhub.csv', index = False, encoding='utf-8-sig')
+                        data += result.result()
 
-    return df_temp
+    return data
 
-
-f = open("keywordsAll.txt")
-keywords = []
+# Take all keywords from file
+f = open("keywords.txt")
 for line in f:
     keywords.append(line.rstrip('\n'))
 f.close()
 
-df_final = pd.DataFrame()
-df_final = process_(keywords, 16)
-df = pd.json_normalize(data=df_final)
-df.to_csv('output_dockerhub.csv', index = False,encoding='utf-8-sig')
+# Get data
+data = getdata(keywords, 10)
+
+# Generate file
+print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \tGenerando fichero")
+df = pd.json_normalize(data=data)
+df.to_csv('outputs/dockerhub2_'+ datetime.now().strftime('%d_%m') + '.csv', index = False, encoding='utf-8-sig')
+print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \tListo! ")
