@@ -1,18 +1,32 @@
-import requests, json, re, concurrent.futures
-from datetime import datetime
+import requests, json, re, concurrent.futures, requests_random_user_agent
 import pandas as pd
 import numpy as np
 from config import config
+from datetime import datetime
 
-# Get info for repo url with api
-dataglobal = []
-def getrepos(keyword):
-    global dataglobal
-    data = []
+# Initial vars
+data = []
+tasks = []
+keywords = []
+
+def getInfoReposFromKw(keyword):
+    """
+    Create json list with all information from bitbucket search with keyword
+
+    :param keyword: str
+    :return List:
+    """
+    # Initial function vars
     page = 1
+    data = []
     ctrl = True
+    print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \t"+keyword +" >> \tEMPEZANDO ")
+
+    # Iterate all pages
     while(ctrl):
-        print(str(page) +" / "+keyword)
+
+        # Take information from page
+        print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \t"+kw + " >> \t"+str(page))
         url = f"https://gitlab.com/api/v4/search?scope=projects&search={keyword}&per_page=100&page={page}"
         headers = {
             'Authorization': config.access_token_gitlab
@@ -20,33 +34,38 @@ def getrepos(keyword):
         response = requests.request("GET", url, headers=headers)
         headers = response.headers
         respjson = response.json()
+
+        # Iterate all repos in jsons
         for repo in respjson:
+
+            # Some response fix
             if not isinstance(repo,dict):
-                print(repo)
+                print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \t"+kw + " >> \t"+repo)
                 continue
             if('description' not in repo):
-                repo['description'] = ""
+                desc = ""
             elif(repo['description'] is not None):
                 desc = " ".join(re.split("\s+", repo['description']))
             else:
                 desc =""
             if('id' not in repo): repo['id']= ""
             if('name' not in repo): repo['name']=""
-            if('name_with_namespace' not in repo): repo['name_with_namespace']=""
             if('path' not in repo): repo['path']=""
-            if('path_with_namespace' not in repo): repo['path_with_namespace']=""
-            if('created_at' not in repo): repo['created_at']=""
-            if('default_branch' not in repo): repo['default_branch']=""
-            if('tag_list' not in repo): repo['tag_list']=""
-            if('ssh_url_to_repo' not in repo): repo['ssh_url_to_repo']=""
-            if('http_url_to_repo' not in repo): repo['http_url_to_repo']=""
             if('web_url' not in repo): repo['web_url']=""
+            if('tag_list' not in repo): repo['tag_list']=""
+            if('created_at' not in repo): repo['created_at']=""
             if('readme_url' not in repo): repo['readme_url']=""
             if('avatar_url' not in repo): repo['avatar_url']=""
-            if('forks_count' not in repo): repo['forks_count']=""
             if('star_count' not in repo): repo['star_count']=""
+            if('forks_count' not in repo): repo['forks_count']=""
+            if('default_branch' not in repo): repo['default_branch']=""
+            if('ssh_url_to_repo' not in repo): repo['ssh_url_to_repo']=""
+            if('http_url_to_repo' not in repo): repo['http_url_to_repo']=""
             if('last_activity_at' not in repo): repo['last_activity_at']=""
+            if('name_with_namespace' not in repo): repo['name_with_namespace']=""
+            if('path_with_namespace' not in repo): repo['path_with_namespace']=""
 
+            # Create json repo
             datarepo = {
                 "id": repo['id'],
                 "description": desc ,
@@ -68,7 +87,7 @@ def getrepos(keyword):
                 "keyword": keyword
             }
 
-            dataglobal.append(datarepo)
+            # Add json repo to json list
             data.append(datarepo)
 
         # Check next pages
@@ -80,29 +99,29 @@ def getrepos(keyword):
             else:
                 ctrl = False
 
+    # Create dataframe from json list & create security copy csv
     df = pd.json_normalize(data=data)
-    df.to_csv(r'C:/Datos/Repos/pruebas/docker/outputs/output_gitlab_'+keyword.replace(" ","")+"_" + datetime.now().strftime('%d_%m_%Y') + '.csv', index = False)
+    df.to_csv('outputs/gitlab/gitlab2_'+keyword.replace(" ","")+"_" + datetime.now().strftime('%d_%m_%Y') + '.csv', index = False, encoding='utf-8-sig')
     return data
 
-# Get keywords
+# Take all keywords from file
 f = open("keywords.txt")
-keywords = []
 for line in f:
     keywords.append(line.rstrip('\n'))
 f.close()
 
-# Iterate keywordss
-data = []
-tasks = []
-with concurrent.futures.ThreadPoolExecutor(max_workers = 24) as executor:
+# Iterate keywords on thread
+with concurrent.futures.ThreadPoolExecutor(max_workers = 10) as executor:
     for kw in keywords:
-        print(kw)
-        tasks.append(executor.submit(getrepos, kw))
+        tasks.append(executor.submit(getInfoReposFromKw, kw))
 
-# iterate results
+# Iterate results
+print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \tTratando resultados")
 for result in tasks:
     data+=result.result()
-df = pd.json_normalize(data=data)
 
-print("Generando fichero")
-df.to_csv('output_gitlab2.csv', index = False)
+# Generate file
+print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \tGenerando fichero")
+df = pd.json_normalize(data=data)
+df.to_csv('outputs/gitlab2_'+ datetime.now().strftime('%d_%m') +'.csv', index = False, encoding='utf-8-sig')
+print("["+str(datetime.now().strftime('%H:%M:%S'))+"] \tListo! ")
