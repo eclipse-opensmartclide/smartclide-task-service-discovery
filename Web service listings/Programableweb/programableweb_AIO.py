@@ -41,12 +41,14 @@ class ProgWeb:
         df_temp = pd.DataFrame()
 
         for url in urlsSplited:
+            
+            time.sleep(0.1) # More?
 
-            rq = requests.get(url)
+            rq = requests.get(url, allow_redirects=False)
 
             while rq.status_code == 429:  # Too many rq
                 time.sleep(3600)  # 1h TODO: hanlde time
-                rq = requests.get(url)
+                rq = requests.get(url, allow_redirects=False)
                 if rq.status_code == 200:
                     break
 
@@ -82,6 +84,7 @@ class ProgWeb:
         :param numPages: int
         :param numWorkers: int
         :param listName: str
+        :param forceListUpdate: int
         :return DataFrame:
         """
         # Have we a list file?
@@ -140,9 +143,10 @@ class ProgWeb:
         :param isAPI2: int
         :return DataFrame:
         """
-    
+
         df_temp = df_temp.reset_index(drop=True)
 
+        # Drop rows with empty Meta_Url or Meta_Meta_Urls
         for i in range(len(df_temp)):
 
             if isAPI2:
@@ -151,11 +155,11 @@ class ProgWeb:
                 meta_url = df_temp['Meta_Url'][i]
 
             time.sleep(1)  # sleep random?
-            rq = requests.get(meta_url)
+            rq = requests.get(meta_url, allow_redirects=False)
 
             while rq.status_code == 429:  # Too many rq
                 time.sleep(3600)  # 1h TODO: hanlde time
-                rq = requests.get(meta_url)
+                rq = requests.get(meta_url, allow_redirects=False)
                 if rq.status_code == 200:
                     break
                 # Sleep?, proxy change?, user agent change?
@@ -163,24 +167,44 @@ class ProgWeb:
             meta_data = rq.text
             meta_soup = BeautifulSoup(meta_data, 'html.parser')
 
-            # Update Description from the meta url, api-library LIB do not have description
-            if batchName == LIB_BATCH:                
+            # Update Description from the meta url
+            #   api-library LIB_BATCH do not have description
+            if batchName == LIB_BATCH:
                 df_temp['Description'] = ""
                 meta_description = ""
             elif batchName == MASH_BATCH:
-                # TODO: simplificar
                 meta_description = str(meta_soup.find('div', class_='tabs-header_description')).partition(
-                    '">')[2].partition('</')[0].partition('">')[2].partition('">')[2].partition('">')[2]                
+                    '">')[2].partition('</')[0].partition('">')[2].partition('">')[2].partition('">')[2]
             else:  # CODE, SDK, FRAME, API
                 meta_description = str(meta_soup.find(
                     'div', class_='tabs-header_description')).partition('">')[2].partition('</div>')[0]
-        
-            # unicode escaping
-            df_temp['Description'][i] = [bytes(meta_description, 'utf-8').decode('unicode_escape') ]
 
+            # unicode escaping
+            df_temp['Description'][i] = [
+                bytes(meta_description, 'utf-8').decode('unicode_escape')]
+
+            # API and we dont have the meta meta url
             if (batchName == API_BATCH) and (df_temp['Meta_Meta_Url'][i] == ""):
-                meta_specs = meta_soup.find('div', class_='version-result-set')
-                selected = meta_specs.select("a")
+                meta_specs = meta_soup.find(id='version-details-field')
+                # If meta_specs here is None the page have redericted the rq
+                #   so we ignore it because progweb mark them as Deactivated and no info is given
+                if (meta_specs == None):
+                    continue
+
+                selected = meta_specs.select("div")
+                # href?
+                if (str(selected).find("href=") > -1):
+                    # select the text btw href=" text "
+                    r1 = re.findall(r"href ?= ?.(.*?)\"", str(selected))
+                    if (len(r1) < 0):
+                        # print("empty")
+                        continue
+                    else:
+                        # r1[-1] in case we have multiple entries in the list select the last one
+                        # ex> https://www.programmableweb.com/api/twitter
+                        df_temp['Meta_Meta_Url'][i] = "https://www.programmableweb.com" + r1[-1]
+                        continue
+
             else:
                 # Get section specs and iterate the labels
                 meta_specs = meta_soup.find('div', class_='section specs')
@@ -391,19 +415,6 @@ class ProgWeb:
                     continue
 
                 if batchName == API_BATCH:
-                    # GRAB META META URL
-                    if (str(lab).find("href=") > -1):
-                        r1 = re.findall(r"href ?= ?.(.*?)\"", str(lab))
-                        if (len(r1) < 0):
-                            # print("empty")
-                            continue
-                        else:
-                            # print(r1[0])
-                            head = "https://www.programmableweb.com"
-                            meta_meta_url = r1[0]
-                            df_temp['Meta_Meta_Url'] = head + meta_meta_url
-                            break
-
                     # META META URL data
                     if (lab.text.lower().find("endpoint") > -1):
                         # print(lab.text + ": " + lab.find_next_sibling().text)
@@ -461,7 +472,7 @@ class ProgWeb:
                         # print(lab.text + ": " + lab.find_next_sibling().text)
                         df_temp['Request Formats'][i] = lab.find_next_sibling().text
                         continue
-                    
+
                     if (lab.text.lower().find("response formats") > -1):
                         # print(lab.text + ": " + lab.find_next_sibling().text)
                         df_temp['Response Formats'][i] = lab.find_next_sibling().text
@@ -474,6 +485,7 @@ class ProgWeb:
 
         print("List " + batchName + " generated at: ",
               str(FILES_PATH) + "\\" + batchName)
+
         # Export the metacsv for handle updates
         df_temp.to_csv(str(FILES_PATH) + '/' + batchName + '/_' + str(len(df_temp)) + "_" + batchName + "_" +
                        datetime.now().strftime('%H_%M_%S_%f__%d_%m_%Y') + '.csv', index=True, header=True)
@@ -504,7 +516,7 @@ class ProgWeb:
 
         # Batch folder to store the splits
         Utils.create_relative_folder(batchName)
-        
+
         tasks = []
 
         with concurrent.futures.ThreadPoolExecutor(len(dt_splited)) as executor:
@@ -535,11 +547,11 @@ class ProgWeb:
         :param headUrl: string
         :return int:
         """
-        rq = requests.get(headUrl)
+        rq = requests.get(headUrl, allow_redirects=False)
 
         while rq.status_code == 429:  # Too many rq
             time.sleep(3600)  # 1h TODO: hanlde time
-            rq = requests.get(headUrl)
+            rq = requests.get(headUrl, allow_redirects=False)
             if rq.status_code == 200:
                 break
             # Sleep?, proxy change?, user agent change?, more error codes?
@@ -604,8 +616,8 @@ def download_data(dataType, url, numPages, numWorkers, listName, batchName, forc
                                     listName, forceListUpdate)
 
     # time.sleep(120)  # ?
-    # Creates new columns based on type
 
+    # Creates new columns based on type
     if dataType == FRAME_TYPE:
         df_temp['Languages'] = ""
         df_temp['Provider'] = ""
@@ -655,15 +667,25 @@ def download_data(dataType, url, numPages, numWorkers, listName, batchName, forc
         df_temp['Request Formats'] = ""
         df_temp['Response Formats'] = ""
         df_temp['Unofficial'] = ""
-        
-        # 1 call to get the meta meta URL, 2 call to get the data
-        print("download_meta_meta_url API")
+
+        print("download_meta_meta_url API")        
+        # First call to get the meta meta URL, 2 call to get the data
         df_temp = ProgWeb.download_meta_url(
             df_temp, numWorkers, dataType, batchName, 1)
-        
+
         df_temp.to_csv(str(FILES_PATH) + '/' + dataType + '_Meta2Url_' +
                        datetime.now().strftime('%d_%m_%Y') + '.csv', index=True, header=True)
 
+     # If is API TYPE here we dw the Meta_Meta_Url
+    if dataType == API_TYPE:
+        # If Meta_Meta_Url here is None the page have redericted the rq
+        #   so we ignore it because progweb mark them as Deactivated and no info is given
+        df_temp['Meta_Meta_Url'].replace('', np.nan, inplace=True)
+        df_temp.dropna(subset=['Meta_Meta_Url'], inplace=True)
+
+    # Just in case we dont have meta URL, drop the row
+    df_temp['Meta_Url'].replace('', np.nan, inplace=True)
+    df_temp.dropna(subset=['Meta_Url'], inplace=True)
 
     print("download_meta_url")
     df_temp = ProgWeb.download_meta_url(
@@ -672,7 +694,6 @@ def download_data(dataType, url, numPages, numWorkers, listName, batchName, forc
     return df_temp
 
 # CONSTANTS
-
 
 # Relative path
 FILES_PATH = Path(__file__).parent
@@ -744,7 +765,6 @@ TODO?: handle 429 with proxys?
 # time.sleep(3600)
 
 # print("\nAPI")
-# df_api = download_data(API_TYPE, API_URL, API_PAGES, 20,
+# df_api = download_data(API_TYPE, API_URL, API_PAGES, 30,
 #                        API_LIST, API_BATCH, False)
-
 # print("\nFin")
