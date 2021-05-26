@@ -208,7 +208,10 @@ class ProgWeb:
             else:
                 # Get section specs and iterate the labels
                 meta_specs = meta_soup.find('div', class_='section specs')
+                if (meta_specs == None):
+                    continue
                 selected = meta_specs.select("label")
+               
 
             if selected == None:
                 continue
@@ -614,7 +617,7 @@ def download_data(dataType, url, numPages, numWorkers, listName, batchName, forc
     """
     df_temp = ProgWeb.download_list(url, numPages, numWorkers,
                                     listName, forceListUpdate)
-
+    
     # time.sleep(120)  # ?
 
     # Creates new columns based on type
@@ -765,6 +768,11 @@ TODO?: handle 429 with proxys?
 # time.sleep(3600)
 
 # print("\nAPI")
-# df_api = download_data(API_TYPE, API_URL, API_PAGES, 30,
-#                        API_LIST, API_BATCH, False)
+# df_api = download_data(API_TYPE,
+#                        API_URL, 
+#                        API_PAGES,
+#                        30, # Num threads
+#                        API_LIST, 
+#                        API_BATCH,
+#                        False) # Force Update List
 # print("\nFin")
