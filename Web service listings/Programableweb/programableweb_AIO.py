@@ -1,7 +1,16 @@
 # -*- coding: utf-8 -*-
-############################ Copyrights and license ############################
-# David Berrocal (dabm-git)                                                    #
-################################################################################
+#
+# Copyright (c) 2021 AIR Institute - David Berrocal @dabm-git
+#
+# This file is part of SmartCLIDE 
+# (see  https://smartclide.eu/)
+#
+#
+# This program is distributed under Eclipse Public License 2.0
+# (see https://github.com/dabm-git/Service-discovery/blob/main/LICENSE/)
+#
+#
+#
 
 """ Programableweb
 
