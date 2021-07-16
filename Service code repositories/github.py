@@ -11,9 +11,10 @@ from github import RateLimitExceededException
 from github import GithubException
 
 ACCESS_TOKEN = ''  # Github persoal API
+
+# Connect
 g = Github(ACCESS_TOKEN)
 
-# We look at the readme and the project description
 
 def search_github_repos(keywords):
     global g
@@ -22,6 +23,7 @@ def search_github_repos(keywords):
     keywords = [keyword.strip() for keyword in keywords.split(',')]
 
     # The query is set
+    # We look at the readme and the project description
     query = '+'.join(keywords) + '+in:readme+in:description'
 
     result = g.search_repositories(query, 'stars', 'desc')
@@ -41,13 +43,11 @@ def search_github_repos(keywords):
         try: 
             for repo in result:
             
-                time.sleep(0.1)                
-                cloneUrl = str({repo.clone_url}).replace(
-                    "{'", "").replace("'}", "")
-                description = str({repo.description}).replace(
-                    "{'", "").replace("'}", "")
-                stars = str({repo.stargazers_count}).replace(
-                    "{", "").replace("}", "")
+                time.sleep(0.1)
+                
+                cloneUrl = str(repo.clone_url)
+                description = str(repo.description)
+                stars = str(repo.stargazers_count)
                 topics = ','.join(repo.get_topics())
 
                 df_repo = pd.DataFrame(
@@ -65,25 +65,19 @@ def search_github_repos(keywords):
             
             raise StopIteration
 
-        except StopIteration:
-            time.sleep(1)
+        except StopIteration:            
             break
-        
-        except GithubException:
-            print("\nGithubException 503 ?")            
-            time.sleep(30)            
-             
+                 
         except requests.exceptions.Timeout:
             print("\n Requests Timeout")
-            time.sleep(30)  
+            # Waint and relaunch
+            time.sleep(15)  
 
         except RateLimitExceededException:
-            # Tiempo de espera segun la doc es de 1h
+            # Tiempo de espera segUn la doc es de 1h
             print("\nRateLimitExceededException")
             print("Sleeping (1h)")
             time.sleep(3600)            
-            # Re-connect ?
-            g = Github(ACCESS_TOKEN)
 
     return df_temp
 
