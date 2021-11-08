@@ -6,11 +6,12 @@ from datetime import datetime
 import numpy as np
 import concurrent.futures
 
+
 from github import Github
 from github import RateLimitExceededException
 from github import GithubException
 
-ACCESS_TOKEN = ''  # Github persoal API
+ACCESS_TOKEN = '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'  # Github persoal API
 
 # Connect
 g = Github(ACCESS_TOKEN)
@@ -83,7 +84,7 @@ def search_github_repos(keywords):
 
 
 # Open file
-fileKw = open("./keywordsAll.txt")
+fileKw = open("./key.txt")
 
 # Launch tasks
 tasks = []
