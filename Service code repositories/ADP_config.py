@@ -1,12 +1,15 @@
-#
-# Copyright (c) 2021 AIR Institute - Adrian Diarte Prieto
-#
-# This file is part of smartclide
-# (see https://smartclide.eu/).
-#
-# This program is distributed under Eclipse Public License 2.0
-# (see https://github.com/adriandpdev/Smartclide_apitest/blob/main/LICENSE.md)
-#
+#*******************************************************************************
+# Copyright (C) 2022 AIR Institute
+# 
+# This program and the accompanying materials are made
+# available under the terms of the Eclipse Public License 2.0
+# which is available at https://www.eclipse.org/legal/epl-2.0/
+# 
+# SPDX-License-Identifier: EPL-2.0
+# 
+# Contributors:
+#    Adrian Diarte Prieto - initial API and implementation
+#*******************************************************************************
 
 class config():
     access_token_bitbucket = "REDACTED-REDACTED-REDACTED-REDACTED-REDACTED="
